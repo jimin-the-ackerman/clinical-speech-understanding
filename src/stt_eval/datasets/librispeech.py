@@ -30,14 +30,19 @@ def prepare(data_dir: Path) -> None:
     dest.mkdir(parents=True, exist_ok=True)
     tar = dest / "test-other.tar.gz"
     if not tar.exists():
+        tmp = tar.with_suffix(".part")
         print(f"downloading {URL} (~330 MB)")
         with httpx.stream("GET", URL, follow_redirects=True, timeout=None) as r:
             r.raise_for_status()
-            with open(tar, "wb") as f:
+            with open(tmp, "wb") as f:
                 for chunk in r.iter_bytes():
                     f.write(chunk)
+        tmp.rename(tar)
     with tarfile.open(tar) as tf:
-        tf.extractall(dest, filter="data")
+        try:
+            tf.extractall(dest, filter="data")
+        except TypeError:  # Python < 3.10.12/3.11.4 lacks the filter kwarg
+            tf.extractall(dest)
 
 
 def load(data_dir: Path) -> list[Record]:
