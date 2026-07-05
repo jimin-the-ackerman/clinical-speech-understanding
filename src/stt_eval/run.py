@@ -45,4 +45,10 @@ def main() -> None:
                 runner.transcribe_dataset(t, records, ds_name, args.results_dir, args.workers)
         return
     if args.cmd == "score":
-        raise SystemExit("score: not implemented yet")
+        from stt_eval.score import score, write_outputs
+
+        summary, per_file = score(args.results_dir)
+        write_outputs(summary, per_file, args.results_dir)
+        for row in summary:
+            print(row)
+        return
