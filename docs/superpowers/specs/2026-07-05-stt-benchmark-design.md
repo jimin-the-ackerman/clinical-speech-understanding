@@ -24,22 +24,32 @@ carry over to the Korean phase.
 | Compute | Local NVIDIA GPU(s) + remote GPU server; harness must run headless |
 | Approach | Minimal custom harness (not an existing eval framework) |
 
-## Model Lineup (7)
+## Model Lineup (8)
 
 Local (GPU):
 
 - `whisper-large-v3` — via faster-whisper
 - `whisper-large-v3-turbo` — via faster-whisper
-- `Qwen2-Audio-7B` — open audio-LLM representative; supports Korean
+- `Qwen3-ASR-0.6B` — dedicated open ASR (Apache-2.0), 30 languages incl. Korean;
+  speed/size reference point
+- `Qwen3-ASR-1.7B` — same family, SOTA open WER; transformers or vLLM backend,
+  long-form support
 
 Cloud APIs (all four support Korean, so phase 2 reuses them):
 
-- OpenAI `gpt-4o-transcribe`
+- OpenAI `gpt-4o-transcribe` (latest snapshot pinned at implementation)
 - Deepgram `nova-3-medical` (English round; Korean uses their multilingual model)
-- AssemblyAI `universal`
-- Soniox (current async STT model; exact model id pinned at implementation)
+- AssemblyAI `universal` (latest revision pinned at implementation)
+- Soniox `stt-async-v5`
 
-Dropped for lack of Korean support: NVIDIA Parakeet, NVIDIA Canary, Voxtral.
+Considered and excluded:
+
+- NVIDIA Parakeet, NVIDIA Canary, Voxtral — no Korean support.
+- Qwen2-Audio-7B — superseded as the open multilingual entry by the dedicated
+  Qwen3-ASR models.
+- OpenAI `gpt-realtime-2`, `gpt-audio-1.5`, `gpt-realtime-whisper`; Soniox `stt-rt-v5`
+  — voice-agent / audio-chat / streaming models, not batch transcription endpoints;
+  streaming evaluation is out of scope this phase.
 Korean-phase additions (verify APIs when we get there): Naver Clova Speech, RaonSpeech,
 Daglo, ReturnZero (VITO).
 
@@ -82,11 +92,11 @@ src/stt_eval/
   transcribers/        # one module per backend, registry name → factory
     base.py            # Transcriber protocol: transcribe(wav_path) -> str
     whisper_local.py   # faster-whisper: large-v3, large-v3-turbo
-    qwen_audio.py      # Qwen2-Audio
+    qwen3_asr.py       # Qwen3-ASR-0.6B / 1.7B
     openai_api.py      # gpt-4o-transcribe
     deepgram_api.py    # nova-3-medical
     assemblyai_api.py  # universal
-    soniox_api.py
+    soniox_api.py      # stt-async-v5
   datasets/            # each yields records: (file_id, wav_path, reference_text, condition)
     primock57.py       # download, channel-mix prep, TextGrid → reference
     meddialog_audio.py # HF loader, seeded subsample, materializes wavs, condition = SNR
