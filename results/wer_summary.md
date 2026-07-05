@@ -1,0 +1,4 @@
+| model | dataset | condition | n_scored | n_failed | n_empty_ref | wer | rtf |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| gpt-4o-transcribe | primock57 |  | 3 | 0 | 0 | 0.2402 | 0.0399 |
+| whisper-large-v3-turbo | librispeech-test-other |  | 20 | 0 | 0 | 0.0086 | 0.4089 |

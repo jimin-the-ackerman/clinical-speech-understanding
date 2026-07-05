@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0008",
+ "condition": null,
+ "reference": "HIS FATHER DYING IN MISERABLE CIRCUMSTANCES",
+ "audio_seconds": 4.13,
+ "created_at": "2026-07-05T08:39:50+00:00",
+ "failed": false,
+ "text": "his father dying in miserable circumstances",
+ "seconds": 2.618
+}
