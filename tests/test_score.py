@@ -55,3 +55,11 @@ def test_write_outputs(tmp_path):
     assert (tmp_path / "wer_per_file.csv").exists()
     md = (tmp_path / "wer_summary.md").read_text()
     assert "| model |" in md and "m1" in md
+
+
+def test_markdown_escapes_pipes(tmp_path):
+    _put(tmp_path, "ds", "m1", "f1", condition="snr|weird")
+    summary, per_file = score(tmp_path)
+    write_outputs(summary, per_file, tmp_path)
+    md = (tmp_path / "wer_summary.md").read_text()
+    assert "snr\\|weird" in md

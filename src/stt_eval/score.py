@@ -63,6 +63,7 @@ def write_outputs(summary: list[dict], per_file: list[dict], results_root: Path)
     _write_csv(results_root / "wer_per_file.csv", per_file)
     if summary:
         cols = list(summary[0])
+        esc = lambda v: str(v).replace("|", "\\|")  # noqa: E731
         lines = ["| " + " | ".join(cols) + " |", "| " + " | ".join("---" for _ in cols) + " |"]
-        lines += ["| " + " | ".join(str(r[c]) for c in cols) + " |" for r in summary]
+        lines += ["| " + " | ".join(esc(r[c]) for c in cols) + " |" for r in summary]
         (results_root / "wer_summary.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
