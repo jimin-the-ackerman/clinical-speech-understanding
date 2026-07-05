@@ -55,7 +55,7 @@ REGISTRY: dict[str, Callable[[], Transcriber]] = {
     "qwen3-asr-1.7b": _qwen("Qwen/Qwen3-ASR-1.7B"),
     "gpt-4o-transcribe": _openai,
     "deepgram-nova-3-medical": _deepgram,
-    "assemblyai-universal-3": _assemblyai,
+    "assemblyai-universal-3-5-pro": _assemblyai,
     "soniox-stt-async-v5": _soniox,
 }
 

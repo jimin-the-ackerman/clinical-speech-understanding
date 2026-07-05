@@ -14,7 +14,7 @@
 
 - Python `>=3.10`, uv-managed, src layout, hatchling build.
 - Test suite: no network, no GPU, no API keys required. Real model runs are manual (Task 14).
-- Model registry keys (exact): `whisper-large-v3`, `whisper-large-v3-turbo`, `qwen3-asr-0.6b`, `qwen3-asr-1.7b`, `gpt-4o-transcribe`, `deepgram-nova-3-medical`, `assemblyai-universal-3`, `soniox-stt-async-v5`.
+- Model registry keys (exact): `whisper-large-v3`, `whisper-large-v3-turbo`, `qwen3-asr-0.6b`, `qwen3-asr-1.7b`, `gpt-4o-transcribe`, `deepgram-nova-3-medical`, `assemblyai-universal-3-5-pro`, `soniox-stt-async-v5`.
 - Dataset registry keys (exact): `primock57`, `meddialog-audio`, `librispeech-test-other`.
 - Env vars (exact): `OPENAI_API_KEY`, `DEEPGRAM_API_KEY`, `ASSEMBLYAI_API_KEY`, `SONIOX_API_KEY`. Missing key ⇒ model skipped with a warning, never an error.
 - `data/` is gitignored; `results/` (transcripts, manifests, summaries) is committed.
@@ -449,7 +449,7 @@ EXPECTED_MODELS = {
     "whisper-large-v3", "whisper-large-v3-turbo",
     "qwen3-asr-0.6b", "qwen3-asr-1.7b",
     "gpt-4o-transcribe", "deepgram-nova-3-medical",
-    "assemblyai-universal-3", "soniox-stt-async-v5",
+    "assemblyai-universal-3-5-pro", "soniox-stt-async-v5",
 }
 
 
@@ -621,7 +621,7 @@ REGISTRY: dict[str, Callable[[], Transcriber]] = {
     "qwen3-asr-1.7b": _qwen("Qwen/Qwen3-ASR-1.7B"),
     "gpt-4o-transcribe": _openai,
     "deepgram-nova-3-medical": _deepgram,
-    "assemblyai-universal-3": _assemblyai,
+    "assemblyai-universal-3-5-pro": _assemblyai,
     "soniox-stt-async-v5": _soniox,
 }
 
@@ -2140,7 +2140,7 @@ uv run stt-eval score       # -> results/wer_summary.{csv,md}, results/wer_per_f
 
 Models: `whisper-large-v3`, `whisper-large-v3-turbo`, `qwen3-asr-0.6b`,
 `qwen3-asr-1.7b`, `gpt-4o-transcribe`, `deepgram-nova-3-medical`,
-`assemblyai-universal-3`, `soniox-stt-async-v5`.
+`assemblyai-universal-3-5-pro`, `soniox-stt-async-v5`.
 
 Transcripts are cached per file under `results/transcripts/` (committed);
 re-runs skip cached files, so interrupted runs resume and APIs are never
@@ -2233,7 +2233,7 @@ git commit -m "results: smoke-run transcripts (librispeech + primock57)"
 uv run stt-eval prepare --datasets librispeech-test-other,primock57,meddialog-audio
 uv run stt-eval transcribe --models whisper-large-v3,whisper-large-v3-turbo,qwen3-asr-0.6b,qwen3-asr-1.7b \
   --datasets librispeech-test-other,primock57,meddialog-audio
-uv run stt-eval transcribe --models gpt-4o-transcribe,deepgram-nova-3-medical,assemblyai-universal-3,soniox-stt-async-v5 \
+uv run stt-eval transcribe --models gpt-4o-transcribe,deepgram-nova-3-medical,assemblyai-universal-3-5-pro,soniox-stt-async-v5 \
   --datasets librispeech-test-other,primock57,meddialog-audio --workers 8
 uv run stt-eval score
 git add results/ && git commit -m "results: English round WER benchmark"

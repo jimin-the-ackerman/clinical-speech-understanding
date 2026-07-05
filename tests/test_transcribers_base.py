@@ -9,7 +9,7 @@ EXPECTED_MODELS = {
     "whisper-large-v3", "whisper-large-v3-turbo",
     "qwen3-asr-0.6b", "qwen3-asr-1.7b",
     "gpt-4o-transcribe", "deepgram-nova-3-medical",
-    "assemblyai-universal-3", "soniox-stt-async-v5",
+    "assemblyai-universal-3-5-pro", "soniox-stt-async-v5",
 }
 
 
