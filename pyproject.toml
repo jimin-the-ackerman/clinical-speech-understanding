@@ -1,0 +1,32 @@
+[project]
+name = "stt-eval"
+version = "0.1.0"
+description = "STT benchmark harness for clinical speech understanding"
+requires-python = ">=3.10"
+dependencies = [
+    "jiwer>=3.0",
+    "httpx>=0.27",
+    "soundfile>=0.12",
+    "textgrid>=1.6",
+    "regex>=2024.4.16",
+    "more-itertools>=10.0",
+]
+
+[project.optional-dependencies]
+data = ["datasets[audio]>=3.0"]
+# PIN AT EXECUTION: transformers floor = first release with native Qwen3-ASR
+# support, per https://huggingface.co/Qwen/Qwen3-ASR-1.7B model card.
+local = ["faster-whisper>=1.1", "transformers>=4.57", "torch>=2.4", "accelerate>=1.0"]
+
+[project.scripts]
+stt-eval = "stt_eval.run:main"
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
