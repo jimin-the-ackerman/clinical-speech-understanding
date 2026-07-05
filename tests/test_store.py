@@ -11,7 +11,18 @@ def test_record_defaults():
 
 def test_cache_path_sanitizes_file_id(tmp_path):
     p = store.cache_path(tmp_path, "ds", "model", "weird/id with spaces")
-    assert p == tmp_path / "transcripts" / "ds" / "model" / "weird_id_with_spaces.json"
+    assert p.parent == tmp_path / "transcripts" / "ds" / "model"
+    assert p.name.startswith("weird_id_with_spaces-")
+    assert p.suffix == ".json"
+    # unchanged-safe ids get no hash suffix
+    clean = store.cache_path(tmp_path, "ds", "model", "clean-id_1.x")
+    assert clean.name == "clean-id_1.x.json"
+
+
+def test_distinct_ids_never_collide(tmp_path):
+    a = store.cache_path(tmp_path, "ds", "m", "a/b")
+    b = store.cache_path(tmp_path, "ds", "m", "a_b")
+    assert a != b
 
 
 def test_write_then_read_roundtrip(tmp_path):

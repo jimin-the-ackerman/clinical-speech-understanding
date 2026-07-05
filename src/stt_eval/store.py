@@ -1,3 +1,4 @@
+import hashlib
 import json
 import os
 import re
@@ -6,7 +7,11 @@ from typing import Iterator
 
 
 def safe_id(file_id: str) -> str:
-    return re.sub(r"[^A-Za-z0-9._-]", "_", file_id)
+    sanitized = re.sub(r"[^A-Za-z0-9._-]", "_", file_id)
+    if sanitized != file_id:  # disambiguate: distinct ids must never collide
+        digest = hashlib.sha1(file_id.encode("utf-8")).hexdigest()[:8]
+        sanitized = f"{sanitized}-{digest}"
+    return sanitized
 
 
 def cache_path(root: Path, dataset: str, model: str, file_id: str) -> Path:
