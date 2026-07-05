@@ -38,3 +38,19 @@ def test_failure_recorded_not_raised(tmp_path, fake_transcriber, tiny_records, m
     row = json.loads(store.cache_path(tmp_path / "results", "ds", "fake", "utt1").read_text())
     assert row["failed"] is True
     assert "simulated failure" in row["error"]
+
+
+def test_unreadable_audio_recorded_as_failure(tmp_path, fake_transcriber, monkeypatch):
+    from pathlib import Path
+
+    from stt_eval.records import Record
+
+    monkeypatch.setattr("time.sleep", lambda s: None)
+    missing = Record("ghost", Path(tmp_path / "nope.wav"), "some reference")
+    t = fake_transcriber()
+    counts = runner.transcribe_dataset(t, [missing], "ds", tmp_path / "results")
+    assert counts == {"failed": 1}
+    row = json.loads(store.cache_path(tmp_path / "results", "ds", "fake", "ghost").read_text())
+    assert row["failed"] is True
+    assert row["audio_seconds"] is None
+    assert row["reference"] == "some reference"

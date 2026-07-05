@@ -20,11 +20,12 @@ def transcribe_record(t: Transcriber, rec: Record, dataset: str, results_root: P
         "file_id": rec.file_id,
         "condition": rec.condition,
         "reference": rec.reference,
-        "audio_seconds": round(sf.info(str(rec.audio_path)).duration, 2),
+        "audio_seconds": None,
         "created_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
     }
     start = time.perf_counter()
     try:
+        payload["audio_seconds"] = round(sf.info(str(rec.audio_path)).duration, 2)
         text = with_retries(lambda: t.transcribe(rec.audio_path))
         payload.update(failed=False, text=text)
     except Exception as e:  # failure is data here, not a crash
