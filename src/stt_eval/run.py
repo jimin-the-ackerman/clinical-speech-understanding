@@ -26,7 +26,12 @@ def build_parser() -> argparse.ArgumentParser:
 def main() -> None:
     args = build_parser().parse_args()
     if args.cmd == "prepare":
-        raise SystemExit("prepare: not implemented yet")
+        from stt_eval import datasets
+
+        for ds_name in args.datasets.split(","):
+            print(f"preparing {ds_name}")
+            datasets.prepare(ds_name, args.data_dir)
+        return
     if args.cmd == "transcribe":
         from stt_eval import datasets, runner, transcribers
         from stt_eval.transcribers.base import MissingKeyError
