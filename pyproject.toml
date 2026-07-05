@@ -14,9 +14,12 @@ dependencies = [
 
 [project.optional-dependencies]
 data = ["datasets[audio]>=3.0"]
-# PIN AT EXECUTION: transformers floor = first release with native Qwen3-ASR
-# support, per https://huggingface.co/Qwen/Qwen3-ASR-1.7B model card.
-local = ["faster-whisper>=1.1", "transformers>=4.57", "torch>=2.4", "accelerate>=1.0"]
+# PIN AT EXECUTION (verified 2026-07-05): native Qwen3-ASR support landed in
+# huggingface/transformers#43838 and first shipped in transformers v5.13.0
+# (2026-07-03); no earlier release contains it. See
+# https://huggingface.co/Qwen/Qwen3-ASR-1.7B-hf model card ("Transformers
+# native" usage) and src/stt_eval/transcribers/qwen3_asr.py.
+local = ["faster-whisper>=1.1", "transformers>=5.13", "torch>=2.4", "accelerate>=1.0"]
 
 [project.scripts]
 stt-eval = "stt_eval.run:main"

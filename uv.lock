@@ -2626,7 +2626,7 @@ requires-dist = [
     { name = "soundfile", specifier = ">=0.12" },
     { name = "textgrid", specifier = ">=1.6" },
     { name = "torch", marker = "extra == 'local'", specifier = ">=2.4" },
-    { name = "transformers", marker = "extra == 'local'", specifier = ">=4.57" },
+    { name = "transformers", marker = "extra == 'local'", specifier = ">=5.13" },
 ]
 provides-extras = ["data", "local"]
 
