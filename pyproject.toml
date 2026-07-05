@@ -22,7 +22,7 @@ local = ["faster-whisper>=1.1", "transformers>=4.57", "torch>=2.4", "accelerate>
 stt-eval = "stt_eval.run:main"
 
 [dependency-groups]
-dev = ["pytest>=8.0"]
+dev = ["pytest>=8.0", "numpy>=1.26"]
 
 [build-system]
 requires = ["hatchling"]

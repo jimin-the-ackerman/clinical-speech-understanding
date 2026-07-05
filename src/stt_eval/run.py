@@ -28,6 +28,21 @@ def main() -> None:
     if args.cmd == "prepare":
         raise SystemExit("prepare: not implemented yet")
     if args.cmd == "transcribe":
-        raise SystemExit("transcribe: not implemented yet")
+        from stt_eval import datasets, runner, transcribers
+        from stt_eval.transcribers.base import MissingKeyError
+
+        for ds_name in args.datasets.split(","):
+            records = datasets.load(ds_name, args.data_dir)
+            if args.limit:
+                records = records[: args.limit]
+            print(f"{ds_name}: {len(records)} records")
+            for model_name in args.models.split(","):
+                try:
+                    t = transcribers.create(model_name)
+                except MissingKeyError as e:
+                    print(f"[skip] {model_name}: {e}")
+                    continue
+                runner.transcribe_dataset(t, records, ds_name, args.results_dir, args.workers)
+        return
     if args.cmd == "score":
         raise SystemExit("score: not implemented yet")
