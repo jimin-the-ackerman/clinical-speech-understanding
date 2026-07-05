@@ -2,6 +2,7 @@
 
 Benchmarking STT models for a Korean healthcare "AI scribe". Phase 1: English
 medical audio. Design: `docs/superpowers/specs/2026-07-05-stt-benchmark-design.md`.
+Running the full benchmark on a GPU machine: `docs/gpu-runbook.md`.
 
 ## Setup
 
