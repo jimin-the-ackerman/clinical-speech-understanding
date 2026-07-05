@@ -20,7 +20,9 @@ from stt_eval.records import Record
 HF_REPO = "aline-gassenn/MedDialog-Audio"
 PER_CONDITION = 300
 SEED = 42
-MANIFEST = Path("results/manifests/meddialog_audio.json")
+# repo root (src layout); the harness runs from a checkout, manifest is committed
+_REPO_ROOT = Path(__file__).resolve().parents[3]
+MANIFEST = _REPO_ROOT / "results" / "manifests" / "meddialog_audio.json"
 
 # PIN AT EXECUTION — Step 4 findings (network schema inspection, 2026-07-05):
 # `load_dataset_builder(HF_REPO)` reports `features=None`/`splits=None`: this repo
@@ -85,16 +87,9 @@ def read_id_to_text(rows) -> dict[str, str]:
     }
 
 
-def prepare(data_dir: Path) -> None:
-    wavs = data_dir / "meddialog" / "wav"
-    if MANIFEST.exists() and wavs.exists():
-        return
-    from huggingface_hub import HfApi, hf_hub_download  # optional 'data' extra
-
-    wavs.mkdir(parents=True, exist_ok=True)
-    api = HfApi()
-    files = api.list_repo_files(HF_REPO, repo_type="dataset")  # metadata only
-
+def _list_wav_paths(api) -> tuple[dict[tuple[str, str], str], dict[str, list[str]]]:
+    """List repo files (metadata only) and derive (condition, base_id) -> path."""
+    files = api.list_repo_files(HF_REPO, repo_type="dataset")
     path_by_cond_id: dict[tuple[str, str], str] = {}
     ids_by_cond: dict[str, list[str]] = defaultdict(list)
     unparsed = 0
@@ -110,6 +105,47 @@ def prepare(data_dir: Path) -> None:
         ids_by_cond[cond].append(base_id)
     if unparsed:
         print(f"warning: skipped {unparsed} .wav files with unrecognized condition suffix")
+    return path_by_cond_id, ids_by_cond
+
+
+def _download_entries(
+    entries: list[dict], path_by_cond_id: dict[tuple[str, str], str], wavs: Path, hf_hub_download
+) -> None:
+    """Download exactly the wavs named by `entries` (manifest rows), skipping ones on disk."""
+    for e in entries:
+        cond, _, base_id = e["file_id"].partition("__")
+        out = wavs / f"{e['file_id']}.wav"
+        if out.exists():
+            continue
+        src = hf_hub_download(HF_REPO, path_by_cond_id[(cond, base_id)], repo_type="dataset")
+        shutil.copy(src, out)
+
+
+def prepare(data_dir: Path) -> None:
+    """Materialize wavs for the fixed subsample.
+
+    If MANIFEST already exists (the normal case: it's committed to the repo),
+    download exactly the files it lists and never touch it -- this keeps the
+    sample reproducible even if the upstream HF listing changes, and avoids
+    orphaning transcripts cached against the previous subsample. Only derive a
+    fresh subsample (and write MANIFEST) when it doesn't exist yet.
+    """
+    wavs = data_dir / "meddialog" / "wav"
+    wavs.mkdir(parents=True, exist_ok=True)
+
+    if MANIFEST.exists():
+        entries = json.loads(MANIFEST.read_text(encoding="utf-8"))
+        missing = [e for e in entries if not (wavs / f"{e['file_id']}.wav").exists()]
+        if missing:
+            from huggingface_hub import HfApi, hf_hub_download  # optional 'data' extra
+
+            path_by_cond_id, _ = _list_wav_paths(HfApi())
+            _download_entries(missing, path_by_cond_id, wavs, hf_hub_download)
+        return
+
+    from huggingface_hub import HfApi, hf_hub_download  # optional 'data' extra
+
+    path_by_cond_id, ids_by_cond = _list_wav_paths(HfApi())
 
     meta_path = hf_hub_download(HF_REPO, METADATA_FILE, repo_type="dataset")
     with open(meta_path, newline="", encoding="utf-8-sig") as fh:
@@ -117,15 +153,13 @@ def prepare(data_dir: Path) -> None:
 
     chosen = pick_subsample(ids_by_cond, PER_CONDITION, SEED)
 
-    manifest = []
-    for cond, ids in chosen.items():
-        for base_id in ids:
-            file_id = f"{cond}__{base_id}"
-            out = wavs / f"{file_id}.wav"
-            if not out.exists():
-                src = hf_hub_download(HF_REPO, path_by_cond_id[(cond, base_id)], repo_type="dataset")
-                shutil.copy(src, out)
-            manifest.append({"file_id": file_id, "condition": cond, "text": id_to_text[base_id]})
+    manifest = [
+        {"file_id": f"{cond}__{base_id}", "condition": cond, "text": id_to_text[base_id]}
+        for cond, ids in chosen.items()
+        for base_id in ids
+    ]
+    _download_entries(manifest, path_by_cond_id, wavs, hf_hub_download)
+
     MANIFEST.parent.mkdir(parents=True, exist_ok=True)
     MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"wrote {len(manifest)} entries to {MANIFEST}")

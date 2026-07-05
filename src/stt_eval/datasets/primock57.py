@@ -5,6 +5,7 @@ Audio ships as separate doctor/patient channel recordings; we mix them to one
 by time-ordering both speakers' TextGrid utterances.
 """
 
+import os
 import re
 import subprocess
 from pathlib import Path
@@ -50,12 +51,14 @@ def prepare(data_dir: Path) -> None:
         if out.exists():
             continue
         pat_wav = doc_wav.with_name(f"{stem}_patient.wav")
+        tmp_out = mixed / f"{stem}.tmp.wav"  # ffmpeg needs a real audio extension
         subprocess.run(
             ["ffmpeg", "-y", "-loglevel", "error", "-i", str(doc_wav), "-i", str(pat_wav),
              "-filter_complex", "[0:a][1:a]amix=inputs=2:duration=longest",
-             "-ar", "16000", "-ac", "1", "-c:a", "pcm_s16le", str(out)],
+             "-ar", "16000", "-ac", "1", "-c:a", "pcm_s16le", str(tmp_out)],
             check=True,
         )
+        os.replace(tmp_out, out)
 
 
 def load(data_dir: Path) -> list[Record]:

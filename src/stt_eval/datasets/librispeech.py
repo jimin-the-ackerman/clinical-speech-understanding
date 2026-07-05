@@ -3,6 +3,7 @@
 Audio stays as the original 16 kHz mono FLAC — every backend we use accepts FLAC.
 """
 
+import shutil
 import tarfile
 from pathlib import Path
 
@@ -38,11 +39,23 @@ def prepare(data_dir: Path) -> None:
                 for chunk in r.iter_bytes():
                     f.write(chunk)
         tmp.rename(tar)
+
+    # extract into a sibling temp dir first so an interrupted extract never
+    # leaves a partial LibriSpeech/test-other that passes the exists-check above
+    extract_tmp = dest / "extract.tmp"
+    shutil.rmtree(extract_tmp, ignore_errors=True)  # leftover from a prior interrupted run
+    extract_tmp.mkdir()
     with tarfile.open(tar) as tf:
         try:
-            tf.extractall(dest, filter="data")
+            tf.extractall(extract_tmp, filter="data")
         except TypeError:  # Python < 3.10.12/3.11.4 lacks the filter kwarg
-            tf.extractall(dest)
+            tf.extractall(extract_tmp)
+
+    target = dest / "LibriSpeech"
+    shutil.rmtree(target, ignore_errors=True)
+    (extract_tmp / "LibriSpeech").rename(target)
+    shutil.rmtree(extract_tmp, ignore_errors=True)
+    tar.unlink()
 
 
 def load(data_dir: Path) -> list[Record]:

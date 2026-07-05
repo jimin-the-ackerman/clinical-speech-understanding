@@ -63,3 +63,26 @@ def test_markdown_escapes_pipes(tmp_path):
     write_outputs(summary, per_file, tmp_path)
     md = (tmp_path / "wer_summary.md").read_text()
     assert "snr\\|weird" in md
+
+
+def test_divergent_references_across_models_warns_but_scores_normally(tmp_path, capsys):
+    _put(tmp_path, "ds", "m1", "f1", reference="a b c", text="a b c")
+    _put(tmp_path, "ds", "m2", "f1", reference="a b x", text="a b c")  # same file, drifted ref
+    summary, per_file = score(tmp_path)
+
+    out = capsys.readouterr().out
+    assert "divergent references" in out
+    assert "ds/f1" in out
+
+    # scoring itself is unaffected: each row is still scored against its own reference
+    assert len(summary) == 2
+    wer_by_model = {p["model"]: p["wer"] for p in per_file}
+    assert wer_by_model == {"m1": 0.0, "m2": round(1 / 3, 4)}
+
+
+def test_no_divergence_warning_when_references_agree(tmp_path, capsys):
+    _put(tmp_path, "ds", "m1", "f1", reference="a b c", text="a b c")
+    _put(tmp_path, "ds", "m2", "f1", reference="a b c", text="a x c")
+    score(tmp_path)
+    out = capsys.readouterr().out
+    assert "divergent references" not in out

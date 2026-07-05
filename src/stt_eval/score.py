@@ -7,12 +7,33 @@ from stt_eval import store
 from stt_eval.metrics import corpus_wer, file_wer
 from stt_eval.normalize import normalize_en
 
+# KOREAN-PHASE: ASCII-only; must become unicode-aware (\w) when CER/Korean lands
 _NON_ALNUM = re.compile(r"[^0-9a-zA-Z]")
 
 
+def _warn_divergent_references(rows: list[dict]) -> None:
+    """References are frozen into cache JSONs at transcribe time; if reference
+    building changes between runs, different models can end up scored against
+    different references for the same file with no signal. Flag it once."""
+    refs_by_file: dict[tuple[str, str], set[str]] = defaultdict(set)
+    for r in rows:
+        refs_by_file[(r["dataset"], r["file_id"])].add(r.get("reference") or "")
+    divergent = sorted(k for k, v in refs_by_file.items() if len(v) > 1)
+    if not divergent:
+        return
+    shown = ", ".join(f"{dataset}/{file_id}" for dataset, file_id in divergent[:5])
+    print(
+        f"[warn] {len(divergent)} file(s) have divergent references across models "
+        f"(re-transcribe or delete stale caches): {shown}"
+    )
+
+
 def score(results_root: Path) -> tuple[list[dict], list[dict]]:
+    rows = list(store.read_results(results_root))
+    _warn_divergent_references(rows)
+
     groups: dict[tuple, list[dict]] = defaultdict(list)
-    for r in store.read_results(results_root):
+    for r in rows:
         groups[(r["model"], r["dataset"], r.get("condition") or "")].append(r)
 
     summary, per_file = [], []

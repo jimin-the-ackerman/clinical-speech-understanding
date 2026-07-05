@@ -1,4 +1,6 @@
 import contextlib
+import io
+import tarfile
 
 import pytest
 
@@ -51,3 +53,43 @@ def test_interrupted_download_leaves_no_tarball(tmp_path, monkeypatch):
         librispeech.prepare(tmp_path)
     dest = tmp_path / "librispeech"
     assert not (dest / "test-other.tar.gz").exists()  # retry will re-download
+
+
+def _make_tar_gz(top_level: str, member: str, content: bytes) -> bytes:
+    buf = io.BytesIO()
+    with tarfile.open(fileobj=buf, mode="w:gz") as tf:
+        info = tarfile.TarInfo(name=f"{top_level}/{member}")
+        info.size = len(content)
+        tf.addfile(info, io.BytesIO(content))
+    return buf.getvalue()
+
+
+def test_prepare_extracts_atomically_and_cleans_up_tarball(tmp_path, monkeypatch):
+    tar_bytes = _make_tar_gz(
+        "LibriSpeech", "test-other/1/1/1-1-0000.trans.txt", b"1-1-0000 HELLO WORLD\n"
+    )
+    monkeypatch.setattr(
+        librispeech.httpx, "stream",
+        lambda *a, **k: _FakeStream([tar_bytes]),
+    )
+    librispeech.prepare(tmp_path)
+
+    dest = tmp_path / "librispeech"
+    assert (dest / "LibriSpeech" / "test-other" / "1" / "1" / "1-1-0000.trans.txt").exists()
+    assert not (dest / "test-other.tar.gz").exists()  # tarball cleaned up on success
+    assert not (dest / "extract.tmp").exists()  # temp extraction dir cleaned up
+
+
+def test_interrupted_extraction_leaves_no_partial_dataset(tmp_path, monkeypatch):
+    # a tarball with the wrong top-level directory simulates a broken/interrupted
+    # archive: extraction "succeeds" but there's no LibriSpeech/ to promote into place
+    tar_bytes = _make_tar_gz("not-librispeech", "file.txt", b"garbage\n")
+    monkeypatch.setattr(
+        librispeech.httpx, "stream",
+        lambda *a, **k: _FakeStream([tar_bytes]),
+    )
+    with pytest.raises(FileNotFoundError):
+        librispeech.prepare(tmp_path)
+
+    dest = tmp_path / "librispeech"
+    assert not (dest / "LibriSpeech" / "test-other").exists()
