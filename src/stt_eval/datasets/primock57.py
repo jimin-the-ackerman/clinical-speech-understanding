@@ -40,9 +40,8 @@ def prepare(data_dir: Path) -> None:
     if not repo.exists():
         dest.mkdir(parents=True, exist_ok=True)
         subprocess.run(["git", "clone", "--depth=1", REPO, str(repo)], check=True)
-        # audio/*.wav is stored via git-lfs; a plain clone leaves pointer
-        # files unless the lfs smudge filter is registered, so fetch explicitly.
-        subprocess.run(["git", "lfs", "pull"], cwd=str(repo), check=True)
+    # always: heals interrupted clones/pulls; no-op once objects are fetched
+    subprocess.run(["git", "lfs", "pull"], cwd=repo, check=True)
     mixed = dest / "mixed"
     mixed.mkdir(exist_ok=True)
     for doc_wav in sorted((repo / "audio").glob("*_doctor.wav")):
