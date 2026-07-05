@@ -1,5 +1,7 @@
 from pathlib import Path
 
+import soundfile as sf
+
 
 class Qwen3ASR:
     parallel_safe = False  # one GPU model instance; batching happens inside
@@ -29,9 +31,14 @@ class Qwen3ASR:
         )
 
     def transcribe(self, audio_path: Path) -> str:
+        # ~12 tokens/sec comfortably exceeds real English speech token rates, and
+        # generation stops at EOS anyway, so a generous cap costs nothing on short
+        # clips while avoiding silent truncation of ~10-minute consultations.
+        duration = sf.info(str(audio_path)).duration
+        max_new_tokens = max(512, int(duration * 12))
         inputs = self._processor.apply_transcription_request(
             audio=str(audio_path), language=self.language
         ).to(self._model.device, self._model.dtype)
-        output_ids = self._model.generate(**inputs, max_new_tokens=256)
+        output_ids = self._model.generate(**inputs, max_new_tokens=max_new_tokens)
         generated_ids = output_ids[:, inputs["input_ids"].shape[1] :]
         return self._processor.decode(generated_ids, return_format="transcription_only")[0]
