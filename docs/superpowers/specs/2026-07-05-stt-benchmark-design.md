@@ -39,7 +39,7 @@ Cloud APIs (all four support Korean, so phase 2 reuses them):
 
 - OpenAI `gpt-4o-transcribe` (latest snapshot pinned at implementation)
 - Deepgram `nova-3-medical` (English round; Korean uses their multilingual model)
-- AssemblyAI `universal` (latest revision pinned at implementation)
+- AssemblyAI `universal-3` (latest revision pinned at implementation)
 - Soniox `stt-async-v5`
 
 Considered and excluded:
@@ -95,7 +95,7 @@ src/stt_eval/
     qwen3_asr.py       # Qwen3-ASR-0.6B / 1.7B
     openai_api.py      # gpt-4o-transcribe
     deepgram_api.py    # nova-3-medical
-    assemblyai_api.py  # universal
+    assemblyai_api.py  # universal-3
     soniox_api.py      # stt-async-v5
   datasets/            # each yields records: (file_id, wav_path, reference_text, condition)
     primock57.py       # download, channel-mix prep, TextGrid → reference
