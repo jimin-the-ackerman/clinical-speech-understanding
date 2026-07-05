@@ -16,7 +16,7 @@ carry over to the Korean phase.
 ## Decisions Made
 
 | Decision | Choice |
-|---|---|
+| --- | --- |
 | Model scope | Both open models and commercial cloud APIs |
 | Eval scope | Transcription only — WER; no diarization, no note generation |
 | Datasets | PriMock57 + MedDialog-Audio + LibriSpeech test-other |
@@ -77,7 +77,7 @@ comparing our numbers against published results.
 
 ## Architecture
 
-```
+```text
 src/stt_eval/
   transcribers/        # one module per backend, registry name → factory
     base.py            # Transcriber protocol: transcribe(wav_path) -> str
