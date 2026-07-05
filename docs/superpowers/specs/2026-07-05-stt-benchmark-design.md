@@ -50,6 +50,7 @@ Considered and excluded:
 - OpenAI `gpt-realtime-2`, `gpt-audio-1.5`, `gpt-realtime-whisper`; Soniox `stt-rt-v5`
   — voice-agent / audio-chat / streaming models, not batch transcription endpoints;
   streaming evaluation is out of scope this phase.
+
 Korean-phase additions (verify APIs when we get there): Naver Clova Speech, RaonSpeech,
 Daglo, ReturnZero (VITO).
 
