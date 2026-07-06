@@ -1,7 +1,28 @@
+import json
+
 from stt_eval import store
 from stt_eval.entity_score import (
-    build_manifest, entity_hit, file_recall, load_manifest, score, write_manifest, write_outputs,
+    build_dictionary, build_manifest, dictionary_extractor, entity_hit, file_recall,
+    load_manifest, score, write_manifest, write_outputs,
 )
+
+
+def test_build_dictionary_filters_dedupes_restricts_to_clinical(tmp_path):
+    man = tmp_path / "m.json"
+    man.write_text(json.dumps([
+        {"dataset": "primock57", "file_id": "f1", "entities": ["Asthma", "the pain", "500", "a"]},
+        {"dataset": "meddialog-audio", "file_id": "g1", "entities": ["asthma", "Amoxicillin"]},
+        {"dataset": "librispeech-test-other", "file_id": "l1", "entities": ["IRON"]},  # excluded
+    ]))
+    terms = build_dictionary([man], ("primock57", "meddialog-audio"))
+    # normalized+deduped ("Asthma"/"asthma" -> one), determiner stripped, "500"/"a" dropped, librispeech excluded
+    assert terms == ["amoxicillin", "asthma", "pain"]
+
+
+def test_dictionary_extractor_longest_match_and_occurrences():
+    ext = dictionary_extractor({("chest", "pain"), ("pain",), ("asthma",)})
+    assert ext("acute chest pain and asthma") == ["chest pain", "asthma"]  # not "pain" inside "chest pain"
+    assert ext("pain then pain") == ["pain", "pain"]  # per-occurrence
 
 
 def _put(root, dataset, model, file_id, reference, text, **kw):

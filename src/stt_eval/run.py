@@ -68,7 +68,7 @@ def main() -> None:
         from stt_eval.entity_score import build_manifest, extractor_for, write_manifest
 
         out = args.out or args.results_dir / "entity_manifests" / f"{args.method}.json"
-        entries = build_manifest(args.results_dir, extractor_for(args.method))
+        entries = build_manifest(args.results_dir, extractor_for(args.method, args.results_dir))
         write_manifest(entries, out)
         n_ents = sum(len(e["entities"]) for e in entries)
         print(f"wrote {len(entries)} files, {n_ents} entities to {out}")

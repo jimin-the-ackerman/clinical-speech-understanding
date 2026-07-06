@@ -123,14 +123,63 @@ def write_outputs(summary: list[dict], results_root: Path, name: str) -> None:
 
 # --- extractors: one per entity-identification method ----------------------
 
-def extractor_for(method: str):
+def extractor_for(method: str, results_root: Path | None = None):
     """Return extract(text) -> [surface forms] for a named method. Each method's
     heavy deps are imported only when that method is chosen."""
     if method == "bc5cdr":
         return _scispacy_extractor("en_ner_bc5cdr_md")
     if method == "ner-union":
         return _ner_union_extractor()
+    if method == "dictionary":
+        path = (results_root or Path("results")) / "entity_dictionaries" / "medical_terms.txt"
+        return dictionary_extractor(load_dictionary(path))
     raise SystemExit(f"entity method {method!r} is not implemented yet")
+
+
+# --- dictionary method: frozen gazetteer, offline string matching ----------
+
+def build_dictionary(manifest_paths: list[Path], datasets, min_chars: int = 2) -> list[str]:
+    """Seed a medical-term gazetteer from NER manifests: collect entity surface
+    forms from the given (clinical) datasets, normalize, drop single-char and
+    pure-numeric noise, dedupe. The output is inspectable and hand-editable;
+    deeper curation (pruning dose strings, LLM-proposed additions) is a follow-up."""
+    terms: set[str] = set()
+    for p in manifest_paths:
+        for e in json.loads(Path(p).read_text(encoding="utf-8")):
+            if e["dataset"] not in datasets:
+                continue
+            for surface in e["entities"]:
+                t = " ".join(_norm_tokens(_strip_determiner(surface)))
+                if len(t) >= min_chars and not t.isdigit():
+                    terms.add(t)
+    return sorted(terms)
+
+
+def load_dictionary(path: Path) -> set[tuple]:
+    lines = [ln for ln in Path(path).read_text(encoding="utf-8").splitlines() if ln.strip()]
+    return {tuple(ln.split()) for ln in lines}
+
+
+def dictionary_extractor(grams: set[tuple]):
+    """extract(text) -> gazetteer terms present in text, by greedy non-overlapping
+    longest match (so "chest pain" counts once, not also "chest" + "pain"), keeping
+    per-occurrence counts like the NER span methods."""
+    maxn = max((len(g) for g in grams), default=1)
+
+    def extract(text: str) -> list[str]:
+        toks = _norm_tokens(text)
+        found, i = [], 0
+        while i < len(toks):
+            for n in range(min(maxn, len(toks) - i), 0, -1):
+                if tuple(toks[i : i + n]) in grams:
+                    found.append(" ".join(toks[i : i + n]))
+                    i += n
+                    break
+            else:
+                i += 1
+        return found
+
+    return extract
 
 
 def _dedupe_ci(items: list[str]) -> list[str]:
@@ -143,7 +192,10 @@ def _dedupe_ci(items: list[str]) -> list[str]:
     return out
 
 
-_LEADING_DET = re.compile(r"^(?:a|an|the|your|my|our|his|her|their|its)\s+", re.IGNORECASE)
+_LEADING_DET = re.compile(
+    r"^(?:a|an|the|this|that|these|those|some|any|your|my|our|his|her|their|its)\s+",
+    re.IGNORECASE,
+)
 
 
 def _strip_determiner(s: str) -> str:
