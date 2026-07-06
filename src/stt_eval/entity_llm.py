@@ -35,3 +35,46 @@ def _parse_entity_list(raw: str) -> list[str]:
     if not isinstance(items, list):
         return []
     return _dedupe_ci([s.strip() for s in items if isinstance(s, str) and s.strip()])
+
+
+# --- shared prompt ---------------------------------------------------------
+
+_SYSTEM = (
+    "You are a clinical NLP annotator. From a transcript of a medical consultation, "
+    "extract the clinically important terms: medications and drugs, dosages, diagnoses, "
+    "conditions and symptoms, procedures, tests and investigations, anatomy, and clinical "
+    "findings. Do NOT include greetings, filler, or generic non-clinical words. Return each "
+    "term using its EXACT surface form as it appears in the text — do not normalize, correct, "
+    "expand abbreviations, or invent terms not present. Respond with ONLY a JSON array of strings."
+)
+
+
+def _user(reference: str) -> str:
+    return f"Transcript:\n{reference}\n\nJSON array of clinical terms:"
+
+
+# --- OpenRouter route: general frontier model, keyed, parallel-safe --------
+
+def openrouter_extractor(model_id: str, client=None):
+    import httpx
+
+    from stt_eval.transcribers.base import require_env, with_retries
+
+    key = require_env("OPENROUTER_API_KEY")
+    client = client or httpx.Client(timeout=120)
+
+    def extract(reference: str) -> list[str]:
+        def call():
+            r = client.post(
+                "https://openrouter.ai/api/v1/chat/completions",
+                headers={"Authorization": f"Bearer {key}"},
+                json={"model": model_id, "temperature": 0,
+                      "messages": [{"role": "system", "content": _SYSTEM},
+                                   {"role": "user", "content": _user(reference)}]},
+            )
+            r.raise_for_status()
+            return r.json()["choices"][0]["message"]["content"]
+        return _parse_entity_list(with_retries(call))
+
+    extract.parallel_safe = True
+    return extract

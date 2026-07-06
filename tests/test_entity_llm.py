@@ -1,4 +1,34 @@
-from stt_eval.entity_llm import _parse_entity_list
+import httpx
+import pytest
+
+from stt_eval.entity_llm import _parse_entity_list, openrouter_extractor
+
+
+def _client(handler):
+    return httpx.Client(transport=httpx.MockTransport(handler))
+
+
+def test_openrouter_extracts_and_sends_correct_request(monkeypatch):
+    monkeypatch.setenv("OPENROUTER_API_KEY", "or-test")
+    seen = {}
+    def handler(request):
+        seen["path"] = request.url.path
+        seen["auth"] = request.headers["authorization"]
+        seen["body"] = request.content
+        return httpx.Response(200, json={"choices": [{"message": {"content": '["asthma"]'}}]})
+    ext = openrouter_extractor("anthropic/claude-opus-4.8", client=_client(handler))
+    assert ext("patient has asthma") == ["asthma"]
+    assert seen["path"] == "/api/v1/chat/completions"
+    assert seen["auth"] == "Bearer or-test"
+    assert b'"temperature":0' in seen["body"] and b"anthropic/claude-opus-4.8" in seen["body"]
+    assert ext.parallel_safe is True
+
+
+def test_openrouter_missing_key_raises(monkeypatch):
+    monkeypatch.delenv("OPENROUTER_API_KEY", raising=False)
+    from stt_eval.transcribers.base import MissingKeyError
+    with pytest.raises(MissingKeyError):
+        openrouter_extractor("anthropic/claude-opus-4.8")
 
 
 def test_parse_bare_array():

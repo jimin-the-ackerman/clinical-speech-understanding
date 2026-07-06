@@ -148,7 +148,7 @@ def write_outputs(summary: list[dict], results_root: Path, name: str) -> None:
 
 # --- extractors: one per entity-identification method ----------------------
 
-def extractor_for(method: str, results_root: Path | None = None):
+def extractor_for(method: str, results_root: Path | None = None, model: str | None = None):
     """Return extract(text) -> [surface forms] for a named method. Each method's
     heavy deps are imported only when that method is chosen."""
     if method == "bc5cdr":
@@ -158,6 +158,11 @@ def extractor_for(method: str, results_root: Path | None = None):
     if method == "dictionary":
         path = (results_root or Path("results")) / "entity_dictionaries" / "medical_terms.txt"
         return dictionary_extractor(load_dictionary(path))
+    if method in ("llm", "openrouter"):
+        from stt_eval.entity_llm import openrouter_extractor
+        if not model:
+            raise SystemExit("--model required (e.g. anthropic/claude-opus-4.8)")
+        return openrouter_extractor(model)
     raise SystemExit(f"entity method {method!r} is not implemented yet")
 
 
