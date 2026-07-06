@@ -20,6 +20,9 @@ def build_parser() -> argparse.ArgumentParser:
     eb = sub.add_parser("entity-build", help="extract reference entities to a frozen manifest")
     eb.add_argument("--method", required=True, help="entity-id method (e.g. bc5cdr)")
     eb.add_argument("--out", type=Path, default=None, help="manifest path (default by method)")
+    eb.add_argument("--model", default=None, help="model id for llm/openrouter/medgemma")
+    eb.add_argument("--workers", type=int, default=8, help="parallel workers for API extractors")
+    eb.add_argument("--limit", type=int, default=None, help="only first N unique references")
 
     es = sub.add_parser("entity-score", help="medical-term recall from an entity manifest")
     es.add_argument("--manifest", type=Path, required=True, help="entity manifest to score")
@@ -65,13 +68,20 @@ def main() -> None:
             print(row)
         return
     if args.cmd == "entity-build":
+        from stt_eval import store
         from stt_eval.entity_score import build_manifest, extractor_for, write_manifest
 
-        out = args.out or args.results_dir / "entity_manifests" / f"{args.method}.json"
-        entries = build_manifest(args.results_dir, extractor_for(args.method, args.results_dir))
+        extract = extractor_for(args.method, args.results_dir, args.model)
+        llm = args.method in {"medgemma", "llm", "openrouter"}
+        cache_dir = args.results_dir / "entity_cache" / args.method if llm else None
+        workers = args.workers if getattr(extract, "parallel_safe", False) else 1
+        slug = args.method + (f"_{store.safe_id(args.model)}" if args.model else "")
+        out = args.out or args.results_dir / "entity_manifests" / f"{slug}.json"
+        entries = build_manifest(args.results_dir, extract, cache_dir=cache_dir,
+                                 workers=workers, limit=args.limit)
         write_manifest(entries, out)
-        n_ents = sum(len(e["entities"]) for e in entries)
-        print(f"wrote {len(entries)} files, {n_ents} entities to {out}")
+        print(f"wrote {len(entries)} files, "
+              f"{sum(len(e['entities']) for e in entries)} entities to {out}")
         return
     if args.cmd == "entity-score":
         from stt_eval.entity_score import load_manifest, score, write_outputs
