@@ -19,13 +19,28 @@ data = ["datasets[audio]>=3.0"]
 # (2026-07-03); no earlier release contains it. See
 # https://huggingface.co/Qwen/Qwen3-ASR-1.7B-hf model card ("Transformers
 # native" usage) and src/stt_eval/transcribers/qwen3_asr.py.
-local = ["faster-whisper>=1.1", "transformers>=5.13", "torch>=2.4", "accelerate>=1.0"]
+# torchcodec: transformers v5 decodes audio through it; declared here so the
+# cu126 source pin below applies (the default PyPI wheel is a CUDA-13 build).
+local = ["faster-whisper>=1.1", "transformers>=5.13", "torch>=2.4", "accelerate>=1.0", "torchcodec>=0.14"]
 
 [project.scripts]
 stt-eval = "stt_eval.run:main"
 
 [dependency-groups]
 dev = ["pytest>=8.0", "numpy>=1.26"]
+
+# CUDA-12.6 torch wheels on Linux: default PyPI torch is cu13x, which needs
+# driver >=580 and ships libs CTranslate2 (faster-whisper) can't use — CT2 is
+# built against CUDA 12 (libcublas.so.12/libcudnn.so.9, provided by torch's
+# nvidia-*-cu12 deps). cu126 runs on any driver >=525.
+[tool.uv.sources]
+torch = [{ index = "pytorch-cu126", marker = "sys_platform == 'linux'" }]
+torchcodec = [{ index = "pytorch-cu126", marker = "sys_platform == 'linux'" }]
+
+[[tool.uv.index]]
+name = "pytorch-cu126"
+url = "https://download.pytorch.org/whl/cu126"
+explicit = true
 
 [build-system]
 requires = ["hatchling"]
