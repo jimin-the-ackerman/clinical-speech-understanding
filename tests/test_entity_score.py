@@ -70,6 +70,34 @@ def test_build_manifest_dedups_by_file(tmp_path):
     assert by_id["f2"] == ["eczema"]
 
 
+def test_build_manifest_resumable_caches_and_skips(tmp_path):
+    _put(tmp_path, "ds", "m1", "f1", reference="asthma here", text="x")
+    _put(tmp_path, "ds", "m1", "f2", reference="cough here", text="y")
+    calls = []
+    def extract(ref):
+        calls.append(ref)
+        if "cough" in ref:
+            raise RuntimeError("boom")   # not cached -> retried next run
+        return ["asthma"]
+    cache = tmp_path / "cache"
+    entries = build_manifest(tmp_path, extract, cache_dir=cache, workers=1)
+    by_id = {e["file_id"]: e["entities"] for e in entries}
+    assert by_id == {"f1": ["asthma"], "f2": []}          # f2 failed -> []
+    assert (cache / "ds" / "f1.json").exists()
+    assert not (cache / "ds" / "f2.json").exists()          # failure uncached
+    # resume: f1 skipped (cached), only f2 retried
+    calls.clear()
+    build_manifest(tmp_path, extract, cache_dir=cache, workers=1)
+    assert calls == ["cough here"]
+
+
+def test_build_manifest_limit(tmp_path):
+    _put(tmp_path, "ds", "m1", "f1", reference="a", text="x")
+    _put(tmp_path, "ds", "m1", "f2", reference="b", text="y")
+    entries = build_manifest(tmp_path, lambda r: [r], limit=1)
+    assert len(entries) == 1
+
+
 def test_manifest_roundtrip(tmp_path):
     entries = [{"dataset": "ds", "file_id": "f1", "entities": ["asthma"]}]
     write_manifest(entries, tmp_path / "m.json")

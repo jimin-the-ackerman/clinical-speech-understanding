@@ -19,6 +19,7 @@ import csv
 import json
 import re
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 from stt_eval import store
@@ -49,19 +50,43 @@ def file_recall(entities: list[str], hyp: str) -> tuple[int, int]:
 
 # --- build: method-specific, run once, frozen to a manifest ---------------
 
-def build_manifest(results_root: Path, extract) -> list[dict]:
-    """Run `extract(reference) -> [surface forms]` over each unique (dataset,
-    file_id) and return manifest entries. The same reference recurs across every
-    model in the cache, so it is extracted once."""
-    seen: dict[tuple, dict] = {}
+def _unique_references(results_root: Path, limit: int | None = None) -> list[tuple]:
+    """(dataset, file_id, reference) for each unique file, sorted. The same
+    reference recurs across every model in the cache; keep the first seen."""
+    seen: dict[tuple, str] = {}
     for r in store.read_results(results_root):
-        key = (r["dataset"], r["file_id"])
-        if key not in seen:
-            seen[key] = {
-                "dataset": r["dataset"], "file_id": r["file_id"],
-                "entities": extract(r["reference"]),
-            }
-    return [seen[k] for k in sorted(seen)]
+        seen.setdefault((r["dataset"], r["file_id"]), r["reference"])
+    keys = sorted(seen)
+    if limit:
+        keys = keys[:limit]
+    return [(d, f, seen[(d, f)]) for d, f in keys]
+
+
+def build_manifest(results_root, extract, cache_dir=None, workers=1, limit=None) -> list[dict]:
+    """Run extract(reference)->[surface forms] over each unique (dataset,file_id).
+    With cache_dir set, results are cached per reference (skip-if-exists) and
+    extraction is parallelized — a crashed/expensive LLM run resumes and never
+    re-bills. cache_dir=None is the original serial in-memory path."""
+    refs = _unique_references(results_root, limit)
+    if cache_dir is None:
+        return [{"dataset": d, "file_id": f, "entities": extract(ref)} for d, f, ref in refs]
+
+    def work(item):
+        d, f, ref = item
+        cp = Path(cache_dir) / d / f"{store.safe_id(f)}.json"
+        if cp.exists():
+            return json.loads(cp.read_text(encoding="utf-8"))
+        try:
+            entry = {"dataset": d, "file_id": f, "entities": extract(ref)}
+            store.write_result(cp, entry)          # atomic; leaves failures uncached
+            return entry
+        except Exception as e:
+            print(f"[entity-build] {d}/{f} failed: {e!r}")
+            return {"dataset": d, "file_id": f, "entities": []}
+
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        entries = list(ex.map(work, refs))
+    return sorted(entries, key=lambda e: (e["dataset"], e["file_id"]))
 
 
 def write_manifest(entries: list[dict], path: Path) -> None:
