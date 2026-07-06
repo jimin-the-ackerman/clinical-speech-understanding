@@ -131,6 +131,31 @@ scoring. Published entity-ASR metrics ship as paper code, not maintained librari
   ([Gassenn et al., SBBD DSW 2025](https://sol.sbc.org.br/index.php/dsw/article/download/37199/36984/);
   [dataset](https://huggingface.co/datasets/aline-gassenn/MedDialog-Audio)).
 
+## Validation on our results (2026-07-06)
+
+Design A (`stt-eval entity-score`, scispaCy `en_ner_bc5cdr_md`, exact contiguous
+token match) run over the 6-model English round. Does entity recall reveal
+anything WER does not?
+
+- **It mostly tracks WER**, as PriMock57 warned: Pearson(WER, recall) = **-0.969**
+  across all 54 rows. Do not treat recall as an independent signal.
+- **But it reranks the winner on 2 of 9 dataset/condition groups**, including the
+  one that matters most. On **PriMock57** (real consultation audio) WER ranks
+  `qwen3-asr-1.7b > soniox > qwen-0.6b > turbo > whisper-v3 > gpt-4o`, while
+  medical-term recall ranks `soniox > qwen-1.7b > whisper-v3 > turbo > qwen-0.6b >
+  gpt-4o`. Two findings fall out: Soniox overtakes qwen-1.7b for best medical-term
+  fidelity, and **whisper-large-v3 jumps from 5th on WER to 3rd on recall** — its
+  errors are concentrated in function words, not clinical terms, which plain WER
+  cannot show. qwen-0.6b moves the opposite way (3rd → 5th).
+- **It restates the gpt-4o noise collapse in clinical terms.** On MedDialog
+  white_noise_6/10, gpt-4o recall is 0.0014 / 0.000 — literally zero medical terms
+  survive, a starker statement than "96-97% WER" for a scribe use case.
+
+Conclusion: worth keeping as a reported-alongside column, mainly for the PriMock57
+rerank and the clinical readability of the noise-failure rows — not as a
+WER replacement. Margins on the PriMock57 flip are modest (~19 entities / 2056
+between soniox and qwen-1.7b); treat small recall gaps as noise.
+
 ## Open questions
 
 - **MTRA formula unverified.** MedDialog-Audio names and plots MTRA but the accessible
