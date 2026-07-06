@@ -8,6 +8,12 @@ STT benchmarking for a Korean healthcare "AI scribe" (phase 1: English).
 Spec: `docs/superpowers/specs/2026-07-05-stt-benchmark-design.md`.
 Plan: `docs/superpowers/plans/2026-07-05-stt-benchmark-harness.md`.
 
+**Current work (2026-07-07): `docs/entity-metric-comparison.md`** — live status of the
+medical-term-recall exercise (3 of 4 entity methods done; LLM method awaits
+`OPENROUTER_API_KEY` and/or a local MedGemma run) and the OSCE/Fareez dataset
+(loader done, data downloaded, transcription is a pending paid checkpoint). Read it
+before resuming that work.
+
 ## Commands
 
 - `uv sync --group dev` — install (extras: `--extra data`, `--extra local`)
