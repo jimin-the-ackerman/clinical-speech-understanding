@@ -13,6 +13,10 @@ def _preload_cuda_libs():
         return
     for mod in (nvidia.cublas.lib, nvidia.cudnn.lib):
         for so in sorted(Path(mod.__path__[0]).glob("*.so.*")):
+            # never load libnvblas: it intercepts BLAS calls process-wide and
+            # segfaults anything doing CPU math (e.g. Qwen in the same run)
+            if so.name.startswith("libnvblas"):
+                continue
             try:
                 ctypes.CDLL(str(so), mode=ctypes.RTLD_GLOBAL)
             except OSError:
