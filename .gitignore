@@ -219,6 +219,8 @@ __marimo__/
 
 # stt-eval
 data/
+# per-reference LLM entity cache (scratch; frozen manifests are the committed record)
+results/entity_cache/
 
 # agent tooling (installed skills, per-machine)
 .agents/

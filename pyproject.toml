@@ -25,6 +25,10 @@ local = ["faster-whisper>=1.1", "transformers>=5.13", "torch>=2.4", "accelerate>
 # entity-recall metric (stt-eval entity-score). scispaCy pins its own spacy
 # range; the NER model wheel is installed separately (see load_scispacy_extractor).
 entities = ["scispacy>=0.5"]
+# entity LLM method (method 4): OpenRouter needs no new deps (httpx is core).
+# MedGemma reuses the `local` extra + a bitsandbytes overlay for 4-bit:
+#   uv run --extra local --with bitsandbytes --env-file .env stt-eval entity-build --method medgemma
+# google/medgemma-27b-text-it is gated: needs HF_TOKEN + license acceptance.
 
 [project.scripts]
 stt-eval = "stt_eval.run:main"
