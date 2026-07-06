@@ -17,6 +17,7 @@ Two deliberately separate stages so we can compare entity-identification methods
 
 import csv
 import json
+import re
 from collections import defaultdict
 from pathlib import Path
 
@@ -127,7 +128,51 @@ def extractor_for(method: str):
     heavy deps are imported only when that method is chosen."""
     if method == "bc5cdr":
         return _scispacy_extractor("en_ner_bc5cdr_md")
+    if method == "ner-union":
+        return _ner_union_extractor()
     raise SystemExit(f"entity method {method!r} is not implemented yet")
+
+
+def _dedupe_ci(items: list[str]) -> list[str]:
+    seen, out = set(), []
+    for x in items:
+        k = x.lower().strip()
+        if k and k not in seen:
+            seen.add(k)
+            out.append(x)
+    return out
+
+
+_LEADING_DET = re.compile(r"^(?:a|an|the|your|my|our|his|her|their|its)\s+", re.IGNORECASE)
+
+
+def _strip_determiner(s: str) -> str:
+    return _LEADING_DET.sub("", s).strip()
+
+
+def _ner_union_extractor():
+    """Med7 (drug / dosage / route / frequency) plus Stanza i2b2 (problem / test /
+    treatment). i2b2 supersets bc5cdr's disease+chemical and is the only model that
+    catches procedures and tests (ECG, thyroid profile, X-ray); Med7 alone gets the
+    numeric dosages. bc5cdr pins spacy<3.8 and Med7 pins spacy>=3.8, so they cannot
+    share an env — bc5cdr stays a separate baseline manifest."""
+    import spacy
+
+    med7 = spacy.load("en_core_med7_lg")
+    import stanza
+
+    procs = {"tokenize": "mimic", "ner": "i2b2"}
+    stanza.download("en", processors=procs, verbose=False)  # i2b2 model is not bundled
+    i2b2 = stanza.Pipeline("en", processors=procs, download_method=None, verbose=False)
+
+    def extract(text: str) -> list[str]:
+        ents = [e.text for e in med7(text).ents]
+        # i2b2 spans include leading determiners ("your electrocardiogram"); strip
+        # so recall matches the medical term, not the article
+        ents += [_strip_determiner(e.text) for e in i2b2(text).ents]
+        return _dedupe_ci(ents)
+
+    return extract
 
 
 def _scispacy_extractor(model: str):
