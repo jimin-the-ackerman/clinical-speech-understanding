@@ -22,6 +22,9 @@ data = ["datasets[audio]>=3.0"]
 # torchcodec: transformers v5 decodes audio through it; declared here so the
 # cu126 source pin below applies (the default PyPI wheel is a CUDA-13 build).
 local = ["faster-whisper>=1.1", "transformers>=5.13", "torch>=2.4", "accelerate>=1.0", "torchcodec>=0.14"]
+# entity-recall metric (stt-eval entity-score). scispaCy pins its own spacy
+# range; the NER model wheel is installed separately (see load_scispacy_extractor).
+entities = ["scispacy>=0.5"]
 
 [project.scripts]
 stt-eval = "stt_eval.run:main"

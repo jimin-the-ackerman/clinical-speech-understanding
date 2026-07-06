@@ -17,6 +17,9 @@ def build_parser() -> argparse.ArgumentParser:
 
     sub.add_parser("score", help="compute WER tables from cached transcripts")
 
+    es = sub.add_parser("entity-score", help="medical-term recall from cached transcripts")
+    es.add_argument("--model", default="en_ner_bc5cdr_md", help="scispaCy NER model")
+
     for q in (prep, tr):
         q.add_argument("--data-dir", type=Path, default=Path("data"))
     p.add_argument("--results-dir", type=Path, default=Path("results"))
@@ -54,6 +57,14 @@ def main() -> None:
 
         summary, per_file = score(args.results_dir)
         write_outputs(summary, per_file, args.results_dir)
+        for row in summary:
+            print(row)
+        return
+    if args.cmd == "entity-score":
+        from stt_eval.entity_score import load_scispacy_extractor, score, write_outputs
+
+        summary = score(args.results_dir, load_scispacy_extractor(args.model))
+        write_outputs(summary, args.results_dir)
         for row in summary:
             print(row)
         return
