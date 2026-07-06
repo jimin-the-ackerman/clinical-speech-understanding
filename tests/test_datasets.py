@@ -10,7 +10,8 @@ from stt_eval.datasets.librispeech import parse_trans_file
 
 
 def test_dataset_names():
-    assert datasets.DATASETS == ("primock57", "meddialog-audio", "librispeech-test-other")
+    assert datasets.DATASETS == (
+        "primock57", "meddialog-audio", "librispeech-test-other", "fareez-interviews")
 
 
 def test_unknown_dataset():

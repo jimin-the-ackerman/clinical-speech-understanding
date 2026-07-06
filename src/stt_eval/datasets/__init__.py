@@ -3,12 +3,13 @@ from pathlib import Path
 
 from stt_eval.records import Record
 
-DATASETS = ("primock57", "meddialog-audio", "librispeech-test-other")
+DATASETS = ("primock57", "meddialog-audio", "librispeech-test-other", "fareez-interviews")
 
 _MODULES = {
     "primock57": "primock57",
     "meddialog-audio": "meddialog_audio",
     "librispeech-test-other": "librispeech",
+    "fareez-interviews": "fareez",
 }
 
 

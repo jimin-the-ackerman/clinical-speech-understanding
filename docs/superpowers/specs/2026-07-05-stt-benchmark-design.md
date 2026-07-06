@@ -159,9 +159,12 @@ results/
 
 ## Backlog (English-phase follow-ups)
 
-- **Fareez et al. 2022 simulated patient-physician interviews** as a 4th dataset
-  (candidate name: `fareez-interviews`). 272 OSCE-style interviews, ~55 h, avg ~12 min,
-  speaker-tagged manually corrected transcripts, CC-BY 4.0. Source the Figshare original
+- **Fareez et al. 2022 simulated patient-physician interviews** — IMPLEMENTED as
+  `fareez-interviews` (`datasets/fareez.py`). 272 OSCE-style interviews, ~51 h, avg
+  ~12 min, verbatim D:/P: transcripts (disfluencies preserved — WER-trustworthy),
+  **CC0** (Figshare metadata; the paper says CC-BY, Figshare says CC0). Single
+  ~1 GB `Data.zip`, 16 kHz mono MP3 (reads through soundfile/libsndfile >=1.1).
+  Merged to one reference per interview like PriMock57. Source: Figshare
   (DOI `10.6084/m9.figshare.c.5545842.v1`, paper `10.1038/s41597-022-01423-1`), not the
   Kaggle re-upload. Value: ~5x PriMock57's reference mass for the long-form
   clinical-dialogue condition. Caveats: Teams-recorded clean MP3 audio, so it
