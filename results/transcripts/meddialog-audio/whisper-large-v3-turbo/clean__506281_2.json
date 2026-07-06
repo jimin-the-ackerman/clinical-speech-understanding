@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__506281_2",
+ "condition": "clean",
+ "reference": "Hi. The causes of fullness and pain in the lower abdomen, along with loss of appetite, can be due to enteritis, typhoid, and other intestinal problems. This is a natural response when there is an intestinal infection or some other reason; the first thing the body does is respond with a loss of appetite as a protective mechanism. I would advise blood tests: Complete Blood Count, Widal for typhoid, culture and sensitivity of the blood for typhoid, and liver function tests, as hepatitis is one of the important reasons for loss of appetite. Ultrasonography may be required, depending on the examination by the doctor, who would then prescribe the appropriate treatment. This cannot be caused by urinary bladder infections.",
+ "audio_seconds": 42.24,
+ "created_at": "2026-07-06T04:44:27+00:00",
+ "failed": false,
+ "text": "Hi. The causes of fullness and pain in the lower abdomen, along with loss of appetite, can be due to enteritis, typhoid, and other intestinal problems. This is a natural response when there is an intestinal infection or some other reason. The first thing the body does is respond with a loss of appetite as a protective mechanism. I would advise blood tests, complete blood count, vital for typhoid, culture and sensitivity of the blood for typhoid, and liver function tests, as hepatitis is one of the important reasons for loss of appetite. Ultrasonography may be required, depending on the examination by the doctor, who would then prescribe the appropriate treatment. This cannot be caused by urinary bladder infections.",
+ "seconds": 0.425
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__255398_1",
+ "condition": "background_noise_40",
+ "reference": "I got hit by a car while on a bicycle and the only thing that was affected was my left leg. At the time, my leg looked like the muscle next to my shin had been dented, but I could still walk on it without any problem. Now my leg has no pain; however, a small patch near the shin feels numb and devoid of sensation.",
+ "audio_seconds": 20.39,
+ "created_at": "2026-07-06T04:54:08+00:00",
+ "failed": false,
+ "text": "I got hit by a car while on a bicycle, and the only thing that was affected was my left leg. At the time, my leg looked like the muscle next to my shin had been dented, but I could still walk on it without any problem. Now my leg has no pain. However, a small patch near the shin feels numb and devoid of sensation.",
+ "seconds": 0.681
+}

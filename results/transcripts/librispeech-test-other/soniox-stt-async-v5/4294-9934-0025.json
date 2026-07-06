@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-9934-0025",
+ "condition": null,
+ "reference": "I HAVE TEN FRANCS LEFT SAID MARIUS",
+ "audio_seconds": 2.65,
+ "created_at": "2026-07-06T02:26:15+00:00",
+ "failed": false,
+ "text": "I have 10 francs left, said Marius.",
+ "seconds": 4.614
+}

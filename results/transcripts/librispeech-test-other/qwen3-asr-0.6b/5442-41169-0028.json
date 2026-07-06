@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41169-0028",
+ "condition": null,
+ "reference": "SAID LEVIN RETURNING TO A THOUGHT THAT HAD STRUCK HIM",
+ "audio_seconds": 3.7,
+ "created_at": "2026-07-06T03:21:30+00:00",
+ "failed": false,
+ "text": "Said Levin, returning to a thought that had struck him.",
+ "seconds": 0.162
+}

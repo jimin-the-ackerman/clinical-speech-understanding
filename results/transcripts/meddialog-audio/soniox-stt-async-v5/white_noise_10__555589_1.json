@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__555589_1",
+ "condition": "white_noise_10",
+ "reference": "My husband was just released from the hospital and was on blood thinners to help what was first diagnosed as a stroke, but the MRI showed it was not a stroke. He is forty-nine years old, in good health, and his blood work was good. He has developed a knot on the inside of his right knee about the size of a marble that appeared suddenly.",
+ "audio_seconds": 17.83,
+ "created_at": "2026-07-06T03:02:33+00:00",
+ "failed": false,
+ "text": "My husband just got released from the hospital after his arm bled too, and I told you his first diagnosis was a stroke, but the MRI shows it was not a stroke. He is 49 years old, in good health, and his blood work is good. He has developed a knot on the affected right hand, about the size of a marble by his parents' son, who—",
+ "seconds": 4.886
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__245584_2",
+ "condition": "white_noise_2",
+ "reference": "Well, Chronic Obstructive Pulmonary Disease is a possibility, but it is a remote one, especially a rare variety called Alpha-one Antitrypsin Deficiency. However, I am considering a more probable cause, something related to the heart, as the symptoms you have been experiencing may be paroxysmal nocturnal dyspnea. Given your age, heart disease is still a possibility. You might also be having some breathing difficulty due to excess weight, which may be related to obesity. At the same time, it is possible that you may have some depressive illness, sleep-related problems, or a panic attack. At home, you can measure your Body Mass Index and try to normalize it by reducing your weight, minimize mental or physical stressors, and if the difficulty breathing continues, contact a physician nearby.",
+ "audio_seconds": 50.26,
+ "created_at": "2026-07-06T00:46:23+00:00",
+ "failed": false,
+ "text": "So, I'm about to deepen into style. But even though the puppy is a purple elephant, I still need to make sure that my lines are perfect. But then I'll need to cut between two lines in the most smooth and continuous way. Even if the script is still possible, you must be mindful when you look for the best angles to cut through the sky. That way, you can identify muscle tension and know whether the reason why the lines I'm supposed to cut first. And if the script is easy to manage, I'm going to put you on the side.",
+ "seconds": 2.72
+}

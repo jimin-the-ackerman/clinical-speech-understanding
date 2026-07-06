@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__675547_2",
+ "condition": "white_noise_2",
+ "reference": "When bone cracking occurs, it takes around two to four weeks to heal, sometimes up to six weeks. This is normal. Avoid heavy work, take rest, and maintain a good diet; these will help the bones to heal quickly.",
+ "audio_seconds": 13.65,
+ "created_at": "2026-07-06T05:37:18+00:00",
+ "failed": false,
+ "text": "When bone cracking occurs, it takes around two to four weeks to heal, sometimes up to six weeks. This is normal. Avoid heavy work, take rest, and maintain a good diet. These will help the bones to heal quickly.",
+ "seconds": 0.477
+}

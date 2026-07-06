@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__174369_1",
+ "condition": "white_noise_10",
+ "reference": "My little daughter was born on thirty March two thousand and nine. Everything is fine with her, but while walking, we notice that her legs have a curved shape. We thought it might be because of putting her in a trolley, but someone told us that she is experiencing rickets, which is why it is like that. She walks, but we can see her legs are curved. What is rickets and how should we address it?",
+ "audio_seconds": 22.78,
+ "created_at": "2026-07-06T04:28:57+00:00",
+ "failed": false,
+ "text": "I know what I've done and what's going on, but you know, think all the time you want to do it. Everything is fine with me, but while walking, I noticed that I might have a first date. I thought it might be because I couldn't remember the time, but someone told us that she was seeing something wicked, and she's very wicked. She's not, but we can see her mind a bit too. What is wicked saying how to be wicked?",
+ "seconds": 0.825
+}

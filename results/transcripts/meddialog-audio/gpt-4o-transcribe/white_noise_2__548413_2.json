@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__548413_2",
+ "condition": "white_noise_2",
+ "reference": "You seem to have a problem with anal fissures. You should try laxatives and a diet rich in fiber to avoid straining during bowel movements. Also, you can apply lignocaine gel with a steroid for pain relief. A sitz bath may also help you. Avoid spicy food. Start some exercises if you have a sedentary lifestyle. The back pain may also subside subsequently. Low-dose painkillers along with back strengthening exercises are all that you require at present.",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T00:46:40+00:00",
+ "failed": false,
+ "text": "You can have a problem with anal fissures. You can laxatives and dietary fiber to prevent straining during bowel movements. Also, you can try using petroleum jelly for hemorrhoids. Ask your doctor about fiber too. Plus, exercise is a huge benefit for your mental health. The doctor may also prescribe something. Those are important facts that can exercise the other common routes.",
+ "seconds": 1.621
+}

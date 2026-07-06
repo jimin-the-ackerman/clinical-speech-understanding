@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__428096_1",
+ "condition": "background_noise_40",
+ "reference": "My husband's right ankle and foot are swollen and have pitting edema. He did sprain his ankle weeks ago, but it has not improved in terms of swelling. However, it is not painful to walk. He sits a lot all day, and his circulation does not look great in both of his lower legs. The back of the calf is not hot or swollen.",
+ "audio_seconds": 20.31,
+ "created_at": "2026-07-06T00:43:12+00:00",
+ "failed": false,
+ "text": "My husband's right ankle and foot are swollen and have pitting edema. He did sprain his ankle weeks ago, but it has not improved in terms of swelling. However, it is not painful to walk. He sits a lot all day, and his circulation does not look great in both of his lower legs. The back of the calf is not hot or swollen.",
+ "seconds": 1.145
+}

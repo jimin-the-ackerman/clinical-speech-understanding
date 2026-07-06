@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__748410_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, I think you should go for evaluation first. Get a thyroid profile and prolactin level done. Also, get a semen analysis done for your husband. You can try ovulation induction with timed intercourse for conceiving for three to six cycles. If it does not work, you can go for intrauterine insemination. Also, get a hysterosalpingography test done to assess tubal patency. Talk to your doctor regarding this.",
+ "audio_seconds": 26.97,
+ "created_at": "2026-07-06T00:42:30+00:00",
+ "failed": false,
+ "text": "Hello, I think you should go for evaluation first. Get a thyroid profile and prolactin level done. Also, get a semen test done for your husband. You can try ovulation induction with timed intercourse for conceiving for three to six cycles. If it does not work, you can go for intrauterine insemination. Also, get a hysterosalpingography test done to assess tubal patency. Talk to your doctor regarding this.",
+ "seconds": 2.192
+}

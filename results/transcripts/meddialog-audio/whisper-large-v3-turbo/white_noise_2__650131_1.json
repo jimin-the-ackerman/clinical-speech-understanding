@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__650131_1",
+ "condition": "white_noise_2",
+ "reference": "My stomach has been feeling queasy for the past three days. It was until last night that I started getting severe pains in my stomach, and I felt dizzy. I also felt like throwing up. This morning, my symptoms are worse. I keep burping, and my stomach keeps making noises as if I am hungry, but I am not. Due to my severe stomach pain, I have back pain, and my ribs also hurt.",
+ "audio_seconds": 25.51,
+ "created_at": "2026-07-06T04:47:35+00:00",
+ "failed": false,
+ "text": "My stomach has been feeling queasy for the past three days. It was until last night that I started getting severe pains in my stomach, and I felt dizzy. I also felt like throwing up. This morning, my symptoms are worse. I keep burping, and my stomach keeps making noises as if I am hungry, but I am not. Due to my severe stomach pain, I have back pain, and my ribs also hurt.",
+ "seconds": 0.278
+}

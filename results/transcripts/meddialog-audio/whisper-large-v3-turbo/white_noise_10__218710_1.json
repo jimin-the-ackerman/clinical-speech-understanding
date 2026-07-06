@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__218710_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, we are trying for a child. I have gone through a follicular scan. On the 20th day, I was given an injection and suggested to have intercourse for three days, as it was the time of ovulation. I was provided with some tablets to take from the day of the injection for ten days. The name of the tablet is Meprate. I have a few queries. Will I get my period immediately after I stop taking the pills if I am not pregnant? When can I do a home pregnancy test? If the human chorionic gonadotropin content is low in my urine, should I opt for a blood test?",
+ "audio_seconds": 35.5,
+ "created_at": "2026-07-06T04:45:29+00:00",
+ "failed": false,
+ "text": "Hi, we are trying for a child. I have gone to a solicitor's plan. On the 20th day, I was given an injection and suggested them having to face for three days. As it was the time of ovulation, I was provided with some tablets to take in the day of the injection for 10 days. The name of the tablet is Netflix. I have a few periods. Will I get my period immediately after I stop taking the pills if I am not pregnant? When can I do a home pregnancy test? If the human chorionic gonadish broken content is low in my urine, should I opt for a blood test?",
+ "seconds": 0.378
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__782139_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, it is true that emergency contraceptive pills should be used very restrictively and only once or twice a year, but taking more than those at large intervals is also harmless. This is because spacing out the medication reduces the side effects. So, please do not worry. Instead, if you can combine another form of regular contraception in addition to condom usage, you will feel much better and be safer. If possible, you can consider either oral contraceptive pills or an intrauterine device. I hope you find this information useful. Wishing you good health.",
+ "audio_seconds": 36.35,
+ "created_at": "2026-07-06T02:52:22+00:00",
+ "failed": false,
+ "text": "Hello, it is true that emergency contraceptive pills should be used very restrictively and only once or twice a year, but taking more than those at large intervals is also harmless. This is because spacing out the medication reduces the side effects, so please do not worry. Instead, if you can combine another form of regular contraception in addition to condom usage, you will feel much better and be safer. If possible, you can consider either oral contraceptive pills or an intrauterine device. I hope you find this information useful; wishing you good health.",
+ "seconds": 5.076
+}

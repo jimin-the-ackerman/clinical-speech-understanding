@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__543973_2",
+ "condition": "white_noise_10",
+ "reference": "If he will not take any further treatment, then it is almost certain that the tumor will return. Normally, further treatment includes radiotherapy and chemotherapy. However, in the absence of such treatment, he will become symptomatic within three months. His probable survival after that will be another three to six months. I suggest that you encourage him to pursue treatment.",
+ "audio_seconds": 24.92,
+ "created_at": "2026-07-06T05:06:01+00:00",
+ "failed": false,
+ "text": "If the people not take anything with Putin, then it is almost certain that the people will turn. No need for the Putin to be the leader for Putin's country. However, when the actions of the Putin, when everything is going to be in turmoil, it probably will have a lot to do with the leader Putin. I suggest that we have a country with Putin.",
+ "seconds": 0.682
+}

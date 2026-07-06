@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-9170-0026",
+ "condition": null,
+ "reference": "THE MEANING OF CAPRIVI'S SPEECH PUT INTO PLAIN LANGUAGE IS THAT FUNDS ARE NEEDED NOT TO RESIST FOREIGN FOES BUT TO BUY UNDER OFFICERS TO BE READY TO ACT AGAINST THE ENSLAVED TOILING MASSES",
+ "audio_seconds": 10.3,
+ "created_at": "2026-07-06T03:20:13+00:00",
+ "failed": false,
+ "text": "The meaning of Caprivi's speech, put into plain language, is that funds are needed not to resist foreign foes, but to buy under officers to be ready to act against the enslaved toiling masses.",
+ "seconds": 0.413
+}

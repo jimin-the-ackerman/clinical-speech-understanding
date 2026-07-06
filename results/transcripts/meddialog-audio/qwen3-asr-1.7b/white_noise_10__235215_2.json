@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__235215_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, it seems like a developmental delay due to an infection affecting the growing brain during the newborn period. He needs to undergo investigations, including imaging of the brain and some basic blood tests. He will also require regular medications for his seizures.",
+ "audio_seconds": 15.19,
+ "created_at": "2026-07-06T05:31:41+00:00",
+ "failed": false,
+ "text": "It seems that the development is delayed due to infection affecting bone, joints, and newborn areas. Due to underlying conditions, including immune deficiencies and bone disorders, we will also require regular medications to maintain the condition.",
+ "seconds": 0.419
+}

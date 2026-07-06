@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__772925_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, you have an upper respiratory tract infection and allergic conjunctivitis. Please see your physician for treatment. You need antibiotics, antihistamines, and analgesics. Also, see an ophthalmologist. The respiratory pathways are hyper-responsive; hence, whenever you have an upper respiratory infection, you may wheeze due to hyper-responsive airways.",
+ "audio_seconds": 22.53,
+ "created_at": "2026-07-06T03:03:42+00:00",
+ "failed": false,
+ "text": "Hello, you have an upper respiratory tract infection and allergic conjunctivitis. Please see your physician for treatment. You need antibiotics, antihistamines, and analgesics; also, see an ophthalmologist. The respiratory pathways are hyperresponsive, hence whenever you have an upper respiratory infection you may wheeze due to hyperresponsive airways.",
+ "seconds": 8.225
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__862120_2",
+ "condition": "background_noise_60",
+ "reference": "Preferring animals over humans is not a psychiatric problem or a disease as such. Hence, there is nothing to worry about, to be frank. Every individual has their own likes and dislikes; even you have a liking for cats. There is nothing wrong with that. However, do not hate human beings; that is it.",
+ "audio_seconds": 17.58,
+ "created_at": "2026-07-06T05:00:04+00:00",
+ "failed": false,
+ "text": "Preferring animals over humans is not a psychiatric problem or a disease. Such, hence, there is nothing to worry about. Every individual has their own rights and dislikes. Even you have a liking for cats. There is nothing wrong with that. However, not. That is it.",
+ "seconds": 0.526
+}

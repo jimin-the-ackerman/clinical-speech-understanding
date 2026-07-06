@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__963918_2",
+ "condition": "clean",
+ "reference": "I am sorry to hear you are feeling so bad, as neck pain on top of a cold can be quite demoralizing. The dizziness is most probably a result of the cold you have, and steam inhalation three times a day should help you. If it doesn't, I suggest a physician review where I am sure medications like Sturgeon or Betahistine would be prescribed. The neck pain seems more like a whiplash, and for now, bed rest and a mild painkiller like Paracetamol should do the trick. A cold compress on the neck would help too. If things don't get better in a couple of days, physical therapy may be needed. I hope you feel better soon.",
+ "audio_seconds": 35.41,
+ "created_at": "2026-07-06T03:00:15+00:00",
+ "failed": false,
+ "text": "I am sorry to hear you are feeling so bad, as neck pain on top of a cold can be quite demoralizing. The dizziness is most probably a result of the cold you have, and steam inhalation 3 times a day should help you. If it doesn't, I suggest a physician review where I am sure medications like sturgeon or betacistine would be prescribed. The neck pain seems more like a whiplash, and for now, bed rest and a mild painkiller like paracetamol should do the trick. A cold compress on the neck would help too. If things don't get better in a couple of days, physical therapy may be needed. I hope you feel better soon.",
+ "seconds": 8.321
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280076-0006",
+ "condition": null,
+ "reference": "THE PARTS OF THIS LETTER NOW RELEVANT ARE AS FOLLOWS",
+ "audio_seconds": 3.28,
+ "created_at": "2026-07-06T02:38:10+00:00",
+ "failed": false,
+ "text": "The parts of this letter now relevant are as follows.",
+ "seconds": 4.612
+}

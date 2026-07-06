@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__403257_1",
+ "condition": "background_noise_20",
+ "reference": "Hi doctor. My name is Lingesh. I am seventeen. I am having a problem. I have gynecomastia. I don’t know whether it can be removed by doing exercise or by undergoing surgery. Besides that, I am not good at doing weightlifting, so I am considering attending gym classes. What should I do, go to the gym or undergo surgery?",
+ "audio_seconds": 18.26,
+ "created_at": "2026-07-06T02:47:23+00:00",
+ "failed": false,
+ "text": "Uh, doctor, my name is Lingesh, I am 17. I'm having a problem: I have gynecomastia. I don't know whether it can be removed by doing exercise or by undergoing surgery. Besides that, I am not good at doing weightlifting, so I am considering attending gym classes. What should I do, go to the gym, or undergo surgery?",
+ "seconds": 4.866
+}

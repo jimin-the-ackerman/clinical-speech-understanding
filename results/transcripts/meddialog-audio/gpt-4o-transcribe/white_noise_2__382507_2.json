@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__382507_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, Habiba. You can start using a branded toner twice daily after washing your face with a mild cleanser, such as Cetaphil or Spongysal face wash, to reduce oiliness. You can use a non-comedogenic sunscreen three times daily. Also, use Brevoxyl cream topically at night and report back to me after a month.",
+ "audio_seconds": 21.59,
+ "created_at": "2026-07-06T00:46:29+00:00",
+ "failed": false,
+ "text": "Hello Habiba, you can start using a brand new toner twice daily after washing your face with a mild cleanser, such as Cetaphil or spongy cell facial. To reduce oiliness, you can use a non-comedogenic sunscreen three times daily. Also, use Brevoxyl cream topically at night. Report back to me after a month.",
+ "seconds": 1.16
+}

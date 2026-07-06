@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__818739_1",
+ "condition": "clean",
+ "reference": "I have pain in the palm of my hand below the thumb. There is a vein that seems enlarged. It hurts to open a jar, button, or press my thumb back. I don't have any numbness. I had an X-ray a couple of months ago, and there was no arthritis present. My internist suggested I see a hand specialist. What could it be?",
+ "audio_seconds": 17.92,
+ "created_at": "2026-07-06T00:45:27+00:00",
+ "failed": false,
+ "text": "I have pain in the palm of my hand below the thumb. There is a vein that seems enlarged. It hurts to open a jar, button, or press my thumb back. I don't have any numbness. I had an x-ray a couple of months ago and there was no art present. My internist suggested I see a hand specialist. What could it be?",
+ "seconds": 1.324
+}

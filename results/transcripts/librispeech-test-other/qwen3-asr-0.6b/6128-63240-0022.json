@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63240-0022",
+ "condition": null,
+ "reference": "THAT WAS ONE COMFORT WITH OLIVE SHE NEVER WENT THROUGH ANY FORMS",
+ "audio_seconds": 4.51,
+ "created_at": "2026-07-06T03:22:36+00:00",
+ "failed": false,
+ "text": "That was one comfort with Olive. She never went through any forms.",
+ "seconds": 0.167
+}

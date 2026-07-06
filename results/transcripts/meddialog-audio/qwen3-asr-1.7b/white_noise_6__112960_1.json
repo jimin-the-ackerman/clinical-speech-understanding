@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__112960_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, I fell going up the stairs on Sunday. My knee has been swollen for four days now and bruised. It hurts when I apply pressure to the ball of my foot and when I have to put pressure on the actual knee. That didn’t really concern me, but my knee has been numb for about four days now. When I am walking, it feels like my knee is bleeding when it isn’t, and certain bending feels like when you have a scab and you tear it. I know this is jumbled, but I need advice because it is sore and I don’t know what else to do. My name is Katelyn, and I am twenty-one years old.",
+ "audio_seconds": 30.38,
+ "created_at": "2026-07-06T05:38:46+00:00",
+ "failed": false,
+ "text": "Hi, I fell going up the stairs on Sunday. My knee has been swollen for four days now and bruised. It hurts when I apply pressure to the ball of my foot and when I have to put pressure on the actual knee. That didn't really concern me, but my knee has been numb for about four days now. When I'm walking, it feels like my knee is bleeding when it isn't, and certain bending feels like when you have a stab and you tear it. I know this is jumbled, but I need advice because it is sore and I don't know what else to do. My name is Peyton, and I am 21 years old.",
+ "seconds": 1.336
+}

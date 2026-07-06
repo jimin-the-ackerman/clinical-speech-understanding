@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75788-0018",
+ "condition": null,
+ "reference": "EACH THAT DIED WE WASHED AND SHROUDED IN SOME OF THE CLOTHES AND LINEN CAST ASHORE BY THE TIDES AND AFTER A LITTLE THE REST OF MY FELLOWS PERISHED ONE BY ONE TILL I HAD BURIED THE LAST OF THE PARTY AND ABODE ALONE ON THE ISLAND WITH BUT A LITTLE PROVISION LEFT I WHO WAS WONT TO HAVE SO MUCH",
+ "audio_seconds": 20.84,
+ "created_at": "2026-07-06T03:23:28+00:00",
+ "failed": false,
+ "text": "Each that died, we washed and shrouded in some of the clothes and linen cast ashore by the tides. And after a little, the rest of my fellows perished one by one, till I had buried the last of the party and abode alone on the island, with but a little provision left, ay, who was wont to have so much.",
+ "seconds": 0.695
+}

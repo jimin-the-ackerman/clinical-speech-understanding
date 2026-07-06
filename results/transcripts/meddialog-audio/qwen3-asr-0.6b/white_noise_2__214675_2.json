@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__214675_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, welcome to HealthcareMagic. As per the reports, it looks like renal cell carcinoma. It requires further evaluation. The treatment depends upon the age of the patient and the histopathological examination.",
+ "audio_seconds": 12.29,
+ "created_at": "2026-07-06T05:08:27+00:00",
+ "failed": false,
+ "text": "Hello, welcome to Help Your Magic. As for the, it looks like renal cell carcinoma. It requires further evaluation. The treatment depends upon the age of the patient and the histopathological examination.",
+ "seconds": 0.386
+}

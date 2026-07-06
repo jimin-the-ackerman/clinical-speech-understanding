@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__923481_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. Yes, you are correct; fluvoxamine has a side effect of increased sedation. Due to the sedation, a person feels lethargic. You can try this: if fluvoxamine is causing sedation, you can shift the medication to night time, just before sleeping. This should address your problem. If this does not resolve your issue, you can try another selective serotonin reuptake inhibitor, sertraline, which is a safer option for patients with heart disease, as you have already tried escitalopram and paroxetine.",
+ "audio_seconds": 28.42,
+ "created_at": "2026-07-06T05:07:43+00:00",
+ "failed": false,
+ "text": "Hello. Yes, you are correct. Move up to the side of the patient's face. Move up to the patient's. A person who is bald. You can try this. If move up to the side of the patient's face, you can check the medication immediately. Just before treatment, this should address the problem. If this does not resolve your issue, you can try another selected medication. Reupkeep regimen, which is a safer option for patients with heart disease, as you have already tried acetilamide and furosemide.",
+ "seconds": 1.037
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__907189_1",
+ "condition": "white_noise_6",
+ "reference": "Yesterday, the doctor told me that my nephew has a prominent venous channel in the left frontal region of his brain after analyzing the Magnetic Resonance Imaging report and mentioned it is a case of venous angioma. He is around twenty-two years old and is having his final semester in engineering on the 26th of April two thousand and twelve. He is very much depressed. Please suggest what to do for the treatment.",
+ "audio_seconds": 27.14,
+ "created_at": "2026-07-06T00:47:40+00:00",
+ "failed": false,
+ "text": "If the doctor is for the peace of the nation, the doctor will be his friend. However, if the medical questions to be proposed are mixed, he could test the people and know if you have contributed and he can respond to their inquiry.",
+ "seconds": 1.259
+}

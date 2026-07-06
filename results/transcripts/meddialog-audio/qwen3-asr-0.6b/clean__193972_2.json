@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__193972_2",
+ "condition": "clean",
+ "reference": "Do serum Thyroid-Stimulating Hormone and serum Prolactin, then do Hysterosalpingography on day eight. Then, perform a follicular study after taking Clomiphene from day two and Gonadotropins until the follicle size increases to eighteen millimeters. Then, rupturing and Intrauterine Insemination for early results.",
+ "audio_seconds": 21.33,
+ "created_at": "2026-07-06T05:01:06+00:00",
+ "failed": false,
+ "text": "Do serum thyroid stimulating hormone and serum prolactin, then do histosalpynography on day eight, then perform a follicular study after taking clomifene from day two and gonadotropins until the follicle size increases to eighteen millimeters, then rupturing an intrauterine insemination for early results.",
+ "seconds": 0.623
+}

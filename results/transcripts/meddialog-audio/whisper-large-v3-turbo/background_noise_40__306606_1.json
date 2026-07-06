@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__306606_1",
+ "condition": "background_noise_40",
+ "reference": "I was diagnosed with an irritated meniscus in my right knee. In June of two thousand and thirteen, I was going up some steps and banged my foot into the step on the way up. I couldn't walk and had multiple instances where my leg almost gave way under me. I am finally gaining some stability almost a year later. My question is, how long does an irritated meniscus normally take to recover?",
+ "audio_seconds": 26.03,
+ "created_at": "2026-07-06T04:41:19+00:00",
+ "failed": false,
+ "text": "I was diagnosed with an irritated meniscus in my right knee. In June of 2013, I was going up some steps and banged my foot into the step on the way up. I couldn't walk and had multiple instances where my leg almost gave way under me. I am finally gaining some stability almost a year later. My question is, how long does an irritated meniscus normally take to recover?",
+ "seconds": 0.268
+}

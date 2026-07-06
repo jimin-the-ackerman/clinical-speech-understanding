@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0006",
+ "condition": null,
+ "reference": "THE SHOPKEEPERS AND SOME OF THE LESS UNFORTUNATE PEOPLE THERE HAD PROTESTED LOUD ENOUGH TO REACH CLEAR BACK TO EARTH",
+ "audio_seconds": 7.66,
+ "created_at": "2026-07-05T13:14:17+00:00",
+ "failed": false,
+ "text": "the shopkeepers and some of the less unfortunate people there had protested loud enough to reach clear back to earth",
+ "seconds": 0.135
+}

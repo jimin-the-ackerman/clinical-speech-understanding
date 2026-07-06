@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180294-0029",
+ "condition": null,
+ "reference": "YOU SHOULD GO TO BED SHE REPLIED WITH THAT IRONICAL AIR WHICH WENT SO WELL WITH HER DELICATE AND WITTY FACE",
+ "audio_seconds": 7.75,
+ "created_at": "2026-07-06T03:19:02+00:00",
+ "failed": false,
+ "text": "You should go to bed,\" she replied with that ironic air, which went so well with her delicate and witty face.",
+ "seconds": 0.254
+}

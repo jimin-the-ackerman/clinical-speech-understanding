@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__201913_2",
+ "condition": "background_noise_20",
+ "reference": "Not to worry much, as this is a benign condition like an infected sebaceous cyst leading to abscess formation. If it really worries you, you can go for a fine needle aspiration test for confirmation. All the best!",
+ "audio_seconds": 13.23,
+ "created_at": "2026-07-06T04:50:04+00:00",
+ "failed": false,
+ "text": "Not to worry much, as this is a benign condition like an infected sebaceous cyst leading to abscess formation. If it really worries you, you can go for a fine needle aspiration test for confirmation. All the best.",
+ "seconds": 0.433
+}

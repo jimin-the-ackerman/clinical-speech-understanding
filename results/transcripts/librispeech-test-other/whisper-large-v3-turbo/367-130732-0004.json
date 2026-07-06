@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-130732-0004",
+ "condition": null,
+ "reference": "A BOOK COULD BE WRITTEN ABOUT THIS RESTAURANT AND THEN ALL WOULD NOT BE TOLD FOR ALL ITS SECRETS CAN NEVER BE KNOWN",
+ "audio_seconds": 5.88,
+ "created_at": "2026-07-05T13:10:53+00:00",
+ "failed": false,
+ "text": "A book could be written about this restaurant, and then all would not be told for all its secrets can never be known.",
+ "seconds": 0.152
+}

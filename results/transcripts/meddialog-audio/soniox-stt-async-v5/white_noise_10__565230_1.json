@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__565230_1",
+ "condition": "white_noise_10",
+ "reference": "My sister had surgery a few years ago and had metal plates put in her back. The pain is excruciating. Would it be safe for her to use those back stretchers that turn you upside down? I believe they are called inversion tables. Also, what types of exercises could she perform that will help alleviate the pain as well as help her lose weight? I believe if she weren't so heavy, the pain would be less. Is that true?",
+ "audio_seconds": 23.81,
+ "created_at": "2026-07-06T03:02:36+00:00",
+ "failed": false,
+ "text": "My sister had surgery years ago and had metal plates put in her back; the pain is explosive in her—what did you say for hurting back? Seconds that turn you up or down; I believe they are called inversion triggers. Also, what types of exercises could she perform that will help alleviate the pain as well as help her lose weight? I believe if she weren't so heavy, the pain would be less. Is that true?",
+ "seconds": 8.144
+}

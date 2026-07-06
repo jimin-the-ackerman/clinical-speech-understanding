@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0005",
+ "condition": null,
+ "reference": "BUT A BIG FINE LOOKING MAN JUMPS UP ON A BENCH AND SHOUTS HOLD ON",
+ "audio_seconds": 5.78,
+ "created_at": "2026-07-05T13:09:55+00:00",
+ "failed": false,
+ "text": "But a big, fine-looking man jumps up on a bench and shouts, Hold on!",
+ "seconds": 0.131
+}

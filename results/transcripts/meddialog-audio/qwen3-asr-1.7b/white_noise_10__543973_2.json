@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__543973_2",
+ "condition": "white_noise_10",
+ "reference": "If he will not take any further treatment, then it is almost certain that the tumor will return. Normally, further treatment includes radiotherapy and chemotherapy. However, in the absence of such treatment, he will become symptomatic within three months. His probable survival after that will be another three to six months. I suggest that you encourage him to pursue treatment.",
+ "audio_seconds": 24.92,
+ "created_at": "2026-07-06T05:32:44+00:00",
+ "failed": false,
+ "text": "If he will not pay anything with the money, then it is almost certain that it cannot be found. No further payments include regular payments and interest. Finally, any actions for the payment will be considered as a criminal. It is probably the law will not be able to do. I suggest that we try to contact some people.",
+ "seconds": 0.632
+}

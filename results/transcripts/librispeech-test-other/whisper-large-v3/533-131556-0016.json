@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131556-0016",
+ "condition": null,
+ "reference": "SUPPOSE I DO",
+ "audio_seconds": 1.99,
+ "created_at": "2026-07-05T13:02:47+00:00",
+ "failed": false,
+ "text": "Suppose I do.",
+ "seconds": 0.14
+}

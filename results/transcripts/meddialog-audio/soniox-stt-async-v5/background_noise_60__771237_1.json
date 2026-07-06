@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__771237_1",
+ "condition": "background_noise_60",
+ "reference": "Hello Doctor, while having sex, the condom tore. I took a morning-after pill the next day. Then I had intercourse again on the same day and the next day, but I am not sure if my partner ejaculated inside or not. Now I am uncertain if I should take another pill because according to the internet, it is not wise to take these pills this frequently. However, I also do not want to become pregnant. Please help!",
+ "audio_seconds": 29.44,
+ "created_at": "2026-07-06T02:55:43+00:00",
+ "failed": false,
+ "text": "Hello, Doctor. While having sex, the condom tore. I took a morning-after pill the next day, then I had intercourse again on the same day and the next day, but I am not sure if my partner ejaculated inside or not. Now I am uncertain if I should take another pill, because according to the internet it is not wise to take these pills this frequently. However, I also do not want to become. Please help.",
+ "seconds": 4.841
+}

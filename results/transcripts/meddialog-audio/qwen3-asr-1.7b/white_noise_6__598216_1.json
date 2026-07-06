@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__598216_1",
+ "condition": "white_noise_6",
+ "reference": "My husband has a back problem and has developed leg and knee pain. The knee and back pain have improved since rehabilitation. Now he is experiencing pain in the calf. A negative venous Doppler study was performed. An X-ray of the knee showed osteoarthritis with effusion. The back of his knee is bruised, and his heel is also bruised. What is going on?",
+ "audio_seconds": 23.21,
+ "created_at": "2026-07-06T05:40:45+00:00",
+ "failed": false,
+ "text": "My husband had a back problem and he developed blood in his pee. The knee and back pain have improved since rehabilitation. Now he is barely able to walk. A negative needle biopsy study was performed. An X-ray of the knee showed osteoarthritis and a tumor. The back is bruised and his knee is also bruised. What is going on?",
+ "seconds": 0.691
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0002",
+ "condition": null,
+ "reference": "PITY THAT THE END SHOULD COME SO SOON BUT THE HOUR DID ITS WORK AND WENT ITS WAY LEAVING A CLEARER ATMOSPHERE BEHIND THOUGH THE YOUNG FOLKS DID NOT SEE IT THEN FOR THEIR EYES WERE DIM BECAUSE OF THE PARTINGS THAT MUST BE",
+ "audio_seconds": 14.1,
+ "created_at": "2026-07-06T03:29:13+00:00",
+ "failed": false,
+ "text": "Pity that the end should come so soon, but the hour did its work and went its way, leaving a clearer atmosphere behind. Though the young folks did not see it then, for their eyes were dim because of the partings that must be.",
+ "seconds": 0.512
+}

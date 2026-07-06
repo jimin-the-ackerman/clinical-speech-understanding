@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0011",
+ "condition": null,
+ "reference": "YOUR JOB IS TO PROTECT THE CITIZENS HERE AND THAT MEANS EVERYONE NOT BREAKING THE LAWS WHETHER YOU FEEL LIKE IT OR NOT NO GRAFT",
+ "audio_seconds": 10.24,
+ "created_at": "2026-07-05T13:07:29+00:00",
+ "failed": false,
+ "text": "your job is to protect the citizens here and that means everyone not breaking the laws whether you feel like it or not no graft",
+ "seconds": 0.285
+}

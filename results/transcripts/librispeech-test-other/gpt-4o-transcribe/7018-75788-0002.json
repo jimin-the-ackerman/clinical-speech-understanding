@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75788-0002",
+ "condition": null,
+ "reference": "HEARING THIS I WAS SORE TROUBLED REMEMBERING WHAT I HAD BEFORE SUFFERED FROM THE APE KIND",
+ "audio_seconds": 6.1,
+ "created_at": "2026-07-05T23:57:30+00:00",
+ "failed": false,
+ "text": "Hearing this, I was sore troubled, remembering what I had before suffered from the ape-kind.",
+ "seconds": 0.863
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__542983_2",
+ "condition": "background_noise_20",
+ "reference": "You must be experiencing some arrhythmia. It is most likely atrial fibrillation, but it could be any type of arrhythmia. Please have an electrocardiogram and echocardiogram done. If both are normal, you may need Holter monitoring. Based on the results, you may be recommended some medications or lifestyle modifications.",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T04:15:07+00:00",
+ "failed": false,
+ "text": "You must be experiencing some arrhythmia. It is most likely atrial fibrillation, but it could be any type of arrhythmia. Please have an electrocardiogram and echocardiogram done. If both are normal, you may need Holter monitoring. Based on the results, you may be recommended some medications or lifestyle modifications.",
+ "seconds": 0.707
+}

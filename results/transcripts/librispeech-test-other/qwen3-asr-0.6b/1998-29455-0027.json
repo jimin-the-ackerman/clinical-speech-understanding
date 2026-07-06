@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0027",
+ "condition": null,
+ "reference": "THE NEW GAME OF BEGGING AND INVENTING STORIES TO INTEREST THE PEOPLE FROM WHOM IT WAS WORTH WHILE TO BEG WENT ON GAILY DAY BY DAY AND WEEK BY WEEK AND DICKIE BY CONSTANT PRACTICE GREW SO CLEVER AT TAKING HIS PART IN THE ACTING THAT MISTER BEALE WAS QUITE DAZED WITH ADMIRATION",
+ "audio_seconds": 17.02,
+ "created_at": "2026-07-06T03:15:18+00:00",
+ "failed": false,
+ "text": "The new game of begging and inventing stories to interest the people from whom it was worthwhile to beg, went on gaily, day by day and week by week, and Dicky, by constant practice, grew so clever at taking his part in the acting that Mister B was quite dazed with admiration.",
+ "seconds": 0.591
+}

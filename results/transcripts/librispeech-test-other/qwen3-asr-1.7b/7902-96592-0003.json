@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0003",
+ "condition": null,
+ "reference": "STOP HERE TILL SIR RISDON COMES DOWN AND TELL HIM I'M VERY SORRY THAT WE SHOULD HAVE CLEARED OUT LAST NIGHT ONLY A BORN FOOL SAW JERRY NANDY'S LOBSTER BOAT COMING INTO THE COVE AND CAME RUNNING TO SAY IT WAS A PARTY FROM THE CUTTER YES FATHER",
+ "audio_seconds": 12.17,
+ "created_at": "2026-07-06T03:36:16+00:00",
+ "failed": false,
+ "text": "Stop here till Sir Risdon comes down, and tell him I'm very sorry, that we should have cleared out last night. Only a born fool saw Jerry and Andy's lobster boat coming into the cove, and came running to say it was a party from the cutter. Yes, father.",
+ "seconds": 0.564
+}

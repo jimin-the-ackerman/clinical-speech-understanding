@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__362732_2",
+ "condition": "background_noise_60",
+ "reference": "These symptoms are allergies induced by medications used for viral infections. Paracetamol can increase the symptoms of the virus and allergies. Please stop taking paracetamol and take an antihistamine instead. Use Neomycin hydrochloride ointment in your nose twice daily, and a liquid antacid three times a day. You can take mefenamic acid as needed for fever. Follow a low-protein, high-fiber diet with plenty of fluids.",
+ "audio_seconds": 28.84,
+ "created_at": "2026-07-06T04:42:48+00:00",
+ "failed": false,
+ "text": "These symptoms are allergies induced by medications used for viral infections. Paracetamol can increase the symptoms of the virus and allergies. Please stop taking paracetamol and take an antihistamine instead. Use neomysim hydrochloride ointment in your nose twice daily and a liquid antacid three times a day. You can take mefinimac acid as needed for fever. Follow a low-protein, high-fiber diet with plenty of fluids.",
+ "seconds": 0.295
+}

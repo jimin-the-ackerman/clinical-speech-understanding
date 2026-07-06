@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-130732-0005",
+ "condition": null,
+ "reference": "IT WAS HERE THAT MOST MAGNIFICENT DINNERS WERE ARRANGED IT WAS HERE THAT EXTRAORDINARY DISHES WERE CONCOCTED BY CHEFS OF WORLD WIDE FAME IT WAS HERE THAT LOBSTER A LA NEWBERG REACHED ITS HIGHEST PERFECTION AND THIS IS THE RECIPE THAT WAS FOLLOWED WHEN IT WAS PREPARED IN THE DELMONICO",
+ "audio_seconds": 15.55,
+ "created_at": "2026-07-06T03:18:15+00:00",
+ "failed": false,
+ "text": "It was here that most magnificent dinners were arranged. It was here that extraordinary dishes were concocted by chefs of worldwide fame. It was here that lobster alla Newberg reached its highest perfection, and this is the recipe that was followed when it was prepared in the Domonico.",
+ "seconds": 0.545
+}

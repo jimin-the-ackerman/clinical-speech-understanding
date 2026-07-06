@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__740774_1",
+ "condition": "background_noise_60",
+ "reference": "Is it normal for an infant to shake his head when he feels sleepy? I have a son who is already six months old. Since he was three months old, I noticed that he usually shakes his head from left to right when he feels sleepy. He is still doing that until now. I am worried about it.",
+ "audio_seconds": 13.57,
+ "created_at": "2026-07-06T02:55:35+00:00",
+ "failed": false,
+ "text": "Is it normal for an infant to shake his head when he feels sleepy? I have a son who is already 6 months old. Since he was 3 months old, I noticed that he usually shakes his head from left to right when he feels sleepy. He is still doing that until now; I am worried about it.",
+ "seconds": 8.039
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__741599_1",
+ "condition": "background_noise_60",
+ "reference": "Hello, I have a pain in my tongue. I believe it is the tongue muscle, but I can't be sure. When I press my tongue against the roof of my mouth, I feel the pain under my chin. Moving my tongue in general causes pain in the tongue. If I press my thumbs under my chin where the tongue muscle is, I can massage it a little to relieve the pain, but it is still there. It is a dull pain at this point. There is no swelling. It just hurts when I move my tongue to speak or swallow.",
+ "audio_seconds": 33.02,
+ "created_at": "2026-07-06T04:59:34+00:00",
+ "failed": false,
+ "text": "Hello, I have a pain in my tongue. I believe it is the tongue muscle, but I can't be sure. When I press my tongue against the roof of my mouth, I feel the pain under my chin. Moving my tongue in general causes pain in the tongue. If I press my thumbs under my chin where tongue muscle is, I can massage it a little to relieve the pain, but it is still there. It is a dull pain at this point. There is no swelling. It just hurts when I move my tongue to speak or swallow.",
+ "seconds": 1.049
+}

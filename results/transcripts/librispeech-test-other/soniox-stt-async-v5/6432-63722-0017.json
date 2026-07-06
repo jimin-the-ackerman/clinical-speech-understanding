@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0017",
+ "condition": null,
+ "reference": "LOOK HERE COLONEL DO YOU KNOW ANYTHING ABOUT THIS",
+ "audio_seconds": 3.06,
+ "created_at": "2026-07-06T02:33:38+00:00",
+ "failed": false,
+ "text": "Look here, Colonel, do you know anything about this?",
+ "seconds": 4.604
+}

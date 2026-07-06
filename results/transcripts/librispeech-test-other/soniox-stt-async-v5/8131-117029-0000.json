@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117029-0000",
+ "condition": null,
+ "reference": "THERE WAS A MAN COMING FROM EARTH ON A SECOND SHIP WHO WOULD SEE HIM",
+ "audio_seconds": 4.47,
+ "created_at": "2026-07-06T02:39:45+00:00",
+ "failed": false,
+ "text": "There was a man coming from Earth on a second ship who would see him.",
+ "seconds": 5.065
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__642899_1",
+ "condition": "white_noise_10",
+ "reference": "My problem started with pain from the top of my thigh to my knee. Now the pain is concentrated in my knee area. I can't sleep on my side, as the pain really intensifies then. I can sleep in a recliner with little pain, but if I am on my leg too long, it starts to hurt. I have been taking Aleve for a week, and the pain still persists. I have had an X-ray and blood work, and nothing has shown up. Any advice or ideas as to what this could be?",
+ "audio_seconds": 29.87,
+ "created_at": "2026-07-06T03:02:57+00:00",
+ "failed": false,
+ "text": "My problem started with pain from the top of my thigh to my knee; now the pain is concentrated in my knee area. I can't sleep on my side as the pain really intensifies there. I can sleep in a recliner with little pain, but if I am on my leg too long, it starts to hurt. I have been taking Aleve for a week, and the pain still persists. I have had an X-ray and blood work, and nothing has shown up. Any advice or ideas as to what this could be?",
+ "seconds": 8.458
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__995735_2",
+ "condition": "white_noise_2",
+ "reference": "No, high blood pressure will not cause a change in the arm. Blood pressure has no relation to arm span or diameter.",
+ "audio_seconds": 7.42,
+ "created_at": "2026-07-06T05:38:39+00:00",
+ "failed": false,
+ "text": "No, high blood pressure will not cause a change in the arm. Blood pressure has no relation to arm span or diameter.",
+ "seconds": 0.269
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__779259_2",
+ "condition": "white_noise_10",
+ "reference": "Hi. Nosebleed is a very common problem. It is treated with cauterization, which may need to be repeated a few times. Since you had it only a few days ago, it might be better to avoid flying for three to four weeks, if possible. Continue using the ointment for one month and then have yourself reviewed by your doctor. This is the standard practice everywhere. Nosebleed. Use ointment in the nose for one month. Avoid nose blowing and picking. Keep blood pressure under control. Avoid blood thinners.",
+ "audio_seconds": 26.97,
+ "created_at": "2026-07-06T00:46:04+00:00",
+ "failed": false,
+ "text": "But you see the very first example I gave, there was people in the audience. The other way is to videotape yourself. Record yourself. People never know if you look nervous.",
+ "seconds": 0.839
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__510339_2",
+ "condition": "background_noise_40",
+ "reference": "You could be experiencing a common cold, which starts with such pains. Since all tests are negative, I do not see any other reason to worry. However, some conditions, such as Lyme disease, are hard to confirm with tests. Wait one week; if the problem persists, you need to check for other possibilities with more specific testing. Good luck.",
+ "audio_seconds": 21.59,
+ "created_at": "2026-07-06T04:18:59+00:00",
+ "failed": false,
+ "text": "You could be experiencing a common cold, which starts with such pains. Since all tests are negative, I do not see any other reason to worry. However, some conditions, such as Lyme disease, are hard to confirm with tests. Wait one week. If the problem persists, you need to check for other possibilities with more specific testing. Good luck!",
+ "seconds": 0.668
+}

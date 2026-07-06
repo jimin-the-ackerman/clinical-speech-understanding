@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168671-0036",
+ "condition": null,
+ "reference": "FAUCHELEVENT PASSED THE UNEXPECTED GRIBIER ONCE MORE IN REVIEW",
+ "audio_seconds": 4.25,
+ "created_at": "2026-07-05T13:11:11+00:00",
+ "failed": false,
+ "text": "Vauchelevent passed the unexpected Grébier once more in review.",
+ "seconds": 0.119
+}

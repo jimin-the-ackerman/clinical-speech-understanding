@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__389511_1",
+ "condition": "clean",
+ "reference": "Hi, I fell off a ladder at work last September and I broke the talus bone. I was in a cast for two months and in a boot for one month. I still have pain, and we found out by MRI that I have fluid in the bone. What does that mean? How long does it take to recover from that? What is the right treatment for it?",
+ "audio_seconds": 18.86,
+ "created_at": "2026-07-06T05:28:18+00:00",
+ "failed": false,
+ "text": "Hi, I fell off a ladder at work last September, and I broke the talus bone. I was in a cast for two months, and in a boot for one month. I still have pain, and we found out by MRI that I have fluid in the bone. What does that mean? How long does it take to recover from that? What is the right treatment for it?",
+ "seconds": 0.736
+}

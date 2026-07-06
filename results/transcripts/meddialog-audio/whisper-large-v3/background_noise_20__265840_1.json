@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__265840_1",
+ "condition": "background_noise_20",
+ "reference": "Most nights while I am asleep, I put my hand on my head with my elbow in the air. I regularly wake up with a sore shoulder. I am continuously trying to keep my elbow at ninety degrees to my head, and I am constantly correcting it. At first, my wife and I found it very amusing as she described my elbow waving about in the air, but it is starting to become an irritant.",
+ "audio_seconds": 24.49,
+ "created_at": "2026-07-06T04:14:04+00:00",
+ "failed": false,
+ "text": "Most nights, while I am asleep, I put my hand on my head with my elbow in the air. I regularly wake up with a sore shoulder. I am continuously trying to keep my elbow at 90 degrees to my head, and I am constantly correcting it. At first, my wife and I found it very amusing as she described my elbow waving about in the air, but it is starting to become an irritant.",
+ "seconds": 0.731
+}

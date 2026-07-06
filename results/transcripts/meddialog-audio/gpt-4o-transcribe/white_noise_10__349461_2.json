@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__349461_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, I think you need an evaluation in the form of complete blood counts, electrocardiogram, chest X-ray, and pulmonary function tests. Cold air can lead to bronchospasm and present with difficulty in breathing. You can take the Ventolin inhaler in case you experience wheezing and difficulty in breathing. I hope this helps.",
+ "audio_seconds": 19.97,
+ "created_at": "2026-07-06T00:45:49+00:00",
+ "failed": false,
+ "text": "I know you want to be close to me, but the phone is not meant to go in your mouth.",
+ "seconds": 0.638
+}

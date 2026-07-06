@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0053",
+ "condition": null,
+ "reference": "IT FITTED WITH THE DIRE PREDICTIONS OF SECURITY AND WITH THE SPYING GORDON WAS GOING TO DO ACCORDING TO THEM",
+ "audio_seconds": 7.44,
+ "created_at": "2026-07-05T23:58:21+00:00",
+ "failed": false,
+ "text": "It fitted with the dire predictions of security, and what the spying Gordon was going to do according to them.",
+ "seconds": 1.31
+}

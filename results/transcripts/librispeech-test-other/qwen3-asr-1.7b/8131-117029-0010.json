@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117029-0010",
+ "condition": null,
+ "reference": "THAT'S MARS GORDON ECHOED THE OTHER'S COMMENT WHY DON'T YOU PULL OFF THE PLANET FATS YOU COULD GO BACK TO EARTH I'D GUESS THE OTHER NODDED",
+ "audio_seconds": 10.96,
+ "created_at": "2026-07-06T03:37:26+00:00",
+ "failed": false,
+ "text": "That's Mars, Gordon echoed the other's comment. Why don't you pull off the planet, Vats? You could go back to Earth, I guess. The other nodded.",
+ "seconds": 0.368
+}

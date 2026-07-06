@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__324682_1",
+ "condition": "background_noise_60",
+ "reference": "Hello, I am twenty-four years old. I have been very emotional lately, and all I have wanted to do is eat and lie in bed, but I only get two hours of sleep every night. My mind just races. I do not want to be bothered with anything or anyone. I find myself exhausted when I come home from work because I have to try to smile and act like I am fine. I do not feel like myself anymore. I was on depression medication before, which seemed to help a little, but I got off them two years ago. This has been going on for about a month. I had a panic attack an hour ago, and it took me a while to finally calm down. I am calling the doctor on Monday, but I wanted to see if you could help me now.",
+ "audio_seconds": 45.23,
+ "created_at": "2026-07-06T04:42:44+00:00",
+ "failed": false,
+ "text": "Hello, I am 24 years old. I have been very emotional lately. All I have wanted to do was sleep and lie in bed, but I only get two hours of sleep every night. My mind just races. I do not want to be bothered with anything or anyone. I find myself exhausted when I come to sleep at work because I have to try to smile and act like I am fine. I do not feel like myself anymore. I was on depression medication before, which seemed to help a little, but I got off then two years ago. This has been going on for about a month. I had a panic attack an hour ago, and it took me a while to finally come down. I am calling the doctor on Monday, but I wanted to sleep with what you know.",
+ "seconds": 0.453
+}

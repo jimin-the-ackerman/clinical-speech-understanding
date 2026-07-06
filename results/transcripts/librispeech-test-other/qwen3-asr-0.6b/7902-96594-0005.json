@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96594-0005",
+ "condition": null,
+ "reference": "AWKWARD BIT O COUNTRY SIR SIX MILES ROW BEFORE YOU CAN FIND A PLACE TO LAND",
+ "audio_seconds": 4.39,
+ "created_at": "2026-07-06T03:24:22+00:00",
+ "failed": false,
+ "text": "Awkward bit of country, sir. Six miles row before you can find a place to land.",
+ "seconds": 0.225
+}

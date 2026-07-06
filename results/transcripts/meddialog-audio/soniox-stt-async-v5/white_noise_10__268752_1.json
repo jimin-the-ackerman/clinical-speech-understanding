@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__268752_1",
+ "condition": "white_noise_10",
+ "reference": "I am forty-seven years old. My height is five feet eight inches. I weigh seventy-five kilograms. I am mildly hypertensive but it is under control. I underwent a vasectomy twelve years ago. I would like to undergo a reversal of vasectomy to have a new baby. I would like to know about the cost of the reversal of vasectomy operation at Christian Medical College Vellore.",
+ "audio_seconds": 22.36,
+ "created_at": "2026-07-06T03:01:15+00:00",
+ "failed": false,
+ "text": "I am 47 years old. My height is 5 feet 8 inches. I weigh 75 kg. I am mildly hypertensive, but it is under control. I underwent a vasectomy 12 years ago. I would like to undergo a reversal of vasectomy to have a new baby. I would like to know about the cost of the reversal of vasectomy operation. It's Christian Medical College Belorde.",
+ "seconds": 5.088
+}

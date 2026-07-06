@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__520018_2",
+ "condition": "clean",
+ "reference": "Since you said you already had a colonoscopy and have diverticulosis and polyps, they must be the cause of the bleeding. Colon cancer is seen on colonoscopy, and if there is nothing in it, you need not worry about colon cancer.",
+ "audio_seconds": 13.99,
+ "created_at": "2026-07-06T05:28:53+00:00",
+ "failed": false,
+ "text": "Since you said you already had a colonoscopy and have diverticulosis and polyps, they must be the cause of the bleeding. Colon cancer is colonoscopy, and if there is nothing in it, you need not worry about colon cancer.",
+ "seconds": 0.503
+}

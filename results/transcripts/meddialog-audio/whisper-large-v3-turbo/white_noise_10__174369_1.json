@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__174369_1",
+ "condition": "white_noise_10",
+ "reference": "My little daughter was born on thirty March two thousand and nine. Everything is fine with her, but while walking, we notice that her legs have a curved shape. We thought it might be because of putting her in a trolley, but someone told us that she is experiencing rickets, which is why it is like that. She walks, but we can see her legs are curved. What is rickets and how should we address it?",
+ "audio_seconds": 22.78,
+ "created_at": "2026-07-06T04:45:24+00:00",
+ "failed": false,
+ "text": "I know what a darling is going on for me now, I think all the time in my life. Everything is fine with me, but while walking, I never thought I would have a choice. I thought it might be because I didn't really cry, but someone told us that she was a teenager, which is why I look like that. I'm not, so we can see how I look at her. What if witches don't have to do about it?",
+ "seconds": 0.274
+}

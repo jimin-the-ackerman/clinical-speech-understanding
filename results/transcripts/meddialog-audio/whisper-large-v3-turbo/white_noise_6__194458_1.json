@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__194458_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, I am thirty-one years old, and my husband is too. I have normal periods regularly, my sonography looks fine, and I receive positive ovulation predictor kits, with basal body temperature rise every month. My husband's count is around two hundred and ten million. We have been trying to conceive through timed intercourse for the last three to four months without success.",
+ "audio_seconds": 22.78,
+ "created_at": "2026-07-06T04:48:15+00:00",
+ "failed": false,
+ "text": "Hi, I am 31 years old, and my husband is here. I have no years when I am. My sonography is fine, and I'm going to see positive ovulation of the dictated, since basal body temperature rise every month. My husband's health is around 200 years old. We have been trying to continue through time intercourse for the last three to four months without success.",
+ "seconds": 0.264
+}

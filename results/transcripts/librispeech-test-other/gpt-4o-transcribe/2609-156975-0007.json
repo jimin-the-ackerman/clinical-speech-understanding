@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-156975-0007",
+ "condition": null,
+ "reference": "THE STORIES REGARDING JOSEPH THE TRADITIONAL FATHER OF EPHRAIM AND MANASSEH IMPLY THAT THESE STRONG CENTRAL TRIBES POSSIBLY TOGETHER WITH THE SOUTHERN TRIBES OF BENJAMIN AND JUDAH WERE THE CHIEF ACTORS IN THIS OPENING SCENE IN ISRAEL'S HISTORY",
+ "audio_seconds": 19.91,
+ "created_at": "2026-07-05T23:54:12+00:00",
+ "failed": false,
+ "text": "The stories regarding Joseph, the traditional father of Ephraim and Manasseh, imply that these strong central tribes, possibly together with the southern tribes of Benjamin and Judah, were the chief actors in this opening scene in Israel's history.",
+ "seconds": 1.759
+}

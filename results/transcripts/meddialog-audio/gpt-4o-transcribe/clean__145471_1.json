@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__145471_1",
+ "condition": "clean",
+ "reference": "My husband had ampullary cancer in two thousand and ten. He underwent a Whipple procedure, and all subsequent scans have been clear. He had a scan today and is concerned because he had to go through it three times and was asked if he had recently undergone chemotherapy or some recent treatment. What could this indicate? We are worried. Pam Lill.",
+ "audio_seconds": 20.14,
+ "created_at": "2026-07-06T00:44:43+00:00",
+ "failed": false,
+ "text": "My husband had ampullary cancer in 2010. He underwent a Whipple procedure, and all subsequent scans have been. He had a scan today and is concerned because he had to go through it three times and was asked if he had recently undergone therapy or some recent treatment. What could this indicate? We are worried. Ham Lil",
+ "seconds": 1.064
+}

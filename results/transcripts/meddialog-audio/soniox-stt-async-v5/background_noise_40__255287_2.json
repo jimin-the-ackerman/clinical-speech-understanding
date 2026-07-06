@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__255287_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, thank you for asking. As long as the question of fertility is concerned, one should first look for semen analysis. If it is okay, then there are always chances of fertility, meaning the sperm has to be present in a normal way. Have a good day.",
+ "audio_seconds": 14.76,
+ "created_at": "2026-07-06T02:50:24+00:00",
+ "failed": false,
+ "text": "Hi. Thank you for asking. As long as the question of fertility is concerned, one should first look for semen analysis. If it is okay, then there are always chances of fertility, meaning the sperm has to be present in a normal way. Have a good day.",
+ "seconds": 5.88
+}

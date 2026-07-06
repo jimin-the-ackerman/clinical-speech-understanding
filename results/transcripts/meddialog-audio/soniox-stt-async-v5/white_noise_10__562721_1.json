@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__562721_1",
+ "condition": "white_noise_10",
+ "reference": "My daughter is experiencing stomach pain, is not feeling hungry, and has missed her menstrual periods. The doctor suggested blood tests for fasting blood sugar and hemoglobin, as well as a stomach scan. The fasting blood sugar and hemoglobin levels came back normal. However, the scan showed some bubbles in her ovaries, indicating the presence of cysts. The doctor has now suggested taking Glyciphage SR five hundred milligrams in the dosage of zero point five+zero+zero point five for one week, then zero point five+zero point five+zero point five the following week, and one+zero point five+one for the week after that. Finally, for three months, the dosage will be one+one+one. Why is this happening? She is now seventeen years old. What is her problem?",
+ "audio_seconds": 47.87,
+ "created_at": "2026-07-06T03:02:35+00:00",
+ "failed": false,
+ "text": "My daughter is experiencing stomach pain, is not feeling hungry, and is missing an appropriate diet. The doctor suggested blood tests for fasting blood sugar and hemoglobin to lower the stomach pain. Her fasting blood sugar and hemoglobin levels came back normal. However, the swelling shows some water in her ovaries indicating a presence of strict. The doctor has now suggested taking Victofate SR 500 mg in the dosage of 0.5 plus 0 plus 0.5 for 1 week, then 0.5 plus 0.5 plus 0.5 the following week, and 1 less 0.5 plus 1 for the week after that. Finally, for 3 months, the dosage would be 1 plus 1. Why is this happening? It is 9:17 in the morning. I need to talk to Dr.",
+ "seconds": 8.318
+}

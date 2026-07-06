@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__258157_1",
+ "condition": "background_noise_20",
+ "reference": "Every few weeks, I get a flutter in my heart. It is not a fast heartbeat, but a fluttering back and forth. I don't think it is pumping, just fluttering. After about five seconds of this, I start to feel faint and almost pass out. Fortunately, every time this has happened, my heart self-corrected and began to beat normally. However, I am scared that at some point, it will not stop, and I will pass out and die. I have no insurance. What can I do?",
+ "audio_seconds": 33.96,
+ "created_at": "2026-07-06T04:13:54+00:00",
+ "failed": false,
+ "text": "Every few weeks I get a flutter in my heart. It is not a fast heartbeat, but a fluttering back and forth. I don't think it is pumping, just... fluttering. After about five seconds of this, I start to feel faint and almost pass out. Fortunately, every time this has happened, my heart self-corrected and began to beat normally. However, I am scared that at some point it will not stop, and I will pass out and die. I have no insurance. What can I do?",
+ "seconds": 1.039
+}

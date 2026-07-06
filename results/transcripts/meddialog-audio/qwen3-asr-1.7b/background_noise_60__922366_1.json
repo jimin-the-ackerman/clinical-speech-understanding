@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__922366_1",
+ "condition": "background_noise_60",
+ "reference": "Alright. My current girlfriend and I had unprotected sex on the 25th of April. Twelve hours and thirty minutes after it happened, she took the Plan B pill. Her last period occurred on the 5th of April, so we expect her period on the 3rd of May. She has experienced light cramps and today a bit of spotting. She described the blood as having a brownish tint. I was just curious if this is a major sign that she is pregnant or a normal side effect of the Plan B pill. We are slightly worried that it could have been implantation bleeding.",
+ "audio_seconds": 33.28,
+ "created_at": "2026-07-06T05:26:49+00:00",
+ "failed": false,
+ "text": "All right, my current girlfriend and I had unprotected sex on the 25th of April. 12 hours and 30 minutes after it happened, she took the Plan B pill. Her last period occurred on the 5th of April, so we expect her period on the 3rd of May. She has experienced light cramps and today a bit of spotting. She described the blood as having a brownish tint. I was just curious if this is a major sign that she is pregnant, or a normal side effect of the Plan B pill. We are slightly worried that it could have been implantation bleeding.",
+ "seconds": 1.17
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__287677_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, I am twenty-five years old. I had a miscarriage in February two thousand and twelve, and I got pregnant again in July. During my period, I had sexual intercourse and became pregnant. In March two thousand and thirteen, I gave birth at eight months via cesarean section. The baby had abnormalities with the heart, kidneys, and liver. The baby stayed in the Neonatal Intensive Care Unit for a month and died on April twelve, two thousand and thirteen. Now, nine months later, I am having trouble getting pregnant. Please help.",
+ "audio_seconds": 30.46,
+ "created_at": "2026-07-06T02:47:03+00:00",
+ "failed": false,
+ "text": "Hi, I am 25 years old, I had a miscarriage in February 2012, and I got pregnant again in July. During my period, I had sexual intercourse and became pregnant. In March 2013, I gave birth at 8 months via cesarean section. The baby had abnormalities with the heart, kidneys, and liver. The baby stayed in the neonatal intensive care unit for a month and died on April 12, 2013. Now, 9 months later, I am having trouble getting pregnant. Please help.",
+ "seconds": 6.037
+}

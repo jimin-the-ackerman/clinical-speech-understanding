@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96594-0024",
+ "condition": null,
+ "reference": "YES SIR SAID THE MAN HUMBLY SHALL I GO AT ONCE SIR",
+ "audio_seconds": 3.14,
+ "created_at": "2026-07-05T13:06:48+00:00",
+ "failed": false,
+ "text": "yes sir said the man humbly shall i go at once sir",
+ "seconds": 0.195
+}

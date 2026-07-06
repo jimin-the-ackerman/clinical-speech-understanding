@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__404955_2",
+ "condition": "white_noise_2",
+ "reference": "Welcome to the clinic. It appears you may be experiencing angina. Please undergo an electrocardiogram and a stress echocardiography, along with a blood pressure and lipid profile test, and a chest X-ray. Take the appropriate medications according to the reports. Avoid fast and fried foods, and maintain a proper weight.",
+ "audio_seconds": 21.33,
+ "created_at": "2026-07-06T04:47:08+00:00",
+ "failed": false,
+ "text": "Welcome to the clinic. It appears you may be experiencing angina. Please undergo an electrocardiogram in a stress echocardiography along with a blood pressure and lipid profile test and a chest x-ray. Take the appropriate medications according to the reports. Avoid fast and fried foods and maintain a proper weight.",
+ "seconds": 0.239
+}

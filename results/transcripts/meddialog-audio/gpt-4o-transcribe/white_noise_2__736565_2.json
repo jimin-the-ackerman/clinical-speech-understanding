@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__736565_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, there is no direct relation between a hysterectomy and gallbladder pathology. However, your surgeon might be concerned about your other symptoms related to the abdomen and hence wants to rule out any gallbladder problems that may need attention.",
+ "audio_seconds": 14.42,
+ "created_at": "2026-07-06T00:46:52+00:00",
+ "failed": false,
+ "text": "Hello, there is no direct relation between a hysterectomy and gallbladder pathology. However, your surgeon might be concerned about your other symptoms related to the abdomen and hence wants to rule out any gallbladder problems that may need attention.",
+ "seconds": 1.093
+}

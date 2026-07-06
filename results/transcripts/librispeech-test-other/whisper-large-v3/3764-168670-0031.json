@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168670-0031",
+ "condition": null,
+ "reference": "NO I HAVE THE KEY TO THE DOOR WHICH COMMUNICATES WITH THE CONVENT THE PORTER HAS THE KEY TO THE DOOR WHICH COMMUNICATES WITH THE CHURCH",
+ "audio_seconds": 8.24,
+ "created_at": "2026-07-05T12:59:51+00:00",
+ "failed": false,
+ "text": "No, I have the key to the door which communicates with the convent. The porter has the key to the door which communicates with the church.",
+ "seconds": 0.301
+}

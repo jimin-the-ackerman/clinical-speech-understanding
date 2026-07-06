@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__377521_2",
+ "condition": "white_noise_10",
+ "reference": "The healing process of pneumonia should not cause back pain, cold sweats, or insomnia. When a patient with pneumonia or a lower respiratory tract infection improves, symptoms such as cough, sputum, fever, and body aches alleviate, rather than new symptoms emerging. You must get checked for these new symptoms.",
+ "audio_seconds": 22.1,
+ "created_at": "2026-07-06T03:01:37+00:00",
+ "failed": false,
+ "text": "The healing process of pneumonia should not cause back pain, cold sweats, or insomnia when a patient with pneumonia or a lower respiratory tract infection improves; symptoms such as cough, sputum, fever, and body ache alleviate rather than new symptoms emerging. You must get checked for these new symptoms.",
+ "seconds": 5.994
+}

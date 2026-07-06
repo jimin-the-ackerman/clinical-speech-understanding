@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__676884_1",
+ "condition": "background_noise_60",
+ "reference": "I had an attack today, during which I could not swallow very well; it felt as if something were stuck in my esophagus. I started hiccuping and then began vomiting up whitish foam. I was at a store and went to the bathroom there; I continued to spit up. I left and returned to work, and immediately threw up whitish foam. Is it an allergic reaction of some sort? I was in Costco and sampled the food—nothing particularly unusual. Any ideas?",
+ "audio_seconds": 27.56,
+ "created_at": "2026-07-06T04:43:19+00:00",
+ "failed": false,
+ "text": "I had an attack today, during which I could not swallow very well. It felt as if something were stuck in my esophagus. I started hiccuping and then began vomiting up whitish foam. I was at a store and went to the bathroom there. I continued to spit up. I left and returned to work and immediately threw up whitish foam. Is it an allergic reaction of some sort? I was in Costco and sampled the food. Nothing particularly unusual. Any ideas?",
+ "seconds": 0.387
+}

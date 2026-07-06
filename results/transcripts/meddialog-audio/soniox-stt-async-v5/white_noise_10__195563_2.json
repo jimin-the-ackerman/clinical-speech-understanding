@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__195563_2",
+ "condition": "white_noise_10",
+ "reference": "Low blood pressure can cause lethargy, malaise, severe weakness, fatigue, and nonspecific complaints. If your blood pressure is low, you need to find out the cause of it and need to see a doctor for that. Get your blood checked for hemoglobin, vitamin B12, vitamin D3, calcium, thyroid function, and glucose level. All of this may help to provide some clues regarding your illness.",
+ "audio_seconds": 25.69,
+ "created_at": "2026-07-06T03:00:53+00:00",
+ "failed": false,
+ "text": "No blood pressure and heart markers: malaise, severe weakness, fatigue, and nonspecific impulses. If your blood pressure is normal, you need to find out if positive and need to see a doctor for that. Full blood tests for hemoglobin, vitamin B12, vitamin D3, calcium, thyroid function, and glucose levels; all of this may be critical and changes depending on your levels.",
+ "seconds": 4.655
+}

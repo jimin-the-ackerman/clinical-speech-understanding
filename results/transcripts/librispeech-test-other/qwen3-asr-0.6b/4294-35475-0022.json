@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-35475-0022",
+ "condition": null,
+ "reference": "THE GRANDAME WHOM HE SUPPLIED WITH FAGOTS THE MERCHANT WHOM HE RESCUED FROM ROBBERS THE KING'S COUNCILLOR TO WHOM HE GAVE AID ALL BECAME HIS FRIENDS UP AND DOWN THE LAND TO BEGGAR OR LORD HOMELESS WANDERER OR HIGH BORN DAME HE GLADLY GAVE UNSELFISH SERVICE ALL UNSOUGHT AND SUCH AS HE HELPED STRAIGHTWAY BECAME HIS FRIENDS",
+ "audio_seconds": 21.19,
+ "created_at": "2026-07-06T03:19:50+00:00",
+ "failed": false,
+ "text": "The grand dame whom he supplied with faggots, the merchant whom he rescued from robbers, the king's counselor to whom he gave aid, all became his friends. Up and down the land, beggar or lord, homeless wanderer or high-born dame, he gladly gave unselfless service all unsought, and such as he helped straightway became his friends.",
+ "seconds": 0.722
+}

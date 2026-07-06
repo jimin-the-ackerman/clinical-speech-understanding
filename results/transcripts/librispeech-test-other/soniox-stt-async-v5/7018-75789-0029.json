@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0029",
+ "condition": null,
+ "reference": "THIS HE SET IN A SAUCER WETTED WITH A LITTLE WATER AND AFTER WAITING A SHORT TIME SMELT AND TASTED IT AND THEN HE TOOK OUT OF THE CHEST A BOOKLET WHEREIN HE READ AWHILE AND SAID WEEPING KNOW O YE PASSENGERS THAT IN THIS BOOK IS A MARVELLOUS MATTER DENOTING THAT WHOSO COMETH HITHER SHALL SURELY DIE WITHOUT HOPE OF ESCAPE FOR THAT THIS OCEAN IS CALLED THE SEA OF THE CLIME OF THE KING WHEREIN IS THE SEPULCHRE OF OUR LORD SOLOMON SON OF DAVID ON BOTH BE PEACE",
+ "audio_seconds": 33.73,
+ "created_at": "2026-07-06T02:35:30+00:00",
+ "failed": false,
+ "text": "This he said in a saucer wetted with a little water, and after waiting a short time smelt and tasted it; and then he took out of the chest a booklet, wherein he read a while and said weeping, \"No, O ye passengers, that in this book is a marvellous matter, denoting that who so come hither shall surely die, without hope of escape, for that this ocean is called the sea of the climb of the King, wherein is a sepulchre of our Lord Solomon, son of David; on both be peace.\"",
+ "seconds": 5.823
+}

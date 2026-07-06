@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__313588_1",
+ "condition": "white_noise_6",
+ "reference": "Hello, Doctor. I am twenty-four years old. I got married and have a two-year-old child. Mine was a cesarean section. My blood group is B negative and my hemoglobin count was seven when I checked it a year ago. Nowadays, I am feeling very tired when I wash clothes or clean the house. Whenever I wash clothes, I get back pain for almost two-three days. My height is one hundred and fifty-nine centimeters and my weight is sixty-five kilograms. I am unable to do any kind of work that puts pressure on my hands continuously for five minutes. Can you please suggest what I need to do?",
+ "audio_seconds": 36.61,
+ "created_at": "2026-07-06T04:36:36+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I am 24 years old. I got married and have a 2-year-old child. Mine was a cesarean section. My blood group is B- and my hemoglobin count was 7 when I checked in a year ago. Nowadays, I am feeling very tired when I wash clothes or clean the house. Whenever I wash clothes, I get back clean for almost 2-3 days. My height is 159 centimeters and my weight is 65 kilograms. I am unable to do any kind of work that puts pressure on my hands continuously for 5 minutes. Can you please suggest what I need to do?",
+ "seconds": 0.947
+}

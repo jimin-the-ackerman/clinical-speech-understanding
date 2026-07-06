@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__932978_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, I have a low-grade fever, a heavy head, and body aches. My fever comes and goes since yesterday. Yesterday, in addition to those symptoms, I also had a sore throat. Please suggest any natural remedies and what this could be. It all started after I had a tub of ice cream and hot green tea, just after the ice cream. I stay in Switzerland, and there is no pharmacy open at this hour except for the hospital, which is very far from home. Debashree Ganguly, Fribourg, Switzerland.",
+ "audio_seconds": 34.73,
+ "created_at": "2026-07-06T04:35:42+00:00",
+ "failed": false,
+ "text": "Hi. I have a low-grade fever, a heavy head, and body aches. My fever comes and goes since yesterday. Yesterday, in addition to those symptoms, I also had a sore throat. Please suggest any natural remedies and what this could be. It all started after I had a tub of ice cream and hot green tea just after the ice cream. I stay in Switzerland and there is no pharmacy open at this hour except for the hospital, which is very far from home. Debuschrie-Gangouli, Fribourg, Switzerland.",
+ "seconds": 0.96
+}

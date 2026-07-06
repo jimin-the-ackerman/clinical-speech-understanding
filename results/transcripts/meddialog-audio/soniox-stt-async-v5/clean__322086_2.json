@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__322086_2",
+ "condition": "clean",
+ "reference": "Orthostatic hypotension due to volume depletion from loss of fluids through diarrhea and vomiting could be the cause of this. Ensure she has sufficient intake of water and electrolytes.",
+ "audio_seconds": 10.92,
+ "created_at": "2026-07-06T02:57:38+00:00",
+ "failed": false,
+ "text": "Orthostatic hypotension due to volume depletion from loss of fluids through diarrhea and vomiting could be the cause of this; ensure she has sufficient intake of water and electrolytes.",
+ "seconds": 5.805
+}

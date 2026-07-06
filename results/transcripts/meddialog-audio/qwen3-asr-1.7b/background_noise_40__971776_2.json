@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__971776_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, we need some more information. Serum glutamate oxaloacetate transaminase and serum glutamate pyruvate transaminase are markers of liver disease. We need to know what is causing their rise. Have you undergone Hepatitis B Surface Antigen and Hepatitis C Virus testing? Are you addicted to any narcotics? If you can post pictures of your fingers and face that have changed color, we could help. All the best.",
+ "audio_seconds": 24.32,
+ "created_at": "2026-07-06T05:23:17+00:00",
+ "failed": false,
+ "text": "Hello, we need some more information. Serum glutamate oxaloacetate transaminase, serum glutamate pyruvate transaminase, are markers of liver disease. To know what is causing their rise, have you undergone hepatitis B surface antigen, hepatitis C virus testing? Are you addicted to any narcotics? If you can post pictures of your fingers and face that have changed color, we can help. All the best.",
+ "seconds": 0.847
+}

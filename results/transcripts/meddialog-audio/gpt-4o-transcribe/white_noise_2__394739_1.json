@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__394739_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, I had tuberculosis two years ago. I took the medicine for nine months. Now my medical examination is done for residency in the Middle East. They are going to take my blood test and my sputum test, as my X-ray was not clear. My question is, can my sputum test come back positive by any chance?",
+ "audio_seconds": 19.29,
+ "created_at": "2026-07-06T00:46:29+00:00",
+ "failed": false,
+ "text": "Hi, I had tuberculosis two years ago. I took the medicine for nine months. Now, my medical examination is done for residency in the Middle East. They are going to take my blood test and my sputum test, as my X-ray was not clear. My question is, can my sputum test come back positive by any chance?",
+ "seconds": 1.265
+}

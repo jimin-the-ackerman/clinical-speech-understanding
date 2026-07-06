@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__753518_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, this looks like an infection, probably viral, with myalgia. The best remedy is to take rest, as that helps a lot to control the pain and provides a soothing feeling to the aching muscles. In a few days, the symptoms will begin to get under control; until then, analgesics as needed will be required.",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T03:07:50+00:00",
+ "failed": false,
+ "text": "Hi. This looks like an infection, probably viral, with myalgia. The best remedy is to take rest, as that helps a lot to control the pain and provides a soothing feeling to the aching muscles. In a few days, the symptoms will begin to get under control; until then, analgesics as needed will be required.",
+ "seconds": 8.1
+}

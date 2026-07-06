@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__701790_1",
+ "condition": "white_noise_6",
+ "reference": "I was borderline diabetic at my last checkup. I have been exercising daily and being more active, but I can't seem to lose any weight and am gaining instead. I wondered if some of my medications may be hindering my progress. Never mind, I am not paying for this!",
+ "audio_seconds": 17.58,
+ "created_at": "2026-07-06T03:11:11+00:00",
+ "failed": false,
+ "text": "I was borderline diabetic at my last checkup. I have been exercising daily and being more active, but I can't seem to lose any weight and am gaining instead. I wondered if some of my medications may be hindering my progress. Never mind; I am not paying for this.",
+ "seconds": 4.812
+}

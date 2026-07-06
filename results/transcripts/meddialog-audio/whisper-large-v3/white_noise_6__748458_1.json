@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__748458_1",
+ "condition": "white_noise_6",
+ "reference": "I had a blackhead that did not open, and over time it became larger and appeared swollen. The doctor used a laser to open the blackhead and remove the debris. It has been more than a year since that procedure, and the hole created by the laser incision has not healed. I now have a hole in my face where debris gets in all the time. Please help.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T04:38:27+00:00",
+ "failed": false,
+ "text": "I had a black head that did not open, and over time it became larger and appeared swollen. The doctor used a laser to open the black head and removed the debris. It has been more than a year since that procedure, and the hole created by the laser incision is not healed. I now have a hole in my face where debris gets in all the time. Please help.",
+ "seconds": 0.658
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__846746_2",
+ "condition": "clean",
+ "reference": "Hi, I think you are under a lot of stress. Therefore, do not worry too much and try to relax. You can take a pregnancy test if your period is delayed.",
+ "audio_seconds": 10.33,
+ "created_at": "2026-07-06T04:45:02+00:00",
+ "failed": false,
+ "text": "Hi. I think you are under a lot of stress. Therefore, do not worry too much and try to relax. You can take a pregnancy test if your period is delayed.",
+ "seconds": 0.191
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__330283_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. I need to understand your problems better and kindly advise you to get a pregnancy test done. I understand that you are female and of childbearing age. If it is not pregnancy-related nausea, then what you are experiencing may be a somatoform disorder. Yes, your anxiety may have caused these symptoms. It is a manifestation of a psychiatric disorder. But do not worry; you can manage this with your mind. Engage in yoga and meditation. Try to stop overthinking or being anxious, and consider seeking help from a psychiatrist. I do not believe you have any other medical issues. For precaution, get an abdominal ultrasound done since you have a history of diverticulitis. Gastritis with reflux can also present similar symptoms. You can try any gastric medications for two weeks to see if it alleviates the symptoms. I recommend a combination approach of the above-mentioned strategies to address your concerns. I hope this information helps you sort out your issues regarding anxiety, abdominal ultrasound, gastritis, and potential pregnancy.",
+ "audio_seconds": 70.4,
+ "created_at": "2026-07-06T00:45:48+00:00",
+ "failed": false,
+ "text": "We tried to get into the barn the next day, but the door was locked. We looked around for the key and found it under the mat. Once inside, we saw that the barn was full of hay and old tools. It was a bit dusty, so we decided to clean up before moving anything. After sweeping the floor and dusting the shelves, we started organizing the tools. We found an old hammer that looked like it had been used for years. We also found a rusty saw that needed some sharpening. After a few hours, the barn looked much better. We were proud of our work and felt like we had accomplished something.",
+ "seconds": 2.353
+}

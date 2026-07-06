@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0009",
+ "condition": null,
+ "reference": "HE CERTAINLY LOOKS LIKE A VERY NICE LITTLE BOY",
+ "audio_seconds": 2.8,
+ "created_at": "2026-07-05T13:08:27+00:00",
+ "failed": false,
+ "text": "He certainly looks like a very nice little boy.",
+ "seconds": 0.161
+}

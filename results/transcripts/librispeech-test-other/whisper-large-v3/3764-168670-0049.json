@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168670-0049",
+ "condition": null,
+ "reference": "THE OVER PRUDENT CATS AS THEY ARE AND BECAUSE THEY ARE CATS SOMETIMES INCUR MORE DANGER THAN THE AUDACIOUS",
+ "audio_seconds": 8.29,
+ "created_at": "2026-07-05T12:59:55+00:00",
+ "failed": false,
+ "text": "The over-prudent, cats as they are, and because they are cats, sometimes incur more danger than the audacious.",
+ "seconds": 0.271
+}

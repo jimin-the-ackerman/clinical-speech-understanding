@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0009",
+ "condition": null,
+ "reference": "THE COLONEL DID NOT DISCLOSE THE FACT THAT IT WAS NO NEWS TO HIM",
+ "audio_seconds": 3.58,
+ "created_at": "2026-07-06T03:23:05+00:00",
+ "failed": false,
+ "text": "The colonel did not disclose the fact that it was no news to him.",
+ "seconds": 0.184
+}

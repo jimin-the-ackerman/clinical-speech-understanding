@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__557925_2",
+ "condition": "white_noise_2",
+ "reference": "I don't believe that your height and weight would lead to erectile dysfunction this early. Anyway, hitting the gym can help ease your mind with endorphins and boost your testosterone levels. Also, stop panicking; this can contribute to erectile dysfunction.",
+ "audio_seconds": 13.48,
+ "created_at": "2026-07-06T05:09:54+00:00",
+ "failed": false,
+ "text": "I don't believe that your height and weight would lead to erectile dysfunction this early. Anyway, hitting the gym can help ease your mind with endorphins and boost your testosterone levels. Also, stop panicking. This can contribute to erectile dysfunction.",
+ "seconds": 0.47
+}

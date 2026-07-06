@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__324682_2",
+ "condition": "background_noise_20",
+ "reference": "I think there is a relapse of depression again. You need to check why it happened again. Yes, if antidepressants helped you earlier, they will help you this time too. Visit a psychiatrist soon.",
+ "audio_seconds": 12.37,
+ "created_at": "2026-07-06T02:47:08+00:00",
+ "failed": false,
+ "text": "I think there was a relapse of depression again. You need to check why it happened again. Yes. If antidepressants helped you earlier, they will help you this time too. Visit a psychiatrist soon.",
+ "seconds": 5.457
+}

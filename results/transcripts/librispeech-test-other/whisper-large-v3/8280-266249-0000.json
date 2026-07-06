@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0000",
+ "condition": null,
+ "reference": "OLD MISTER DINSMORE HAD ACCEPTED A PRESSING INVITATION FROM HIS GRANDDAUGHTER AND HER HUSBAND TO JOIN THE PARTY AND WITH THE ADDITION OF SERVANTS IT WAS A LARGE ONE",
+ "audio_seconds": 9.55,
+ "created_at": "2026-07-05T13:08:22+00:00",
+ "failed": false,
+ "text": "old mr dinsmore had accepted a pressing invitation from his granddaughter and her husband to join the party and with the addition of servants it was a large one",
+ "seconds": 0.324
+}

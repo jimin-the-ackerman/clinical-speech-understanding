@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__796212_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, I appreciate your concern. Musculoskeletal pain is likely and may not be due to any disease, but it may be nonspecific. It can be managed with non-steroidal anti-inflammatory drugs, and sometimes may require tranquillizers as well. I hope this information helps.",
+ "audio_seconds": 16.55,
+ "created_at": "2026-07-06T00:47:33+00:00",
+ "failed": false,
+ "text": "I got to get the big one.",
+ "seconds": 0.631
+}

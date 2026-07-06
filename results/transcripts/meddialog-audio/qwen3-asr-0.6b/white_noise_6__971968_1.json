@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__971968_1",
+ "condition": "white_noise_6",
+ "reference": "Hello Doctor, I am from Kathmandu, Nepal. I have pain and burning in my anorectal region. This has been happening for two years. Recently, I underwent a sigmoidoscopy which found an anal papilla. I have already taken Ayurvedic and homeopathic medicine, but my problems have not gone away. What should I do? Please help me solve my problem.",
+ "audio_seconds": 19.88,
+ "created_at": "2026-07-06T05:15:20+00:00",
+ "failed": false,
+ "text": "Hello doctor, I am from Kathmandu, Nepal. I have pain and burning in my anal rectal region. This has been happening for two years. Recently, I underwent a sigmoidoscopy, which anal papilla. I have taken Iodotic and homeopathic medicine, but my problems have not gone away. What should I do? Please help me solve my problem.",
+ "seconds": 0.698
+}

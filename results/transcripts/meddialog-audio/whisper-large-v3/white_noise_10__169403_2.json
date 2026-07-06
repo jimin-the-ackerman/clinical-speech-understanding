@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__169403_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, since you are already under the treatment of a gynecologist, it would be best for you to discuss this with your doctor. An evaluation of your uterus and fallopian tubes should be done via hysterosalpingography to confirm whether the tubes are patent. Your husband should also be evaluated, including a semen analysis. A bicornuate uterus is known to have a risk of recurrent abortions, and you will need to be under the care of your doctor throughout the entire process once conception occurs, expecting the best outcome. In cases where both partners have normal parameters and normal sexual activities, in vitro fertilization may not be advised for conception. I hope you achieve results with treatment, and that the pregnancy continues to full term or at least to a viable age when a premature baby can be cared for in a well-equipped neonatal intensive care unit attended by efficient doctors and nurses. Treatment to enhance fertility will be helpful for conception.",
+ "audio_seconds": 52.31,
+ "created_at": "2026-07-06T04:28:53+00:00",
+ "failed": false,
+ "text": "Hello, since you are already under the treatment of a gynecologist, it would be best for you to discuss this with your doctor. An evaluation of your uterus and fallopian tubes should be done via hystereocephalicography to confirm whether the tubes are packed. Your husband should also be evaluated, including a semen analysis. A bicornuate uterus is known to have a risk of recurrent abortion, and you will need to be under the care of your doctor throughout the entire process once conception is complete. Expecting the best outcome. In cases where both partners have normal parameters and normal sexual activity, in vitro fertilization may not be advised for conception. I hope you achieve results with treatment, and that the pregnancy continues to full turn, or at least to a viable age and a premature baby can be cared for in a well-equipped neonatal intensive care unit attended by efficient doctors and nurses. Treatment to enhance fertility will be helpful for conception.",
+ "seconds": 1.521
+}

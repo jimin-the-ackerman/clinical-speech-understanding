@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0040",
+ "condition": null,
+ "reference": "IN THE THIRD ONE BRUCE GORDON SPOTTED ONE OF THE MEN WHO'D BEEN BEATEN BEFORE",
+ "audio_seconds": 4.63,
+ "created_at": "2026-07-05T13:14:21+00:00",
+ "failed": false,
+ "text": "In the third one, Bruce Gordon spotted one of the men who'd been beaten before.",
+ "seconds": 0.113
+}

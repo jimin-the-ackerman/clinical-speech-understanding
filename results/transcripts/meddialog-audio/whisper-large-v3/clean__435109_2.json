@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__435109_2",
+ "condition": "clean",
+ "reference": "From your history, it is clear that you had a heart attack and stenting was performed in the infarct-related artery. Usually, in the setting of an acute heart attack, staging of the procedure is done to reduce the chances of complications and to give time for the heart to get stabilized. So, in your case, the second procedure of stenting in the left anterior descending artery is planned with such intention. However, if you experience chest pain, even if it is light in intensity but similar to heart attack pain, then you should return to your cardiologist for early intervention; there is no need to wait. My best wishes.",
+ "audio_seconds": 37.21,
+ "created_at": "2026-07-06T04:26:11+00:00",
+ "failed": false,
+ "text": "from your history it is clear that you had a heart attack and stenting was performed in the infarct related artery usually in the setting of an acute heart attack staging of the procedure is done to reduce the chances of complications and to give time for the heart to get stabilized so in your case the second procedure of stenting in the left anterior descending artery is planned with such intention however if you experience chest pain even if it is light in intensity but similar to heart attack pain then you should return to your cardiologist for early intervention there is no need to wait my best wishes",
+ "seconds": 1.116
+}

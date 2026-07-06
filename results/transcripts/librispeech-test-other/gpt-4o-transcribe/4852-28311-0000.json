@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28311-0000",
+ "condition": null,
+ "reference": "SAY YOU KNOW SUMTHIN",
+ "audio_seconds": 2.02,
+ "created_at": "2026-07-05T23:56:08+00:00",
+ "failed": false,
+ "text": "Say, you know something?",
+ "seconds": 0.526
+}

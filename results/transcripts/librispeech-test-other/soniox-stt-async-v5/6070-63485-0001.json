@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-63485-0001",
+ "condition": null,
+ "reference": "THE TWO MONSTERS TOOK OFF THEIR SHOES AND MOVED STEALTHILY ALONG KEEPING IN THE SHADOWS OF THE HOUSES",
+ "audio_seconds": 8.08,
+ "created_at": "2026-07-06T02:32:03+00:00",
+ "failed": false,
+ "text": "The two monsters took off their shoes and moved stealthily along, keeping in the shadows of the houses.",
+ "seconds": 7.89
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__987168_1",
+ "condition": "white_noise_6",
+ "reference": "I am thirty-four years old. I found a small movable lump under my left armpit a week ago. I am expecting my period in the following couple of days and I am experiencing very severe pain in both breasts, as I often do. I have been shaving and using deodorant before noticing the lump, but I stopped that one week ago.",
+ "audio_seconds": 18.69,
+ "created_at": "2026-07-06T04:49:32+00:00",
+ "failed": false,
+ "text": "I am 34 years old. I found a small movable lump under my left armpit a week ago. I am expecting my period in the following couple of days, and I am experiencing very severe pain in both breasts, as I often do. I have been shaving and using deodorant before noticing the lump, but I stopped that one week ago.",
+ "seconds": 0.239
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__567096_1",
+ "condition": "clean",
+ "reference": "Hi, I am thirty. We have been trying for a baby for the past five months. I took Fertyl tablets in the month of March, but I got my period regularly. Then, the next month, I took Letrozole, but still, no success. Please advise what to do. Is my age a reason for not getting pregnant?",
+ "audio_seconds": 21.25,
+ "created_at": "2026-07-06T00:45:10+00:00",
+ "failed": false,
+ "text": "Hi, I am 30. We have been trying for a baby for the past five months. I took fertile tablets in the month of March, but I got my period regularly. Then the next month I took Letrozole, but still no success. Please advise what to do. Is my reason for not getting pregnant?",
+ "seconds": 2.049
+}

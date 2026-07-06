@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__395917_2",
+ "condition": "background_noise_20",
+ "reference": "It is due to Eptoin. Stop it. You have to take an alternate antiepileptic medication like Levipil five hundred milligrams once to start, then increase the dosage. Keep Frisium ten milligrams in case of emergency.",
+ "audio_seconds": 15.7,
+ "created_at": "2026-07-06T04:39:56+00:00",
+ "failed": false,
+ "text": "it is due to eptoim. Stop it! You have to take an alternate anti-epileptic medication like Levapil 500mg once to start, then increase the dosage. Keep Frisium 10mg in case of emergency.",
+ "seconds": 0.205
+}

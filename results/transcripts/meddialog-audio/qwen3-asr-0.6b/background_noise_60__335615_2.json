@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__335615_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. Welcome to Health Care Management. Hepatitis A causes inflammation and scarring of the liver, which causes bile produced not to exit the liver, leading it to spill into the blood, which can be seen as elevated bilirubin levels. To rule out whether there is chronic or acute hepatitis, you can get Immunoglobulin M and Immunoglobulin G Hepatitis A Virus tested. Other tests like Magnetic Resonance Cholangiopancreatography can be conducted to rule out obstructive diseases in the bile duct that may have occurred along with the infection. If there is only an infection, then management is symptomatic, allowing time for the liver to heal itself so that gradually the bilirubin levels will subside. All the best.",
+ "audio_seconds": 44.89,
+ "created_at": "2026-07-06T04:58:02+00:00",
+ "failed": false,
+ "text": "",
+ "seconds": 0.063
+}

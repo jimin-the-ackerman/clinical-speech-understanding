@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280076-0026",
+ "condition": null,
+ "reference": "I STAYED THERE UNTIL THE EIGHTH OF FEBRUARY EIGHTEEN SEVENTY FOUR",
+ "audio_seconds": 3.53,
+ "created_at": "2026-07-05T23:58:11+00:00",
+ "failed": false,
+ "text": "I stayed there until the 8th of February, 1874.",
+ "seconds": 0.809
+}

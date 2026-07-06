@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__817999_2",
+ "condition": "white_noise_10",
+ "reference": "Hi. This can be an allergic reaction, as you have mentioned. You need to take anti-allergic medications and possibly a steroid if deemed necessary by your doctor.",
+ "audio_seconds": 10.41,
+ "created_at": "2026-07-06T05:33:58+00:00",
+ "failed": false,
+ "text": "Hi. This can be an allergic reaction, as you have mentioned. You need to take anti-allergic medication and possibly a steroid, if deemed necessary by your doctor.",
+ "seconds": 0.349
+}

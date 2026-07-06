@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12259-0003",
+ "condition": null,
+ "reference": "YOU HAVE CATCHED A COLD GAMMER YEA FORSOOTH SIR",
+ "audio_seconds": 3.96,
+ "created_at": "2026-07-05T13:11:24+00:00",
+ "failed": false,
+ "text": "you have cashed the cold gammer yea forsooth sir",
+ "seconds": 0.11
+}

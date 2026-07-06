@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__699166_1",
+ "condition": "white_noise_10",
+ "reference": "I am fifty-six years old, weigh one hundred and thirty pounds, and have been having uncontrollable high blood pressure. I spent five days in the intensive care unit with a severe headache from nitroglycerin, which still did not bring my blood pressure down. It finally went down, and I was released. I have chest pains, and my blood pressure still runs high most of the time. If I have a heart catheterization and my blood pressure is high and cannot be brought down, will they perform the procedure or wait until they can manage it?",
+ "audio_seconds": 33.96,
+ "created_at": "2026-07-06T05:33:24+00:00",
+ "failed": false,
+ "text": "I am 56 years old, weigh 130 pounds, and have been having uncontrollable high blood pressure. I spent five days in the intensive care unit with a severe headache from nitrovaserin, which still did not bring my blood pressure down. It finally went down, and I was released. I have chest pains, and my blood pressure still runs high most of the time. If I have a heart catheterization, and my blood pressure is high and cannot be brought down, will they perform the procedure, or wait until they can manage it?",
+ "seconds": 1.074
+}

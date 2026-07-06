@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__188406_1",
+ "condition": "background_noise_20",
+ "reference": "I have a friend who was diagnosed with stage four pancreatic cancer two years ago. Now the doctors have said they are concerned about shadows on the liver and kidney. Can you tell me if this is just the progression of the cancer spreading and if there is anything that can be done for it?",
+ "audio_seconds": 15.7,
+ "created_at": "2026-07-06T02:46:36+00:00",
+ "failed": false,
+ "text": "I have a friend who was diagnosed with stage 4 pancreatic cancer 2 years ago; now the doctors have said they are concerned about shadows on the liver and kidney. Can you tell me if this is just the progression of the cancer spreading, and if there is anything that can be done for it?",
+ "seconds": 5.347
+}

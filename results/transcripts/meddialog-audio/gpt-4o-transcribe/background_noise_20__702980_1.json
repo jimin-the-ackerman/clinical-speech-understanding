@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__702980_1",
+ "condition": "background_noise_20",
+ "reference": "I have a few indentations on both sides of my skull, ranging from barely noticeable to quite visible. I was hoping to find out if there is any way I could possibly treat these. I understand it is perfectly normal, but I would prefer to fix it if possible. Any response is appreciated. I am willing to send pictures if that helps.",
+ "audio_seconds": 18.09,
+ "created_at": "2026-07-06T00:42:27+00:00",
+ "failed": false,
+ "text": "I have a few indentations on both sides of my skull, ranging from barely noticeable to quite visible. I was hoping to find out if there is any way I could possibly treat these. I understand it is perfectly normal, but I would prefer to fix it if possible. Any response is appreciated. I am willing to send pictures if that helps.",
+ "seconds": 1.191
+}

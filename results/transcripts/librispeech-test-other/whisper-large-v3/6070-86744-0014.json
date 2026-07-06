@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-86744-0014",
+ "condition": null,
+ "reference": "WHAT IS THE MATTER ASKED ALBERT OF FRANZ WHEN THEY HAD RETURNED TO THEIR OWN APARTMENTS YOU SEEM MORE THAN COMMONLY THOUGHTFUL",
+ "audio_seconds": 8.7,
+ "created_at": "2026-07-05T13:04:18+00:00",
+ "failed": false,
+ "text": "what is the matter asked albert of france when they had returned to their own apartments you seem more than commonly thoughtful",
+ "seconds": 0.25
+}

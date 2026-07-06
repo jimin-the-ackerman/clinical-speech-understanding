@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__908903_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, sir. I am forty-one years old and male. When I was seventeen years of age, in the morning, I felt blurring in my vision, the sound was not normal, I had a headache, and I felt light sensations in my right hand. This has happened about ten times until now. Later, I came to know that it happens due to hypertension. Some say it is because of hypoglycemia. Now I am taking blood pressure tablets as well as my medication of ten milligrams daily. Please suggest the actual cause for it and the best treatment.",
+ "audio_seconds": 33.45,
+ "created_at": "2026-07-06T04:31:53+00:00",
+ "failed": false,
+ "text": "Hello, sir. I am 41 years old and male. When I was 17 years of age in the morning, I felt blurring in my vision. The sound was not normal. I had a headache, and I felt light sensations in my right hand. This has happened about 10 times until now. Later, I came to know that it happened due to hypertension. Some say it is because of hypoglycemia. Now I am taking blood pressure tablets as well as my medication of 10mg daily. Please suggest the actual cause for it and the best treatment.",
+ "seconds": 0.956
+}

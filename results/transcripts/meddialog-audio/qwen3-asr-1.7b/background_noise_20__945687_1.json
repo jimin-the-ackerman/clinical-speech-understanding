@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__945687_1",
+ "condition": "background_noise_20",
+ "reference": "What should my married, thirty-one-year-old daughter do? She has taken birth control pills for three years and stopped taking them six weeks ago. She has had two periods since she stopped the pills. She now feels extremely tired and has a heavy feeling in her chest, like she is congested, but she does not have a cold or anything like that. Are these somewhat normal symptoms for someone stopping the pills?",
+ "audio_seconds": 23.04,
+ "created_at": "2026-07-06T05:19:13+00:00",
+ "failed": false,
+ "text": "What should my 31-year-old daughter do? She has taken birth control pills for three years and stopped taking them six weeks ago. She has had two periods since she stopped the pills. She now feels extremely tired and has a heavy feeling in her chest, like she is congested, but she does not have a cold or anything like that. Are these somewhat normal symptoms for someone stopping the pills?",
+ "seconds": 0.776
+}

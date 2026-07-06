@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117029-0013",
+ "condition": null,
+ "reference": "FINALLY GOT OUR ORDERS FOR YOU IT'S MERCURY",
+ "audio_seconds": 4.13,
+ "created_at": "2026-07-06T03:37:27+00:00",
+ "failed": false,
+ "text": "Finally, got our orders for you. It's Mercury.",
+ "seconds": 0.155
+}

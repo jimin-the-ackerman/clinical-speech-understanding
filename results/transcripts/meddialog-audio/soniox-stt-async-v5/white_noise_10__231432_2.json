@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__231432_2",
+ "condition": "white_noise_10",
+ "reference": "It is an allergy, and allergies can take three weeks to subside. If exposed to an allergen, it can be scabies. The medicines taken for other problems, like soap, shampoo, dye, henna, or toxic applications used on the body, can also contribute to the issue. Take the antihistamine Ebastine ten milligrams twice daily for three to four weeks. Use non-toxic oils, shampoos, creams, and skin applications. Apply Crotamiton HC skin ointment to the affected skin and apply Emscab lotion to the entire body for five nights. Boil clothes and bed sheets before reuse. This will address every type of cause mentioned above, and it may take three weeks.",
+ "audio_seconds": 38.57,
+ "created_at": "2026-07-06T03:01:06+00:00",
+ "failed": false,
+ "text": "It is an allergy, and allergies can take 3 weeks to subside. If exposed to an allergen, it can be fate. The medicine is taken for other problems, like soap, smoked food, dye, henna, or toxic applications used on the body can also contribute to the issue. Take the antihistamine Ebescene 10 mg twice daily for 3 to 4 weeks. Use non-toxic oils, shampoos, creams, and skin applications. Apply Cortamicon HC skin ointment to the affected skin, and apply MCAB lotion to the entire body for 5 nights. Boil clothes and bedsheets before reuse. This will address every type of cause mentioned above, and it may take 3 weeks.",
+ "seconds": 8.715
+}

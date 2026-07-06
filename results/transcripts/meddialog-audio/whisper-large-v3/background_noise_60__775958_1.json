@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__775958_1",
+ "condition": "background_noise_60",
+ "reference": "Hello, yesterday I slipped on concrete stairs and landed on my right kidney. I could not breathe for a while and lost my vision for about two minutes. However, I am fine now. Today, however, I can barely walk as my back hurts a lot, especially my kidneys. How do I know if I damaged my kidneys and what is the best treatment? Could I have fractured a bone or something?",
+ "audio_seconds": 20.48,
+ "created_at": "2026-07-06T04:23:39+00:00",
+ "failed": false,
+ "text": "Hello. Yesterday, I slipped on concrete stairs and landed on my right kidney. I could not breathe for a while and lost my vision for about two minutes. However, I am fine now. Today, however, I can barely walk as my back hurts a lot, especially my kidneys. How do I know if I damaged my kidneys and what is the best treatment? Could I have fractured a bone or something?",
+ "seconds": 0.69
+}

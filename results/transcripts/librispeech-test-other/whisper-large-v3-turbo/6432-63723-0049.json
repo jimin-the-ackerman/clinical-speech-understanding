@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0049",
+ "condition": null,
+ "reference": "I SAID WHERE HAVE YOU BEEN REMARKED THE OTHER WE'VE MISSED YOU",
+ "audio_seconds": 4.09,
+ "created_at": "2026-07-05T13:13:25+00:00",
+ "failed": false,
+ "text": "I said, where have you been? remarked the other. We've missed you.",
+ "seconds": 0.115
+}

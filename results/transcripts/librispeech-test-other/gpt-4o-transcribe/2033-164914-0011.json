@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164914-0011",
+ "condition": null,
+ "reference": "BUT TAKE THESE HUNDRED DINERS AND GIVE THEM TO THE SINGER AND BRING HIM TO ME GENTLY AND DO HIM NO HURT",
+ "audio_seconds": 8.95,
+ "created_at": "2026-07-05T23:53:56+00:00",
+ "failed": false,
+ "text": "But take these hundred dinars and give them to the singer and bring him to me gently and do him no hurt.",
+ "seconds": 0.901
+}

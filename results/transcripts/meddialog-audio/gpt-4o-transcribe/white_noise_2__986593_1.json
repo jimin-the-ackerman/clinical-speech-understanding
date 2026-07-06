@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__986593_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor. I woke up today only to find that half of my upper lip is swollen. I looked around for bite or sting marks but found nothing. There is no pain, only a numb and tingly feeling. I didn't eat anything the night before, so it couldn't be an allergic reaction. I applied a frozen bottle of water to it. What could this be, and how can I make the swelling go away as soon as possible?",
+ "audio_seconds": 21.76,
+ "created_at": "2026-07-06T00:47:06+00:00",
+ "failed": false,
+ "text": "A gyomorban, a bélrendszerben, vagy éppen a bőrben. Bármilyen elváltozás, ami az orvosnak feltűnik, gyanakvásra adhat okot, és a páciens felé is fontos, hogy a panaszaikat komolyan vegyék. Azért, mert most még egy picit fáj, vagy egy kicsit alvadt véres a széklete, az nem biztos, hogy holnap és holnapután is ez marad.",
+ "seconds": 1.697
+}

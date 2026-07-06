@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__332311_2",
+ "condition": "background_noise_60",
+ "reference": "It looks like there may be a tract injury during cauterization. Visit a doctor if the flow seems irregular or the stream appears thin. A urinary tract infection remains a possibility; get tested for it.",
+ "audio_seconds": 11.95,
+ "created_at": "2026-07-06T04:21:42+00:00",
+ "failed": false,
+ "text": "It looks like there may be a tract injury and re-cauterization. Visit a doctor if the flu seems irregular or the strain appears thin. A urinary tract infection remains a possibility. Get tested for it.",
+ "seconds": 0.46
+}

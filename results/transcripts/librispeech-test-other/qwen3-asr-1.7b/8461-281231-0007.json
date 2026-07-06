@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0007",
+ "condition": null,
+ "reference": "THEY ARE FAST RISING AT LEAST SAID ULRICA AND A SIGNAL SHALL SOON WAVE TO WARN THE BESIEGERS TO PRESS HARD UPON THOSE WHO WOULD EXTINGUISH THEM",
+ "audio_seconds": 10.19,
+ "created_at": "2026-07-06T03:38:23+00:00",
+ "failed": false,
+ "text": "They are fast rising, at least,\" said Eureka, \"and a signal shall soon wave to warn the besiegers to press hard upon those who would extinguish them.",
+ "seconds": 0.352
+}

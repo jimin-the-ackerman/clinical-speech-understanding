@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__769536_1",
+ "condition": "background_noise_20",
+ "reference": "My son was in atrial fibrillation and had a blood clot in his heart. He is on medication now and is much better. They think the blood clot is gone and plan to shock his heart back into the correct rhythm again. Will regular walking improve his weakened heart and make it stronger?",
+ "audio_seconds": 15.79,
+ "created_at": "2026-07-06T04:52:25+00:00",
+ "failed": false,
+ "text": "My son was in atrial fibrillation and had a blood clot in his heart. He is on medication now and is much better. They think the blood clot is gone and plan to shock his heart back into the correct rhythm again, while regular walking improves his weakened heart and makes it stronger.",
+ "seconds": 0.549
+}

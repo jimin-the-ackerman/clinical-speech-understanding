@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-156975-0001",
+ "condition": null,
+ "reference": "HOLD ON HOLD FAST HOLD OUT PATIENCE IS GENIUS",
+ "audio_seconds": 4.88,
+ "created_at": "2026-07-05T13:09:42+00:00",
+ "failed": false,
+ "text": "Hold on. Hold fast. Hold out. Patience is genius.",
+ "seconds": 0.108
+}

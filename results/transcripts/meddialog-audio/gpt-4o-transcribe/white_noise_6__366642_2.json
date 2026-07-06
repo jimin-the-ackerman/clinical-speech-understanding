@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__366642_2",
+ "condition": "white_noise_6",
+ "reference": "No, this might be an occasional cramp, but if it is repeated, then he should check his potassium level in his blood.",
+ "audio_seconds": 7.59,
+ "created_at": "2026-07-06T00:47:15+00:00",
+ "failed": false,
+ "text": "It's just kind of a blur.",
+ "seconds": 0.817
+}

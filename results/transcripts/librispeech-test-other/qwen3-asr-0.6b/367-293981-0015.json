@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-293981-0015",
+ "condition": null,
+ "reference": "SEARCH YOUR MEMORY AND IF YOU FIND ANYTHING OF THIS KIND YOU NEED ONLY TELL ME OF IT AND I PROMISE YOU BY THE ORDER OF KNIGHTHOOD WHICH I HAVE RECEIVED TO PROCURE YOU SATISFACTION AND REPARATION TO THE UTMOST OF YOUR DESIRE",
+ "audio_seconds": 11.06,
+ "created_at": "2026-07-06T03:18:28+00:00",
+ "failed": false,
+ "text": "Search your memory, and if you find anything of this kind, you need only tell me of it. And I promise you, by the order of knighthood which I have received, to procure you satisfaction and reparation to the utmost of your desire.",
+ "seconds": 0.5
+}

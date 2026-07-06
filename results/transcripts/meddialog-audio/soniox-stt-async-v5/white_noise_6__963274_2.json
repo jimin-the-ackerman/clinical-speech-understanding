@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__963274_2",
+ "condition": "white_noise_6",
+ "reference": "Since she is taking oral contraceptive pills, there may be a hormonal imbalance leading to her spotting. There is no problem in taking the iron supplements.",
+ "audio_seconds": 10.92,
+ "created_at": "2026-07-06T03:12:22+00:00",
+ "failed": false,
+ "text": "Since she's taking oral contraceptive pills, there may be a hormonal imbalance leading to her spotting. There is no problem in taking the iron supplements.",
+ "seconds": 5.241
+}

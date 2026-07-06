@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-9934-0011",
+ "condition": null,
+ "reference": "REQUEST COURFEYRAC TO COME AND TALK WITH ME SAID MARIUS",
+ "audio_seconds": 3.73,
+ "created_at": "2026-07-06T03:19:55+00:00",
+ "failed": false,
+ "text": "Request Kerferig to come and talk with me,\" said Marius.",
+ "seconds": 0.174
+}

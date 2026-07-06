@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-10919-0028",
+ "condition": null,
+ "reference": "NERVOUS IRRITABILITY HE SAID TO THE PRINCESS WHEN KITTY HAD LEFT THE ROOM HOWEVER I HAD FINISHED",
+ "audio_seconds": 5.93,
+ "created_at": "2026-07-05T13:01:29+00:00",
+ "failed": false,
+ "text": "nervous irritability he said to the princess when kitty had left the room however i had finished",
+ "seconds": 0.283
+}

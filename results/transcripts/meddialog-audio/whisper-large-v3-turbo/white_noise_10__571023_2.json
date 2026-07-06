@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__571023_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, welcome to HCMI. I really appreciate your concern. With Parkinson's disease, such hallucinations are a common phenomenon, and it may not be due to any additional disease, so there is no need to worry about this. Try to control your thoughts. If the symptoms persist, then an MRI of the brain is necessary, but it will be alright if you are able to control your thoughts. I hope this information helps.",
+ "audio_seconds": 26.71,
+ "created_at": "2026-07-06T04:46:00+00:00",
+ "failed": false,
+ "text": "Hello, welcome to HCMI. I really appreciate your concern. With Parkinson's disease, such hallucinations are a common phenomenon, and it may not be due to any additional disease, so there is no need to worry about this. Try to control your thoughts. If the symptoms persist, then an MRI of the brain is necessary. But it will be alright if you are able to control your thoughts. I hope this information helps.",
+ "seconds": 0.28
+}

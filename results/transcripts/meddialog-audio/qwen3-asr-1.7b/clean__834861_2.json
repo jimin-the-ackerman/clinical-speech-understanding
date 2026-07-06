@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__834861_2",
+ "condition": "clean",
+ "reference": "Hello, the aspirin and the antiplatelet medications together are fine for him. He does not need to take a blood thinner like warfarin in addition to those.",
+ "audio_seconds": 9.98,
+ "created_at": "2026-07-06T05:30:14+00:00",
+ "failed": false,
+ "text": "Hello. The aspirin and the antiplatelet medications together are fine for him. He does not need to take a blood thinner like warfarin in addition to those. Tile.",
+ "seconds": 0.375
+}

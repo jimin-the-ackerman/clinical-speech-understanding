@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__621530_2",
+ "condition": "white_noise_2",
+ "reference": "Dear, as you have noticed the infection after two months, it may be due to contact dermatitis. Avoid using the same material to wear next time. In case you suspect a keloid, it is better not to touch it again. A dermatologist may handle it better. In the first scenario, you can apply an antibiotic and anti-inflammatory steroid cream on the affected area, such as Cortisporin cream.",
+ "audio_seconds": 22.27,
+ "created_at": "2026-07-06T05:36:58+00:00",
+ "failed": false,
+ "text": "Dear, as you have noticed the infection after two months, it may be due to contact dermatitis. Avoid using the same material to wear next time. In case you suspect a keloid, it is better not to touch it again. A dermatologist may handle it better. In the first scenario, you can apply an antibiotic and anti-inflammatory steroid cream on the affected area, such as Eryng cream.",
+ "seconds": 0.784
+}

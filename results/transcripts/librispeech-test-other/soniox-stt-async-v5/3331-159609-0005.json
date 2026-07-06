@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0005",
+ "condition": null,
+ "reference": "NO I M ONLY TIRED HAD A GOOD DEAL TO DO LATELY AND THE DULL WEATHER MAKES ME JUST A TRIFLE BLUE",
+ "audio_seconds": 6.64,
+ "created_at": "2026-07-06T00:05:22+00:00",
+ "failed": false,
+ "text": "No, I'm only tired. I had a good deal to do lately, and the dull weather makes me just a trouble brew.",
+ "seconds": 4.146
+}

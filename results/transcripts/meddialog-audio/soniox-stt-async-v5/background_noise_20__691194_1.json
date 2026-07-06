@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__691194_1",
+ "condition": "background_noise_20",
+ "reference": "Hello, I have been experiencing abdominal pain for the last two weeks. I also often feel breathless. I thought it might be a pregnancy symptom, so I performed a urine test, which came out negative. I do not think it can be pregnancy because if it were, I would be over seven months along, and I have had my regular periods. Additionally, my belly is not bulging out. Please help!",
+ "audio_seconds": 24.58,
+ "created_at": "2026-07-06T02:48:30+00:00",
+ "failed": false,
+ "text": "Hello, I have been experiencing abdominal pain for the last 2 weeks. I also often feel breathless. I thought it might be a pregnancy symptom, so I performed a urine test, which came out negative. I do not think it can be pregnancy because if it were, I would be over 7 months along, and I have had my regular periods. Additionally, my belly is not bulging out. Please help.",
+ "seconds": 6.054
+}

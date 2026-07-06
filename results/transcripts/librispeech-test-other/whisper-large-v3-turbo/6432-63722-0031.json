@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0031",
+ "condition": null,
+ "reference": "AND DONOVAN'S VOICE WAS PLAINLY SKEPTICAL",
+ "audio_seconds": 2.69,
+ "created_at": "2026-07-05T13:13:15+00:00",
+ "failed": false,
+ "text": "and donovan's voice was plainly skeptical",
+ "seconds": 0.118
+}

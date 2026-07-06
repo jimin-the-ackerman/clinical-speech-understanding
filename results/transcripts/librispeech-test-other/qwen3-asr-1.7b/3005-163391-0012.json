@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163391-0012",
+ "condition": null,
+ "reference": "TOO BAD TOO BAD HE COULDN'T A LIVED TO SEE HIS BROTHERS POOR SOUL",
+ "audio_seconds": 4.59,
+ "created_at": "2026-07-06T03:28:29+00:00",
+ "failed": false,
+ "text": "Too bad. Too bad he couldn't have lived to see his brother's poor soul.",
+ "seconds": 0.202
+}

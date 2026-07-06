@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0037",
+ "condition": null,
+ "reference": "DON'T BEGIN WHAT DO YOU MEAN",
+ "audio_seconds": 3.05,
+ "created_at": "2026-07-06T03:37:36+00:00",
+ "failed": false,
+ "text": "Don't begin! What do you mean?",
+ "seconds": 0.128
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__820767_2",
+ "condition": "white_noise_6",
+ "reference": "I will suggest you use Ayurvedic medicine, Tablet Yogaraj Gugglu, two tablets twice a day, and Shallaki, one tablet three times a day. It will help in curing your issue.",
+ "audio_seconds": 10.41,
+ "created_at": "2026-07-06T04:49:16+00:00",
+ "failed": false,
+ "text": "I will suggest you use Ayurvedic medicine, tablet, Yogaraj, Google, two tablets, twice a day, and shallot, one tablet, three times a day. It will help in curing your issues.",
+ "seconds": 0.215
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168656-0011",
+ "condition": null,
+ "reference": "HE IS RESISTING FLUTTERING HIS TINY WINGS AND STILL MAKING AN EFFORT TO FLY BUT THE DANCER IS LAUGHING WITH A SATANICAL AIR",
+ "audio_seconds": 7.23,
+ "created_at": "2026-07-05T23:54:47+00:00",
+ "failed": false,
+ "text": "He is resisting, fluttering his tiny wings, and still making an effort to fly; but the dancer is laughing with a satanical air.",
+ "seconds": 0.96
+}

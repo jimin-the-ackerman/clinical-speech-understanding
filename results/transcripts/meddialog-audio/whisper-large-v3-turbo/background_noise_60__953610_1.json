@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__953610_1",
+ "condition": "background_noise_60",
+ "reference": "At three am, I woke up with severe shaking of my whole body and chills. It went on for thirty minutes. Then I took a pain and sleep medication, and within fifteen minutes it went away. This morning, I had a very slight recurrence. I fell and hit my head about two months ago, and they took me to the emergency room by ambulance. A computed tomography scan showed nothing. I felt like I was going to have a seizure or something. Please help.",
+ "audio_seconds": 27.39,
+ "created_at": "2026-07-06T04:43:48+00:00",
+ "failed": false,
+ "text": "At 3 a.m., I woke up with severe faking of my whole body and chills. I went on for 15 minutes. Then I took a pain and sick medication, and within 15 minutes of my life. The same day, I had a very severe recurrence. I put them in my head about two months ago, and they took me to the emergency room by ambulance. The computer tomography scan showed nothing. I felt like I was going to have a seizure or something. Please help.",
+ "seconds": 0.312
+}

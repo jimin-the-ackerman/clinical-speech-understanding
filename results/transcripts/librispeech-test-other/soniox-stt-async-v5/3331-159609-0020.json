@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0020",
+ "condition": null,
+ "reference": "IF FANNY WANTED TO SHOW HIM WHAT SHE COULD DO TOWARD MAKING A PLEASANT HOME SHE CERTAINLY SUCCEEDED BETTER THAN SHE SUSPECTED FOR IN SPITE OF MANY FAILURES AND DISCOURAGEMENTS BEHIND THE SCENES THE LITTLE HOUSE BECAME A MOST ATTRACTIVE PLACE TO MISTER SYDNEY AT LEAST FOR HE WAS MORE THE HOUSE FRIEND THAN EVER AND SEEMED DETERMINED TO PROVE THAT CHANGE OF FORTUNE MADE NO DIFFERENCE TO HIM",
+ "audio_seconds": 23.11,
+ "created_at": "2026-07-06T00:05:31+00:00",
+ "failed": false,
+ "text": "If Annie wanted to show him what she could do toward making a pleasant home, she certainly succeeded better than she suspected, for in spite of many failures and discouragements behind the scenes, the little house became a most attractive place—to Mr. Sidney at least, for he was more the house friend than ever—and seemed determined to prove that change of fortune made no difference to him.",
+ "seconds": 4.333
+}

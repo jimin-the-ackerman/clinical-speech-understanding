@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0012",
+ "condition": null,
+ "reference": "THE FIRST MAN MAKING A SHAKEDOWN WILL GET THE SAME TREATMENT WE'RE GOING TO USE ON THE STONEWALL BOYS YOU'LL GET DOUBLE PAY HERE AND YOU CAN LIVE ON IT",
+ "audio_seconds": 9.49,
+ "created_at": "2026-07-06T02:38:55+00:00",
+ "failed": false,
+ "text": "The first man making a shakedown will get the same treatment we're going to use on the stonewall boys; you'll get double pay here, and you can live on it.",
+ "seconds": 4.633
+}

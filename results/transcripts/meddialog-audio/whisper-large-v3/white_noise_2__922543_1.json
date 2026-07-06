@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__922543_1",
+ "condition": "white_noise_2",
+ "reference": "My daughter had two seizures, and both occurred while she was sleeping. I took her to the emergency room both times, and it appeared that she had another seizure at the emergency room each time because she wet herself again. Is this normal? The very first one was in April of two thousand and fourteen, and then on Mother's Day, she had the second one. We have never experienced seizures before that. I am nervous and scared, and there is a waiting list to see a neurologist.",
+ "audio_seconds": 24.83,
+ "created_at": "2026-07-06T04:35:40+00:00",
+ "failed": false,
+ "text": "my daughter had two seizures and both occurred while she was sleeping i took her to the emergency room both times and it appeared that she had another seizure at the emergency room each time because she wet herself again is this normal the very first one was in april of 2014 and then on mother's day she had the second one we have never experienced seizures before that i am nervous and scared and there is a waiting list to see in the",
+ "seconds": 0.92
+}

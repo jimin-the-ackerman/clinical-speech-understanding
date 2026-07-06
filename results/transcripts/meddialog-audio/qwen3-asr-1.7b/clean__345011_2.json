@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__345011_2",
+ "condition": "clean",
+ "reference": "If the patient has hepatitis C and there is a lump in the liver, it might be progressing towards cirrhosis. If a patient is immunocompromised and there is a severe infection along with an electrolyte imbalance, then the prognosis is usually not good.",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T05:28:08+00:00",
+ "failed": false,
+ "text": "If the patient has hepatitis C and there is a lump in the liver, it might be progressing towards cirrhosis. If a patient is immunocompromised and there is a severe infection along with an electrolyte imbalance, then the prognosis is usually not good.",
+ "seconds": 0.514
+}

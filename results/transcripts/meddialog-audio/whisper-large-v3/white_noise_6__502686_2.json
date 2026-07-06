@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__502686_2",
+ "condition": "white_noise_6",
+ "reference": "Welcome to the healthcare center. Get a liver function test done. If the results are normal, your liver is normal. If you are overweight, reduce your weight with exercise, decrease your dietary intake, and do not consume alcohol.",
+ "audio_seconds": 12.8,
+ "created_at": "2026-07-06T04:37:22+00:00",
+ "failed": false,
+ "text": "Welcome to the Health Care Center. Get a liver function test done. If the results are normal, your liver is normal. If you are overweight, reduce your weight with exercise, decrease your dietary intake, and do not consume alcohol.",
+ "seconds": 0.411
+}

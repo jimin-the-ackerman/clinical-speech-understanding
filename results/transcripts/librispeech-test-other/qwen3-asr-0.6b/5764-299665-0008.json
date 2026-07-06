@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5764-299665-0008",
+ "condition": null,
+ "reference": "IS THIS GOD RESPONSIBLE FOR RELIGIOUS PERSECUTION FOR THE INQUISITION FOR THE THUMB SCREW AND RACK AND FOR ALL THE INSTRUMENTS OF TORTURE",
+ "audio_seconds": 11.93,
+ "created_at": "2026-07-06T03:21:55+00:00",
+ "failed": false,
+ "text": "Is this God responsible for religious persecution, for the Inquisition, for the thumb screw and rack, and for all the instruments of torture?",
+ "seconds": 0.289
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__946803_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, your child had these symptoms due to the spicy diet she had, resulting in burning and causing some aphthous ulcers in the oral cavity. Please avoid hard and spicy foods and give her fluids and a bland diet. You can try Mucaine gel to decrease pain, as they will heal gradually.",
+ "audio_seconds": 16.38,
+ "created_at": "2026-07-06T05:00:31+00:00",
+ "failed": false,
+ "text": "I, your child had these symptoms due to the spicy diet she had, resulting in burning and causing some aphthous ulcers in the oral cavity. Please avoid hard and spicy foods and give her fluids and a bland diet. You can try mucilage to decrease pain, as they will heal gradually.",
+ "seconds": 0.56
+}

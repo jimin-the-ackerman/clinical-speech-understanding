@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0014",
+ "condition": null,
+ "reference": "BUSTED HIS HEAD IN WITH A HEAVY CANDLESTICK ONE OF A PAIR",
+ "audio_seconds": 3.84,
+ "created_at": "2026-07-05T13:05:00+00:00",
+ "failed": false,
+ "text": "busted his head in with a heavy candlestick one of a pair",
+ "seconds": 0.19
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280085-0009",
+ "condition": null,
+ "reference": "WE WERE IN SIGHT OF OUR LONG SOUGHT HORSES WHEN THEY CUT US OFF FROM THE ANIMALS AND OUR LAST HOPE WAS GONE",
+ "audio_seconds": 6.02,
+ "created_at": "2026-07-06T02:38:40+00:00",
+ "failed": false,
+ "text": "We were inside of our long sawed horses when they cut us off from the animals, and our last hope was gone.",
+ "seconds": 4.735
+}

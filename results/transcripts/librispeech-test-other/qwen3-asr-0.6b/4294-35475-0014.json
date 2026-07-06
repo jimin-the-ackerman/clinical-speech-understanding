@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-35475-0014",
+ "condition": null,
+ "reference": "HE LIFTED THE SCISSORS AND WITH ONE STROKE DESTROYED THE WEB AND GAVE THE FLY ITS FREEDOM",
+ "audio_seconds": 5.93,
+ "created_at": "2026-07-06T03:19:48+00:00",
+ "failed": false,
+ "text": "He lifted the scissors and, with one stroke, destroyed the web, and gave the fly its freedom.",
+ "seconds": 0.239
+}

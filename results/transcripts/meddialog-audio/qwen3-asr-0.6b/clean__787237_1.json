@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__787237_1",
+ "condition": "clean",
+ "reference": "Hi, I am thirty-four years old. We have shifted to Dubai about a month ago. I started having a skin rash and itching for the past four to five days. It appears, and after some hours, it disappears. I am taking Cetirizine. After taking the tablet, it reduces, but again the next day the rash appears. What is the solution?",
+ "audio_seconds": 20.91,
+ "created_at": "2026-07-06T05:03:28+00:00",
+ "failed": false,
+ "text": "Hi, I am thirty-four years old. We have shifted to Dubai about a month ago. I started having a skin rash and itching for the past four to five days. It appears and after some hours it disappears. I am taking cetirizine. After taking the tablet, it reduces, but again the next day the rash appears. What is the solution?",
+ "seconds": 0.675
+}

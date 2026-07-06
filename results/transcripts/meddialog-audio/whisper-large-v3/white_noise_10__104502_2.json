@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__104502_2",
+ "condition": "white_noise_10",
+ "reference": "As you have injured your finger, you need to know that you will require the opinion of a hand surgeon regarding your condition. The X-rays will provide more details about the case at hand.",
+ "audio_seconds": 10.33,
+ "created_at": "2026-07-06T04:28:32+00:00",
+ "failed": false,
+ "text": "As you have injured your finger, you need to know that you will require the opinion of a hand surgeon regarding your condition. The x-rays will provide more details about the patient's condition.",
+ "seconds": 0.422
+}

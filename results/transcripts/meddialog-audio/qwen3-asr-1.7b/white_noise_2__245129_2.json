@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__245129_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, this can happen if the child is not able to pass gas properly. An abdominal ultrasound should be done. An examination by a doctor should also be conducted.",
+ "audio_seconds": 8.96,
+ "created_at": "2026-07-06T05:35:21+00:00",
+ "failed": false,
+ "text": "Hi, this can happen if the child is not able to pass gas properly, and abdominal ultrasound should be done. An examination by a doctor should also be conducted.",
+ "seconds": 0.337
+}

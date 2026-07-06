@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0046",
+ "condition": null,
+ "reference": "DO YOU WANT TO KILL ME DON'T TALK ANY MORE",
+ "audio_seconds": 2.94,
+ "created_at": "2026-07-05T23:58:33+00:00",
+ "failed": false,
+ "text": "Do you want to kill me? Don't talk anymore.",
+ "seconds": 0.773
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__244144_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, your symptoms do suggest a tendency for obsessions and compulsions, but to label it obsessive-compulsive disorder, you need to be evaluated by a psychiatrist. There are many other things which need to be ascertained to make this diagnosis. There are good medications available for treatment, and you must visit the doctor for evaluation. They will talk to you in more detail, assess the level of anxiety in you, and accordingly will prescribe you a treatment plan. Good luck.",
+ "audio_seconds": 30.98,
+ "created_at": "2026-07-06T05:20:12+00:00",
+ "failed": false,
+ "text": "Hello. Your symptoms do suggest a tendency for obsessions and compulsions, but to label it obsessive compulsive disorder, you need to be evaluated by a psychiatrist. There are many other things that be ascertained to make this diagnosis. There are good medications available for treatment, and you must visit the doctor for evaluation. They will talk to you in more detail, assess the level of anxiety in you, and accordingly will prescribe you a treatment plan. Good luck.",
+ "seconds": 0.91
+}

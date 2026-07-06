@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280057-0004",
+ "condition": null,
+ "reference": "MY BROTHER JAMES WAS BORN JANUARY FIFTEENTH EIGHTEEN FORTY EIGHT JOHN IN EIGHTEEN FIFTY ONE AND ROBERT IN DECEMBER EIGHTEEN FIFTY THREE",
+ "audio_seconds": 7.95,
+ "created_at": "2026-07-06T03:24:33+00:00",
+ "failed": false,
+ "text": "My brother James was born January fifteen, eighteen forty-eight, John in eighteen fifty-one, and Robert in December eighteen fifty-three.",
+ "seconds": 0.268
+}

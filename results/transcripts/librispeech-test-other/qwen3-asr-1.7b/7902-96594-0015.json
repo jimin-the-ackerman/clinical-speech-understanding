@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96594-0015",
+ "condition": null,
+ "reference": "AWK WARD MISTER GURR AWKWARD",
+ "audio_seconds": 2.57,
+ "created_at": "2026-07-06T03:36:31+00:00",
+ "failed": false,
+ "text": "Awkward, Mister Gar. Awkward.",
+ "seconds": 0.141
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131564-0024",
+ "condition": null,
+ "reference": "MILICENT FLEW TO THANK ME OVERFLOWING WITH GRATITUDE",
+ "audio_seconds": 4.36,
+ "created_at": "2026-07-06T03:21:08+00:00",
+ "failed": false,
+ "text": "Millicent flew to thank me, overwhelming its gratitude.",
+ "seconds": 0.149
+}

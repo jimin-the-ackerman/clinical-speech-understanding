@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__475479_2",
+ "condition": "background_noise_60",
+ "reference": "In my opinion, you should check your parathyroid hormone, calcium, and phosphorus levels. This may indicate a parathyroid gland problem. Good luck.",
+ "audio_seconds": 9.05,
+ "created_at": "2026-07-06T00:44:07+00:00",
+ "failed": false,
+ "text": "In my opinion, you should check your parathyroid hormone, calcium, and phosphorus levels. This may indicate a parathyroid gland problem. Good luck.",
+ "seconds": 0.723
+}

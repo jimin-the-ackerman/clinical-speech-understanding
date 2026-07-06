@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__130680_1",
+ "condition": "background_noise_20",
+ "reference": "Hello, for the past week I have been suffering from mid-back pain and neck pain. I do not know the reason for this. I inhaled tablets from the medical shop, but it provided relief for two days, and then the pain started again suddenly. What should I do now? Please help me with this as soon as possible.",
+ "audio_seconds": 16.64,
+ "created_at": "2026-07-06T04:49:43+00:00",
+ "failed": false,
+ "text": "Hello. For the past week, I have been suffering from mid-back pain and neck pain. I do not know the reason for this. I inhaled tablets from the medical shop, but it provided relief for two days, and then the pain started again suddenly. What should I do now? Please help me with this as soon as possible.",
+ "seconds": 0.632
+}

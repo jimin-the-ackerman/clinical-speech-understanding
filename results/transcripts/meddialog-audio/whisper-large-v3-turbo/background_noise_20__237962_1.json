@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__237962_1",
+ "condition": "background_noise_20",
+ "reference": "I have exercise-induced asthma, which has never been a huge problem for me until now. I have no health insurance and I am sick with a pretty bad cough. Every once in a while, I cough so badly that I have an attack and I can't breathe or stop coughing enough to use my inhaler. To add to that, the inhaler I am using is over five years past the expiration date. So, what I am wondering is, is there any way to fix these problems without health insurance?",
+ "audio_seconds": 27.31,
+ "created_at": "2026-07-06T04:39:42+00:00",
+ "failed": false,
+ "text": "i have exercise induced asthma which has never been a huge problem for me until now i have no health insurance and i am sick with a pretty bad cough every once in a while i cough so badly that i have an attack and i can't breathe or stop coughing enough to use my inhaler to add to that the inhaler i am using is over five years past the expiration date so what i am wondering is is there any way to fix these problems without health insurance",
+ "seconds": 0.336
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2330-0023",
+ "condition": null,
+ "reference": "IN HEAVEN'S NAME WHY",
+ "audio_seconds": 2.31,
+ "created_at": "2026-07-05T13:13:40+00:00",
+ "failed": false,
+ "text": "In heaven's name, why?",
+ "seconds": 0.102
+}

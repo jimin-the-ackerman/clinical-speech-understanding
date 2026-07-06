@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__975126_1",
+ "condition": "white_noise_2",
+ "reference": "My dog ran into the inner part of my left knee. It has been very sore since, especially when going down the stairs. I made the mistake of trying to run a few days after the injury and now, even several days later, I am in excruciating pain. I have mild swelling, which ice is not alleviating.",
+ "audio_seconds": 18.52,
+ "created_at": "2026-07-06T05:11:38+00:00",
+ "failed": false,
+ "text": "My dog ran into the inner part of my rough knee. It has been very sore since, especially when going down the stairs, and made the mistake of trying to run a few days after the injury, and now even several days later, I am in excruciating pain. I have mild swelling, which ice is not alleviating.",
+ "seconds": 0.621
+}

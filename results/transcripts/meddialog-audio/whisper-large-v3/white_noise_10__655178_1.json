@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__655178_1",
+ "condition": "white_noise_10",
+ "reference": "I have abdominal pain and cramps when I masturbate, not at first but about five to ten minutes into it. After ejaculating, the pain slowly goes away in about thirty minutes. I am a fifty-year-old male. I had a colonoscopy on February nineteen. All was normal, and the pain started about two weeks ago.",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T04:30:45+00:00",
+ "failed": false,
+ "text": "i have abdominal pain and cramps when i masturbate not at first but about five to ten weeks into it after ejaculating the pain goes away in about 30 minutes i am a 50 year old man i had a colonoscopy on february 19. all was normal and the pain started about two weeks ago",
+ "seconds": 0.533
+}

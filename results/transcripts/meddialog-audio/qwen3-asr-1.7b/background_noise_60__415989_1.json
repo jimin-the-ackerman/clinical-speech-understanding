@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__415989_1",
+ "condition": "background_noise_60",
+ "reference": "I have had a severe case of influenza and now have a chest infection. It has been nine days since the onset of influenza, and I am experiencing difficulty breathing. There is a loud rattle when I exhale. Additionally, if I lie on my left side, it gets worse, so I feel it is the left side of my chest. Do I need to revisit the doctor? I have Type two diabetes and fibromyalgia, so my immune system is not strong, but I never know when I am over-worrying.",
+ "audio_seconds": 26.45,
+ "created_at": "2026-07-06T05:24:41+00:00",
+ "failed": false,
+ "text": "I have had a severe case of influenza and now my chest hurts. It has been nine days since the onset of influenza, and I am still having symptoms. There is a mild rattle when I exhale. Additionally, if I lie on the left side, it gets worse. So I feel it is the left side of my chest. Before you visit the doctor, I have type two diabetes and fibromyalgia, so my immune system is not strong. But I never know when I am overworked.",
+ "seconds": 0.972
+}

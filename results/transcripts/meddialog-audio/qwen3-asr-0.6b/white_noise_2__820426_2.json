@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__820426_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. When minoxidil is started, it can lead to hair loss at first because it regulates the hair cycle and all hairs enter one phase, leading to diffuse shedding. However, it eventually stops. Ensure you have a proper diet that includes vitamins and minerals. Consider taking biotin supplements as well, as biotin is very important for hair growth.",
+ "audio_seconds": 20.48,
+ "created_at": "2026-07-06T05:11:01+00:00",
+ "failed": false,
+ "text": "Hello. When minoxidil is started, it can lead to hair loss at first because it regulates the hair cycle and all hairs enter one phase, leading to diffuse shedding. However, it eventually stops. Ensure you have a proper diet that includes vitamins and minerals. Consider taking biotin supplements as well, as biotin is very important for hair growth.",
+ "seconds": 0.668
+}

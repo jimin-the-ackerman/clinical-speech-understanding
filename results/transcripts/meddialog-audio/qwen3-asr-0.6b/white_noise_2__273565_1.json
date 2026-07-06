@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__273565_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, behind my bottom right molar, there is an open sore, and it feels like something is tearing out. It is swollen over my molar too. There is a white discoloration around the sore, and the back of my throat hurts on the same side. It hurts badly. I have difficulty swallowing and eating foods. Please help.",
+ "audio_seconds": 19.2,
+ "created_at": "2026-07-06T05:08:43+00:00",
+ "failed": false,
+ "text": "Hello doctor. Behind my bottom right molar, there is an open sore, and it feels like it's tearing out. It is swollen over my molar too. There is a white discoloration around the sore, and the back of my throat hurts on the same side. It hurts badly. I have difficulty swallowing and eating foods. Please help.",
+ "seconds": 0.678
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__409307_1",
+ "condition": "white_noise_10",
+ "reference": "I had a hip replaced three years ago, and sometimes it feels like it jumps out of joint. If I stand and move around, then everything seems okay again. Then, two years ago, I had the other hip done, and after that, I noticed that the leg between the ankle and knee is about one inch or more larger than the other leg. Why is that?",
+ "audio_seconds": 18.52,
+ "created_at": "2026-07-06T05:32:11+00:00",
+ "failed": false,
+ "text": "I had a hip replaced three years ago, and sometimes it feels like it jumps out of place. If I stand and move around, then everything seems okay again. Then, two years I had the other hip done, and after that, I noticed that the leg between the ankle and knee is about one inch or more larger than the other leg. Why is that?",
+ "seconds": 0.701
+}

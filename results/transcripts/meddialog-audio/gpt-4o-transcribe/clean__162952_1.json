@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__162952_1",
+ "condition": "clean",
+ "reference": "I was walking and a friend said hi, so I turned around and did not know that there was a brick post in front of me. I slammed into it with my forehead. There is now a very large bump with a red line down it on my forehead. How long will it take for this to go away? Why is there a red line in it? How can I make the bump go away?",
+ "audio_seconds": 17.75,
+ "created_at": "2026-07-06T00:44:44+00:00",
+ "failed": false,
+ "text": "I was walking and a friend said hi so I turned around and did not know that there was a brick post in front of me. I slammed into it with my forehead. There is now a very large bump with a red line down it on my forehead. How long will it take for this to go away? Why is there a red line in it? How can I make the bump go away?",
+ "seconds": 1.208
+}

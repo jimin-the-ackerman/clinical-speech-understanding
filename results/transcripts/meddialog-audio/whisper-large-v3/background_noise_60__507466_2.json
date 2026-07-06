@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__507466_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, and welcome to HCM. Only a biopsy can show for sure what it is, but usually, this is just a swollen lymph node due to a respiratory infection. However, if there is redness around it, or if it is fixed to the background or growing quickly, then you should visit a specialist. If this is soft and movable, then it can be a lymph node or lipoma. To be sure, you can do ultrasounds with a needle biopsy to see the exact cause. I wish you good health.",
+ "audio_seconds": 27.56,
+ "created_at": "2026-07-06T04:22:28+00:00",
+ "failed": false,
+ "text": "Hi, and welcome to HCM. Only a biopsy can show for sure what it is, but usually this is just a stolen nutrient for the rest of the year. However, if there's redness around it, or if it is fixed in the background or growing quickly, then you should visit a specialist. If it's just a soften nutrient, then it can be a nutrient, or a diploma. To be sure, you can do ultrasound, or go biopsy, to see the exact cause. I hope this is good help.",
+ "seconds": 0.919
+}

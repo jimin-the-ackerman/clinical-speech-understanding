@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0018",
+ "condition": null,
+ "reference": "FOR STATE PROCESSIONS A THRONE IS SET FOR HIM UPON A HUGE ELEPHANT ELEVEN CUBITS HIGH AND UPON THIS HE SITTETH HAVING HIS GREAT LORDS AND OFFICERS AND GUESTS STANDING IN TWO RANKS ON HIS RIGHT HAND AND ON HIS LEFT",
+ "audio_seconds": 15.15,
+ "created_at": "2026-07-06T02:35:24+00:00",
+ "failed": false,
+ "text": "For state processions, a throne is set for him upon a huge elephant, 11 cubits high; and upon this he siteth having his great lords and officers and guests standing in two ranks, on his right hand and on his left.",
+ "seconds": 4.88
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__493417_1",
+ "condition": "clean",
+ "reference": "I am writing from India. I have been suffering from asthma since the 1980s, but it was under control with the usual medications. I had tuberculosis last year and took anti-tuberculosis medications for one full year. Now the tuberculosis has gone, but I have bronchiectasis. If I take antibiotics, I have stomach problems. What should I do?",
+ "audio_seconds": 22.95,
+ "created_at": "2026-07-06T04:26:22+00:00",
+ "failed": false,
+ "text": "I am writing from India. I have been suffering from asthma since the 1980s, but it was under control with the usual medications. I had tuberculosis last year and took anti-tuberculosis medications for one full year. Now the tuberculosis has gone, but I have bronchiectasis. If I take antibiotics, I have stomach problems. What should I do?",
+ "seconds": 0.638
+}

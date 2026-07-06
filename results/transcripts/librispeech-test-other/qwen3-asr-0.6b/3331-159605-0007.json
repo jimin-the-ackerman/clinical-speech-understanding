@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0007",
+ "condition": null,
+ "reference": "HE HAS KNOWN HER ALL HER LIFE AND HAS A GOOD INFLUENCE OVER HER",
+ "audio_seconds": 4.51,
+ "created_at": "2026-07-06T03:17:02+00:00",
+ "failed": false,
+ "text": "He has known her all her life, and has a good influence over her.",
+ "seconds": 0.188
+}

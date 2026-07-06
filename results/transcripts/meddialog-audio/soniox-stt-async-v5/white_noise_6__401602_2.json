@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__401602_2",
+ "condition": "white_noise_6",
+ "reference": "You can conceive while taking these tablets. This medicine is for epilepsy. You have to take advice from the physician who is treating you for epilepsy. An electroencephalogram may have to be done. The risk of epilepsy in pregnancy needs to be assessed.",
+ "audio_seconds": 12.71,
+ "created_at": "2026-07-06T03:09:56+00:00",
+ "failed": false,
+ "text": "You can conceive while taking these tablets. This medicine is for epilepsy. You have to take advice from the physician who is treating you for epilepsy. An electroencephalogram may have to be done. The risk of epilepsy in pregnancy needs to be assessed.",
+ "seconds": 4.642
+}

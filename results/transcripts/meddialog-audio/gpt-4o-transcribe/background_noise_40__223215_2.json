@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__223215_2",
+ "condition": "background_noise_40",
+ "reference": "Go for physiotherapy and use ice packs, ultrasound therapy, and thumb kneading. My home advice is to use ice packs.",
+ "audio_seconds": 7.94,
+ "created_at": "2026-07-06T00:42:54+00:00",
+ "failed": false,
+ "text": "Go for physiotherapy, use ice packs, ultrasound therapy and firming. My home advice is to use ice packs.",
+ "seconds": 2.43
+}

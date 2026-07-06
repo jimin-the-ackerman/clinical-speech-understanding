@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__819916_2",
+ "condition": "clean",
+ "reference": "A fever of one hundred and three degrees Fahrenheit or higher should be evaluated immediately. It is better to perform a complete blood count and a chest X-ray to rule out respiratory infections.",
+ "audio_seconds": 10.75,
+ "created_at": "2026-07-06T04:27:44+00:00",
+ "failed": false,
+ "text": "A fever of 103 degrees Fahrenheit or higher should be evaluated immediately. It is better to perform a complete blood count and a chest x-ray to rule out respiratory infections.",
+ "seconds": 0.352
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__925981_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. Your history is very classical. The statement 'the pain is severe and changes locations' itself suggests the most probable diagnosis of Meckel's diverticulitis. Please discuss this with your doctor. Get a referral to a surgical gastroenterologist. If the ultrasonography and computed tomography scan do not help in making a diagnosis, diagnostic laparoscopy with possible surgical intervention is a good alternative. You should return to the emergency room.",
+ "audio_seconds": 30.63,
+ "created_at": "2026-07-06T05:26:50+00:00",
+ "failed": false,
+ "text": "Hello, your history is very classical. The statement, the pain is severe and changes locations. Itself suggests the most probable diagnosis of Meckel's diverticulitis. Please discuss this with your doctor. Get a referral to a surgical gastroenterologist. If the ultrasonography and computed tomography scan do not help in making a diagnosis, diagnostic laparoscopy with possible surgical intervention is a good alternative. You should return to the emergency room.",
+ "seconds": 0.868
+}

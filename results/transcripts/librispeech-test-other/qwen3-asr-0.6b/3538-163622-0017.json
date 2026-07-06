@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163622-0017",
+ "condition": null,
+ "reference": "IT LOOKS LIKE THE TRUNK OF A GREAT THICK BIRCH TREE",
+ "audio_seconds": 3.08,
+ "created_at": "2026-07-06T03:18:04+00:00",
+ "failed": false,
+ "text": "It looks like the chunk of a great, thick birch tree.",
+ "seconds": 0.171
+}

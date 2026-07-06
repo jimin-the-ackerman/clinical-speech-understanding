@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__400384_1",
+ "condition": "white_noise_2",
+ "reference": "I started feeling a painless throbbing sensation in my head. I am also experiencing dizzy spells. I recently had a baby about five months ago. I am nearsighted but choose not to wear glasses or contact lenses even though my eyesight has, over time, been causing me to strain while watching television, even on a fifty-inch screen. I have also recently gone from about five to six cups of coffee a day to one or two very suddenly. I am hoping one of the above is the cause of my discomfort and is not something more serious. Please help.",
+ "audio_seconds": 33.54,
+ "created_at": "2026-07-06T05:35:56+00:00",
+ "failed": false,
+ "text": "I suffer from a painful, throbbing sensation in my head. I am also experiencing dizzy spells. I recently had a baby about five months ago. I am nearsighted, but choose not to wear glasses or contact lenses, even though my eyesight has, over time, been causing me to strain while watching television, even on a 50-inch screen. I have also recently gone from about five to six cups of coffee a day, so one or two very. I am hoping one of the above is the cause of my discomfort and is not something more serious. Please help.",
+ "seconds": 1.092
+}

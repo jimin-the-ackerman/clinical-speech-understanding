@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280084-0017",
+ "condition": null,
+ "reference": "THE FIRST ONE MISSED HIM BUT THE SECOND WENT THROUGH HIS RIGHT SHOULDER",
+ "audio_seconds": 3.17,
+ "created_at": "2026-07-06T03:24:53+00:00",
+ "failed": false,
+ "text": "The first one missed him, but the second went through his right shoulder.",
+ "seconds": 0.174
+}

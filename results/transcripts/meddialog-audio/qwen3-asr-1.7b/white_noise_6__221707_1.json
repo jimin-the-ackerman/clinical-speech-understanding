@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__221707_1",
+ "condition": "white_noise_6",
+ "reference": "My Manx is around three to four years old. She has one very red, inflamed nipple that looks like a zit but is not lactating. I am ready to take her to the emergency veterinarian. This is not normal at all. Also, she has been around me constantly, which is not like her. I am nervous she is trying to tell me to help.",
+ "audio_seconds": 19.2,
+ "created_at": "2026-07-06T05:39:05+00:00",
+ "failed": false,
+ "text": "My mix is around three to four years old. She has one very red, inflamed nipple that looks like a zit, but is not lactating. I am ready to take her to the emergency veterinarian. This is not normal at all. Also, she has been around beef constantly, which is not like her. I am nervous. She is trying to tell me to help.",
+ "seconds": 0.736
+}

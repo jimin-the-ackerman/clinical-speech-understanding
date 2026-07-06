@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__985296_1",
+ "condition": "white_noise_6",
+ "reference": "Hello, I had my premolars taken out two days ago for my braces, and my dimple on the right cheek has disappeared. If I apply pressure on that cheek, I feel a little bit of pain, and when I smile, my right cheek feels swollen. So, when I smile, my left dimple shows, but on my right cheek, I can see a little bump instead of a dent. Please help me!",
+ "audio_seconds": 22.95,
+ "created_at": "2026-07-06T04:39:25+00:00",
+ "failed": false,
+ "text": "Hello. I had my premolars taken out two days ago from my braces, and my dimple on the right cheek has disappeared. If I apply pressure on that cheek, I feel a little bit of pain, and when I smile, my right cheek feels swollen. So, when I smile, my left dimple shows, but on my right cheek, I can see a little bit of a dent. Please help me.",
+ "seconds": 0.732
+}

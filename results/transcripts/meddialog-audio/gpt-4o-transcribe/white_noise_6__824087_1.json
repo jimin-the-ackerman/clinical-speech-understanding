@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__824087_1",
+ "condition": "white_noise_6",
+ "reference": "I had a cesarean section thirty-one days ago and have been wearing a pad for the discharge since then. I just noticed two small pimple-like bumps on the lip of my vagina. Could this be irritation from the constant pad wearing? I am very anxious, and since it is late at night, I am not sure whom to ask. I have my follow-up appointment on Monday.",
+ "audio_seconds": 23.47,
+ "created_at": "2026-07-06T00:47:35+00:00",
+ "failed": false,
+ "text": "I hear you. Thank you.",
+ "seconds": 0.768
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0013",
+ "condition": null,
+ "reference": "IT'S JUST ONE OF THEM COINCIDENCES LIKE",
+ "audio_seconds": 2.88,
+ "created_at": "2026-07-05T13:13:13+00:00",
+ "failed": false,
+ "text": "It's just one of them coincidences like.",
+ "seconds": 0.098
+}

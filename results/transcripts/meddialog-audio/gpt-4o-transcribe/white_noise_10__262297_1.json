@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__262297_1",
+ "condition": "white_noise_10",
+ "reference": "I am a thirty-five-year-old woman with no medical history of painful menstrual periods or lower abdominal problems. For the past three days, I have experienced lower abdominal pains, which are dull, aching, and intense. I do not wake up with them, but after twelve PM I start to experience really severe pains that last for the rest of the day and night unless I take a painkiller. I am on day twenty of my menstrual cycle and am not on birth control pills; I have regular intercourse. Could this be related?",
+ "audio_seconds": 29.87,
+ "created_at": "2026-07-06T00:45:47+00:00",
+ "failed": false,
+ "text": "...",
+ "seconds": 0.546
+}

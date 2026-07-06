@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__472358_1",
+ "condition": "white_noise_10",
+ "reference": "Hello Doctor, I am twenty years old. I have a problem where my hands shake all the time. When I want to speak to a new person, my hands shake more and my voice changes. Even when I am giving a seminar, I cannot take the session and my voice comes out differently. Can you please explain the reason behind this?",
+ "audio_seconds": 20.05,
+ "created_at": "2026-07-06T05:32:26+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I am twenty years old. I have a problem where my hands shake all the time. When I want to speak to a new person, my hands shake more and my voice changes. Even when I am giving a seminar, I cannot take the session and my voice comes out differently. Can you please explain the reason behind this?",
+ "seconds": 0.668
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__799731_2",
+ "condition": "white_noise_6",
+ "reference": "Palpitations or a fast heartbeat usually develop when there are abnormalities in pulse generation or conduction in the heart. They can hinder daily activities and routine work. Sometimes, only a hollow feeling occurs without actual heart disease. You need to have an electrocardiogram during the episode if possible, or a twenty-four-hour Holter monitor recording to confirm any rhythm disturbance. If there is a disturbance, you will require a beta-blocker.",
+ "audio_seconds": 27.48,
+ "created_at": "2026-07-06T04:38:41+00:00",
+ "failed": false,
+ "text": "Palpitations or a fast heartbeat usually develop when there are abnormalities in pulse generation or conduction in the heart. They can hinder daily activities and routine work. Sometimes, only a hollow feeling occurs without actual heart disease. You need to have an electrocardiogram during the episode if possible, or a 24-hour Holter monorecording to confirm any rhythm disturbance. If there is a disturbance, you will require a data blocker.",
+ "seconds": 0.719
+}

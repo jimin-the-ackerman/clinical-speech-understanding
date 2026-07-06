@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__708851_2",
+ "condition": "clean",
+ "reference": "Hello, your light three-day period may be a result of the discontinuation of the pill, especially if the period came on or before the expected date. However, to be sure, you could get a serum beta human chorionic gonadotropin test or a simpler urine pregnancy test done and visit your gynecologist if the result is positive.",
+ "audio_seconds": 20.48,
+ "created_at": "2026-07-06T00:45:20+00:00",
+ "failed": false,
+ "text": "Hello, your light three-day period may be a result of the discontinuation of the pill, especially if the period came on or before the expected date. However, to be sure, you could get a serum beta-human chorionic gonadotropin test or a simpler urine pregnancy test done and visit your gynecologist if the result is positive.",
+ "seconds": 1.055
+}

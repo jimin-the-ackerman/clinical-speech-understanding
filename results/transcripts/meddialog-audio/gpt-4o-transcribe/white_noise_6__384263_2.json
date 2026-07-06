@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__384263_2",
+ "condition": "white_noise_6",
+ "reference": "Dear Sir, the symptom that you are describing is called paraspinal muscle spasm. This occurs when your back muscles are involved in some unaccustomed activity. They go into a spasm, and this gives rise to the pain. I suggest you rest the affected area by lying on your back, and muscle relaxants along with analgesics will be helpful. Local analgesic creams and local heat will also assist.",
+ "audio_seconds": 23.98,
+ "created_at": "2026-07-06T00:47:16+00:00",
+ "failed": false,
+ "text": "If they can afford to buy the house, they should be able to afford the upkeep.",
+ "seconds": 0.85
+}

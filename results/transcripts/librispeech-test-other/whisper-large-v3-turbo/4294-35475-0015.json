@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-35475-0015",
+ "condition": null,
+ "reference": "A FAINT GLIMMER OF LIGHT ON THE OPPOSITE WALL SHOWS ME THE KEYHOLE",
+ "audio_seconds": 4.68,
+ "created_at": "2026-07-05T13:11:40+00:00",
+ "failed": false,
+ "text": "A faint glimmer of light on the opposite wall shows me the keyhole.",
+ "seconds": 0.119
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__637234_1",
+ "condition": "clean",
+ "reference": "I went climbing yesterday and this morning I felt a sharp pain on my left side of my stomach, and the pain is slowly moving to my lower abdomen. I managed to go and pass some stool this afternoon; however, I realized that there was some clear mucus coming out of my rectum.",
+ "audio_seconds": 19.54,
+ "created_at": "2026-07-06T04:44:38+00:00",
+ "failed": false,
+ "text": "I went climbing yesterday and this morning I felt a sharp pain on my left side of my stomach and the pain is slowly moving to my lower abdomen. I managed to go and pass some stool this afternoon. However, I realized that there was some clear mucus coming out of my rectum.",
+ "seconds": 0.237
+}

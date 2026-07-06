@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__772465_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. If you have pain after eating something cold or hot, it mostly indicates that the nerves inside are infected. It will likely require root canal treatment. If you are confident that it can be saved and want to try something else, ask a dentist to clean the cavity and fill it with a temporary filling. Then wait for two or three weeks and check if there is any pain. If you do not have any pain, then get it permanently filled.",
+ "audio_seconds": 26.03,
+ "created_at": "2026-07-06T04:49:11+00:00",
+ "failed": false,
+ "text": "hello if you have pain after eating something cold or hot it mostly indicates that the nerves inside are infected it will likely require root canal if you are confident that it can be saved and want to try something else ask the dentist to clean the cavity and fill it with a temporary filling then wait for two or three weeks and check if there is any pain if you do not have any pain they get it permanently filled",
+ "seconds": 0.331
+}

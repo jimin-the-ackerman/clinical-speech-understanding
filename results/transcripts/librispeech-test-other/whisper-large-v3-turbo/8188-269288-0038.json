@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0038",
+ "condition": null,
+ "reference": "I MEAN THAT I DON'T WANT YOU TO BEGIN TO ASK QUESTIONS",
+ "audio_seconds": 3.26,
+ "created_at": "2026-07-05T13:14:35+00:00",
+ "failed": false,
+ "text": "I mean that I don't want you to begin to ask questions.",
+ "seconds": 0.126
+}

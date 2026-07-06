@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__104548_1",
+ "condition": "background_noise_20",
+ "reference": "Hello, my dad had a massive heart attack yesterday. He went into cardiac arrest upon arrival at the hospital and suffered another one. He is now in intensive care and is being kept sedated. For now, he was breathing by himself, but the doctors said they needed to help his heart. Do people survive this?",
+ "audio_seconds": 15.53,
+ "created_at": "2026-07-06T04:39:29+00:00",
+ "failed": false,
+ "text": "Hello, my dad had a massive heart attack yesterday. He went into cardiac arrest upon arrival at the hospital and suffered another one. He is now in intensive care and is being kept sedated. For now, he was breathing by himself, but the doctor said they needed to help his heart. Do people survive this?",
+ "seconds": 0.277
+}

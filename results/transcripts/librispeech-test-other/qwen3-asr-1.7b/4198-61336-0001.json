@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-61336-0001",
+ "condition": null,
+ "reference": "AT THE BEGINNING OF HIS REIGN THERE WAS MUCH SOCIAL DISCONTENT AND SUFFERING",
+ "audio_seconds": 5.88,
+ "created_at": "2026-07-06T03:31:28+00:00",
+ "failed": false,
+ "text": "At the beginning of his reign, there was much social discontent and suffering.",
+ "seconds": 0.194
+}

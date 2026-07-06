@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__364236_1",
+ "condition": "white_noise_10",
+ "reference": "I have a relative who is six years old. His eye problem, as per the report, includes computed tomography scan findings of mild left-sided proptosis with poorly circumscribed masses of increased density in the intraconal space of the left orbit, resulting in compression of the optic nerve. There are no obvious foci of calcification, suggestive of orbital lymphangioma. Please suggest management and treatment available in your institution.",
+ "audio_seconds": 28.16,
+ "created_at": "2026-07-06T05:32:02+00:00",
+ "failed": false,
+ "text": "I have a relative who is 60 years old. His eye problem, as per the report, includes computed tomography scan findings of mild left-sided optic chiasis with poorly circumscribed masses of increased density in the intracanal space of the left orbit, resulting in compression of the optic nerve. There are no obvious signs of calcification suggestive of orbital lymphangioma. Please suggest management and treatment available in your institution.",
+ "seconds": 0.829
+}

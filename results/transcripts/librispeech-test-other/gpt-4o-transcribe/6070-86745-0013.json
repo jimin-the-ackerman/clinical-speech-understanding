@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-86745-0013",
+ "condition": null,
+ "reference": "PESTE I WILL DO NOTHING OF THE KIND THE MOMENT THEY COME FROM GOVERNMENT YOU WOULD FIND THEM EXECRABLE",
+ "audio_seconds": 8.14,
+ "created_at": "2026-07-05T23:57:05+00:00",
+ "failed": false,
+ "text": "Pests, I will do nothing of the kind. The moment they come from government you would find them acceptable.",
+ "seconds": 0.89
+}

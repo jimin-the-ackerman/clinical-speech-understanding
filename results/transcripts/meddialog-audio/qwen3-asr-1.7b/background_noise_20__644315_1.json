@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__644315_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, my five-year-old daughter had strep throat twice in January. Last Wednesday, she started with a fever, headache, and chills. She was tested again for strep, but it was negative. The fever is gone, but she woke up today with pain in both calves. Is this a normal flu-like symptom so far into it?",
+ "audio_seconds": 18.86,
+ "created_at": "2026-07-06T05:17:53+00:00",
+ "failed": false,
+ "text": "Hi, my five-year-old daughter had strep throat twice in January. Last Wednesday, she started with a fever, headache, and chills. She was tested again for strep, but it was negative. The fever is gone, but she woke up today with pain in both calves. Is this a normal flu-like symptom so far into it?",
+ "seconds": 0.668
+}

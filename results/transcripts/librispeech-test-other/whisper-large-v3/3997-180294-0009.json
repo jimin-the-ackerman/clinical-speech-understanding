@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180294-0009",
+ "condition": null,
+ "reference": "THEN HOW SURELY MUST THEY DESIRE THE WORLD WHICH IS HIDDEN FROM THEM HOW SURELY MUST THEY FIND IT TEMPTING HOW SURELY MUST THEY LISTEN TO THE FIRST VOICE WHICH COMES TO TELL ITS SECRETS THROUGH THEIR BARS AND BLESS THE HAND WHICH IS THE FIRST TO RAISE A CORNER OF THE MYSTERIOUS VEIL",
+ "audio_seconds": 19.23,
+ "created_at": "2026-07-05T13:00:12+00:00",
+ "failed": false,
+ "text": "then how surely must they desire the world which is hidden from them how surely must they find it tempting how surely must they listen to the first voice which comes to tell its secrets through their bars and bless the hand which is the first to raise a corner of the mystery veil",
+ "seconds": 0.409
+}

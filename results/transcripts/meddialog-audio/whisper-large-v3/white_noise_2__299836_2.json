@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__299836_2",
+ "condition": "white_noise_2",
+ "reference": "If the ultrasound is fine, the chances of a gallbladder problem are less. However, it could be due to acidity or a gastric ulcer, which do not show anything in any investigations and require endoscopy for confirmation.",
+ "audio_seconds": 14.59,
+ "created_at": "2026-07-06T04:33:01+00:00",
+ "failed": false,
+ "text": "If the ultrasound is fine, the chances of a gallbladder problem are less. However, it could be due to acidity or a gastric ulcer, which do not show anything in any investigations and require endoscopy for confirmation.",
+ "seconds": 0.438
+}

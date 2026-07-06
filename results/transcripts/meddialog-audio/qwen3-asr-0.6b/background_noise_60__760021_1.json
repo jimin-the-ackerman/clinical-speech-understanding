@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__760021_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, my baby is one month old. I started giving her formula feeds seven days ago as my milk was insufficient for her. However, after starting Lactogen one, she has started vomiting. After every feed, she brings up milk, regardless of whether it is a formula feed or breast feed. She vomits out milk even after burping her. What should I do?",
+ "audio_seconds": 20.82,
+ "created_at": "2026-07-06T04:59:39+00:00",
+ "failed": false,
+ "text": "Hi, my name is. I suspect you are. You are something. I hope you are. I am sorry. I am sorry. I am sorry. I am sorry. I am sorry. I am sorry. I am sorry. I am sorry. I am sorry. I am sorry.",
+ "seconds": 0.567
+}

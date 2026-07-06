@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__797229_1",
+ "condition": "white_noise_2",
+ "reference": "I am trying to get pregnant, but I have painful irregular periods. However, they have been coming every month. My first period came on April twelve-nineteen, and my most recent was May twenty-three-twenty-nine. I had unprotected sex on the 24th, 27th, and 31st. I really want a baby; I am twenty-seven years old. Also, my periods are only really painful on the 1st and 3rd days; the other days are tolerable. Please help, I need to know how to better my chances. I am on Solarray's Fertility Blend SP-one and taking prenatal vitamins.",
+ "audio_seconds": 39.68,
+ "created_at": "2026-07-06T04:35:11+00:00",
+ "failed": false,
+ "text": "i am trying to get pregnant but i have painful irregular periods however they have been coming every month my first period came on april 12 19 and my most recent was may 23 29 i had unprotected sex on the 24th 27th and 31st i really want a baby i am 27 years old also my periods are only really painful on the first and third days the other days are tolerable please help i need to know how to better my chances i am on solaray's fertility blend sp1 and taking prenatal vitamins",
+ "seconds": 0.89
+}

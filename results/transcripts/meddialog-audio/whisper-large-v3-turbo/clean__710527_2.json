@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__710527_2",
+ "condition": "clean",
+ "reference": "Hello, the cyst mass that arose inside the cheek may be due to chronic cheek-biting habits, pericoronitis due to an impacted wisdom tooth, or oral habits like tobacco or betel nut chewing. As your dentist suggested, based on the biopsy report, treatment can be planned. Meanwhile, maintain oral hygiene well. Apply mucopain gel on the affected area. Swish with lukewarm saline or chlorhexidine mouth rinses. Maintain oral hygiene well. Avoid intake of spicy foods. Discontinue the habit of tobacco or betel nut chewing. Hope this helps.",
+ "audio_seconds": 33.79,
+ "created_at": "2026-07-06T04:44:48+00:00",
+ "failed": false,
+ "text": "Hello, the cyst mass that arose inside the cheek may be due to chronic cheek-biting habits, pericuronitis due to an impacted wisdom tooth, or oral habits like tobacco or betel nut chewing. As your dentist suggested, based on the biopsy report, treatment can be planned. Meanwhile, maintain oral hygiene well. Apply mucopane gel on the affected area. Swish with lukewarm saline or chlorhexidine malfurances. Maintain oral hygiene well. Avoid intake of spicy foods. Discontinue the habit of tobacco or betel nut chewing. Hope this helps.",
+ "seconds": 0.411
+}

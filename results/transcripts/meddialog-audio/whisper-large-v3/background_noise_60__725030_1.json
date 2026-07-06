@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__725030_1",
+ "condition": "background_noise_60",
+ "reference": "I went to the hospital last week for pain in my lower right abdomen. I had been sick two weeks before, and my stool had been irregular for a while. The doctor immediately thought I had ruptured my appendix two weeks ago. After blood work and a computed tomography scan, they found nothing wrong. I still have pain in the same area, and my stool is still irregular. What is wrong?",
+ "audio_seconds": 19.54,
+ "created_at": "2026-07-06T04:23:21+00:00",
+ "failed": false,
+ "text": "I went to the hospital last week for pain in my lower right abdomen. I had been sick two weeks before, and my stool had been irregular for a while. The doctor immediately thought I had ruptured my appendix two weeks ago. After blood work and a computed tomography scan, they found nothing wrong. I still have pain in the same area, and my stool is still irregular. What is wrong?",
+ "seconds": 0.782
+}

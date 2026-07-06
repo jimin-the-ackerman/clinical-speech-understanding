@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__569237_1",
+ "condition": "background_noise_60",
+ "reference": "I am a fifty-nine-year-old male who experiences intense pain in both nipples whenever they get cold, which radiates through my chest. It lasts until they warm up, but strangely, I can find some relief by placing my cold hands directly on them. There is no discharge or discoloration. This is not new; it has been going on for a few years, and I have never found anything on the internet that matches my symptoms.",
+ "audio_seconds": 27.82,
+ "created_at": "2026-07-06T00:44:14+00:00",
+ "failed": false,
+ "text": "I am a 59-year-old male who experiences intense pain in both nipples whenever they get cold, which radiates through my chest. It lasts until they warm up, but strangely, I can find some relief by placing my cold hands directly on them. There is no discharge or discoloration. This is not new, it has been going on for a few years, and I have never found anything on the internet that matches my symptoms.",
+ "seconds": 1.352
+}

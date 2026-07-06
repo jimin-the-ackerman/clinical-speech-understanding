@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-169640-0000",
+ "condition": null,
+ "reference": "PROAS IN THAT QUARTER WERE USUALLY DISTRUSTED BY SHIPS IT IS TRUE BUT THE SEA IS FULL OF THEM AND FAR MORE ARE INNOCENT THAN ARE GUILTY OF ANY ACTS OF VIOLENCE",
+ "audio_seconds": 12.07,
+ "created_at": "2026-07-06T00:03:04+00:00",
+ "failed": false,
+ "text": "Products in that corner were usually distrusted by the stepset is true, but the CS4, then, far more are innocent than are guilty of any acts of violence.",
+ "seconds": 4.913
+}

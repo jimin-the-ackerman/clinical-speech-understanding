@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6938-70848-0021",
+ "condition": null,
+ "reference": "FOLLOWED HIM LENIN LISTENED TO NOW WITH ABSORBING INTENSITY",
+ "audio_seconds": 4.57,
+ "created_at": "2026-07-05T13:05:39+00:00",
+ "failed": false,
+ "text": "Followed him, Lenin, listened to now with absorbing intensity.",
+ "seconds": 0.184
+}

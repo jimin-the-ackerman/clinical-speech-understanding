@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__342720_1",
+ "condition": "background_noise_20",
+ "reference": "My doctor believes I have stage one lung cancer, and I am set to have a positron emission tomography scan in a few weeks to verify it. I was wondering how long it takes, on average, to progress to stage two, stage three, or stage four? I am seventy years old and otherwise in quite healthy condition. The cancer was found quite by accident after having a chest X-ray following a car accident.",
+ "audio_seconds": 27.14,
+ "created_at": "2026-07-06T04:14:17+00:00",
+ "failed": false,
+ "text": "My doctor believes I have stage 1 lung cancer, and I am set to have a positron emission tomography scan in a few weeks to verify it. I was wondering how long it takes on average to progress to stage 2, stage 3, or stage 4. I am 70 years old and otherwise in quite healthy condition. The cancer was found quite by accident after having a chest x-ray following a car accident.",
+ "seconds": 0.719
+}

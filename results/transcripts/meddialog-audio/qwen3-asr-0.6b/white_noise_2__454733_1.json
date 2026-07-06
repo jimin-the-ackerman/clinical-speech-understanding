@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__454733_1",
+ "condition": "white_noise_2",
+ "reference": "My four point five-year-old daughter is having a high fever of one hundred and two degrees Fahrenheit. She has been taking Septran antibiotic for the last two years related to a urinary infection. One of the doctors prescribed Fepanil two hundred and fifty milligrams, but the fever is not subsiding right now. What should be the medicine to be consumed now?",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T05:09:23+00:00",
+ "failed": false,
+ "text": "My four point five year old daughter is having a high fever of one hundred and two degrees Fahrenheit. She has been taking ceftazidime antibiotic for the last two years related to a urinary infection. One of the doctors prescribed cepheneil two hundred and fifty milligrams, but the fever is not subsiding right now. What should be the medicine to be consumed now?",
+ "seconds": 0.698
+}

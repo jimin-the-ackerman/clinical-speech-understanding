@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__895128_2",
+ "condition": "background_noise_20",
+ "reference": "It's common at this age; babies need a variety in food. Please continue your breastfeeding. Additionally, give enzyme syrup for appetite improvement. A routine vegetable diet should continue.",
+ "audio_seconds": 12.12,
+ "created_at": "2026-07-06T00:42:39+00:00",
+ "failed": false,
+ "text": "It's common at this age. Babies need a variety of food. Please continue your breastfeeding. Additionally, give enzyme syrup for appetite improvement. A routine vegetable diet should be taken.",
+ "seconds": 0.819
+}

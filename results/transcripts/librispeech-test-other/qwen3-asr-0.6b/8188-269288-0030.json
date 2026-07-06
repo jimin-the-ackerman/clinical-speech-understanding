@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0030",
+ "condition": null,
+ "reference": "LESLIE WENT TO THE WINDOW AND FLUNG IT OPEN SHE PUT HER HEAD OUT AND TRIED TO PEER INTO THE DARKNESS BUT THE MOON HAD ALREADY SET AND SHE COULD NOT SEE MORE THAN A COUPLE OF YARDS IN FRONT OF HER",
+ "audio_seconds": 12.02,
+ "created_at": "2026-07-06T03:25:26+00:00",
+ "failed": false,
+ "text": "Leslie went to the window and flung it open. She put her head out and tried to peer into the darkness, but the moon had already set, and she could not see more than a couple of yards in front of her.",
+ "seconds": 0.484
+}

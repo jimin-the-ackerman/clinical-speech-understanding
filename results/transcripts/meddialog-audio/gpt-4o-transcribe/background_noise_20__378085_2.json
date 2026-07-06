@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__378085_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. As you are already a valve replacement patient, you are prone to arrhythmias. The size of the heart chamber increases, which can also increase arrhythmias. Are you on anticoagulants? If you are experiencing atrial fibrillation, occasional increases in heart rate are common. However, if you have frequent episodes, then we can consider a Holter monitor. More control of heart rate can be achieved with medication. We also need to perform an echocardiogram to check for any heart leakage and the functioning of the valve. Good control of blood pressure is helpful.",
+ "audio_seconds": 32.0,
+ "created_at": "2026-07-06T00:42:06+00:00",
+ "failed": false,
+ "text": "Hello. As you are already a valve replacement patient, you are prone to arrhythmias. The size of the heart chamber increases, which can also increase arrhythmias. Are you on anticoagulants? If you are experiencing atrial fibrillation, occasional increases in heart rate are common. However, if you have frequent episodes, then we can consider a Holter monitor. More control of heart rate can be achieved with medication. We also need to perform an echocardiogram to check for any heart leakage and the functioning of the valve. Good control of blood pressure is helpful.",
+ "seconds": 1.987
+}

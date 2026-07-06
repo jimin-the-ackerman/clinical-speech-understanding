@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-10919-0013",
+ "condition": null,
+ "reference": "AND HOW ABOUT A TOUR ABROAD ASKED THE FAMILY DOCTOR",
+ "audio_seconds": 3.43,
+ "created_at": "2026-07-05T13:11:47+00:00",
+ "failed": false,
+ "text": "And how about a tour abroad? Ask the family doctor.",
+ "seconds": 0.116
+}

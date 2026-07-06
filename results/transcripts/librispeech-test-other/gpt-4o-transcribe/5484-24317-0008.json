@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24317-0008",
+ "condition": null,
+ "reference": "THEN HE WENT DIRECTLY TO THE NEIGHBOURING PALACE THE QUEEN MIGHT HAVE APPEARED ALREADY AND IT WOULD NOT DO TO KEEP HER WAITING",
+ "audio_seconds": 7.21,
+ "created_at": "2026-07-05T23:56:40+00:00",
+ "failed": false,
+ "text": "Then he went directly to the neighboring palace: the Queen might have appeared already, and it would not do to keep her waiting.",
+ "seconds": 1.018
+}

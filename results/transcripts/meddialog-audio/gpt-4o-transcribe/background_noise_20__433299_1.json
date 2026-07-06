@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__433299_1",
+ "condition": "background_noise_20",
+ "reference": "Hello, I am a thirty-four-year-old female who has developed a facial rash and rashes on my upper and lower arms that itch intensely. My doctor thinks it is an allergic reaction to something and told me to visit an allergist for further evaluation. My husband broke out with a rash on his forehead just yesterday, and my twelve-year-old daughter has developed a rash on her chest. What do you think this could be?",
+ "audio_seconds": 21.85,
+ "created_at": "2026-07-06T00:42:09+00:00",
+ "failed": false,
+ "text": "Hello, I am a 34-year-old female who has developed a facial rash and rashes on my upper and lower arms that itch intensely. My doctor thinks it is an allergic reaction and told me to visit an allergist for further evaluation. My husband broke out with a rash on his forehead just yesterday, and my 12-year-old daughter has developed a rash on her chest. What do you think this could be?",
+ "seconds": 1.719
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__855944_2",
+ "condition": "clean",
+ "reference": "Hi, thank you for asking. I really appreciate your concern. Let me tell you that if you are not pregnant and it is just planning, then you can take the antihistamine medication. However, during pregnancy, you cannot take this medicine. I hope this information helps you. Have a nice day.",
+ "audio_seconds": 15.45,
+ "created_at": "2026-07-06T04:45:04+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking. I really appreciate your concern. Let me tell you that if you are not pregnant and it is just planning, then you can take the antihistamine medication. However, during pregnancy, you cannot take this medicine. I hope this information helps you. Have a nice day.",
+ "seconds": 0.229
+}

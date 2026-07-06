@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__172988_1",
+ "condition": "clean",
+ "reference": "Hi, I was exercising the other day and was standing up, leaning from side to side, essentially doing side crunches. Well, the next day my middle back was killing me, like I bruised my spine. It hurts to the touch, and when I sit down or lie on the floor and try to stretch my back out, I feel a weird sensation, like pressure on my spine in that area. Do you think I just overdid it, or does it sound like I really injured something?",
+ "audio_seconds": 22.7,
+ "created_at": "2026-07-06T00:44:45+00:00",
+ "failed": false,
+ "text": "Hi, I was exercising the other day and was standing up, leaning from side to side, essentially doing side crunches. Well, the next day my middle back was killing me like I bruised my spine. It hurts to the touch and when I sit down or lie on the floor and try to stretch my back out, I feel a weird sensation, like pressure on my spine in that area. Do you think I just overdid it, or does it sound like I really injured something?",
+ "seconds": 1.502
+}

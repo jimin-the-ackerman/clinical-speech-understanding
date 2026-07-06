@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__918771_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, the pill should be effective since it does not pass through the bowel and is digested in the stomach. Even with diarrhea, it is still possible to retain the food for some time in the stomach. The effectiveness of the pill can only be lessened if there is vomiting soon after pill intake. Please take proper treatment for diarrhea. The pill can protect when taken within seventy-two hours of unprotected intercourse, and it is a one-time protection. It cannot cover multiple occasions. Please consider using a regular form of contraception. I hope this helps.",
+ "audio_seconds": 32.34,
+ "created_at": "2026-07-06T05:07:39+00:00",
+ "failed": false,
+ "text": "The case would be effective since it did not last to the battle and was rejected in the Senate. Even with volume, it is so possible to retain the brief of the complaint. The effectiveness of the motion would be nothing but a very minor thing. The case would not be treated for the moment. The case would be kept pending within seven to eight hours of unsuccessful entry. The moment will be long enough to keep it. It cannot come out of the agreement. Please consider moving the motion for the effect. I have to tell.",
+ "seconds": 0.951
+}

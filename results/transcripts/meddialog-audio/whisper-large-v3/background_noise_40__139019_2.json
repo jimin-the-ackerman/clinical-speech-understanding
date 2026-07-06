@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__139019_2",
+ "condition": "background_noise_40",
+ "reference": "Okay, child, let me help you. Please answer these questions: Do you feel your nose is stuffy all the time, having problems breathing, particularly at night? Do you suffer frequently from a runny nose? Are your fingernails big and fashionable? Do you feel any lumps inside your nose? Do you have a habit of nose picking?",
+ "audio_seconds": 17.75,
+ "created_at": "2026-07-06T04:17:17+00:00",
+ "failed": false,
+ "text": "Okay child, let me help you. Please answer these questions. Do you feel your nose is so big all the time, having problems breathing, particularly at night? Do you suffer frequently from a runny nose? Are your fingernails big and fashionable? Do you feel any lumps inside your nose? Do you have a habit of nose picking?",
+ "seconds": 0.66
+}

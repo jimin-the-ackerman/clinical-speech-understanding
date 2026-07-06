@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__501393_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. There is nothing to worry about. This is just a strained muscle of the abdominal wall. Please take rest, a tablet of ibuprofen, and apply hot fomentation. If it persists, please visit a doctor.",
+ "audio_seconds": 12.46,
+ "created_at": "2026-07-06T00:46:36+00:00",
+ "failed": false,
+ "text": "Hello, there is nothing to worry about. This is just a strained muscle of the abdominal wall. Please take rest, a tablet of ibuprofen, and apply a hot fomentation. If it persists, please visit a doctor.",
+ "seconds": 0.793
+}

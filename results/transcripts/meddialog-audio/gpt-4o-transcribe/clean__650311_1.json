@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__650311_1",
+ "condition": "clean",
+ "reference": "I had a full knee replacement four months ago. I am now dealing with internal scar tissue around or under my kneecap. My doctor suggests that surgery might be needed. However, this would be done after it has been a year since the surgery due to the risk of infection. If this is done, what prevents me from developing internal scar tissue again?",
+ "audio_seconds": 22.78,
+ "created_at": "2026-07-06T00:45:15+00:00",
+ "failed": false,
+ "text": "I had a full knee replacement four months ago. I am now dealing with internal scar tissue around or under my kneecap. My doctor suggests that surgery might be needed. However, this would be done after it has been a year since the surgery due to the risk of infection. If this is done, what prevents me from developing internal scar tissue again?",
+ "seconds": 1.173
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0089",
+ "condition": null,
+ "reference": "AND THEN RELIGION IS ATTACKED WHY",
+ "audio_seconds": 2.98,
+ "created_at": "2026-07-06T03:29:40+00:00",
+ "failed": false,
+ "text": "And then religion is attacked. Why?",
+ "seconds": 0.116
+}

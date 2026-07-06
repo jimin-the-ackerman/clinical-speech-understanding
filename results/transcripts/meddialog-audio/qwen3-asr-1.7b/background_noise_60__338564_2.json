@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__338564_2",
+ "condition": "background_noise_60",
+ "reference": "Usually, the stretch marks occur when one. the size of the body organ beneath the skin enlarges rapidly or two. suddenly loses size after being large for some time. As you correctly thought, these things commonly occur during or after pregnancy. However, in your case, since you have never been pregnant but one breast is larger than the other, there must be some tissue or mass under the skin. You need to have a breast examination done by a surgeon or a gynecologist.",
+ "audio_seconds": 31.23,
+ "created_at": "2026-07-06T05:24:22+00:00",
+ "failed": false,
+ "text": "Usually, the stretch marks occur when one, the size of the body organ beneath the skin, enlarges rapidly, or two, suddenly loses size after being large for some time. As you correctly thought, these things commonly occur during or after pregnancy. However, in your case, since you have never been pregnant, but one breast is larger than the other, there must be some tissue or mass under the skin. You need to have a breast examination done by a surgeon or a gynecologist.",
+ "seconds": 0.95
+}

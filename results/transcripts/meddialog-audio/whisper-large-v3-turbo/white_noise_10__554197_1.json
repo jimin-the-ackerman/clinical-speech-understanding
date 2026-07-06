@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__554197_1",
+ "condition": "white_noise_10",
+ "reference": "I have pain that burns in my lower palate by the lower teeth area, my elbows burn, and the inner part of my shoulder also hurts. I am a forty-three-year-old woman. I have been ruled out as having a heart attack. No one has an answer. I do have back problems. What are the possibilities?",
+ "audio_seconds": 17.07,
+ "created_at": "2026-07-06T04:45:57+00:00",
+ "failed": false,
+ "text": "I have pain that burns in your stomach or your stomach area, my elbows burn, and the inner part of my shoulder also hurts my stomach. I am a 43-year-old woman. I have been ruled out as having a harder time. No one has an effort. I do have that problem. What are the possibilities?",
+ "seconds": 0.255
+}

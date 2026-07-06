@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__728471_1",
+ "condition": "background_noise_60",
+ "reference": "Hello. I have recently started to take up bodyweight exercises. I can do around twenty pull-ups and fifty push-ups. However, I read that if the legs are not trained, the upper body will be restricted in size as the body will keep everything in proportion. But when I do squats, my knees make a popping noise. Is this safe? There is no pain in my knees, but when I carry out the exercise, the sound becomes louder permanently.",
+ "audio_seconds": 26.71,
+ "created_at": "2026-07-06T05:25:55+00:00",
+ "failed": false,
+ "text": "Hello, I have recently started to take up bodyweight exercises. I can do around 20 pull-ups and 50 push-ups. I read that if the legs are not trained, the upper body will be restricted in size, as the body will keep everything in proportion. But when I do squats, my knees make a popping noise. Is this safe? There is no pain in my knees, but when I carry out the exercise, this sound becomes louder permanently.",
+ "seconds": 0.899
+}

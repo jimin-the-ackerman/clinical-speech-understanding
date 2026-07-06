@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__338846_1",
+ "condition": "white_noise_10",
+ "reference": "Dear Sir, I have a Labrador in my house. He is around two years old. He was vaccinated today in the afternoon around two:zero PM. He bit me, and there are three red scratches on my right hand, but there is one small scratch from which very little blood came. So, do I need to take an injection? I had taken a tetanus injection around eight:zero PM. Now, do I need to take an injection for the dog bite or not?",
+ "audio_seconds": 28.07,
+ "created_at": "2026-07-06T04:29:30+00:00",
+ "failed": false,
+ "text": "Dear Sir, I have a Labrador in my house. She is around 2 years old. She was vaccinated today in the afternoon around 2-0pm. She bit me and there are 3 red scratches on my right hand, but there is one small scratch on which very little blood came. So, do I need to take an injection? I had taken a tetanus injection around 8-0pm. Now, do I need to take an injection for the dog bite or not?",
+ "seconds": 0.841
+}

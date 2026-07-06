@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0086",
+ "condition": null,
+ "reference": "THE MOTHER OF WHOM HE SPOKE TO US SAID MARGARET",
+ "audio_seconds": 3.31,
+ "created_at": "2026-07-05T12:55:46+00:00",
+ "failed": false,
+ "text": "the mother of whom you spoke to us said margaret you",
+ "seconds": 0.264
+}

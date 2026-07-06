@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__265613_1",
+ "condition": "clean",
+ "reference": "Hello doctor, I had unprotected intercourse with my partner during the fourth day of my menstrual period. I took Unwanted seventy-two after the intercourse. After taking it, I have immense body pain, especially in the lower abdomen. My menstrual bleeding has stopped. Is the pain normal? When can I expect my next menstrual period?",
+ "audio_seconds": 19.46,
+ "created_at": "2026-07-06T04:44:07+00:00",
+ "failed": false,
+ "text": "Hello, Doctor. I had unprotected intercourse with my partner during the fourth day of my menstrual period. I took unwanted 72 after the intercourse. After taking it, I have immense body pain, especially in the lower abdomen. My menstrual bleeding has stopped. Is the pain normal? When can I expect my next menstrual period?",
+ "seconds": 0.24
+}

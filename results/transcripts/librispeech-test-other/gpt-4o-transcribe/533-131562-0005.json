@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131562-0005",
+ "condition": null,
+ "reference": "THAT AND ALL REPLIED THE MASTER AND THE THINGS WERE CLEARED AWAY",
+ "audio_seconds": 5.58,
+ "created_at": "2026-07-05T23:56:24+00:00",
+ "failed": false,
+ "text": "That an' all,\" replied the master, and the things were cleared away.",
+ "seconds": 0.883
+}

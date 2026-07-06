@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0031",
+ "condition": null,
+ "reference": "ONCE MARGARET HAD GONE INTO THE CHAMBER SOON AFTER DIXON LEFT IT AND FOUND HER MOTHER ON HER KNEES AND AS MARGARET STOLE OUT SHE CAUGHT A FEW WORDS WHICH WERE EVIDENTLY A PRAYER FOR STRENGTH AND PATIENCE TO ENDURE SEVERE BODILY SUFFERING",
+ "audio_seconds": 16.8,
+ "created_at": "2026-07-05T23:59:18+00:00",
+ "failed": false,
+ "text": "Once Margaret had gone into the chamber soon after Dixon left it, and found her mother on her knees, and as Margaret stole out, she caught a few words, which were evidently a prayer for strength and patience to endure severe bodily suffering.",
+ "seconds": 5.095
+}

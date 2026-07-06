@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__567262_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, I am undergoing treatment for pregnancy, and today is my 11th day. The doctor suggested that I take a follicular study, and my results are as follows: right ovary: small multiple follicles; left ovary: six point nine mm; endometrial thickness: six point four three mm. My question is, is this normal? May I try this time for pregnancy, and from which day should I have intercourse to get pregnant?",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T05:06:10+00:00",
+ "failed": false,
+ "text": "Hi, I am undergoing treatment for pregnancy, and today is my eleventh day. The doctor suggested that I take a follicular study, and my results are as follows: right ovary, small multiple follicles; left ovary, six point nine meters, endometrial thickness, six point four three millimeters. My question is, is this normal? May I try this time for pregnancy, and from which day should I have intercourse to get pregnant?",
+ "seconds": 0.871
+}

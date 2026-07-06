@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__715702_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. What we call this is psychosomatic illness. However, you should first visit a gastroenterologist to exclude any acid-peptic disorder. After that, visit a psychiatrist for some medication, although stress-management skills are what you need, such as lifestyle modification and yoga. Psychosomatic disorders respond splendidly to that, so do not worry. Stress is just another part of life. You simply need to cope with it. Wishing you good health.",
+ "audio_seconds": 30.04,
+ "created_at": "2026-07-06T00:46:50+00:00",
+ "failed": false,
+ "text": "Hello, what we call this is psychosomatic illness. However, you should first visit a gastroenterologist to exclude any acid peptic disorder. After that, visit a psychiatrist for some medication, although stress management skills are what you need such as lifestyle modification and yoga. Psychosomatic disorders respond splendidly to that, so do not worry. Stress is just another part of life. You simply need to cope with it. Wishing you good health.",
+ "seconds": 1.547
+}

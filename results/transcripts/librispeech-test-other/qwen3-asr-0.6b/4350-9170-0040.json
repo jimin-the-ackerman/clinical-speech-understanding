@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-9170-0040",
+ "condition": null,
+ "reference": "THE DANGER OF WAR EVER READY TO BREAK OUT RENDERS ALL REFORMS OF LIFE SOCIAL LIFE VAIN AND FRUITLESS",
+ "audio_seconds": 6.28,
+ "created_at": "2026-07-06T03:20:17+00:00",
+ "failed": false,
+ "text": "The danger of war, ever ready to break out, renders all reforms of life, social life, vain and fruitless.",
+ "seconds": 0.272
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164914-0012",
+ "condition": null,
+ "reference": "RETURN QUICKLY AND LINGER NOT",
+ "audio_seconds": 3.13,
+ "created_at": "2026-07-05T12:56:23+00:00",
+ "failed": false,
+ "text": "Return quickly and linger not.",
+ "seconds": 0.149
+}

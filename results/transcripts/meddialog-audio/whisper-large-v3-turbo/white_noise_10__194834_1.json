@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__194834_1",
+ "condition": "white_noise_10",
+ "reference": "My uncle had spine surgery and the stitches were removed fifteen days after the surgery. It has been twenty days since the day of surgery, but he feels there is some swelling at the stitch site. However, there is no warmth or pus coming out, and there is no pain. Does he need any immediate attention, or is it normal to have such swelling?",
+ "audio_seconds": 22.19,
+ "created_at": "2026-07-06T04:45:26+00:00",
+ "failed": false,
+ "text": "My uncle had spine surgery, and his stitches were removed 15 days after the surgery. It has been 20 days since the day of surgery, but he feels there is some swelling at the stitch site. However, there is no warmth or puff coming out, and there is no pain. Does he need any immediate attention, or is it normal to have such swelling?",
+ "seconds": 0.248
+}

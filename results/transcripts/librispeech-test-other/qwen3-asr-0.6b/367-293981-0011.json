@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-293981-0011",
+ "condition": null,
+ "reference": "TO BE BRIEF HE TOOK THE MATERIALS OF WHICH HE MADE A COMPOUND MIXING THEM ALL AND BOILING THEM A GOOD WHILE UNTIL IT SEEMED TO HIM THEY HAD COME TO PERFECTION",
+ "audio_seconds": 9.51,
+ "created_at": "2026-07-06T03:18:27+00:00",
+ "failed": false,
+ "text": "To be brief, he took the materials of which he made a compound, mixing them on, boiling them. A good while, until it seemed to him they had come to perfection.",
+ "seconds": 0.366
+}

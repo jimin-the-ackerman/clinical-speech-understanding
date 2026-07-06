@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__546980_2",
+ "condition": "background_noise_60",
+ "reference": "Hi. This occurs due to age-related hardening of blood vessels called arteriosclerosis. This hardening is not reversible, which is why he has high blood pressure. He should be taking medication throughout his life. He should maintain a healthy lifestyle, such as avoiding fatty, oily, and high-calorie foods. He should follow a low-sodium diet and monitor his blood pressure regularly, three times a day for one week, and then once or twice a week thereafter. If the blood pressure is persistently more than one hundred and forty over ninety millimeters of mercury, then his medications will need to be increased. Regular exercise, like brisk walking, can help him. He can walk according to his capacity for at least thirty minutes a day, five days a week. Please conduct tests for lipid profile and blood sugar once.",
+ "audio_seconds": 48.64,
+ "created_at": "2026-07-06T04:22:39+00:00",
+ "failed": false,
+ "text": "This is the first video you can watch on my YouTube channel, which is one of my favorite videos of all time. It's very interesting to watch, which is why I made this video. I'm sure you can tell from the video that this video is very interesting to watch. I hope you enjoy watching it. This is the first video you can watch on my YouTube channel, which is one of my favorite videos of all time. I hope you enjoy watching it. This is the first video you can watch on my YouTube channel, which is one of my favorite videos of all time. I hope you enjoy watching it. This is the first video you can watch on my YouTube channel, which is one of my favorite videos of all time.",
+ "seconds": 2.733
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__780027_2",
+ "condition": "clean",
+ "reference": "Constipation may be due to a lack of enough fluids or a lack of fiber in her food. In the meantime, you can give her a glycerin suppository or lactulose syrup. A six-month-old baby should start eating fruits and vegetables, minced chicken, soft cheese, cooked plain rice, and pasta. You should introduce only one new type of food per week, starting with small amounts and then increasing gradually. Offer orange juice daily; it will help greatly in regulating the bowel movements of the baby.",
+ "audio_seconds": 28.5,
+ "created_at": "2026-07-06T00:45:24+00:00",
+ "failed": false,
+ "text": "Constipation may be due to a lack of enough fluids or a lack of fiber in her food. In the meantime, you can give her a glycerin suppository or lactulose syrup. A six-month-old baby should start eating fruits and vegetables, minced chicken, soft cheese, cooked plain rice, and pasta. You should introduce only one new type of food per week, starting with small amounts and then increasing gradually. Offer orange juice daily. It will help greatly in regulating the bowel movements of the baby.",
+ "seconds": 2.318
+}

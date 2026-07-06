@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0023",
+ "condition": null,
+ "reference": "THE MAN'S MANNER WAS SO KIND AND HEARTY THE WHOLE ADVENTURE WAS SO WONDERFUL AND NEW IS IT COUNTRY WHERE YOU GOING",
+ "audio_seconds": 7.91,
+ "created_at": "2026-07-06T03:15:08+00:00",
+ "failed": false,
+ "text": "The man's manner was so kind and hearty. The whole adventure was so wonderful and new. Is it country? Where you going?",
+ "seconds": 0.28
+}

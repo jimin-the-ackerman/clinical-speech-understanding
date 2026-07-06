@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__231432_1",
+ "condition": "white_noise_10",
+ "reference": "I have no animals, but there is a serious infestation of fleas where I used to work in home health aid. I went to the doctor and received creams and two different tablets. They help, but I continue being bitten. I am not working there anymore. It feels like there are things under my skin that itch badly. I have allergies, and my skin looks like I was beaten with a rope.",
+ "audio_seconds": 22.36,
+ "created_at": "2026-07-06T04:45:31+00:00",
+ "failed": false,
+ "text": "I have no animals, but there is a serious infestation at Leeds where I used to work in home health care. I went to the doctor and received steam within two different tablets. Then helped, but I continued being bitten. I am not working there anymore. It feels like there are things under my skin that itch badly. I have allergies, and my skin looks like I was eating with my nose.",
+ "seconds": 0.277
+}

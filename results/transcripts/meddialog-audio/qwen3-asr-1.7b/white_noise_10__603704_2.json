@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__603704_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, I am sorry to hear about your daughter. Pain on one side of the body over a long time requires a neurological evaluation. Regarding the swelling, is it painful or not? If it is a painless swelling, it needs a biopsy to rule out any tumor. I hope you got your answer. Have a good day.",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T05:33:01+00:00",
+ "failed": false,
+ "text": "Hello, I am sorry to hear about your daughter. Pain on one side of the body over a long time requires a neurological evaluation. Regarding the swelling, is it painful or not? If it is a painful swelling, it needs a biopsy to rule out any tumor. I hope you got your answer. Have a good day.",
+ "seconds": 0.625
+}

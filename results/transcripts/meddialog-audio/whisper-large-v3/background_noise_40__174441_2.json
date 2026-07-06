@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__174441_2",
+ "condition": "background_noise_40",
+ "reference": "Mostly it is a hematoma, but there is a strong possibility of underlying organ injury. Please go for an ultrasound of the abdomen.",
+ "audio_seconds": 7.59,
+ "created_at": "2026-07-06T04:17:26+00:00",
+ "failed": false,
+ "text": "Mostly it is a hematoma, but there is a strong possibility of underlying organ injury. Please go for an ultrasound of the abdomen.",
+ "seconds": 0.35
+}

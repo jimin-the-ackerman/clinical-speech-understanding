@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-15444-0010",
+ "condition": null,
+ "reference": "TICKLING THE FAUCES WITH A FEATHER MAY EXCITE VOMITING",
+ "audio_seconds": 4.38,
+ "created_at": "2026-07-06T00:00:04+00:00",
+ "failed": false,
+ "text": "Tickling the fosses with a feather makes sight vomiting.",
+ "seconds": 4.531
+}

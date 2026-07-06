@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__613117_1",
+ "condition": "white_noise_6",
+ "reference": "Dear Sir, I have experienced sweating and some uneasiness on a few occasions in the last two-three months. On investigations, the electrocardiogram has shown variations. However, I was able to withstand the treadmill test for about seven-eight minutes. When I experience the above symptoms, my pulse rate goes up to about ninety-five-one hundred. The blood pressure is about ninety-five-ninety-seven on the lower side and one hundred and forty-five-one hundred and fifty on the higher side. After some time, it returns. The pulse rate falls back to about seventy, and the blood pressure also ranges back to eighty-five-one hundred and twenty-five or so. I do not take any medications for blood pressure. The sweating usually occurs at night, sometimes late in my sleep at two:thirty AM or even four:zero AM. Please advise.",
+ "audio_seconds": 55.3,
+ "created_at": "2026-07-06T00:47:27+00:00",
+ "failed": false,
+ "text": "If the heart is too weak to pump efficiently, a condition called congestive heart failure occurs. One prescription is for cardiomyopathy. Another prescription is for diabetes. Here I feel a disruption. My hopes were filled up with our more powerful hungry prescription. Another prescription is for weight-building. I'm a doctor, and weight-building is not a powerful hunger. It's worth fighting for. A newer type of medication, prescribed frequently instead of the normal, comes from very real sleep deficit and even food. These are my hopes.",
+ "seconds": 1.895
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-35475-0001",
+ "condition": null,
+ "reference": "THROWING HIMSELF ON HIS KNEES BEFORE THE KING HE CRIED OH ROYAL SIRE BESTOW UPON ME ALSO A SWORD AND A STEED THAT I MAY UP AND AWAY TO FOLLOW MY BRETHREN",
+ "audio_seconds": 9.91,
+ "created_at": "2026-07-05T13:01:08+00:00",
+ "failed": false,
+ "text": "throwing himself on his knees before the king he cried o royal sire bestow upon me also a sword and a steed that i may up and away to follow my brethren o royal sire bestow upon me also a steed that i may up and away to follow my brethren",
+ "seconds": 0.513
+}

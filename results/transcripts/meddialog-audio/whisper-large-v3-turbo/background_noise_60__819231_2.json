@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__819231_2",
+ "condition": "background_noise_60",
+ "reference": "Check for any blue discoloration. If you see any, I suggest you rush to the emergency room. If not, then apply ice and use anti-inflammatory medication for one week. Also, wear an ankle brace. Good luck.",
+ "audio_seconds": 14.68,
+ "created_at": "2026-07-06T04:43:32+00:00",
+ "failed": false,
+ "text": "Check for any blue discoloration. If you see any, I suggest you rush to the emergency room. If not, then abuse and use anti-inflammatory medication for one week. Also, wear an ankle brace. Good luck.",
+ "seconds": 0.222
+}

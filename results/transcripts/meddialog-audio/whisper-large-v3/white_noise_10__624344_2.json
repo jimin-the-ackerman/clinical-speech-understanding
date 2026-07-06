@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__624344_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, dear. This may be pityriasis rosea. I would like to know if you had a sore throat. It is usually associated with this condition, but it is not necessary. The lesions are usually mildly itchy. It is probably a viral infection. Here are my suggestions for you: Use Desonide lotion once at night for seven days. Take Cetirizine if you have itching. I hope you get better soon. Thank you.",
+ "audio_seconds": 25.26,
+ "created_at": "2026-07-06T04:30:39+00:00",
+ "failed": false,
+ "text": "Hello, dear. This may be pitoriasis rosea. I would like to know if you had a sore throat. It is usually associated with this condition, but it is not necessary. The lesions are usually mildly itchy. It is probably a viral infection. Here are my suggestions for you. Use Desonide Lotion once at night for 7 days. Take Cetirizine if you have itching. I hope you get better soon. Thank you.",
+ "seconds": 0.773
+}

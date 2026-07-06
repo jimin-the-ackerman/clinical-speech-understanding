@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__251631_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. If the lump is near the center, it is likely that there has been bleeding in the goiter. An ultrasonography will clarify the diagnosis better. I believe that at the age of sixty, such swellings should be taken seriously. Under sonography guidance, fine-needle aspiration cytology can be performed to obtain a tissue diagnosis, so that further management can be planned effectively.",
+ "audio_seconds": 22.78,
+ "created_at": "2026-07-06T05:39:12+00:00",
+ "failed": false,
+ "text": "Hello. If the lump is near the center, it is likely that there has been bleeding in the goiter. An ultrasonography will clarify the diagnosis better. I believe that at the age of sixty, such swellings should be taken seriously. Under sonography guidance, fine needle aspiration cytology can be performed to obtain a tissue diagnosis, so that further management can be planned effectively.",
+ "seconds": 0.738
+}

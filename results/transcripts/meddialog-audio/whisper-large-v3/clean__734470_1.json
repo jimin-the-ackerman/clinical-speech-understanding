@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__734470_1",
+ "condition": "clean",
+ "reference": "I went to an orthopedic surgeon who told me my left hip was coming out of the socket. He also told me to wait as long as possible because of my age. I have two questions. When I walk, I get a sharp pain in my knee and my leg locks up for a moment. Is this normal for my condition? And how do I know when the hip replacement is absolutely necessary?",
+ "audio_seconds": 17.83,
+ "created_at": "2026-07-06T04:27:25+00:00",
+ "failed": false,
+ "text": "I went to an orthopedic surgeon who told me my left hip was coming out of the socket. He also told me to wait as long as possible because of my age. I have two questions. When I walk, I get a sharp pain in my knee and my leg locks up for a moment. Is this normal for my condition? And how do I know when the hip replacement is absolutely necessary?",
+ "seconds": 0.702
+}

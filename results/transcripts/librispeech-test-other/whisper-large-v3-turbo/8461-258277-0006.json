@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-258277-0006",
+ "condition": null,
+ "reference": "NOW THE CAUSE OF HER SLAYING HER SIRE WAS AS FOLLOWS",
+ "audio_seconds": 4.0,
+ "created_at": "2026-07-05T13:14:54+00:00",
+ "failed": false,
+ "text": "now the cause of her slaying her sire was as follows",
+ "seconds": 0.108
+}

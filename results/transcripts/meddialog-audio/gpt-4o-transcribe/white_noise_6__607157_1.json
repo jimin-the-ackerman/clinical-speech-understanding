@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__607157_1",
+ "condition": "white_noise_6",
+ "reference": "My dad had a basal ganglia stroke on August twenty-eight, two thousand and twelve. He can move his right arm and leg, but he cannot talk or eat. His doctor said that about a third of his brain is damaged already. It has been over three weeks, and the doctor said they do not see any improvement. He is sixty-three years old. My question is, will he recover from this?",
+ "audio_seconds": 19.29,
+ "created_at": "2026-07-06T00:47:27+00:00",
+ "failed": false,
+ "text": "The guy, the big Hebrew scholar, he doubted himself.",
+ "seconds": 0.966
+}

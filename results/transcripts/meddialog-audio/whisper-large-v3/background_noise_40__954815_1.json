@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__954815_1",
+ "condition": "background_noise_40",
+ "reference": "My son has been on the Enfamil Newborn formula, and he is about to turn four months old. He does not poop regularly, and I feel like it is the formula, but I am not sure what to switch to since he has to soon anyway. He has some gas, and it does not look like the less pooping is bothering him, but I know he should be pooping more than he is. We tried Gerber Gentle, and he hated it. I am thinking about Similac, but I am just not sure. Any suggestions?",
+ "audio_seconds": 32.68,
+ "created_at": "2026-07-06T04:20:40+00:00",
+ "failed": false,
+ "text": "My son has been on the Enfamil newborn formula, and he is about to turn four months old. He does not poop regularly, and I feel like it is the formula, but I am not sure what to switch to since he has to soon anyway. He has some dast, and it does not look like the less pooping is bothering him, but I know he should be pooping more than he is. We tried Gerber Gentle, and he hated it. I am thinking about Similac, but I am just not sure. Any suggestions?",
+ "seconds": 0.991
+}

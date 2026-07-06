@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__490394_1",
+ "condition": "white_noise_10",
+ "reference": "My nine-year-old daughter often has a distended stomach. We have removed bread from her diet, which has helped, but from time to time she is full of gas. She has been tested and is not celiac. What other foods should we eliminate? All suggestions are welcome.",
+ "audio_seconds": 16.64,
+ "created_at": "2026-07-06T03:02:17+00:00",
+ "failed": false,
+ "text": "My 9-year-old daughter often has a distended stomach; we have removed bread from her diet, which has helped, but from time to time she is full of gas. She has been tested and is not celiac. What other foods should we eliminate? All suggestions are welcome.",
+ "seconds": 5.842
+}

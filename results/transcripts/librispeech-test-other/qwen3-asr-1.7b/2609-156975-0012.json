@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-156975-0012",
+ "condition": null,
+ "reference": "THAT THE HEBREWS WERE RESTIVE UNDER THIS TYRANNY WAS NATURAL INEVITABLE",
+ "audio_seconds": 5.63,
+ "created_at": "2026-07-06T03:27:57+00:00",
+ "failed": false,
+ "text": "That the Hebrews were receptive under this ceremony was naturally inevitable.",
+ "seconds": 0.162
+}

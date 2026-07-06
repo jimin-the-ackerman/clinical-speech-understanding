@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__858243_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, I have always tried to control my anger since my childhood, but for the past three years, I usually lose my temper, and day by day, my anger is increasing significantly. I have tried all methods to control my anger, but they do not work. Is there any treatment to control anger?",
+ "audio_seconds": 20.31,
+ "created_at": "2026-07-06T03:08:18+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I have always tried to control my anger since my childhood, but for the past 3 years I usually lose my temper, and day by day my anger is increasing significantly. I have tried all methods to control my anger, but they do not work. Is there any treatment to control anger?",
+ "seconds": 8.851
+}

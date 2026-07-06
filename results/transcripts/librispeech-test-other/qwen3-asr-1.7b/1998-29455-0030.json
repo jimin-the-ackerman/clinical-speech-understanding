@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0030",
+ "condition": null,
+ "reference": "I AIN'T SURE AS I ADN'T BETTER STICK TO THE ROAD AND KEEP AWAY FROM OLD ANDS LIKE YOU JIM",
+ "audio_seconds": 5.54,
+ "created_at": "2026-07-06T03:27:14+00:00",
+ "failed": false,
+ "text": "I am sure as I hadn't better stick to the road and keep away from old ends like you, Jim.",
+ "seconds": 0.248
+}

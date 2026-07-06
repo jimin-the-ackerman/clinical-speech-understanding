@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__480211_2",
+ "condition": "white_noise_2",
+ "reference": "As you have taken an emergency contraceptive pill after sex, there is nothing to worry about. Moreover, you had sex during a safe period. You can take a urine pregnancy test to check if you are still anxious.",
+ "audio_seconds": 13.14,
+ "created_at": "2026-07-06T00:46:35+00:00",
+ "failed": false,
+ "text": "彼の世間話に付き合っていたら、永遠のようだ。もう少しで寝そう。",
+ "seconds": 0.646
+}

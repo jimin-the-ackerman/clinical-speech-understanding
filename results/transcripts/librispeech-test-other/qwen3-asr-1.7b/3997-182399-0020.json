@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-182399-0020",
+ "condition": null,
+ "reference": "IT WAS JUST AS GOOD AS ONE OF GRANDFATHER FROG'S",
+ "audio_seconds": 4.45,
+ "created_at": "2026-07-06T03:31:15+00:00",
+ "failed": false,
+ "text": "It was just as good as one of Grandfather Frog's.",
+ "seconds": 0.164
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63241-0009",
+ "condition": null,
+ "reference": "OLIVE HAD A FEAR OF EVERYTHING BUT HER GREATEST FEAR WAS OF BEING AFRAID",
+ "audio_seconds": 5.87,
+ "created_at": "2026-07-06T03:34:47+00:00",
+ "failed": false,
+ "text": "Olive had a fear of everything, but her greatest fear was of being afraid.",
+ "seconds": 0.191
+}

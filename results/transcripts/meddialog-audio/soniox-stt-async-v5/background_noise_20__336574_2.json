@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__336574_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, thank you for asking. I really understand your concern, but you need not worry about it; this is not a sign of cancer for sure. Because you have a family history of cancer, you may be having such negative thoughts. It could be some kind of skin lesion, and it will improve with any local steroid-containing cream. Try it, and forget about the thought of cancer. Have a nice day.",
+ "audio_seconds": 22.87,
+ "created_at": "2026-07-06T02:47:09+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking. I really understand your concern, but you need not worry about it; this is not a sign of cancer for sure. Because you have a family history of cancer, you may be having such negative thoughts. It could be some kind of skin lesion, and it will improve with any local steroid-containing cream. Try it, and forget about the thought of cancer. Have a nice day.",
+ "seconds": 4.664
+}

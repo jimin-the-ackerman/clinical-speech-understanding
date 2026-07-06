@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0010",
+ "condition": null,
+ "reference": "WE NEVER SHOWED A LIGHT TILL WE WAS ABOUT TEN MILE BELOW THE VILLAGE",
+ "audio_seconds": 4.33,
+ "created_at": "2026-07-05T13:09:55+00:00",
+ "failed": false,
+ "text": "We never showed a light till we was about 10 miles below the village.",
+ "seconds": 0.112
+}

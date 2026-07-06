@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__565471_2",
+ "condition": "white_noise_2",
+ "reference": "Hello madam, you are experiencing degenerative changes in your spine. Once you obtain a magnetic resonance imaging scan of your spine, you can rule out the disease.",
+ "audio_seconds": 10.92,
+ "created_at": "2026-07-06T00:46:41+00:00",
+ "failed": false,
+ "text": "Hello madam, you are experiencing degenerative changes in your spine. Once you obtain a magnetic resonance imaging scan of your spine, you can rule out the disease.",
+ "seconds": 1.092
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__552917_2",
+ "condition": "background_noise_60",
+ "reference": "Let me assure you that passing stool ten times a day is as normal as passing stool once in ten days in a child of this age, and both are to be considered normal as long as the child is passing an adequate amount of urine. If the child passes urine more than six times in twenty-four hours and if the stool is not hard in consistency, you need not worry. No remedial measures are suggested as long as the child is active and feeding well. Just continue breastfeeding as usual. In case you are worried, you may simply increase the amount or frequency of breastfeeding. Regarding the vomiting, it could be unrelated. If formula feeds are being given instead of breast milk, that could indeed be a cause. In that case, switching back to breast milk should help. Alternatively, try skipping a feed and then try again. If that does not relieve the problem, you may try giving Domstal suspension zero point five ml three times daily, thirty minutes before feeds, and see if it helps. It might still be advisable to visit a pediatrician and keep the child under follow-up.",
+ "audio_seconds": 56.06,
+ "created_at": "2026-07-06T04:22:42+00:00",
+ "failed": false,
+ "text": "Let me assure you that passing stool 10 times a day is as normal as passing stool once in 10 days in a child of this age, and both are to be considered normal as long as the child is passing an adequate amount of urine. If the child passes urine more than 6 times in 24 hours, and if the stool is not hard in consistency, you need not worry. No remedial measures are suggested as long as the child is active and feeding well. Just continue breastfeeding as usual. In case you are worried, you may simply increase the amount or frequency of breastfeeding. Regarding the vomiting, it could be unrelated. If formula feeds are being given instead of breast milk, that could indeed be a cause. In that case, switching back to breast milk should help. Alternatively, try skipping a feed and then try again. If that does not relieve the problem, you may try giving Gonstall suspension 0.5 ml 3 times daily, 30 minutes before feeds, and see if it helps. It might still be advisable to visit a pediatrician and keep the child under follow-up.",
+ "seconds": 1.757
+}

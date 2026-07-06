@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__222596_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, it may be due to anxiety or depression factors. Why don't you try doing some regular aerobic exercise and practicing meditation? I am sure you will find it helpful.",
+ "audio_seconds": 11.52,
+ "created_at": "2026-07-06T05:20:03+00:00",
+ "failed": false,
+ "text": "Hi. It may be due to anxiety or depression factors. Why don't you try doing some regular aerobic exercise and practicing meditation? I am sure you will find it helpful.",
+ "seconds": 0.356
+}

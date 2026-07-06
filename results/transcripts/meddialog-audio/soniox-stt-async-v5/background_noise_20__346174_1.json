@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__346174_1",
+ "condition": "background_noise_20",
+ "reference": "Hello Doctor, I have a wheezing problem and shortness of breath when I have a cold. I noticed that I also have a dust allergy. Day by day, my problem is increasing. Now I have to take Levolin inhaler three times a day. Is there any way to control my problem?",
+ "audio_seconds": 15.27,
+ "created_at": "2026-07-06T02:47:10+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I have a wheezing problem and shortness of breath when I have a cold. I noticed that I also have a dust allergy; day by day, my problem is increasing. Now I have to take Levolat inhaler 3 times a day. Is there any way to control my problem?",
+ "seconds": 4.938
+}

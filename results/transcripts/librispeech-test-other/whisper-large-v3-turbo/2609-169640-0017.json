@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-169640-0017",
+ "condition": null,
+ "reference": "THE JOHN BEHAVED BEAUTIFULLY AND CAME ROUND LIKE A TOP",
+ "audio_seconds": 4.17,
+ "created_at": "2026-07-05T13:09:51+00:00",
+ "failed": false,
+ "text": "The Joe behaved beautifully. He came round like a top.",
+ "seconds": 0.122
+}

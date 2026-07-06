@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__171951_1",
+ "condition": "background_noise_60",
+ "reference": "I fell on my head from nine feet up a ladder on Monday morning. I iced and took Advil immediately. Besides a lot of bruising on my body from hitting the ladder on the way down, I've been feeling okay. Now, almost four days later, I'm feeling slightly dizzy. Should I go to the emergency room? No blurry vision.",
+ "audio_seconds": 18.94,
+ "created_at": "2026-07-06T04:57:25+00:00",
+ "failed": false,
+ "text": "I fell on my head from nine feet up a ladder on Monday morning. I iced and took Advil immediately. Besides a lot of bruising on my body from hitting the ladder on the way down, I've been feeling okay. Now, almost four days later, I'm feeling slightly dizzy. Should I go to the emergency room? No blurry vision.",
+ "seconds": 0.668
+}

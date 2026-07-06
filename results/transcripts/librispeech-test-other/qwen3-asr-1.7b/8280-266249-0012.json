@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0012",
+ "condition": null,
+ "reference": "DOUBTLESS THAT IS THE CASE REMARKED MISTER DINSMORE",
+ "audio_seconds": 3.43,
+ "created_at": "2026-07-06T03:37:56+00:00",
+ "failed": false,
+ "text": "Doubtless that is the case,\" remarked Mr. Dinsmore.",
+ "seconds": 0.184
+}

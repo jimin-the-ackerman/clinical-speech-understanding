@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75788-0004",
+ "condition": null,
+ "reference": "DO AS THEY DO AND BELIKE THOU SHALT GAIN WHAT MAY FURTHER THY RETURN VOYAGE TO THY NATIVE LAND",
+ "audio_seconds": 6.84,
+ "created_at": "2026-07-05T13:05:43+00:00",
+ "failed": false,
+ "text": "Do as they do, and be like thou shalt gain what may further thy return voyage to thy native land.",
+ "seconds": 0.233
+}

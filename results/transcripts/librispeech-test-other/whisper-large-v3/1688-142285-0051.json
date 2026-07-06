@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0051",
+ "condition": null,
+ "reference": "THE SHARPNESS IN HER EYE TURNED TO A WISTFUL LONGING AS SHE MET MARGARET'S SOFT AND FRIENDLY GAZE",
+ "audio_seconds": 6.62,
+ "created_at": "2026-07-05T12:55:38+00:00",
+ "failed": false,
+ "text": "the sharpness in her eye turned to a wistful longing as she met margaret's soft and friendly gaze",
+ "seconds": 0.252
+}

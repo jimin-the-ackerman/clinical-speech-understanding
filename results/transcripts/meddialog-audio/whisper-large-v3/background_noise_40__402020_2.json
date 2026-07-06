@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__402020_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, dear. Please take the following steps to treat your bump near the vagina: a) take diclofenac for five days, b) take antibiotics for five days, c) take rest if needed, and do this with the help of your doctor who will treat it accordingly. Don't worry, it will go away in three to five days. Wishing you a fast recovery. Feel free to ask any further questions in this regard. Have a good day.",
+ "audio_seconds": 22.61,
+ "created_at": "2026-07-06T04:18:28+00:00",
+ "failed": false,
+ "text": "hi dear please take the following steps to treat your bump near the vagina a take diclofenac for five days b take antibiotics for five days c take rest if needed and do this with the help of your doctor who will treat it accordingly don't worry we'll go away in three to five days wishing you a fast recovery feel free to ask any further questions in this regard have a good day",
+ "seconds": 0.819
+}

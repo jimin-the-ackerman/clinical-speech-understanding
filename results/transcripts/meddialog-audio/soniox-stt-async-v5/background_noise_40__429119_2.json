@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__429119_2",
+ "condition": "background_noise_40",
+ "reference": "Hi. You had unprotected sexual intercourse almost two months ago and had your period twice since then? And since then, you have not had unprotected sexual intercourse again? Yes, ma'am, pregnancy can clearly be ruled out. Please speak to your doctor if you do not have your period in another few days. Best wishes.",
+ "audio_seconds": 18.09,
+ "created_at": "2026-07-06T02:51:08+00:00",
+ "failed": false,
+ "text": "Hi. You had unprotected sexual intercourse almost 2 months ago. You had your period twice since then, and since then you have not had unprotected sexual intercourse again. Yes, ma'am. Pregnancy can clearly be ruled out. Please speak to your doctor if you do not have your period in another few days. Best wishes.",
+ "seconds": 5.491
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__577714_1",
+ "condition": "background_noise_60",
+ "reference": "A friend of mine tested positive for marijuana at fourteen weeks during her pregnancy, and they told her that they may test the baby when it is born because of this. She said she used it once at about twenty-one to twenty-three weeks and tested negative at her twenty-eight weeks appointment, but is worried the baby's meconium will still test positive. What is the likelihood that this will happen even though she only used it once?",
+ "audio_seconds": 23.13,
+ "created_at": "2026-07-06T04:59:01+00:00",
+ "failed": false,
+ "text": "A friend of mine tested positive for marijuana at fourteen weeks during her pregnancy, and they told her that they may test the baby when it is born because of this. She said she used it once at about twenty-one to twenty-three weeks and tested negative at her twenty-eight weeks appointment, but is worried the baby's macronium will still test positive. What is the hood that this will happen even though she only used it once?",
+ "seconds": 0.783
+}

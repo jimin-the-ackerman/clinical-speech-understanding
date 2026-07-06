@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-159411-0016",
+ "condition": null,
+ "reference": "THE BRAHMAN STATED THE CASE AND THE EAGLE ANSWERED WHENEVER MEN SEE ME THEY TRY TO SHOOT ME THEY CLIMB THE ROCKS AND STEAL AWAY MY LITTLE ONES",
+ "audio_seconds": 12.48,
+ "created_at": "2026-07-05T13:09:39+00:00",
+ "failed": false,
+ "text": "the brahmin suited the case and the eagle answered whenever men see me they try to shoot me they climb the rocks and steal away my little ones",
+ "seconds": 0.127
+}

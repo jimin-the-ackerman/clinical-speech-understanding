@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__808699_2",
+ "condition": "background_noise_40",
+ "reference": "Hello. The sudden sharp pains in the right side are more suggestive of a ureteric stone causing ureteric spasms. Please go for an ultrasound of the abdomen and urine and blood tests.",
+ "audio_seconds": 11.95,
+ "created_at": "2026-07-06T02:52:30+00:00",
+ "failed": false,
+ "text": "Hello. The sudden sharp pains in the right side are more suggestive of a ureteric stone, causing ureteric spasms. Please go for an ultrasound of the abdomen in urine and blood tests.",
+ "seconds": 4.657
+}

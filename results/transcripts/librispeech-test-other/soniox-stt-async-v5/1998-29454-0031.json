@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0031",
+ "condition": null,
+ "reference": "THEY COULD PUT A MAN AWAY FOR LESS THAN THAT",
+ "audio_seconds": 2.74,
+ "created_at": "2026-07-06T00:00:32+00:00",
+ "failed": false,
+ "text": "They could put a man away for less than that.",
+ "seconds": 4.516
+}

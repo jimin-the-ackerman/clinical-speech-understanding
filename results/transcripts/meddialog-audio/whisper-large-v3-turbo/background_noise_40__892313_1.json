@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__892313_1",
+ "condition": "background_noise_40",
+ "reference": "My son was playing soccer yesterday and collided with another player. He has a huge lump on his forehead. He woke up this morning and had some blood, both black and red, in his spit that he coughed up. He has a headache; the lump has gone down a bit but is still bruised. Should I be concerned about the other kid's stitches?",
+ "audio_seconds": 20.74,
+ "created_at": "2026-07-06T04:42:15+00:00",
+ "failed": false,
+ "text": "My son was playing soccer yesterday and collided with another player. He has a huge lump on his forehead. He woke up this morning and had some blood, both black and red, in his spit that he coughed up. He has a headache. The lump has gone down a bit, but he's still bruised. Should I be concerned about the other kid's stitches?",
+ "seconds": 0.264
+}

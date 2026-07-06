@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2330-0038",
+ "condition": null,
+ "reference": "IT WAS A TUNE THEY HAD ALL HEARD HUNDREDS OF TIMES SO THERE WAS NO DIFFICULTY IN TURNING OUT A PASSABLE IMITATION OF IT TO THE IMPROVISED STRAINS OF I DIDN'T WANT TO DO IT THE PRISONER STRODE FORTH TO FREEDOM",
+ "audio_seconds": 14.25,
+ "created_at": "2026-07-05T13:13:41+00:00",
+ "failed": false,
+ "text": "it was a tune they had all heard hundreds of times so there was no difficulty in turning out a passable imitation of it to the improvised trains of i didn't want to do it the prisoners strode forth to freedom",
+ "seconds": 0.141
+}

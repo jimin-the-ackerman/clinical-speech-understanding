@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28311-0010",
+ "condition": null,
+ "reference": "MIKE'S EXPRESSION CHANGED AT ONCE TO ONE OF TRIUMPH BUT CHRIS WAS ONLY PARTLY ENCOURAGED",
+ "audio_seconds": 5.68,
+ "created_at": "2026-07-06T02:27:24+00:00",
+ "failed": false,
+ "text": "Mike's expression changed; it went once to one of triumph, but Chris was only partially encouraged.",
+ "seconds": 4.666
+}

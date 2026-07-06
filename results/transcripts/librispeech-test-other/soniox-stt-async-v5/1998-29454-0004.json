@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0004",
+ "condition": null,
+ "reference": "WHEN DICKIE CAME DOWN HIS AUNT SLIGHTLY SLAPPED HIM AND HE TOOK THE HALFPENNY AND LIMPED OFF OBEDIENTLY",
+ "audio_seconds": 6.55,
+ "created_at": "2026-07-06T00:00:18+00:00",
+ "failed": false,
+ "text": "When Dickie came down, his aunt slightly slapped him, and he took the half penny and limped off obediently.",
+ "seconds": 4.737
+}

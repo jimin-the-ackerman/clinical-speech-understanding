@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__792165_1",
+ "condition": "background_noise_20",
+ "reference": "I have had a very heavy feeling in my chest for about three weeks now. I am very nauseous and dizzy, and I am fatigued and just overwhelmingly sleepy. I fall asleep everywhere and anywhere. I have a headache that will not go away, and it's such a scary feeling. I have wanted to go to the emergency room. Also, pregnancy is a possibility, but I am not quite sure that would be it.",
+ "audio_seconds": 28.93,
+ "created_at": "2026-07-06T04:52:32+00:00",
+ "failed": false,
+ "text": "I have had a very heavy feeling in my chest for about three weeks now. I am very nauseous and dizzy, and I am fatigued and just overwhelmingly sleepy. I fall asleep everywhere and anywhere. I have a headache that will not go away, and it's such a scary feeling. I have wanted to go to the emergency room. Also, pregnancy is a possibility, but I am not quite sure that would be it.",
+ "seconds": 0.794
+}

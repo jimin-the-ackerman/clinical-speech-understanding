@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__870925_1",
+ "condition": "background_noise_40",
+ "reference": "I have a lump under the skin on the back of my head that has been there for ten years. It is not painful but seems to be increasing in size. It does not itch at all, and there does not appear to be any discharge coming from it. When I feel it with my fingers, I have noticed that there is an odor on my fingers afterwards. I am making an appointment with my doctor to have this looked at, but I would like to have any information I can find ahead of time.",
+ "audio_seconds": 27.31,
+ "created_at": "2026-07-06T00:43:38+00:00",
+ "failed": false,
+ "text": "I have a lump under the skin on the back of my head that has been there for ten years. It is not painful, but seems to be increasing in size. It does not itch at all, and there does not appear to be any discharge coming from it. When I feel it with my fingers, I have noticed that there is an odour on my fingers afterwards. I am making an appointment with my doctor to have this looked at, but I would like to have any information I can find ahead of time.",
+ "seconds": 1.714
+}

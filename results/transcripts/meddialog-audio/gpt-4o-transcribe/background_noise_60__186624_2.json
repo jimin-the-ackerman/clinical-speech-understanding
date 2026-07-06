@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__186624_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, from your case it looks like it may be pain from gastritis as all reports are within normal limits. Take proton pump inhibitors orally; they will likely work.",
+ "audio_seconds": 10.5,
+ "created_at": "2026-07-06T00:43:49+00:00",
+ "failed": false,
+ "text": "Hello, from your case it looks like it may be pain from gastritis as all reports are within normal limits. Take proton pump inhibitors orally, they will likely work",
+ "seconds": 0.634
+}

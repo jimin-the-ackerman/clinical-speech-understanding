@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__144412_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, both Lactodex and Lactogen are formula feeds. The basic difference is that Lactodex contains medium-chain triglyceride oil, which is oily, whereas Lactogen does not contain medium-chain triglyceride oil, so it is not oily after mixing with water. You have to continue with whichever one is suitable for your baby. Mother's milk is the best. If there is no mother's milk available, then you may choose either of these options.",
+ "audio_seconds": 25.43,
+ "created_at": "2026-07-06T00:43:46+00:00",
+ "failed": false,
+ "text": "Hi, both Lactodex and Lactogen are formula feeds. The basic difference is that Lactodex contains medium chain triglyceride oil, which is oily, whereas Lactogen does not contain medium triglyceride oil, so it is not oily after mixing with water. You have to continue with whichever one is suitable for your baby. Mother's milk is the best. If there is no mother's milk available, then you may choose either of these options.",
+ "seconds": 1.393
+}

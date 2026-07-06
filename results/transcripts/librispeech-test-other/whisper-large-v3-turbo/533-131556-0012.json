@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131556-0012",
+ "condition": null,
+ "reference": "I ENJOY A MOONLIGHT RAMBLE AS WELL AS YOU I ANSWERED STEADILY FIXING MY EYES UPON HER AND THE SHRUBBERY HAPPENS TO BE ONE OF MY FAVOURITE RESORTS",
+ "audio_seconds": 11.93,
+ "created_at": "2026-07-05T13:12:16+00:00",
+ "failed": false,
+ "text": "i enjoy a moonlight ramble as well as you i answered steadily fixing my eyes up on her and the fribery happens to be one of my favorite resorts",
+ "seconds": 0.148
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164915-0004",
+ "condition": null,
+ "reference": "ACCORDINGLY SHE TOLD HIM ALL THAT HAD COME TO HER SINCE THEIR SEPARATION AT THE KHAN AND WHAT HAD HAPPENED TO HER WITH THE BADAWI HOW THE MERCHANT HAD BOUGHT HER OF HIM AND HAD TAKEN HER TO HER BROTHER SHARRKAN AND HAD SOLD HER TO HIM HOW HE HAD FREED HER AT THE TIME OF BUYING HOW HE HAD MADE A MARRIAGE CONTRACT WITH HER AND HAD GONE IN TO HER AND HOW THE KING THEIR SIRE HAD SENT AND ASKED FOR HER FROM SHARRKAN",
+ "audio_seconds": 32.95,
+ "created_at": "2026-07-06T00:01:18+00:00",
+ "failed": false,
+ "text": "Accordingly, she told him all that had come to her since their separation at the Khan, and what had happened to her with the Badawi, how the merchant had bought her of him and had taken her to her brother Sharkan, and had sold her to him; how he had freed her at the time of buying; how he had made a marriage contract with her and had gone in to her, and how the king, their sire, had sent and asked for her from Sharkan.",
+ "seconds": 5.293
+}

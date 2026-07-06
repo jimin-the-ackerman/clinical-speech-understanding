@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__308802_1",
+ "condition": "white_noise_6",
+ "reference": "Hello Doctor, I just started birth control a few weeks ago, so this is my first week of my period. I had brown discharge a few days before I started the sugar pill. My period started kind of light but has since turned into thicker blood. I just had horrible cramps this afternoon, probably the worst ever. I took a nap, and when I got up, there was a large clot that looked like some sort of tissue. It was slightly smaller than an egg and was pink with dark spots. I am sexually active, but my partner always wears a condom and has never finished inside me, so there is no possibility of a pregnancy. Is this something I should be concerned about?",
+ "audio_seconds": 41.39,
+ "created_at": "2026-07-06T03:09:31+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I just started birth control a few weeks ago, so this is my first week of my period. I had brown discharge a few days before I started the sugar pill. My period started kind of light, but has since turned into thicker blood. I just had a horrible cramps this afternoon, probably the worst ever. I took a nap, and when I got up there was a large clot that looked like some sort of tissue. It was slightly smaller than an egg and was pink with dark spots. I am sexually active, but my partner always wears a condom and is never finished inside me, so there is no possibility of a pregnancy. Is this something I should be concerned about?",
+ "seconds": 8.603
+}

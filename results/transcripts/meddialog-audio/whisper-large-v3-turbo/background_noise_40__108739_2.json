@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__108739_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, if your electrocardiogram and echocardiogram have not revealed any abnormal findings, the next step would be to undergo Holter monitoring to record exactly what is going wrong whenever you experience the palpitations. It is common to miss important findings in a random test. The possibility of anemia, stress, and general infection should also be considered, and appropriate investigations ordered. Analysis of Holter monitoring findings usually helps to sort out the problem. Meanwhile, take adequate rest, preferably in the left lateral position, maintain a good diet, and avoid stress. Hope this helps.",
+ "audio_seconds": 40.62,
+ "created_at": "2026-07-06T04:40:58+00:00",
+ "failed": false,
+ "text": "hello if your electrocardiogram and echocardiogram have not revealed any abnormal findings the next step would be to undergo halter monitoring to record exactly what is going wrong whenever you experience the palpitations it is common to miss important findings in a random test the possibility of anemia stress and general infection should also be considered and appropriate investigations ordered analysis of halter monitoring findings usually helps to sort out the problem meanwhile take adequate rest preferably in the left lateral position maintain a good diet and avoid stress hope this helps",
+ "seconds": 0.363
+}

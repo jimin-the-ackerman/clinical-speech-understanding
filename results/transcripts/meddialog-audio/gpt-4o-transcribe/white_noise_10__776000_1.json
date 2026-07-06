@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__776000_1",
+ "condition": "white_noise_10",
+ "reference": "I am having pains in my lower abdomen. It hurts to breathe and cough, but it is not menstrual pains as I am no longer on my period. Also, I release urine quite a bit throughout the day, but even if I have just been, I feel like it is leaking into my underwear and I end up with a wet patch in my underwear. Is there anything you think this could be?",
+ "audio_seconds": 21.59,
+ "created_at": "2026-07-06T00:46:04+00:00",
+ "failed": false,
+ "text": "Așa.",
+ "seconds": 0.823
+}

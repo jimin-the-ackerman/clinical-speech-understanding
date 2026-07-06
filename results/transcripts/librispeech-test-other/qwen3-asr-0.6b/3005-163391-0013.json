@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163391-0013",
+ "condition": null,
+ "reference": "I'M GOING IN A SHIP NEXT WEDNESDAY FOR RYO JANEERO WHERE MY UNCLE LIVES",
+ "audio_seconds": 6.03,
+ "created_at": "2026-07-06T03:16:32+00:00",
+ "failed": false,
+ "text": "I'm going in a ship next Wednesday for Rio Janeiro, where my uncle is.",
+ "seconds": 0.192
+}

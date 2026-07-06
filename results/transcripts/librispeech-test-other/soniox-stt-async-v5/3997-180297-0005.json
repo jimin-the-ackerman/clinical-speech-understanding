@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180297-0005",
+ "condition": null,
+ "reference": "YES BUT BESIDES NOT WISHING TO PUT YOU OUT I WAS SURE THAT IF YOU CAME AS FAR AS MY DOOR YOU WOULD WANT TO COME UP AND AS I COULD NOT LET YOU I DID NOT WISH TO LET YOU GO AWAY BLAMING ME FOR SAYING NO",
+ "audio_seconds": 13.83,
+ "created_at": "2026-07-06T02:23:58+00:00",
+ "failed": false,
+ "text": "Yes, but besides not wishing to put you out, I was sure that if you came as far as my door you would want to come up. And as I could not let you, I did not wish to let you go away blaming me for saying no.",
+ "seconds": 4.82
+}

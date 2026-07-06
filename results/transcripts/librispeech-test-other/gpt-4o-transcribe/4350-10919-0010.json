@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-10919-0010",
+ "condition": null,
+ "reference": "BEG PARDON IS THE YAUSKY BRIDGE DONE YET OR SHALL I HAVE TO DRIVE AROUND",
+ "audio_seconds": 3.18,
+ "created_at": "2026-07-05T23:55:59+00:00",
+ "failed": false,
+ "text": "Beg pardon, is the Yoski bridge done yet, or shall I have to drive around?",
+ "seconds": 0.65
+}

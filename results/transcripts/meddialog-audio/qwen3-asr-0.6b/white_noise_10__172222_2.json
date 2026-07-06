@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__172222_2",
+ "condition": "white_noise_10",
+ "reference": "This is the description of a throbbing headache with visual disturbances. Rule out any refractive errors in her, which are more common in this age group. A migraine headache can mimic this. She will need a proper workup for the same.",
+ "audio_seconds": 12.29,
+ "created_at": "2026-07-06T05:04:42+00:00",
+ "failed": false,
+ "text": "This is the description of a driving headache for the majority. You allow any of the possibilities ahead with a more common approach. Am I going head over heels? I will need a proper report for the deal.",
+ "seconds": 0.402
+}

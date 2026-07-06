@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__402483_1",
+ "condition": "background_noise_40",
+ "reference": "Good morning, sir. I am Rahul, weighing ninety kilograms, and I have been on hypertension medication for the last two years. Actually, I am fed up with the tablets; if I take them, my blood pressure is normal, otherwise it is not. I have started practicing yoga for the last month. Is there any sort of diet that can help me get rid of the blood pressure medication forever? Please help me because I am just thirty years old, and I have a baby who is one point five years old. So please help.",
+ "audio_seconds": 28.59,
+ "created_at": "2026-07-06T04:18:29+00:00",
+ "failed": false,
+ "text": "Good morning, sir. I am Rahul, weighing 90 kilograms, and I have been on hypertension medication for the last two years. Actually, I am fed up with the tablets. If I take them, the blood pressure is normal. Otherwise, it is not. I have started practicing yoga for the last month. Is there any sort of diet that can help me get rid of the blood pressure medication forever? Please help me, because I am just 30 years old, and I have a baby who is 1.5 years old. So please help me.",
+ "seconds": 0.892
+}

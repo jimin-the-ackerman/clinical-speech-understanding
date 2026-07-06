@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__153802_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, I understand your concerns. Looking at your sonography, it appears normal. I think you will not have any problem conceiving, as one ovary appears to have a follicle that can ovulate, and your endometrial thickness is within the normal range. Continue your follicular study and get back to us.",
+ "audio_seconds": 16.9,
+ "created_at": "2026-07-06T03:00:38+00:00",
+ "failed": false,
+ "text": "Hi, I need to state your concerns: looking at your sonography, it appears normal. I think you will not have any problems with feeding, as one over it appears to have a follicle that's not big, and your endometrial thickness is within the normal range. Continue your follicular study and get back to us.",
+ "seconds": 5.61
+}

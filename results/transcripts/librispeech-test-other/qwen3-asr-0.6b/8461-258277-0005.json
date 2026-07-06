@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-258277-0005",
+ "condition": null,
+ "reference": "AND SHE THREW DOWN THE JEW'S HEAD BEFORE HIM",
+ "audio_seconds": 3.7,
+ "created_at": "2026-07-06T03:26:05+00:00",
+ "failed": false,
+ "text": "And she threw down the Jew's head before him.",
+ "seconds": 0.153
+}

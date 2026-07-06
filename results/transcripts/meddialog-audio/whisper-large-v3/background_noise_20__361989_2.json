@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__361989_2",
+ "condition": "background_noise_20",
+ "reference": "Hi dear, if black patches appear on their own, it is called melasma. If they occur after acne, it is called post-acne pigmentation. The first condition is a bit difficult to treat, but post-acne pigmentation can be treated easily. Now, the main culprit here is sunlight. However, since you have an acne problem, you cannot use a normal sunscreen as it tends to be oily. Therefore, I suggest you use Suncote. It is a water-based sunscreen and very effective. Thank you.",
+ "audio_seconds": 28.93,
+ "created_at": "2026-07-06T04:14:21+00:00",
+ "failed": false,
+ "text": "Hi dear, if black patches appear on their own, it is called no asthma. If they occur after acne, it is called post-acne pigmentation. The first condition is a bit difficult to treat, but post-acne pigmentation can be treated easily. Now, main culprit here is sunlight. Now, once you have an acne problem, you cannot use a normal sunscreen as it tends to be oily. Therefore, I suggest you use Sunco. It is a water-based sunscreen and very effective. Thank you.",
+ "seconds": 1.165
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__264136_1",
+ "condition": "background_noise_60",
+ "reference": "My baby strained his body when he got excited. My baby is six months old, a boy. When we were playing with him, suddenly his face turned red and he strained his arms and legs. He seemed impatient. I'm worried something went wrong with his emotional behavior. Please help me, Doctor.",
+ "audio_seconds": 17.92,
+ "created_at": "2026-07-06T02:53:50+00:00",
+ "failed": false,
+ "text": "My baby strained his body when he got excited. My baby is 6 months old, a boy. When we were playing with him, suddenly his face turned red and he strained his arms and legs. He seemed impatient. I'm worried something went wrong with his emotional behavior. Please help me, doctor.",
+ "seconds": 4.82
+}

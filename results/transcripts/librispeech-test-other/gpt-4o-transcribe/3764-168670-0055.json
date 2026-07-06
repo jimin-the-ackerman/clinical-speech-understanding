@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168670-0055",
+ "condition": null,
+ "reference": "THE PRIEST SAYS THE PRAYERS MAKES THE SIGN OF THE CROSS SPRINKLES THE HOLY WATER AND TAKES HIS DEPARTURE",
+ "audio_seconds": 5.92,
+ "created_at": "2026-07-05T23:55:22+00:00",
+ "failed": false,
+ "text": "The priest says the prayers, makes the sign of the cross, sprinkles the holy water, and takes his departure.",
+ "seconds": 0.87
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__548377_1",
+ "condition": "white_noise_6",
+ "reference": "I am twenty-seven years old and it has been one and a half years since my marriage. I have been trying hard to conceive. My doctor has prescribed me Siphene fifty for five days from the 3rd day of my cycle, and also Productive F for a month. I am not sure what Productive F is used for. Also, I have tried taking Fertyl for more than six months or so.",
+ "audio_seconds": 22.7,
+ "created_at": "2026-07-06T04:48:48+00:00",
+ "failed": false,
+ "text": "I am 27 years old and it has been one and a half years since my marriage. I have been trying hard to conceive. My doctor has prescribed me 15-65 days from the third day of my cycle and also Productive F for a month. I am not sure what Productive F is used for. Also, I have tried taking Ferdiel for more than six months or so.",
+ "seconds": 0.268
+}

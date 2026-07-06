@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__561567_2",
+ "condition": "background_noise_40",
+ "reference": "Hello there, where exactly were the polyps? If the polyps were in your nose, then it is possible that these medications will prevent further polyp formation. If the polyps were in your colon, gallbladder, or anywhere else in your digestive system, then these medications are unlikely to have any effect on polyp formation. I hope this answers your questions. Please feel free to contact me should you have any further questions.",
+ "audio_seconds": 26.71,
+ "created_at": "2026-07-06T04:19:10+00:00",
+ "failed": false,
+ "text": "Hello there, where exactly were the polyps? If the polyps were in your nose, then it is possible that these medications will prevent further polyp formation. If the polyps were in your colon, gallbladder, or anywhere else in your digestive system, then these medications are unlikely to have any effect on polyp formation. I hope this answers your questions. Please feel free to contact me should you have any further questions.",
+ "seconds": 0.739
+}

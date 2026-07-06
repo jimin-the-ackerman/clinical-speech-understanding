@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__665990_1",
+ "condition": "white_noise_10",
+ "reference": "Hello Doctor, I did not get my periods for the last year. Now I have a lot of hair fall, an increase in body weight, and more hair growth on my face. I have thyroid issues, and when checked three months ago, it was three times higher than normal. Now I am not able to go to any hospital. Please suggest.",
+ "audio_seconds": 18.77,
+ "created_at": "2026-07-06T05:33:19+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I did not get my period for the last year. Now I have a lot of hair fall, increase in body weight, and more hair break than my base. Thyroid issue and the check three months ago. It is three times higher than normal. Now I am not able to go to any hospital. Please suggest.",
+ "seconds": 0.664
+}

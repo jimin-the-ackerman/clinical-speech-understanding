@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__176537_1",
+ "condition": "white_noise_10",
+ "reference": "My mom just had appendicitis surgery and has been recovering for the last week. However, since last evening, she has been having terrible lower back pain that she claims is deeper than just muscle pain. She can't even move to change positions in bed. Can I give her something for temporary relief so that she can be taken to the hospital at least?",
+ "audio_seconds": 18.26,
+ "created_at": "2026-07-06T05:31:22+00:00",
+ "failed": false,
+ "text": "My mom just had appendicitis surgery and has been recovering for the last week. However, since last evening, she has been having terrible lower back pain that she claims is deeper than just muscle pain. She can't even move to change positions in bed. Can I give her something for temporary relief so that she can be taken to the hospital?",
+ "seconds": 0.66
+}

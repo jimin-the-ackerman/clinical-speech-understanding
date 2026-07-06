@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__465509_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. Firstly, the risk depends on whether that person has Human Immunodeficiency Virus or not. If not, then there is no need to worry, but considering the second possibility, some risk of transmission remains, though not one hundred percent. Now, if the test is negative after five to six weeks, then it is unlikely for you to have Human Immunodeficiency Virus, as the majority of those who are exposed become positive within this period. Only a minority of patients develop delayed seroconversion. So, considering your overall status, I think there is no need to worry about it, and you are unlikely to have Human Immunodeficiency Virus. However, get tested after a few weeks to eliminate doubt and be sure. So you should not worry now, get back to your routine, and get tested at a later date. I hope this helps.",
+ "audio_seconds": 46.93,
+ "created_at": "2026-07-06T04:47:15+00:00",
+ "failed": false,
+ "text": "Hello. Firstly, the risk depends on whether that person has human immunodeficiency virus or not. If not, then there is no need to worry, but considering the second possibility, some risk of transmission remains, though not 100%. Now, if the test is negative after 5 to 60, then it is unlikely for you to have human immunodeficiency virus, as the majority of those who are exposed become positive within this period. Only a minority of patients develop delayed seroconversions. So, considering your overall status, I think there is no need to worry about it, and you are unlikely to have human immunodeficiency virus. However, get tested after a few weeks to eliminate doubt and be sure. So, you should not worry now, get back to your routine, and get tested at a later date. I hope this helps!",
+ "seconds": 0.475
+}

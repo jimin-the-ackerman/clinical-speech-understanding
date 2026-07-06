@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__152512_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. The rounded, slightly painful swelling next to the left testis is most likely caused by what is called an epididymal cyst. This can easily be confirmed on examination, preferably by a urologist. The treatment depends on the size, duration, and findings on a scrotal scan, if indicated. Most of these resolve with medical treatment, so there is no cause for anxiety.",
+ "audio_seconds": 24.75,
+ "created_at": "2026-07-06T05:35:02+00:00",
+ "failed": false,
+ "text": "Hello. The rounded, slightly painful swelling next to the left testis is most likely caused by what is called an epididymal cyst. This can easily be confirmed on examination, preferably by a urologist. The treatment depends on the size, duration, and findings on a scrotal scan, if indicated. Most of these resolve with medical treatment, so there is no cause for anxiety.",
+ "seconds": 0.769
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0107",
+ "condition": null,
+ "reference": "THE PEAL WHICH ORDERS THE DOCTOR FOR THE DEAD TO BE SUMMONED HAS ALREADY BEEN RUNG",
+ "audio_seconds": 3.88,
+ "created_at": "2026-07-05T12:58:57+00:00",
+ "failed": false,
+ "text": "The appeal which orders the doctor for the dead to be summoned has already been wrung.",
+ "seconds": 0.216
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-130732-0025",
+ "condition": null,
+ "reference": "BISQUE OF CRAWFISH",
+ "audio_seconds": 2.15,
+ "created_at": "2026-07-05T13:10:55+00:00",
+ "failed": false,
+ "text": "Bisque of crawfish.",
+ "seconds": 0.095
+}

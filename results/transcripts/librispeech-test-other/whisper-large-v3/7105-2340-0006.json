@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2340-0006",
+ "condition": null,
+ "reference": "AND THE REPUTATION WAS AN UNPLEASANT ONE",
+ "audio_seconds": 3.0,
+ "created_at": "2026-07-05T13:06:15+00:00",
+ "failed": false,
+ "text": "And the reputation was an unpleasant one.",
+ "seconds": 0.151
+}

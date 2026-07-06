@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__672233_1",
+ "condition": "clean",
+ "reference": "Hi, I just received a message from my officemate. The ultrasound result is 'within the enlarged uterus is a single fetus in cephalic presentation at the time of examination. Real-time scans reveal the absence of fetal movements and cardiac activity.' She said she will be operated on this afternoon, and the baby is gone. Three days ago, she told us she felt the movement of her baby. How come her baby is gone?",
+ "audio_seconds": 23.13,
+ "created_at": "2026-07-06T05:02:57+00:00",
+ "failed": false,
+ "text": "Hi, I just received a message from my fish mate. The ultrasound result is: within the enlarged uterus is a single fetus in cephalic presentation at the time of examination. Real time scans reveal the absence of fetal movements and cardiac activity. She said she will be operated on this afternoon, and the baby is gone. Three days ago, she told us she felt the movement of her baby. How come her baby is gone?",
+ "seconds": 0.789
+}

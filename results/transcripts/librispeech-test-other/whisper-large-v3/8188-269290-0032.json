@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0032",
+ "condition": null,
+ "reference": "SCARCELY LIKELY REPLIED LESLIE SHE TOLD ME SHE WAS DETERMINED NOT TO COME TO THE MEETING",
+ "audio_seconds": 5.93,
+ "created_at": "2026-07-05T13:08:12+00:00",
+ "failed": false,
+ "text": "scarcely likely replied leslie she told me she was determined not to come to the meeting",
+ "seconds": 0.223
+}

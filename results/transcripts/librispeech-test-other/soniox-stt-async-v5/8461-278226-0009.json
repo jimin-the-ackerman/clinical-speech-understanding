@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-278226-0009",
+ "condition": null,
+ "reference": "HOW I WISH YOU COULD GET ME A COPY OF THAT PICTURE PHILIP LAURA SAID ENTREATINGLY",
+ "audio_seconds": 6.13,
+ "created_at": "2026-07-06T02:42:18+00:00",
+ "failed": false,
+ "text": "\"How I wish you could get me a copy of that picture, Philip,\" Laura said entreatingly.",
+ "seconds": 4.623
+}

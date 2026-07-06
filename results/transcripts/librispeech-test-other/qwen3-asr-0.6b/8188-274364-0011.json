@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-274364-0011",
+ "condition": null,
+ "reference": "YOUR MAJESTY HAVING TRIED THE AFFECTIONS OF YOUR PEOPLE YOU ARE ABSOLVED AND LOOSE FROM ALL RULES OF GOVERNMENT AND MAY DO WHAT POWER WILL ADMIT",
+ "audio_seconds": 8.91,
+ "created_at": "2026-07-06T03:25:45+00:00",
+ "failed": false,
+ "text": "Your Majesty, having tried the affections of your people, you are absolved and loose from all rules of government, and may do what power will admit.",
+ "seconds": 0.326
+}

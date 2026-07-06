@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__848969_2",
+ "condition": "background_noise_60",
+ "reference": "I think you should go for a check of the cast and maybe replace it or remove it. You should check it with your doctor.",
+ "audio_seconds": 5.97,
+ "created_at": "2026-07-06T02:56:05+00:00",
+ "failed": false,
+ "text": "I think you should go for a check of the cast and maybe replace it or remove it. You should check it with your doctor.",
+ "seconds": 4.572
+}

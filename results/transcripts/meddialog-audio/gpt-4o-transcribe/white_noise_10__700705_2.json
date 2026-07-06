@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__700705_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. A kick by a three-year-old during the recovery phase of a laparoscopic-assisted vaginal hysterectomy needs medical attention immediately. Stop oral intake. I would advise you to be seen by a doctor on an urgent basis, who, upon general and local abdominal examination, would advise you to undergo an ultrasonography examination.",
+ "audio_seconds": 19.8,
+ "created_at": "2026-07-06T00:46:00+00:00",
+ "failed": false,
+ "text": "I don't know. I mean, how do you keep on top of your feet when you've got to move like that?",
+ "seconds": 0.668
+}

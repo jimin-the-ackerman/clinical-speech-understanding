@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__923024_2",
+ "condition": "white_noise_6",
+ "reference": "I understand your concern about your problem. The warm sensation is due to recurrent vasospasm followed by flushing of blood due to the dilation of the artery. When there is inflammation, the effect of the autonomic nervous system is reduced. Therefore, there will be warmth and sometimes a burning sensation as well. As soon as possible, you need to pay attention to a healthy diet and nutritional value. Regular pranayama, yoga asanas, and exercises will help decrease inflammation in the vessels. I recommend going to a physical therapist to learn Buerger's exercise, which is very helpful in maintaining good blood supply and pain-free walking. I hope you are satisfied with this answer.",
+ "audio_seconds": 43.52,
+ "created_at": "2026-07-06T03:12:16+00:00",
+ "failed": false,
+ "text": "I understand your concern about your problem. The warm sensation is due to recurrent vasospasm, followed by flushing of blood due to the dilation of the artery. When there is inflammation, the effect of the autonomic nervous system is reduced; therefore, there will be warmth and sometimes sensation as well. As soon as possible, you need to pay attention to a healthy diet and nutritional values. Regular pranayama, yoga asanas, and exercises will help decrease inflammation in the vessels. I recommend a physical therapist to learn Yoga's exercise, which is very helpful in maintaining good blood supply and pain-free walking. I hope you are satisfied with this answer.",
+ "seconds": 6.275
+}

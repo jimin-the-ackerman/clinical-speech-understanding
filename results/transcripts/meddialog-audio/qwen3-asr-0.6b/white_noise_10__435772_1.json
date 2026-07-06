@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__435772_1",
+ "condition": "white_noise_10",
+ "reference": "My daughter is twenty-eight years old and lives at home. She has had anxiety issues for some time, but in the last four to five months, she has stopped being social. She won't come into a room when we are there and expects us to leave so she can be in the kitchen or go down the hall to use the bathroom. It is getting worse and very difficult to live with.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T05:05:38+00:00",
+ "failed": false,
+ "text": "My daughter is twenty-eight years old and lives with her. She has had anxiety issues for some time, but for the last four to five months, she has stopped being anxious. She will come into a room and be there at a specific time so she can be a kitten and go down the hall to the box. It is getting more and more difficult for her.",
+ "seconds": 0.673
+}

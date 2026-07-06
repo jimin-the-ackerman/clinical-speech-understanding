@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__757246_1",
+ "condition": "background_noise_40",
+ "reference": "I had a deep laceration of my index finger about one and a half months ago. I underwent surgery to repair the damaged nerve and was immobilized for two weeks. My finger is healing fine now but is very stiff and is not straight anymore. I know I haven't damaged the ligament, so I am guessing it is the scar tissue that is making my finger very stiff. How long will it take for my finger to have better motion?",
+ "audio_seconds": 24.75,
+ "created_at": "2026-07-06T04:56:09+00:00",
+ "failed": false,
+ "text": "I had a deep laceration on my index finger about one and a half months ago. I underwent surgery to repair the damaged nerve and was immobilized for two weeks. My finger is healing fine now, but is very stiff and is not straight anymore. I know I haven't damaged a ligament, so I am guessing it is the scar tissue that is making my finger very stiff. How long will it take for my finger to have better motion?",
+ "seconds": 0.835
+}

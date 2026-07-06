@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__556068_2",
+ "condition": "white_noise_6",
+ "reference": "I don't think your fiancé's cancer has resurfaced within such a short time. This may be related to an infection, as he only completed the transplant two weeks ago. A trial of antibiotics can be considered. If symptoms persist, it would be better to investigate for recurrence of the disease.",
+ "audio_seconds": 18.09,
+ "created_at": "2026-07-06T05:40:32+00:00",
+ "failed": false,
+ "text": "I don't think your fiancé's cancer has resurfaced within such a short time. This may be related to an infection, as he only completed the transplant two weeks ago. A trial of antibiotics can be considered. If symptoms persist, it would be better to investigate for recurrence of the disease.",
+ "seconds": 0.596
+}

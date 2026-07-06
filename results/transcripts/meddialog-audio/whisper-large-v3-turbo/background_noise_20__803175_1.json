@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__803175_1",
+ "condition": "background_noise_20",
+ "reference": "I had a laminectomy in November two thousand and fifteen for ruptured discs in my lumbar region. I was given a prescription for carisoprodol and diazepam to help with muscle spasms. I really overdid it today and am in pain. Which one would be the best option for me? I have both left over from surgery.",
+ "audio_seconds": 20.22,
+ "created_at": "2026-07-06T04:40:39+00:00",
+ "failed": false,
+ "text": "I had a laminectomy in November 2015 for ruptured discs in my lumbar region. I was given a prescription for carisopridol and diazepam to help with muscle spasms. I really overdid it today and am in pain. Which one would be the best option for me? I had both left over from surgery.",
+ "seconds": 0.246
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__890200_1",
+ "condition": "white_noise_10",
+ "reference": "I was taking daily allergy shots to rid myself of my seasonal attacks. After the dose of allergens was increased, I began getting lichen planus on my face, torso, and inner parts of my arms. Could the shots have caused this? I did stop the shots, and the symptoms stopped. I still have marks on my arms. My age is forty-eight. I am male and diabetic.",
+ "audio_seconds": 23.38,
+ "created_at": "2026-07-06T04:46:31+00:00",
+ "failed": false,
+ "text": "I was taking daily allergy shots to rid myself of my seasonal attacks. After the dose of allergens had increased, I began getting lichen planus on my face, torso and inner parts of my arms. Could the shots have caused it? I did stop the shots and the symptoms stopped. I still have marks on my arms. My age is 40 years. I am male and diabetic.",
+ "seconds": 0.291
+}

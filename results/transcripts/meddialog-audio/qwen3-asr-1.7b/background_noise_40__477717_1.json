@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__477717_1",
+ "condition": "background_noise_40",
+ "reference": "I have had a lump around my anus that is about the size of a ten pence piece. It itches at times and is very painful to sit, bend, and walk. I opened my bowels last night, which resulted in it bleeding. I applied some Germaloids, which eased the pain and made it not so painful, but it is still bleeding onto my underwear, and it has not gone down in size. I have no fever and no other pain anywhere else. What could this be?",
+ "audio_seconds": 26.2,
+ "created_at": "2026-07-06T05:21:17+00:00",
+ "failed": false,
+ "text": "I have had a lump around my anus that is about the size of a tenpence piece. It itches at times and is very painful to sit, bend, and walk. I opened my bowels last, which resulted in it bleeding. I applied some germolytes, which eased the pain and made it not so painful, but it is still bleeding onto my underwear, and it has not gone down in size. I have no fever and no other pain anywhere else. What could this be?",
+ "seconds": 0.946
+}

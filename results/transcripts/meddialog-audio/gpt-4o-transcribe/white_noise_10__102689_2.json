@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__102689_2",
+ "condition": "white_noise_10",
+ "reference": "First of all, get your electrocardiogram done and thyroid profile. Do you have any other symptoms like chest pain or breathlessness?",
+ "audio_seconds": 8.02,
+ "created_at": "2026-07-06T00:45:39+00:00",
+ "failed": false,
+ "text": "the face of the earth.",
+ "seconds": 0.444
+}

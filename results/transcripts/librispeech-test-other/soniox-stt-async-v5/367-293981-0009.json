@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-293981-0009",
+ "condition": null,
+ "reference": "THE OFFICER TURNED TO HIM AND SAID WELL HOW GOES IT GOOD MAN",
+ "audio_seconds": 3.29,
+ "created_at": "2026-07-06T00:08:02+00:00",
+ "failed": false,
+ "text": "The officer turned to him and said, \"Well, how goes it, good man?\"",
+ "seconds": 4.117
+}

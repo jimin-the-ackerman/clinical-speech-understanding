@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__437433_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, my son is eleven months old. He is affected by cold very easily. The doctor prescribed Ambroxol and Levosalbutamol. After the intake of the syrup, he is very irritated and crying. Can I give Mucolite instead of this? Please suggest any medicine that can be given for a longer period to avoid colds.",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T05:39:55+00:00",
+ "failed": false,
+ "text": "Hi, my son is 11 months old. He is affected by colds very easily. The doctor prescribed oxol and levosebutamol. After the intake of the syrup, he is very irritated and crying. Can I give mucolyte instead of this? Please suggest any medicine that can be given for a longer period to avoid colds.",
+ "seconds": 0.699
+}

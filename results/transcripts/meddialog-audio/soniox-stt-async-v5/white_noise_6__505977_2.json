@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__505977_2",
+ "condition": "white_noise_6",
+ "reference": "Does the pain relieve by leaning forward and rolling over while lying in bed? If it is more pronounced at night, radiates to the back, and is severe in intensity, then it may be pancreatitis. I kindly recommend that you undergo an ultrasonogram and serum amylase level test; it will help in reaching a diagnosis.",
+ "audio_seconds": 17.15,
+ "created_at": "2026-07-06T03:10:19+00:00",
+ "failed": false,
+ "text": "Is the pain relieved by leaning forward and rolling over while lying in bed? If it is more pronounced at night, radiates to the back, and is severe in intensity, then it may be pancreatitis. I kindly recommend that you undergo an ultrasonogram and serum amylase level test; it will help in reaching a diagnosis.",
+ "seconds": 5.83
+}

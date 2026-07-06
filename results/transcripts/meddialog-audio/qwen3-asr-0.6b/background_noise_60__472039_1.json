@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__472039_1",
+ "condition": "background_noise_60",
+ "reference": "I am pretty positive I have lupus, but out of all the series of tests they have done in the last two years, only two tests have shown a marker. My doctor says that is not enough to refer me to a rheumatologist because I do not have the typical symptoms, such as the classic butterfly rash. I have many symptoms including sun sensitivity, two different sets of rashes, joint pain, irritable bowel syndrome, frequent chest pain on the right side with pain radiating down my back and into my arm, migraines, and pain in my joints but no swelling. I am at a loss for what to do. I’m miserable, and I am so sick of being in constant pain, and my doctor keeps telling me it is all in my head. What do I do now?",
+ "audio_seconds": 42.15,
+ "created_at": "2026-07-06T04:58:30+00:00",
+ "failed": false,
+ "text": "I am pretty positive I have lupus, but out of all the series of tests they have done in the last two years, only two tests have shown a marker. My doctor says that is not enough to refer me to a rheumatologist because I do not have the typical symptoms such as the classic butterfly rash. I have many symptoms including sunsets and two different sets of rashes, joint pain, irritable bowel syndrome, frequent chest pain on the right side with pain radiating down my back and into my arm, migraines and pain in my joints but no swelling. I am at a loss for what to do. I am miserable and I am so sick of being in constant pain. And my doctor keeps telling me it is all in my head. What do I do now?",
+ "seconds": 1.449
+}

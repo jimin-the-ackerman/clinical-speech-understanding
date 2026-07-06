@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-9170-0039",
+ "condition": null,
+ "reference": "THE TAXES RAISED FROM THE PEOPLE FOR WAR PREPARATIONS ABSORB THE GREATER PART OF THE PRODUCE OF LABOR WHICH THE ARMY OUGHT TO DEFEND",
+ "audio_seconds": 6.88,
+ "created_at": "2026-07-05T13:11:55+00:00",
+ "failed": false,
+ "text": "the taxes raised from the people for war preparations absorb the greater part of the produce of labor which the army ought to defend",
+ "seconds": 0.122
+}

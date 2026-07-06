@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280057-0001",
+ "condition": null,
+ "reference": "HENRY WASHINGTON YOUNGER MY FATHER REPRESENTED JACKSON COUNTY THREE TIMES IN THE LEGISLATURE AND WAS ALSO JUDGE OF THE COUNTY COURT",
+ "audio_seconds": 8.09,
+ "created_at": "2026-07-06T03:36:40+00:00",
+ "failed": false,
+ "text": "Henry Washington Younger, my father, represented Jackson County, three times in the legislature, and was also a judge of the county court.",
+ "seconds": 0.289
+}

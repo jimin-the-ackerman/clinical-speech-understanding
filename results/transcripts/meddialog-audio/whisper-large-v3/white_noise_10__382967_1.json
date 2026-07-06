@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__382967_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, may I answer your health queries right now? My twenty-one-month-old daughter hit her head in a fall about an hour ago. She is acting quite normally, playing, eating, and talking, but her lips are a little blue, especially the top one. Should I be concerned about this?",
+ "audio_seconds": 15.96,
+ "created_at": "2026-07-06T04:29:39+00:00",
+ "failed": false,
+ "text": "Hi, may I enter your home, please, right now? My 21-month-old daughter's been recording a call about an hour ago. She is acting quite normal, playing games and talking, but her lips are a little blue, especially the top of them. Should I be concerned about this?",
+ "seconds": 0.484
+}

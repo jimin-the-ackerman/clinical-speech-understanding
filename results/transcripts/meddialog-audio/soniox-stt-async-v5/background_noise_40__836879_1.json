@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__836879_1",
+ "condition": "background_noise_40",
+ "reference": "I am twenty years old and want to start a family with my boyfriend of four years, as we are ready in our relationship and life to do so. However, we have been having unprotected sexual intercourse since we got together. Not all the time, but I would say seventy-five% of the time, and I have never become pregnant. Do you think that there could be something wrong with one of us?",
+ "audio_seconds": 19.88,
+ "created_at": "2026-07-06T02:52:39+00:00",
+ "failed": false,
+ "text": "I am 20 years old and want to start a family with my boyfriend of 4 years, as we are ready in our relationship and life to do so. However, we have been having unprotected sexual intercourse since we got together, not all the time but I would say 75% of the time, and I have never become pregnant. Do you think that there could be something wrong with one of us?",
+ "seconds": 5.998
+}

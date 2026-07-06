@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__605612_1",
+ "condition": "white_noise_6",
+ "reference": "I am a forty-four-year-old married woman. My height is five feet three inches and my weight is sixty-six kilograms. I have multiple cysts in the uterine cervix. The larger cyst measures twelve x ten millimeters. A hypoechoic solid lesion measuring about sixteen x fourteen millimeters is seen in the body of the uterus. My uterus is bulky with a small fibroid. I also did a Pap smear test, and the impression was negative for intraepithelial lesion or malignancy. What does this mean? Am I suffering from cancer? Is there anything dangerous or serious to worry about?",
+ "audio_seconds": 37.29,
+ "created_at": "2026-07-06T05:40:47+00:00",
+ "failed": false,
+ "text": "I am a 44-year-old married woman. My height is 5 feet 3 inches and my weight is 55 pounds. I have no cysts in the uterine cervix. The largest cyst measures 12 by 10 millimeters. A higher-appearing solid lesion measuring about 16 by 14 millimeters is seen in the body of the uterus. My uterus is filled with a small fibroid. I also did a Pap smear test, and the impression was negative for intrauterine lesion or malignancy. What does this mean? Am I suffering from cancer? Is there anything dangerous or serious to worry about?",
+ "seconds": 1.25
+}

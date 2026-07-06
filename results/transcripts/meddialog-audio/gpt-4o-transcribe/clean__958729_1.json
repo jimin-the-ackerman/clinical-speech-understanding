@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__958729_1",
+ "condition": "clean",
+ "reference": "I have a rash that started about two months ago on my chin, and now it's spreading around my mouth. I have not changed anything in my diet, facial creams, or medications. The only thing that has changed is that I stopped taking my St. John's Wort. I am twenty-nine years old, five feet seven inches tall, and white.",
+ "audio_seconds": 20.22,
+ "created_at": "2026-07-06T00:45:37+00:00",
+ "failed": false,
+ "text": "I have a rash that started about two months ago and now it's spreading around my mouth. I have not changed anything in my diet, facial creams, or medications. The only thing that has changed is that I stopped taking my St. John's Wort. I am 29 years old, 5 feet 7 inches tall, and white.",
+ "seconds": 1.4
+}

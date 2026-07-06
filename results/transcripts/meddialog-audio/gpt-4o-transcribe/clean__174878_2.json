@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__174878_2",
+ "condition": "clean",
+ "reference": "Hello, a hemoglobin level of twelve point two does not indicate severe anemia. This is not the cause of your symptoms of fatigue and weight loss. I am a little concerned about your skin and eyes being yellowish in color. This might indicate liver problems, such as hepatitis. There are different types of viral hepatitis. Are you consuming significant amounts of alcohol, such as beer or whiskey, on a regular basis? This could also cause liver damage. You need to have complete blood work to include hepatitis screening, as well as liver enzyme determination along with other liver tests. I wish you the best of health.",
+ "audio_seconds": 39.17,
+ "created_at": "2026-07-06T00:44:45+00:00",
+ "failed": false,
+ "text": "Hello. A hemoglobin level of 12.2 does not indicate severe anemia. This is not the cause of your symptoms of fatigue and weight loss. I am a little concerned about your skin and eyes being yellowish in color. This might indicate liver problems such as hepatitis. There are different types of viral hepatitis. Are you consuming significant amounts of alcohol, such as beer or whiskey, on a regular basis? This could also cause liver damage. You need to have complete blood work to include hepatitis screening as well as liver enzyme determination along with other liver tests. I wish you the best of health.",
+ "seconds": 2.026
+}

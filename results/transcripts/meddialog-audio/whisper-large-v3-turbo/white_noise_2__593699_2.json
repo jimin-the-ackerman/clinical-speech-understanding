@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__593699_2",
+ "condition": "white_noise_2",
+ "reference": "No, most likely they are not connected, so you need not worry. The only swelling from the abdomen in that region would be an epigastric hernia. If it does not look like a hernia, then they are not connected.",
+ "audio_seconds": 13.65,
+ "created_at": "2026-07-06T04:47:27+00:00",
+ "failed": false,
+ "text": "No. Most likely they are not connected, so you need not worry. The only swelling from the abdomen in that region would be an epigastric hernia. If it does not look like a hernia, then they are not connected.",
+ "seconds": 0.211
+}

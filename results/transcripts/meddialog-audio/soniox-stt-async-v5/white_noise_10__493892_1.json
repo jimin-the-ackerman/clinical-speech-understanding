@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__493892_1",
+ "condition": "white_noise_10",
+ "reference": "Hi Doctor, I have been a patient of psoriasis for the last ten years. It began on my head and then spots appeared on my body. The condition was cured five years ago, but now the spots have started appearing again on my body, nails, and hair. Is this disease permanently curable?",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T03:02:19+00:00",
+ "failed": false,
+ "text": "Hello, guys. I haven't been asleep since the oil shift for the last 10 minutes. It's again on my head, and then it's half asleep on my body. The condition was staged 9 days ago, but now I'm focused better to planning again on my body, nails, and hair. Is this disease permanently curable?",
+ "seconds": 5.056
+}

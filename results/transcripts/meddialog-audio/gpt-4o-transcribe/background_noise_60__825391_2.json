@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__825391_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, I care about your concern. In the case of a superficial scratch, it is advisable to get the anti-rabies vaccine, completing three doses. The vaccine should be administered on the zero, third, and seventh days from the day of exposure to the animal. I hope I have answered your question. If you have any further questions, I will be happy to help.",
+ "audio_seconds": 23.04,
+ "created_at": "2026-07-06T00:44:28+00:00",
+ "failed": false,
+ "text": "Hi, I care about your concern. In the case of a superficial scratch, it is advisable to get the anti-rabies vaccine, completing three doses. The vaccine should be administered on the zero, third, and seventh days from the day of exposure to the animal. I hope I have answered your question. If you have any further questions, I will be happy to help.",
+ "seconds": 1.401
+}

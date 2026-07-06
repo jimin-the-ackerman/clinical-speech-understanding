@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__892280_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, welcome to the Health Care Management. Travel has no effect on embryo implantation, but any infection may interfere with that, so be careful on your tour. If it can be avoided, it is better.",
+ "audio_seconds": 11.86,
+ "created_at": "2026-07-06T04:24:19+00:00",
+ "failed": false,
+ "text": "Hi, welcome to the healthcare management. Travel has no effect on embryo implantation, but any infection may interfere with that, so be careful on your tour. If it can be avoided, it is better.",
+ "seconds": 0.441
+}

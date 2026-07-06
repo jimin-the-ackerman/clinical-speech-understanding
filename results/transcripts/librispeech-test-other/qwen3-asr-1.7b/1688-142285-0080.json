@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0080",
+ "condition": null,
+ "reference": "SUPPOSE I TRY SAID MISTER HALE",
+ "audio_seconds": 3.48,
+ "created_at": "2026-07-06T03:26:48+00:00",
+ "failed": false,
+ "text": "Suppose I try,\" said Mister Hale.",
+ "seconds": 0.127
+}

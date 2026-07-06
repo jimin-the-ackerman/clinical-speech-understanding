@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__435209_2",
+ "condition": "background_noise_40",
+ "reference": "Hello. You came to the health center because of the overwork and fatigue. You might be experiencing dizziness; there may not be any pathological reason behind this. It is better to have a rest for a few days and cut down the workload. I hope this information helps.",
+ "audio_seconds": 15.53,
+ "created_at": "2026-07-06T00:43:12+00:00",
+ "failed": false,
+ "text": "Hello, you came to the health center because of the overwork and fatigue. You might be experiencing dizziness. There may not be any pathological reason behind this. It is better to have a rest for a few days and cut down the workload. I hope this information helps.",
+ "seconds": 1.548
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__573639_2",
+ "condition": "background_noise_40",
+ "reference": "It could be an insect bite complicated by a Streptococcus infection. There is no need for systemic antibiotics; an antibiotic ointment three times daily will be sufficient.",
+ "audio_seconds": 10.67,
+ "created_at": "2026-07-06T04:19:13+00:00",
+ "failed": false,
+ "text": "It could be an insect bite complicated by a streptococcus infection. There is no need for systematic antibiotics. An antibiotic ointment three times daily will be sufficient.",
+ "seconds": 0.393
+}

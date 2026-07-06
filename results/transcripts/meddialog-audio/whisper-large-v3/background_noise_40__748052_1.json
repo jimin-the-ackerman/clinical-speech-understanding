@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__748052_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, I was carrying a box through a doorway when I misjudged and hit the door frame really hard, causing a big bruise where the box impacted my left hip. A couple of weeks later, a lump the size of a large pea has appeared where the bruise was. Is this anything to worry about?",
+ "audio_seconds": 16.73,
+ "created_at": "2026-07-06T04:19:45+00:00",
+ "failed": false,
+ "text": "Hi, I was carrying a box through a doorway when I misjudged and hit the door frame really hard, causing a big bruise where the box impacted my left ear. A couple of weeks later, a lump the size of a large pea has appeared where the bruise was. Is this anything to worry about?",
+ "seconds": 0.555
+}

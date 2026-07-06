@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__514463_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, welcome to healthcare. You did not state the symptoms here for why you felt that your blood pressure might be low. Although this is not the case, taking the antacid and the other medicine that is not for high blood pressure, if taken, does not cause low blood pressure. Just forget about this. I hope this information helps.",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T05:25:08+00:00",
+ "failed": false,
+ "text": "Hello, welcome to healthcare. You did not state the symptoms and why you felt that your blood pressure might be low. Although this is not the case, taking the antacid and the other medicine that is not for high blood pressure, if taken, does not cause low blood pressure. Just forget about this. I hope this information helps.",
+ "seconds": 0.651
+}

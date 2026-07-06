@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__102260_2",
+ "condition": "background_noise_60",
+ "reference": "It may be a viral fever, which should subside on its own in about a week. However, if it goes on for more than a week, or if any associated symptoms such as irritability, decreased activity, crying during urination, or refusal to eat develop, get him evaluated by a doctor.",
+ "audio_seconds": 18.26,
+ "created_at": "2026-07-06T00:43:45+00:00",
+ "failed": false,
+ "text": "It may be a viral fever, which should subside on its own in about a week. However, if it goes on for more than a week, or if any associated symptoms such as irritability, decreased activity, crying during urination, or refusal to eat develop, get him evaluated by a doctor.",
+ "seconds": 0.958
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__810091_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. The bloating can be due to codeine or due to an internal injury. A computed tomography scan of the abdomen is needed as this is the only investigation to prove or disprove an internal injury. The treatment may be conservative at the moment as you do not have acute symptoms. If there is bloating, pain, vomiting, or black stools, you may need an exploratory laparoscopy or laparotomy for diagnosis and treatment.",
+ "audio_seconds": 23.98,
+ "created_at": "2026-07-06T05:14:39+00:00",
+ "failed": false,
+ "text": "Hello, the bloating can be due to coding or due to an internal injury. A computed tomography abdomen is needed, as this is the only investigation to prove or disprove an internal injury. The treatment may be conservative at the moment, as you do not have acute symptoms. If there is bloating, pain, vomiting, or black stools, you may need an exploratory laparoscopy or laparotomy for system treatment.",
+ "seconds": 0.803
+}

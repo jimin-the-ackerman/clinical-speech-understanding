@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0051",
+ "condition": null,
+ "reference": "ANNIE COLCHESTER IS YOUR ROOMFELLOW IS SHE NOT SHE SAID",
+ "audio_seconds": 3.79,
+ "created_at": "2026-07-05T13:14:43+00:00",
+ "failed": false,
+ "text": "Annie Colchester is your room, fella, is she not? She said.",
+ "seconds": 0.119
+}

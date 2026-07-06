@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__308573_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, I read your question and I understand your concern about your anxiety and joint pain. Since you have anxiety, you should go to a psychiatrist for evaluation, or you should have narrated your symptoms related to your anxiety so that we could evaluate you. Joint pain has nothing to do with anxiety. In your statement, you mentioned that your joints hurt when it is too cold. This is typical of many rheumatological conditions such as rheumatoid arthritis. Now do the following: have a rheumatoid factor test, have an erythrocyte sedimentation rate test, and go to a rheumatologist.",
+ "audio_seconds": 33.28,
+ "created_at": "2026-07-06T04:33:04+00:00",
+ "failed": false,
+ "text": "Hello. I read your question, and I understand your concern about your anxiety and joint pain. Since you have anxiety, you should go to a psychiatrist for evaluation, or you should have narrated your symptoms related to your anxiety so that we could evaluate you. Joint pain has nothing to do with anxiety. In your statement, you mentioned that your joints hurt when it is too cold. This is typical of many rheumatological conditions such as rheumatoid arthritis. Now do the following. Have a rheumatoid factor test, have an erythrocyte sedimentation rate test, and go to a rheumatologist.",
+ "seconds": 1.165
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__913712_2",
+ "condition": "background_noise_40",
+ "reference": "It is really hard to estimate the extent of the injury without seeing and examining it. If it is only bruising and swelling without any underlying bony injury, it should gradually heal in five to seven days. Applying magnesium sulfate powder packed into a thin cloth pouch and wrapping it over the area would help in reducing the swelling or edema as quickly as possible. If it is an open wound that has bled, it might require treatment with antibiotics. I would strongly insist that you get it examined by a doctor.",
+ "audio_seconds": 33.19,
+ "created_at": "2026-07-06T00:43:40+00:00",
+ "failed": false,
+ "text": "It is really hard to estimate the extent of the injury without seeing and examining it. If it is only bruising and swelling without any underlying bony injury, it should gradually heal in five to seven days. Applying magnesium sulphate powder packed into a thin cloth pouch and wrapping it over the area would help in reducing the swelling or edema as quickly as possible. If it is an open wound that has bled, it might require treatment with antibiotics. I would strongly insist that you get it examined by a doctor.",
+ "seconds": 1.615
+}

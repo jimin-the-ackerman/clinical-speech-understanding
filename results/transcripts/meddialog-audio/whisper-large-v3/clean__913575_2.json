@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__913575_2",
+ "condition": "clean",
+ "reference": "Hi, thank you for asking to help. I really appreciate your concern for your daughter. Ma'am, we are here to help the patients. This forum is mainly to advise the patients to the best of our knowledge. We do not provide any information for any specialists or for any particular doctor like a Yellow Pages service. Now, for your daughter, there must be some aggravating or triggering factors that could be responsible for this kind of reaction. This may be called autoimmune disorders, and this often goes unnoticed. Your daughter needs to keep her stress level very low. There is no need to worry; she will be fine with time. Please give her strong moral support. Have a great day.",
+ "audio_seconds": 42.67,
+ "created_at": "2026-07-06T04:28:14+00:00",
+ "failed": false,
+ "text": "Hi. Thank you for asking to help. I really appreciate your concern for your daughter. Ma'am, we are here to help the patients. This forum is mainly to advise the patients to the best of our knowledge. We do not provide any information for any specialists or for any particular doctor like a Yellow Pages service. Now, for your daughter, there must be some aggravating or triggering factors that could be responsible for this kind of reaction. This may be called autoimmune disorders, and this often goes unnoticed. Your daughter needs to keep her stress level very low. There is no need to worry. She will be fine with time. Please give her strong moral support. Have a great day.",
+ "seconds": 1.195
+}

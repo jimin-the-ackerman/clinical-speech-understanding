@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-278226-0000",
+ "condition": null,
+ "reference": "AND LAURA HAD HER OWN PET PLANS",
+ "audio_seconds": 3.02,
+ "created_at": "2026-07-05T13:08:46+00:00",
+ "failed": false,
+ "text": "And Laura had her own pet plans.",
+ "seconds": 0.15
+}

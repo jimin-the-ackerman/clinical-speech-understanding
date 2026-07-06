@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0092",
+ "condition": null,
+ "reference": "THEY SHUT THEIR EYES TO THE TRUTH DARKNESS IS THE RULE",
+ "audio_seconds": 3.46,
+ "created_at": "2026-07-06T03:29:40+00:00",
+ "failed": false,
+ "text": "They shut their eyes to the truth. Darkness is the rule.",
+ "seconds": 0.158
+}

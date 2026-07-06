@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__472899_1",
+ "condition": "white_noise_6",
+ "reference": "I had my second Depo-Provera injection in March, one day after the earliest date I could. Recently, I have experienced headaches, cloudy urine, dizzy spells, strange cravings, and an assortment of other seemingly pregnancy-related symptoms. Is pregnancy possible while using the Depo-Provera injection, or are these all side effects?",
+ "audio_seconds": 21.67,
+ "created_at": "2026-07-06T05:13:02+00:00",
+ "failed": false,
+ "text": "I had my second Depo Provera injection in March, one day after the earliest date I could. Recently, I have experienced headaches, cloudy urine, dizzy spells, strange cravings, and an assortment of other seemingly pregnancy-related symptoms. Is pregnancy possible while using the Depo Provera injection? Were these all side effects?",
+ "seconds": 0.615
+}

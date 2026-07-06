@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__407151_2",
+ "condition": "white_noise_10",
+ "reference": "Elevated parathyroid hormone is a manifestation of chronic kidney disease - mineral and bone disease spectrum. Check your vitamin D level and replace it if there is a deficiency. It will correct the parathyroid hormone level.",
+ "audio_seconds": 13.14,
+ "created_at": "2026-07-06T04:29:42+00:00",
+ "failed": false,
+ "text": "Elevated parathyroid hormone is a manifestation of chronic kidney disease, mineral and bone disease spectrum. Check your vitamin D level and replace it if there is a deficiency. It will correct the parathyroid hormone level.",
+ "seconds": 0.452
+}

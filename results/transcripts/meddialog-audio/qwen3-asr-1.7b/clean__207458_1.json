@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__207458_1",
+ "condition": "clean",
+ "reference": "I get pins and needles all over my chest and arms. This usually happens when walking and occurs after an increase in body temperature. It starts light and gets worse and worse. The only relief comes from rubbing the area. I am male, fifteen years old, five feet seven inches tall, and weigh one hundred and forty pounds. I have a history of asthma.",
+ "audio_seconds": 20.05,
+ "created_at": "2026-07-06T05:27:37+00:00",
+ "failed": false,
+ "text": "I get pins and needles all over my chest and arms. This usually happens when walking and occurs after an increase in body temperature. It starts light and gets worse and worse. The only relief comes from rubbing the area. I am male, 15 years old, 5 feet 7 inches tall, and weigh 140 pounds. I have a history of asthma.",
+ "seconds": 0.755
+}

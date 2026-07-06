@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__719489_1",
+ "condition": "white_noise_10",
+ "reference": "I do not have any abnormalities except for the luteinizing hormone. I took Krimson for three months. I performed a hysterosalpingography test. While undergoing a follicular study, my ovum did not rupture. I was given a gonadotropin injection to trigger ovulation. I am also taking Naturogest three hundred milligrams. I felt very dizzy and nauseated. Then I was given Naturogest one hundred milligrams to be taken in the morning and at night. I still feel dizzy. What should I do?",
+ "audio_seconds": 33.02,
+ "created_at": "2026-07-06T00:46:01+00:00",
+ "failed": false,
+ "text": "We gotta get ahead of this.",
+ "seconds": 20.793
+}

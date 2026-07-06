@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2340-0013",
+ "condition": null,
+ "reference": "OH WE HAVEN'T SHOWN YOU THE SILVER WEDDING PRESENTS SAID MISSUS PETER SUDDENLY AS THOUGH STRUCK BY A BRILLIANT IDEA FOR ENTERTAINING THE GUEST HERE THEY ALL ARE",
+ "audio_seconds": 12.31,
+ "created_at": "2026-07-05T23:57:44+00:00",
+ "failed": false,
+ "text": "Oh, we haven't shown you the silver wedding presents,\" said Mrs. Peter suddenly, as though struck by a brilliant idea for entertaining the guest. \"Here they all are.\"",
+ "seconds": 0.837
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-156975-0016",
+ "condition": null,
+ "reference": "WAS MOSES JUSTIFIED IN RESISTING THE EGYPTIAN TASKMASTER",
+ "audio_seconds": 5.11,
+ "created_at": "2026-07-06T03:16:02+00:00",
+ "failed": false,
+ "text": "Which moves its just fund and resists in the Egyptian tax master.",
+ "seconds": 0.166
+}

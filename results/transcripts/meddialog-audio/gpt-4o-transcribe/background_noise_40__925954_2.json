@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__925954_2",
+ "condition": "background_noise_40",
+ "reference": "It definitely seems to be an allergic reaction. Anything such as food, pollen, medicines, or fabrics can react with body proteins to cause this. You can use an antihistamine tablet and apply triamcinolone mouth paint on the lips. This will address the current symptoms, and if it recurs, we should investigate the cause, in my opinion.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T00:43:41+00:00",
+ "failed": false,
+ "text": "It definitely seems to be an allergic reaction. Anything such as food, pollen, medicines or fabrics can react with body proteins to cause this. You can use an antihistamine tablet and apply triamcinolone mouth paint on the lips. This will address the current symptoms, and if it recurs, we should investigate the cause.",
+ "seconds": 1.153
+}

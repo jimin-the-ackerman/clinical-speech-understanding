@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0018",
+ "condition": null,
+ "reference": "GIVE ME YOUR ORDERS VERY REVEREND MOTHER",
+ "audio_seconds": 2.91,
+ "created_at": "2026-07-06T03:17:28+00:00",
+ "failed": false,
+ "text": "Give me your orders, very reverend mother.",
+ "seconds": 0.131
+}

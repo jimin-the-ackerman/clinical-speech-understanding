@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5032-0012",
+ "condition": null,
+ "reference": "BUT IT SEEMS THIS GENTLEMAN IS NOT SO EASY ACCESS BUT YOU MAY ACKNOWLEDGE SOMETHING DUE TO ME IF I INCLINE HIM TO LOOK GRACIOUSLY UPON YOU AND THEREFORE THERE IS NOT MUCH HARM DONE",
+ "audio_seconds": 13.32,
+ "created_at": "2026-07-05T23:54:31+00:00",
+ "failed": false,
+ "text": "But it seems this gentleman is not so easy access. But you may acknowledge something due to me, if I incline him to look graciously upon you, and therefore, there is not much harm done.",
+ "seconds": 1.194
+}

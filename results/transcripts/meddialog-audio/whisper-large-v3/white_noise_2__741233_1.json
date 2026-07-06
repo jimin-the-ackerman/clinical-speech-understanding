@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__741233_1",
+ "condition": "white_noise_2",
+ "reference": "I have viral hepatitis since December eleven, and my liver enzymes were high. In February, the symptoms returned to normal and the liver enzymes were controlled. However, I have found elevated liver enzymes again, with a bilirubin level of one point five, alanine aminotransferase at one hundred and seventy-five, and alkaline phosphatase at three hundred and sixty-five. Please advise on the recurrence of my liver problems and possible treatment.",
+ "audio_seconds": 27.39,
+ "created_at": "2026-07-06T04:34:59+00:00",
+ "failed": false,
+ "text": "i have viral hepatitis since december 11 and my liver enzymes were high in february the symptoms returned to normal and the liver enzymes were controlled however i have found elevated liver enzymes again with a bilirubin level of 1.5 alanine amino transferase at 175 and alkaline phosphatase at 365. please advise on the recurrence of my liver problems and possible treatment",
+ "seconds": 0.66
+}

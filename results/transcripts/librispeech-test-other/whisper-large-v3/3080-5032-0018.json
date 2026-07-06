@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5032-0018",
+ "condition": null,
+ "reference": "WELL IN EARNEST IF I WERE A PRINCE THAT LADY SHOULD BE MY MISTRESS BUT I CAN GIVE NO RULE TO ANY ONE ELSE AND PERHAPS THOSE THAT ARE IN NO DANGER OF LOSING THEIR HEARTS TO HER MAY BE INFINITELY TAKEN WITH ONE I SHOULD NOT VALUE AT ALL FOR SO SAYS THE JUSTINIAN WISE PROVIDENCE HAS ORDAINED IT THAT BY THEIR DIFFERENT HUMOURS EVERYBODY MIGHT FIND SOMETHING TO PLEASE THEMSELVES WITHAL WITHOUT ENVYING THEIR NEIGHBOURS",
+ "audio_seconds": 30.94,
+ "created_at": "2026-07-05T12:57:52+00:00",
+ "failed": false,
+ "text": "well in earnest if i were a prince that lady should be my mistress but i can give no rule to any one else and perhaps those that are in no danger of losing their hearts to her may be infinitely taken with one i should not value at all for so says the justinian wise providence has ordained it that by their different humours every body might find something to please themselves withal without envying their neighbours so you",
+ "seconds": 0.717
+}

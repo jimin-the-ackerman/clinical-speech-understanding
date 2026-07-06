@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0056",
+ "condition": null,
+ "reference": "BESSY TOOK A LONG AND FEVERISH DRAUGHT AND THEN FELL BACK AND SHUT HER EYES",
+ "audio_seconds": 6.79,
+ "created_at": "2026-07-05T23:53:40+00:00",
+ "failed": false,
+ "text": "Bessie took a long and feverish draught, and then fell back and shut her eyes.",
+ "seconds": 0.677
+}

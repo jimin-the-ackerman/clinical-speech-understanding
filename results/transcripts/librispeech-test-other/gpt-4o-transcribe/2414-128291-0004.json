@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128291-0004",
+ "condition": null,
+ "reference": "ANSWERED HE THE SAME THAT THOU SEEKEST THOU MISCHIEF MAKER THAT IS TO SAY HAPPINESS UPON EARTH",
+ "audio_seconds": 10.45,
+ "created_at": "2026-07-05T23:54:02+00:00",
+ "failed": false,
+ "text": "answered he, \"The same that thou seekest, thou mischief-maker, that is to say, happiness upon earth.”",
+ "seconds": 0.712
+}

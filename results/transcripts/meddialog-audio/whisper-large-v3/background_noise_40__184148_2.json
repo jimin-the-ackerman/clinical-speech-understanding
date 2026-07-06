@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__184148_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, you may have sprained your upper back in that fall. I suggest you meet with your doctor for further investigation and management.",
+ "audio_seconds": 8.02,
+ "created_at": "2026-07-06T04:17:28+00:00",
+ "failed": false,
+ "text": "Hello. You may have sprained your upper back in that fall. I suggest you meet with your doctor for further investigation and management.",
+ "seconds": 0.309
+}

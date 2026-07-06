@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131556-0021",
+ "condition": null,
+ "reference": "GIVE ME NO THANKS IT IS NOT FOR YOUR SAKE THAT I REFRAIN",
+ "audio_seconds": 4.1,
+ "created_at": "2026-07-05T13:02:48+00:00",
+ "failed": false,
+ "text": "Give me no thanks. It is not for your sake that I refrain.",
+ "seconds": 0.192
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__410016_1",
+ "condition": "background_noise_20",
+ "reference": "My forty-five-day-old baby is urinating more than nine times per day and crying after passing urine. She is also having some white particles in her stool. There has been no weight gain from birth until now. Birth weight is three point four seven kilograms, and present weight is three point six kilograms. Is there any problem with the baby? What is the reason for the lack of weight gain?",
+ "audio_seconds": 25.77,
+ "created_at": "2026-07-06T04:50:51+00:00",
+ "failed": false,
+ "text": "My forty-five-day-old baby is urinating more than nine times per day and crying after passing urine. She's having some white particles in her stool. There has been no weight gain from birth until now. Birth weight is three point four seven kilograms, and present weight is three point six kilograms. Is there any problem with the baby? What is the reason for the lack of weight gain?",
+ "seconds": 0.719
+}

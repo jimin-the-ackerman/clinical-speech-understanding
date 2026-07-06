@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__171849_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, welcome to HCMIT. It seems that your child has milia. This is a very common rash and is seen in most babies. It can start from one week to three weeks of age. The rash looks like tiny white or yellow spots on the baby’s face and neck. This is caused by secretions of the tiny glands in the skin of the baby after birth. Although parents can find it upsetting, it does not cause the baby any discomfort and will disappear without treatment in four to six weeks. For further questions, do contact us.",
+ "audio_seconds": 34.3,
+ "created_at": "2026-07-06T00:46:20+00:00",
+ "failed": false,
+ "text": "Hi, welcome to HCMFC. It seems that your child has milia. This is a very common rash and is seen in most babies. It can start from one week to three weeks of age. The rash looks like tiny white or yellow spots on the baby's face and neck. This is caused by secretions of the tiny glands in the skin of the baby after birth. Although parents can find it upsetting, it does not cause the baby any discomfort and will disappear without treatment in four to six weeks. For further questions, do contact us.",
+ "seconds": 1.899
+}

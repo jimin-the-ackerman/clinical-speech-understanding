@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__148118_2",
+ "condition": "white_noise_2",
+ "reference": "Hi. The pain has developed after three days. It is possible that the secretions of the pleura are getting absorbed, which is causing you pain on inspiration. However, it is very important to get a computed tomography scan of the chest and abdomen, as injuries that manifest after a few days can be really dangerous, as we have seen in practice. Please go back and visit for the tests; you may need admission.",
+ "audio_seconds": 23.47,
+ "created_at": "2026-07-06T04:32:29+00:00",
+ "failed": false,
+ "text": "eye the pain has developed after three days it is possible that the secretions of the pleura are getting absorbed which is causing you pain on inspiration however it is very important to get a computed tomography scan of the chest and abdomen as injuries that manifest after a few days can be really dangerous as we have seen in practice please go back and visit for the test you may need admission",
+ "seconds": 0.759
+}

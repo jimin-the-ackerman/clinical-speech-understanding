@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0002",
+ "condition": null,
+ "reference": "HIS BOOKS TOLD HIM THAT TREASURE IS BEST HIDDEN UNDER LOOSE BOARDS UNLESS OF COURSE YOUR HOUSE HAS A SECRET PANEL WHICH HIS HAD NOT",
+ "audio_seconds": 8.12,
+ "created_at": "2026-07-05T12:56:01+00:00",
+ "failed": false,
+ "text": "his books told him that treasure is best hidden under loose boards and as of course your house has a secret panel which his had not",
+ "seconds": 0.287
+}

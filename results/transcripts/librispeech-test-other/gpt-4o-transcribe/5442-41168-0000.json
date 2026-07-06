@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41168-0000",
+ "condition": null,
+ "reference": "THE ACT SAID THAT IN CASE OF DIFFERENCE OF OPINION THERE MUST BE A BALLOT",
+ "audio_seconds": 5.42,
+ "created_at": "2026-07-05T23:56:31+00:00",
+ "failed": false,
+ "text": "The Act said that in case of difference of opinion there must be a ballot.",
+ "seconds": 0.896
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163624-0008",
+ "condition": null,
+ "reference": "SO REGIN MADE A SWORD AND SIGURD TRIED IT WITH A BLOW ON A LUMP OF IRON AND THE SWORD BROKE",
+ "audio_seconds": 5.04,
+ "created_at": "2026-07-06T03:30:07+00:00",
+ "failed": false,
+ "text": "So Regan made a sword, and Sigurd tried it with a blow on a lump of iron, and the sword broke.",
+ "seconds": 0.268
+}

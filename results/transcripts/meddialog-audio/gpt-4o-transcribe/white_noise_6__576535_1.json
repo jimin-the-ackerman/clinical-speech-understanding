@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__576535_1",
+ "condition": "white_noise_6",
+ "reference": "A week ago, I fell flat on my face on my left cheekbone. That area did not particularly get black and blue like much of the left side of my face, but it has a significant hard swelling about the size of a ping-pong ball. It does not seem to be going down in size. Do you know what this injury is called? I did go to the emergency room where they performed three computed tomography scans and an x-ray of the left side of my body – nothing is broken.",
+ "audio_seconds": 27.82,
+ "created_at": "2026-07-06T00:47:25+00:00",
+ "failed": false,
+ "text": "a view also possible of what it's capable. Not only of evil, but good deeds, in fact, of good and bad on both sides. Perhaps it had to be, if it fought slavery, perhaps it fought evil in the men as well. Human institutions too, are disposed even to the noblest of stand. And in next elections, a new party must go. Nothing permanent.",
+ "seconds": 1.917
+}

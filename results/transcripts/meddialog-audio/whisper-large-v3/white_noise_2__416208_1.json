@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__416208_1",
+ "condition": "white_noise_2",
+ "reference": "I ended my period last Monday. The same day, I took an ovulation test, and it indicated that I would ovulate the next day. My partner and I had sexual intercourse that morning, so I know his sperm would have been viable. Today, six days later, I started to feel some cramping and noticed a brownish, bloody discharge. I have continued to monitor it, and now it is bright red and looks like a light to medium period. I have read that implantation bleeding is very light, so I am a bit concerned. Could this be implantation bleeding or something more serious? What should I do?",
+ "audio_seconds": 32.68,
+ "created_at": "2026-07-06T04:33:26+00:00",
+ "failed": false,
+ "text": "I ended my period last Monday. The same day, I took an ovulation test, and it indicated that I would ovulate the next day. My partner and I had sexual intercourse that morning, so I know his sperm would have been viable. Today, six days later, I started to feel some cramping and noticed a brownish, bloody discharge. I have continued to monitor it, and now it is bright red and looks like a light to medium period. I have read that implantation bleeding is very light, so I am a bit concerned. Could this be implant bleeding or something more serious? What should I do?",
+ "seconds": 1.058
+}

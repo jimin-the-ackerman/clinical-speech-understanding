@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__115582_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, I really appreciate your concern. It may not be related to the spine, but it seems to be a muscular spasm. However, it may not be normal. Right now, it can be managed with chlorzoxazone and diclofenac once a day. If a degenerative spinal disease needs to be ruled out, then an MRI is an option. I hope this information helps.",
+ "audio_seconds": 21.93,
+ "created_at": "2026-07-06T02:49:48+00:00",
+ "failed": false,
+ "text": "Hello, I really appreciate your concern. It may not be related to the spine, but it seems to be a muscular spasm. However, it may not be normal. It can be managed with chlorzoxazone and diclofenac once a day. If a degenerative spinal disease needs to be ruled out, then an MRI is an option. I hope this information helps.",
+ "seconds": 4.658
+}

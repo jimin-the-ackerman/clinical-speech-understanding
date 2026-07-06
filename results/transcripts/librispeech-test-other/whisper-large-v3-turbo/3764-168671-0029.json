@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168671-0029",
+ "condition": null,
+ "reference": "BUT HE PERSISTED FEEBLY FATHER MESTIENNE IS THE GRAVE DIGGER",
+ "audio_seconds": 5.65,
+ "created_at": "2026-07-05T13:11:10+00:00",
+ "failed": false,
+ "text": "but he persisted feebly father mestien is the gravedigger",
+ "seconds": 0.128
+}

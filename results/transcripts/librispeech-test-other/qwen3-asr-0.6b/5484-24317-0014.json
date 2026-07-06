@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24317-0014",
+ "condition": null,
+ "reference": "CRATES HAD REALLY BEEN INVITED IN ORDER TO WIN HIM OVER TO THE QUEEN'S CAUSE BUT CHARMING FAIR HAIRED NICO HAD BEEN COMMISSIONED BY THE CONSPIRATORS TO PERSUADE HIM TO SING ARSINOE'S PRAISES AMONG HIS PROFESSIONAL ASSOCIATES",
+ "audio_seconds": 14.54,
+ "created_at": "2026-07-06T03:21:35+00:00",
+ "failed": false,
+ "text": "Craits had really been invited in order to win him over to the queen's cause. But charming, fair-haired Nipo had been commissioned by the conspirators to persuade him to sing Arsenio's praises among his professional associates.",
+ "seconds": 0.464
+}

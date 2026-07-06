@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180294-0016",
+ "condition": null,
+ "reference": "BUT WHEN THE MAN WHO INSPIRES THIS REDEEMING LOVE IS GREAT ENOUGH IN SOUL TO RECEIVE IT WITHOUT REMEMBERING THE PAST WHEN HE GIVES HIMSELF UP TO IT WHEN IN SHORT HE LOVES AS HE IS LOVED THIS MAN DRAINS AT ONE DRAUGHT ALL EARTHLY EMOTIONS AND AFTER SUCH A LOVE HIS HEART WILL BE CLOSED TO EVERY OTHER",
+ "audio_seconds": 23.03,
+ "created_at": "2026-07-06T02:23:45+00:00",
+ "failed": false,
+ "text": "But when the man who inspires this redeeming love is great enough in soul to receive it without remembering the past, when he gives himself up to it—when, in short, he loves as he is loved—this man drains at one drought all earthly emotions, and after such a love his heart will be closed to every other.",
+ "seconds": 5.425
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__308622_1",
+ "condition": "clean",
+ "reference": "Hi, last April, I hurt my left knee playing basketball. They first told me it was a second-degree tear of the medial collateral ligament. After about two weeks, I went to physical therapy for a while. Then in August, as it was not getting better, I got a magnetic resonance imaging scan, and it shows a very small tear of the meniscus and some arthritis in my left knee. I have let it rest and performed light exercises for eight to twelve months before recently going back to being active. The problem is my left knee is still not right. It hurts most when I sit and try to bend my leg. It also hurts getting out of bed in the morning. It sounds like I am a machine with the cracking and popping. I have now scheduled another appointment. Any ideas? Did the tear get bigger?",
+ "audio_seconds": 47.7,
+ "created_at": "2026-07-06T05:01:27+00:00",
+ "failed": false,
+ "text": "Hi, last April I hurt my left knee playing basketball. They first told me it was a second-degree tear of the medial collateral ligament. After about two weeks, I went to physical therapy for a while. Then in August, as it was not getting better, I got a magnetic resonance imaging scan, and it shows a very small tear of the meniscus and some arthritis in my left knee. I have let it rest and performed light exercises for eight to twelve months before recently going back to being active. The problem is my left knee is still not right. It hurts most when I sit and try to bend my leg. It also hurts getting out of bed in the morning. It sounds like I am a machine with the cracking and popping. I have now scheduled another appointment. Any ideas? Did the tear get bigger?",
+ "seconds": 1.465
+}

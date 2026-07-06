@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__904905_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, I am three days late on my period, and I had sexual intercourse three weeks ago, and it was unprotected. I am also on birth control, but I have irregular periods. I started spotting two days after for about one and a half days. I have been throwing up, and I feel exhausted every day with no energy. I also have really bad heartburn and acid reflux. Could I be pregnant?",
+ "audio_seconds": 22.53,
+ "created_at": "2026-07-06T04:52:56+00:00",
+ "failed": false,
+ "text": "Hi, I am three days late on my period and I had sexual intercourse three weeks ago and it was unprotected. I am also on birth control, but I have a regular periods. I started spotting after for about one and a half days. I have been throwing up and I feel exhausted every day with no energy. I also have really bad heartburn and acid reflux. Can I be pregnant?",
+ "seconds": 0.722
+}

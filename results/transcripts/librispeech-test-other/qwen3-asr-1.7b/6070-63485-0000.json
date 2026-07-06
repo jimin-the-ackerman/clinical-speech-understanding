@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-63485-0000",
+ "condition": null,
+ "reference": "THEY'RE DONE FOR SAID THE SCHOOLMASTER IN A LOW KEY TO THE CHOUETTE OUT WITH YOUR VITRIOL AND MIND YOUR EYE",
+ "audio_seconds": 9.4,
+ "created_at": "2026-07-06T03:34:16+00:00",
+ "failed": false,
+ "text": "There, done for,\" said the schoolmaster in a low key to the chouette. \"Out with your vitriol and mind your eye.\"",
+ "seconds": 0.315
+}

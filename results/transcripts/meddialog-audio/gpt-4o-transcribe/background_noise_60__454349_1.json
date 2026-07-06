@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__454349_1",
+ "condition": "background_noise_60",
+ "reference": "Hello there, my name is Avinash, and I was recently discharged from the hospital where I was admitted for the treatment of an infection and cystitis of the urinary bladder. It has been four days since my discharge, and I have been feeling pain in the area around my right kidney since yesterday. Can you suggest what to do in this situation, as I am far from a doctor and cannot go immediately?",
+ "audio_seconds": 24.49,
+ "created_at": "2026-07-06T00:44:06+00:00",
+ "failed": false,
+ "text": "Hello there, my name is Avinash, and I was recently discharged from the hospital where I was admitted for the treatment of an infection and cystitis of the urinary bladder. It has been four days since my discharge, and I have been feeling pain in the area around my right kidney since yesterday. Can you suggest what to do in this situation, as I am far from a doctor and cannot go immediately?",
+ "seconds": 1.443
+}

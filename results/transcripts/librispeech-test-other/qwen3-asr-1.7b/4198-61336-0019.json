@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-61336-0019",
+ "condition": null,
+ "reference": "THUS WAS URARTU CRIPPLED AND HUMILIATED IT NEVER REGAINED ITS FORMER PRESTIGE AMONG THE NORTHERN STATES",
+ "audio_seconds": 8.21,
+ "created_at": "2026-07-06T03:31:33+00:00",
+ "failed": false,
+ "text": "Thus was Eritrea crippled and humiliated. It never regained its former prestige among the northern states.",
+ "seconds": 0.23
+}

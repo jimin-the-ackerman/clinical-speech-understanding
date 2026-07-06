@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__106185_2",
+ "condition": "white_noise_6",
+ "reference": "The simple answer is the hardest but most rewarding: diet and exercise. However, you may need to have an evaluation for sleep apnea. If present, that makes getting started on the right track very tough. You may also want to talk to your doctor about a non-addicting replacement for Xanax. It is okay on occasion but should not be used regularly.",
+ "audio_seconds": 24.41,
+ "created_at": "2026-07-06T03:08:52+00:00",
+ "failed": false,
+ "text": "The simple answer is the hardest but most rewarding: diet and exercise. However, you may need to have an evaluation to see that dance. If present, that makes getting started on the right track very tough. You may also want to talk to your doctor about a non-addiction replacement for Xanax. It is okay on occasion, but should not be regularly.",
+ "seconds": 8.054
+}

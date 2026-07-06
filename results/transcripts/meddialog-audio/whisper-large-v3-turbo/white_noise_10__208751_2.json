@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__208751_2",
+ "condition": "white_noise_10",
+ "reference": "If she has gotten her period, then there are no chances of getting pregnant from your last event of sexual activity.",
+ "audio_seconds": 7.42,
+ "created_at": "2026-07-06T04:45:27+00:00",
+ "failed": false,
+ "text": "If you want me to, then there are no chance of a good answer in my last video.",
+ "seconds": 0.172
+}

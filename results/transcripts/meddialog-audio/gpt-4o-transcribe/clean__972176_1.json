@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__972176_1",
+ "condition": "clean",
+ "reference": "I had all four wisdom teeth removed. I know the bottom ones were impacted, but now, four days later, there is a bit of discharge from one of the extraction sites, and I have a lump about the size of a quarter in diameter. I am worried about infection and was never given any antibiotics. The stitches still haven't come out yet, so I don't expect healing to be quite complete. How do I know if there is an infection? Should I expect a few more days to heal?",
+ "audio_seconds": 29.18,
+ "created_at": "2026-07-06T00:45:38+00:00",
+ "failed": false,
+ "text": "I had all four wisdom teeth removed. I know the bottom ones were impacted, but now, four days later, there is a bit of discharge from one of the extraction sites, and I have a lump about the size of a quarter in diameter. I am worried about infection and was never given any antibiotics. The stitches still haven't come out yet, so I don't expect healing to be quite complete. How do I know if there is an infection? Should I expect a few more days to heal?",
+ "seconds": 1.698
+}

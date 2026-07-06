@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__497316_1",
+ "condition": "background_noise_20",
+ "reference": "I had root canal treatment three weeks ago, and since then, I cannot eat without experiencing pain and aching in my jaw. Additionally, the side of my face is numb. I went to see the dentist a week ago, and he said it was not related to the root canal. If the symptoms persist, he will have to refer me. I am going back to see him tomorrow, but I need to understand what can be done.",
+ "audio_seconds": 24.06,
+ "created_at": "2026-07-06T04:14:56+00:00",
+ "failed": false,
+ "text": "I had root canal treatment three weeks ago, and since then, I cannot eat without experiencing pain and aching in my jaw. Additionally, the side of my face is numb. I went to see the dentist a week ago, and he said it was not related to the root canal. If the symptoms persist, he will have to refer me. I am going back to see him tomorrow, but I need to understand what can be done.",
+ "seconds": 0.796
+}

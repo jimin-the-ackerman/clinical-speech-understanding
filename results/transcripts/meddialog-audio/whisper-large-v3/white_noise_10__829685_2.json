@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__829685_2",
+ "condition": "white_noise_10",
+ "reference": "For a child with a fever, you can provide the child with a normal diet or anything that the child can tolerate. The diet should contain more protein, as our body is made of protein, and the healing and repair processes require resources. Meat, fish, and eggs are sources of protein. Spinach, pulses, and soybeans are vegetable sources of protein. If she is vomiting, be sure to give oral rehydration solution along with it. It is better to avoid milk for a week or so, but if she can tolerate it, there are no issues. Use sponging with normal temperature water to bring down the temperature if it is greater than one hundred degrees Fahrenheit.",
+ "audio_seconds": 37.29,
+ "created_at": "2026-07-06T04:31:35+00:00",
+ "failed": false,
+ "text": "I'm a child with a fever. I can't avoid the fact that I'm on a diet, so I'm cutting too much of my protein calories. The diet should contain more protein, as our body is not as personal, and it's really more personal to do this on a weekly basis. Meat, fish, and protein are personal. Spinach, fish, and soybean are vegetable-based and are personal. If you are vomiting, consider birds, or if you have basic nutritional issues. It is better to avoid most birdies and ferrets. It is better to avoid most birds, or if you have basic nutritional issues. It is better to avoid most birds, or if you have basic nutritional issues.",
+ "seconds": 1.134
+}

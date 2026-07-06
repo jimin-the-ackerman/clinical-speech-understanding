@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__753323_1",
+ "condition": "white_noise_2",
+ "reference": "I have impacted wisdom teeth. I have been experiencing severe pain on and off for about a year, but now it has gotten worse with different symptoms along with the pain, like a funny taste in my mouth, mild trouble swallowing, chest pains, and shortness of breath. Is this an emergency?",
+ "audio_seconds": 15.45,
+ "created_at": "2026-07-06T05:37:39+00:00",
+ "failed": false,
+ "text": "I have impacted wisdom teeth. I have been experiencing severe pain on and off for about a year, but now it has gotten worse with different symptoms along with the pain, like a funny taste in my mouth, mild trouble swallowing, chest pains, and shortness of breath. Is this an emergency?",
+ "seconds": 0.585
+}

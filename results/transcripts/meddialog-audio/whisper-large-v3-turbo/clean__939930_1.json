@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__939930_1",
+ "condition": "clean",
+ "reference": "Hello, I have a daughter who is twenty-three years old and experiencing shortness of breath when running, mainly uphill. She is also experiencing headaches, loss of appetite, and a low-grade fever. She is an avid runner, running about seven to ten miles a day. She has had anemia in the past, and my question is: can she be suffering from anemia or stress-induced asthma?",
+ "audio_seconds": 25.94,
+ "created_at": "2026-07-06T04:45:13+00:00",
+ "failed": false,
+ "text": "hello i have a daughter who is 23 years old and experiencing shortness of breath when running mainly uphill she is also experiencing headaches loss of appetite and a low-grade fever she is an avid runner running about seven to ten miles a day she has had anemia in the past and my question is can she be suffering from anemia or stress-induced asthma",
+ "seconds": 0.238
+}

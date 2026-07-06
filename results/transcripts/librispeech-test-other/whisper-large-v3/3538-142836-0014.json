@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-142836-0014",
+ "condition": null,
+ "reference": "MARMALADES JAMS AND FRUIT PASTES ARE OF THE SAME NATURE AND ARE NOW IN VERY GENERAL REQUEST",
+ "audio_seconds": 6.47,
+ "created_at": "2026-07-05T12:59:05+00:00",
+ "failed": false,
+ "text": "marmalades jams and fruit-paste are of the same nature and are now in very general request you",
+ "seconds": 0.322
+}

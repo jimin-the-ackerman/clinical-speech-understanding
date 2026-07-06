@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0014",
+ "condition": null,
+ "reference": "HE LED THE WAY THE OTHERS ALL FOLLOWING AND TAKING OUT A SLIP OF PAPER READ FROM IT IN A DISTINCT TONE LOUD ENOUGH TO BE HEARD BY THOSE ABOUT HIM WITHOUT DISTURBING THE OTHER PASSENGERS",
+ "audio_seconds": 11.63,
+ "created_at": "2026-07-05T13:08:28+00:00",
+ "failed": false,
+ "text": "he led the way the others all following and taking out a slip of paper read from it in a distinct tone loud enough to be heard by those all about him without disturbing the other passengers",
+ "seconds": 0.321
+}

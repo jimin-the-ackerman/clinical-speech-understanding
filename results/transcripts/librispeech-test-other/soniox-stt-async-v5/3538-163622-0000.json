@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163622-0000",
+ "condition": null,
+ "reference": "WILT THOU SERVE ME AND WATCH MY SEVEN FOALS ASKED THE KING",
+ "audio_seconds": 3.5,
+ "created_at": "2026-07-06T00:07:11+00:00",
+ "failed": false,
+ "text": "Willt out serve me and watch my seven foes as the king?",
+ "seconds": 4.133
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__166292_2",
+ "condition": "clean",
+ "reference": "Get an ultrasound of the whole abdomen to check for mesenteric lymphadenopathy. Also, evaluate for extrapulmonary tuberculosis. See me with the report.",
+ "audio_seconds": 10.5,
+ "created_at": "2026-07-06T05:00:59+00:00",
+ "failed": false,
+ "text": "Get an ultrasound of the whole abdomen to check for mesenteric lymphadenopathy. Also, evaluate for extrapulmonary tuberculosis. See me with the report.",
+ "seconds": 0.327
+}

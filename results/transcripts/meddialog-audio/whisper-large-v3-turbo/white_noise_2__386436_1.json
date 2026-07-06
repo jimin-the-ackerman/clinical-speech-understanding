@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__386436_1",
+ "condition": "white_noise_2",
+ "reference": "Hello, I work in a state correctional institution, and while conducting a cell search, I pricked my thumb with a sewing needle that an inmate had in his bed sheet. The inmate knew I was going to enter his room prior to my entering due to his suspicious behavior earlier in the day. Suppose he pricked himself with the needle and left it in his bed sheet for me to get stuck with it, what are my chances of contracting anything?",
+ "audio_seconds": 22.36,
+ "created_at": "2026-07-06T04:47:05+00:00",
+ "failed": false,
+ "text": "Hello. I work in a state correctional institution, and while conducting a cell search, I pricked my thumb with a sewing needle that an inmate had in his bedsheet. The inmate knew I was going to enter his room prior to my entering due to his suspicious behavior earlier in the day. Suppose he pricked himself with the needle and left it in his bedsheet for me to get stuck with it. What are my chances of contracting anything?",
+ "seconds": 0.244
+}

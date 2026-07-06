@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__301629_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, I am a thirty-year-old woman. About one month ago, I was suffering from typhoid. After one week, I developed a stomach infection, which went away after taking precautions. Then, again after a week, I have experienced stomach pain. What should I do? I want to ask why stomachaches keep occurring.",
+ "audio_seconds": 21.25,
+ "created_at": "2026-07-06T00:43:00+00:00",
+ "failed": false,
+ "text": "Hi, I am a 30-year-old woman. About one month ago, I was suffering from typhoid. After one week, I developed a stomach infection, which went away after taking precautions. Then, again after relief, I had a stomachache. What should I do? I want to ask why stomachaches keep occurring.",
+ "seconds": 1.067
+}

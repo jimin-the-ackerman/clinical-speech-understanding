@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__400384_1",
+ "condition": "white_noise_2",
+ "reference": "I started feeling a painless throbbing sensation in my head. I am also experiencing dizzy spells. I recently had a baby about five months ago. I am nearsighted but choose not to wear glasses or contact lenses even though my eyesight has, over time, been causing me to strain while watching television, even on a fifty-inch screen. I have also recently gone from about five to six cups of coffee a day to one or two very suddenly. I am hoping one of the above is the cause of my discomfort and is not something more serious. Please help.",
+ "audio_seconds": 33.54,
+ "created_at": "2026-07-06T00:46:30+00:00",
+ "failed": false,
+ "text": "I understand the pain we're causing each other, my love. I want to experience a new piece of us. I recently had a baby and I'll find myself. I knew inside that this is not where God intended for me to be when my eyesight had over time and the toxins strained all my composure. Even on a 15-inch screen. I also knew that we belong to God while I accept the coffee fade. The moments we share is tough. I am hoping you learn that we could both recover if it cost us the pursuit. You told.",
+ "seconds": 1.827
+}

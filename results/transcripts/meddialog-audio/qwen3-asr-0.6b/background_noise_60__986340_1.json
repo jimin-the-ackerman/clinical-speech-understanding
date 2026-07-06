@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__986340_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, I am thirty-two years old. I thought I was pregnant; I have sore, leaky breasts, tiredness, and a little nausea that goes away after I eat. I only had spotting for a few hours during the week I expected my period. I started getting severe pains in my right side and began to worry because I have a Mirena intrauterine device in place. I went to the doctor who ruled out pregnancy, but my lower abdomen is sore to the touch. Any amount of pressure hurts, and I still have sharp pains in my side. What could be going on?",
+ "audio_seconds": 35.41,
+ "created_at": "2026-07-06T05:00:43+00:00",
+ "failed": false,
+ "text": "Hi, I am thirty-two years old. I thought I was pregnant. I have sore, leaky breasts, tiredness, and a little nausea that goes away after I eat. I only had spotting for a few hours during the week I expected my period. I started getting severe pains in my right side and began to worry because I have a Marina intrauterine device in place. I went to the doctor who ruled out pregnancy, but my lower abdomen is sore to the touch. Any amount of pressure hurts, and I still have sharp pains in my side. What could be on?",
+ "seconds": 1.076
+}

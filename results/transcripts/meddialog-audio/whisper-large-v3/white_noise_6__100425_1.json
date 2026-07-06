@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__100425_1",
+ "condition": "white_noise_6",
+ "reference": "I am asking this question for a patient I am currently managing as a Registered Nurse for symptom management. Can I crush an eight milligram tablet of Ondansetron and also a five milligram Oxycodone? Additionally, can I crush Diovan and Nifedipine? I am receiving radiation to my thoracic spine and am having difficulty swallowing these pills.",
+ "audio_seconds": 24.75,
+ "created_at": "2026-07-06T04:35:57+00:00",
+ "failed": false,
+ "text": "I am asking this question for a patient I am currently managing as a registered nurse for symptom management. Can I crush an 8mg tablet of ondansetron and also a 5mg oxycodone? Additionally, can I crush diovan and nifedipine? I am receiving radiation to my thoracic spine and am having difficulty seeing pills.",
+ "seconds": 0.638
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__755602_1",
+ "condition": "background_noise_40",
+ "reference": "My almost four-year-old little girl hit her forehead on the back of her sister's head today while coming down a water slide, and it formed a bump. However, it is not the typical knot or bump; instead of being hard, it is soft and feels like a blister. Should this concern me? It was quite the bump and she cried, but I am not used to soft knots. They have always been hard.",
+ "audio_seconds": 24.75,
+ "created_at": "2026-07-06T04:42:01+00:00",
+ "failed": false,
+ "text": "My almost four-year-old little girl had her forehead on the back of her sister's head today while coming down on water's side, and it formed a bump. However, it is not the typical knot or bump. Instead of being hard, it is soft and feels like a blister. Did she disconcerle me? It was quite the bump, and she cried, but I am not used to soft knots. They have always been hard.",
+ "seconds": 0.316
+}

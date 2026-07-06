@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__987025_1",
+ "condition": "white_noise_10",
+ "reference": "I am experiencing recent and painful tibialis anterior cramping during the night. It has been particularly pronounced the last two nights. It occurs in both legs and can last for several minutes. However, there is no swelling or discoloration. During the day, there is some very mild tenderness but no pain, fatigue, or cramping. I have been taking calcium and multivitamins, and I massage my feet and lower legs before bedtime. Any suggestions?",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T04:46:40+00:00",
+ "failed": false,
+ "text": "I am experiencing recent and painful to the hour of injury with cancer during the night. It has been particularly traumatic for the last time. But a person breaks down and connects with other units. However, there is no time in the other time. During the day, there is some very minor changes that make pain to pee for her. I have been taking alcohol and making vitamins, and I massage my feet and lower legs before bedtime. Any suggestion?",
+ "seconds": 0.296
+}

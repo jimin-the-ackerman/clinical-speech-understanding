@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__844943_1",
+ "condition": "white_noise_6",
+ "reference": "I am thirty-two years old and have been trying to conceive for one year. Please suggest what to do. My height is five feet one inch and my weight is sixty-three kilograms. My husband is also thirty-two years old. He has been found to have vitamin D3 and B12 deficiency and has certain issues related to stress and anxiety. Please help.",
+ "audio_seconds": 19.97,
+ "created_at": "2026-07-06T04:38:55+00:00",
+ "failed": false,
+ "text": "I am 32 years old and trying to conceive for one year. Please suggest what to do. My height is 5 feet 1 inch and my weight is 63 kilograms. My husband is also 32 years old. He has been found to have vitamin D3 and B12 deficiency and has certain issues related to stress and anxiety. Please help.",
+ "seconds": 0.607
+}

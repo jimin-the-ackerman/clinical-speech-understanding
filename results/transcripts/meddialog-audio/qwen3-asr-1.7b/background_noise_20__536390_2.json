@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__536390_2",
+ "condition": "background_noise_20",
+ "reference": "Check your electrocardiogram during the time of palpitation. Also, get a two-dimensional echocardiogram of the heart done. If normal, get thyroid function tests along with electrolyte levels done. If all are normal, then you need to be investigated further.",
+ "audio_seconds": 15.96,
+ "created_at": "2026-07-06T05:17:22+00:00",
+ "failed": false,
+ "text": "Check your electrocardiogram during the time of palpitation. Also, get a two-dimensional echocardiogram of the heart done. If normal, get thyroid function tests along with electrolyte levels done. If all are normal, then you need to be investigated further.",
+ "seconds": 0.529
+}

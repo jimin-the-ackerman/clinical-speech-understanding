@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__830789_1",
+ "condition": "background_noise_60",
+ "reference": "Hi doctors, my sister just gave birth the other day, and her baby's pediatrician told her that the baby has a low hemoglobin count. The baby had two blood transfusions, and red blood cells will be checked again. My question is, what causes the lowering of red blood cells at birth? And is this a serious case?",
+ "audio_seconds": 18.94,
+ "created_at": "2026-07-06T05:26:21+00:00",
+ "failed": false,
+ "text": "Hi, doctors. My sister just gave birth the other day, and her baby's pediatrician told her that the baby has a low hemoglobin count. The baby had two blood transfusions, and red blood cells will be checked again. My question is, what causes the lowering of red blood cells at birth, and is this a serious case?",
+ "seconds": 0.674
+}

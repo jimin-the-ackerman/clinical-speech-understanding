@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__884056_1",
+ "condition": "white_noise_6",
+ "reference": "For the last ten to twelve days, I have experienced weakness, lower back pain, and dark undereye circles. I have observed white froth in the urine. Last month, I had a viral fever and took a lot of antibiotics. Recently, I have also experienced erectile dysfunction. I have been taking Norfloxacin four hundred milligrams twice daily for the last three days, but there has been no improvement. Please guide me.",
+ "audio_seconds": 27.14,
+ "created_at": "2026-07-06T05:42:11+00:00",
+ "failed": false,
+ "text": "For the last ten to twelve days, I have experienced weakness, lower back pain, and dark under eye circles. I have observed white froth in the urine. Last month, I had a viral fever and took a lot of antibiotics. Recently, I have also experienced erectile dysfunction. I have been taking norfloxacin 400 milligrams twice daily for the last three days, but there has been no improvement. Please guide me.",
+ "seconds": 0.843
+}

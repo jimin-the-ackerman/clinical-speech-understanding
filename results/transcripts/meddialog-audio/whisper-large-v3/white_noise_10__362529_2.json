@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__362529_2",
+ "condition": "white_noise_10",
+ "reference": "Hi and welcome to HealthCare Medicine. This is not unusual after such procedures. The uterus is close to the colon, and any manipulation in that area can cause mobility disorders. Sometimes even one to two months are needed until normal motility is established. Try to eat smaller meals and avoid foods that make you feel bloated. There is no other specific treatment. If symptoms persist for more than six weeks, it could be caused by adhesions, and then imaging tests should be performed to evaluate this condition. I wish you good health.",
+ "audio_seconds": 30.29,
+ "created_at": "2026-07-06T04:29:33+00:00",
+ "failed": false,
+ "text": "Hi and welcome to healthcare medicine. This is not unusual after such procedures. Uterus is close to the colon, and any manipulation in that area can cause mobility disorders. Sometimes even 1-2 months are needed until normal mortality is established. Try to eat smaller meals and avoid foods that make you feel bloated. There is no other specific treatment. If symptoms persist for more than 6 weeks, they could be caused by adhesions, and an imaging test should be performed to evaluate this condition. I wish you good health.",
+ "seconds": 0.917
+}

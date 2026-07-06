@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__326387_1",
+ "condition": "white_noise_2",
+ "reference": "My wife is suffering from cancer. The biopsy test results show invasive ductal carcinoma in the left breast lump. The hormonal profile of the tumor indicates estrogen receptor positive strong at sixty%, progesterone receptor positive strong at ten%, and HER2 is negative. Now I want to know what stage it is and what the best treatment options are.",
+ "audio_seconds": 20.82,
+ "created_at": "2026-07-06T04:33:08+00:00",
+ "failed": false,
+ "text": "my wife is suffering from cancer. The biopsy test results show invasive ductal carcinoma in the left breastbone. The hormonal profile of the tumor indicates estrogen receptor positive strong at 60 percent, progesterone receptor positive strong at 10 percent, and it was negative. Now I want to know what stage it is and what the best treatment options are.",
+ "seconds": 0.782
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__392993_1",
+ "condition": "white_noise_2",
+ "reference": "Hi! I am nineteen, and I have a puberty question regarding height. My dad is six feet eight inches, and my mom is five feet four inches; I am six feet zero inches. I only have to shave the barest peach fuzz about once every week and a half. I have leg hair, but it basically stops at my knees. All that being background information, I obviously have quite a bit of maturing to do, but should I expect further increases in height, or just a filling in of sorts with hair and the like?",
+ "audio_seconds": 28.5,
+ "created_at": "2026-07-06T05:09:04+00:00",
+ "failed": false,
+ "text": "Hi, I am nineteen and I have a puberty question regarding height. My dad is six feet eight inches and is five feet four inches. I am six feet zero inches. I only have to shave the barest peach fuzz about once every week and a half. I have leg hair, but it basically stops at my knees. All about being background information, I obviously have quite a bit of maturing to do. But should I expect further increases in height, or just a filling in of sorts with hair and the like?",
+ "seconds": 0.947
+}

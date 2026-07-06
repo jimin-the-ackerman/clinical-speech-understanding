@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0044",
+ "condition": null,
+ "reference": "SHE RETAINED HER CONSCIOUSNESS TO THE VERY LAST MOMENT",
+ "audio_seconds": 3.25,
+ "created_at": "2026-07-06T03:29:31+00:00",
+ "failed": false,
+ "text": "She retained her consciousness to the very last moment.",
+ "seconds": 0.133
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__130354_1",
+ "condition": "background_noise_40",
+ "reference": "Why does it seem so difficult for family members to understand and cope with a veteran with post-traumatic stress disorder and brain injury? The lack of interest and effort to learn has taken its toll on a young family, and it just seems we older individuals only care or try to understand. What are the concrete things we need to do every day? Yes, the Veterans Affairs has helped, but I am not sure society is ready for the grief that goes with it, and that includes family members. This person is not the same. How does one really support?",
+ "audio_seconds": 32.17,
+ "created_at": "2026-07-06T02:49:51+00:00",
+ "failed": false,
+ "text": "Why does it seem so difficult for family members to understand and cope with a veteran with post-traumatic stress disorder and brain injury? The lack of interest and effort to learn has taken its toll on the young family, and it just seems to be older individuals only care or try to understand. What are the concrete things we need to do every day? Yes, the Veterans Affairs is help, but I am not sure society is ready for the grief that goes with it. And that includes family members. This person is not the same. How does one really support—",
+ "seconds": 4.712
+}

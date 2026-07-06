@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__856035_1",
+ "condition": "white_noise_2",
+ "reference": "I have a weird sore on the ridge of the head of my penis. It looks like a canker sore would, but it is on my penis. It also has this awful smell no matter how much I clean it. It is very sensitive and painful to touch. It has been here for about two weeks and won't go away! The area around the sore is hardened. I just want it to go away so I can go back to my normal life! Help!",
+ "audio_seconds": 24.49,
+ "created_at": "2026-07-06T03:08:17+00:00",
+ "failed": false,
+ "text": "I have a weird sore on the ridge of the head of my penis. It looks like a cancer sore would. It is on my penis. It also has this awful smell no matter how much I clean it. It is very sensitive and painful to touch. It has been here for about 2 weeks and won't go away. The area around the sore is hardened. I just want it to go away so I can go back to my normal life. Help.",
+ "seconds": 8.02
+}

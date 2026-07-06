@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__119651_1",
+ "condition": "white_noise_10",
+ "reference": "I was fooling around with my boyfriend on 23rd February. We were naked, but there was no penetration at all. There was no ejaculation either, but some pre-ejaculate might have been present. It was not around the vagina, though. I was due for my period on 2nd March, and I am now eight days late. I took a home pregnancy test on the 6th day after my missed period, and it was negative. I have no other symptoms. I'm really stressed. My period last month was also delayed by five days. I have been on medication for hypothyroidism for the past one and a half years. I am also overweight. Please tell me what the chances are that I am pregnant, or is the stress keeping it away?",
+ "audio_seconds": 46.59,
+ "created_at": "2026-07-06T05:04:29+00:00",
+ "failed": false,
+ "text": "I was fooling around with my boyfriend on twenty-third February. We were naked, but there was no penetration at all. There was no ejaculation either, but some sea ejaculate might have been present. It was not around the vagina though. I will do some my period on second March, and I am now eight days late. I took a home pregnancy test on the sixth day after my period, and it was negative. I have no other symptoms. I am really stressed. My period last month was also delayed by five days. I have been on medication for hypothyroidism for the past one and a half years. I am also overweight. Please tell me what the chances are that I am pregnant or is the stress keeping it away.",
+ "seconds": 1.32
+}

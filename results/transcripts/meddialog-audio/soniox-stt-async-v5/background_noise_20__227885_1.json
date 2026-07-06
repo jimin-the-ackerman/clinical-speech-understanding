@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__227885_1",
+ "condition": "background_noise_20",
+ "reference": "My twelve-year-old daughter has complained only today that when she turns her head to the side, it feels as though the skin behind her ear is going to tear. I have had a look and there is no redness or obvious spot, but as you run your finger up behind the ear, just as you get to the bone, there is a soft lump, and she said it is extremely painful just under there. Any ideas would be helpful.",
+ "audio_seconds": 24.92,
+ "created_at": "2026-07-06T02:46:46+00:00",
+ "failed": false,
+ "text": "My 12-year-old daughter has complained only today that when she turns her head to the side, it feels as though the skin behind her ear is going to tear. I have had a look and there is no redness or obvious spot, but as you run your finger up behind the ear, just as you get to the bone, there is a soft lump, and she said it is extremely painful just under there. Any ideas would be helpful.",
+ "seconds": 5.498
+}

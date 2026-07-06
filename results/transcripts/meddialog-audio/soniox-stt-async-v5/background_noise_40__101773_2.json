@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__101773_2",
+ "condition": "background_noise_40",
+ "reference": "Hello. Yes, I would say palpitations accompanied by light-headedness likely indicate some serious type of arrhythmia. You are fortunate that in thirty years, you have not passed out, but there is a risk that this type of arrhythmia can be fatal. I would suggest visiting a cardiologist. A repeat electrocardiogram and echocardiogram may be necessary, and you might need Holter monitoring for twenty-four hours. Ultimately, you might require medication or a pacemaker depending on the severity and type of arrhythmias. I suspect it to be supraventricular tachycardia or ventricular tachycardia runs.",
+ "audio_seconds": 41.13,
+ "created_at": "2026-07-06T02:49:44+00:00",
+ "failed": false,
+ "text": "Hello, yes, I would say palpitations accompanied by lightheadedness likely indicate some serious type of arrhythmia. You are fortunate that in 30 years you have not passed out, but there is a risk that this type of arrhythmia can be fatal. I would suggest visiting a cardiologist; a repeat electrocardiogram and echocardiogram may be necessary, and you might need Holter monitoring for 24 hours. Ultimately, you might require medication or a pacemaker depending on the severity and type of arrhythmias. I suspect it to be supraventricular tachycardia or ventricular tachycardia runs.",
+ "seconds": 8.246
+}

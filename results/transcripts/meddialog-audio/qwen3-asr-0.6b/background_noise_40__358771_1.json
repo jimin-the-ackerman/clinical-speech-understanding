@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__358771_1",
+ "condition": "background_noise_40",
+ "reference": "Yes, over the last thirty days I have been in the hospital for eight days. On two separate occasions, I was taken by ambulance. The second time was not as bad. It starts with my arm; the first time it was my left arm, and the second time it was my right arm. It begins to tingle and feels heavy, swinging like dead weight. Then my foot begins to feel the same, and the tingling sensation goes up my leg and into my arm. I become unable to talk; I know what to say, but I am unable to express it. The first time was the worst of the two and lasted for a while. The second time, by the time I arrived at the hospital, I was fine; it lasted maybe forty-five minutes, and I was able to talk normally.",
+ "audio_seconds": 45.4,
+ "created_at": "2026-07-06T04:54:31+00:00",
+ "failed": false,
+ "text": "Yes, over the last thirty days, I have been in the hospital for eight days. On two separate occasions, I was taken by ambulance. The second time was not bad. It starts with my arm. The first time was my left arm, and the second time it was my. It begins to tingle and feels heavy, swinging like dead weight. Then my foot begins to feel the same, and the tingling sensation blows up my leg and into my arm. I become unable to talk. I know what to say, but I am unable to express it. The first time was the worst of the two and lasted for a while. The second time, by the time I arrived at the hospital, I was fine. It lasted only forty-five minutes, and I was able to talk normally.",
+ "seconds": 1.419
+}

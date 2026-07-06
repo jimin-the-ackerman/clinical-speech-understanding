@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__898867_1",
+ "condition": "white_noise_2",
+ "reference": "I have been diagnosed with viral pericarditis and cardiomyopathy heart failure with a twenty% ejection fraction. I am currently hospitalized for decompensation and have lost ten pounds and four liters of fluid. Is this still an acute issue now? What is the prognosis? My electrocardiogram indicates multifocal premature ventricular contractions, and I have a prolonged QTc alarm approximately every hour.",
+ "audio_seconds": 26.54,
+ "created_at": "2026-07-06T04:35:37+00:00",
+ "failed": false,
+ "text": "I have been diagnosed with viral pericarditis and cardiomyopathy heart failure with a 20% ejection fraction. I am currently hospitalized for decompensation and have lost 10 pounds and 4 liters of fluid. Is this still an acute issue now? What is the prognosis? My electrocardiogram indicates multifocal premature ventricular contractions, and I have a prolonged QTC alarm approximately every hour.",
+ "seconds": 0.717
+}

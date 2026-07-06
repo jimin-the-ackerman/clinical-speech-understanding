@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__695551_1",
+ "condition": "white_noise_6",
+ "reference": "My eight-month-old baby has a fever of thirty-seven point nine degrees Celsius. I checked her temperature using a baby thermometer in the ear. She has a slight cough, but she plays as normal. I gave her Adol syrup a while back, and it has decreased. However, her body, including her forehead, is quite warm.",
+ "audio_seconds": 17.24,
+ "created_at": "2026-07-06T05:14:03+00:00",
+ "failed": false,
+ "text": "My eight-month-old baby has a fever of thirty-seven point nine degrees Celsius. I checked her temperature using a baby thermometer in the ear. She has a slight cough, but she plays normally. I gave her a dolce syrup, a lullaby, and it has decreased. However, her body, including the forehead, is quite warm.",
+ "seconds": 0.638
+}

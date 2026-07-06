@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__529711_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, thank you for your query. As you mentioned, all your symptoms related to anal sex increase the risk of HIV in homosexual males much more than in heterosexual anal sex. When semen is inside the anal canal, it may cause severe itching, as in your case. Medically, anal sex can be much more dangerous, so it is best to avoid it or use proper protocols to prevent diseases. A sitz bath in iodine solution may help. I hope this answer will help you. Feel free to contact me regarding your health issues. I wish you good health.",
+ "audio_seconds": 34.56,
+ "created_at": "2026-07-06T04:47:21+00:00",
+ "failed": false,
+ "text": "hi thank you for your query as you mentioned all your symptoms related to anal sex increase the risk of hiv in homosexual males much more than in heterosexual anal sex when semen is inside the anal canal it may cause severe itching as in your case medically anal sex can be much more dangerous so it is best to avoid it or use proper protocols to prevent diseases a six bath and iodine solution may i answer will help you feel free to contact me regarding your health issues i wish you good health",
+ "seconds": 0.338
+}

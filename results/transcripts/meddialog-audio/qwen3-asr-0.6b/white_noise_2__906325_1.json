@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__906325_1",
+ "condition": "white_noise_2",
+ "reference": "My son is a Filipino child. I had him undergo 'tuli', which is a Filipino rite of male circumcision. It has a long historical tradition and is considered a rite of passage. This procedure involves cutting the top foreskin covering the penis. After the 'tuli', my son was walking around the house, and then he told me that his penis is swollen. The swollen part is behind the mushroom or foreskin. What cure can be used, Doctor?",
+ "audio_seconds": 29.1,
+ "created_at": "2026-07-06T05:11:24+00:00",
+ "failed": false,
+ "text": "My son is a Filipino child. I had him undergo chuling, which is a Filipino right of male circumcision. It has a long historical tradition and is considered a right of passage. This procedure involves cutting the top foreskin covering the penis. After the chuling, my son was walking around the house, and then he told me that his penis is swollen. The swollen part is behind the mushroom or foreskin. What cure can be used, doctor?",
+ "seconds": 0.844
+}

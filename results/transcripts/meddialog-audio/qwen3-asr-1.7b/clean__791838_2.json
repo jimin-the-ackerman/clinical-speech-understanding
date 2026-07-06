@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__791838_2",
+ "condition": "clean",
+ "reference": "Good day. You need to be seen urgently. Rectal bleeding can be due to hemorrhoids, but considering your history of pain and constipation, you need to have a colonoscopy urgently. Please arrange to see a surgeon as soon as possible.",
+ "audio_seconds": 13.14,
+ "created_at": "2026-07-06T05:30:03+00:00",
+ "failed": false,
+ "text": "Good day. You need to be seen urgently. Rectal bleeding can be due to hemorrhoids, but considering your history and constipation, you need to have a colonoscopy urgently. Please arrange to see a surgeon as soon as possible.",
+ "seconds": 0.477
+}

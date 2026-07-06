@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__831160_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, I am twenty-one years old. I have had a total thyroidectomy performed about two years ago. It was done due to papillary carcinoma nodules. I am under daily medication now. I also have polycystic ovary syndrome and mitral valve prolapse. Somebody happened to mention to me that pregnancy can be complicated in the future, and it is just stuck in my mind. I might get married around the age of twenty-seven, but I am just worried.",
+ "audio_seconds": 26.79,
+ "created_at": "2026-07-06T04:42:10+00:00",
+ "failed": false,
+ "text": "Hi, I am 21 years old. I have had a total fibroidectomy performed about two years ago. It was done due to papillary carcinoma nodules. I am under daily medication now. I also have polycystic ovary syndrome and mitral valve prolapse. Somebody has mentioned to me that pregnancy can be complicated in the future, and it is just in mind. I might get married around the age of 27, but I am just worried.",
+ "seconds": 0.3
+}

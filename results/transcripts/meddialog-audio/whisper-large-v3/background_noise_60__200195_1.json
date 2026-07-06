@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__200195_1",
+ "condition": "background_noise_60",
+ "reference": "I have athlete's foot, and my heels are really calloused. I have just noticed that there are these tiny holes about the size of a lead pencil on my heels, and my feet stay red all the time. What is causing my feet to stay red all the time, and what is causing the holes in my heels?",
+ "audio_seconds": 18.26,
+ "created_at": "2026-07-06T04:21:11+00:00",
+ "failed": false,
+ "text": "I have athlete's foot, and my heels are really calloused. I have just noticed that there are these tiny holes about the size of a lead pencil on my heels, and my feet stay red all the time. What is causing my feet to stay red all the time? And what is causing the holes in my heels?",
+ "seconds": 0.582
+}

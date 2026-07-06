@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-293981-0003",
+ "condition": null,
+ "reference": "THOUGH YOUR WORSHIP WAS NOT SO BADLY OFF HAVING IN YOUR ARMS THAT INCOMPARABLE BEAUTY YOU SPOKE OF BUT I WHAT DID I HAVE EXCEPT THE HEAVIEST WHACKS I THINK I HAD IN ALL MY LIFE",
+ "audio_seconds": 9.57,
+ "created_at": "2026-07-05T12:59:38+00:00",
+ "failed": false,
+ "text": "though your worship was not so badly off having in your arms the incomparable beauty you spoke of but i what did i have except the heaviest wax that i think i had in all my life",
+ "seconds": 0.337
+}

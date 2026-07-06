@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__189982_1",
+ "condition": "white_noise_2",
+ "reference": "Hi Doctor, I took a hysterosalpingography and the results indicate that my right fallopian tube is narrow and its mucosa is irregular. It exhibits scanty peritoneal spill, while the other tube has a normal caliber and exhibits normal and free peritoneal spill. Does this mean I cannot conceive?",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T03:05:15+00:00",
+ "failed": false,
+ "text": "Hi, Doctor. I took a hysterosalpingography, and the results indicate that my right fallopian tube is narrow and its mucosa is irregular. It exhibits scanty peritoneal spill, while the other tube has a normal caliber and exhibits normal and free peritoneal spill. Does this mean I cannot conceive?",
+ "seconds": 8.009
+}

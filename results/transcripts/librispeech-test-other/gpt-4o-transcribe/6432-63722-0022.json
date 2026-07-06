@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0022",
+ "condition": null,
+ "reference": "ANYHOW HE AND PHUT DIDN'T GET ALONG VERY WELL IT SEEMS",
+ "audio_seconds": 3.67,
+ "created_at": "2026-07-05T23:57:17+00:00",
+ "failed": false,
+ "text": "Anyhow, he and Phut didn't get along very well, it seems.",
+ "seconds": 0.708
+}

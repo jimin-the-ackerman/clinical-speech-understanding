@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12281-0006",
+ "condition": null,
+ "reference": "LET HIM BE CARRIED TO PRISON FOR TROUBLING THE DIVINE SERVICE",
+ "audio_seconds": 4.45,
+ "created_at": "2026-07-05T23:55:43+00:00",
+ "failed": false,
+ "text": "Let him be carried to prison for troubling the divine service.",
+ "seconds": 0.588
+}

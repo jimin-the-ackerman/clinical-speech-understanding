@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__117500_1",
+ "condition": "white_noise_2",
+ "reference": "I have been experiencing anxiety and panic attacks, and lately I have been having difficulty breathing. This can happen for a few hours, even when I am not having a panic attack. Is this caused by anxiety or another health-related problem? I also have an iron deficiency. Sometimes it's hard to determine which problem I am having because the symptoms are very similar.",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T04:46:44+00:00",
+ "failed": false,
+ "text": "i have been experiencing anxiety and panic attacks and lately i have been having difficulty breathing this can hurt a few hours even when i am not having a panic attack is this caused by anxiety or another health-related problem i also have an iron deficiency sometimes it's hard to determine which problem i am having because the symptoms are very similar",
+ "seconds": 0.324
+}

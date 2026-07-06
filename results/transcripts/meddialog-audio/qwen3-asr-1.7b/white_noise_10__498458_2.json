@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__498458_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, you are taking vitamin D3. You can take Tyo K or Uprise D tablets daily, or another option is to have Calcirol sachets once a week for six weeks. Along with vitamin D3, take the Shelcal five hundred milligrams tablet daily.",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T05:32:35+00:00",
+ "failed": false,
+ "text": "Hello, you are taking vitamin D3. You can take KIOK or a two-speed tablet daily. Or another option is to have calcual sachet once a week for six weeks. Along with vitamin D3, take the shell cow 500 milligram tablet daily.",
+ "seconds": 0.583
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__696856_1",
+ "condition": "white_noise_10",
+ "reference": "My daughter, who is four years old, may have suffered from an absence seizure this past weekend. She woke up and vomited, and then seemed dazed but was very tired as we had a long day. She threw up four times that night. She has not seemed to have any episodes since. Is vomiting part of absence seizures?",
+ "audio_seconds": 18.94,
+ "created_at": "2026-07-06T05:33:23+00:00",
+ "failed": false,
+ "text": "My daughter, a few days old, may have suffered from an absent seizure this afternoon. She woke up and vomited, and then seemed very sleepy and very tired during her long day. She fell asleep that night. She is not going to have another day's sleep. The long day brought about confusion.",
+ "seconds": 0.591
+}

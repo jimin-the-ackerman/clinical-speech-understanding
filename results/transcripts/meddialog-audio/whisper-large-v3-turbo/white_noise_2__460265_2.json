@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__460265_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, the passage of hard stool exerts pressure on urogenital organs, which generally secretes and stores seminal fluid, so it expels out due to pressure from the stool-loaded colon, which further increases when you strain during defecation. So, you need not worry; correcting the constipation will make this issue disappear automatically. You can take laxatives or stool softeners in cases of acute constipation. You should eat lots of fresh fruits and green vegetables with dietary fiber supplements to increase the roughage and facilitate smooth passage of stool. You should also drink plenty of fluids, especially upon waking in the morning. Have half to one liter of other fluids mixed with lemon juice and honey. Hope this helps you. Please feel free to discuss further; I will be happy to help you. Best wishes.",
+ "audio_seconds": 48.13,
+ "created_at": "2026-07-06T04:47:14+00:00",
+ "failed": false,
+ "text": "Hello, the passage of hard stool exerts pressure on your genital organs, which generally secretes and stores seminal fluid, so it expels out due to pressure from the stool-loaded colon, which further increases when you strain during defecation. So you need not worry, correcting the constipation will make this issue disappear automatically. You can take laxatives or stool softeners in cases of acute constipation. You should eat lots of fresh fruits and green vegetables with dietary fiber supplements to increase the roughage and facilitate smooth passage of stool. You should also drink plenty of fluids, especially upon waking in the morning. Have half to one liter of other fluids mixed with lemon juice and honey. Hope this helps you. Please feel free to discuss further. I will be happy to help you. Best wishes.",
+ "seconds": 0.493
+}

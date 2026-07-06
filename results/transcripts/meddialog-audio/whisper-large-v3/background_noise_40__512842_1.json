@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__512842_1",
+ "condition": "background_noise_40",
+ "reference": "This is Archana. I am using Hispen fifty mg tablets and Aliver tablets in this cycle. Actually, in the last cycle, I used Ovasheild and HSG injection, and my follicular study showed that on the 23rd day, a follicle had ruptured. I used Meprane tablets. Please advise me if my treatment is correct.",
+ "audio_seconds": 20.14,
+ "created_at": "2026-07-06T04:19:00+00:00",
+ "failed": false,
+ "text": "This is Archana. I am using Hispen 50mg tablets and Allover tablets in this cycle. Actually, in the last cycle, I used Ovashield and HSG injection, and my follicular study showed that on the 23rd day, a follicle had ruptured. I used Meprane tablets. Please advise me if my treatment is correct.",
+ "seconds": 0.657
+}

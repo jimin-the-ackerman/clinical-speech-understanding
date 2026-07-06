@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__605254_2",
+ "condition": "background_noise_40",
+ "reference": "Hello. I just read through your question. Typically, cold sores are caused by viruses that lie dormant in the body, sometimes even for years. If he got a cold sore, it is most likely because he has been exposed to cold sore viruses in the past, and not because he kissed you.",
+ "audio_seconds": 17.24,
+ "created_at": "2026-07-06T04:19:19+00:00",
+ "failed": false,
+ "text": "Hello. I just read through your question. Typically, cold sores are caused by viruses that lie dormant in the body, sometimes even for years. If you got a cold sore, it was most likely because he has been exposed to cold sore viruses in the past, and not because he kissed you.",
+ "seconds": 0.549
+}

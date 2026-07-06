@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__881177_1",
+ "condition": "background_noise_40",
+ "reference": "Hello Doctor, my friend noticed just a small amount of blood while urinating. He immediately went to the doctor, and they asked him to take some tests. I am attaching the reports. Please tell me if anything is serious. He does heavy weightlifting and running as well.",
+ "audio_seconds": 16.47,
+ "created_at": "2026-07-06T05:22:59+00:00",
+ "failed": false,
+ "text": "Hello, doctor. My friend noticed just a small amount of blood while urinating. He immediately went to the doctor, and they asked him to take some tests. I am attaching the reports. Please tell me if anything is serious. He does heavy weightlifting and running as well.",
+ "seconds": 0.552
+}

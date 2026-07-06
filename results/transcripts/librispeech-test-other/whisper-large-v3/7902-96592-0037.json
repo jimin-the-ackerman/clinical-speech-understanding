@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0037",
+ "condition": null,
+ "reference": "WHY YOUR CLOTHES DON'T FIT YOU AND YOUR CAP'S PUT ON ALL SKEW REW",
+ "audio_seconds": 3.79,
+ "created_at": "2026-07-05T13:06:41+00:00",
+ "failed": false,
+ "text": "Why, your clothes don't fit you, and your cap's put on all skeweroo.",
+ "seconds": 0.217
+}

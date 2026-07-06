@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__762652_2",
+ "condition": "clean",
+ "reference": "Hello. You are anemic, which can cause headaches and blackouts in your vision. The consumption of those food products could be a sign of pica, which is common in people with iron deficiency. It can take many weeks to build your iron levels back up with oral iron. If you are not pregnant, the delay in your menstrual cycle is likely due to not ovulating during your previous cycle. I would advise further evaluation with laboratory work and to follow up with your primary physician for the other symptoms you are having.",
+ "audio_seconds": 27.73,
+ "created_at": "2026-07-06T05:03:22+00:00",
+ "failed": false,
+ "text": "Hello, you are anemic, which can cause headaches and blackouts in your vision. The consumption of those food products could be a sign of pica, which is common in people with iron deficiency. It can take many weeks to build your iron levels back up with oral iron. If you are not pregnant, the delay in your menstrual cycle is likely due to not ovulating during your previous cycle. I would advise further evaluation with laboratory work and to follow up with your primary physician for the other symptoms you are having.",
+ "seconds": 0.936
+}

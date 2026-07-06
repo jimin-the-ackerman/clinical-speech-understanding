@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0036",
+ "condition": null,
+ "reference": "DICKIE WAS FULL OF QUESTIONS BUT MISTER BEALE HAD NO ANSWERS FOR THEM",
+ "audio_seconds": 3.94,
+ "created_at": "2026-07-05T13:09:22+00:00",
+ "failed": false,
+ "text": "dicky was full of questions but mr beale had no answers for them",
+ "seconds": 0.11
+}

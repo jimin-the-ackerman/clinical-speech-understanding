@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__235193_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. Stomach pain with diarrhea and foul-smelling gas are suggestive of an infection in the intestine, and you need to take antibiotics to get a cure.",
+ "audio_seconds": 8.45,
+ "created_at": "2026-07-06T05:12:11+00:00",
+ "failed": false,
+ "text": "Hello. Snoring and pain with diarrhea in Falls Hill and Gas are suggestive of an infection in the intestines, and you need to take antibiotics to get a cure.",
+ "seconds": 0.336
+}

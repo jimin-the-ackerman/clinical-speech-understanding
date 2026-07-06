@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__223014_2",
+ "condition": "background_noise_60",
+ "reference": "Hemorrhoids are due to improper bowel habits. You are advised to take plenty of fiber-rich foods and drink lots of fluids. If you bleed every time, you may become anemic. It is ideal if you pass stools daily without constipation. If you are constipated, use some rectal suppositories as prescribed by your physician. Hemorrhoids may require surgery depending on the level of pile mass, its size, and position.",
+ "audio_seconds": 25.86,
+ "created_at": "2026-07-06T04:57:37+00:00",
+ "failed": false,
+ "text": "Hemorrhoids are due to improper bowel habits. You are advised to take plenty of fiber-rich foods and drink lots of fluids. If you bleed every time, you may become anemic. It is ideal if you pass stools daily without constipation. If you are constipated, use some rectal suppositories as prescribed by your physician. Hemorrhoids may require surgery depending on the level of pile mass, its size, and position.",
+ "seconds": 0.816
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0054",
+ "condition": null,
+ "reference": "SAINT TERENTIUS BISHOP OF PORT WHERE THE MOUTH OF THE TIBER EMPTIES INTO THE SEA REQUESTED THAT ON HIS TOMB MIGHT BE ENGRAVED THE SIGN WHICH WAS PLACED ON THE GRAVES OF PARRICIDES IN THE HOPE THAT PASSERS BY WOULD SPIT ON HIS TOMB THIS WAS DONE",
+ "audio_seconds": 15.51,
+ "created_at": "2026-07-05T23:54:52+00:00",
+ "failed": false,
+ "text": "Saint Terentius, Bishop of Port, where the mouth of the Tiber empties into the sea, requested that on his tomb might be engraved the sign which was placed on the graves of parricides, in the hope that passers-by would spit on his tomb. This was done.",
+ "seconds": 1.249
+}

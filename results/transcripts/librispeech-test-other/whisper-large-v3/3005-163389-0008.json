@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163389-0008",
+ "condition": null,
+ "reference": "BUT A MOB WITHOUT ANY MAN AT THE HEAD OF IT IS BENEATH PITIFULNESS",
+ "audio_seconds": 5.11,
+ "created_at": "2026-07-05T12:57:24+00:00",
+ "failed": false,
+ "text": "But a mob without any man at the head of it is beneath pitifulness.",
+ "seconds": 0.204
+}

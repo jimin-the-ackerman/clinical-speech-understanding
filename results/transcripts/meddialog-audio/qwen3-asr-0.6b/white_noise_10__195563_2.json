@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__195563_2",
+ "condition": "white_noise_10",
+ "reference": "Low blood pressure can cause lethargy, malaise, severe weakness, fatigue, and nonspecific complaints. If your blood pressure is low, you need to find out the cause of it and need to see a doctor for that. Get your blood checked for hemoglobin, vitamin B12, vitamin D3, calcium, thyroid function, and glucose level. All of this may help to provide some clues regarding your illness.",
+ "audio_seconds": 25.69,
+ "created_at": "2026-07-06T05:04:48+00:00",
+ "failed": false,
+ "text": "Most reptiles can have leopards, merlins, the rear leaping of cheetahs, and mountain cubs of the hunting. If you reptile is known, you need to find out the color of it and you see about it for that. When a reptile is seen as a dog, find him in D twelve, find him in D three, Paciency, fire consumption, and keep yourself. All of this means that the reptile continues to go in the north.",
+ "seconds": 0.913
+}

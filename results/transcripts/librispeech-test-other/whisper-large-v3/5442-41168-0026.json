@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41168-0026",
+ "condition": null,
+ "reference": "TWO NOBLE GENTLEMEN WHO HAD A WEAKNESS FOR STRONG DRINK HAD BEEN MADE DRUNK BY THE PARTISANS OF SNETKOV AND A THIRD HAD BEEN ROBBED OF HIS UNIFORM",
+ "audio_seconds": 9.76,
+ "created_at": "2026-07-05T13:03:19+00:00",
+ "failed": false,
+ "text": "two noble gentlemen who had a weakness for strong drink had been made drunk by the partisans of snetkov and a third had been robbed of his uniform",
+ "seconds": 0.316
+}

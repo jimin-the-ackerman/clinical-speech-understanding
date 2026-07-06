@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__915182_2",
+ "condition": "white_noise_6",
+ "reference": "Hi. To help you better, I need to know first of all what organ of the body that person has tuberculosis in. Is it tuberculosis of the lungs, tuberculosis of the bone, or tuberculosis of the lymph nodes?",
+ "audio_seconds": 12.8,
+ "created_at": "2026-07-06T03:12:12+00:00",
+ "failed": false,
+ "text": "Hi. To help you better, I need to know first of all what organ of the body that person has tuberculosis in. Is it tuberculosis of the lungs, tuberculosis of the bone, or tuberculosis of the lymph nodes?",
+ "seconds": 4.639
+}

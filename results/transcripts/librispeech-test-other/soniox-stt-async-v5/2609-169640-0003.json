@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-169640-0003",
+ "condition": null,
+ "reference": "I NEVER WAS IN A BETTER STEERING SHIP MOST ESPECIALLY IN MODERATE WEATHER",
+ "audio_seconds": 5.33,
+ "created_at": "2026-07-06T00:03:05+00:00",
+ "failed": false,
+ "text": "I never was in a better steeringship, mostly spectra in moderate weather.",
+ "seconds": 4.306
+}

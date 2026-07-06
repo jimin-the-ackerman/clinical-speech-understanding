@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__895075_1",
+ "condition": "clean",
+ "reference": "Hello, I just finished my fifth round of Clomiphene Citrate for infertility. My period started, or I thought it did - in one day it has stopped completely. I still have low back pain that is usually associated with my period. I took a pregnancy test this morning, and it was negative. My bleeding started on day twenty-eight - normal. What is going on?",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T05:03:56+00:00",
+ "failed": false,
+ "text": "Hello. I just finished my fifth round of Clomid's citrate for infertility. My period started, or I thought it did, in one day. It has stopped completely. I still have low back pain that is usually associated with my period. I took a pregnancy test this morning and it was negative. My bleeding started on day twenty-eight. Normal. What is going on?",
+ "seconds": 0.697
+}

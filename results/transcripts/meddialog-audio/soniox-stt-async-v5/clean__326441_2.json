@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__326441_2",
+ "condition": "clean",
+ "reference": "You can use it, but the best way is to stop all milk and dairy products. Avoid coconut, walnuts, peanuts, and mustard. Use soybean oil and olive oil for cooking. Apply amla locally. Use Nikko soap and Nizral shampoo. Do not apply milk or nut-containing creams and ointments. Apply Histocalamine in the morning. After three months, all your problems should be solved.",
+ "audio_seconds": 24.83,
+ "created_at": "2026-07-06T02:57:40+00:00",
+ "failed": false,
+ "text": "You can use it, but the best way is to stop all milk and dairy products. Avoid coconut, walnuts, peanuts, and mustard. Use soybean oil and olive oil for cooking. Apply AMA locally. Use Nico soap and Nizoral shampoo. Do not apply milk or nut-containing creams and ointments. Apply histokolamine in the morning. After 3 months, all your problems should be solved.",
+ "seconds": 4.903
+}

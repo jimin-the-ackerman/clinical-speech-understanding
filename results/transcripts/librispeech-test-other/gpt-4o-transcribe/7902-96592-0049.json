@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0049",
+ "condition": null,
+ "reference": "ONCE MORE WILL YOU COME AND LET ME OUT NO",
+ "audio_seconds": 4.13,
+ "created_at": "2026-07-05T23:57:55+00:00",
+ "failed": false,
+ "text": "Once more, will you come and let me out? No.",
+ "seconds": 0.689
+}

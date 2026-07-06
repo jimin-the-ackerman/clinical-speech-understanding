@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__964352_2",
+ "condition": "clean",
+ "reference": "I would have to see the magnetic resonance imaging images to give you an opinion of what it means. Why did you get the magnetic resonance imaging of the cervical spine in the first place? It seems based upon your report that it shows age-related changes, but 'cord compression' may be concerning. Depending on your symptoms, there may be surgical involvement.",
+ "audio_seconds": 16.81,
+ "created_at": "2026-07-06T05:04:18+00:00",
+ "failed": false,
+ "text": "I would have to see the magnetic resonance imaging images to give you an opinion of what it means. Why did you get the magnetic resonance imaging of the cervical spine in the first place? It seems based report that it shows age-related changes, but depression may be concerning. Depending on your symptoms, there may be surgical involvement.",
+ "seconds": 0.594
+}

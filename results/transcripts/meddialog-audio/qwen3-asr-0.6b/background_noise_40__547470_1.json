@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__547470_1",
+ "condition": "background_noise_40",
+ "reference": "Hi Doctor, I have a small cyst. The doctor told me that I have Polycystic Ovarian Disease. I have been taking Kalarchikkai with pepper and honey, making small balls for the past twenty-eight days. The first time I got my period after twenty-eight days, and the second time I got it after thirteen days. Is this normal? Can I continue the medication for forty-eight days, or should I stop? Please suggest some ideas.",
+ "audio_seconds": 27.56,
+ "created_at": "2026-07-06T04:55:23+00:00",
+ "failed": false,
+ "text": "Hi doctor, I have cyst. The doctor told me that I have polycystic ovarian disease. I have been taking kalarchikai with pepper and honey, making small balls for the past twenty-eight days. The first time I got my period after twenty-eight days, and the second time I got it after thirteen days. Is this normal? Can I continue the medication for forty-eight days, or should I stop? Please suggest some ideas.",
+ "seconds": 0.815
+}

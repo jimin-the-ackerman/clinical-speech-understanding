@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__704570_1",
+ "condition": "white_noise_6",
+ "reference": "The hospital put fourteen stitches in my calf after cutting it on a fence. I also have a puncture and swelling on my shin with some swelling on my ankle. This happened exactly a week ago. My wound check indicated no infection. I continue to use ice on the shin area on and off throughout the day and keep the wound clean. I have not been moving it because it hurts. Since it has been a week, should I try moving it or using it, or should I wait until I get the stitches out in about five days?",
+ "audio_seconds": 29.27,
+ "created_at": "2026-07-06T00:47:30+00:00",
+ "failed": false,
+ "text": "私は昨日図書館で本を借りました。",
+ "seconds": 0.662
+}

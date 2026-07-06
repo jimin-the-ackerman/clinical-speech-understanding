@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__904812_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. Before going into the progression of scoliosis, I would like to clarify some facts about it. one) The Cobb angle is a measure of the curvature of the spine in degrees. This helps to determine what type of treatment is necessary. A Cobb angle of ten degrees is regarded as the minimum angulation to define scoliosis. two) A scoliosis curve of ten to fifteen degrees normally does not require any treatment except for regular check-ups. three) If the scoliosis curve is between twenty and forty degrees, the orthopedic doctor will prescribe a back brace to help prevent the spine from developing further curvature. four) Curves greater than forty-five degrees require corrective surgery, which involves the use of pedicle screws and osteotomy to correct the curve. I hope you get an X-ray done of your spine, and it will be easy to measure the curvature properly.",
+ "audio_seconds": 55.21,
+ "created_at": "2026-07-06T04:16:41+00:00",
+ "failed": false,
+ "text": "Hello. Before going into the progression of scoliosis, I would like to clarify some facts about it. 1. The Cobb angle is a measure of the curvature of the spine in degrees. This helps to determine what type of treatment is necessary. A Cobb angle of 10 degrees is regarded as the minimum angulation to define scoliosis. 2. A scoliosis curve of 10-15 degrees normally does not require any treatment except for regular checkups. 3. If the scoliosis curve is between 20 and 40 degrees, the orthopedic doctor will prescribe a back brace to help prevent the spine from developing further curvature. 4. Curves greater than 45 degrees require corrective surgery, which involves the use of pedicle screws and osteotomy to correct the curve. I hope you get an x-ray done of your spine and it will be easy to measure the curvature properly.",
+ "seconds": 1.463
+}

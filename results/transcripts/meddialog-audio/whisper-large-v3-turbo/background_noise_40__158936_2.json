@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__158936_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, welcome to HCMI. I really appreciate your concern. If this is a history of hair loss and it is a male person inquiring, then I would suggest that not much can be done, and whatever results you are experiencing may not be as natural as you desire. I hope this information helps.",
+ "audio_seconds": 18.26,
+ "created_at": "2026-07-06T04:41:03+00:00",
+ "failed": false,
+ "text": "hello welcome to hcmi i really appreciate your concern if this is a history of hair loss and it is a male person firing then i would suggest that not much can be done and whatever results you are experiencing may not be as natural as you desire i hope this information helps",
+ "seconds": 0.283
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__235300_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. You could be suffering from a pinched nerve in the back of your neck due to possibly a disc prolapse. I advise you to apply a hot water bottle to the painful areas and take pain relievers and muscle relaxants for pain relief. You may need to get a magnetic resonance imaging scan for confirmation of the nerve pinching, followed by treatment according to the degree of compression.",
+ "audio_seconds": 20.22,
+ "created_at": "2026-07-06T05:35:19+00:00",
+ "failed": false,
+ "text": "Hello, you could be suffering from a pinched nerve in the back of your neck due to possibly a disc prolapse. I advise you to apply a hot water bottle to the painful areas and take pain relievers and muscle relaxants for pain relief. You may need to get a magnetic resonance imaging scan for confirmation of the nerve pinching, followed by treatment according to the degree of compression.",
+ "seconds": 0.765
+}

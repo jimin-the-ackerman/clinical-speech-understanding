@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__759726_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. Eye strain after a change of glasses might be due to overcorrection or undercorrection of glasses or improper spectacle frame placement and centration. So, you need to recheck your refraction and lenses to ensure they are dispensed according to your prescription. If you are having trouble with near vision or near work, then it might be due to presbyopia. Presbyopia usually starts at age forty, but some people might have problems after age thirty-five. Other symptoms like headache, neck tightness, and shoulder pain might be due to other causes like glaucoma. Therefore, you need a complete eye examination and intraocular pressure check along with the retinal examination. Your doctor might suggest a few investigations if required. You are most welcome to ask any queries.",
+ "audio_seconds": 44.46,
+ "created_at": "2026-07-06T03:03:31+00:00",
+ "failed": false,
+ "text": "Hello. Ice cream after. Glasses might be due to overcollection or undercollection of glasses, or improper spectacle frame placement and centration, so you need to recheck your refraction and lenses to ensure they are dispensed according to your prescription. If you are having trouble with near vision or near work, then it might be due to presbyopia. Presbyopia usually starts at age 40, but some people might have problems after age 35; other symptoms like headache, neck tightness, and shoulder pain might be due to other causes like glaucoma. Therefore, you need a complete eye examination and intraocular pressure check along with a retinal examination; your doctor might suggest a few investigations if required. You are most welcome to ask any queries.",
+ "seconds": 8.624
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__834018_1",
+ "condition": "white_noise_2",
+ "reference": "I have an itching feeling inside my chest, under my left chest muscle. Additionally, I keep passing out and vomiting at the gym. The itchy feeling usually occurs after running. I also keep feeling my heart beating very hard, even though the running machine says my beats per minute are going down. I am very confused.",
+ "audio_seconds": 16.98,
+ "created_at": "2026-07-06T05:11:07+00:00",
+ "failed": false,
+ "text": "I have an itching feeling inside my chest under my left chest muscle. Additionally, I keep passing out and vomiting at the gym. The itchy feeling usually occurs after running. I also keep feeling my heart beating very hard, even though the running machine says my beats per minute are going down. I am very.",
+ "seconds": 0.579
+}

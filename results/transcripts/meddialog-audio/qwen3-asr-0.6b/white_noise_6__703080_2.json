@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__703080_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, blood in stool in a sixteen-month-old child can be due to hard stools caused by constipation, acute gastroenteritis, or worm infestation. Constipation can be prevented in children by giving them more water and providing all types of food, not just milk or any single food. Another possibility could be acute gastroenteritis, which occurs due to sucking on fingers or putting things in the mouth. For this, an antibiotic like cefixime should be given. Also, administer a prebiotic like Enterogermina ampoule once a day for three days. For worm infestation, albendazole should be given. An examination by a doctor should be conducted to ensure that we do not miss any important findings. Have a good day.",
+ "audio_seconds": 43.95,
+ "created_at": "2026-07-06T05:14:06+00:00",
+ "failed": false,
+ "text": "Hi, blood in school in a sixteen-month-old child can be due to hard stools caused by constipation, acute gastroenteritis or worm infestation. Constipation can be prevented in children by giving them more water and providing all types of food. Not just milk and sweet soup. Another possibility could be acute gastroenteritis, which occurs due to sucking on fingers or putting things in the mouth. For this, an antibiotic like cefixime should be given. Also, administer a prebiotic like enterolina and pule once a day for few days. For worm infestation, albendazole should be given. An examination by a doctor should be conducted to ensure that we do not miss any important bites. Have the day.",
+ "seconds": 1.36
+}

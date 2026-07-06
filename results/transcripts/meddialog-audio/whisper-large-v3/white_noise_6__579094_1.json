@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__579094_1",
+ "condition": "white_noise_6",
+ "reference": "Hello, my girlfriend and I had sexual intercourse on February eight, two thousand and fourteen, without using a condom, but for a short duration. After that, I used a condom and ejaculated inside the condom. Is there any chance of pregnancy? When I inserted into her vagina without a condom, my penis was wet. Also, her last period was on January thirteen, two thousand and fourteen, and she was worried because she said that her menstrual cycle is twenty-six days. According to this, her period should have come on February nine or ten, but it didn't. Please give me some suggestions.",
+ "audio_seconds": 37.55,
+ "created_at": "2026-07-06T04:37:45+00:00",
+ "failed": false,
+ "text": "hello my girlfriend and i had sexual intercourse on february 8 2014 without using a condom but for a short duration after that i used a condom and ejaculated inside the condom is there any chance of fancy when i inserted into her vagina without a condom my penis was wet also her last period was on january 13 2014 and she was worried because she said that her menstrual cycle is 26 days according to this her period should have come on february 9 or 10 but it didn't please give me some suggestions",
+ "seconds": 0.964
+}

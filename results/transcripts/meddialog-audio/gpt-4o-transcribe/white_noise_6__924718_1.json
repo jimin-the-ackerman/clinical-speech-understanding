@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__924718_1",
+ "condition": "white_noise_6",
+ "reference": "I was just diagnosed with a broken bone located underneath the ball of my foot. The attending physician suggested taking Aleve and wearing shoes with stiff bottoms. Are there any other precautions I need to take to aid in its healing? The doctor also indicated that it was okay to resume aerobics, provided the foot didn't cause pain and I wore a supportive shoe. Is he correct?",
+ "audio_seconds": 23.72,
+ "created_at": "2026-07-06T00:47:40+00:00",
+ "failed": false,
+ "text": "I just dumped my portfolio, made a complete withdrawal on my stocks.",
+ "seconds": 0.653
+}

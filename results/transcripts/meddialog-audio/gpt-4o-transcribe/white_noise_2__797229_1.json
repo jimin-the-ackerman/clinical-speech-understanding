@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__797229_1",
+ "condition": "white_noise_2",
+ "reference": "I am trying to get pregnant, but I have painful irregular periods. However, they have been coming every month. My first period came on April twelve-nineteen, and my most recent was May twenty-three-twenty-nine. I had unprotected sex on the 24th, 27th, and 31st. I really want a baby; I am twenty-seven years old. Also, my periods are only really painful on the 1st and 3rd days; the other days are tolerable. Please help, I need to know how to better my chances. I am on Solarray's Fertility Blend SP-one and taking prenatal vitamins.",
+ "audio_seconds": 39.68,
+ "created_at": "2026-07-06T00:46:55+00:00",
+ "failed": false,
+ "text": "Mit leise Freude, klein und neugierig blüht, war er mein und bin kaum der Blumen. Das Köstliche ist weggeschwunden, denn der Luftkuss und mein jüngstgewonnener ist schon wieder mein verloren. Und wieder ohne Blumen und ohne Blütenbeet, nirgends mehr der kahle Wiesenplatz. Ein nie gemaltes Allerwach schien es, einmal das Sonneneins durchdringt und meine Astgebäude in die Luft hinein.",
+ "seconds": 1.685
+}

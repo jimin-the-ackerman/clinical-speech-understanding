@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__680278_2",
+ "condition": "background_noise_40",
+ "reference": "You can give one-fourth of a tablet for fever every six hours if the fever goes over one hundred degrees Fahrenheit. If it is syrup, then you can use five milliliters of syrup every six hours.",
+ "audio_seconds": 11.35,
+ "created_at": "2026-07-06T02:52:02+00:00",
+ "failed": false,
+ "text": "You can give 1/4 of a tablet for fever every 6 hours if the fever goes over 100°F. If it is syrup, then you can use 5 mL of syrup every 6 hours.",
+ "seconds": 5.668
+}

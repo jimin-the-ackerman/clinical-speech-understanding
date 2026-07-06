@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__178645_2",
+ "condition": "white_noise_10",
+ "reference": "Hello there, sometimes strenuous workouts may lead to nerve and tissue injury, which causes such problems. I would advise you to give some rest to the thumb that is troubling you. Additionally, you can take physiotherapy and some vitamins. Also, see a neurologist.",
+ "audio_seconds": 18.01,
+ "created_at": "2026-07-06T05:04:44+00:00",
+ "failed": false,
+ "text": "Hello there. Sometimes someone's workout may lead to an argument with the employer. How is your father? I need to hire you to get some rest for the family's problems. Additionally, he can take severe therapy in the morning. Also, tomorrow.",
+ "seconds": 0.482
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__862285_2",
+ "condition": "background_noise_40",
+ "reference": "Just because there is a bruise may not indicate anything serious. However, I advise checking his platelet count, and if it is normal, then there is nothing to worry about. I also think he should be undergoing follow-up abdominal ultrasound or gastrointestinal endoscopy once a year to monitor for any recurrence of the tumor.",
+ "audio_seconds": 19.03,
+ "created_at": "2026-07-06T00:43:37+00:00",
+ "failed": false,
+ "text": "Just because there's a bruise may not indicate anything serious. However, I advise checking his platelet count, and if it is normal, then there's nothing to worry about. I also think he should be undergoing follow-up abdominal ultrasound or gastrointestinal endoscopy once a year to monitor any recurrence of the tumor.",
+ "seconds": 1.316
+}

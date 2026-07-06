@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-278226-0012",
+ "condition": null,
+ "reference": "THEY HAVE SAID THAT HE IS EVEN A LITTLE IMBECILE THAT HE DOES NOT REMEMBER HIMSELF OF THE MOST COMMON EVENTS OF HIS LIFE",
+ "audio_seconds": 8.1,
+ "created_at": "2026-07-06T03:26:12+00:00",
+ "failed": false,
+ "text": "They have said that he is even a little limbusel, that he does not remember himself of the most common events of his life.",
+ "seconds": 0.289
+}

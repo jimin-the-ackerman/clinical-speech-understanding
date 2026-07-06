@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__547724_1",
+ "condition": "white_noise_10",
+ "reference": "Sir, please help me. My three-month-old baby is having lactose intolerance, so the doctor prescribed Simyle MCT powder and advised me to stop breastfeeding. Now it has been two weeks since I stopped feeding him breast milk, and he is on Simyle MCT powder. He used to pass motion twenty to thirty times before, but now he only goes once, and it is green-colored formed stool. Is this normal?",
+ "audio_seconds": 21.93,
+ "created_at": "2026-07-06T05:06:03+00:00",
+ "failed": false,
+ "text": "Sir, please help me. My three-month-old baby is having lactose intolerance. Though the doctor prescribed similar MCC powder and advised me to stop breastfeeding, now it has been two weeks since I stopped feeding him breast milk. He is on simile and CTP powder. He used to pass motion twenty to thirty times before, but now he only goes once, and it is green-colored, warm food. Is this normal?",
+ "seconds": 0.778
+}

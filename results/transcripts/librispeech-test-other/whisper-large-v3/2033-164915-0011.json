@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164915-0011",
+ "condition": null,
+ "reference": "TWAS AS I FEARED THE COMING ILLS DISCERNING BUT UNTO ALLAH WE ARE ALL RETURNING",
+ "audio_seconds": 7.04,
+ "created_at": "2026-07-05T12:56:35+00:00",
+ "failed": false,
+ "text": "T'was as I feared the coming hills discerning, But unto Allah we are all returning.",
+ "seconds": 0.232
+}

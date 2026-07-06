@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__532322_2",
+ "condition": "clean",
+ "reference": "Hi, welcome to HealthcareMagic. All important semen parameters are abnormal in your case, so the chances of natural conception are quite low. However, in rare circumstances, pregnancy can occur with such low counts and motility. Consider yourself very lucky if pregnancy occurs naturally. All the best.",
+ "audio_seconds": 19.29,
+ "created_at": "2026-07-06T00:45:08+00:00",
+ "failed": false,
+ "text": "Hi, welcome to HealthcareMagic. All important semen parameters are abnormal in your case, so the chances of natural conception are quite low. However, in rare circumstances, pregnancy can occur with such low counts and motility. Consider yourself very lucky if pregnancy occurs naturally. All the best.",
+ "seconds": 1.116
+}

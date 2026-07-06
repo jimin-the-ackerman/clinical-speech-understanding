@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__900681_1",
+ "condition": "clean",
+ "reference": "My two-year-old toddler has slept much of the past twenty-four hours. He complained at one time of a stomach ache and screamed out when picked up out of his bed at his normal morning wake time. He experienced diarrhea once during the day. I took him to the doctor, and his platelet count is normal. The doctor thinks he has a virus. As a parent, I am concerned that he is very lethargic and sleeping all the time. Do you have any advice?",
+ "audio_seconds": 25.69,
+ "created_at": "2026-07-06T04:28:07+00:00",
+ "failed": false,
+ "text": "My two-year-old toddler has slept much of the past 24 hours. He complained at one time of a stomach ache and screamed out when picked up out of his bed at his normal morning wake time. He experienced diarrhea once during the day. I took him to the doctor and his platelet count is normal. The doctor thinks he has a virus. As a parent, I am concerned that he is very lethargic and sleeping all the time. Do you have any advice?",
+ "seconds": 0.814
+}

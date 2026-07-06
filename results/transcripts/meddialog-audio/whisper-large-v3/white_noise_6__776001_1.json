@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__776001_1",
+ "condition": "white_noise_6",
+ "reference": "I have a group of very small, painless bumps at the base of my penis. I have been tested for any sexually transmitted diseases, and the results were negative, but the doctor said that he was seeing signs of herpes. I had the bumps removed using carbon dioxide laser treatment, and they have come back months later in the same spot. Is this herpes?",
+ "audio_seconds": 19.8,
+ "created_at": "2026-07-06T04:38:34+00:00",
+ "failed": false,
+ "text": "I have a group of very small, painless bumps at the face of my penis. I have been tested for any sexually transmitted diseases, and the results were negative. But the doctor said that he was seeing signs of herpes. I had the bumps removed using carbon dioxide laser treatment, and they have come back months later in a clean spot. Is this herpes?",
+ "seconds": 0.636
+}

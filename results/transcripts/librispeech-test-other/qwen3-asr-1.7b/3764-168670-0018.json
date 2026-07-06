@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168670-0018",
+ "condition": null,
+ "reference": "AND THEN THAT THERE WAS ANOTHER THE EMPTY COFFIN",
+ "audio_seconds": 4.67,
+ "created_at": "2026-07-06T03:30:32+00:00",
+ "failed": false,
+ "text": "And then, that there was another. The empty coffin.",
+ "seconds": 0.15
+}

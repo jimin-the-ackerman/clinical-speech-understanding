@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-142836-0015",
+ "condition": null,
+ "reference": "MARMALADES AND JAMS DIFFER LITTLE FROM EACH OTHER THEY ARE PRESERVES OF A HALF LIQUID CONSISTENCY MADE BY BOILING THE PULP OF FRUITS AND SOMETIMES PART OF THE RINDS WITH SUGAR",
+ "audio_seconds": 9.78,
+ "created_at": "2026-07-05T13:10:42+00:00",
+ "failed": false,
+ "text": "marmalades and jams differ little from each other they are preserves of half-liquid consistency made by boiling the pulp of fruits and sometimes part of the rinds with sugar",
+ "seconds": 0.154
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__648102_1",
+ "condition": "background_noise_40",
+ "reference": "I suffer from lung distress three to four times a day and take pain pills and Xanax to relieve discomfort. However, it gets worse. It is almost impossible to get rid of my thick mucus. I take two saline treatments a day and two vest treatments a day. It helps sometimes, but more often it does not. I take azithromycin for fourteen days at the beginning of the month and ciprofloxacin the following month alternately. Your suggestions would be appreciated.",
+ "audio_seconds": 33.37,
+ "created_at": "2026-07-06T02:51:56+00:00",
+ "failed": false,
+ "text": "I suffer from lung distress 3 to 4 times a day, and take pain pills and Xanax to relieve discomfort. However, it gets worse; it is almost impossible to get rid of my thick mucus. I take 2 saline treatments a day and 2 vest treatments a day. It helps sometimes, but more often it does not. I take azithromycin for 14 days at the beginning of the month, and ciprofloxacin the following month, alternately. Your suggestions would be appreciated.",
+ "seconds": 5.692
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__813928_1",
+ "condition": "background_noise_20",
+ "reference": "Towards the back of my testicles, close to my anus, it stings and is sensitive. I don’t know what I could have possibly done. Today I played basketball and felt fine, but after I went in the pool, about twenty minutes before I got out, my testicles started to ache. What do you think it could possibly be? Was it maybe that the mesh on my swim trunks was constantly rubbing on my genital area?",
+ "audio_seconds": 24.15,
+ "created_at": "2026-07-06T05:18:40+00:00",
+ "failed": false,
+ "text": "Towards the back of my testicles, close to my anus, it stings and is sensitive. I don't know what I could have possibly done. Today I played basketball and felt fine, but after I went the pool, about twenty minutes before I got out, my testicle started to ache. What do you think it could possibly be? Was it maybe that the mesh on my swim trunks was constantly rubbing on my genital area?",
+ "seconds": 0.863
+}

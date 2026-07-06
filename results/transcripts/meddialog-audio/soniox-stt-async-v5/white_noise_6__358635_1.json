@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__358635_1",
+ "condition": "white_noise_6",
+ "reference": "Good day, sir. I am going for in vitro fertilization treatment next month, and my doctor prescribed me some pills this month along with injections so that my body can be ready for in vitro fertilization treatment. One of the tablets is Crisanta. Please advise me if I can have a normal pregnancy if I continue to take this pill, Crisanta, as my doctor advised I cannot have a normal pregnancy because of this pill. Regards, BH.",
+ "audio_seconds": 24.75,
+ "created_at": "2026-07-06T03:09:42+00:00",
+ "failed": false,
+ "text": "Today first: I am going for in vitro fertilization treatment next month, and my doctor prescribed me some pills this month along with injections so that my body can be ready for in vitro fertilization treatment. One of the tablets is Crescenta. Please advise me if I can have a normal pregnancy if I continue to take this pill, Crescenta, as my doctor advised I cannot have a normal pregnancy because of this pill. Regards, GH.",
+ "seconds": 6.069
+}

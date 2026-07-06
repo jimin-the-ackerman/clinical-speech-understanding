@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__644951_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, from your complaints, it seems that you have a spasmodic cough, if you don't have any fever or throat pain. You need to see an Ear, Nose, and Throat specialist to get your throat and chest examined. You need a cough suppressant like codeine with a proper valid prescription and some antihistamine. Honey is good for cough, but your problem is worse than can be controlled with just that.",
+ "audio_seconds": 22.19,
+ "created_at": "2026-07-06T05:37:06+00:00",
+ "failed": false,
+ "text": "Hello. From your complaints, it seems that you have a spasmodic cough. If you don't have any fever or throat pain, you need to see an ear, nose, and throat specialist to get your throat and chest examined. You need a cough suppressant like codeine with a proper valid prescription and some antihistamine. Honey is good for cough, but your problem is worse than can be controlled with just that.",
+ "seconds": 0.823
+}

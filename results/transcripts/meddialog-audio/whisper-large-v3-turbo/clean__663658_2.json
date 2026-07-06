@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__663658_2",
+ "condition": "clean",
+ "reference": "The treatment you are receiving for dust mite allergies may cause a decrease in immunity in allergic patients, making the body unable to tolerate variations greater than twelve degrees above or below the normal temperature. The normal body temperature is thirty-seven degrees Celsius, and any variation that takes the body to twenty-five degrees Celsius below can cause allergies, while forty-nine degrees Celsius above can create problems. There is sometimes associated fungus that increases with sweat. You need to increase your body's immunity. There are immunoglobulin injections that can enhance your body's immunity, with three sets of one injection per week required, to be repeated after specific intervals. The doctor you consult can provide you with more details.",
+ "audio_seconds": 42.84,
+ "created_at": "2026-07-06T04:44:43+00:00",
+ "failed": false,
+ "text": "The treatment you are receiving for dust mite allergies may cause a decrease in immunity in allergic patients, making the body unable to tolerate variations greater than 12 degrees above or below the normal temperature. The normal body temperature is 37 degrees Celsius, and any variation that takes the body to 25 degrees Celsius below can cause allergies, while 49 degrees Celsius above can create problems. There is sometimes associated fungus that increases with sweat. You need to increase your body's immunity. There are immunoglobulin injections that can enhance your body's immunity with three sets of one injection per week required to be repeated after specific intervals. The doctor you consult can provide you with more details.",
+ "seconds": 0.411
+}

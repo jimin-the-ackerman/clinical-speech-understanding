@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0020",
+ "condition": null,
+ "reference": "OH I SHALL NEVER DO THAT REPLIED LESLIE",
+ "audio_seconds": 3.45,
+ "created_at": "2026-07-05T13:08:10+00:00",
+ "failed": false,
+ "text": "\"'Oh, I shall never do that,' replied Leslie.",
+ "seconds": 0.18
+}

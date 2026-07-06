@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-169640-0021",
+ "condition": null,
+ "reference": "ON OUR SIDE WE GAVE THE GENTLEMEN THE FOUR SIXES TWO AT THE NEAREST AND TWO AT THE STERN MOST PROA WHICH WAS STILL NEAR A CABLE'S LENGTH DISTANT",
+ "audio_seconds": 11.13,
+ "created_at": "2026-07-05T12:57:21+00:00",
+ "failed": false,
+ "text": "on our side we gave the gentlemen the four sixes two at the nearest and two at the sternmost proa which was still near a cable's length",
+ "seconds": 0.288
+}

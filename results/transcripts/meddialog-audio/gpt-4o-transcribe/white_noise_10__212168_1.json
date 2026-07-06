@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__212168_1",
+ "condition": "white_noise_10",
+ "reference": "My thirteen-month-old appears to have a breakout of some sort on his scrotum, with little red bumps. He constantly pulls at the area, and it appears very red. I am certain it is itching. We believe he had an allergic reaction to whole milk, which appears to be slowly clearing. What can I put on the scrotum to ease the itching and the pulling he does? He pulled so much that he tore a hole in his diaper.",
+ "audio_seconds": 26.11,
+ "created_at": "2026-07-06T00:45:44+00:00",
+ "failed": false,
+ "text": "Put the ball in the bucket.",
+ "seconds": 0.759
+}

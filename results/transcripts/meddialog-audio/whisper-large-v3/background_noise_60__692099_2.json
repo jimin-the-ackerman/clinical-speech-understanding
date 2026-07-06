@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__692099_2",
+ "condition": "background_noise_60",
+ "reference": "You might need to investigate further. It could be an enlarged lymph node, a lipoma, or it might even be carcinoma. You will need to check for other signs and symptoms of infection or malignancy elsewhere in the body. As far as investigations are concerned, you can start with an ultrasound of the neck. If inconclusive, a computed tomography scan followed by fine needle aspiration cytology and excisional biopsy for confirmation may be necessary.",
+ "audio_seconds": 26.37,
+ "created_at": "2026-07-06T04:23:16+00:00",
+ "failed": false,
+ "text": "You might need to investigate further. It could be an enlarged lymph node, a lymphoma, or it might even be carcinoma. You will need to check for other signs and symptoms of infection or malignancy elsewhere in the body. As far as investigations are concerned, you can start with an ultrasound in the neck. If inconclusive, a computed tomography scan followed by fine needle aspiration psychology and excisional bioponformation may be necessary.",
+ "seconds": 0.789
+}

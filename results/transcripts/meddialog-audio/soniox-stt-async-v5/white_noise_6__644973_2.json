@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__644973_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. I understand your concern. Although it is not possible to completely reverse the changes back to normal, you can use the following topical treatments and then follow up: one. Contractubex cream two. Vitamin C fifteen serum. Mix both in a two:one ratio and apply twice a day for six weeks.",
+ "audio_seconds": 18.43,
+ "created_at": "2026-07-06T03:10:58+00:00",
+ "failed": false,
+ "text": "Hello, I understand your concern. Although it is not possible to completely reverse the changes back to normal, you can use the following topical treatments and then follow up: 1) contact a BEX cream, 2) vitamin C 15 serum, mix both in a 2:1 ratio, and apply twice a day for 6 weeks.",
+ "seconds": 4.828
+}

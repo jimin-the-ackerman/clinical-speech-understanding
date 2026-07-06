@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0020",
+ "condition": null,
+ "reference": "HOW HE GOT THERE WAS NEVER VERY CLEAR TO POLLY BUT THERE HE WAS FLUSHED AND A LITTLE OUT OF BREATH BUT LOOKING SO GLAD TO SEE HER THAT SHE HAD N'T THE HEART TO BE STIFF AND COOL AS SHE HAD FULLY INTENDED TO BE WHEN THEY MET",
+ "audio_seconds": 14.97,
+ "created_at": "2026-07-05T12:58:10+00:00",
+ "failed": false,
+ "text": "how he got there was never very clear to polly but there he was flushed and a little out of breath but looking so glad to see her till she had not the heart to be stiff and cool as she had fully intended to be when they met",
+ "seconds": 0.408
+}

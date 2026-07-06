@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__536802_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, your stomach and back pain are not related. Do not lift weights or bend forward, as it worsens the back pain. Apply hot water fomentation to your back. Also, start core muscle strengthening exercises. For your stomach pain, please visit a doctor.",
+ "audio_seconds": 8.87,
+ "created_at": "2026-07-06T00:44:12+00:00",
+ "failed": false,
+ "text": "Hello. Stomach and back pain are not related. Do not lift weights or bend forward, as it worsens the back pain. Apply hot water fomentation to your back.",
+ "seconds": 0.785
+}

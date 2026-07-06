@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-142836-0019",
+ "condition": null,
+ "reference": "IN SPEAKING OF CONFECTIONARY IT SHOULD BE REMARKED THAT ALL THE VARIOUS PREPARATIONS ABOVE NAMED COME STRICTLY SPEAKING UNDER THAT HEAD FOR THE VARIOUS FRUITS FLOWERS HERBS ROOTS AND JUICES WHICH WHEN BOILED WITH SUGAR WERE FORMERLY EMPLOYED IN PHARMACY AS WELL AS FOR SWEETMEATS WERE CALLED CONFECTIONS FROM THE LATIN WORD CONFICERE TO MAKE UP BUT THE TERM CONFECTIONARY EMBRACES A VERY LARGE CLASS INDEED OF SWEET FOOD MANY KINDS OF WHICH SHOULD NOT BE ATTEMPTED IN THE ORDINARY CUISINE",
+ "audio_seconds": 29.52,
+ "created_at": "2026-07-05T12:59:06+00:00",
+ "failed": false,
+ "text": "in speaking of confectionery it should be remarked that all the various preparations above named come strictly speaking under that head from the various fruits flours herbs roots and juices which when boiled with sugar were formerly employed in pharmacy as well as for sweetmeats were called confections from the latin word confiercer to make up but the term confectionery embraces a very large class indeed of sweet food many kinds of which should not be attempted in the ordinary",
+ "seconds": 0.66
+}

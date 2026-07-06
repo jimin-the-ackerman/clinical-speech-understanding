@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__559450_1",
+ "condition": "background_noise_40",
+ "reference": "An eleven-year-old girl is complaining of squeezing pain in her heart on and off for the past five days. The doctor saw her on day two, examined her, and she had an electrocardiogram, but could find nothing. She previously had a heart scan a few months ago due to complaints of a thumping sensation in her heart. These episodes had been occurring for a couple of years, but they would only last a minute or so and there would be no pain. Now, this squeezing sensation has caused her to cry because of the pain. Should I be satisfied with the family doctor's diagnosis, or should I seek further help?",
+ "audio_seconds": 32.43,
+ "created_at": "2026-07-06T04:19:09+00:00",
+ "failed": false,
+ "text": "an 11 year old girl is complaining of squeezing pain in her heart on and off for the past five days the doctor saw her on day two examined her and she had an electrocardiogram but could find nothing she previously had a heart a few months ago due to complaints of a thumping sensation in her heart these episodes have been occurring for a couple of years but they would only last a minute or so and there would be no pain now this squeezing sensation has caused her to cry because of the pain should i be satisfied with the figure's diagnosis or should i seek further help",
+ "seconds": 0.987
+}

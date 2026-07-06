@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__671971_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, welcome to HCMI. I really appreciate your concern. A fungal infection of the hair could be the cause, or it could be due to age as well. If it is a confirmed fungal infection, then it can be managed with an anti-fungal shampoo like 'selenium.' If this is a geriatric problem, then not much can be done. I hope this information helps.",
+ "audio_seconds": 22.02,
+ "created_at": "2026-07-06T03:07:24+00:00",
+ "failed": false,
+ "text": "Hi, welcome to HEMI. I really appreciate your concern. A fungal infection of the hair could be the cause, or be due to age as well. If it is a confirmed fungal infection, then it can be managed with an antifungal shampoo like Selenium. If this is a geriatric problem, then not much can be done. I hope this information helps.",
+ "seconds": 4.913
+}

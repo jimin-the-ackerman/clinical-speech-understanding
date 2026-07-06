@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__599704_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, my husband is suffering from jaundice. His eyes are yellow, and the color of his urine is also yellow. We are giving him Liv fifty-two and sweet juice, and food without oil. He is not eating food himself but is taking glucose juice. He was previously diagnosed with an enlarged liver, but jaundice was not visible at that time. He suffers from a fever of up to one hundred and three degrees Fahrenheit at night. What should we do, as we are already confused about his condition? He is active but is not taking food himself.",
+ "audio_seconds": 33.28,
+ "created_at": "2026-07-06T05:06:16+00:00",
+ "failed": false,
+ "text": "Hi, my husband is suffering from jaundice. His eyes are yellow, and the color of his urine is also yellow. We are giving him milk, fifty-two and sweet tea, and food without oil. He is not eating food himself, but is too thirsty. He was previously diagnosed with an enlarged liver, but jaundice was not visible at that time. He suffers from a fever of up to one hundred and three degrees Fahrenheit at night. What should we do? We are already confused about his condition. He is active, but is not taking food himself.",
+ "seconds": 1.022
+}

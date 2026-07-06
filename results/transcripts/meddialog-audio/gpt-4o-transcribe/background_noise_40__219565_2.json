@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__219565_2",
+ "condition": "background_noise_40",
+ "reference": "The likelihood of you conceiving is less than five percent due to this incident since you took the pill only fourteen hours after unprotected sex. Ovulation day is usually on the 14th to 15th day of the cycle, but it can happen on any day of the fertile days. The ovulation day can only be predicted by you if you use an ovulation detection kit. Yes, it is possible to get pregnant during any of the fertile days because you do not know the date of ovulation, and even if you know the date of ovulation, unprotected sex up to three-four days before that can lead to conception. I hope this helps.",
+ "audio_seconds": 34.9,
+ "created_at": "2026-07-06T00:42:54+00:00",
+ "failed": false,
+ "text": "The likelihood of you conceiving is less than 5% due to this incident since you took the pill only 14 hours after unprotected sex. Ovulation day is usually on the 14th to 15th day of the cycle, but it can happen on any day of the fertile days. The ovulation day can only be predicted by you if you use an ovulation detection kit. Yes, it is possible to get pregnant during any of the fertile days because you do not know the date of ovulation. And even if you know the date of ovulation, unprotected sex up to 3-4 days before that can lead to conception. I hope this helps.",
+ "seconds": 2.289
+}

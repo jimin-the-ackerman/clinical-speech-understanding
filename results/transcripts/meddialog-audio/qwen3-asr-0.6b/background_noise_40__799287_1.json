@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__799287_1",
+ "condition": "background_noise_40",
+ "reference": "My daughter is three point five years old and has been experiencing nausea and a low-grade fever for the past three days. The vomiting subsided with a dose of five milliliters of Ondem syrup given two days ago, but yesterday she vomited once and has nausea again. Should I use Ondem syrup only for nausea? What should be the dosage?",
+ "audio_seconds": 19.8,
+ "created_at": "2026-07-06T04:56:18+00:00",
+ "failed": false,
+ "text": "My daughter is three point five years old and has been experiencing nausea and a low grade fever for the past three days. The vomiting subsided with a dose of five milliliters of ondemsyrup given two days ago, but yesterday she vomited once and has nausea again. Should I use ondemsyrup only for nausea? What should be the dosage?",
+ "seconds": 0.683
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__382271_1",
+ "condition": "white_noise_10",
+ "reference": "Good evening. I recently had the removal of basal cell carcinoma from my right shoulder. I had internal and external sutures. The scar is painful and raised, and I have stabbing pain intermittently. I now have a painful lump at the base of my skull that is making it hard to sleep. Could this be a swollen lymph node caused by the basal cell removal?",
+ "audio_seconds": 22.95,
+ "created_at": "2026-07-06T04:45:41+00:00",
+ "failed": false,
+ "text": "Good evening. I recently had the removal of baser cell codes that I love in my life today. I had internal and external cancers. The scars came forward and raised, and I had stabbing pain underneath. I now have a painful lump at the base of my store that is making it hard to sleep. Could this be a store that I mentioned called by the baser cell in my life?",
+ "seconds": 0.254
+}

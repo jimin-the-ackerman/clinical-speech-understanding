@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__945964_1",
+ "condition": "background_noise_60",
+ "reference": "Hello, I am seventeen and I have a slight problem. I can't stop masturbating and there is a little piece of skin under my penis. When I pull down the skin, it hurts very badly, and I am also very scared to talk about it to my dad. Can you please give me tips about it?",
+ "audio_seconds": 14.34,
+ "created_at": "2026-07-06T02:56:37+00:00",
+ "failed": false,
+ "text": "Hello, I am 17 and I have a slight problem: my kid's not masturbating, and there's a little piece of skin under my penis. When I pull down the skin, it hurts very badly, and I am also very scared to talk about it with my dad. Can you please give me tips about it?",
+ "seconds": 8.729
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__511612_2",
+ "condition": "clean",
+ "reference": "Hello there. The post-traumatic lump in the temple is mostly due to collected old blood that has not been absorbed. A better diagnosis can be achieved by a non-contrast computed tomography scan of the head.",
+ "audio_seconds": 11.43,
+ "created_at": "2026-07-06T04:26:27+00:00",
+ "failed": false,
+ "text": "Hello there, the post-traumatic lump in the temple is mostly due to collected old blood that has not been absorbed. A better diagnosis can be achieved by a non-contrast computed tomography scan of the head.",
+ "seconds": 0.437
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__712011_2",
+ "condition": "clean",
+ "reference": "Hello. If someone has irregular periods, then calculating the duration of pregnancy from the last date of the menstrual period is not accurate. If the ultrasound is showing six weeks, then that is likely the correct duration of your pregnancy. I would suggest you repeat the scan after a week and also undergo two blood tests for the pregnancy hormone forty-eight hours apart to determine whether the pregnancy is viable or not. This will help you decide what to do next.",
+ "audio_seconds": 26.28,
+ "created_at": "2026-07-06T00:45:20+00:00",
+ "failed": false,
+ "text": "Hello, if someone has irregular periods, then calculating the duration of pregnancy from the last date of the menstrual period is not accurate. If the ultrasound is showing six weeks, then that is likely the correct duration of your pregnancy. I would suggest you repeat the scan after a week and also undergo two blood tests for the pregnancy hormone 48 hours apart to determine whether the pregnancy is viable or not. This will help you decide what to do next.",
+ "seconds": 1.717
+}

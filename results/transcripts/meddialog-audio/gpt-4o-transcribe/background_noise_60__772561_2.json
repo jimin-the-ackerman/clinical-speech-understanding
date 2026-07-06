@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__772561_2",
+ "condition": "background_noise_60",
+ "reference": "Overnight urine can concentrate and form a jelly-like substance in the diaper. If he is otherwise symptom-free and has a clear urine stream, there is no need to worry.",
+ "audio_seconds": 8.79,
+ "created_at": "2026-07-06T00:44:24+00:00",
+ "failed": false,
+ "text": "Overnight urine can concentrate and form a jelly-like substance in the diaper. If he is otherwise symptom-free and has a clear urine stream, there is no need to worry.",
+ "seconds": 0.937
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__819335_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. If possible, please forward a few clear pictures of the bump to help me assist you more precisely.",
+ "audio_seconds": 5.8,
+ "created_at": "2026-07-06T02:49:07+00:00",
+ "failed": false,
+ "text": "Hello. If possible, please forward a few clear pictures of the bump to help me assist you more precisely.",
+ "seconds": 5.019
+}

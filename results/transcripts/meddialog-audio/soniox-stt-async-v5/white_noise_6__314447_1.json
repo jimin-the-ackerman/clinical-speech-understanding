@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__314447_1",
+ "condition": "white_noise_6",
+ "reference": "I just got the results from the magnetic resonance imaging of a lump on the back of my neck. The report states that there is a note made of a hemangioma within the second cervical vertebral body. There is an area of high T2 and high T1 signal intensity seen within the posterior aspect of the neck, within the subcutaneous soft tissues. It measures five point three x one point two x three point one centimeters. This likely represents fat within a lipoma. There are a few septations seen within it. There is mild right foraminal stenosis. My doctor says there is nothing to worry about at this point and wants me to have another magnetic resonance imaging in six months. I am wondering if I should get a second opinion. What do you think?",
+ "audio_seconds": 44.29,
+ "created_at": "2026-07-06T03:09:35+00:00",
+ "failed": false,
+ "text": "I just got the results from the magnetic resonance imaging of a lump on the back of my neck. The report states that there is a note made of a hemangioma within the second cervical vertebral body. There is an area of high T2 and high T1 signal intensity seen within the posterior aspect of the neck, within the subcutaneous soft tissues. It measures 5.3 x 1.2 x 3.1 cm. This likely represents fat within a lipoma. There are a few lesions seen within it. There is mild right foraminal stenosis. My doctor says there is nothing to worry about at this point and wants me to have another magnetic resonance imaging in 6 months. I am wondering if I should get a second opinion. What do you think?",
+ "seconds": 8.916
+}

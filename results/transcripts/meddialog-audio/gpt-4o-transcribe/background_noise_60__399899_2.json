@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__399899_2",
+ "condition": "background_noise_60",
+ "reference": "Is this lump superficial or deep seated? It should be examined. Do you have any other lumps in your body? It may be just a lipoma, which is not a big concern and it is not related to upper arm pain.",
+ "audio_seconds": 11.09,
+ "created_at": "2026-07-06T00:44:03+00:00",
+ "failed": false,
+ "text": "Is this lump superficial or deep-seated? It should be examined. Do you have any other lumps in your body? It may be just a lipoma, which is not a big concern and is not related to upper arm pain.",
+ "seconds": 0.993
+}

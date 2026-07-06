@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__107459_1",
+ "condition": "white_noise_10",
+ "reference": "My husband has been experiencing what he describes as tightness around his chest. This lasts for several minutes before ending, and afterward, he feels very fatigued. Tonight, we noticed the gains around his right shoulder and down the right arm were very noticeable. He is thirty-seven years old.",
+ "audio_seconds": 18.43,
+ "created_at": "2026-07-06T05:04:27+00:00",
+ "failed": false,
+ "text": "My husband has been experiencing what he describes as pain somewhere in his chest. This lasted several minutes before ending, and afterwards he feels very fatigue. Tonight we noticed the veins around his right shoulder and on the right arm were visible. He is thirty-seven years old.",
+ "seconds": 0.511
+}

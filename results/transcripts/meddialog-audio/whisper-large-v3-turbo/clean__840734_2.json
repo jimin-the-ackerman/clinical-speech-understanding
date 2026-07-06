@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__840734_2",
+ "condition": "clean",
+ "reference": "Dear patient, you have sustained blunt trauma to your arm with a contusion. I would advise obtaining X-rays of the involved arm in anteroposterior and lateral views to rule out bony abnormalities. If the results are normal, a fracture can be ruled out. Apply ice packs to the swelling frequently. Start taking a combination of Diclofenac and Serratiopeptidase twice a day for seven days. Keep the limb elevated. This will relieve you of pain and swelling. All the best.",
+ "audio_seconds": 30.81,
+ "created_at": "2026-07-06T04:45:01+00:00",
+ "failed": false,
+ "text": "Dear patient, you have sustained blunt trauma to your arm with a contusion. I would advise obtaining x-rays of the involved arm and antero-posterior or lateral views to rule out bony abnormalities. If the results are normal, a fracture can be ruled out. Apply ice packs to the swelling frequently. Start taking a combination of diclofenac and seriopeptidase twice a day for seven days. Keep the limb elevated. This will relieve you of pain and swelling. All the best.",
+ "seconds": 0.378
+}

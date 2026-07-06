@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__690180_2",
+ "condition": "clean",
+ "reference": "Please don't worry, as this can be due to a local infection and antibiotic treatment can be helpful. Additionally, it can be due to venous congestion, so take some antibiotics and see if the lump decreases or remains the same.",
+ "audio_seconds": 14.34,
+ "created_at": "2026-07-06T04:44:46+00:00",
+ "failed": false,
+ "text": "please don't worry as this can be due to a local infection and antibiotic treatment can be helpful additionally it can be due to venous congestion so take some antibiotics and see if the lump decreases or remain",
+ "seconds": 0.261
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__383062_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, I should be eight weeks pregnant based on my last period dates. Two weeks ago, I went for a scan and there was only a sac. Today, I went for another one and there is now a yolk sac, but I couldn't see a baby. I know my dates could be off, but shouldn't we be seeing a baby by now? How many days after the yolk sac does the baby appear?",
+ "audio_seconds": 21.25,
+ "created_at": "2026-07-06T03:05:58+00:00",
+ "failed": false,
+ "text": "Hi, I should be 8 weeks pregnant based on my last period dates. Two weeks ago I went for a scan and there was only a sack. Today I went for another one and there is now a yolk sack, but I couldn't see a baby. I know my dates could be off, but shouldn't we be seeing a baby by now? How many days after the yolk sack does the baby appear?",
+ "seconds": 7.849
+}

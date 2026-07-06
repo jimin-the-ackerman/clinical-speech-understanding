@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__866816_1",
+ "condition": "white_noise_6",
+ "reference": "Dear Doctor, I am twenty-three years old. My height is five feet seven inches, and my weight is fifty-four kilograms. I want my penis to stay erect for more than five minutes when I am having sexual intercourse with my girlfriend. For that, can I use any medication that has no side effects or will not harm my body in the future? Please suggest the name of a medication that I can normally use.",
+ "audio_seconds": 27.05,
+ "created_at": "2026-07-06T04:39:01+00:00",
+ "failed": false,
+ "text": "dear doctor i am 23 years old my height is 5 feet 7 inches and my weight is 54 kilograms i want my penis to stay erect for more than five minutes when i am having sexual intercourse with my girlfriend that can i use any medication that has no side effects or will not harm my body in the future please suggest the name of a medication that i can normally use",
+ "seconds": 0.601
+}

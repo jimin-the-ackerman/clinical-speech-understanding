@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41169-0009",
+ "condition": null,
+ "reference": "THERE'S NO MEANING IN IT AT ALL",
+ "audio_seconds": 2.44,
+ "created_at": "2026-07-05T13:03:22+00:00",
+ "failed": false,
+ "text": "There is no meaning in it at all.",
+ "seconds": 0.164
+}

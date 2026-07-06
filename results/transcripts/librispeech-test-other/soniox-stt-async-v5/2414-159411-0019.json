@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-159411-0019",
+ "condition": null,
+ "reference": "BUT THE ALLIGATOR SAID WHENEVER I PUT MY NOSE OUT OF THE WATER MEN TORMENT ME AND TRY TO KILL ME",
+ "audio_seconds": 8.46,
+ "created_at": "2026-07-06T00:02:18+00:00",
+ "failed": false,
+ "text": "But the alligator said, \"Whenever I put my nose out of the water, men torment me and try to kill me.\"",
+ "seconds": 4.721
+}

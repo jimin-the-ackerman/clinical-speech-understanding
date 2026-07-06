@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__796101_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, stomach pain is different from back pain. A change of mattress may give rise to back pain, but it is unlikely to cause stomach pain. Try taking pain relievers for a few days, and if there is no improvement, then go for an ultrasound of the whole abdomen.",
+ "audio_seconds": 13.14,
+ "created_at": "2026-07-06T04:42:05+00:00",
+ "failed": false,
+ "text": "Stomach pain is different from back pain. A change of mattress may give rise to back pain, but it is unlikely to cause stomach pain. Try taking pain relievers for a few days, and if there is no improvement, then go for an ultrasound of the whole abdomen.",
+ "seconds": 0.226
+}

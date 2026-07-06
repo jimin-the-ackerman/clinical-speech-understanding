@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__324682_2",
+ "condition": "background_noise_20",
+ "reference": "I think there is a relapse of depression again. You need to check why it happened again. Yes, if antidepressants helped you earlier, they will help you this time too. Visit a psychiatrist soon.",
+ "audio_seconds": 12.37,
+ "created_at": "2026-07-06T04:39:51+00:00",
+ "failed": false,
+ "text": "I think there is a relapse of depression again. You need to check why it happened again. Yes, if antidepressants helped you earlier, they will help you this time too. Visit a psychiatrist soon.",
+ "seconds": 0.214
+}

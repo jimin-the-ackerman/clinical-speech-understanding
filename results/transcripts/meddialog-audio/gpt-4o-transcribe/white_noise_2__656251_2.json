@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__656251_2",
+ "condition": "white_noise_2",
+ "reference": "Hi. The answer to your question is simple. How long can you live in water? The same applies to the HIV virus. How long does the HIV virus survive in the external environment? The answer is a minimum of eight seconds and a maximum of thirty seconds, depending on the environmental temperature. Therefore, in your situation, even if she is infected and there is a virus in her vaginal fluid and then on your underwear, the virus cannot survive in the external environment. Additionally, the virus does not have the capability to breach the skin and enter the body. Hence, the chances of acquiring HIV in the context you described are not valid for transmission in any way. So, there is nothing to worry about.",
+ "audio_seconds": 41.56,
+ "created_at": "2026-07-06T00:46:47+00:00",
+ "failed": false,
+ "text": "はい、現実に発生したかどうか、手の甲についての証言ははっきり分からないとされるんですね。リアクションという意味では、ある程度のリアクションがあったということですか。確かに。ある程度の反応があったというのは、今おっしゃったような意味で反応があったということですね。反応というのは、一方でそういった、どちらのことについてもそういう反応がある。",
+ "seconds": 1.88
+}

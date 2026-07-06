@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24318-0019",
+ "condition": null,
+ "reference": "HE MIGHT NOW HAVE BEEN PERMITTED TO BIND FOREVER TO HIS LIFE THE WOMAN WHO HAD JUST RESCUED HIM FROM THE GREATEST DANGER BUT THE CONFESSION HE MUST MAKE TO HIS FELLOW ARTISTS IN THE PALAESTRA THE FOLLOWING MORNING STILL SEALED HIS LIPS YET IN THIS HOUR HE FELT THAT HE WAS UNITED TO HER AND OUGHT NOT TO CONCEAL WHAT AWAITED HIM SO OBEYING A STRONG IMPULSE HE EXCLAIMED YOU KNOW THAT I LOVE YOU",
+ "audio_seconds": 21.44,
+ "created_at": "2026-07-06T02:30:48+00:00",
+ "failed": false,
+ "text": "He might now have been permitted to bind forever to his life the woman who had just rescued him from the greatest danger, but the confession he must make to his fellow artists in the polyester the following morning still sealed his lips. Yet in this hour he felt that he was united to her, and ought not to conceal what awaited him; so, obeying a strong impulse, he exclaimed, \"You know that I love you.\"",
+ "seconds": 4.855
+}

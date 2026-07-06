@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163399-0030",
+ "condition": null,
+ "reference": "THEN I SAYS TO MYSELF S'POSE TOM SAWYER COMES DOWN ON THAT BOAT",
+ "audio_seconds": 4.62,
+ "created_at": "2026-07-06T03:28:38+00:00",
+ "failed": false,
+ "text": "Then I says to myself, \"S'pose Tom Sawyer comes down on that boat.\"",
+ "seconds": 0.207
+}

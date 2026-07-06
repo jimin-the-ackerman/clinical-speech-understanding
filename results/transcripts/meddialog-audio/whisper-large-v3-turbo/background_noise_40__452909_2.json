@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__452909_2",
+ "condition": "background_noise_40",
+ "reference": "I read your question very carefully and I understand your concern. I would like to ask more questions regarding your situation in order for you to get the best information, but the way you describe it, it might actually be an emergency, even though it is not common in your age group. Do you have a rigid, hard abdomen? Is it a sharp, sudden abdominal pain? Do you have other associated signs and symptoms, such as fever, nausea, or vomiting? Have you had previous stomach problems, such as burning sensation, bloating, or pain? If you answer 'yes' to the questions above, then you should go to the emergency room. Wishing you good health!",
+ "audio_seconds": 39.17,
+ "created_at": "2026-07-06T04:41:35+00:00",
+ "failed": false,
+ "text": "I read your question very carefully, and I understand your concern. I would like to ask more questions regarding your situation in order for you to get the best information. But the way you describe it, it might actually be an emergency, even though it is not common in your age group. Do you have a rigid, hard abdomen? Is it a sharp, sudden abdominal pain? Do you have other associated signs and symptoms, such as fever, nausea, or vomiting? Have you had previous stomach problems, such as burning sensation, bloating, or pain? If you answer yes to the questions above, then you should go to the emergency room. Wishing you good health.",
+ "seconds": 0.42
+}

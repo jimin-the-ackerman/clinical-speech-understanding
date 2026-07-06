@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63240-0026",
+ "condition": null,
+ "reference": "I SHALL BE BACK VERY LATE WE ARE GOING TO A THEATRE PARTY THAT'S WHY WE DINE SO EARLY",
+ "audio_seconds": 5.77,
+ "created_at": "2026-07-05T13:04:43+00:00",
+ "failed": false,
+ "text": "i shall be back very late we are going to a theatre party that's why we dine so early you",
+ "seconds": 0.315
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__351974_1",
+ "condition": "white_noise_2",
+ "reference": "I am a nineteen-year-old girl. I am not very dark, but I am not very fair either. I have dark circles and I want my complexion to be fair. Please suggest some affordable capsules that would make me fair forever with no side effects. My fiancé has a fair complexion, so I feel self-conscious about it. I also want fair, bright, smooth, and glowing skin, please.",
+ "audio_seconds": 20.91,
+ "created_at": "2026-07-06T04:33:09+00:00",
+ "failed": false,
+ "text": "I am a 19-year-old girl. I am not very dark, but I am not very fair either. I have dark circles and I want my complexion to be fair. Please suggest some affordable capsules that would make me fair forever with no side effects. My fiancé has a fair complexion, so I feel self-conscious about it. I also want fair, bright, smooth and glowing skin, please.",
+ "seconds": 0.698
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__812048_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. I hope a minimum of ultrasonography has been performed to rule out an abscess deep in the abdomen, particularly a psoas abscess. An X-ray of the lower spine should also have been taken to check for any destructive changes. Please request these minimum investigations necessary for your diagnosis. Feel free to ask for more if you have any further questions.",
+ "audio_seconds": 20.31,
+ "created_at": "2026-07-06T00:42:34+00:00",
+ "failed": false,
+ "text": "Hello. I hope a minimum of ultrasonography has been performed to rule out an abscess deep in the abdomen, particularly a psoas abscess. An X-ray of the lower spine should also have been taken to check for any destructive changes. Please request these minimum investigations necessary for your diagnosis. Feel free to ask for more if you have any further questions.",
+ "seconds": 1.241
+}

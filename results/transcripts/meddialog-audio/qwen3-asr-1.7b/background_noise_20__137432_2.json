@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__137432_2",
+ "condition": "background_noise_20",
+ "reference": "She might be having pharyngitis. Give her paracetamol, throat soothers like milk and honey, and ask her to do saltwater gargling. If the fever does not settle, it might be a bacterial infection, then she can be started on amoxicillin or azithromycin.",
+ "audio_seconds": 16.13,
+ "created_at": "2026-07-06T05:15:37+00:00",
+ "failed": false,
+ "text": "She might be having pharyngitis. Give her paracetamol, throat soothers like milk and honey, and ask her to do salt water gargling. If the fever does not settle, it might be a bacterial infection. Then she can be started on a moxycillin or azithromycin.",
+ "seconds": 0.621
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__310040_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. I have reviewed your question and understand your concern. The only cause that a lumbar puncture can lead to paraplegia is lumbar epidural hematoma, which is caused by the lumbar puncture. You should immediately have a lumbar magnetic resonance imaging to rule out this eventuality. I hope this helps.",
+ "audio_seconds": 18.77,
+ "created_at": "2026-07-06T00:45:48+00:00",
+ "failed": false,
+ "text": "You're so beautiful.",
+ "seconds": 0.484
+}

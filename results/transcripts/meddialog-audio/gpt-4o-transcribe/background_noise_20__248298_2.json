@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__248298_2",
+ "condition": "background_noise_20",
+ "reference": "In my opinion, your friend is experiencing something more than just schizoid personality disorder. As she has used risperidone for two years and the symptoms are still the same, I recommend a change in therapy under a doctor's supervision, of course. I hope I have been helpful.",
+ "audio_seconds": 16.9,
+ "created_at": "2026-07-06T00:41:58+00:00",
+ "failed": false,
+ "text": "In my opinion, your friend is experiencing something more than just schizoid personality disorder, as she has used risperidone for two years and the symptoms are still the same. I recommend a change in therapy under a doctor's supervision, of course. I hope I have been helpful.",
+ "seconds": 1.427
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__283781_2",
+ "condition": "white_noise_10",
+ "reference": "It may be Irritable Bowel Syndrome. Try mebeverine or Buscopan or loperamide. Get an ultrasound scan done.",
+ "audio_seconds": 10.67,
+ "created_at": "2026-07-06T04:45:36+00:00",
+ "failed": false,
+ "text": "It may be Irritable Vowel Syndrome. Try Mindazone, or Bustropane, or Loperamide. Get an Ultrasound Stand-Up.",
+ "seconds": 0.22
+}

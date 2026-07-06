@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0013",
+ "condition": null,
+ "reference": "SO I ROSE WITHOUT STAY OR DELAY AND KISSED THE KING'S HAND AND ACQUAINTED HIM WITH MY LONGING TO SET OUT WITH THE MERCHANTS FOR THAT I PINED AFTER MY PEOPLE AND MINE OWN LAND",
+ "audio_seconds": 12.47,
+ "created_at": "2026-07-05T13:05:52+00:00",
+ "failed": false,
+ "text": "so i rose without stay or delay and kissed the king's hand and acquainted him with my longing to set out with the merchants for that i pined after my people and mine own land so i rose without delay and acquainted him with my longing to set out with the merchants for that i pined after my people and mine own land",
+ "seconds": 0.558
+}

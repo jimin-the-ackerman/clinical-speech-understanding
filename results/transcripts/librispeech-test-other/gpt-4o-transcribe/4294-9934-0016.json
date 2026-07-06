@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-9934-0016",
+ "condition": null,
+ "reference": "THAT WILL BE ENOUGH",
+ "audio_seconds": 1.88,
+ "created_at": "2026-07-05T23:55:56+00:00",
+ "failed": false,
+ "text": "That will be enough.",
+ "seconds": 0.485
+}

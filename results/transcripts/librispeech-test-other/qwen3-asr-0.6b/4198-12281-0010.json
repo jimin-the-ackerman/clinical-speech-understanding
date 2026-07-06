@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12281-0010",
+ "condition": null,
+ "reference": "TO SOME WITH A SMART SOUSE ON THE EPIGASTER HE WOULD MAKE THEIR MIDRIFF SWAG THEN REDOUBLING THE BLOW GAVE THEM SUCH A HOMEPUSH ON THE NAVEL THAT HE MADE THEIR PUDDINGS TO GUSH OUT",
+ "audio_seconds": 15.79,
+ "created_at": "2026-07-06T03:19:26+00:00",
+ "failed": false,
+ "text": "To some, with a smart sous on the epigaster, he would make their midriff swag, then redoubling the blow, gave them such a home push on the navel, that he made their puddings to gush out.",
+ "seconds": 0.497
+}

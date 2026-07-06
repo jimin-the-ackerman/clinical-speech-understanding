@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0021",
+ "condition": null,
+ "reference": "I AIN'T IT YER HAVE I LIKE WHAT YER AUNT DO",
+ "audio_seconds": 2.62,
+ "created_at": "2026-07-06T00:00:27+00:00",
+ "failed": false,
+ "text": "I add it, yeah, have I? Like, what you're on to?",
+ "seconds": 4.52
+}

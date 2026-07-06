@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__581532_2",
+ "condition": "white_noise_6",
+ "reference": "You need to visit a nearby specialist to get yourself assessed. Nerve entrapment may be a possibility. Try to strengthen your trapezius, biceps, triceps, deltoid, and forearm muscles. It will help ease your pain. For more details, visit a nearby specialist or you can contact me through this forum.",
+ "audio_seconds": 18.01,
+ "created_at": "2026-07-06T05:40:41+00:00",
+ "failed": false,
+ "text": "You need to visit a nearby specialist to get yourself assessed. Nerve entrapment may be a possibility. Try to strengthen your trapezius, biceps, triceps, deltoid, and forearm muscles. It will help ease your pain. For more details, visit a nearby specialist, or you can contact me through this forum.",
+ "seconds": 0.655
+}

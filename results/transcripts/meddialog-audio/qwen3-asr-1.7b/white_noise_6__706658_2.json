@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__706658_2",
+ "condition": "white_noise_6",
+ "reference": "Your feelings are normal. However, it is not blood rushing to your head but to your legs when you get up. The fast heart rate is trying to restore low blood pressure in a few seconds. You do not need any cardiac testing; if you do, these will be normal. Premature ventricular contractions during exercise are abnormal, but your tests are normal. If they are frequent, you may get a Holter monitor.",
+ "audio_seconds": 25.26,
+ "created_at": "2026-07-06T05:41:15+00:00",
+ "failed": false,
+ "text": "Your feelings are normal. However, it is not blood rushing to your head but to your legs when you get up. The fast heart rate is trying to restore low blood pressure in a few seconds. You do not need any cardiac testing. If you do, these will be normal. Premature ventricular contractions during exercise are abnormal, but your tests are normal. If they are frequent, you may get a Holter monitor.",
+ "seconds": 0.823
+}

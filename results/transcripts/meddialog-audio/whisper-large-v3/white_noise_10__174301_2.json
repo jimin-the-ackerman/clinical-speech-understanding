@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__174301_2",
+ "condition": "white_noise_10",
+ "reference": "General anesthesia should not have much effect after three weeks of surgery. You can take paracetamol for symptomatic relief; it is safe for kidney patients. If the problem persists, please consult a neurologist.",
+ "audio_seconds": 11.35,
+ "created_at": "2026-07-06T04:28:56+00:00",
+ "failed": false,
+ "text": "General anesthesia does not have much effect after three weeks of surgery. You can take paracetamol for symptomatic relief. It is safe to communicate. If the problem persists, please consult a neurologist.",
+ "seconds": 0.442
+}

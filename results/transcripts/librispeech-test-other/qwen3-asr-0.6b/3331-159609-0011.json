@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0011",
+ "condition": null,
+ "reference": "NONE WERE NEEDED HER TELLTALE FACE ANSWERED FOR HER AS WELL AS THE IMPULSE WHICH MADE HER HIDE HER HEAD IN THE SOFA CUSHION LIKE A FOOLISH OSTRICH WHEN THE HUNTERS ARE AFTER IT",
+ "audio_seconds": 11.55,
+ "created_at": "2026-07-06T03:17:17+00:00",
+ "failed": false,
+ "text": "None were needed. Her tilted face answered for her, as well as the impulse which made her hide her head in the sofa cushion, like a foolish ostrich when the hunters are after it.",
+ "seconds": 0.394
+}

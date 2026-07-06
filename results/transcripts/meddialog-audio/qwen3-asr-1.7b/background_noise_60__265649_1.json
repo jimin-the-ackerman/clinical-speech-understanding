@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__265649_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, well my question is, I think that I have a cavity and I am super nervous that I do not want to go to a dentist to get it fixed because I know the pain. So either way, I have to go to get it fixed. My question is, how do you repair a cavity, and is there any way my dentist can give me something that can completely prevent me from feeling the pain?",
+ "audio_seconds": 23.89,
+ "created_at": "2026-07-06T05:24:07+00:00",
+ "failed": false,
+ "text": "Hi. Well, my question is, I think that I have a cavity, and I am super nervous that I do not want to go to a dentist to get it fixed because I know the pain. So either way, I have to go to get it fixed. My question is, how do you repair a cavity, and is there any way my dentist can give me something that can completely prevent me from feeling the pain?",
+ "seconds": 0.816
+}

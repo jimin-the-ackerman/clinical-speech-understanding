@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__857997_2",
+ "condition": "background_noise_40",
+ "reference": "At a young age, a wedge compression fracture of the eleventh vertebra with ankle pain is concerning. First, please rule out a calcaneus fracture in the foot, which is very commonly missed in this kind of injury. If you are able to walk without neurological deficits, you are lucky because, due to the severity of the injury, sometimes patients develop paraplegia. Treatment includes a good amount of rest for the first month and avoiding weight lifting for three months, using analgesics as required, and avoiding jerky travel. You will be alright in a couple of months. Wish you a speedy recovery. Have a good day.",
+ "audio_seconds": 33.79,
+ "created_at": "2026-07-06T05:22:52+00:00",
+ "failed": false,
+ "text": "At a young age, a wedge compression fracture of the vertebra with acute pain is concerning. Please rule out a calcaneus fracture in the foot, which is very commonly missed in this kind of injury. If you are able to walk without neurological deficits, you are lucky, because due to the severity of the injury, sometimes patients develop paraplegia. Treatment includes a good amount of rest for the first month, and avoiding weight lifting for three months, using analgesics as required, and avoiding jerky travel. You will be all right in a couple of months. Wish you a speedy recovery. Have a good day.",
+ "seconds": 1.186
+}

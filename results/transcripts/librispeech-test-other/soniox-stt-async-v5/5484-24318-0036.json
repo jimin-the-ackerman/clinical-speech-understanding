@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24318-0036",
+ "condition": null,
+ "reference": "EVEN WHILE HE BELIEVED HIMSELF TO BE THE CREATOR OF THE DEMETER HE HAD BEEN SERIOUSLY TROUBLED BY THE PRAISE OF SO MANY CRITICS BECAUSE IT HAD EXPOSED HIM TO THE SUSPICION OF HAVING BECOME FAITHLESS TO HIS ART AND HIS NATURE",
+ "audio_seconds": 11.97,
+ "created_at": "2026-07-06T02:30:59+00:00",
+ "failed": false,
+ "text": "Even while he believed himself to be the creator of the Demeter, he had been seriously troubled by the praise of so many critics because it had exposed him to the suspicion of having become faithless to his art and his nature.",
+ "seconds": 4.609
+}

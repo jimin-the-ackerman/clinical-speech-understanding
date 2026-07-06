@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0028",
+ "condition": null,
+ "reference": "BLESSED IF I EVER SEE SUCH A NIPPER HE SAID OVER AND OVER AGAIN",
+ "audio_seconds": 4.77,
+ "created_at": "2026-07-06T00:00:55+00:00",
+ "failed": false,
+ "text": "Blessed have forever seas at a nipper, he said, over and over again.",
+ "seconds": 4.57
+}

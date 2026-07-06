@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__445705_2",
+ "condition": "background_noise_20",
+ "reference": "I do not know your age to comment on whether it could be the onset of arthritis. However, there are no blood reports either to assess any variation in rheumatoid arthritis, uric acid, or erythrocyte sedimentation rate, etc.",
+ "audio_seconds": 14.25,
+ "created_at": "2026-07-06T04:14:42+00:00",
+ "failed": false,
+ "text": "I do not know your age to comment on whether it could be the onset of arthritis. However, there are no blood reports either to assess any variation in rheumatoid arthritis, uric acid or erythrocyte sedimentation rate, etc.",
+ "seconds": 0.504
+}

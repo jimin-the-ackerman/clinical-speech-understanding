@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__866151_2",
+ "condition": "background_noise_20",
+ "reference": "It is possible that the particular group of muscles is twitching continuously. The basic problem could be in the spine or the nerve may be getting irritated in its course. A neurologist's opinion will help you to get a diagnosis and further investigations and treatment can be pursued accordingly.",
+ "audio_seconds": 16.38,
+ "created_at": "2026-07-06T04:52:49+00:00",
+ "failed": false,
+ "text": "It is possible that the particular group of muscles is twitching continuously. The basic problem could be in the spine, or the nerve may be getting irritated in its course. A neurologist opinion will help you to get a diagnosis, and further investigations and treatment can be pursued accordingly.",
+ "seconds": 0.529
+}

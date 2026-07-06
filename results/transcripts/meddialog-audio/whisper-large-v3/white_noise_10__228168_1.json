@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__228168_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, recently I have been having trouble with the head of my penis. Basically, I keep getting a buildup of smegma daily, and when I pull back the foreskin, I experience a burning sensation and the skin looks really tight. The excess foreskin, when pulled back around the bottom of the head, causes discomfort. I have regular sexual intercourse with my girlfriend, but I have stopped for now for obvious reasons. I'm confident she does not have a sexually transmitted infection.",
+ "audio_seconds": 26.97,
+ "created_at": "2026-07-06T04:29:12+00:00",
+ "failed": false,
+ "text": "Hello. Recently, I've been having trouble with the head of my teeth. Basically, I keep getting a buildup of smegmentase, and when I pull back the foreskin, I experience a burning sensation and the skin looks really tight. The excess foreskin, when pulled back around the bottom of the head, causes discomfort. I have regular sexual intercourse with my girlfriend, but I have stopped for now for obvious reasons. I'm confident she does not have a sexually transmitted infection.",
+ "seconds": 0.829
+}

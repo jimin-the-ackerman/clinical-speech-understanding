@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__262924_2",
+ "condition": "clean",
+ "reference": "Some epigastric hernia might cause such a condition. It worsens if intra-abdominal pressure is increased, as in the case of exercises. You need an ultrasound of the upper abdomen for confirmation. All the best!",
+ "audio_seconds": 13.14,
+ "created_at": "2026-07-06T04:44:06+00:00",
+ "failed": false,
+ "text": "Some epigastric hernia might cause such a condition. It worsens if intra-abdominal pressure is increased, as in the case of exercises. You need an ultrasound of the upper abdomen for confirmation. All the best!",
+ "seconds": 0.218
+}

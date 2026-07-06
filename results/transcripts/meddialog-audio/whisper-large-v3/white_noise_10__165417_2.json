@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__165417_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. This condition is more related to pediatric cardiology rather than adult cardiology. However, I think that if the stenosis is minimal, then it should only be observed at this stage with regular yearly echocardiograms. If the stenosis progresses and becomes of severe degree, then this can be managed through balloon dilatation in the first instance for young age groups, and only if this fails, can she undergo surgery. I wish your daughter a good recovery and a happy life.",
+ "audio_seconds": 27.65,
+ "created_at": "2026-07-06T04:28:53+00:00",
+ "failed": false,
+ "text": "Hello. This condition is more related to pediatric cardiology rather than adult cardiology. However, I think that if the stenosis is minimal, then it should only be observed at this stage in its regular yearly echocardiogram. If the stenosis progresses and becomes a severe debris, then this can be managed through balloon dilatation in the first instance for young age people. And only if it fails, can you undergo surgery. I wish your daughter a good recovery and a happy life.",
+ "seconds": 0.835
+}

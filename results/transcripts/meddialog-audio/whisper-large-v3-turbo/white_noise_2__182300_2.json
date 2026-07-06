@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__182300_2",
+ "condition": "white_noise_2",
+ "reference": "It is normal to experience déjà vu. Its frequency is increased in temporal lobe epilepsy. I suggest you get an electroencephalogram for screening.",
+ "audio_seconds": 9.39,
+ "created_at": "2026-07-06T04:46:51+00:00",
+ "failed": false,
+ "text": "It is normal to experience déjà vu. Its frequency is increased in temporal lobe epilepsy. I suggest you get an electroencephalogram for screening.",
+ "seconds": 0.182
+}

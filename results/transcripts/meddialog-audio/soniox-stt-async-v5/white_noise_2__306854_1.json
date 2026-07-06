@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__306854_1",
+ "condition": "white_noise_2",
+ "reference": "I struck the front lower part of my leg right on the bone against a chunk of ice. There was barely any bruising, which is really odd for me, as I bruise very easily. It has been over a week since the incident, and there is still a hard lump where I hit it. It hurts slightly when I press on it. The lump is very noticeable when I run my fingers over it. Additionally, today I hit my leg again in the same spot while breaking up a dog fight, and it really hurt for a while afterward. Should I go see my doctor?",
+ "audio_seconds": 30.72,
+ "created_at": "2026-07-06T03:05:44+00:00",
+ "failed": false,
+ "text": "I struck the front lower part of my leg right on the bone against a chunk of ice. There was barely any bruising, which is really odd for me as I bruise very easily. It has been over a week since the incident, and there is still a hard lump where I hit it. It hurts slightly when I press on it. The lump is very noticeable when I run my fingers over it. Additionally, today I hit my leg again in the same spot while breaking up a dog fight, and it really hurt for a while afterwards. Should I go see my doctor?",
+ "seconds": 8.667
+}

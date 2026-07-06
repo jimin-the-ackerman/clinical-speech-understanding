@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__314178_1",
+ "condition": "white_noise_2",
+ "reference": "I had a ligament sprain in my right thumb in November two thousand and thirteen, lost my grip, and I was shown to an orthopedic surgeon. He told me to use a thumb spica splint and Chymoral Forte tablets; it healed, but it took a month. After that, it relapsed in April two thousand and fourteen, and I have difficulty working with my right hand. I do not have strength and have pain in the carpometacarpal joint of my thumb. Please suggest treatment that will help in curing it completely. Also, is physiotherapy required? My height is five feet, weight is sixty kilograms, and I am female.",
+ "audio_seconds": 37.89,
+ "created_at": "2026-07-06T03:05:48+00:00",
+ "failed": false,
+ "text": "I had a ligament sprain in my right thumb in November 2013, lost my grip, and I was shown to an orthopedic surgeon. He told me to use a thumb spica splint and Kenwral 4 tablets. It healed, but it took a month. After that, it relapsed in April 2014, and I have difficulty working with my right hand. I do not have strength, and I have pain in the carpal-mid-carpal joint of my thumb. Please suggest treatment that will help in curing it completely. Also, is physiotherapy required? My height is 5 feet, weight is 60 kg, and I am female.",
+ "seconds": 8.735
+}

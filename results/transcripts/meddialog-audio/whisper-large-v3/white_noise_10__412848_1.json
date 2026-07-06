@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__412848_1",
+ "condition": "white_noise_10",
+ "reference": "My daughter was diagnosed with bacterial pneumonia and was hospitalized for nine days. She is now in home care and was released after the fever was gone for forty-eight hours. After five days of home care, she developed a low-grade fever. I took her to the doctor who did an X-ray, which was positive as the pneumonia looked like it was clearing up. She is still on Levofloxacin on day eight. She is very tired. Why is she experiencing this fever? By the way, the fever comes every twenty-four hours and is about thirty-seven point eight degrees Celsius.",
+ "audio_seconds": 33.37,
+ "created_at": "2026-07-06T04:29:43+00:00",
+ "failed": false,
+ "text": "My daughter was diagnosed with bacterial malignancy and was hospitalized for 9 days. She is now in home care and was released after the fever was gone for 38 hours. After 5 days of home care, she's about to run into a fever. I took her to the bathroom and did an x-ray. It was positive, as it mainly looked like it was coming out. She was still on the go for oxygen on day 8. She was very tired. I'm sure it's only from the fever. By the way, the fever comes every 15 hours and drops 37.8% each day.",
+ "seconds": 1.049
+}

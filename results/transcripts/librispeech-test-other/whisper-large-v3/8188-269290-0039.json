@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0039",
+ "condition": null,
+ "reference": "MARJORIE AND EILEEN WERE CLOSE TO HER",
+ "audio_seconds": 2.15,
+ "created_at": "2026-07-05T13:08:14+00:00",
+ "failed": false,
+ "text": "Marjorie and Eileen were close to her.",
+ "seconds": 0.176
+}

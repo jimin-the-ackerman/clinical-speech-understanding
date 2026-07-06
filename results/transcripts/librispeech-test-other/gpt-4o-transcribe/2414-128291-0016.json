@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128291-0016",
+ "condition": null,
+ "reference": "THOU KNOWEST IT THYSELF BETTER EVEN THAN I",
+ "audio_seconds": 4.48,
+ "created_at": "2026-07-05T23:54:03+00:00",
+ "failed": false,
+ "text": "Thou doest it thyself, better even than I.",
+ "seconds": 0.803
+}

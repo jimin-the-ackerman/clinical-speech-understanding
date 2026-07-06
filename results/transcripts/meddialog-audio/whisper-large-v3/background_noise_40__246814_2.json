@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__246814_2",
+ "condition": "background_noise_40",
+ "reference": "It might be some type of allergy, so you need to see a dermatologist or an allergy specialist. He can identify the cause and treat it accordingly.",
+ "audio_seconds": 8.79,
+ "created_at": "2026-07-06T04:17:51+00:00",
+ "failed": false,
+ "text": "It might be some type of allergy so you need to see a dermatologist or an allergy specialist. He can identify the cause and treat it accordingly.",
+ "seconds": 0.363
+}

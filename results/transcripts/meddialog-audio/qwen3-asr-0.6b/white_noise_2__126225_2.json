@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__126225_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, welcome to the clinic. Most back pain occurs due to degenerative diseases of the spine, and sometimes this may last long. Medical therapy could be an option to alleviate the pain. If you have not undergone magnetic resonance imaging, then it is necessary to get the MRI done. Please continue with the physiotherapy. Regarding medication: take ibuprofen four hundred milligrams three times a day and acetaminophen five hundred milligrams three times a day. I hope this information helps.",
+ "audio_seconds": 27.9,
+ "created_at": "2026-07-06T05:08:09+00:00",
+ "failed": false,
+ "text": "Hello, welcome to the clinic. Most back pain occurs due to degenerative diseases of the spine, and sometimes this may last long. Medical therapy could be an option to alleviate the pain. If you have not undergone magnetic resonance imaging, then it is necessary to get the MRI done. Please continue with the physiotherapy. Regarding medication, take ibuprofen four hundred milligrams three times a day, and acetaminophen five hundred milligrams three times a day. I hope this information helps.",
+ "seconds": 0.908
+}

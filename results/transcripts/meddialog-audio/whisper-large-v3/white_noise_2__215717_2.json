@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__215717_2",
+ "condition": "white_noise_2",
+ "reference": "It might be due to injury to connective tissues and muscles along the edge of the shin bone becoming inflamed. Pain usually goes away with rest. It also helps to apply ice, take anti-inflammatories, and avoid anything that causes pain. Once pain lessens, stretch and strengthen your lower leg. To prevent future problems, wear supportive shoes and avoid running on hard surfaces.",
+ "audio_seconds": 24.83,
+ "created_at": "2026-07-06T04:32:42+00:00",
+ "failed": false,
+ "text": "it might be due to injury to connective tissues and muscles along the edge of the shin bone becoming inflamed pain usually goes away with rest it also helps to apply ice take anti-inflammatories and avoid anything that causes pain once pain lessens stretch and strengthen your lower leg to prevent future problems wear supportive shoes and avoid running on hot surfaces",
+ "seconds": 0.653
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__820767_1",
+ "condition": "clean",
+ "reference": "Hello, my husband has been experiencing back pain for the past week, right below the neck, in the center. It has progressively gotten worse, and now his left shoulder has an uncontrollable twitch. He now has an elevated heart rate and feels that something is wrong. What do you think could be the problem?",
+ "audio_seconds": 17.15,
+ "created_at": "2026-07-06T02:59:36+00:00",
+ "failed": false,
+ "text": "Hello. My husband has been experiencing back pain for the past week, right below the neck, in the center. It has progressively gotten worse, and now his left shoulder has an uncontrollable twitch. He now has an elevated heart rate and feels that something is wrong. What do you think could be the problem?",
+ "seconds": 5.498
+}

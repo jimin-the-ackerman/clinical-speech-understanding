@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2330-0035",
+ "condition": null,
+ "reference": "THE WARDERS HAVE A PRIVATE BAND OF THEIR OWN SAID THE GOVERNOR BUT OF COURSE I COULDN'T ALLOW THE MEN THEMSELVES",
+ "audio_seconds": 7.79,
+ "created_at": "2026-07-05T13:06:11+00:00",
+ "failed": false,
+ "text": "the warders have a private band of their own said the governor but of course i couldn't allow the men themselves you",
+ "seconds": 0.327
+}

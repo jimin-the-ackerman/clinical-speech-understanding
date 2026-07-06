@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__461551_1",
+ "condition": "clean",
+ "reference": "I have a Boxer cross that answered the door with raised hackles, and something happened to her. She fell down on her side, arched her back as if stretching, shook a little, and passed out, urinating on the floor. I waited until she started to come around, and then I carried her to a more comfortable place. This is the first time she has done anything like this. She is twelve years old.",
+ "audio_seconds": 24.15,
+ "created_at": "2026-07-06T00:45:03+00:00",
+ "failed": false,
+ "text": "I have a boxer cross that answered the door with raised hackles, and something happened to her. She fell down on her side, arched her back as if stretching, shook a little, and passed out, urinating on the floor. I waited until she started to come around, and then I carried her to a more comfortable place. This is the first time she has done anything like this. She is 12 years old.",
+ "seconds": 1.382
+}

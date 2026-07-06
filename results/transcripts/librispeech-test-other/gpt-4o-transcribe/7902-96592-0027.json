@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0027",
+ "condition": null,
+ "reference": "NOTHING BUT THE CHIMNEY PRESENTED ITSELF",
+ "audio_seconds": 2.56,
+ "created_at": "2026-07-05T23:57:53+00:00",
+ "failed": false,
+ "text": "Nothing but the chimney presented itself.",
+ "seconds": 1.263
+}

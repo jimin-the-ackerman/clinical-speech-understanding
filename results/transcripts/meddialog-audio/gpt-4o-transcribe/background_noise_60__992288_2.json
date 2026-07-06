@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__992288_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. You should do a home pregnancy test or get beta human chorionic gonadotropin serum levels to confirm pregnancy. The latter is more reliable.",
+ "audio_seconds": 8.53,
+ "created_at": "2026-07-06T00:44:40+00:00",
+ "failed": false,
+ "text": "Hello! Do a home pregnancy test or get beta-hCG serum levels to confirm pregnancy. The latter is more reliable.",
+ "seconds": 0.857
+}

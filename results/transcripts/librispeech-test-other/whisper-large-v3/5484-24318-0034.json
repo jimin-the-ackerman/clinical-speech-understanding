@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24318-0034",
+ "condition": null,
+ "reference": "THE EGYPTIAN OBEYED AND HIS MASTER CROSSED THE WIDE SPACE STREWN WITH SAND AND APPROACHED THE STAGE WHICH HAD BEEN ERECTED FOR THE FESTAL PERFORMANCES EVEN HAD HIS EYES RETAINED THE POWER OF SIGHT HIS BLOOD WAS COURSING SO WILDLY THROUGH HIS VEINS THAT HE MIGHT PERHAPS HAVE BEEN UNABLE TO DISTINGUISH THE STATUES AROUND HIM AND THE THOUSANDS OF SPECTATORS WHO CROWDED CLOSELY TOGETHER RICHLY GARLANDED THEIR CHEEKS GLOWING WITH ENTHUSIASM SURROUNDED THE ARENA HERMON",
+ "audio_seconds": 28.04,
+ "created_at": "2026-07-05T13:03:48+00:00",
+ "failed": false,
+ "text": "the egyptian obeyed and his master crossed the wide space strewn with sand and approached the stage which had been erected for the festal performances even had his eyes retained the power of sight his blood was coursing so wildly through his veins that he might perhaps have been unable to distinguish the statues around him and the thousands of spectators who crowded closely together richly garlanded their cheeks glowing with enthusiasm surrounded the arena hermon",
+ "seconds": 0.627
+}

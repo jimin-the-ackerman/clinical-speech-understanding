@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__329437_1",
+ "condition": "clean",
+ "reference": "I am pregnant and I have a dermoid cyst on my left ovary. I was also told that there are some spots on the right side. I want to terminate my pregnancy, but I need to know if I remove the cyst, what are my chances of getting pregnant again. I am twenty years old, so I am very nervous and scared.",
+ "audio_seconds": 17.32,
+ "created_at": "2026-07-06T05:28:04+00:00",
+ "failed": false,
+ "text": "I am pregnant, and I have a dermoid cyst on my left ovary. I was also told that there are some spots on the right side. I want to terminate my pregnancy, but I need to know if I remove the cyst, what are my chances of getting pregnant again? I am 20 years old, so I am very nervous and scared.",
+ "seconds": 0.695
+}

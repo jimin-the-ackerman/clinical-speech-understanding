@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__235215_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, my nephew has a neurological problem. He is just one and a half years old and still cannot walk or stand. For the past three months, he has not been able to hold any toy with his left hand. Additionally, since he was very young, he has been experiencing frequent fevers for no apparent reason and also seizures. Please kindly suggest the correct symptoms and how we can treat this disorder.",
+ "audio_seconds": 25.17,
+ "created_at": "2026-07-06T02:53:43+00:00",
+ "failed": false,
+ "text": "Tai, my nephew has a neurological problem. He is just 1.5 years old and still cannot walk or stand. For the past 3 months, he has not been able to hold any toy with his left hand. Additionally, since he was very young, he has been experiencing frequent fevers for no apparent reason, and also seizures. Please kindly suggest the correct symptoms and how we can treat this disorder.",
+ "seconds": 4.642
+}

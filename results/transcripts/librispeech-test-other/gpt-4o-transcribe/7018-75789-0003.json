@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0003",
+ "condition": null,
+ "reference": "I ROWED MY CONVEYANCE INTO THE PLACE WHICH WAS INTENSELY DARK AND THE CURRENT CARRIED THE RAFT WITH IT DOWN THE UNDERGROUND CHANNEL",
+ "audio_seconds": 8.69,
+ "created_at": "2026-07-05T23:57:33+00:00",
+ "failed": false,
+ "text": "I rode my conveyance into the place which was intensely dark, and the current carried the raft with it down the underground channel.",
+ "seconds": 0.811
+}

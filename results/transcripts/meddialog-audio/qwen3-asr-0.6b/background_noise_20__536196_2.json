@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__536196_2",
+ "condition": "background_noise_20",
+ "reference": "Hi. If there is severe pain and if you are feeling like you might be pregnant, you should undergo an urgent ultrasonography of the abdomen to rule out tubal pregnancy and consult with your gynecologist.",
+ "audio_seconds": 11.69,
+ "created_at": "2026-07-06T04:51:22+00:00",
+ "failed": false,
+ "text": "Hi, if there is severe pain and if you are feeling like you might be pregnant, you should undergo an urgent ultrasound of the abdomen to rule out tubal pregnancy and consult with your gynecologist.",
+ "seconds": 0.397
+}

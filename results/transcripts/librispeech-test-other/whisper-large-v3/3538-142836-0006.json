@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-142836-0006",
+ "condition": null,
+ "reference": "IT IS CONSIDERED TO BE SUFFICIENTLY BOILED WHEN SOME TAKEN UP IN A SPOON POURS OUT LIKE OIL",
+ "audio_seconds": 5.27,
+ "created_at": "2026-07-05T12:59:03+00:00",
+ "failed": false,
+ "text": "it is considered to be sufficiently boiled when some taken up in a spoon pours out like oil",
+ "seconds": 0.221
+}

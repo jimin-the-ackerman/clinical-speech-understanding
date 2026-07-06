@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-182399-0005",
+ "condition": null,
+ "reference": "NOW OL MISTAH BUZZARD IS NATURALLY GOOD NATURED AND ACCOMMODATING AND WHEN PETER BEGGED SO HARD HE JUST COULDN'T FIND IT IN HIS HEART TO REFUSE",
+ "audio_seconds": 11.79,
+ "created_at": "2026-07-05T13:00:27+00:00",
+ "failed": false,
+ "text": "now all mr buzzard is naturally good-natured and accommodating and when peter begged so hard he just couldn't find it in his heart to refuse",
+ "seconds": 0.306
+}

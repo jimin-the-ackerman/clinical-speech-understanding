@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__490941_1",
+ "condition": "white_noise_10",
+ "reference": "I was hit by a cricket ball on my right testicle. Initially, the pain was on the right side of my lower abdomen. However, when I checked at home, there was severe swelling on my right testicle. The swelling has reduced, but the size of the testicle is still very large. I cannot sleep on either side and cannot bend for a long time, as I feel pain in some nerve around the right side of my testicle.",
+ "audio_seconds": 20.57,
+ "created_at": "2026-07-06T00:45:53+00:00",
+ "failed": false,
+ "text": "If you decide to buy another one, the second car will be sold to the first.",
+ "seconds": 0.665
+}

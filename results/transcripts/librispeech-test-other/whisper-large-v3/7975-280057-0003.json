@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280057-0003",
+ "condition": null,
+ "reference": "I CANNOT REMEMBER WHEN I DID NOT KNOW HOW TO SHOOT",
+ "audio_seconds": 2.79,
+ "created_at": "2026-07-05T13:06:56+00:00",
+ "failed": false,
+ "text": "I cannot remember when I did not know how to shoot.",
+ "seconds": 0.172
+}

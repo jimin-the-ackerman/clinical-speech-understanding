@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__535673_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. What you are describing is most probably ventricular premature beats. You need to undergo a Holter monitor, which will monitor your irregular heartbeats and determine the burden of such beats and what type of beats they are. This will guide us on whether to put you on medication or not.",
+ "audio_seconds": 16.73,
+ "created_at": "2026-07-06T04:40:09+00:00",
+ "failed": false,
+ "text": "Hello, what you are describing is most probably ventricular or premature beats. You need to undergo a Holter monitor, which will monitor your irregular heart beats and determine the burden of such beats and what type of beats they are. This will guide us on whether to put you on medication or not.",
+ "seconds": 0.242
+}

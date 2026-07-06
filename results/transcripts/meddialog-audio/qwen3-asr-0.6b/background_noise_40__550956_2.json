@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__550956_2",
+ "condition": "background_noise_40",
+ "reference": "Any kind of stress in the body can lead to injury. I think there must be a lot of pressure on the back muscles. This is normal after exertion. You can take a muscle relaxant, and things will return to normal. Even if you work for long hours, try to do some body stretches; it helps to relax the muscles.",
+ "audio_seconds": 16.55,
+ "created_at": "2026-07-06T04:55:25+00:00",
+ "failed": false,
+ "text": "Any kind of stress in the body can lead to injury. I think there must be a lot of pressure on the back muscles. This is normal after exertion. You can take a muscle relaxant, and things will return to normal. Even if you work for long hours, try to do some body stretches. It helps relax the muscles.",
+ "seconds": 0.629
+}

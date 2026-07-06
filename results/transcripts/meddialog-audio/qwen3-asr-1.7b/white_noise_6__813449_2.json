@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__813449_2",
+ "condition": "white_noise_6",
+ "reference": "The pain in your lower abdomen radiating to your testicles after masturbation could most commonly be due to a muscle sprain during the activity. The pain should be a dull ache, cramp-like, or vague, and it tends to be relieved by resting. This is a common condition. To alleviate the discomfort, rest by lying on your back with your legs flexed at the hips; this will relax the abdominal muscles and reduce the pain. It should subside within three days without medication. If the pain persists beyond that, consult a surgeon.",
+ "audio_seconds": 34.47,
+ "created_at": "2026-07-06T05:41:46+00:00",
+ "failed": false,
+ "text": "The pain in your lower abdomen, radiating to your testicles after masturbation, could most commonly be due to a muscle strain during the activity. The pain should be a dull ache, cramp-like, or vague, and it tends to be relieved by resting. This is a common condition. To alleviate the discomfort, rest by lying on your back with your legs flexed at the hips. This will relax the abdominal muscles and reduce the pain. It should subside within three days without medication. If the pain persists for nights, consult a surgeon.",
+ "seconds": 1.025
+}

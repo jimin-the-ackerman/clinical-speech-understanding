@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__494900_1",
+ "condition": "white_noise_6",
+ "reference": "Hello, my husband is twenty-eight years old and has been under some stress lately. Today he had a random weird moment where he took a breath and said that when he breathed, his chest developed this tingling pain. He said it has been happening off and on for a couple of years, and I was wondering what it could be.",
+ "audio_seconds": 19.11,
+ "created_at": "2026-07-06T00:47:20+00:00",
+ "failed": false,
+ "text": "However, while often putting it before and becoming a professional, without the ability to read words, when you could quit and set the booth in text and other media, he said it happened over a month for a couple of years and old laundry books failed.",
+ "seconds": 0.988
+}

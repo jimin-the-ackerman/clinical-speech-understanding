@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__696707_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, please have him evaluated by a child specialist nearby for the high fever and make a video recording of his behavior to see if something is wrong.",
+ "audio_seconds": 8.11,
+ "created_at": "2026-07-06T00:47:30+00:00",
+ "failed": false,
+ "text": "",
+ "seconds": 0.309
+}

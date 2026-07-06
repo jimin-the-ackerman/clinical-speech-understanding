@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2340-0013",
+ "condition": null,
+ "reference": "OH WE HAVEN'T SHOWN YOU THE SILVER WEDDING PRESENTS SAID MISSUS PETER SUDDENLY AS THOUGH STRUCK BY A BRILLIANT IDEA FOR ENTERTAINING THE GUEST HERE THEY ALL ARE",
+ "audio_seconds": 12.31,
+ "created_at": "2026-07-05T13:13:44+00:00",
+ "failed": false,
+ "text": "oh we haven't shown you the silver wedding presents said mrs peter suddenly as though struck by a brilliant idea for entertaining the guest here they all are",
+ "seconds": 0.124
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__726543_1",
+ "condition": "background_noise_60",
+ "reference": "My daughter is covered by PeachCare. She has a problem with obsessive-compulsive disorder and delusional issues. She washes her hands and her feet thirty to fifty times a day, lies constantly, sees things that are not really happening, and believes there are bugs crawling on her. I am looking for help that my insurance will cover, but not just someone who is going to give her medication and leave her on her own. I believe this needs to be more in-depth care. What do you think?",
+ "audio_seconds": 27.39,
+ "created_at": "2026-07-06T04:23:21+00:00",
+ "failed": false,
+ "text": "My daughter is covered by peach care. She has a problem with obsessive-compulsive disorder and delusional issues. She washes her hands and her feet 30 to 50 times a day, lies constantly, sees things that are not really happening, and believes there are bugs crawling on her. I am looking for help that my insurance will cover, but not just someone who is going to give her medication and leave her on her own. I believe this needs to be more in-depth care. What do you think?",
+ "seconds": 0.883
+}

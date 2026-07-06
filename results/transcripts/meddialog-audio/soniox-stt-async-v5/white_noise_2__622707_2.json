@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__622707_2",
+ "condition": "white_noise_2",
+ "reference": "You have chronic telogen effluvium with an acute episode superimposed since two months due to crash dieting and irregular dietary intake. I would advise you to take a regular nutritious diet with proteins and micronutrients, with lots of fruits and vegetables. Also, do take iron and calcium supplements. You can use sodium laureth sulfate shampoo with conditioner for gentle cleansing and wash your hair every other day. Do not use harsh treatments like hot combing and straightening. You can also use minoxidil two% lotion locally at bedtime. A haircut has no impact on hair fall, which needs to be treated.",
+ "audio_seconds": 36.35,
+ "created_at": "2026-07-06T03:07:07+00:00",
+ "failed": false,
+ "text": "You have chronic telogenophiluria with an acute episode superimposed since 2 months due to crash dieting and irregular dietary intake. I would advise you to take a regular nutritious diet with proteins and micronutrients, with lots of fruits and vegetables. Also, do take iron and calcium supplements. You can use sodium laureth sulfate shampoo with conditioner for gentle cleansing, and wash your hair every other day. Do not use harsh treatments like hot combing and straightening. You can also use minoxidil 2% lotion locally at bedtime. A haircut has no impact on hair fall, which needs to be treated.",
+ "seconds": 6.125
+}

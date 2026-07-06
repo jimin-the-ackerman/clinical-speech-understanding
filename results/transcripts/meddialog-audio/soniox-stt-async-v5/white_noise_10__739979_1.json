@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__739979_1",
+ "condition": "white_noise_10",
+ "reference": "My son is five and a half years old. He has had a fever for the last twenty-four hours, which stays between one hundred and one hundred and one degrees Fahrenheit. The doctor started him on Paracetamol. He has been given an eight milliliter dose of Paracetamol every six hours, but the fever didn't subside. He was active and didn't complain of much body pain, but he has been coughing intermittently. Should we start antibiotics now? The doctor has prescribed Taxim fifty milligrams.",
+ "audio_seconds": 32.77,
+ "created_at": "2026-07-06T03:03:29+00:00",
+ "failed": false,
+ "text": "My son is 5 and a half years old; he has had a fever for the last 24 hours, which stays between 100 and 101°F. The doctor started him on paracetamol; he has been given an 8 ml dose of paracetamol every 6 hours, but the fever didn't subside. He was active and didn't complain of much body pain, but he has been coughing intermittently. Should we start antibiotics now? The doctor has prescribed Pepsin 50 mg.",
+ "seconds": 8.274
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163389-0003",
+ "condition": null,
+ "reference": "SHERBURN RUN HIS EYE SLOW ALONG THE CROWD AND WHEREVER IT STRUCK THE PEOPLE TRIED A LITTLE TO OUT GAZE HIM BUT THEY COULDN'T THEY DROPPED THEIR EYES AND LOOKED SNEAKY",
+ "audio_seconds": 11.66,
+ "created_at": "2026-07-05T13:09:52+00:00",
+ "failed": false,
+ "text": "sherburne run his eye slow along the crowd and wherever it struck the people tried a little to outgaze him but they couldn't they dropped their eyes and looked sneaky",
+ "seconds": 0.128
+}

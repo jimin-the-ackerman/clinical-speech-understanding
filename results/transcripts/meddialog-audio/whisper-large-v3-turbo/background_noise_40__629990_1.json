@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__629990_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, good evening. My dad, who is in his seventies, is diabetic and is hospitalized with liver and kidney failure. He also had an amputation of four lower limbs. Can anyone please update me if there is any point in shifting him to a bigger hospital? The current doctors taking care of him have said the chances are just five percent.",
+ "audio_seconds": 20.22,
+ "created_at": "2026-07-06T04:41:51+00:00",
+ "failed": false,
+ "text": "Hi, good evening. My dad, who is in his 70s, is diabetic and is hospitalized with liver and kidney failure. He also had an amputation of four lower limbs. Can anyone please update me if there is any point in shifting him to a bigger hospital? The current doctors taking care of him have said the chances are just 5%.",
+ "seconds": 0.297
+}

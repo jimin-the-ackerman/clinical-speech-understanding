@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0030",
+ "condition": null,
+ "reference": "THE RESULT WAS NOT VERY SATISFACTORY BUT SUFFICIENTLY SO TO MAKE HIM ESSAY THE BAR OF THE WINDOW ONCE MORE PRODUCING A GRATING EAR ASSAILING SOUND AS HE FOUND THAT NOW HE DID MAKE A LITTLE IMPRESSION SO LITTLE THOUGH THAT THE PROBABILITY WAS IF HE KEPT ON WORKING WELL FOR TWENTY FOUR HOURS HE WOULD NOT GET THROUGH",
+ "audio_seconds": 15.63,
+ "created_at": "2026-07-06T02:36:57+00:00",
+ "failed": false,
+ "text": "The result was not very satisfactory, but sufficiently so to make him essay the bar of the window once more, producing a grating, ear-asshelling sound, as he found that now he did make a little impression—so little, though, that the probability was, if he kept on working well for 24 hours, he would not get through.",
+ "seconds": 5.128
+}

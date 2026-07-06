@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-15444-0012",
+ "condition": null,
+ "reference": "THE TUBE SHOULD BE EXAMINED TO SEE THAT IT IS NOT BROKEN OR CRACKED AS ACCIDENTS HAVE HAPPENED FROM NEGLECTING THIS PRECAUTION",
+ "audio_seconds": 7.87,
+ "created_at": "2026-07-05T12:55:57+00:00",
+ "failed": false,
+ "text": "The tube should be examined to see that it is not broken or cracked, as accidents have happened from neglecting this precaution.",
+ "seconds": 0.275
+}

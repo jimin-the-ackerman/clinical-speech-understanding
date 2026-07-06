@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__283781_2",
+ "condition": "white_noise_10",
+ "reference": "It may be Irritable Bowel Syndrome. Try mebeverine or Buscopan or loperamide. Get an ultrasound scan done.",
+ "audio_seconds": 10.67,
+ "created_at": "2026-07-06T03:01:18+00:00",
+ "failed": false,
+ "text": "It may be irritable bowel syndrome. Try Nebivolin, or Buscopan, or loperamide; get an ultrasound scan done.",
+ "seconds": 8.041
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0027",
+ "condition": null,
+ "reference": "SO HAVING MADE UP MY MIND I PACKED UP IN BALES A QUANTITY OF PRECIOUS STUFFS SUITED FOR SEA TRADE AND REPAIRED WITH THEM FROM BAGHDAD CITY TO BASSORAH TOWN WHERE I FOUND A SHIP READY FOR SEA AND IN HER A COMPANY OF CONSIDERABLE MERCHANTS",
+ "audio_seconds": 16.74,
+ "created_at": "2026-07-05T13:05:59+00:00",
+ "failed": false,
+ "text": "so having made up my mind i packed up in bales a quantity of precious stuffs suited for sea trade and repaired with them from bagdad city to bassorah town where i found a ship ready for sea and in her a company of considerable merchants",
+ "seconds": 0.415
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41168-0009",
+ "condition": null,
+ "reference": "HE FORGOT AS SERGEY IVANOVITCH EXPLAINED TO HIM AFTERWARDS THIS SYLLOGISM THAT IT WAS NECESSARY FOR THE PUBLIC GOOD TO GET RID OF THE MARSHAL OF THE PROVINCE THAT TO GET RID OF THE MARSHAL IT WAS NECESSARY TO HAVE A MAJORITY OF VOTES THAT TO GET A MAJORITY OF VOTES IT WAS NECESSARY TO SECURE FLEROV'S RIGHT TO VOTE THAT TO SECURE THE RECOGNITION OF FLEROV'S RIGHT TO VOTE THEY MUST DECIDE ON THE INTERPRETATION TO BE PUT ON THE ACT",
+ "audio_seconds": 29.6,
+ "created_at": "2026-07-06T03:21:18+00:00",
+ "failed": false,
+ "text": "He forgot, as Sir Jevonovitch explained to him afterwards, this syllogism: that it was necessary for the public good to get rid of the marshal of the province; that to get rid of the marshal, it was necessary to have a majority of votes; that to get a majority of votes, it was necessary to secure Flirov's right to vote; that to secure the recognition of Flirov's right to vote, they must decide on the interpretation to be put on the act.",
+ "seconds": 0.982
+}

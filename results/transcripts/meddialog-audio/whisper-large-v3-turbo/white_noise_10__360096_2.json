@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__360096_2",
+ "condition": "white_noise_10",
+ "reference": "It could be a simple swelling containing fat tissue, a sebaceous cyst, or an enlarged lymph node. Enlargement of a lymph node usually occurs following infection or fever in its nearby region or due to hidden cancer in the body. However, to confirm the swelling that you have mentioned, we should conduct a sonographic examination first, along with routine blood investigations, to determine the further treatment plan.",
+ "audio_seconds": 25.17,
+ "created_at": "2026-07-06T04:45:39+00:00",
+ "failed": false,
+ "text": "It could be a simple swelling containing fat tissue, a sebaceous cyst, or an enlarged lymph node. Enlargement of a lymph node usually occurs following infection or fever in its nearby region or due to hidden cancer in the body. However, to confirm the swelling that you have mentioned, you should conduct a sonographic examination first, along with routine blood investigations to determine the further treatment plan.",
+ "seconds": 0.268
+}

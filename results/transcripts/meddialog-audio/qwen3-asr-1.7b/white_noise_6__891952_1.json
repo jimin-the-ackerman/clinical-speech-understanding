@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__891952_1",
+ "condition": "white_noise_6",
+ "reference": "I had a ten millimeter stone that was lodged just above the bladder removed with a laser lithotripsy done on Wednesday. Last night and today I am having swelling of my legs and feet, plus low abdominal pain. There was also a stent placed during the procedure, and that is scheduled to be removed in one week.",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T05:42:12+00:00",
+ "failed": false,
+ "text": "I had a 10 millimeter stone that was lodged just above the bladder removed with a laser lithotripsy done on Wednesday. Last night and today, I am having swelling of my legs and feet, plus low abdominal pain. There was also a stent placed during the procedure, and that is scheduled to be removed in one.",
+ "seconds": 0.691
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0032",
+ "condition": null,
+ "reference": "BEFORE REACHING HIS DESTINATION HE WAS TOLD THAT LUCAS DE BEAUMANOIR THE GRAND MASTER OF THE ORDER OF THE TEMPLARS WAS THEN ON VISIT TO THE PRECEPTORY",
+ "audio_seconds": 9.64,
+ "created_at": "2026-07-05T13:15:03+00:00",
+ "failed": false,
+ "text": "before reaching his destination he was told that lucas the beaumanoir the grand master of the order of the templars was then on visit to their preceptory",
+ "seconds": 0.129
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163389-0010",
+ "condition": null,
+ "reference": "THE CROWD WASHED BACK SUDDEN AND THEN BROKE ALL APART AND WENT TEARING OFF EVERY WHICH WAY AND BUCK HARKNESS HE HEELED IT AFTER THEM LOOKING TOLERABLE CHEAP",
+ "audio_seconds": 12.09,
+ "created_at": "2026-07-05T12:57:24+00:00",
+ "failed": false,
+ "text": "the crowd washed back sudden and then broke all apart and went tearing off every which way and buck harkness he heeled it after them looking tolerable cheap",
+ "seconds": 0.293
+}

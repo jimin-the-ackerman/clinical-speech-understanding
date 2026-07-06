@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__433451_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, this has been diagnosed as 'abyantara shotha' in Ayurveda. Please undergo virechana treatment, and you will also be able to reduce your weight. Contact +nine hundred and nineteen billion, nine hundred and sixty-four million, two hundred and seventy-eight thousand, eight hundred.",
+ "audio_seconds": 20.39,
+ "created_at": "2026-07-06T02:47:30+00:00",
+ "failed": false,
+ "text": "Hello, this has been diagnosed as \"Abhiyantara Shobha\" in Ayurveda. Please undergo Viratchana treatment, and you will also be able to reduce your weight. Contact: 919964278800.",
+ "seconds": 4.881
+}

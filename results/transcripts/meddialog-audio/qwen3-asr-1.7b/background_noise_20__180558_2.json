@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__180558_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, you are not pregnant because you had sexual intercourse during your safe period. You also took emergency contraception. Do not worry; pregnancy is not possible. Your period should arrive within seven days.",
+ "audio_seconds": 13.74,
+ "created_at": "2026-07-06T05:15:50+00:00",
+ "failed": false,
+ "text": "Hello, not pregnant because you had sexual intercourse during your safe period. You also took emergency contraception. Do not worry, pregnancy is not possible. Your period should arrive within seven days.",
+ "seconds": 0.378
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__719677_1",
+ "condition": "background_noise_60",
+ "reference": "Hello doctor, my fiancée took an emergency contraceptive pill because, after sexual intercourse, I touched and wiped off sperm and touched inside the cervix. We are concerned that she might get pregnant after touching inside. Please tell me what will happen to her after taking the pill.",
+ "audio_seconds": 17.07,
+ "created_at": "2026-07-06T04:43:22+00:00",
+ "failed": false,
+ "text": "Hello, Doctor. My fiancé took an emergency contraceptive pill because, after sexual intercourse, I touched and wiped off sperm and touched inside the cervix. We are concerned that she might get pregnant after touching inside. Please tell me what will happen to her after pill.",
+ "seconds": 0.232
+}

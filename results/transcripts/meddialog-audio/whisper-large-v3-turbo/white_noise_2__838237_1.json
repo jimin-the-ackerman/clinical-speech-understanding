@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__838237_1",
+ "condition": "white_noise_2",
+ "reference": "I recently had a spiral computed tomography scan to check on a nodule they found three months ago. He said it was still the same size as four months ago, but he saw some haziness in my lung. He thinks that it may be due to radiation I had a few months back for breast cancer. Should I be alarmed by this news?",
+ "audio_seconds": 17.49,
+ "created_at": "2026-07-06T04:47:55+00:00",
+ "failed": false,
+ "text": "I recently had a spiral computed tomography scan to check on a nodule they found three months ago. He said it was still the same size as four months ago, but he saw some haziness in my lung. He thinks that it may be due to radiation I had a few months back for breast cancer. Should I be alarmed by this news?",
+ "seconds": 0.247
+}

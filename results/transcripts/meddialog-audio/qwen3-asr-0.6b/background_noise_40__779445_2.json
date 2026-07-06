@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__779445_2",
+ "condition": "background_noise_40",
+ "reference": "In the presence of right side pain, a shrunken gallbladder means chronic cholecystitis. It is also imperative that you undergo laparoscopic gallbladder removal surgery as early as possible.",
+ "audio_seconds": 13.65,
+ "created_at": "2026-07-06T04:56:12+00:00",
+ "failed": false,
+ "text": "In the presence of right-sided pain, a shrunken gallbladder means chronic cholecystitis. It is also imperative that you undergo laparoscopic gallbladder removal surgery as early as possible.",
+ "seconds": 0.419
+}

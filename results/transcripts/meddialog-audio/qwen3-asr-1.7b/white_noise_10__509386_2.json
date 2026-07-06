@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__509386_2",
+ "condition": "white_noise_10",
+ "reference": "I read your question carefully, and your concern is understandable. While your friend's herniated disc can explain the weakness and numbness in the legs, if the disc in question is in the cervical spine, it does not explain the speech issue. It is not related to the spinal issues; the explanation lies elsewhere, as the brain areas and nerves responsible for speech function are at a higher level than the spinal cord. So your friend needs to have more tests for some other type of involvement, either a brain issue, which should be revealed through a brain magnetic resonance imaging, or a peripheral nerve issue involving the cranial nerves. Tests like lumbar puncture and nerve conduction studies with electromyography might be necessary to investigate that. I hope I have been of help.",
+ "audio_seconds": 46.25,
+ "created_at": "2026-07-06T05:32:39+00:00",
+ "failed": false,
+ "text": "I would request him carefully, and his concern is understandable. While your signs are related to this, can explain the weakness and numbness in the legs. The positioning question is understood as well, but does not explain the fever. This is not related to the spinal cord. The explanation lies elsewhere, as the brain areas and nerve responsible for this function are at a higher level than the spinal cord. So, your friend needs to have an test for some other type of involvement, either a brain issue, which could reveal a brain that had a broken aneurysm, or a peripheral nerve that is involved in the same way. Tests like lumbar puncture and nerve conduction studies to get electromyography might be necessary to investigate that. I hope I have been of help.",
+ "seconds": 1.449
+}

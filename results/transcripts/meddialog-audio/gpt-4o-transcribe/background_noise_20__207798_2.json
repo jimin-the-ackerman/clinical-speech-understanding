@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__207798_2",
+ "condition": "background_noise_20",
+ "reference": "Your symptoms are most probably due to a spasm in the paraspinal muscles. These are muscles that lie on either side of your spine. They must have become spasmodic when you were dusting the rugs. I would suggest that you take complete bed rest for a period of one to two days until the pain subsides. However, you can attend to your daily needs and keep it to a minimum of essential activity. You can also find some relief by using hot water compresses over that area for a period of twenty minutes every three hours. Since the pain relievers aren't helping, you should get prescription medications for a period of two weeks, for which you will need to see your physician.",
+ "audio_seconds": 38.74,
+ "created_at": "2026-07-06T00:41:56+00:00",
+ "failed": false,
+ "text": "Your symptoms are most probably due to a spasm in the paraspinal muscles. These are muscles that lie on either side of your spine. They must have become spasmodic when you were dusting the rugs. I would suggest that you take complete bed rest for a period of one to two days until the pain subsides. However, you can attend to your daily needs and keep it to a minimum of essential activity. You can also find some relief by using hot water compresses over that area for a period of 20 minutes every three hours. Since the pain relievers aren't helping, you should get prescription medications for a period of two weeks, for which you will need to see your physician.",
+ "seconds": 2.387
+}

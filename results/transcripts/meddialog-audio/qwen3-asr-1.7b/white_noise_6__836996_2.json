@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__836996_2",
+ "condition": "white_noise_6",
+ "reference": "The long duration suggests a probably non-cancerous lump, but because of the long duration, there is a chance of cancer conversion. Surgery is the choice. First, you should undergo an examination to determine whether the lump has communication with the abdomen. The lump may be a simple tumor, like a lipoma, but because of its large size, it is causing pressure on the surrounding area, which is causing you problems. To prevent complications, the lump should be removed.",
+ "audio_seconds": 28.16,
+ "created_at": "2026-07-06T05:41:54+00:00",
+ "failed": false,
+ "text": "The long duration suggests a probably non-cancerous lump, but with the long duration, there is a chance of cancer conversion. Surgery is the choice. First, you should undergo an examination to determine whether the lump has communication with the abdomen. The lump may be a simple tumor, like a lipoma, but because of its large size, it is causing pressure on the surrounding area, which is causing problems. To prevent complications, the lump should be removed.",
+ "seconds": 0.87
+}

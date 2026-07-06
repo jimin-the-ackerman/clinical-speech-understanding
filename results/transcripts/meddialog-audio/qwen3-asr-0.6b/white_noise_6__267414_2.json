@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__267414_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, your pain is most probably due to a pinched nerve. However, the cause of the nerve compression needs to be evaluated by performing a magnetic resonance imaging scan of your lower back. If it is extremely painful to even move, you need to discuss it with your spine specialist, as it could be a vertebral compression fracture. This can be easily treated when under the care of a good surgeon. Therefore, I urge you to see a spine surgeon and have it examined.",
+ "audio_seconds": 24.15,
+ "created_at": "2026-07-06T05:12:17+00:00",
+ "failed": false,
+ "text": "Hello, your pain is most probably due to a pinched nerve. However, the nerve compression needs to be evaluated by performing a magnetic resonance imaging scan of your lower back. If it is extremely painful to even move, you need to discuss it with your spine specialist, as it could be a vertebral compression fracture. This can be easily treated when under the care of a good surgeon. Therefore, you need to see a spine surgeon and have it examined.",
+ "seconds": 0.825
+}

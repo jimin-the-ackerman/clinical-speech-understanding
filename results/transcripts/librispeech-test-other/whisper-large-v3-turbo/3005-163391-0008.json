@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163391-0008",
+ "condition": null,
+ "reference": "HE ASKED THE KING WHERE HE WAS GOING AND THE KING TOLD HIM HE'D COME DOWN THE RIVER AND LANDED AT THE OTHER VILLAGE THIS MORNING AND NOW HE WAS GOING UP A FEW MILE TO SEE AN OLD FRIEND ON A FARM UP THERE THE YOUNG FELLOW SAYS",
+ "audio_seconds": 13.27,
+ "created_at": "2026-07-05T13:09:59+00:00",
+ "failed": false,
+ "text": "he asked the king where he was going and the king told him he'd come down the river and landed at the other village this morning and now he was going up a few miles to see an old friend on a farm up there the young fellow says",
+ "seconds": 0.149
+}

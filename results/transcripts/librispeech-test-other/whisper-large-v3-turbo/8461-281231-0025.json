@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0025",
+ "condition": null,
+ "reference": "DE BRACY BOWED LOW AND IN SILENCE THREW HIMSELF UPON A HORSE AND GALLOPED OFF THROUGH THE WOOD",
+ "audio_seconds": 6.99,
+ "created_at": "2026-07-05T13:15:02+00:00",
+ "failed": false,
+ "text": "the bracy bowed low and in silence threw himself upon a horse and galloped off through the wood",
+ "seconds": 0.118
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__220096_2",
+ "condition": "white_noise_2",
+ "reference": "Dear friend, statins, which you are taking, can cause elevation in liver enzymes. I really don't see any point in getting a magnetic resonance imaging scan at this point in time. You should get a complete liver function test and an ultrasound of your abdomen. Review with us; your statin dose may have to be modified. Stay healthy.",
+ "audio_seconds": 19.54,
+ "created_at": "2026-07-06T00:46:21+00:00",
+ "failed": false,
+ "text": "Your friends, gathered for surety, did not elevation in the long time.",
+ "seconds": 0.831
+}

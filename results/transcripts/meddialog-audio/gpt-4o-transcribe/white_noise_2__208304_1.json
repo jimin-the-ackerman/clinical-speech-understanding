@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__208304_1",
+ "condition": "white_noise_2",
+ "reference": "My dad is in a lot of pain, mostly back pain, from prostate cancer that has now spread to his bones. He started Abiraterone Acetate five days ago. He has trouble moving around and getting comfortable. My question, I guess, is, is there a chance that Abiraterone Acetate will help at this point?",
+ "audio_seconds": 17.75,
+ "created_at": "2026-07-06T00:46:21+00:00",
+ "failed": false,
+ "text": "My dad is in a lot of pain, mostly back pain from prostate cancer that has now spread to his bones. He started abiraterone acetate five days ago. He has trouble moving around and getting comfortable. My question, I guess, is, is there a chance that abiraterone acetate will help with that?",
+ "seconds": 1.49
+}

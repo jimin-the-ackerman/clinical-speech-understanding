@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__489967_1",
+ "condition": "background_noise_20",
+ "reference": "Hi Doctor, my son is four years old. He was on a milk diet until he was three years old. His eight teeth have turned brown. When we went to the doctor, he suggested cleaning and filling for six teeth, but for two teeth, he suggested root canal treatment. My son has never complained about pain or swelling. Do we really need to proceed with root canal treatment?",
+ "audio_seconds": 21.25,
+ "created_at": "2026-07-06T00:42:13+00:00",
+ "failed": false,
+ "text": "Hi doctor, my son is four years old. He was on a milk diet until he was three years old. His eight teeth have turned brown. When we went to the doctor, he suggested cleaning and filling for six teeth, but for two teeth, he suggested root canal treatment. My son has never complained about pain or swelling. Do we really need to proceed with root canal treatment?",
+ "seconds": 1.293
+}

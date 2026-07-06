@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__384263_1",
+ "condition": "clean",
+ "reference": "I was packing my bag for a trip, folding clothes, and suddenly I experienced severe back pain. It was terrible pain, and I couldn't move. I somehow lay down on the floor and waited for a while. I have now managed to get onto the bed and am lying down. It is severe pain and a punishing feeling. What do I do?",
+ "audio_seconds": 22.02,
+ "created_at": "2026-07-06T02:57:54+00:00",
+ "failed": false,
+ "text": "I was packing my bag for a trip, folding clothes, and suddenly I experienced severe back pain. It was terrible pain, and I couldn't move. I somehow lay down on the floor and waited for a while. I have now managed to get onto the bed and I'm lying down. It is severe pain and a punishing feeling. What do I do?",
+ "seconds": 4.852
+}

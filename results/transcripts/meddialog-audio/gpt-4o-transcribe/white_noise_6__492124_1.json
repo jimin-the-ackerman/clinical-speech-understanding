@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__492124_1",
+ "condition": "white_noise_6",
+ "reference": "Hello, my husband and I are trying to conceive our second child. We are both healthy, other than him smoking. I still breastfeed my son five hours a day, but I only get my period every three months. Today is the fourteenth day after the first day of my last period. We made love unprotected, and I also elevated my legs to increase the chances of getting pregnant, but I am concerned about the three-month interval. What are my chances of being pregnant?",
+ "audio_seconds": 26.28,
+ "created_at": "2026-07-06T00:47:20+00:00",
+ "failed": false,
+ "text": "You know, when you're in a particular public policy space, public policy discussion, that seems to have a lot of agreement between the parties, but maybe there's some differences at the edges, that becomes a space where you can work together on, you know, an issue that people care about and that can get, you know, gain traction.",
+ "seconds": 1.274
+}

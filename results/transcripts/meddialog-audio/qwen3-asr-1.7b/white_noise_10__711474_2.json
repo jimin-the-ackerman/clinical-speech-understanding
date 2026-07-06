@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__711474_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, shortness of breath with tingling and weakness for the past seven days. As you mentioned, you have had a stressful job. It may be because of anemia, excess stress, insomnia, etc. You can take symptomatic treatment. If the problem persists, then see your doctor and undergo all routine investigations first and then seek treatment.",
+ "audio_seconds": 21.67,
+ "created_at": "2026-07-06T05:33:28+00:00",
+ "failed": false,
+ "text": "Hello, shortness of breath with tumors and weakness for the past seven days. As you mentioned, you have had a stressful job. It may be because of the media, excessive stress, insomnia, etc. You can take symptomatic relief. If the problem persists, then see your doctor to undergo all routine investigations first, and then seek treatment.",
+ "seconds": 0.668
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__633590_1",
+ "condition": "white_noise_2",
+ "reference": "I was pulling heavy furniture yesterday. This morning, my lower abdomen was hurting. I pressed down; I think it was my right ovary. I have had this before from moving furniture. I had been feeling good, but now I have started to bloat. Could it be a pulled muscle?",
+ "audio_seconds": 18.26,
+ "created_at": "2026-07-06T04:34:30+00:00",
+ "failed": false,
+ "text": "I was pulling heavy furniture yesterday. This morning, my lower abdomen was hurting. I pressed down, I think it was my right ovary. I have had this before from moving furniture. I had been feeling good, but now I am starting to bloat. Could it be a pulled muscle?",
+ "seconds": 0.557
+}

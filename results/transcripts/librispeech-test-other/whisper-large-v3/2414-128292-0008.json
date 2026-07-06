@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128292-0008",
+ "condition": null,
+ "reference": "ALSO METHINKETH THAT AFTER ALL IT HATH LONGER LEGS THAN MINE",
+ "audio_seconds": 5.85,
+ "created_at": "2026-07-05T12:56:48+00:00",
+ "failed": false,
+ "text": "also methink it that after all it hath longer less than mine",
+ "seconds": 0.195
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__987025_2",
+ "condition": "background_noise_20",
+ "reference": "Rest from sporting activities such as running, swimming, cycling, and walking quickly. Try stretching your lower limbs by bending the leg over the thigh and bringing your heels next to your buttocks.",
+ "audio_seconds": 11.78,
+ "created_at": "2026-07-06T02:49:40+00:00",
+ "failed": false,
+ "text": "Rest from sporting activities such as running, swimming, cycling, and walking quickly; try stretching your lower limbs by bending the leg over the thigh and bringing your heels next to your buttocks.",
+ "seconds": 5.053
+}

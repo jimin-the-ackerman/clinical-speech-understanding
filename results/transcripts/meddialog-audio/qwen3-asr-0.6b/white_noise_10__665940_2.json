@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__665940_2",
+ "condition": "white_noise_10",
+ "reference": "Dear patient, you have a hematoma over your eye post-trauma that has partially resolved. There is nothing to worry about, as it will resolve over time. If in doubt, a local ultrasound of the swelling will confirm the diagnosis. Taking Chymoral Forte twice a day before meals will help in the early reduction of swelling.",
+ "audio_seconds": 20.31,
+ "created_at": "2026-07-06T05:06:37+00:00",
+ "failed": false,
+ "text": "Be patient. You have a hematoma over your eye post trauma that has partially resolved. There is nothing to worry about as it will resolve over time. If in doubt, a local ultrasound of the swelling will confirm the diagnosis. Taking tymol forte twice a day before meals will help in the early reduction of swelling.",
+ "seconds": 0.6
+}

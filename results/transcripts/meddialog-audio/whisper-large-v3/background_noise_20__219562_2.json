@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__219562_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, your heel pain is due to an irritated structure in the foot and could be related to a bursae or plantar fascia. It usually occurs following prolonged overuse and improper footwear. I suggest you continue applying ice frequently on that painful heel area once every two hours for fifteen minutes. Gently knead your calf muscle; it is better if somebody else does this for you. Gently stretch your calf and foot. Look for footwear made of materials that provide good cushioning and support. If possible, get your foot analyzed by a podiatrist or a physiotherapist and have an arch support made for you. I would like you to do rehabilitation once the pain is relieved, such as clawing your toes, moving your ankle up and down in a bucket of water, and performing ankle stability and strength exercises. I hope this is helpful for you. Kindly revert back if you need any clarification.",
+ "audio_seconds": 52.99,
+ "created_at": "2026-07-06T04:13:42+00:00",
+ "failed": false,
+ "text": "Hello? Your heel pain is due to an irritated structure in the foot and could be related to a bursae or plantar fascia. It usually occurs following prolonged overuse and improper footwear. I suggest you continue applying ice frequently on that painful heel area once every 2 hours for 15 minutes. Gently knead your calf muscle. It is better if somebody else does this for you. Gently stretch your calf and foot. Look for footwear made of materials that provide good cushioning and support. If possible, get your foot analyzed by a podiatrist or a physiotherapist and have an arch support made for you. I would like you to do rehabilitation once the pain is relieved, such as clawing your toes, moving your ankle up and down a bucket of water, and performing ankle stability and strength exercises. I hope this is helpful for you. Kindly revert back if you need any clarification.",
+ "seconds": 1.602
+}

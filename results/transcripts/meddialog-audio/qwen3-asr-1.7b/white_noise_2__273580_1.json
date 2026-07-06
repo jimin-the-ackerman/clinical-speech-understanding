@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__273580_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, can you tell me why I feel dizzy or disoriented when my brain expects something to happen but it does not? For example, if I try to click somewhere on my computer but it freezes before I notice, causing the click to be ineffective, I feel disoriented and dizzy. It jolts my vision and makes my head pound for a couple of minutes. This happens quite often, usually when I am not fully paying attention. I am twenty-six years old and male. I have had this problem for as long as I can remember. Currently, I am taking thyroxine for Hashimoto's disease.",
+ "audio_seconds": 32.0,
+ "created_at": "2026-07-06T05:35:31+00:00",
+ "failed": false,
+ "text": "Hello, doctor. Do you tell me why I feel dizzy or disoriented when my brain expects something to happen but it does not? For example, if I try to click somewhere on my computer but it freezes before I notice, causing the click to be ineffective, I feel disoriented and dizzy. It chills my vision and makes my head pound for a couple of minutes. This happens quite often, usually when I am not fully paying attention. I am 26 years old and male. I have had this problem for as long as I can remember. Currently, I am taking thyroxine for Hashimoto's disease.",
+ "seconds": 1.164
+}

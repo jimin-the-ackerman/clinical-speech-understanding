@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__274421_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, just observe the dog for the next ten days. If the dog does not show any signs of illness in the next ten days, then there is no need for vaccination. However, if the dog shows any signs of illness, then you must get vaccinated.",
+ "audio_seconds": 13.23,
+ "created_at": "2026-07-06T05:12:19+00:00",
+ "failed": false,
+ "text": "Hi, just observe the dog for the next ten days. If the dog does not show any signs of illness in the next ten days, then there is no need for vaccination. However, if the dog shows any signs of illness, then we must get vaccinated.",
+ "seconds": 0.507
+}

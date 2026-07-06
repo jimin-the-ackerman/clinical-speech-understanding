@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__683635_2",
+ "condition": "background_noise_20",
+ "reference": "It is quite likely that there is acute clot formation in your graft, as it is pulsatile and there is no blood flow. In a graft, the likelihood of improvement is less, although it is advisable to meet your vascular surgeon at the earliest.",
+ "audio_seconds": 14.08,
+ "created_at": "2026-07-06T04:51:59+00:00",
+ "failed": false,
+ "text": "It is quite likely that there is a cute clot formation in your graft, as it is pulsatile and there is no blood flow. In a graft, the likelihood of improvement is less. Although it is advisable to meet your vascular surgeon at the earliest.",
+ "seconds": 0.488
+}

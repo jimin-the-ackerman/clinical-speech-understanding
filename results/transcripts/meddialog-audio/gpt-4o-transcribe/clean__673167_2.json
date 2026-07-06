@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__673167_2",
+ "condition": "clean",
+ "reference": "No, it is not related to a growth spurt. Palpitations occur when heavy exercise or walking is done, which is physiological. After a cardiac check-up and electrocardiogram, if normal, then there is no need to worry.",
+ "audio_seconds": 13.99,
+ "created_at": "2026-07-06T00:45:17+00:00",
+ "failed": false,
+ "text": "No, it is not related to a growth spurt. Palpitations occur when heavy exercise or walking is done, which is physiological. After a cardiac check-up and electrocardiogram, if normal, then there is no need to worry.",
+ "seconds": 0.894
+}

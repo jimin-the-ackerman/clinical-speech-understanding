@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2340-0008",
+ "condition": null,
+ "reference": "THE SEARCH USUALLY PRODUCED A LARGE AND VARIED YIELD THIS IS FUNNY SAID PETER PIGEONCOTE TO HIS WIFE SOME HALF HOUR AFTER THEIR CONVERSATION HERE'S A TELEGRAM FROM WILFRID SAYING HE'S PASSING THROUGH HERE IN HIS MOTOR AND WOULD LIKE TO STOP AND PAY US HIS RESPECTS",
+ "audio_seconds": 17.84,
+ "created_at": "2026-07-06T03:23:55+00:00",
+ "failed": false,
+ "text": "The search usually produces a large and varied yield. \"This is funny,\" said Peter Pigeon Potter's wife. \"Some half are after their conversation.\" Here is a telegram from Wilfred, saying he is passing through here in his motor and would like to stop and pay his respects.",
+ "seconds": 0.562
+}

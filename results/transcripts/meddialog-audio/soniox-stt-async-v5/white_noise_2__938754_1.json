@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__938754_1",
+ "condition": "white_noise_2",
+ "reference": "I am a chronic back pain sufferer with depression and bipolar disorder. I take Morphine Sulfate Extended Release daily and recently broke my hand. I was put on Vicodin and then I broke out with cysts under my arm and was put on Vicodin again. All of these conditions were painful. I am afraid the doctors will think I am an addict and refuse my Morphine Sulfate Extended Release for my back pain. Can this happen?",
+ "audio_seconds": 28.16,
+ "created_at": "2026-07-06T03:08:37+00:00",
+ "failed": false,
+ "text": "I am a chronic back pain sufferer with depression and bipolar disorder. I take morphine sulfate extended release daily, and recently broke my hand. I was put on Vicodin, and then I broke out with cysts under my arm and was put on Vicodin again. All of these conditions were painful. I am afraid the doctors will think I am an addict and refuse my morphine sulfate extended release for my back pain. Can this happen?",
+ "seconds": 9.26
+}

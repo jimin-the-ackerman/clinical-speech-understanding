@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0087",
+ "condition": null,
+ "reference": "MISSUS THORNTON THE ONLY MOTHER HE HAS I BELIEVE SAID MISTER HALE QUIETLY",
+ "audio_seconds": 6.82,
+ "created_at": "2026-07-06T03:26:49+00:00",
+ "failed": false,
+ "text": "Mr. Thornton, the only mother he has, I believe,\" said Mr. Hale quietly.",
+ "seconds": 0.212
+}

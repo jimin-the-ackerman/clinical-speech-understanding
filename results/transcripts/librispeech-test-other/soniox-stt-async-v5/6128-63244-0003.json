@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63244-0003",
+ "condition": null,
+ "reference": "WITH HER IMMENSE SYMPATHY FOR REFORM SHE FOUND HERSELF SO OFTEN WISHING THAT REFORMERS WERE A LITTLE DIFFERENT",
+ "audio_seconds": 7.05,
+ "created_at": "2026-07-06T02:33:13+00:00",
+ "failed": false,
+ "text": "With her immense sympathy for reform, she found herself so often wishing that reformers were a little different.",
+ "seconds": 5.268
+}

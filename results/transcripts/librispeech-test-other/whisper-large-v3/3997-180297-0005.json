@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180297-0005",
+ "condition": null,
+ "reference": "YES BUT BESIDES NOT WISHING TO PUT YOU OUT I WAS SURE THAT IF YOU CAME AS FAR AS MY DOOR YOU WOULD WANT TO COME UP AND AS I COULD NOT LET YOU I DID NOT WISH TO LET YOU GO AWAY BLAMING ME FOR SAYING NO",
+ "audio_seconds": 13.83,
+ "created_at": "2026-07-05T13:00:19+00:00",
+ "failed": false,
+ "text": "yes but besides not wishing to put you out i was sure that if you came as far as my door you would want to come up and as i could not let you i did not wish to let you go away blaming me for saying no",
+ "seconds": 0.385
+}

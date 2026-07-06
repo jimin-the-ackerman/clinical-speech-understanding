@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0032",
+ "condition": null,
+ "reference": "MEANWHILE COLONEL ASHLEY WAS A VERY BUSY MAN AND TO NO ONE DID HE TELL VERY MUCH ABOUT HIS ACTIVITIES HE SAW DARCY FREQUENTLY AT THE JAIL AND TO THAT YOUNG MAN'S PLEADINGS THAT SOMETHING BE DONE ALWAYS RETURNED THE ANSWER",
+ "audio_seconds": 13.07,
+ "created_at": "2026-07-05T23:57:24+00:00",
+ "failed": false,
+ "text": "Meanwhile, Colonel Ashley was a very busy man, and to no one did he tell very much about his activities. He saw Darcy frequently at the jail, and to that young man's pleadings that something be done, always returned the answer:",
+ "seconds": 0.998
+}

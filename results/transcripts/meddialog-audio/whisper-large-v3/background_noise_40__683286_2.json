@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__683286_2",
+ "condition": "background_noise_40",
+ "reference": "Hi. This is most probably a condition called gynecomastia, and the best course of action is to have this operated on, removed, and subjected to histopathological examination. Although this is usually a bilateral phenomenon, it is not rare to see it like this. Cancer has to be ruled out by performing histopathology on the removed specimen, as X-rays do not play a significant role in the diagnosis. Radiography in the form of a computed tomography scan of the lesion, chest, and axillae is helpful.",
+ "audio_seconds": 31.23,
+ "created_at": "2026-07-06T04:19:35+00:00",
+ "failed": false,
+ "text": "Hi. This is most probably a condition called gynecomastia, and the best course of action is to have this operated on, removed, and subjected to histopathological examination. Although this is usually a bilateral phenomenon, it is not rare to see it like this. Cancer has to be ruled out by performing histopathology on the removed specimen, as x-rays do not play a significant role in the diagnosis. Radiography in the form of a computed tumor scan of the lesion, chest, and axillae is helpful.",
+ "seconds": 0.939
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5040-0006",
+ "condition": null,
+ "reference": "DO NOT TAKE IT ILL FOR I WOULD ENDURE IT IF I COULD RATHER THAN FAIL BUT IN EARNEST I DO NOT THINK IT WERE POSSIBLE FOR ME",
+ "audio_seconds": 9.79,
+ "created_at": "2026-07-05T23:54:34+00:00",
+ "failed": false,
+ "text": "Do not take it ill, for I would endure it if I could, rather than fail; but in earnest I do not think it were possible for me.",
+ "seconds": 0.743
+}

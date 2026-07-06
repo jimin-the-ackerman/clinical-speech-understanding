@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__753404_2",
+ "condition": "background_noise_60",
+ "reference": "Green phlegm might be due to Pseudomonas or a fungal infection. Please go to a doctor first.",
+ "audio_seconds": 6.06,
+ "created_at": "2026-07-06T04:23:28+00:00",
+ "failed": false,
+ "text": "The clam might be due to Pseudomonas or a fungal infection. Please go to a doctor.",
+ "seconds": 0.281
+}

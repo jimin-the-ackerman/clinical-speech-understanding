@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__384645_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, the term bronchitis is applied to the inflammation of smaller airways and can cause chest pain. Most cases of acute bronchitis resolve without medical treatment in two weeks. Common medications prescribed to treat bronchitis include antibiotics, cough medicine, and bronchodilators, which are medications to reduce inflammation and open narrowed airways in the lungs. As you are camping outside, the following precautions may help a quicker recovery: avoid lung irritants like smoke, use a humidifier if available, and wear a face mask outside.",
+ "audio_seconds": 33.45,
+ "created_at": "2026-07-06T04:54:36+00:00",
+ "failed": false,
+ "text": "Hello. The term bronchitis is applied to the inflammation of smaller airways and can cause chest pain. Most cases of acute bronchitis resolve without medical treatment in two weeks. Common medications prescribed to treat bronchitis include antibiotics, cough medicine, and bronchodilators, which are medications to reduce inflammation and open narrowed airways in the lungs. As you are camping outside, the following precautions may help a quicker recovery: avoid lung irritants like smoke, use a humidifier if available, and wear a face mask outside.",
+ "seconds": 0.965
+}

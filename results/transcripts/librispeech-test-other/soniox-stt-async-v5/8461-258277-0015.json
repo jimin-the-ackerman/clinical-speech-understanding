@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-258277-0015",
+ "condition": null,
+ "reference": "SO ALI RELATED TO HIM ALL THAT HAD PASSED FROM FIRST TO LAST AND THE CALIPH SAID I HAD NOT THOUGHT THOU WOULDST KILL HIM FOR THAT HE WAS A SORCERER",
+ "audio_seconds": 10.92,
+ "created_at": "2026-07-06T02:42:10+00:00",
+ "failed": false,
+ "text": "So Ali related to him all that passed, from first to last, and the caliph said, \"I had not thought thou wouldst kill him, for that he was a sorcerer.\"",
+ "seconds": 4.64
+}

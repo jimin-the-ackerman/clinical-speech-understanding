@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163622-0021",
+ "condition": null,
+ "reference": "AND NOW INQUIRED THE FOAL SEEST THOU NOTHING NOW",
+ "audio_seconds": 3.42,
+ "created_at": "2026-07-05T13:10:48+00:00",
+ "failed": false,
+ "text": "And now, inquire the full, seest thou nothing now?",
+ "seconds": 0.116
+}

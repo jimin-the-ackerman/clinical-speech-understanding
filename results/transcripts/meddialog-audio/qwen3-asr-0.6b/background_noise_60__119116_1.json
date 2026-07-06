@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__119116_1",
+ "condition": "background_noise_60",
+ "reference": "Hello, my five-month-old has a little bruise on the right side of her rib cage. I have noticed a hard lump underneath it, and it is hot. She doesn't look sick, and there are no other symptoms. I am sure she hasn't been traumatized. What could it possibly be? Should I take her to a pediatrician?",
+ "audio_seconds": 16.04,
+ "created_at": "2026-07-06T04:57:11+00:00",
+ "failed": false,
+ "text": "Hello, my five-month-old has a little bruise on the right side of her gut cage. I have noticed a hard lump underneath it, and it is hot. She doesn't look sick, and there are no other symptoms. I am sure she hasn't been traumatized. What could it possibly be? Should I take her to a pediatrician?",
+ "seconds": 0.654
+}

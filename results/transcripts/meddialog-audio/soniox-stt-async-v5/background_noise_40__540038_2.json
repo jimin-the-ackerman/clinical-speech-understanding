@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__540038_2",
+ "condition": "background_noise_40",
+ "reference": "Well, based on your complaints, it seems a thorough workup is needed. A computed tomography scan of the whole abdomen will definitely reveal the cause of the pain, and we can review you with the reports.",
+ "audio_seconds": 12.29,
+ "created_at": "2026-07-06T02:51:34+00:00",
+ "failed": false,
+ "text": "Well, based on your complaints, it seems a thorough workup is needed. A CT scan of the whole abdomen will definitely reveal the cause of the pain, and we can review with the reports.",
+ "seconds": 5.795
+}

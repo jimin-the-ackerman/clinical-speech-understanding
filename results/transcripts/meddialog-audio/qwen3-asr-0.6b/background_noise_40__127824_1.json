@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__127824_1",
+ "condition": "background_noise_40",
+ "reference": "I have been having blood blisters pop up on my hands on occasion. They last only a few days, fade away, and appear more like liver spots, then disappear. There is no pain. I take various medications for fibromyalgia and have been having dental problems with implants that are not integrating properly. I have an artificial hip. Because of the dental problems and the onset of fibromyalgia after hip surgery, my oral surgeon had me tested for metal allergies. I am highly allergic to palladium, but not titanium, as he had feared.",
+ "audio_seconds": 35.93,
+ "created_at": "2026-07-06T04:53:28+00:00",
+ "failed": false,
+ "text": "I have been having blood blisters pop up on my hands on occasion. They last only a few days, fade away, and appear more like liver spots, then disappear. There is no pain. I take various medications for fibromyalgia and have been having dental problems with implants that are not interoperably. I have an artificial hip because of the dental problems and the onset of fibromyalgia after hip surgery. My oral surgeon had me tested for metal allergies. I am highly allergic to palladium but not titanium, as he had feared.",
+ "seconds": 0.99
+}

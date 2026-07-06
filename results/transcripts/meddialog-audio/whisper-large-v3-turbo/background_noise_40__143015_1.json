@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__143015_1",
+ "condition": "background_noise_40",
+ "reference": "I am a forty-two-year-old female diagnosed with endometriosis two years ago and had a chocolate cyst which was removed by laparotomy. I have one child who is six years old and would like to have another. I currently have a Mirena intrauterine device, and my Anti-Müllerian Hormone level is zero point zero three. I have been advised to remove the Mirena and wait for my period. During my period, I will undergo a scan in which my ovaries will be checked. Please advise whether women with endometriosis can try for pregnancy at my age.",
+ "audio_seconds": 30.63,
+ "created_at": "2026-07-06T04:41:01+00:00",
+ "failed": false,
+ "text": "I am a 22-year-old female patients with endometriosis two days ago and had a chocolate set since removed by laparotomy. I have only tried to be a 16-year-old but I didn't have another. I currently have a Mirena intrauterine device, and my anti-millarine hormone was 0.4. I have been advised to remove the Mirena and wait for my period. During my period, I will undergo a scan in which my ovaries will be checked. Please advise whether women with endometriosis can try for pregnancy at my age.",
+ "seconds": 0.363
+}

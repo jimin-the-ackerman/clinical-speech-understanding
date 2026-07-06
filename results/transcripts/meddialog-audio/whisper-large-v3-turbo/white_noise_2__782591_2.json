@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__782591_2",
+ "condition": "white_noise_2",
+ "reference": "Your daughter needs to see a neurologist on an urgent basis. She could be exhibiting symptoms of a chronic infection of the central nervous system, seizures, damage from an earlier medical problem, a lesion in the spinal cord, problems with blood flow to the brain, or any number of other reasons for these serious observations.",
+ "audio_seconds": 19.29,
+ "created_at": "2026-07-06T04:47:49+00:00",
+ "failed": false,
+ "text": "Your daughter needs to see a neurologist on an urgent basis. She could be exhibiting symptoms of a chronic infection of the central nervous system, seizures, damage from an earlier medical problem, a lesion in the spinal cord, problems with blood flow to the brain, or any number of other reasons for these serious observations.",
+ "seconds": 0.233
+}

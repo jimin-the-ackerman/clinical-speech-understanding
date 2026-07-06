@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__927769_2",
+ "condition": "background_noise_20",
+ "reference": "If you do not have any problems passing urine, your issue is unlikely to be caused by the stone. If it were a stone impaction, urine flow would also be affected. Are you married? If so, how was your experience during intercourse? Stone impaction causing a blockage for seminal flow is very unlikely to occur. I hope this clears your doubt.",
+ "audio_seconds": 21.42,
+ "created_at": "2026-07-06T04:40:50+00:00",
+ "failed": false,
+ "text": "if you do not have any problems passing urine your issue is unlikely to be caused by the stone if it were a stone impaction urine flow would also be affected are you married if so how was your experience during intercourse stone impaction causing a blockage of a seminal flow is very unlikely to occur i hope this clears your doubts",
+ "seconds": 0.33
+}

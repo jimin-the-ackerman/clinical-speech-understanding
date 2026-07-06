@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__754858_2",
+ "condition": "background_noise_60",
+ "reference": "Bisoprolol and other such beta blockers can cause constriction of bronchial tubes, especially in individuals with hyperreactive airways or with asthma. If you are found to be suffering from these conditions, you will need to be put on other medications for your premature ventricular contractions. There are a few safer beta blockers which can be prescribed in some cases.",
+ "audio_seconds": 21.33,
+ "created_at": "2026-07-06T04:43:25+00:00",
+ "failed": false,
+ "text": "Bisoprolol and other such beta blockers can cause constriction of bronchial tubes, especially in individuals with hyperreactive airways or with asthma. If you are found to be suffering from these conditions, you will need to be put on other medications for your premature ventricular contractions. There are a few safer beta blockers which can be prescribed in some cases.",
+ "seconds": 0.258
+}

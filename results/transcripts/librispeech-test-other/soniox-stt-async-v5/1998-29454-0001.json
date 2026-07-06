@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0001",
+ "condition": null,
+ "reference": "PERUSAL SAID THE PAWNBROKER THAT'S THE WAY TO PERNOUNCE IT",
+ "audio_seconds": 3.9,
+ "created_at": "2026-07-06T00:00:14+00:00",
+ "failed": false,
+ "text": "\"Berusel,\" said the Pornworker, \"that's the way to pronounce it.\"",
+ "seconds": 4.585
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-9170-0043",
+ "condition": null,
+ "reference": "THEY ARE NEEDED PRINCIPALLY AGAINST THEIR SUBJECTS AND EVERY MAN UNDER UNIVERSAL MILITARY SERVICE BECOMES AN ACCOMPLICE IN ALL THE ACTS OF VIOLENCE OF THE GOVERNMENT AGAINST THE CITIZENS WITHOUT ANY CHOICE OF HIS OWN",
+ "audio_seconds": 10.28,
+ "created_at": "2026-07-06T03:32:19+00:00",
+ "failed": false,
+ "text": "They are needed principally against their subjects, and every man under universal military service becomes an accomplice in all the acts of violence of the government against the citizens without any choice of his own.",
+ "seconds": 0.386
+}

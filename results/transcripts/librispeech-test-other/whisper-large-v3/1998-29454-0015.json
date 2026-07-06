@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0015",
+ "condition": null,
+ "reference": "SHE WAS WAITIN FOR THE WOOD TO BOIL THE KETTLE WHEN I COME OUT MOTHER",
+ "audio_seconds": 4.46,
+ "created_at": "2026-07-05T12:56:04+00:00",
+ "failed": false,
+ "text": "She was waiting for the wood to boil the kettle when it came out. Mother?",
+ "seconds": 0.226
+}

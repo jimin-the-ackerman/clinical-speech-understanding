@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__868677_1",
+ "condition": "background_noise_20",
+ "reference": "Hello, I am nineteen years old with a ten-month-old baby. I am having bad lower stomach pains like contractions, but I am not pregnant. They are so severe that I can't walk. The pain is mostly in the vaginal area and feels like tightening, as if I need to go to the toilet. What could this be?",
+ "audio_seconds": 20.82,
+ "created_at": "2026-07-06T00:42:38+00:00",
+ "failed": false,
+ "text": "Hello, I am 19 years old with a 10-month-old baby. I am having bad lower stomach pains like contractions, but I am not pregnant. They are so severe that I can't walk. The pain is mostly in the vaginal area and feels like tightening, as if I need to go to the toilet. What could this be?",
+ "seconds": 1.121
+}

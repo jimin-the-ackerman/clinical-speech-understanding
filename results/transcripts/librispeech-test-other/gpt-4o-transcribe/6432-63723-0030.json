@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0030",
+ "condition": null,
+ "reference": "BUT IT WAS NOTICED THAT THE OLDER AND MORE CONSERVATIVE FAMILIES WERE LESS OFTEN REPRESENTED AND WHEN THEY WERE IT WAS BY SOME OF THE YOUNGER MEMBERS WHOSE REPUTATIONS WERE ALREADY SMIRCHED OR WHO HAD NOT YET ACQUIRED ANY AND WERE WILLING TO TAKE A CHANCE",
+ "audio_seconds": 14.59,
+ "created_at": "2026-07-05T23:57:24+00:00",
+ "failed": false,
+ "text": "But it was noticed that the older and more conservative families were less often represented, and, when they were, it was by some of the younger members, whose reputations were already smirched or who had not yet acquired any, and were willing to take a chance.",
+ "seconds": 1.182
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__847581_2",
+ "condition": "white_noise_2",
+ "reference": "This is not normal. There are some diseases in which dislocation of the knee occurs. You should get the child examined by an orthopedic doctor.",
+ "audio_seconds": 9.13,
+ "created_at": "2026-07-06T04:35:25+00:00",
+ "failed": false,
+ "text": "This is not normal. There are some diseases in which dislocation of the knee occurs. You should get the child examined by an orthopedic doctor.",
+ "seconds": 0.357
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__559713_1",
+ "condition": "clean",
+ "reference": "In the crease above my inner thigh, close to my vagina, I have this lump that over the last year or two has filled with this pus and thick fluid that is a mix of pus and blood when it is popped or bursts on its own after getting big enough. It is painful when I walk, as my clothing rubs against it, and it is sore to the touch. This is a recurring issue. What is it, and do I need to go to the doctor as soon as possible? Thank you.",
+ "audio_seconds": 14.08,
+ "created_at": "2026-07-06T04:44:31+00:00",
+ "failed": false,
+ "text": "In the crease above my inner thigh close to my vagina, it is painful when I walk as my clothing rubs against it and it is sore to the touch. This is a recurring issue. What is it and do I need to go to the doctor as soon as possible? Thank you.",
+ "seconds": 0.25
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__546688_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, I met with an accident six years ago when I was seventeen, and it caused a deformity in my right leg. I was kept on traction for a few days and then plastered. I was told that the bending, which is around eight degrees, would fade away eventually, but it is still the same. I have no physical trouble with it, but it causes me mental disturbance when people look at me when I walk. Can it be corrected now?",
+ "audio_seconds": 25.26,
+ "created_at": "2026-07-06T05:32:46+00:00",
+ "failed": false,
+ "text": "Hi, I met with an accident six years ago when I was seventeen, and have caused a deformity in my right leg. I was kept on plaster for a few days and then plastered. I was told that the bending, which is around eight degrees, would fade away eventually, but it is still the same. I have no physical trouble with it, but it causes me mental disturbance when people look at me when I walk. In a different direction now.",
+ "seconds": 0.88
+}

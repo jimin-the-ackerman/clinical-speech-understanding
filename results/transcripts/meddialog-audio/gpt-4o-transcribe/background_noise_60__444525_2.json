@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__444525_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. I have gone through the history carefully and repeatedly. The pain is in the exact spot and hurts after meals. This could indicate an inflamed appendix or another part of the intestine adjacent to the urinary bladder, which could be causing both types of pain. The increase in pain after eating is an indication of a gastrointestinal reflex. Ultrasonography and other tests will guide the diagnosis. You may need surgery if a course of medical management, including antibiotics, is not effective. I recommend getting the opinion of a gastroenterologist.",
+ "audio_seconds": 34.22,
+ "created_at": "2026-07-06T00:44:06+00:00",
+ "failed": false,
+ "text": "Hello. I have gone through the history carefully. The pain is in the exact spot and hurts after meals. This could indicate an inflamed appendix or another part of the intestine adjacent to the urinary bladder, which could be causing both types of pain. The increase in pain after eating is an indication of a gastrointestinal reflux. Ultrasonography and other tests will guide the diagnosis. You may need surgery if a course of medical management including antibiotics is not effective. I recommend getting the opinion of a gastroenterologist.",
+ "seconds": 1.958
+}

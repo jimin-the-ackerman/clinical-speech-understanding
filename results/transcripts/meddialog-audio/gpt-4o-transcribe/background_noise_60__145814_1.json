@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__145814_1",
+ "condition": "background_noise_60",
+ "reference": "My daughter is two years and nine months old. She has not been able to talk and does not listen often. There is no eye contact, and she is not saying 'no' or 'yes' and is behaving rudely. How can I solve this? The doctor says it is bilateral epileptiform dysfunction and has prescribed medication. Is it advisable? She is a girl. Are there any side effects of the medications: Mediq Plus, Risdone zero point five milligrams, and Encorate?",
+ "audio_seconds": 26.37,
+ "created_at": "2026-07-06T00:43:47+00:00",
+ "failed": false,
+ "text": "My daughter is two years and nine months old. She has not been able to talk and does not listen often. There is no eye contact and she is not saying no or yes and is behaving rudely. How can I solve this? The doctor says it is bilateral epileptiform dysfunction and has prescribed medication. Is it advisable? Girl, are there any side effects of the medications? Medic plus, Rizdone 0.5 milligrams and Encorate?",
+ "seconds": 1.615
+}

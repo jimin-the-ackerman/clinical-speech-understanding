@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163622-0008",
+ "condition": null,
+ "reference": "THE YOUTH LIKED THE THOUGHT OF THIS LET THE FOALS RUN WHERE THEY CHOSE AND SEATED HIMSELF IN THE CLEFT OF THE ROCK BY THE SIDE OF THE OLD HAG",
+ "audio_seconds": 6.95,
+ "created_at": "2026-07-06T03:18:02+00:00",
+ "failed": false,
+ "text": "The youth liked the thought of this. Let the foals run where they chose, and seated himself in the cleft of the rock by the side of the old hag.",
+ "seconds": 0.359
+}

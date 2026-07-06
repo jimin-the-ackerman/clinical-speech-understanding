@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-169640-0001",
+ "condition": null,
+ "reference": "AN HOUR AFTER THE SUN HAD SET THE WIND FELL TO A LIGHT AIR THAT JUST KEPT STEERAGE WAY ON THE SHIP",
+ "audio_seconds": 7.83,
+ "created_at": "2026-07-06T00:03:04+00:00",
+ "failed": false,
+ "text": "Now we're out through the sunhatch; the wind fell to enlighten air, but that just kept the steerage way on the ship.",
+ "seconds": 4.69
+}

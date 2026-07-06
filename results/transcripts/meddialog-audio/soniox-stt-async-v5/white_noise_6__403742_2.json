@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__403742_2",
+ "condition": "white_noise_6",
+ "reference": "Are you sure about atrial fibrillation and the defibrillator implanted for atrial fibrillation? I doubt you are an atrial fibrillation patient if you have an automatic implantable cardioverter-defibrillator. Check again if it is ventricular fibrillation. Your breathlessness can be explained by an increase in heart rate or heart disease, which you did not mention.",
+ "audio_seconds": 19.97,
+ "created_at": "2026-07-06T03:09:58+00:00",
+ "failed": false,
+ "text": "Are you sure about atrial fibrillation and the defibrillator implanted for atrial fibrillation? I doubt you are an atrial fibrillation patient if you have an automatic implantable cardioverter; check again if it is ventricular fibrillation. Your breathlessness can be explained by an increase in heart rate or heart disease, which you did not mention.",
+ "seconds": 4.726
+}

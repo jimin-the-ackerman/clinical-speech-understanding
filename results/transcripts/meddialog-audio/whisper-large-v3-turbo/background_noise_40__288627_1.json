@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__288627_1",
+ "condition": "background_noise_40",
+ "reference": "I think I may have accidentally pricked myself with a needle that I had just injected into a patient. I am not exactly sure if it did prick me, but I am a bit paranoid. This was also my first time giving an injection, so I was too scared to say anything to my instructor. Additionally, I was unable to see the patient's chart to understand what medical conditions he may have had. What is the best thing for me to do?",
+ "audio_seconds": 25.43,
+ "created_at": "2026-07-06T04:41:18+00:00",
+ "failed": false,
+ "text": "i think i may have accidentally pricked my needle that i just injected into a patient i am not exactly sure if it did prick me but i am a bit paranoid this was also my first time giving an injection so i was too scared to say anything to my instructor additionally i was unable to see the patient's charge to understand what medical conditions he may have had what is the best thing for me to do",
+ "seconds": 0.316
+}

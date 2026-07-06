@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__629678_2",
+ "condition": "clean",
+ "reference": "Hi there, a general surgeon can likely remove this. Antibiotics will not help treat a fibrolipoma, and it needs to be removed. I don't think you need to go to a hospital; this can be removed as an outpatient. I would look up general surgeons, and this should be a relatively straightforward procedure. I hope I have answered your questions. Please feel free to contact me should you have any further questions.",
+ "audio_seconds": 23.98,
+ "created_at": "2026-07-06T02:58:39+00:00",
+ "failed": false,
+ "text": "Hi there, a general surgeon can likely remove this. Antibiotics will not help treat a fibro lipoma, and it needs to be removed. I don't think you need to go to a hospital; this can be removed as an outpatient. I would look up general surgeons, and this should be a relatively straightforward procedure. I hope I have answered your questions. Please feel free to contact me should you have any further questions.",
+ "seconds": 4.68
+}

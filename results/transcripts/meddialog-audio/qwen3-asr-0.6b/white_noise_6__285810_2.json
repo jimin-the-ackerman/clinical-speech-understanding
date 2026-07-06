@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__285810_2",
+ "condition": "white_noise_6",
+ "reference": "As mentioned in your narrative, I believe you are a young adult, and you may be experiencing just a muscle spasm and nothing else. For this, you should take some painkillers with a muscle relaxant like Tablet Dan-MR or Tablet Osteonac-Th twice daily after meals when your back pain is severe enough to disturb your routine activities, along with Tablet Shalcal five hundred milligrams once daily after meals with Tablet Rantac or Tablet Famotidine twice daily before meals. You can also use Volidup Gel or Powergesic-Plus Gel for local application, as it is quite helpful in relieving your back pain and muscle spasm.",
+ "audio_seconds": 36.27,
+ "created_at": "2026-07-06T05:12:19+00:00",
+ "failed": false,
+ "text": "As mentioned in your narrative, I believe you are a little girl, and you may be experiencing just a muscle spasm and nothing else. For this, you should take some painkillers for a muscle relaxation, like tablet Danaparoid or tablet OxyNeoMax, twice daily after meals. In your back is near enough to disturb your routine activities, along with tablet Shalcol 500 milligram, once daily after each tablet ran-tat, or tablet Promotidene, twice daily before meals. You can also use Bullet of Gel or Power Dose Plus Gel for local application, as it is quite helpful in relieving your back pain and muscle spasm.",
+ "seconds": 1.226
+}

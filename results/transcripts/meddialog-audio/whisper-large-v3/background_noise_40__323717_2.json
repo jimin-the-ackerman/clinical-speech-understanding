@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__323717_2",
+ "condition": "background_noise_40",
+ "reference": "Dear sir, I can understand your concern. In my opinion, you need to check for serum C-peptide and insulin assay. It might be due to excess insulin secretion. I suggest you see an endocrinologist for further evaluation.",
+ "audio_seconds": 11.95,
+ "created_at": "2026-07-06T04:18:07+00:00",
+ "failed": false,
+ "text": "Here, sir. I can understand your concern. In my opinion, you need to check for serum, C-peptide, and insulin acid. It might be due to excess insulin secretion. I suggest you see an endocrinologist for further evaluation.",
+ "seconds": 0.52
+}

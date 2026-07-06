@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-169640-0019",
+ "condition": null,
+ "reference": "THE CAPTAIN BEHAVED PERFECTLY WELL IN THIS CRITICAL INSTANT COMMANDING A DEAD SILENCE AND THE CLOSEST ATTENTION TO HIS ORDERS",
+ "audio_seconds": 8.36,
+ "created_at": "2026-07-05T12:57:20+00:00",
+ "failed": false,
+ "text": "The captain behaved perfectly well in this critical incident, commanding a dead silence in the closest attention to his orders.",
+ "seconds": 0.252
+}

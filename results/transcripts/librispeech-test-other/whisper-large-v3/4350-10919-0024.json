@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-10919-0024",
+ "condition": null,
+ "reference": "SHE ANSWERED HIM AND ALL AT ONCE GOT UP FURIOUS",
+ "audio_seconds": 3.4,
+ "created_at": "2026-07-05T13:01:28+00:00",
+ "failed": false,
+ "text": "she answered him and all at once got up furious",
+ "seconds": 0.18
+}

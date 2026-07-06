@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__384685_2",
+ "condition": "background_noise_20",
+ "reference": "These X-ray changes are due to hypertension, as long-standing hypertension causes hypertrophy of cardiac muscles, known as cardiomyopathy, which on X-ray shows cardiomegaly and prominent bronchovascular markings. Therefore, there is no need to take any other medication, but you should get your electrocardiogram and two-dimensional echocardiogram done for your cardiac assessment.",
+ "audio_seconds": 21.93,
+ "created_at": "2026-07-06T02:47:19+00:00",
+ "failed": false,
+ "text": "These X-ray changes are due to hypertension, as longstanding hypertension causes hypertrophy of cardiac muscles, known as cardiomyopathy, which on X-ray shows cardiomegaly and prominent bronchovascular markings. Therefore, there is no need to take any other medication, but you should get your electrocardiogram and 2-dimensional echocardiogram done for your cardiac assessment.",
+ "seconds": 5.857
+}

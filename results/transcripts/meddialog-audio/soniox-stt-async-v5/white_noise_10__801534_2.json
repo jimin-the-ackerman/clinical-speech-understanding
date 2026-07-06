@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__801534_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, she needs to get a complete workup done for the same, either a scan or blood investigations. Her improvement will depend on the underlying cause.",
+ "audio_seconds": 8.53,
+ "created_at": "2026-07-06T03:03:51+00:00",
+ "failed": false,
+ "text": "Hi. Please to get a complete workup plan for this patient. Either a scan or a blood analysis will be done. Her improvement will depend on the underlying cause.",
+ "seconds": 4.674
+}

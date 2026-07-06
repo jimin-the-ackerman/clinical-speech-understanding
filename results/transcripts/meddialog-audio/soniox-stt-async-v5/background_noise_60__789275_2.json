@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__789275_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, you need to get an MRI of the lumbosacral spine done. It is mostly due to nerve compression in your spine.",
+ "audio_seconds": 6.4,
+ "created_at": "2026-07-06T02:55:52+00:00",
+ "failed": false,
+ "text": "Hello, you need to get an MRI of the lumbosacral spine done; it is mostly due to nerve compression in your spine.",
+ "seconds": 4.701
+}

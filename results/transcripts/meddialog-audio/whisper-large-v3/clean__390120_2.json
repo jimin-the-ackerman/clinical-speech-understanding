@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__390120_2",
+ "condition": "clean",
+ "reference": "I think gram flour and turmeric are good for your condition. You can also try face packs. Fuller's earth is a good alternative as well. You can use rose water for cleansing your face; it will help.",
+ "audio_seconds": 9.81,
+ "created_at": "2026-07-06T04:26:01+00:00",
+ "failed": false,
+ "text": "I think graham flour and turmeric are good for your condition. You can also try face packs. Fuller's Earth is a good alternative as well. You can use rose water for cleansing your face. It will help.",
+ "seconds": 0.478
+}

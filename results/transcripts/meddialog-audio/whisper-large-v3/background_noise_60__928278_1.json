@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__928278_1",
+ "condition": "background_noise_60",
+ "reference": "My mother-in-law had breast cancer two years ago. Last summer, she was diagnosed with large B-cell lymphoma and underwent chemotherapy and had her spleen removed. She just went for her check-up positron emission tomography scan, and they found a hot spot in her lower left lobe that is two inches big and numerous hot spots throughout both of her lungs. She is waiting for a biopsy appointment. Does this mean she has cancer in her lungs now?",
+ "audio_seconds": 24.83,
+ "created_at": "2026-07-06T04:24:30+00:00",
+ "failed": false,
+ "text": "My mother-in-law had breast cancer two years ago. Last summer, she was diagnosed with large B-cell lymphoma and underwent chemotherapy and had her sprained. She just went for her checkup positron emission tomography scan and they found a hot spot in her lower left lobe that is two inches big and numerous hot spots throughout both of her lungs. She is waiting for a biopsy appointment. Does this mean she has cancer in her lungs now?",
+ "seconds": 0.796
+}

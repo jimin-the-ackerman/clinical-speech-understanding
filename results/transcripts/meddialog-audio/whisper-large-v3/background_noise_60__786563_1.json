@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__786563_1",
+ "condition": "background_noise_60",
+ "reference": "I am between eight to nine weeks pregnant, and when I went to the bathroom this evening, I saw a pinkish tissue in the toilet. It was smaller than a bean and had something that looked like a small string attached. Is this something I should be worried about?",
+ "audio_seconds": 15.36,
+ "created_at": "2026-07-06T04:23:43+00:00",
+ "failed": false,
+ "text": "I am between 8-9 weeks pregnant and when I went to the bathroom this evening, I saw a pinkish tissue in the toilet. It was smaller than a bean and had something that looked like a small string attached. Is this something I should be worried about?",
+ "seconds": 0.519
+}

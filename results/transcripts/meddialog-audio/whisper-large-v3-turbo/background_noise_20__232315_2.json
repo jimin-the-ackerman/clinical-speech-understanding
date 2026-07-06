@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__232315_2",
+ "condition": "background_noise_20",
+ "reference": "Oral thrush is a self-limiting disorder and can sometimes be painful, especially if he cannot eat. It will last for three to five days, and you can mix Nystatin with Xylocaine to alleviate pain during feeding.",
+ "audio_seconds": 11.86,
+ "created_at": "2026-07-06T04:39:42+00:00",
+ "failed": false,
+ "text": "Oral thrush is a self-limiting disorder and can sometimes be painful, especially if he cannot eat. It will last for 3-5 days and you can mix nistatin with xylocaine to alleviate pain during feeding.",
+ "seconds": 0.203
+}

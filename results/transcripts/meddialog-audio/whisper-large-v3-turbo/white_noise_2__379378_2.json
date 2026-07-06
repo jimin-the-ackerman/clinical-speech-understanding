@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__379378_2",
+ "condition": "white_noise_2",
+ "reference": "It seems that you have an intestinal infection, most likely colitis. If this is happening repeatedly, you should consider the possibility of a food allergy. Please note down which foods cause this problem. This can also be due to waterborne diseases, so check the quality of your water and food sources. A colonoscopy and ultrasonography may be necessary. To rule out gastrointestinal cancer, a computed tomography scan may be necessary. For the moment, consider a course of antibiotics, probiotics, and supportive medications, and observe the results.",
+ "audio_seconds": 33.71,
+ "created_at": "2026-07-06T04:47:04+00:00",
+ "failed": false,
+ "text": "It seems that you have an intestinal infection, most likely colitis. If this is happening repeatedly, you should consider the possibility of a food allergy. Please note down which foods cause this problem. This can also be due to waterborne diseases, so check the quality of your water and food sources. A colonoscopy and ultrasonography may be necessary. To rule out gastrointestinal cancer, a tomography scan may be necessary. For the moment, consider a course of antibiotics. Probiotics and supportive medications, and observe the results.",
+ "seconds": 0.381
+}

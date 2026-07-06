@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0027",
+ "condition": null,
+ "reference": "HE BROUGHT HIM TO THE GROUND WITH A SINGLE BLOW ACROSS THE KIDNEYS",
+ "audio_seconds": 3.91,
+ "created_at": "2026-07-05T13:07:33+00:00",
+ "failed": false,
+ "text": "He brought him to the ground with a single blow across the kidneys.",
+ "seconds": 0.187
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0014",
+ "condition": null,
+ "reference": "THERE IS A RING IN THE STONE",
+ "audio_seconds": 2.0,
+ "created_at": "2026-07-06T03:29:26+00:00",
+ "failed": false,
+ "text": "There is a ring in the stone.",
+ "seconds": 0.116
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-9934-0006",
+ "condition": null,
+ "reference": "WHATEVER MAY HAVE BEEN HIS DESIRE TO REMAIN WHERE HE WAS HE COULD NOT HALT THERE HE WAS IRRESISTIBLY CONSTRAINED TO CONTINUE TO ADVANCE TO EXAMINE TO THINK TO MARCH FURTHER",
+ "audio_seconds": 13.6,
+ "created_at": "2026-07-05T23:55:55+00:00",
+ "failed": false,
+ "text": "Whatever may have been his desire to remain where he was, he could not halt there. He was irresistibly constrained to continue, to advance, to examine, to think, to march further.",
+ "seconds": 1.07
+}

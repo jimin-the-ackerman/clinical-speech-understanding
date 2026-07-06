@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__925954_2",
+ "condition": "white_noise_10",
+ "reference": "It definitely seems to be an allergic reaction. Anything such as food, pollen, medicines, or fabrics can react with body proteins to cause this. You can use an antihistamine tablet and apply triamcinolone mouth paint on the lips. This will address the current symptoms, and if it recurs, we should investigate the cause, in my opinion.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T03:04:28+00:00",
+ "failed": false,
+ "text": "It doesn't refuse to be invited to action. Anything such as steam, power, medicine, or fabric can react to body-taking surprises. You can even add to history and fabric and sell a plan for a long-hour trip on a lift. This will address the current symptoms, and if it recurs, you should investigate the cause—mighty.",
+ "seconds": 6.021
+}

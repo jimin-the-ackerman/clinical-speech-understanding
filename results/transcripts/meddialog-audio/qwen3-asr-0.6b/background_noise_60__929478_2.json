@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__929478_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. It is called vaginismus. It is a muscle spasm causing contraction of the vagina. It occurs due to various psychological issues. It could be due to feelings of guilt regarding sexual activity or some unconscious unresolved issues. It could also be due to a dislike of the partner. It requires counseling and medications.",
+ "audio_seconds": 20.39,
+ "created_at": "2026-07-06T05:00:27+00:00",
+ "failed": false,
+ "text": "Hello, it is called vaginismus. It is a muscle spasm causing contraction of the vagina. It occurs due to various psychological issues. It could be due to feelings of guilt regarding sexual activity or some unconscious unresolved issues. It could also be due to a dislike of the partner. It requires counseling and medications.",
+ "seconds": 0.596
+}

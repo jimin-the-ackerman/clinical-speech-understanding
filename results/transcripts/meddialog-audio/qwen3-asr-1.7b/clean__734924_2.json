@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__734924_2",
+ "condition": "clean",
+ "reference": "Hi. What you are trying to say is termed as paresthesia in the medical field. If you are having a skin rash as well, then you need to see a dermatologist urgently. Common causes include sunburn, heat burn, neuropathy, diabetes, etc. If the problem persists, then first contact your dermatologist and then a physician if required.",
+ "audio_seconds": 20.39,
+ "created_at": "2026-07-06T05:29:51+00:00",
+ "failed": false,
+ "text": "Hi, what you are trying to say is termed as paresthesia in the medical field. If you are having a skin rash as well, then you need to see a dermatologist urgently. Common causes include sunburn, heat burn, neuropathy, diabetes, etc. If the problem persists, then first contact your dermatologist and then a physician if required.",
+ "seconds": 0.696
+}

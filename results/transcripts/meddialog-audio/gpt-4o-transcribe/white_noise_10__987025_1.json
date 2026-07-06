@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__987025_1",
+ "condition": "white_noise_10",
+ "reference": "I am experiencing recent and painful tibialis anterior cramping during the night. It has been particularly pronounced the last two nights. It occurs in both legs and can last for several minutes. However, there is no swelling or discoloration. During the day, there is some very mild tenderness but no pain, fatigue, or cramping. I have been taking calcium and multivitamins, and I massage my feet and lower legs before bedtime. Any suggestions?",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T00:46:13+00:00",
+ "failed": false,
+ "text": "",
+ "seconds": 0.741
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__398987_1",
+ "condition": "background_noise_20",
+ "reference": "I have had numbness and tingling in my left hand. Last week, my left arm had the same sensation. This morning, the whole left side of my body did. The symptoms never last long. I went to the doctor this morning. The electrocardiogram came back okay, and they are sending me for a nerve conductivity test on Thursday. What could be the cause of this?",
+ "audio_seconds": 22.44,
+ "created_at": "2026-07-06T04:50:48+00:00",
+ "failed": false,
+ "text": "I have had numbness and tingling in my left hand. Last week, my left arm had the same sensation. This morning, the whole left side of my body did. The symptoms never last long. I went to the doctor this morning. The electrocardiogram came back okay, and they are sending me for a nerve conductivity test on Thursday. What could be the cause of this?",
+ "seconds": 0.725
+}

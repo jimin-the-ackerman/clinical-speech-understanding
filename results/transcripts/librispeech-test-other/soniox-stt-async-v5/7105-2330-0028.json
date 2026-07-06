@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2330-0028",
+ "condition": null,
+ "reference": "EIGHT O'CLOCK STRUCK THE CROWD OUTSIDE CHANTED WITH AN INCREASING VOLUME OF SOUND WILL VOTE THE OTHER WAY",
+ "audio_seconds": 7.25,
+ "created_at": "2026-07-06T02:35:50+00:00",
+ "failed": false,
+ "text": "8 o'clock struck, the crowd outside chanted with an increasing volume of sound. We'll vote the other way.",
+ "seconds": 4.61
+}

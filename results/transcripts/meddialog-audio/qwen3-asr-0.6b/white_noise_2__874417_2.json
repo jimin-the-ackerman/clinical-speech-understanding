@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__874417_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. This is a classical finding in the involvement of lymph nodes. Your doctor's prescription is needed to obtain the appropriate antibiotics and anti-inflammatory medications. These are usually bacterial infections; there may be a septic focus in the mouth, such as dental caries, an ulcer, tonsillitis, or something similar.",
+ "audio_seconds": 19.37,
+ "created_at": "2026-07-06T05:11:20+00:00",
+ "failed": false,
+ "text": "Hello, this is a classical finding in the involvement of lymph nodes. Your doctor's prescription is needed to obtain the appropriate antibiotics and anti-inflammatory medications. These are usually bacterial infections. There may be a septic focus in the mouth, such as dental caries and ulcer, tonsillitis, or something similar.",
+ "seconds": 0.581
+}

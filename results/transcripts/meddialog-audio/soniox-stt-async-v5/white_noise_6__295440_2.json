@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__295440_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, thank you for asking. I really appreciate your concern. Stress can cause anything and not just numbness. There is no need to worry about Bell's palsy because this may not be due to the stress. I hope this information helps you. Have a good day.",
+ "audio_seconds": 17.75,
+ "created_at": "2026-07-06T03:09:31+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking. I really appreciate your concern. Stress can cause anything and not just numbness. There is no need to worry about both, truly, because there's no long-ended stress. I hope this information helps you. Have a good day.",
+ "seconds": 4.865
+}

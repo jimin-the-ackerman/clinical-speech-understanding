@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0021",
+ "condition": null,
+ "reference": "AND THEN SUCH POWERFUL ACIDS PRODUCE INTENSE IRRITATION AND THIRST THIRST WHICH WATER DOES NOT QUENCH",
+ "audio_seconds": 7.22,
+ "created_at": "2026-07-06T03:37:59+00:00",
+ "failed": false,
+ "text": "And then, such powerful acids produce intense irritation and thirst, thirst which water does not quench.",
+ "seconds": 0.218
+}

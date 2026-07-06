@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163619-0013",
+ "condition": null,
+ "reference": "THIS TIME ALSO AS BEFORE SHE BORROWED A BRUSH AND BRUSHED HER HAIR WITH IT AND THE GOLD DROPPED DOWN AS SHE DID IT AND AGAIN SHE SENT THE DOG OUT THREE TIMES AND WHEN DAY DAWNED SHE DEPARTED BUT AS SHE WAS GOING SHE SAID AS SHE HAD SAID BEFORE I SHALL COME ONCE MORE AND THEN NEVER AGAIN",
+ "audio_seconds": 19.3,
+ "created_at": "2026-07-05T13:10:45+00:00",
+ "failed": false,
+ "text": "this time also as before she borrowed a brush and brushed her hair with it and the gold dropped down as she did it and again she sent the dog out three times and when day dawned she departed but as she was going she said as she had said before i shall come once more and then never again",
+ "seconds": 0.164
+}

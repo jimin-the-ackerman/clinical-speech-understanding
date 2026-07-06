@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__105324_2",
+ "condition": "background_noise_40",
+ "reference": "In my opinion, it looks like you are experiencing panic attacks. Please check your thyroid function. You would need antidepressants and a small dose of benzodiazepines.",
+ "audio_seconds": 11.43,
+ "created_at": "2026-07-06T05:19:28+00:00",
+ "failed": false,
+ "text": "In my opinion, looks like you are experiencing panic attacks. Please check your thyroid function. You would need antidepressants and a small dose of benzodiazepines.",
+ "seconds": 0.346
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__164879_1",
+ "condition": "white_noise_2",
+ "reference": "My twelve-year-old daughter is having episodes at school. She claims she is hearing voices and becomes distraught. The school thinks it is a medical condition or chemical imbalance that they want her tested for. She is also being bullied at school and has made comments that she doesn't feel safe there. I am not sure if the two things are related, but this only seems to be a problem at school. I am looking for some input.",
+ "audio_seconds": 22.87,
+ "created_at": "2026-07-06T03:05:11+00:00",
+ "failed": false,
+ "text": "My 12-year-old daughter is having episodes at school; she claims she is hearing voices and becomes distraught. The school thinks it is a medical condition or chemical imbalance that they want her tested for. She is also being bullied at school and has made comments that she doesn't feel safe there. I am not sure if the two things are related, but this only seems to be a problem at school. I am looking for some input.",
+ "seconds": 9.245
+}

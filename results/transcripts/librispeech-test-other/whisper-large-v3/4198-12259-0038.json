@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12259-0038",
+ "condition": null,
+ "reference": "I'FAITH PURE GREEK GREEK O THE FINE WHITE WINE",
+ "audio_seconds": 4.93,
+ "created_at": "2026-07-05T13:00:39+00:00",
+ "failed": false,
+ "text": "i faith pure greek greek o the fine white wine",
+ "seconds": 0.182
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__457938_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, when I was thirteen, I died from asthma-related problems and was pronounced dead. After ten minutes of being dead, I was brought back. That was six years ago. I am starting to have mental issues; for example, memory loss, losing my train of thought, and not being able to articulate what I want to say in my head. I was wondering if I should get a brain scan to determine if I have some sort of brain damage. Do you think I have brain damage from being brain dead for ten minutes?",
+ "audio_seconds": 29.01,
+ "created_at": "2026-07-06T02:47:35+00:00",
+ "failed": false,
+ "text": "Hi. When I was 13, I died from asthma-related problems and was pronounced \"dead.\" After 10 minutes of being dead, I was brought back. That was 6 years ago. I am starting to have mental issues, for example memory loss, losing my train of thought, and not being able to articulate what I want to say. I was wondering if I should get a brain scan to determine if I have some sort of brain damage. Do you think I have brain damage from being brain dead for 10 minutes?",
+ "seconds": 5.867
+}

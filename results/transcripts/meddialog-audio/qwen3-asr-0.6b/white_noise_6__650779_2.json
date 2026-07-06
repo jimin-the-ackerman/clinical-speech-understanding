@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__650779_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, this is radiating pain from the lumbosacral region. You are not supposed to do brisk and vigorous exercises. That clicking sound is called crepitus, which is most common with your problem. Please go for an MRI of the lumbosacral spine to know the exact depth of your problem. You can start on methylcobalamin five hundred milligrams tablets twice daily and pregabalin seventy-five milligrams daily at night. You can really see the difference.",
+ "audio_seconds": 25.77,
+ "created_at": "2026-07-06T05:13:54+00:00",
+ "failed": false,
+ "text": "Hi, this is Radiating Pain's in the lumbar spine. You are not supposed to be lifting or doing a exercise. Back clicking sound is called paresthesia, which is not common in your family. Please go for an MRI of the lumbar spine to know the exact type of your problem. You can start on medical supplement five hundred milligrams tablets twice daily, and try to balance seventy five milligrams daily at night. You can easily see the difference.",
+ "seconds": 0.86
+}

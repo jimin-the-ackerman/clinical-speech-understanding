@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0028",
+ "condition": null,
+ "reference": "DURING ALL THIS TIME ISAAC OF YORK SAT MOURNFULLY APART GRIEVING FOR THE LOSS OF HIS DEARLY LOVED DAUGHTER REBECCA",
+ "audio_seconds": 8.24,
+ "created_at": "2026-07-06T03:26:21+00:00",
+ "failed": false,
+ "text": "During all this time, Isaac of York sat mournfully apart, grieving for the loss of his dearly loved daughter Rebecca.",
+ "seconds": 0.255
+}

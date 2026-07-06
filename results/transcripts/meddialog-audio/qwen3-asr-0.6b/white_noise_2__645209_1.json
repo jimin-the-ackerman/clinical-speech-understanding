@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__645209_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, I am a thirty-four-year-old female lupus patient. I am five feet six inches tall and weigh one hundred and eighty-eight pounds. Recently, I have experienced unexplained weight loss of sixteen% of my body weight over the past six months. My rheumatologist is investigating with a chest X-ray and laboratory tests. All results are not back yet, but I do know that my liver values are elevated, my sedimentation rate is high, and my white blood cell count is low; however, my thyroid function came back normal. I have not been in a flare for at least nine months. I believe he is looking for signs of lymphoma. Do any of these results point in that direction?",
+ "audio_seconds": 38.74,
+ "created_at": "2026-07-06T05:10:16+00:00",
+ "failed": false,
+ "text": "I am a thirty-four-year-old female lupus patient. I am five feet six inches tall and weigh one hundred and eighty-eight pounds. Recently, I have experienced unexplained weight loss of sixteen percent of my body weight over the past six months. My rheumatologist is investigating with a chest X-ray and laboratory tests. All results are not back yet, but I do know that my liver values are elevated, my sedimentation rate is high, and my white blood cell count is low. However, my thyroid function came back normal. I have not been in a flare for at least nine months. I believe he is looking for signs of lymphoma. Just eve these results point in that direction.",
+ "seconds": 1.275
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__948343_2",
+ "condition": "white_noise_10",
+ "reference": "You should be able to wear steel toe caps two months after the fusion; however, they may be slightly painful almost forever. You can try a bigger size shoe with pads and cotton in it. Good luck.",
+ "audio_seconds": 13.23,
+ "created_at": "2026-07-06T03:04:34+00:00",
+ "failed": false,
+ "text": "You should be able to work through a compact two months after the season. However, there may be slightly painful on the toe. You can try a bigger size shoe with plas and hot mold. Good luck.",
+ "seconds": 5.614
+}

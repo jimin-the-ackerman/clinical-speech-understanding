@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__998182_1",
+ "condition": "white_noise_10",
+ "reference": "Hello Doctor, I had jock itch one year ago and it got cured; however, the skin started turning black and rough and it is spreading slowly. I used Onabet cream but it did not cure the issue. My scrotum and upper thighs are rough, sore, and dark. Please advise me on how to get cured.",
+ "audio_seconds": 18.43,
+ "created_at": "2026-07-06T00:46:14+00:00",
+ "failed": false,
+ "text": "I don't know how to do this. If you just tell me what to do, I'll do it.",
+ "seconds": 0.625
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__633447_2",
+ "condition": "background_noise_20",
+ "reference": "With your history of a thyroid problem and complaints, it seems that you are experiencing hypothyroidism. It can also cause weight gain, fatigue, constipation, and mood changes. Please take your medications regularly. Fruits, vegetables, exercise, and water will all help, provided your hormone levels are controlled. If you want to share any further information about your results, please do.",
+ "audio_seconds": 24.15,
+ "created_at": "2026-07-06T00:42:22+00:00",
+ "failed": false,
+ "text": "With your history of a thyroid problem and complaints, it seems that you are experiencing hypothyroidism. It can also cause weight gain, fatigue, constipation, and mood changes. Please take your medications regularly. Fruits, vegetables, exercise, and water will all help, provided your hormone levels are controlled. If you want to share further information about your results, please do.",
+ "seconds": 1.377
+}

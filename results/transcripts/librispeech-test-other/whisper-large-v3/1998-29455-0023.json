@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0023",
+ "condition": null,
+ "reference": "TO THE ELDER TRAMP LIES AND BEGGING WERE NATURAL MEANS OF LIVELIHOOD",
+ "audio_seconds": 4.71,
+ "created_at": "2026-07-05T12:56:15+00:00",
+ "failed": false,
+ "text": "to the elder tramp, lice and pecking were natural means of livelihood.",
+ "seconds": 0.202
+}

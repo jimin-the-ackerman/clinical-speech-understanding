@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__947935_2",
+ "condition": "white_noise_10",
+ "reference": "Let me assure you that breast milk is the best food for the baby, and with it, the baby will not get an infection. Green stool occurs due to rapid transit through the large intestine and is absolutely normal in breastfed babies, so you need not worry about it. I would simply acknowledge what your pediatrician has said. No laxative or medicine is required. There is no need to give anything other than breast milk, not even water, up to six months of age.",
+ "audio_seconds": 24.83,
+ "created_at": "2026-07-06T00:46:12+00:00",
+ "failed": false,
+ "text": "We will now hear the text from Lesson 50, the last one.",
+ "seconds": 0.94
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__880762_2",
+ "condition": "clean",
+ "reference": "Hello, dear. First, please specify, is it a lump or an ulcer? A lump means a swelling, while an ulcer means a raw area. If it is a lump in the lower lip, what does it look like? Is it watery? If yes, it must be a ranula (a swelling looking like a frog). It must be removed by surgery. If it is an ulcer, get treatment for the cause of the ulcer, along with local application.",
+ "audio_seconds": 24.75,
+ "created_at": "2026-07-06T05:03:52+00:00",
+ "failed": false,
+ "text": "Hello, dear. First, please specify: is it a lump or an ulcer? A lump means a swelling, while an ulcer means a raw area. If it is a lump in the lower lip, what does it look like? Is it watery? It must be a ranula, a swelling looking like a frog. It must be removed by surgery. If it is an ulcer, get treatment for the cause of the ulcer along with local application.",
+ "seconds": 0.825
+}

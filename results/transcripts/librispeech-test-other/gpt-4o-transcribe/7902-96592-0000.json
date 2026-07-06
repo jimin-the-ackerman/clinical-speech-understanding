@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0000",
+ "condition": null,
+ "reference": "SURE YOU'VE LOOKED ROUND EVERYWHERE BOY YES FATHER QUITE",
+ "audio_seconds": 4.21,
+ "created_at": "2026-07-05T23:57:50+00:00",
+ "failed": false,
+ "text": "Sure you've looked round everywhere, boy? Yes, father, quite.",
+ "seconds": 1.301
+}

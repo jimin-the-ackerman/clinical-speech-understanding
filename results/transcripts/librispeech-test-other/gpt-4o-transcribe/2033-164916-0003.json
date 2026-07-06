@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164916-0003",
+ "condition": null,
+ "reference": "ZAU AL MAKAN BOWED HIS HEAD AWHILE AND THEN SAID I ACCEPT THIS POSITION FOR INDEED THERE WAS NO REFUSING AND HE WAS CERTIFIED THAT THE CHAMBERLAIN HAD COUNSELLED HIM WELL AND WISELY AND SET HIM ON THE RIGHT WAY",
+ "audio_seconds": 19.4,
+ "created_at": "2026-07-05T23:54:00+00:00",
+ "failed": false,
+ "text": "Zawalamakan bowed his head a while and then said, \"I accept the position\"; for indeed there was no refusing, and he was certified that the Chamberlain had counselled him well and wisely and set him on the right way.",
+ "seconds": 1.443
+}

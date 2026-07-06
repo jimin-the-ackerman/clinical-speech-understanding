@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75788-0000",
+ "condition": null,
+ "reference": "THEN I TOOK UP A GREAT STONE FROM AMONG THE TREES AND COMING UP TO HIM SMOTE HIM THEREWITH ON THE HEAD WITH ALL MY MIGHT AND CRUSHED IN HIS SKULL AS HE LAY DEAD DRUNK",
+ "audio_seconds": 10.73,
+ "created_at": "2026-07-05T13:05:41+00:00",
+ "failed": false,
+ "text": "Then I took up a great stone from among the trees and coming up to him smote him therewith on the head With all my might and crushed in his skull as he lay dead drunk",
+ "seconds": 0.333
+}

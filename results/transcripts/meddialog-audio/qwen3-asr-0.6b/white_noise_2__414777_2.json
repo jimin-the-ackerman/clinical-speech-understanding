@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__414777_2",
+ "condition": "white_noise_2",
+ "reference": "What is your age? If there is blood in your stool, please consult your physician. Blood in the stool may be due to hemorrhoids or due to some growth in the rectum or colon. Do you have constipation? Painful urination is due to some infection in the urinary tract.",
+ "audio_seconds": 14.68,
+ "created_at": "2026-07-06T05:09:11+00:00",
+ "failed": false,
+ "text": "What is your age? If there is blood in your stool, please consult your physician. Blood in the stool may be due to hemorrhoids or due to some growth in the rectum or colon. You have constipation. Painful urination is due to some infection in the urinary tract.",
+ "seconds": 0.542
+}

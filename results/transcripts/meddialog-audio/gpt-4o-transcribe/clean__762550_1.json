@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__762550_1",
+ "condition": "clean",
+ "reference": "I have a son born at thirty-four weeks plus five days, emergency cesarean section as he was in distress and I had low placenta. When he was born, he had thrombocytopenia and tachypneic breathing. He did not require a ventilator, weighed four pounds seven ounces, and was fine in the incubator for one day. He was then nasogastrically fed. Around eight months, he could not sit. I received the diagnosis of spastic cerebral palsy at eighteen months. He is now seven years old with physical disability but no learning problems. What do you think happened? They left me for four hours before they decided to deliver him. I was thirty years of age, weighed around eleven stones, and was healthy. I have two older boys with no problems; they had normal deliveries.",
+ "audio_seconds": 49.66,
+ "created_at": "2026-07-06T00:45:23+00:00",
+ "failed": false,
+ "text": "I had a son born at 34 weeks plus 5 days, emergency cesarean section as he was in distress and I have low placenta. When he was born, he had thrombocytopenia and tachypneic breathing. He did not require a ventilator, weighed 4 pounds 7 ounces, and was fine in the incubator for one day. He was then nasogastrically fed. Around 8 months, he could not sit. I received the diagnosis of spastic cerebral palsy at 18 months. He is now 7 years old with physical disability but no learning problems. What do you think happened? They left me for 4 hours before they decided to deliver him. I was 30 years of age, weighed around 11 stones, and was healthy. I have two older boys with no problems. They had normal deliveries.",
+ "seconds": 2.689
+}

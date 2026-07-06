@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-130732-0014",
+ "condition": null,
+ "reference": "IT IS POSSIBLE THAT SHE KNOWS THE SECRET OF PREPARING CRAB AS IT WAS PREPARED IN THE GOBEY'S OF BEFORE THE FIRE BUT HIS PRESTIGE DID NOT DESCEND TO HER",
+ "audio_seconds": 8.61,
+ "created_at": "2026-07-06T00:07:46+00:00",
+ "failed": false,
+ "text": "It is possible that she knows the secret of preparing crab, as it was prepared in the Gobies of before the fire, but his perceived to not descend to her.",
+ "seconds": 4.181
+}

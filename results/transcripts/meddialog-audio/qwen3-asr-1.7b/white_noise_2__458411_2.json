@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__458411_2",
+ "condition": "white_noise_2",
+ "reference": "It is not uncommon for a child with a congenital anomaly to have another congenital anomaly as well. Even if the newborn has an anorectal fistula, no immediate intervention or surgery is advisable, so I think that you can wait for your appointment on Tuesday. The ultimate remedy for these conditions will be surgery, or perhaps a series of surgeries.",
+ "audio_seconds": 19.29,
+ "created_at": "2026-07-06T05:36:12+00:00",
+ "failed": false,
+ "text": "It is not uncommon for a child with a congenital anomaly to have another congenital anomaly as well. Even if the newborn has an analrectal fistula, no immediate intervention or surgery is advisable. So I think that you can wait for your appointment on Tuesday. The ultimate remedy for these conditions will be surgery, or perhaps a series of surgeries.",
+ "seconds": 0.677
+}

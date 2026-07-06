@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0021",
+ "condition": null,
+ "reference": "MARGARET WAS COLLECTING HER MOTHER'S WORKING MATERIALS AND PREPARING TO GO TO BED",
+ "audio_seconds": 5.21,
+ "created_at": "2026-07-06T03:26:35+00:00",
+ "failed": false,
+ "text": "Margaret was collecting her mother's working materials and preparing to go to bed.",
+ "seconds": 0.183
+}

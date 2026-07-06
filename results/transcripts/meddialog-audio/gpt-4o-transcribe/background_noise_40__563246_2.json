@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__563246_2",
+ "condition": "background_noise_40",
+ "reference": "Take two tablets of Simhanada Guggulu twice daily, one capsule of Orthowin three times daily, and one capsule of Shallaki once daily. It is an Ayurvedic medicine; you will get good results without any side effects.",
+ "audio_seconds": 12.8,
+ "created_at": "2026-07-06T00:43:20+00:00",
+ "failed": false,
+ "text": "Take two tablets of Sinhanada Guggulu twice daily, one capsule of Orthovin three times daily, and one capsule of Shilajit once daily. It is an Ayurvedic medicine. You will get good results without any side effects.",
+ "seconds": 2.853
+}

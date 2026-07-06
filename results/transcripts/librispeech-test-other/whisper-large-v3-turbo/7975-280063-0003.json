@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280063-0003",
+ "condition": null,
+ "reference": "FOSTER HAD NEARLY ONE THOUSAND CAVALRYMEN AND TWO PIECES OF RABB'S INDIANA BATTERY THAT HAD ALREADY MADE FOR ITSELF A NAME FOR HARD FIGHTING",
+ "audio_seconds": 7.32,
+ "created_at": "2026-07-05T13:14:06+00:00",
+ "failed": false,
+ "text": "Foster had nearly 1,000 cavernmen and two pieces of Rab's Indiana battery that had already made for itself a name for hard fighting.",
+ "seconds": 0.133
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__635482_1",
+ "condition": "white_noise_2",
+ "reference": "I was in prison a while back, and they said I had Hepatitis B. I have never had sexual intercourse, and when I was there, the doctor told me that when I went back to see him, all my tests were good. I don't know if he was responding to Hepatitis B, but I was having stomach problems and burning in my stomach. Is that a symptom, or am I overreacting?",
+ "audio_seconds": 23.89,
+ "created_at": "2026-07-06T05:37:05+00:00",
+ "failed": false,
+ "text": "I was in prison a while back, and they said I had hepatitis B. I have never had sexual intercourse, and when I was there, the doctor told me that when I went back to see him, all my tests were good. I don't know if he was responding to hepatitis B, but I was having stomach problems and burning in my stomach. Is that a symptom, or am I overreacting?",
+ "seconds": 0.792
+}

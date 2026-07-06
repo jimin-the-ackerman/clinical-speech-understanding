@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0014",
+ "condition": null,
+ "reference": "BUT DON'T LOCK ME OUT PLEASE ANNIE",
+ "audio_seconds": 2.48,
+ "created_at": "2026-07-05T23:58:36+00:00",
+ "failed": false,
+ "text": "But don't lock me out, please, Annie.",
+ "seconds": 0.612
+}

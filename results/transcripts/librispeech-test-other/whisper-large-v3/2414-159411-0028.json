@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-159411-0028",
+ "condition": null,
+ "reference": "WHY I STOOD SO SAID THE TIGER JUMPING INTO THE CAGE AND MY HEAD WAS ON THIS SIDE",
+ "audio_seconds": 8.38,
+ "created_at": "2026-07-05T12:56:59+00:00",
+ "failed": false,
+ "text": "why i stood so said the tiger jumping into the cage and my head was on this side",
+ "seconds": 0.219
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__618392_1",
+ "condition": "white_noise_10",
+ "reference": "My baby is suffering from a fever as well as greenish stools. The doctor prescribed antibiotics for five days, but there has been no improvement. She was also given antibiotics through intravenous injection, but that did not work either. All tests, including a routine urine test and a blood culture, were conducted and showed normal results. However, her total leukocyte count is elevated. Please tell me the treatment.",
+ "audio_seconds": 27.05,
+ "created_at": "2026-07-06T03:02:50+00:00",
+ "failed": false,
+ "text": "My baby is suffering from a fever as well as venous stool. The doctor prescribed antibiotics for 5 days, but there has been no improvement. She was also given antibiotics through intravenous injection, but that did not work either. All tests, including a routine urine test and a blood culture, were conducted and showed normal results. However, her total leukocyte count is elevated; please tell me the treatment.",
+ "seconds": 8.621
+}

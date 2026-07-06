@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__799155_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, thank you for asking. I can understand your concern. The chemotherapy and the current complaint of stool stained with mucus are related. If there is mucus in the stool, then the chances of an intestinal infection are likely, and it could be a protozoal infection. If I were your doctor, then I would treat you with Metronidazole forty milligrams twice a day for ten days. This gives a very good response and is worth trying in a case like yours. Have a nice day.",
+ "audio_seconds": 27.73,
+ "created_at": "2026-07-06T05:37:51+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking. I can understand your concern. The chemotherapy and the current complaint of stools stained with mucus are related. If there is mucus in the stool, then the chances of an intestinal infection are likely, and it could be a protozoal infection. If I were your doctor, then I would treat you with metronidazole, forty milligrams twice a day for ten days. This gives a very good response and is worth trying in a case like yours. Have a nice day.",
+ "seconds": 0.976
+}

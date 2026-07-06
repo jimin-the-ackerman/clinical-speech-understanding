@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__196411_1",
+ "condition": "white_noise_6",
+ "reference": "Dear Sir, my sperm count is thirty%, total motility is fifty%. Sperm motility is as follows: Grade I - thirty%, Grade II - thirty%, Grade III - twenty%, Grade IV - twenty%. Sperm morphology shows normal percentage, abnormal ten%, and dead sixty%. Pus cells are between eight to ten. Can you please tell me if my report is normal or not? If it is not normal, could you suggest which treatment I should pursue?",
+ "audio_seconds": 33.54,
+ "created_at": "2026-07-06T00:47:10+00:00",
+ "failed": false,
+ "text": "Itza, musta lang kita. Ako si Maria Teresa. Gaano katagal na tayong hindi nagkita? Kamusta ang iyong pamilya at mga kaibigan? Masaya akong makita kang muli. Maaari ba tayong mag-usap sa Zoom o anumang video call? Maaari kitang matulungan sa anumang kailangan mo. Iniisip kita. Mag-ingat ka palagi sa sarili mo.",
+ "seconds": 1.751
+}

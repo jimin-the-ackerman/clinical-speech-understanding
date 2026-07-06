@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5040-0013",
+ "condition": null,
+ "reference": "IF I DROWN BY THE WAY THIS WILL BE MY LAST LETTER AND LIKE A WILL I BEQUEATH ALL MY KINDNESS TO YOU IN IT WITH A CHARGE NEVER TO BESTOW IT ALL UPON ANOTHER MISTRESS LEST MY GHOST RISE AGAIN AND HAUNT YOU",
+ "audio_seconds": 16.71,
+ "created_at": "2026-07-06T03:28:52+00:00",
+ "failed": false,
+ "text": "If I drown, by the way, this will be my last letter, and like a will, I bequeath all my kindness to you in it, with a charge, never to bestow it all upon another mistress, lest my ghost rise again and haunt you.",
+ "seconds": 0.543
+}

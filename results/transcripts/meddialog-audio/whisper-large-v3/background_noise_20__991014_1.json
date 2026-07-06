@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__991014_1",
+ "condition": "background_noise_20",
+ "reference": "My five-year-old has told me several times over the last several days that he feels dizzy and his tummy hurts. He does have a little cold, but nothing major. There doesn't seem to be a pattern as to when he tells me he's dizzy - he says his head is dizzy and his tummy is dizzy. Should I bring him to the doctor?",
+ "audio_seconds": 19.54,
+ "created_at": "2026-07-06T04:17:03+00:00",
+ "failed": false,
+ "text": "My five-year-old has told me several times over the last several days that he feels dizzy and his tummy hurts. He does have a little cold, but nothing major. There doesn't seem to be a pattern as to when he tells me he's dizzy. He says his head is dizzy and his tummy is d- Should I bring him to the doctor?",
+ "seconds": 0.623
+}

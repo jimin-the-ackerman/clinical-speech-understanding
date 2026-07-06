@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__256846_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, my sister had an ultrasound done on her kidney for kidney stones. The person who performed the ultrasound said she had two \"spots,\" but they didn't have a shadow, so she didn't think they were kidney stones. She advised making another appointment with her general practitioner. She also has blood in her urine. Her appointment isn't until Thursday; that's why I am asking.",
+ "audio_seconds": 23.47,
+ "created_at": "2026-07-06T05:16:16+00:00",
+ "failed": false,
+ "text": "Hi, my sister had an ultrasound done on her kidney for kidney stones. The person who performed the ultrasound said she had two spots, but they didn't have a shadow, so she didn't think they were kidney stones. She advised making another appointment with her general practitioner. She also has blood in her urine. Her appointment isn't until Thursday. That's why I am asking.",
+ "seconds": 0.729
+}

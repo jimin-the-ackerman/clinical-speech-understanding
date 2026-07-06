@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-14317-0005",
+ "condition": null,
+ "reference": "I ASK NO FURTHER REWARD FOR MY LABOURS UP TO THIS TIME THAN THE GRACIOUS FAVOUR OF YOUR MOST ILLUSTRIOUS EXCELLENCY",
+ "audio_seconds": 6.6,
+ "created_at": "2026-07-06T02:25:30+00:00",
+ "failed": false,
+ "text": "I ask no further reward for my labors up to this time than the gracious favor of Your Most Illustrious Excellency.",
+ "seconds": 5.203
+}

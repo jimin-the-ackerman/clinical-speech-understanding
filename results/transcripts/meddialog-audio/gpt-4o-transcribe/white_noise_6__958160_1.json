@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__958160_1",
+ "condition": "white_noise_6",
+ "reference": "Hello, Doctor. I was involved in a car accident in which my vehicle ran in reverse over my left arm, causing swelling and bruising all over my arm. Now, when I try to lay my arm down on something, there is a lot of pain in the elbow area and around the top of the elbow. The doctor says there is nothing broken. I am just wondering what I should do. It is warm to the touch.",
+ "audio_seconds": 23.72,
+ "created_at": "2026-07-06T00:47:42+00:00",
+ "failed": false,
+ "text": "People got burned cars and some people got hurt. But on that car, I mean, we were living in our own world. We didn't have anyone around us.",
+ "seconds": 0.977
+}

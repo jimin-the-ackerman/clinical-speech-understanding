@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5040-0030",
+ "condition": null,
+ "reference": "YOU MUST GIVE ME LEAVE TO ENTERTAIN YOU THUS WITH DISCOURSES OF THE FAMILY FOR I CAN TELL YOU NOTHING ELSE FROM HENCE",
+ "audio_seconds": 7.25,
+ "created_at": "2026-07-06T03:28:57+00:00",
+ "failed": false,
+ "text": "You must give me leave to entertain you thus with discourses of the family, for I can tell you nothing else from hence.",
+ "seconds": 0.273
+}

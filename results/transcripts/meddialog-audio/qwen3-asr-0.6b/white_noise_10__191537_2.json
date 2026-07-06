@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__191537_2",
+ "condition": "white_noise_10",
+ "reference": "Removing the adenoids is indicated as your child is experiencing breathing difficulty. Enlarged adenoids may cause nasal speech, breathing difficulty, snoring, and obstructive sleep apnea. There is nothing contraindicated in removing the adenoids.",
+ "audio_seconds": 14.85,
+ "created_at": "2026-07-06T05:04:47+00:00",
+ "failed": false,
+ "text": "The abnormalities indicated a child with a hearing deficiency. The marked abnormalities may cause nervousness, breathing difficulties, loss, and a rapid sleep after. There is nothing contradictory in removing the abnormalities.",
+ "seconds": 0.369
+}

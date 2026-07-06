@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__603660_1",
+ "condition": "background_noise_40",
+ "reference": "I have been having really bad lower abdominal pains, and when I sneeze, I experience rather sharp pains in the lower left side. Sometimes during the day, I also experience sharp pains in my lower abdomen; they are really painful and just shoot through my lower abdomen. I really don't know what to make of this. I am female and twenty years old.",
+ "audio_seconds": 21.25,
+ "created_at": "2026-07-06T04:55:35+00:00",
+ "failed": false,
+ "text": "I have been having really bad lower abdominal pains, and when I sneeze, I experience rather sharp pains in the lower left side. Sometimes during the day, I also experience sharp pains in my lower abdomen. They are really painful and just shoot through my lower abdomen. I really don't know what to make of this. I am female and twenty years old.",
+ "seconds": 0.675
+}

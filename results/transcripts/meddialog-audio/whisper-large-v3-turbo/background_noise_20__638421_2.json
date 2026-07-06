@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__638421_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, so long as that one stone does not cause you any problems with attacks of abdominal pain and nausea, there is no need to remove your gallbladder. The diet you are on is great, and it should help keep you from having to have surgery.",
+ "audio_seconds": 13.65,
+ "created_at": "2026-07-06T04:40:22+00:00",
+ "failed": false,
+ "text": "Hello. So long as that one stone does not cause you any problems with attacks of abdominal pain and nausea, there is no need to remove your gallbladder. The diet you are on is great, and it should help keep you from having to have surgery.",
+ "seconds": 0.207
+}

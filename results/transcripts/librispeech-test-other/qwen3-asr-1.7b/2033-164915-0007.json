@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164915-0007",
+ "condition": null,
+ "reference": "SHE SAID IT HATH REACHED ME O AUSPICIOUS KING THAT WHEN THE STOKER GIRTHED HIS ASS FOR FLIGHT AND BESPAKE HIMSELF SAYING OH WOULD I KNEW WHAT IS BECOME OF HIM",
+ "audio_seconds": 13.61,
+ "created_at": "2026-07-06T03:27:27+00:00",
+ "failed": false,
+ "text": "She said, \"It hath reached me, O auspicious king, that when the stalker girted his ass for flight and bespake himself, saying, 'O would I knew what is become of him.'\"",
+ "seconds": 0.442
+}

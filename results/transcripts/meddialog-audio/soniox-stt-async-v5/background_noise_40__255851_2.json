@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__255851_2",
+ "condition": "background_noise_40",
+ "reference": "For atrial fibrillation, very good treatments are available. Your cardiologist should first focus on rate control, which can be achieved with beta blockers such as metoprolol or diltiazem, or, if blood pressure is low, even in the absence of episodes, then consider digoxin or amiodarone. You should ask your cardiologist to consider these options. The second important thing is anticoagulation, which keeps the blood thin; otherwise, it may lead to the formation of a clot in the heart, and this clot may dislodge, leading to a stroke or paralysis. Therefore, discuss both of these issues. Also, during the episodes, take rest and lie down.",
+ "audio_seconds": 38.4,
+ "created_at": "2026-07-06T02:50:25+00:00",
+ "failed": false,
+ "text": "For atrial fibrillation, very good treatments are available. Your cardiologist should first focus on rate control, which can be achieved with beta blockers such as metoprolol or diltiazem, or if blood pressure is low even in the absence of episodes, then consider digoxin or amiodarone. You should ask your cardiologist to consider these options. The second important thing is anticoagulation, which keeps the blood flow steady. Otherwise it may lead to the formation of a clot in the heart, and this clot may dislodge, leading to a stroke or paralysis. Therefore, discuss both of these issues. Also, during the episodes, take rest and lie down.",
+ "seconds": 4.871
+}

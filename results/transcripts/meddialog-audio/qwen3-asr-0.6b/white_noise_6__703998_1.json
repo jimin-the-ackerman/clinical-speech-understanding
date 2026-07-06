@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__703998_1",
+ "condition": "white_noise_6",
+ "reference": "I have a six-year-old who is sick and I have her on amoxicillin four hundred milligrams. I am giving her six point two five milliliters by mouth every eight hours. She has a bad cough, and I was wondering if I can give her guaifenesin-codeine syrup one teaspoonful by mouth every four hours if needed. I was wondering if you could mix those two together. Thank you.",
+ "audio_seconds": 20.57,
+ "created_at": "2026-07-06T05:14:07+00:00",
+ "failed": false,
+ "text": "I have a six-year-old who is sick, and I have her on amoxicillin four hundred milligrams. I am giving her six point two five milliliters by mouth every eight hours. She has a bad cough, and I was wondering if I can give her guaifenesin coating syrup one teaspoonful by mouth every four hours if needed. I was wondering if you could mix those two together. Thank you.",
+ "seconds": 0.781
+}

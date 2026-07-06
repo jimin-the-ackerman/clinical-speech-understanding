@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__613117_2",
+ "condition": "background_noise_40",
+ "reference": "The treadmill test has a sensitivity rate of only sixty-five-seventy%, depending on the accuracy of the sensors used in the machine. Your symptoms could be indicative of angina. I would also suggest you undergo a two-dimensional echocardiogram, which observes the motion of the walls of the heart. If there is any regional wall motion abnormality, it will be revealed. Combined together, the echocardiogram and treadmill test have a sensitivity rate of more than eighty%. Stress thallium is also a non-invasive test that has a sensitivity rate of about ninety-seven%, so you can go for these tests to get a diagnosis. Gastritis, acid peptic disease, and anxiety can also bring about the same symptoms.",
+ "audio_seconds": 40.7,
+ "created_at": "2026-07-06T02:51:50+00:00",
+ "failed": false,
+ "text": "The treadmill test has a sensitivity rate of only 65-70%, depending on the accuracy of the sensors used in the machine. Your symptoms could be indicative of angina. I would also suggest you undergo a 2-dimensional echocardiogram, which observes the motion of the walls of the heart. If there is any regional wall motion abnormality, it will be revealed. Combining together, the echocardiogram and treadmill test have a sensitivity rate of more than 80%. Stress Thallium is also a non-invasive test that has a sensitivity rate of about 97%, so you can go for these tests to get a diagnosis. Gastritis, acid peptic disease, and anxiety can also bring about the same symptoms.",
+ "seconds": 8.565
+}

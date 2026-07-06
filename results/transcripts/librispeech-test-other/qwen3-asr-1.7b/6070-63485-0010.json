@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-63485-0010",
+ "condition": null,
+ "reference": "CRIED THE SCHOOLMASTER A THOUSAND FRANCS AND I'LL KILL HIM",
+ "audio_seconds": 4.59,
+ "created_at": "2026-07-06T03:34:19+00:00",
+ "failed": false,
+ "text": "Cried the schoolmaster, \"A thousand francs, and I'll kill him!\"",
+ "seconds": 0.202
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__745830_2",
+ "condition": "white_noise_10",
+ "reference": "According to me, this is a muscle strain. You do not need to worry; just give it some rest, and heat fermentation will suffice.",
+ "audio_seconds": 7.0,
+ "created_at": "2026-07-06T00:46:02+00:00",
+ "failed": false,
+ "text": "My name is Jim.",
+ "seconds": 0.395
+}

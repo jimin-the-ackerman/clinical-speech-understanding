@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__358635_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, welcome to HCM Forum. The pill is given to facilitate conditions that are favorable, such as the endometrium and the size of the uterine cavity, etc. You are advised to undergo in vitro fertilization for problems that are not corrected by other means, such as medications. Besides, I advise you on some dietary recommendations: consume more green leafy vegetables, pulses, sprouts, non-vegetarian food, and fruits.",
+ "audio_seconds": 26.79,
+ "created_at": "2026-07-06T02:50:43+00:00",
+ "failed": false,
+ "text": "Hi, welcome to HCN Forum. The pill is given to facilities conditions that are favorable, such as the endometrium and the size of the uterine cavity, etc. You are advised to undergo in vitro fertilization for problems that are not corrected by other means, such as medications. Besides, I advise you on some dietary recommendations: consume more green leafy vegetables, pulses, sprouts, non-vegetarian food, and fruits.",
+ "seconds": 5.235
+}

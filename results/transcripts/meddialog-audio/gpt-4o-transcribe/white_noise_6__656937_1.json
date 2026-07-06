@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__656937_1",
+ "condition": "white_noise_6",
+ "reference": "I have had postherpetic neuralgia for ten years. It has been pretty mild. I went through a stressful period this summer when my company was sold, and the pain increased greatly. Will it subside again, or could this be a new normal? Is there anything else I can do besides resting? I am taking Neurontin, Advil, and lots of vitamins.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T00:47:28+00:00",
+ "failed": false,
+ "text": "The top portion of the mountain is snowy.",
+ "seconds": 0.74
+}

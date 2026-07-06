@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5040-0014",
+ "condition": null,
+ "reference": "INDEED I LIKE HIM EXTREMELY AND HE IS COMMENDED TO ME BY PEOPLE THAT KNOW HIM VERY WELL AND ARE ABLE TO JUDGE FOR A MOST EXCELLENT SERVANT AND FAITHFUL AS POSSIBLE",
+ "audio_seconds": 11.61,
+ "created_at": "2026-07-06T03:16:54+00:00",
+ "failed": false,
+ "text": "Indeed, I like him extremely, and he is commended to me by people that know him very well, and are able to judge, for a most excellent servant and faithful as possible.",
+ "seconds": 0.381
+}

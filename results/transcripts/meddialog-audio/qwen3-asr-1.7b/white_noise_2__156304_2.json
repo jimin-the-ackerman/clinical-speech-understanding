@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__156304_2",
+ "condition": "white_noise_2",
+ "reference": "Antibiotics are very necessary after the extraction of any tooth. Most commonly, they are given for only five days; it may be two times a day or three times a day, depending on the types of antibiotics. In the case of wisdom tooth extraction, some complications are seen. The most common is swelling on the affected side, which may subside within two to three days. If you take proper medication on time and perform warm saline rinses four-five times a day, there is no requirement to meet a specialist for this case.",
+ "audio_seconds": 33.28,
+ "created_at": "2026-07-06T05:35:03+00:00",
+ "failed": false,
+ "text": "Antibiotics are very necessary after the extraction of any tooth. Most commonly, they are given for only five days. It may be two times a day or three times a day, depending on the types of antibiotics. In the case of wisdom tooth extraction, some complications are seen. The most common is swelling on the affected side, which may subside within two to three days. If you take proper medication on time and perform warm saline rinses four five times a day, there is no requirement to meet a specialist for this case.",
+ "seconds": 1.001
+}

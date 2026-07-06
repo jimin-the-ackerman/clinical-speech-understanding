@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__243260_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, my sister is not well. She is very confused and has regressed to behaving like a child. She is undergoing many tests, and they initially thought it was a brain tumor but ruled it out. Now they say she has very low blood sugar in her system and are testing her for motor neuron disease.",
+ "audio_seconds": 16.98,
+ "created_at": "2026-07-06T05:24:00+00:00",
+ "failed": false,
+ "text": "Hi, my sister is not well. She is very confused and has regressed to behaving like a child. She is undergoing many tests, and they initially thought it was a brain tumor, but ruled it out. Now they say she has very low blood sugar in her system, and are testing for motor neuron disease.",
+ "seconds": 0.616
+}

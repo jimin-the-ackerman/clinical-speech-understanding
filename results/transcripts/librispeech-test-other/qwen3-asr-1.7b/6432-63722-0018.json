@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0018",
+ "condition": null,
+ "reference": "AND THE DETECTIVE'S PROFESSIONAL INSTINCTS GOT THE UPPER HAND OF HIS FRIENDLINESS NOT THE LEAST IN THE WORLD NOT AS MUCH AS YOU DO WAS THE COOL ANSWER",
+ "audio_seconds": 9.59,
+ "created_at": "2026-07-06T03:35:00+00:00",
+ "failed": false,
+ "text": "And the detective's professional instincts got the upper hand of his friendliness. Not the least in the world, not as much as you do, was the cool answer.",
+ "seconds": 0.343
+}

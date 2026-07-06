@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__159942_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, welcome to the healthcare facility. I really appreciate your concern. It is better to confirm the final diagnosis because this does not present as pure neurological symptoms, but it may be some musculoskeletal-related symptoms. In my opinion, multiple sclerosis is questionable. I hope this information helps.",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T00:46:18+00:00",
+ "failed": false,
+ "text": "Hello, welcome to the healthcare facility. I really appreciate your concern. It is better to confirm the final diagnosis because this does not present as pure neurological symptom, but it may be some musculoskeletal related symptom. In my opinion, multiple sclerosis is questionable. I hope this information helps.",
+ "seconds": 0.945
+}

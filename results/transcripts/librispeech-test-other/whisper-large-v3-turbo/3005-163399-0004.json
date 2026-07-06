@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163399-0004",
+ "condition": null,
+ "reference": "WHEN WE GOT THERE SHE SET ME DOWN IN A SPLIT BOTTOMED CHAIR AND SET HERSELF DOWN ON A LITTLE LOW STOOL IN FRONT OF ME HOLDING BOTH OF MY HANDS AND SAYS",
+ "audio_seconds": 9.4,
+ "created_at": "2026-07-05T13:10:02+00:00",
+ "failed": false,
+ "text": "when we got there she set me down in a split-bottomed chair and set herself down on a little low stool in front of me holding both of my hands and says",
+ "seconds": 0.133
+}

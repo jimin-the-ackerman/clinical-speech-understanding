@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__360735_2",
+ "condition": "clean",
+ "reference": "If the stent becomes occluded, then he will have a heart attack. Heart attacks are caused by ischemia to the heart muscle. The goal is to prevent ischemia to the heart muscle. You need to optimize your medical treatment now before the ischemia becomes worse. He should take aspirin daily and all of the medications that have been prescribed by the cardiologist and/or cardiovascular surgeon. He should also exercise daily and eat a diet that is rich in fruits, vegetables, whole grains, and omega fatty acids. He should avoid red meats and foods that are high in cholesterol. You should also try to avoid fatty foods. He should not eat any fast food at all. He should also avoid alcohol and tobacco.",
+ "audio_seconds": 41.98,
+ "created_at": "2026-07-06T00:44:56+00:00",
+ "failed": false,
+ "text": "If the stent becomes occluded, then he will have a heart attack. Heart attacks are caused by ischemia to the heart muscle. The goal is to prevent ischemia to the heart muscle. You need to optimize your medical treatment now before the ischemia becomes worse. He should take aspirin daily and all of the medications that have been prescribed by the cardiologist and/or cardiovascular surgeon. He should also exercise daily and eat a diet that is rich in fruits, vegetables, whole grains, and omega fatty acids. He should avoid red meats and foods that are high in cholesterol. You should also try to avoid fatty foods. He should not eat any fast food at all. He should also avoid alcohol and tobacco.",
+ "seconds": 3.3
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__827213_1",
+ "condition": "background_noise_60",
+ "reference": "My son just came running down the stairs screaming because his partially dissolved melatonin was coming out of his right nostril. He took the pill about thirty minutes ago. He did have balloon sinus surgery last year. Is it possible the pill went into his sinus cavity?",
+ "audio_seconds": 13.48,
+ "created_at": "2026-07-06T00:44:28+00:00",
+ "failed": false,
+ "text": "My son just came running down the stairs screaming because his partially dissolved melatonin was coming out of his right nostril. He took the pill about 30 minutes ago. He did have balloon sinus surgery last year. Is it possible the pill went into his sinuses?",
+ "seconds": 0.96
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__310040_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. I have reviewed your question and understand your concern. The only cause that a lumbar puncture can lead to paraplegia is lumbar epidural hematoma, which is caused by the lumbar puncture. You should immediately have a lumbar magnetic resonance imaging to rule out this eventuality. I hope this helps.",
+ "audio_seconds": 18.77,
+ "created_at": "2026-07-06T04:29:26+00:00",
+ "failed": false,
+ "text": "Hello. I have reviewed your question and understand your concerns. The only cause that a lumbar pumpster can lead to paraplegia is lumbar epidural hematoma, which is caused by the lumbar pumpsters. You should immediately have a lumbar magnetic resonance energy to rule out this eventuality. I hope this helps.",
+ "seconds": 0.585
+}

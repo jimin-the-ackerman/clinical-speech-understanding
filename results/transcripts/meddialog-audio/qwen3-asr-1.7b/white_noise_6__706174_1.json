@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__706174_1",
+ "condition": "white_noise_6",
+ "reference": "I have upper left pain in my stomach and soreness to touch on the left side of my central stomach. I often feel pain in the left side and right side that radiates to my back. The other pain I have been experiencing is in the upper center and out my back. I had this twice. It goes away as quickly as I feel it, and I get burps all the time with it. I suppose it sounds at the time like trapped wind. I had a colonoscopy and endoscopy a couple of months ago, and as far as I know, all was fine.",
+ "audio_seconds": 29.18,
+ "created_at": "2026-07-06T05:41:14+00:00",
+ "failed": false,
+ "text": "I have upper left pain in my stomach and soreness to touch on the left side of my central stomach. I often feel pain in the left side and right side that radiates my back. The other pain I have been experiencing is in the upper center and out my back. I had this twice. It goes away as quickly as I feel it, and I get hurt all the time with it. I suppose it sounds at the time like trapped wind. I had a colonoscopy and endoscopy a couple of months ago, and as far as I know, all was fine.",
+ "seconds": 1.101
+}

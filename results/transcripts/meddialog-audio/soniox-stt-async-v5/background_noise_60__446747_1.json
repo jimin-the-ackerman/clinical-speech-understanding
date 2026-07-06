@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__446747_1",
+ "condition": "background_noise_60",
+ "reference": "I have recently experienced episodes of what doctors call vertigo. I get dizziness, headache, and nausea. I suddenly realize the feeling comes back after wearing a tight headband. When I do not wear it, the symptoms go away, and after a few weeks, I put it on again. When I feel that it is a bit tight at noon, I take it off, and I start feeling dizzy. The next day, I am in full swing with the symptoms. Is it possible that the pressure on my skull is causing a lack of oxygen?",
+ "audio_seconds": 29.78,
+ "created_at": "2026-07-06T02:54:34+00:00",
+ "failed": false,
+ "text": "I have recently experienced episodes of what doctors call vertigo; I get dizziness, headache, and nausea. I suddenly realize the feeling comes back after wearing a tight headband. When I do not wear it, the symptoms go away, and after a few weeks I put it on again. When I feel that it is a bit tight at noon, I take it off and I start feeling dizzy. The next day I am in full swing with the symptoms. Is it possible that the pressure on my skull is causing a lack of oxygen?",
+ "seconds": 5.187
+}

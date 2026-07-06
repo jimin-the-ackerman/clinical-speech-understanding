@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0044",
+ "condition": null,
+ "reference": "GOD ANSWERS TO EACH OF YOU YOU ARE",
+ "audio_seconds": 2.89,
+ "created_at": "2026-07-06T02:41:05+00:00",
+ "failed": false,
+ "text": "God answers to each of you; you are.",
+ "seconds": 4.599
+}

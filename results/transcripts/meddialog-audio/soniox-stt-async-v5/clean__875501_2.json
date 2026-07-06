@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__875501_2",
+ "condition": "clean",
+ "reference": "Hi, thank you for asking. I truly appreciate your concern. This is a functional complaint, and some psychological elements play a role in this. You need to stop thinking about bizarre ideas. In such cases, I typically try tranquilizers, which provide excellent results. It is important to keep your stress level low, and the best option is to take chlordiazepoxide three times a day. I hope this information helps you. Have a nice day.",
+ "audio_seconds": 25.51,
+ "created_at": "2026-07-06T02:59:49+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking. I truly appreciate your concern. This is a functional complaint, and some psychological elements play a role in this. You need to stop thinking about bizarre ideas. In such cases, I typically try tranquilizers, which provide excellent results. It is important to keep your stress level low, and the best option is to take chlordiazepoxide 3 times a day. I hope this information helps you. Have a nice day.",
+ "seconds": 5.146
+}

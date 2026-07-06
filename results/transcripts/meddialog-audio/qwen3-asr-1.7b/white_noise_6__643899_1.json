@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__643899_1",
+ "condition": "white_noise_6",
+ "reference": "A male patient, thirty years old, presented with nausea, vomiting, blurred vision, and elevated liver enzymes: alanine aminotransferase one hundred and twenty and aspartate aminotransferase one hundred and twelve. Total bilirubin is two point five, mainly direct. Complete blood count was unremarkable. Electrolytes are normal. Computed tomography of the brain angiography is unremarkable. Fundus examination shows bilateral papilledema. Viral screening is negative except for Epstein-Barr virus immunoglobulin G titer, which is high. What is the differential diagnosis? How should I approach this case? Cerebrospinal fluid tapping was done with normal examination.",
+ "audio_seconds": 51.03,
+ "created_at": "2026-07-06T05:40:54+00:00",
+ "failed": false,
+ "text": "Imagine, thirty years old, presented with nausea, vomiting, blurred vision, and elevated liver enzymes. Alanine aminotransferase one hundred and twenty, and aspartate aminotransferase one hundred and twelve. Total bilirubin is two point five, mainly direct. Complete blood count was unremarkable. Electrolytes are normal. Computed tomography of the brain angiography is unremarkable. Fundus examination shows bilateral papilloma. Viral screen is negative, except for Epstein Barr virus. Immunoglobulin G titer, which is high. What is the differential diagnosis? How should I approach this case? Cerebrospinal fluid tapping was done with normal examination.",
+ "seconds": 1.349
+}

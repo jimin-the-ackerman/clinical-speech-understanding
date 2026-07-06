@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63240-0010",
+ "condition": null,
+ "reference": "WELL SO IT IS THEY ARE ALL WITCHES AND WIZARDS MEDIUMS AND SPIRIT RAPPERS AND ROARING RADICALS",
+ "audio_seconds": 7.68,
+ "created_at": "2026-07-05T13:13:05+00:00",
+ "failed": false,
+ "text": "well so it is they are all witches and wizards mediums and spirit wrappers and roaring radicals",
+ "seconds": 0.116
+}

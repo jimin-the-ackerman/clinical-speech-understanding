@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163391-0017",
+ "condition": null,
+ "reference": "OLD PETER HAD FRIENDS AND THEY AIN'T GOING TO LET THEM COME TO NO HARM",
+ "audio_seconds": 4.27,
+ "created_at": "2026-07-05T12:57:38+00:00",
+ "failed": false,
+ "text": "Old Peter had friends, and they ain't gonna let them come to no harm.",
+ "seconds": 0.208
+}

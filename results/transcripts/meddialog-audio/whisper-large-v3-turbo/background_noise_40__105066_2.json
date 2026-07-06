@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__105066_2",
+ "condition": "background_noise_40",
+ "reference": "No, there is no nerve that connects both areas except for radiating pain from the heart. You may want to consider them as two separate problems connected by stress on the respiratory muscles or a high protein diet causing gastric reflux, which results in sternal pain, along with tension in your neck causing wrist pain. Good luck.",
+ "audio_seconds": 20.48,
+ "created_at": "2026-07-06T04:40:57+00:00",
+ "failed": false,
+ "text": "No, there is no nerve that connects both areas except for radiating pain from the heart. You may want to consider them as two separate problems connected by stress on the respiratory muscles or a high-protein diet causing gastric reflux, which results in sternal pain, along with tension in your neck causing wrist pain. Good luck.",
+ "seconds": 0.248
+}

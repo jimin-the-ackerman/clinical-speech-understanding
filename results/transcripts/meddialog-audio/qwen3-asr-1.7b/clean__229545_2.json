@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__229545_2",
+ "condition": "clean",
+ "reference": "Hello, if it is not causing any pain, discomfort, or indigestion, then it may be exaggerated bowel sounds due to the presence of gas in the intestine. This may be due to not voiding the stools regularly or constipation. Certain foods may cause this type of complaint. Look out for foods that cause complaints when consumed. It is better to avoid them.",
+ "audio_seconds": 23.04,
+ "created_at": "2026-07-06T05:27:40+00:00",
+ "failed": false,
+ "text": "Hello. If it is not causing any pain, discomfort, or indigestion, then it may be exaggerated bowel sounds due to the presence of gas in the intestine. This may be due to not voiding the stools regularly or constipation. Certain foods may cause this type of complaints. Look out for foods that cause complaints when consumed. It is better to avoid them.",
+ "seconds": 0.714
+}

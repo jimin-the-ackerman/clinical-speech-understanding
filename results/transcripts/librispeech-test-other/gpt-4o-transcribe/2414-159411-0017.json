@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-159411-0017",
+ "condition": null,
+ "reference": "THEN THE TIGER BEGAN TO ROAR AND SAID THE JUDGMENT OF ALL IS AGAINST YOU O BRAHMAN",
+ "audio_seconds": 6.88,
+ "created_at": "2026-07-05T23:54:09+00:00",
+ "failed": false,
+ "text": "Then the tiger began to roar, and said, \"Judgment of all is against you, O Brahmin.\"",
+ "seconds": 0.801
+}

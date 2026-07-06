@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__979249_2",
+ "condition": "background_noise_20",
+ "reference": "If it is a steroid, just stop it. It is harming you. Use injectable Kenalog intraarticularly for some relief, but I need to see your X-ray first.",
+ "audio_seconds": 9.9,
+ "created_at": "2026-07-06T02:49:40+00:00",
+ "failed": false,
+ "text": "If it is a steroid, just stop it; it is harming you. Use injectable canal light intra-articularly for some relief, but I need to see your X-ray first.",
+ "seconds": 4.771
+}

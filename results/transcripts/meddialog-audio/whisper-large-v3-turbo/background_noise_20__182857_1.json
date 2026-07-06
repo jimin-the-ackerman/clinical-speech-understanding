@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__182857_1",
+ "condition": "background_noise_20",
+ "reference": "Hello, I am a fifty-eight-year-old woman and have had back surgery on my L5-S1 five years ago. I am the proud owner of two rods, four bolts, etc. I have recently herniated another disc. My doctor is very good at his job. He has recently had me undergo a battery of tests. He has found a spot on my left rib and spine where the disc is herniated. He seems quite concerned about them and said he would like to conduct some more tests before I see the surgeon. He did not want to alarm me but suggested it might be cancer. I was wondering if it is, what are my options?",
+ "audio_seconds": 38.4,
+ "created_at": "2026-07-06T04:39:36+00:00",
+ "failed": false,
+ "text": "Hello, I am a 58-year-old woman and have had back surgery on my L5-S1 five years ago. I am the proud owner of two rods, four rods, etc. I have recently herniated another disc. My doctor is very good at his job. He has recently had me undergo a battery of tests. He has found a spot on my left rib and spine where the disc is herniated. He seems quite concerned about them and said he would like to conduct some more tests before I see the surgeon. He did not want to alarm me but suggested it might be cancer. I was wondering if it is, what are my options?",
+ "seconds": 0.419
+}

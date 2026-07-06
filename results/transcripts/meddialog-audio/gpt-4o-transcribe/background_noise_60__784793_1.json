@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__784793_1",
+ "condition": "background_noise_60",
+ "reference": "I recently had a stent placed in my left carotid artery and am on Clopidogrel. I have developed a sizable bruise on my forearm which has a hard knot in the center of it. Do I need to see my doctor about this, or will it just go away? Could it be a blood clot even though I am on a blood thinner?",
+ "audio_seconds": 18.43,
+ "created_at": "2026-07-06T00:44:25+00:00",
+ "failed": false,
+ "text": "I've recently had a stent placed in my left carotid artery and am on clopidogrel. I have developed a sizable bruise on my forearm which has a hard knot in the center of it. Do I need to see my doctor about this, or will it just go away? Could it be a blood clot even though I am on a blood thinner?",
+ "seconds": 1.159
+}

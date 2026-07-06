@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131564-0019",
+ "condition": null,
+ "reference": "I'VE BEEN A CURSED RASCAL GOD KNOWS SAID HE AS HE GAVE IT A HEARTY SQUEEZE BUT YOU SEE IF I DON'T MAKE AMENDS FOR IT D N ME IF I DON'T",
+ "audio_seconds": 12.89,
+ "created_at": "2026-07-06T03:21:07+00:00",
+ "failed": false,
+ "text": "I've been a cursed rascal. God knows,\" said he, as he gave it a hearty squeeze. \"But you see, if I don't make a man for it, then me if I don't.\"",
+ "seconds": 0.446
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__593602_1",
+ "condition": "background_noise_40",
+ "reference": "A friend of mine was diagnosed with stage three breast cancer. She had the breast removed in two thousand and twelve. In January of two thousand and fourteen, they told her that it had spread to her lungs and liver. She is eighty-six years old, so they aren't doing any type of treatments because of her age. How long do you think she can survive?",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T05:21:44+00:00",
+ "failed": false,
+ "text": "A friend of mine was diagnosed with stage three breast cancer. She had the breast removed in two thousand and twelve. In January of two thousand and fourteen, they told her that it had spread to her lungs and liver. She is eighty six years old, so they aren't doing any type of treatments because of her age. How long do you think she can survive?",
+ "seconds": 0.702
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0056",
+ "condition": null,
+ "reference": "THERE WAS NO REPLY BUT THE SOUND OF HURRYING STEPS CAME QUICKER AND QUICKER NOW AND THEN THEY WERE INTERRUPTED BY A GROAN",
+ "audio_seconds": 8.01,
+ "created_at": "2026-07-06T02:40:34+00:00",
+ "failed": false,
+ "text": "There was no reply, but the sound of hurrying steps came quicker and quicker; now and then they were interrupted by a groan.",
+ "seconds": 4.61
+}

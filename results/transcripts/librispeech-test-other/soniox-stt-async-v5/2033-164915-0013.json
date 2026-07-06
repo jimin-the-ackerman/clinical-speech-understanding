@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164915-0013",
+ "condition": null,
+ "reference": "AND HE ANSWERED I AM THE CHAMBERLAIN OF THE EMIR OF DAMASCUS KING SHARRKAN SON OF OMAR BIN AL NU'UMAN LORD OF BAGHDAD AND OF THE LAND OF KHORASAN AND I BRING TRIBUTE AND PRESENTS FROM HIM TO HIS FATHER IN BAGHDAD",
+ "audio_seconds": 17.8,
+ "created_at": "2026-07-06T00:01:23+00:00",
+ "failed": false,
+ "text": "And he answered, \"I am the chamberlain of the Emir of Damascus, King Sharkan, son of Omar bin al-Numan, Lord of Baghdad and of the land of Khorasan, and I bring tribute and presents from him to his father in Baghdad.\"",
+ "seconds": 4.34
+}

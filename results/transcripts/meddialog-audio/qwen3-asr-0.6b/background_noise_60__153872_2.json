@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__153872_2",
+ "condition": "background_noise_60",
+ "reference": "Your description of pain again appears like a migraine with aura. However, you will go for the Magnetic Resonance Imaging scan and ophthalmology check-up. If all these are negative, then do a routine blood check-up with Erythrocyte Sedimentation Rate, C-Reactive Protein, blood sugar check-up, and Electrocardiogram. Treatment for these types of headaches is Amitriptyline ten milligrams once daily, Naproxen five hundred milligrams twice daily for three days, and Zolmitriptan nasal spray if the headache is severe.",
+ "audio_seconds": 30.46,
+ "created_at": "2026-07-06T04:57:19+00:00",
+ "failed": false,
+ "text": "The description of pain again appears like a migraine with aura. However, you will go for the magnetic resonance imaging scan and ophthalmology checkup. If all these are negative, then do a routine blood checkup with erythrocyte sedimentation rate, C-reactive protein, blood sugar checkup, and electrocardiogram. Treatment for these types of headaches is amitriptyline ten milligrams once daily, Proxyn five hundred milligrams twice daily for three days, and zolmitriptan nasal spray if the headache is severe.",
+ "seconds": 1.051
+}

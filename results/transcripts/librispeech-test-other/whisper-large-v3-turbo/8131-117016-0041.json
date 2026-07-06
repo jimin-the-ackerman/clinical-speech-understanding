@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0041",
+ "condition": null,
+ "reference": "GET A STRETCHER AND TAKE HIM WHEREVER HE BELONGS HE ORDERED",
+ "audio_seconds": 4.36,
+ "created_at": "2026-07-05T13:14:21+00:00",
+ "failed": false,
+ "text": "Get a stretcher and take him wherever he belongs, he ordered.",
+ "seconds": 0.111
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0004",
+ "condition": null,
+ "reference": "TOM WROTE ONCE A WEEK TO HIS MOTHER BUT THE LETTERS WERE SHORT AND NOT VERY SATISFACTORY FOR MEN NEVER DO TELL THE INTERESTING LITTLE THINGS THAT WOMEN BEST LIKE TO HEAR",
+ "audio_seconds": 10.4,
+ "created_at": "2026-07-06T00:05:21+00:00",
+ "failed": false,
+ "text": "Tom wrote once a week to his mother, but the letters were short and not very satisfactory, for men never do tell the interesting little things that women best like to hear.",
+ "seconds": 4.36
+}

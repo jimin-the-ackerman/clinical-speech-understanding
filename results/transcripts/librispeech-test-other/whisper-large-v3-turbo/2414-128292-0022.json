@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128292-0022",
+ "condition": null,
+ "reference": "FOR IT DO I ASK AND SEEK AND HAVE SOUGHT BUT HAVE NOT FOUND IT",
+ "audio_seconds": 6.26,
+ "created_at": "2026-07-05T13:09:36+00:00",
+ "failed": false,
+ "text": "for it do i ask and seek and have sought but have not found it",
+ "seconds": 0.13
+}

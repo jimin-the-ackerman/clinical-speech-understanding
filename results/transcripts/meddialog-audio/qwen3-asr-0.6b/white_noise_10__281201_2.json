@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__281201_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, there is absolutely no reason to be worried. The hormones in the pill are washed out of your body in a few days' time. It has no impact on your future menstrual cycles or fertility.",
+ "audio_seconds": 11.26,
+ "created_at": "2026-07-06T05:05:11+00:00",
+ "failed": false,
+ "text": "However, there is absolutely no reason to believe the hormones in your lifestyle of your body will interfere with you. It has no impact on your physical health or your quality.",
+ "seconds": 0.336
+}

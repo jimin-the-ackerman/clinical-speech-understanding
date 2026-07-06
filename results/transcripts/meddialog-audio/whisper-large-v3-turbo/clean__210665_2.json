@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__210665_2",
+ "condition": "clean",
+ "reference": "Hello, nowadays we have good medications for asthma. You should get a lung function test done and treatment accordingly. You can be completely symptom-free with effective medications. Consider getting an allergy test to identify the triggers and immunotherapy, which can help cure allergies.",
+ "audio_seconds": 18.18,
+ "created_at": "2026-07-06T04:44:02+00:00",
+ "failed": false,
+ "text": "Hello. Nowadays, we have good medications for asthma. You should get a lung function test done and treatment accordingly. You can be completely symptom-free with effective medications. Consider getting an allergy test to identify the triggers and immunotherapy, which can help cure allergies.",
+ "seconds": 0.228
+}

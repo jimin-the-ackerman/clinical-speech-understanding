@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__692458_2",
+ "condition": "white_noise_6",
+ "reference": "Hello and welcome to hypertrophic cardiomyopathy. Since your husband had an implantable cardioverter-defibrillator and an ablation, which you say is successful, I would like to inform you that he has a good prognosis as he now has a good ejection fraction and no recurrent ventricular tachycardia. Just remind him to be regular with his medications and doctor appointments.",
+ "audio_seconds": 21.25,
+ "created_at": "2026-07-06T04:49:01+00:00",
+ "failed": false,
+ "text": "Hello and welcome to hypertrophic cardiomyopathy. Since your husband had an implantable cardioverter defibrillator and an ablation, which you say is successful, I would like to inform you that he has a good prognosis as he now has a good ejection fraction and no recurrent ventricular tachycardia. Just remind him to be regular with his medications and doctor appointments.",
+ "seconds": 0.238
+}

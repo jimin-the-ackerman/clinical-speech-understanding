@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-1066-0014",
+ "condition": null,
+ "reference": "I ASKED NO QUESTIONS",
+ "audio_seconds": 2.47,
+ "created_at": "2026-07-06T02:28:37+00:00",
+ "failed": false,
+ "text": "I asked no questions.",
+ "seconds": 4.609
+}

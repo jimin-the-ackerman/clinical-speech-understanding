@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__195966_1",
+ "condition": "white_noise_6",
+ "reference": "Hello, Doctor. I am in the intrauterine insemination phase now. Yesterday was the fifteenth day, and my follicle size is still eleven point five millimeters with only one follicle. I have been taking Humog seventy-five International Units since June twenty-six, and yesterday I was advised to take Humog one hundred and fifty milligrams. Please suggest how to increase my follicle size.",
+ "audio_seconds": 24.83,
+ "created_at": "2026-07-06T00:47:10+00:00",
+ "failed": false,
+ "text": "I love that, and you can do that with any size block. That's what's just so wonderful about it. So I'm loving what I'm doing. I hope you can see that I'm having a good time. I'm not doing anything fancy. I'm just following the seam allowance.",
+ "seconds": 1.723
+}

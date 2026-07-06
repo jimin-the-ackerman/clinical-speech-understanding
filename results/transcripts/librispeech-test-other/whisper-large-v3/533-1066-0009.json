@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-1066-0009",
+ "condition": null,
+ "reference": "SOMETHING IS GOING TO OCCUR HE SAID",
+ "audio_seconds": 3.98,
+ "created_at": "2026-07-05T13:02:40+00:00",
+ "failed": false,
+ "text": "something is going to occur he said",
+ "seconds": 0.16
+}

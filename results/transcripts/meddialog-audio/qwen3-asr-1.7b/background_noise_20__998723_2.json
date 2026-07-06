@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__998723_2",
+ "condition": "background_noise_20",
+ "reference": "Since there is no blood loss, I suppose the problem is with the absorption of iron. Before conducting costly tests, it is better to try parenteral iron supplementation after due precautions in a hospital setup, which may help you to some extent. There are some conditions that fall under iron-refractory iron deficiency anemia.",
+ "audio_seconds": 20.91,
+ "created_at": "2026-07-06T05:19:25+00:00",
+ "failed": false,
+ "text": "Since there is no blood loss, I suppose the problem is with the absorption of iron. Before conducting costly tests, it is better to try for iron supplementation after due precautions in a hospital setup, which may help you to some extent. There are some conditions that fall under iron refractory iron deficiency anemia.",
+ "seconds": 0.619
+}

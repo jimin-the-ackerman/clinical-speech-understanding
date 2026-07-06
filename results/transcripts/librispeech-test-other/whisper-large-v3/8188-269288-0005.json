@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0005",
+ "condition": null,
+ "reference": "WHY YOU WILL BE PARTING FROM ME YOU KNOW",
+ "audio_seconds": 3.07,
+ "created_at": "2026-07-05T13:07:52+00:00",
+ "failed": false,
+ "text": "why you will be parting from me you know",
+ "seconds": 0.161
+}

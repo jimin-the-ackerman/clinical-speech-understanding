@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0081",
+ "condition": null,
+ "reference": "THE FIRST ABBOT OF CLAIRVAUX",
+ "audio_seconds": 2.49,
+ "created_at": "2026-07-05T23:54:54+00:00",
+ "failed": false,
+ "text": "The first abbot of Clairvaux.",
+ "seconds": 0.581
+}

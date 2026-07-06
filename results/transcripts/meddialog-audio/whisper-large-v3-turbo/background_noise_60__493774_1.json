@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__493774_1",
+ "condition": "background_noise_60",
+ "reference": "Hello, I have had a cold for the last two months. The cold has not shown an increase in its hold, as if it has reached an equilibrium with my body. I have completed the prescribed doses, but since there has not been much improvement, the doctor suggested taking a chest X-ray. It seems this problem is due to cough in my lungs that is not being expelled. Can I try Deriphyllin? What is your suggestion?",
+ "audio_seconds": 27.39,
+ "created_at": "2026-07-06T04:42:59+00:00",
+ "failed": false,
+ "text": "Hello. I have had it for the last two months. The cold has not shown an increase in its hold, as if it has reached an equilibrium with my body. I have completed the prescribed doses, but since not been much improvement, the doctor suggested taking a chest x-ray. It seems this problem is due to cough in my lungs that is not being expelled. Can I try Daraphylin? What is your suggestion?",
+ "seconds": 0.244
+}

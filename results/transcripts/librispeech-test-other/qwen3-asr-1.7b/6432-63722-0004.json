@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0004",
+ "condition": null,
+ "reference": "AND HAVING PUT HIMSELF IN A FAIR WAY AS HE HOPED TO SOLVE SOME OF THE PROBLEMS CONNECTED WITH THE DARCY CASE COLONEL ASHLEY WENT DOWN TO POLICE HEADQUARTERS TO LEARN MORE FACTS IN CONNECTION WITH THE MURDER OF THE EAST INDIAN",
+ "audio_seconds": 13.69,
+ "created_at": "2026-07-06T03:34:57+00:00",
+ "failed": false,
+ "text": "And having put himself in a fair way, as he had hoped to solve some of the problems connected with the Darcy case, Colonel Ashley went down to police headquarters to learn more facts in the connection with the murder of the East Indian.",
+ "seconds": 0.464
+}

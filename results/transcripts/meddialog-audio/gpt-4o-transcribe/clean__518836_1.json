@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__518836_1",
+ "condition": "clean",
+ "reference": "I have a cholesterol level of eight point four. I am experiencing pain on my left side, which varies day by day. I had pain in the neck area that radiates to my left hand. If I raise my hand above my head, I get relief. Today, I am experiencing pain in my lower back on the left side and sometimes in my left testicle. I was born with one kidney, which functions normally. Please advise.",
+ "audio_seconds": 23.98,
+ "created_at": "2026-07-06T00:45:07+00:00",
+ "failed": false,
+ "text": "I have a cholesterol level of 8.4. I am experiencing pain on my left side, which varies day by day. I had pain in the neck area that radiates to my left hand. If I raise my hand above my head, I get relief. Today, I am experiencing pain in my lower back on the left side and sometimes in my left testicle. I was born with one kidney, which functions normally. Please advise.",
+ "seconds": 1.483
+}

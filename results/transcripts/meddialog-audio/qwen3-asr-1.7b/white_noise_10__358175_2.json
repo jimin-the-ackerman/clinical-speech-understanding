@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__358175_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. Pain in the area of a hernia that was operated on long ago due to surgery is not common. Please see your surgeon if there is a recurrent hernia. All the best.",
+ "audio_seconds": 8.96,
+ "created_at": "2026-07-06T05:31:59+00:00",
+ "failed": false,
+ "text": "Hello, the area of a hernia that was operated on long ago due to surgery is not pumped. Please be sure that there is a recurrent hernia. All the best.",
+ "seconds": 0.366
+}

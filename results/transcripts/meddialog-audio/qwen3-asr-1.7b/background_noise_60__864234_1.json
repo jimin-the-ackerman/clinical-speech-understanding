@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__864234_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, I just got my birth control switched from Tricyclen Lo to Diane-thirty-five for my acne. I finished my pack of Tricyclen on Saturday and usually get my period on Wednesday, then start a new pack on Sunday. However, now that I am switching to Diane, it says to start it on my first day of menstrual bleeding, which would be Wednesday. But then that does not leave a week between when I finished taking Tricyclen, so should I start it on Wednesday or Sunday?",
+ "audio_seconds": 26.28,
+ "created_at": "2026-07-06T05:26:31+00:00",
+ "failed": false,
+ "text": "Hi, I just got my birth control switched from Tricyclen low to Diane 35 for my acne. I finished my pack of Tricyclen on Saturday and usually get my period on Wednesday, then start a new pack on Sunday. However, now that I am switching to Diane, it says to start it on my first day of menstrual bleeding, which would be Wednesday. But then that does not leave a week between when I finish taking Tricyclen, so should I start it on Wednesday or Sunday?",
+ "seconds": 0.996
+}

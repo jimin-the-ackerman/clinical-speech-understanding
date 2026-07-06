@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168671-0036",
+ "condition": null,
+ "reference": "FAUCHELEVENT PASSED THE UNEXPECTED GRIBIER ONCE MORE IN REVIEW",
+ "audio_seconds": 4.25,
+ "created_at": "2026-07-06T03:18:50+00:00",
+ "failed": false,
+ "text": "Foch le Vant passed the unexpected Cribyer once more in review.",
+ "seconds": 0.183
+}

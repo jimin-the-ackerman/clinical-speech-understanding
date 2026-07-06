@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__225701_2",
+ "condition": "white_noise_2",
+ "reference": "Hello dear, you are correct. It is a fungal infection only, so do not worry too much. Here are my suggestions: take one tablet of fluconazole one hundred and fifty milligrams as a single dose. Apply clotrimazole ointment twice daily for one month. The most important point is that you must apply this ointment for one month even after the cure; otherwise, there will be a recurrence. I hope you get well soon. Thank you.",
+ "audio_seconds": 28.42,
+ "created_at": "2026-07-06T00:46:22+00:00",
+ "failed": false,
+ "text": "Hello dear, you are correct. It is a fungal infection only, so do not worry too much. Here are my suggestions: Take 1 tablet of Fluconazole 150mg as a single dose. Apply clotrimazole ointment twice daily for one month. The most important point is that you must apply this ointment for one month even after the cure; otherwise, there will be a recurrence. I hope you get well soon. Thank you.",
+ "seconds": 1.807
+}

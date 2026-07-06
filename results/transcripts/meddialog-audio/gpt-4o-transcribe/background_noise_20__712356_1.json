@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__712356_1",
+ "condition": "background_noise_20",
+ "reference": "My elderly father is experiencing excruciating back spasms. He has been moving between a chair and a bed for the past week due to illness. His illness is better, but his back is much worse. I am using ice, a lidocaine patch every twelve hours, and arthritis-strength acetaminophen as directed. Any suggestions other than the emergency room?",
+ "audio_seconds": 21.67,
+ "created_at": "2026-07-06T00:42:28+00:00",
+ "failed": false,
+ "text": "My elderly father is experiencing excruciating back spasms. He has been moving between a chair and a bed for the past week due to illness. His illness is better, but his back is much worse. I am using ice, a lidocaine patch every 12 hours, and arthritis-strength acetaminophen as directed. Any suggestions other than the emergency room?",
+ "seconds": 1.272
+}

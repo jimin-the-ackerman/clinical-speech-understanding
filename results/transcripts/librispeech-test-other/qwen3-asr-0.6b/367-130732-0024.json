@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-130732-0024",
+ "condition": null,
+ "reference": "THIS IS THE RECIPE FOR EIGHT PEOPLE AND IT IS WELL WORTH TRYING IF YOU ARE GIVING A DINNER OF IMPORTANCE",
+ "audio_seconds": 6.18,
+ "created_at": "2026-07-06T03:18:20+00:00",
+ "failed": false,
+ "text": "This is the recipe for eight people, and it is well worth trying if you are giving a dinner of importance.",
+ "seconds": 0.251
+}

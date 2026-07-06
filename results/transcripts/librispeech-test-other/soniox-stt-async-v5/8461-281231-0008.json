@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0008",
+ "condition": null,
+ "reference": "MEANWHILE THE BLACK KNIGHT HAD LED HIS FORCES AGAIN TO THE ATTACK AND SO VIGOROUS WAS THEIR ASSAULT THAT BEFORE LONG THE GATE OF THE CASTLE ALONE SEPARATED THEM FROM THOSE WITHIN",
+ "audio_seconds": 11.38,
+ "created_at": "2026-07-06T02:42:28+00:00",
+ "failed": false,
+ "text": "Meanwhile, the Black Knight had led his forces again to the attack, and so vigorous was their assault that before long the gate of the castle alone separated them from those within.",
+ "seconds": 5.024
+}

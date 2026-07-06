@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0002",
+ "condition": null,
+ "reference": "TWENTY PEOPLE SINGS OUT",
+ "audio_seconds": 2.23,
+ "created_at": "2026-07-05T12:57:27+00:00",
+ "failed": false,
+ "text": "Twenty people sings out.",
+ "seconds": 0.15
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__359249_2",
+ "condition": "white_noise_10",
+ "reference": "You need to see a neurologist because what you are describing seems to be pulsatile tinnitus, and sometimes it is caused by cranial vascular problems.",
+ "audio_seconds": 9.56,
+ "created_at": "2026-07-06T04:29:32+00:00",
+ "failed": false,
+ "text": "You need to see a neurologist, because what you are describing seems to be pulsatile tinnitus and sometimes it is caused by cranial vascular problems.",
+ "seconds": 0.359
+}

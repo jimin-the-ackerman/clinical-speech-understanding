@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__466749_1",
+ "condition": "background_noise_40",
+ "reference": "It has been three weeks since I had a colonoscopy. I am having very bad pain in my abdominal area. I have a lot of tenderness. I am kind of feeling sick. I need an answer. I live on Social Security disability. I have no money to pay you. Do you accept Medicare?",
+ "audio_seconds": 18.26,
+ "created_at": "2026-07-06T02:51:15+00:00",
+ "failed": false,
+ "text": "It has been 3 weeks since I had a colonoscopy. I am having very bad pain in my abdominal area, and I have a lot of tenderness. I am kind of feeling sick. I need an answer. I live on Social Security Disability. I have no money to pay you. Do you accept Medicare?",
+ "seconds": 4.887
+}

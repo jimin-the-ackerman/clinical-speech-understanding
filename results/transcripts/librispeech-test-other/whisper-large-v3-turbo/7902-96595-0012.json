@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96595-0012",
+ "condition": null,
+ "reference": "I SAID A LAD BOUT SEVENTEEN IN A RED CAP LIKE YOURS SAID GURR VERY SHORTLY",
+ "audio_seconds": 4.59,
+ "created_at": "2026-07-05T13:14:02+00:00",
+ "failed": false,
+ "text": "i said a lad about seventeen in a red cap like yours said gur very shortly",
+ "seconds": 0.106
+}

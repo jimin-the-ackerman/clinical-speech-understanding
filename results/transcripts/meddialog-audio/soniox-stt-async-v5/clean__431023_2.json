@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__431023_2",
+ "condition": "clean",
+ "reference": "Mild to moderate tricuspid regurgitation is normal and is not something to worry about unless the patient is symptomatic. Tachycardia, also called tachyarrhythmia, is a heart rate that exceeds the normal resting rate. In general, a resting heart rate over one hundred beats per minute is accepted as tachycardia in adults. A heart rate of one hundred and twenty to one hundred and sixty falls within the range of tachycardia. Tachycardia can be part of the body's normal response to anxiety, fever, rapid blood loss, or strenuous exercise. In your case, high anxiety levels are responsible for the tachycardia. Now let's discuss the effect of hormones on tachycardia. Just before the menstrual cycle, there is a change in estrogen and progesterone levels in the body, which has a direct effect. These changes can be a cause of tachycardia; however, in your case, anxiety levels appear to be the primary cause of the tachycardia.",
+ "audio_seconds": 64.17,
+ "created_at": "2026-07-06T02:58:00+00:00",
+ "failed": false,
+ "text": "Mild to moderate tricuspid regurgitation is normal and is not something to worry about unless the patient is symptomatic. Tachycardia, also called tachyarrhythmia, is a heart rate that exceeds the normal resting rate. In general, a resting heart rate over 100 bpm is accepted as tachycardia in adults. A heart rate of 120 to 160 falls within the range of tachycardia. Tachycardia can be part of the body's normal response to anxiety, fever, rapid blood loss, or strenuous exercise. In your case, high anxiety levels are responsible for the tachycardia. Now let's discuss the effect of hormones on tachycardia. Just before the menstrual cycle, there is a change in estrogen and progesterone levels in the body, which has a direct effect. These changes can be a cause of tachycardia. However, in your case, levels appear to be the primary cause of the tachycardia.",
+ "seconds": 8.616
+}

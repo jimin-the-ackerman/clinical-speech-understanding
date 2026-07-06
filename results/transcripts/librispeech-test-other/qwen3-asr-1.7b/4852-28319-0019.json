@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28319-0019",
+ "condition": null,
+ "reference": "HE HEARD THE MAGICIAN GOING UP THE SPIRAL STAIRCASE TO HIS ROOM ABOVE AND AFTER CHANGING HIMSELF TO A MOUSE TO SLIP UNDER THE DOOR AND SEE THAT THE ROOM WAS REALLY EMPTY CHRIS RESUMED HIS PROPER SHAPE AND OPENED THE DOORS OF THE CUPBOARD AT THE FAR END OF THE ROOM",
+ "audio_seconds": 13.47,
+ "created_at": "2026-07-06T03:32:42+00:00",
+ "failed": false,
+ "text": "He heard that magician going up the spiral staircase to his room above, and after changing himself to a mouse to slip under the door and see that the room was really empty, returned to his proper shape and opened the doors of the cupboard at the far end of the room.",
+ "seconds": 0.55
+}

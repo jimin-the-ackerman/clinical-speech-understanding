@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__178086_2",
+ "condition": "clean",
+ "reference": "With an open partial nephrectomy, there could have been entrapment of your intercostal nerve causing that pain. Usually, it can take up to six months for it to go away. Lyrica is a medication that works well for nerve pain. You may also have a bulge in your side where the incision is. Please rate five stars! I strive to provide you the best answers to your questions.",
+ "audio_seconds": 21.25,
+ "created_at": "2026-07-06T00:44:45+00:00",
+ "failed": false,
+ "text": "With an open partial nephrectomy, there could have been entrapment of your intercostal nerve causing that pain. Usually, it can take up to six months for it to go away. Lyrica is a medication that works well for nerve pain. You may also have a bulge in your side where the incision is. Please rate five stars. I strive to provide you the best answers to your questions.",
+ "seconds": 1.265
+}

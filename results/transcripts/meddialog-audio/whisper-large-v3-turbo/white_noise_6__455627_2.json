@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__455627_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, it is generally believed that if you experience pain when squeezing the testicle, it is unlikely to be cancer. This does not apply in every case, but it can be helpful. An ultrasound of the testes can mostly differentiate an infection from cancer. I suggest you get it done rather than worrying about the possibility of cancer. I hope this helped.",
+ "audio_seconds": 18.43,
+ "created_at": "2026-07-06T04:48:37+00:00",
+ "failed": false,
+ "text": "It is generally believed that if you experience pain when squeezing a testicle, it is unlikely to be cancer. This does not apply in every case, but it can be helpful. An ultrasound of the testes can mostly differentiate an infection from cancer. I suggest you get it done rather than worrying about the possibility of cancer. I hope this helps.",
+ "seconds": 0.245
+}

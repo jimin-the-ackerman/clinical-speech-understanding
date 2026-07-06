@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__244789_1",
+ "condition": "white_noise_6",
+ "reference": "Doctor, my girlfriend has been tormented by her pregnancy due to pills. Now, after ten days, she has a lot of headache and pain in her womb. She is feeling very unwell; please help us. Blood came from her ear yesterday four times, and this morning once. I gave her a Ciprofloxacin pill, and she took one, but the headache remains, although blood has not come again.",
+ "audio_seconds": 23.89,
+ "created_at": "2026-07-06T03:09:20+00:00",
+ "failed": false,
+ "text": "Doctor, my girlfriend has been tormented by her pregnancy due to pills. Now, after 10 days, she has a lot of headache and pain in her wound. She is feeling very unwell. Please help us. Blood came from her ear yesterday 4 times, and this morning once. I gave her a ciprofloxacin pill, and she took one. But the headache remains, although blood has not come again.",
+ "seconds": 9.655
+}

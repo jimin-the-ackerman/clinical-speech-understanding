@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__797416_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. If you have been trying for the last year and have not conceived yet, then a semen analysis is necessary. This should evaluate the sperm count and morphology. If the results are normal, then your wife can be further evaluated with a pelvic ultrasound and a hormonal profile to rule out polycystic ovary syndrome or any organic causes of the uterus, such as endometriosis or polyps. Please get a review with the semen analysis report, as medications can be started later if needed.",
+ "audio_seconds": 31.66,
+ "created_at": "2026-07-06T03:11:35+00:00",
+ "failed": false,
+ "text": "Hello. If you have been trying for the last year and have not conceived yet, then a semen analysis is necessary. This should evaluate the sperm count and morphology. If the results are normal, then your wife can be further evaluated with a pelvic ultrasound and a hormonal profile to rule out polycystic ovary syndrome or any organic causes of the uterus, such as endometriosis or polyps. Please get a review with the semen analysis report, as medications can be started later if needed.",
+ "seconds": 9.36
+}

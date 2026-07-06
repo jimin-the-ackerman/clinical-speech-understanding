@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__132316_2",
+ "condition": "clean",
+ "reference": "Hello, the problem you experienced after taking clindamycin happens in very few people. It is better advised that in the future, you should inform your physician about this reaction beforehand.",
+ "audio_seconds": 11.86,
+ "created_at": "2026-07-06T04:24:55+00:00",
+ "failed": false,
+ "text": "Hello. The problem you experienced after taking clindamycin happens in very few people. It is better advised that in the future, you should inform your physician about this reaction beforehand.",
+ "seconds": 0.488
+}

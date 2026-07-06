@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0030",
+ "condition": null,
+ "reference": "SHE THOUGHT SHE HAD A GOOD DEAL OF THE COQUETTE IN HER AND I VE NO DOUBT THAT WITH TIME AND TRAINING SHE WOULD HAVE BECOME A VERY DANGEROUS LITTLE PERSON BUT NOW SHE WAS FAR TOO TRANSPARENT AND STRAIGHTFORWARD BY NATURE EVEN TO TELL A WHITE LIE CLEVERLY",
+ "audio_seconds": 15.84,
+ "created_at": "2026-07-05T12:58:13+00:00",
+ "failed": false,
+ "text": "she thought she had a good deal of the coquette in her and i have no doubt that with time and training she would have become a very dangerous little person but now she was far too transparent and straightforward by nature even to tell a wild-like levelly",
+ "seconds": 0.407
+}

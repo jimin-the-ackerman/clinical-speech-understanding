@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__490748_1",
+ "condition": "white_noise_2",
+ "reference": "Hello. After I have been sitting for a while, my legs hurt when I stand. I am forty-five, but I feel as if I were an unhealthy ninety-year-old. In fact, I feel a lot of muscle fatigue. It is mostly upon standing. I am hunched over and can barely walk until I get used to moving, and then I am fine.",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T00:46:35+00:00",
+ "failed": false,
+ "text": "Hello, I've tried the single one, and it was quite bland. I am polybi, but suppose if I want some hokinariro, in fact, I feel a lot of novelty. It is mostly a crustacean, then much slower, you don't walk as much, and then I'm fine.",
+ "seconds": 1.17
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__796772_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, you need a screening of your leg with an X-ray. Secondly, elevate your leg on a pillow, take analgesic medications, prevent contact or pressing your leg until it heals, and apply a warm compress to the affected area. See if it settles in a few days' time.",
+ "audio_seconds": 14.85,
+ "created_at": "2026-07-06T04:47:50+00:00",
+ "failed": false,
+ "text": "hello you need a screening of your leg with an x-ray secondly elevate your leg on a pillow take analgesic medications prevent contact or pressing your leg until it heals and apply a warm compress to the affected area see if it settles this time",
+ "seconds": 0.216
+}

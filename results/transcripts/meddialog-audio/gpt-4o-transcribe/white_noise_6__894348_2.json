@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__894348_2",
+ "condition": "white_noise_6",
+ "reference": "It takes three weeks for an allergy to subside, even when using medication. After stopping exposure to the allergen, you need three weeks. Continue with antihistamine, i.e., Ebastine ten mg twice daily for two weeks. Add liquid antacid, one teaspoon at night. Continue using local anti-allergic applications. Avoid toxic soaps, shampoos, creams, and use warm water. Avoid animal proteins.",
+ "audio_seconds": 32.85,
+ "created_at": "2026-07-06T00:47:39+00:00",
+ "failed": false,
+ "text": "I really am not the type to tolerate people who do half-assed talking, or just noncommittal talking.",
+ "seconds": 0.922
+}

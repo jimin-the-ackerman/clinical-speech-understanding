@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__452497_1",
+ "condition": "clean",
+ "reference": "Hi, I live in West Africa. I noticed that I have ringworm-like patches on the skin from my head to my feet. The doctor said it is filariasis caused by an adult worm. I have treated it, but the patches have yet to clear. My concern is whether this filariasis has affected my sperm production, as I have not yet been able to impregnate my wife. My email is yyyy@yyyy.",
+ "audio_seconds": 23.89,
+ "created_at": "2026-07-06T00:45:02+00:00",
+ "failed": false,
+ "text": "Hi, I live in West Africa. I noticed that I have ringworm-like patches on my skin from my head to my feet. The doctor said it is filariasis caused by an adult worm. I have treated it, but the patches have yet to clear. My concern is whether this filariasis has affected my sperm production, as I have not yet been able to impregnate my wife. My email is baa.ai.",
+ "seconds": 1.375
+}

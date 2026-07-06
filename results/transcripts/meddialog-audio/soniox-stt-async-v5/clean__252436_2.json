@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__252436_2",
+ "condition": "clean",
+ "reference": "Generally, it is not common. It might be due to the excessive heat or chemicals used that may not be suitable for your skin. For this reason, you might be experiencing dizziness.",
+ "audio_seconds": 12.37,
+ "created_at": "2026-07-06T02:57:27+00:00",
+ "failed": false,
+ "text": "Generally, it is not common. It might be due to the excessive heat or chemicals used that may not be suitable for your skin. For this reason, you might be experiencing dizziness.",
+ "seconds": 4.762
+}

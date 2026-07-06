@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__760356_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. If you are experiencing heavy bleeding, then it is likely that your abortion was not complete. You should immediately get an ultrasound scan to determine if the uterus is empty or not. If the uterus is not empty, then you need to address this by removing the products of conception using instruments. If you neglect this, it may lead to sepsis and adverse effects on your health.",
+ "audio_seconds": 21.33,
+ "created_at": "2026-07-06T04:46:17+00:00",
+ "failed": false,
+ "text": "Hello. If you are experiencing heavy breathing, then it is likely that your aggression is not healthy. You should immediately get a vocal sound state to be sure that the uterus is insulin or not. If the uterus is not healthy, then you need to address this by removing the conception of the insulin. If you neglect this, it may lead to substance and adverse effects on your blood.",
+ "seconds": 0.265
+}

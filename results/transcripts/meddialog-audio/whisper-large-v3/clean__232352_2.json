@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__232352_2",
+ "condition": "clean",
+ "reference": "Hello. I just read through your question. As long as he has an unobstructed urine stream, there is nothing to worry about and nothing to do.",
+ "audio_seconds": 9.22,
+ "created_at": "2026-07-06T04:25:18+00:00",
+ "failed": false,
+ "text": "Hello, I just read through your question. As long as he has an unobstructed urine stream, there is nothing to worry about and nothing to do.",
+ "seconds": 0.404
+}

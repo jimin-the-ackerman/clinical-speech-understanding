@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0009",
+ "condition": null,
+ "reference": "GORDON REPORTED FOR WORK WITH A SENSE OF THE BOTTOM FALLING OUT MIXED WITH A VAGUE RELIEF",
+ "audio_seconds": 5.81,
+ "created_at": "2026-07-06T02:38:52+00:00",
+ "failed": false,
+ "text": "Gordon reported for work with a sense of the bottom falling out, mixed with a vague relief.",
+ "seconds": 4.605
+}

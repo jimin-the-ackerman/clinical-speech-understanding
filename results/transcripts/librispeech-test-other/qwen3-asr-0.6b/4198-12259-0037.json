@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12259-0037",
+ "condition": null,
+ "reference": "O LACHRYMA CHRISTI IT IS OF THE BEST GRAPE",
+ "audio_seconds": 4.72,
+ "created_at": "2026-07-06T03:19:22+00:00",
+ "failed": false,
+ "text": "Oh, Lachrima Christie! It is of the best grape.",
+ "seconds": 0.18
+}

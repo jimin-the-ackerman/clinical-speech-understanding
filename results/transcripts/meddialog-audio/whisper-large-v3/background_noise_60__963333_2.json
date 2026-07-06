@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__963333_2",
+ "condition": "background_noise_60",
+ "reference": "I am sorry to hear about your condition. In the case of cancer, the kidney does need to be removed, and the stent will not affect the surgery. The increased frequency of urination is probably due to a urinary infection, which is quite common after stent placement. You should have a urine examination done and start an antibiotic before the surgery. I am hoping for the best.",
+ "audio_seconds": 21.5,
+ "created_at": "2026-07-06T04:24:46+00:00",
+ "failed": false,
+ "text": "I am sorry to hear about your condition. In the case of cancer, the kidney does need to be restored, and the stent will not affect the surgery. The increased frequency of urination is probably due to a urinary infection, which is quite common after stent placement. You should have a urine examination done and start with the antibiotic before the surgery. I am hoping for the best.",
+ "seconds": 0.661
+}

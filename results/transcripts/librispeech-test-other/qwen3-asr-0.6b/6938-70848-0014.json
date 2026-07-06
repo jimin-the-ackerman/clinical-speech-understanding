@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6938-70848-0014",
+ "condition": null,
+ "reference": "FEARFUL TUMULT CRIES DOWN WITH THE BOLSHEVIKI",
+ "audio_seconds": 3.79,
+ "created_at": "2026-07-06T03:23:18+00:00",
+ "failed": false,
+ "text": "Fearful, Tumbled cries down with the ball, Chevykey.",
+ "seconds": 0.165
+}

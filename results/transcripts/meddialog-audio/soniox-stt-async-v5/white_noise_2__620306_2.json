@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__620306_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, a hungry child is often not a major problem. Make sure she eats a proper diet with adequate calories. She might need sufficient water and fiber intake to avoid constipation. Once her bowel habits are normalized, her eating will be fine.",
+ "audio_seconds": 12.89,
+ "created_at": "2026-07-06T03:07:06+00:00",
+ "failed": false,
+ "text": "Hello. A hungry child is often not a major problem; make sure she eats a proper diet with adequate calories. She might need sufficient water and fiber intake to avoid constipation. Once her bowel habits are normalized, her eating will be fine.",
+ "seconds": 5.894
+}

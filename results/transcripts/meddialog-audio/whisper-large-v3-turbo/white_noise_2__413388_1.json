@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__413388_1",
+ "condition": "white_noise_2",
+ "reference": "I was diagnosed with a bulging disk at the lumbar three and lumbar four levels. I had pain in my back and pain that radiated down my right leg on the inside part, not the back of the leg, down to the knee. There was no pain below the knee. I am much better. Did my bulging disk recede back into place?",
+ "audio_seconds": 16.38,
+ "created_at": "2026-07-06T04:47:08+00:00",
+ "failed": false,
+ "text": "I was diagnosed with a bulging disc at the lumbar 3 and lumbar 4 levels. I had pain in my back and pain that radiated down my right leg on the inside part. Not the back of the leg, down to the knee. There was no pain below the knee. I am much better. Did my bulging disc recede back into place?",
+ "seconds": 0.264
+}

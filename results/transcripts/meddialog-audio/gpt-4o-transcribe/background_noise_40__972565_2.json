@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__972565_2",
+ "condition": "background_noise_40",
+ "reference": "Hi. I understand your anxiety. The fortunate thing is that even if Human Papillomavirus was present last year, the treatment has been done in the form of a hysterectomy. In fact, it is overly treated. I do not think it is a matter of concern. For your vaginal Human Papillomavirus, low-risk types are rarely responsible for any cancer. Also, if one is sexually active, Human Papillomavirus infection keeps recurring and the body deals with it through its own immunity. What should concern us is a persistent Human Papillomavirus infection in your vaginal smears. So right now, just use barrier contraception like condoms and repeat the vaginal smear in six months. That is all. Follow-up is what is needed as you are a very low-risk case.",
+ "audio_seconds": 47.02,
+ "created_at": "2026-07-06T00:43:43+00:00",
+ "failed": false,
+ "text": "Hi, I understand your anxiety. The fortunate thing is that even if human papillomavirus was present last year, the treatment has been done in the form of a hysterectomy. In fact, it is overly treated. I do not think it is a matter of concern. For your vaginal human papillomavirus, low-risk types are rarely responsible for any cancer. Also, if one is sexually active, human papillomavirus infection keeps recurring and the body deals with it through its own immunity. What should concern us is a persistent human papillomavirus infection in your vaginal smears. So right now, just use barrier contraception like condoms and repeat the vaginal smear in six months. That is all. Follow-up is what is needed as you are a very low-risk case.",
+ "seconds": 3.092
+}

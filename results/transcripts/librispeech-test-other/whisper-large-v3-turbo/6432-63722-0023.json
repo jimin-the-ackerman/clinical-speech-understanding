@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0023",
+ "condition": null,
+ "reference": "NEIGHBORS OFTEN HEARD EM SCRAPPIN A LOT AND THIS AFTERNOON THEY WENT AT IT AGAIN HOT AND HEAVY",
+ "audio_seconds": 6.1,
+ "created_at": "2026-07-05T13:13:14+00:00",
+ "failed": false,
+ "text": "neighbors often heard em scrapping a lot and this afternoon they went at it again hot and heavy",
+ "seconds": 0.122
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__229204_1",
+ "condition": "white_noise_6",
+ "reference": "I bumped my forehead yesterday and today it feels very bruised to the touch, but there is no bruise showing. I also do not feel good at all, but I am not sure if I am just overtired as my husband is away on a work trip and I have been running around for the past week after my one-year-old.",
+ "audio_seconds": 15.87,
+ "created_at": "2026-07-06T04:36:20+00:00",
+ "failed": false,
+ "text": "I bumped my forehead yesterday and today it feels very bruised to the touch, but there is no bruise showing. I also do not feel good at all, but I am not sure if I am just overtired as my husband is away on a work trip and I have been running around for the past week after my one-year-old.",
+ "seconds": 0.589
+}

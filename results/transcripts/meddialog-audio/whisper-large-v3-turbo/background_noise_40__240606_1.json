@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__240606_1",
+ "condition": "background_noise_40",
+ "reference": "My mom had low iron and was anemic, with a level of eight, I think. The doctor put her on iron pills, and it worked. Her iron levels are good now, and she is off the iron pills. She has a high calcium level, but it is only at eleven point five; it used to be ten. She is now having problems with sciatica or degenerative discs in her back. The CAT scan and MRI showed only that. My question is, could she have multiple myeloma? She seems to have all the symptoms. She has suffered from these symptoms for a few years; they come and go. Her legs—she keeps saying her feet give way. She has fallen a lot.",
+ "audio_seconds": 35.33,
+ "created_at": "2026-07-06T04:41:12+00:00",
+ "failed": false,
+ "text": "my mom had low iron and was anemic with a level of eight i think the doctor put her on iron pills and it worked her iron levels are good now and she is off the iron pills she has a high calcium level but it is only at 11.5 it used to be 10. she is now having problems with sciatica or degenerative disc or bad the cat scan and mri showed only that my question is could she have multiple myeloma she seems to have all the symptoms she has suffered from these symptoms for a few years they come and go her legs she keeps saying her feet give way she has fallen a lot",
+ "seconds": 0.367
+}

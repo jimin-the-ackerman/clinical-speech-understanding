@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0015",
+ "condition": null,
+ "reference": "AND LOOK AT CHARLES SECOND AND LOUIS FOURTEEN AND LOUIS FIFTEEN AND JAMES SECOND AND EDWARD SECOND AND RICHARD THIRD AND FORTY MORE BESIDES ALL THEM SAXON HEPTARCHIES THAT USED TO RIP AROUND SO IN OLD TIMES AND RAISE CAIN",
+ "audio_seconds": 16.0,
+ "created_at": "2026-07-06T03:28:22+00:00",
+ "failed": false,
+ "text": "And look at Charles Second, and Louis Fourteen, and Louis Fifteen, and James Second, and Edward Second, and Richard Third, and forty more, besides all them Saxon heptarchies that used to rip around so in old times and raise Cain.",
+ "seconds": 0.541
+}

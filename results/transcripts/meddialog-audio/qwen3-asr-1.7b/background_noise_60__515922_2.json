@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__515922_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. I just read through your question. As long as he is otherwise well, that is, no fever, vomiting, blood in the stool, etc., there is not much to be concerned about. He most likely ate or ingested something that digested that way. It is worth a visit to the doctor for reassurance purposes, but until the visit, I am not worried.",
+ "audio_seconds": 23.81,
+ "created_at": "2026-07-06T05:25:08+00:00",
+ "failed": false,
+ "text": "Hello, I just read through your question. As long as he is otherwise well—that is, no fever, vomiting, blood in the stool, etc.—there is not much to be concerned about. He most likely ate or ingested something that digested that way. It is worth a visit to the doctor for reassurance purposes, but until the visit, I am not worried.",
+ "seconds": 0.724
+}

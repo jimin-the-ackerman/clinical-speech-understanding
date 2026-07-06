@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__657244_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, my husband is thirty-seven years old and got his liver and kidney tested as he is a regular alcohol consumer. All his reports are within the given range, but for serum glutamate oxaloacetate transaminase - forty, serum glutamate pyruvate transaminase - sixty-six, and gamma-glutamyl transferase - one hundred and thirteen. His cholesterol level is two hundred and thirty-nine. What does this indicate? Does he have some serious health issue?",
+ "audio_seconds": 26.11,
+ "created_at": "2026-07-06T04:38:02+00:00",
+ "failed": false,
+ "text": "hi my husband is 37 years old and got his liver and kidney tested as he is a regular alcohol consumer all his reports are within the given range but the serum glutamate oxaloacetate 40 serum glutamate pyruvate transaminate 66 and gamma glutamyl transferase 113. his cholesterol level is 239. what does this indicate he has some serious health issues",
+ "seconds": 0.648
+}

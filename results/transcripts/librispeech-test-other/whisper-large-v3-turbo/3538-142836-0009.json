@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-142836-0009",
+ "condition": null,
+ "reference": "BOIL THEM UP THREE DAYS SUCCESSIVELY SKIMMING EACH TIME AND THEY WILL THEN BE FINISHED AND IN A STATE FIT TO BE PUT INTO POTS FOR USE",
+ "audio_seconds": 7.29,
+ "created_at": "2026-07-05T13:10:41+00:00",
+ "failed": false,
+ "text": "boil them up three days successively skimming each time and they will then be finished and in a state fit to be put into pots for use",
+ "seconds": 0.154
+}

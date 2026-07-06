@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__249792_2",
+ "condition": "white_noise_6",
+ "reference": "Light fever and headache are not signs of typhoid. In any case, you have already started treatment. The typical pattern is a step ladder pattern fever, never touching normal. You may experience mild abdominal pain, constipation, and dyspepsia.",
+ "audio_seconds": 17.15,
+ "created_at": "2026-07-06T05:39:12+00:00",
+ "failed": false,
+ "text": "Light fever and headache are not signs of typhoid. In any case, you have already started treatment. The typical pattern is a step ladder pattern fever, never touching normal. You may experience mild abdominal pain, constipation, and dyspepsia.",
+ "seconds": 0.522
+}

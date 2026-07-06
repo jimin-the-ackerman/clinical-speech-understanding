@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0025",
+ "condition": null,
+ "reference": "WE CERTAINLY HAVE NO RIGHT TO INJURE OUR BODIES EITHER BY NEGLECT OR SELF INDULGENCE",
+ "audio_seconds": 5.83,
+ "created_at": "2026-07-06T03:38:00+00:00",
+ "failed": false,
+ "text": "We certainly have no right to injure our bodies either by neglect or self-indulgence.",
+ "seconds": 0.214
+}

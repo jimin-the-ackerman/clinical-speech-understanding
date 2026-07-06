@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163624-0020",
+ "condition": null,
+ "reference": "THERE MUST SHE SLEEP TILL THOU COMEST FOR HER WAKING RISE UP AND RIDE FOR NOW SURE SHE WILL SWEAR THE VOW FEARLESS OF BREAKING",
+ "audio_seconds": 7.95,
+ "created_at": "2026-07-05T13:10:51+00:00",
+ "failed": false,
+ "text": "there must she sleep till thou com'st for her waking rise up and ride for now sure she will swear the vow fearless of breaking",
+ "seconds": 0.123
+}

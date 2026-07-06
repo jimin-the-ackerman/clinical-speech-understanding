@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__242291_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, pain in the left arm in a diabetic individual necessitates an electrocardiogram to rule out angina, regardless of the intensity of the pain. Diabetics can exhibit fewer symptoms of heart conditions, which often leads people to misinterpret the signs as a strain or a shoulder issue. Therefore, proceed with the electrocardiogram to ensure peace of mind. If the results are normal, you can then consider pain relievers and some physical therapy.",
+ "audio_seconds": 26.79,
+ "created_at": "2026-07-06T04:39:43+00:00",
+ "failed": false,
+ "text": "Hello! Pain in the left arm in a diabetic individual necessitates an electrocardiogram to rule out angina, regardless of the intensity of the pain. Diabetics can exhibit fewer symptoms of heart conditions, which often leads people to misinterpret the signs as a strain or a shoulder issue. Therefore, proceed with the electrocardiogram to ensure peace of mind. If the results are normal, you can then consider pain relievers and some physical therapy.",
+ "seconds": 0.292
+}

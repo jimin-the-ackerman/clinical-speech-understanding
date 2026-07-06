@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163389-0000",
+ "condition": null,
+ "reference": "THEY SWARMED UP IN FRONT OF SHERBURN'S PALINGS AS THICK AS THEY COULD JAM TOGETHER AND YOU COULDN'T HEAR YOURSELF THINK FOR THE NOISE",
+ "audio_seconds": 8.38,
+ "created_at": "2026-07-05T23:54:20+00:00",
+ "failed": false,
+ "text": "They swarmed up in front of Sherburn's palings as thick as they could jam together, and you couldn't hear yourself think for the noise.",
+ "seconds": 0.986
+}

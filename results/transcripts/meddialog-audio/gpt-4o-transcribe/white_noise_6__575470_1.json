@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__575470_1",
+ "condition": "white_noise_6",
+ "reference": "I am an eighteen-year-old distance runner and have been training for the three thousand, two hundred-meter run in track. The other day, I experienced soreness and a slight popping sound in the back of my knee. My own research indicates that I may have injured my semitendinosus tendon. The discomfort is on the back inside of my right knee where the tendon is located. Could this be the problem? If it is, what is the best course of action? I have a conference meet tonight and sectionals in two weeks.",
+ "audio_seconds": 26.88,
+ "created_at": "2026-07-06T00:47:25+00:00",
+ "failed": false,
+ "text": "Please excuse me for coming late to the meeting. I remember you calling at four o'clock in the afternoon. I could be wrong about the time. Now, how is the inspection proceeding?",
+ "seconds": 0.883
+}

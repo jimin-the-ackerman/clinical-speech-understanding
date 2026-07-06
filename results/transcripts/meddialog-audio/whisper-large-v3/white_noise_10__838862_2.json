@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__838862_2",
+ "condition": "white_noise_10",
+ "reference": "I read your question carefully, and I understand your concern. Regarding your first question, yes, it is normal to wait for a week or so; it doesn't significantly affect the tumor's progression while careful planning can improve the outcome. As for your second question, it is a difficult one to answer. There are many types of brain tumors, some more aggressive and some less. Each type carries a different prognosis, which will be better determined after the surgery and the biopsy results. I hope everything works out for the best.",
+ "audio_seconds": 31.57,
+ "created_at": "2026-07-06T04:31:41+00:00",
+ "failed": false,
+ "text": "I have a question for you, and I want to know what you think about it. Have I ever made this question? No, it is more of a research question. If I just didn't have any questions for you to answer, I'll take what you're asking to be answered. As the second question, what is the difficulty in the instance? There are many types of the instance. Them, yours also, the seminars. Each type is a different sentence. It's very very different from what you're saying in the science series. I'm not going to miss out on that.",
+ "seconds": 1.097
+}

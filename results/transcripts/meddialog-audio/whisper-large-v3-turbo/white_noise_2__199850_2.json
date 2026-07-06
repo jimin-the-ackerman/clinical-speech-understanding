@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__199850_2",
+ "condition": "white_noise_2",
+ "reference": "Prilosec should not be taken haphazardly. My brother took it and his acidity increased, so please be cautious. It should be taken for an entire course; otherwise, it may rebound.",
+ "audio_seconds": 12.89,
+ "created_at": "2026-07-06T04:46:51+00:00",
+ "failed": false,
+ "text": "prylosec should not be taken haphazardly. My brother took it and his acidity increased, so please be cautious. It should be taken for an entire course, otherwise it may rebound.",
+ "seconds": 0.19
+}

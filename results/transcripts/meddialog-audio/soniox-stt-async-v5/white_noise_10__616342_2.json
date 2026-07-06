@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__616342_2",
+ "condition": "white_noise_10",
+ "reference": "These may not be features of a sciatic nerve injury, which can be very serious. So, don't panic. Wait for other signs and symptoms.",
+ "audio_seconds": 8.36,
+ "created_at": "2026-07-06T03:02:48+00:00",
+ "failed": false,
+ "text": "These may not be features of a sciatic nerve injury, which can be very serious, so don't panic; wait for other signs and symptoms.",
+ "seconds": 5.28
+}

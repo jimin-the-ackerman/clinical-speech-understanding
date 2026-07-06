@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__685616_1",
+ "condition": "clean",
+ "reference": "I was moving a railroad tie with my left foot and had a popping feeling in my left buttocks area. It hurt a little, and now I walk with some difficulty and it hurts to sit, but not to stand. It is also hard to bend down to tie my left shoe, but the right is no problem. It feels like I am sitting on a golf ball. Any ideas?",
+ "audio_seconds": 19.37,
+ "created_at": "2026-07-06T05:29:34+00:00",
+ "failed": false,
+ "text": "I was moving a railroad tie with my left foot and had a popping feeling in my left buttocks area. It hurt a little, and now I walk with some difficulties to sit, but not to stand. It is also hard to bend down to tie my left shoe, but the right is no problem. It feels like I am sitting on a golf ball. Any ideas?",
+ "seconds": 0.739
+}

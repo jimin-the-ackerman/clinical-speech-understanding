@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__860053_2",
+ "condition": "background_noise_20",
+ "reference": "Efudex is mainly used for precancerous conditions like actinic keratosis and Bowen's disease. It can be used for basal cell carcinoma, which is not amenable to local conventional therapies, but the success rate is lower than surgery—about ninety-three% versus one hundred%. So it depends upon the type of skin cancer your friend had.",
+ "audio_seconds": 21.5,
+ "created_at": "2026-07-06T04:52:48+00:00",
+ "failed": false,
+ "text": "FuDEX is mainly used for precancerous conditions like actinic keratosis and Bowen's disease. It can be used for basal cell carcinoma, which is not amenable to local conventional therapies, but the success rate is lower than surgery—about ninety-three percent versus one hundred percent. So it depends upon the type of skin cancer your friend had.",
+ "seconds": 0.646
+}

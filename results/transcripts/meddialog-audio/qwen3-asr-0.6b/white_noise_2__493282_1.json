@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__493282_1",
+ "condition": "white_noise_2",
+ "reference": "I just found out I have human papillomavirus and may have cervical cancer. Hi, I haven't been diagnosed with cervical cancer yet, but I am having a test to check if I have it on March first because they found some cells in my Pap test that look like I may have it, and I have human papillomavirus. I have been feeling really weak and faint all day. I have already eaten dinner, and I am still feeling really weak and now having sharp pains in my pelvic area. What should I do? My mom is urging me to go to the hospital.",
+ "audio_seconds": 29.18,
+ "created_at": "2026-07-06T05:09:31+00:00",
+ "failed": false,
+ "text": "I just found out I have human papillomavirus and may have cervical cancer. Hi, I haven't been diagnosed with cervical cancer yet, but I am having a test to check if I have it on March first because they found some cells in my pap test that look like I may have it. And I have human papillomavirus. I have been feeling really weak and faint all day. I have already eaten dinner and I am still feeling really weak and now having sharp pains in my pelvic area. What should I do? My mom is urging me to go to the hospital.",
+ "seconds": 1.064
+}

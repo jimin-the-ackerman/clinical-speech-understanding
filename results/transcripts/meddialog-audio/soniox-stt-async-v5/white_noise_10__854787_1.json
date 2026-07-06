@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__854787_1",
+ "condition": "white_noise_10",
+ "reference": "Hello Doctor, my six-year-old son has a diaphragm problem. He has a heart condition that was surgically repaired for ventricular septal defect and has had a pacemaker since he was eleven months old. Now he has developed new issues such as vomiting, urinary problems, fatty liver, gallbladder wall thickening, and cardiomegaly, with only thirty percent heart function. What is the main problem here, and what treatment should be given?",
+ "audio_seconds": 24.23,
+ "created_at": "2026-07-06T03:04:05+00:00",
+ "failed": false,
+ "text": "Hello, doctor, my 6-year-old son has a diaphragm problem. He has a heart condition that was surgically repaired for a ventricular septal defect and has had a pacemaker since he was 11 months old. Now he has developed new issues such as vomiting, urinary problems, fatty liver, gallbladder wall thickening, and cardiomegaly with only 30% heart function. What is the main problem here, and what treatment should we give?",
+ "seconds": 9.601
+}

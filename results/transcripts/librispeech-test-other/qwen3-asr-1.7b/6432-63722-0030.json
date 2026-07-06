@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0030",
+ "condition": null,
+ "reference": "YOU'RE NOT AS SQUEAMISH AS ALL THAT ARE YOU JUST BECAUSE IT WAS IN A DEAD MAN'S HAND AND IN A WOMAN'S",
+ "audio_seconds": 5.16,
+ "created_at": "2026-07-06T03:35:03+00:00",
+ "failed": false,
+ "text": "You're not as squeamish as all that, are you? Just because it was in a dead man's hands and a woman's.",
+ "seconds": 0.314
+}

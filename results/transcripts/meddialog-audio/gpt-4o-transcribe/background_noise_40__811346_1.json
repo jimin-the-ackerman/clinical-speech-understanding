@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__811346_1",
+ "condition": "background_noise_40",
+ "reference": "I suddenly felt some numbness on the left side of my face along the jawline. When I looked in the mirror, the left side of my face, below the jawline and more in the neck area, was swollen and felt like a lump there. I went to the urgent care center and they diagnosed it as a blockage in the carotid artery and told me to eat sour candy to reduce the swelling. Does this make sense?",
+ "audio_seconds": 25.0,
+ "created_at": "2026-07-06T00:43:34+00:00",
+ "failed": false,
+ "text": "I suddenly felt some numbness on the left side of my face along the jawline. When I looked in the mirror, the left side of my face below the jawline and more in the neck area was swollen and felt like a lump there. I went to the urgent care center and they diagnosed it as a blockage in the carotid artery and told me to eat sour candy to reduce the swelling. Does this make sense?",
+ "seconds": 1.336
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__407618_2",
+ "condition": "background_noise_40",
+ "reference": "You will be able to carry heavy objects within three weeks of the surgery; it can be less with anti-inflammatory medication and physical therapy. Good luck.",
+ "audio_seconds": 8.7,
+ "created_at": "2026-07-06T02:50:58+00:00",
+ "failed": false,
+ "text": "You will be able to carry heavy objects within 3 weeks of the reading. It can be less with anti-inflammatory medication and therapy. Good luck.",
+ "seconds": 5.379
+}

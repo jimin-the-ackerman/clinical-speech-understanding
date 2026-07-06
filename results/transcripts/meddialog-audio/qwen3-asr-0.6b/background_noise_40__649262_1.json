@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__649262_1",
+ "condition": "background_noise_40",
+ "reference": "My two point five-year-old son fell from the bed while asleep and got a big bump on his forehead. I immediately took him to the doctor, and he gave a medicine for the swelling and asked me to apply an ice pack on the swelling. It's been two weeks now, but the minor bump still remains, and there isn't any pain. My worry is, is the bump going to stay, or will it take some more days to heal? He is behaving normally, though.",
+ "audio_seconds": 27.65,
+ "created_at": "2026-07-06T04:55:46+00:00",
+ "failed": false,
+ "text": "My two point five year old son fell from the bed while asleep, and got a big bump on his forehead. I immediately took him to the doctor, and he gave him medicine for the swelling, and asked me to apply an ice pack on the swelling. It's been two weeks now, but the minor bump still remains, and there isn't any pain. My worry is: is the bump going to stay, or will it take some more days to heal? He is behaving normally though.",
+ "seconds": 0.888
+}

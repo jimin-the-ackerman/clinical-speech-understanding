@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__749840_1",
+ "condition": "white_noise_6",
+ "reference": "Hello there. I had two magnetic resonance imaging scans that show that I have a ruptured disc, plus a piece of it that broke off and is now pressing on my nerve endings. I have been sent to see a surgeon next month, but my fear is that he will just dismiss me and tell me I do not need surgery. Isn't surgery the only solution at this point? I mean, with the broken-off piece and all?",
+ "audio_seconds": 23.55,
+ "created_at": "2026-07-06T04:49:09+00:00",
+ "failed": false,
+ "text": "hello there i had two magnetic resonance imaging scans that show that i have a ruptured disc plus a piece of it that broke off and is now pressing on my nerve endings i have been sent to see a surgeon next month but my fear is that you will just dismiss me and tell me i do not need surgery isn't surgery the only solution at this point i mean with the broken off",
+ "seconds": 0.246
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__835244_1",
+ "condition": "clean",
+ "reference": "Hi, I am eighteen, and I have really bad chest pains. I cough once at a time, and it's hard for me to breathe deeply. Also, when I cough, I get a shooting pain in my head. When I am lying down and get up, I get a horrible headache and feel dizzy. It has been going on for the past four days. Should I go to the emergency room?",
+ "audio_seconds": 24.58,
+ "created_at": "2026-07-06T05:30:16+00:00",
+ "failed": false,
+ "text": "Hi, I am eighteen, and I have really bad chest pains. I cough once at a time, and it's hard for me to breathe deeply. Also, when I cough, I get a shooting pain in my head. When I am lying down and get up, I get a horrible headache and feel dizzy. It has been going on for the past four days. Should I go to the emergency room?",
+ "seconds": 0.81
+}

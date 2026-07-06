@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__567220_2",
+ "condition": "white_noise_2",
+ "reference": "From the description, it looks like jock itch only, but if so many dermatologists say it is not, then it must be something else. It would be great to get a few pictures to understand your problem. If you wish to try another treatment for jock itch, try fluconazole one hundred and fifty milligrams tablets once per week along with the creams you use. I would suggest you consult a good dermatologist, and they will be able to diagnose it.",
+ "audio_seconds": 25.51,
+ "created_at": "2026-07-06T03:06:54+00:00",
+ "failed": false,
+ "text": "From the description, it looks like jockitch only, but if so many dermatologists say it is not, then it must be something else. It would be great to get a few pictures to understand your problem. If you wish to try another treatment for jockitch, try fluconazole 150 mg tablets once per week along with the creams you use. I would suggest you consult a good dermatologist, and they will be able to diagnose it.",
+ "seconds": 6.066
+}

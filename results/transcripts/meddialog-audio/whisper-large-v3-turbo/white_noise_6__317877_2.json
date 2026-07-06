@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__317877_2",
+ "condition": "white_noise_6",
+ "reference": "The only curative treatment for melanoma is surgery with negative margins. It is a very aggressive cancer and resistant to all forms of chemotherapy or radiotherapy. Therefore, if it is possible by any surgical plan to remove the entire disease, then you should undergo it without delay; otherwise, it will soon spread and go beyond the scope of surgery. If you do not proceed, it will become a life-threatening situation for you, and you will be beyond cure. Do not focus on the side effects.",
+ "audio_seconds": 27.56,
+ "created_at": "2026-07-06T04:48:25+00:00",
+ "failed": false,
+ "text": "The only cure to treatment for melanoma was negative margin. It is a very aggressive cancer and resistant to all forms of chemotherapy or radiotherapy. Therefore, if it is possible by any surgical plan to remove the entire disease, then you should undergo it without delay. Otherwise, it will soon spread and go beyond the scope of surgery. If you do not proceed, it will become a life-threatening situation for you, and you will be beyond cure. Do not focus on the side effects.",
+ "seconds": 0.314
+}

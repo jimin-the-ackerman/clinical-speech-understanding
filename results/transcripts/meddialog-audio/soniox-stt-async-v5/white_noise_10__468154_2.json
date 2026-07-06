@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__468154_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, your husband's semen analysis and your hormone levels were normal. You can conceive with ovulation induction with intrauterine insemination. All the best.",
+ "audio_seconds": 11.26,
+ "created_at": "2026-07-06T03:02:09+00:00",
+ "failed": false,
+ "text": "Hello. Your husband's semen analysis, and your formal levels were normal. You can conceive with ovulation induction, with uterine insemination. All the best.",
+ "seconds": 4.886
+}

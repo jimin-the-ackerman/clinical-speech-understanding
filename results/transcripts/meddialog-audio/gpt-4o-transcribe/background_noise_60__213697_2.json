@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__213697_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. Well, the first thing to determine is whether the blood is coming from the lungs with a cough or from the stomach with vomiting. Secondly, if the blood is present, this needs to be investigated urgently to identify the cause. For example, in your case, this could be due to an ulcer in the stomach or the duodenum, or there could be dilation of blood vessels. Please proceed with an urgent upper gastrointestinal endoscopy, ultrasonography, and a chest X-ray. A proper diagnosis is essential for effective treatment.",
+ "audio_seconds": 32.34,
+ "created_at": "2026-07-06T00:43:52+00:00",
+ "failed": false,
+ "text": "Hello. Well, the first thing to determine is whether the blood is coming from the lungs with a cough or from the stomach with vomiting. Secondly, if the blood is present, this needs to be investigated urgently to identify the cause. For example, in your case, this could be due to an ulcer in the stomach or the duodenum, or there could be dilation of blood vessels. Please proceed with an urgent upper gastrointestinal endoscopy, ultrasonography, and a chest x-ray. A proper diagnosis is essential for effective treatment.",
+ "seconds": 1.579
+}

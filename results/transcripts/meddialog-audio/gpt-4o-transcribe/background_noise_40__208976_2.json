@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__208976_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, welcome to HCM. As a breastfeeding specialist, I would advise you to feed your baby small amounts very frequently. If the baby shows the symptoms that you have described above, it is because the baby is overfeeding or has reflux. In both situations, you should feed him small amounts of formula or breast milk frequently. With his tiny stomach, he only needs fifty to eighty milliliters of formula eight to twelve times per day. So be careful not to overfeed him. You should also burp your baby for at least twenty minutes in an upright position and do not put him to lay down too early.",
+ "audio_seconds": 35.75,
+ "created_at": "2026-07-06T00:42:52+00:00",
+ "failed": false,
+ "text": "Hello, welcome to HCN. As a breastfeeding specialist, I would advise you to feed your baby small amounts very frequently. If the baby shows the symptoms that you have described above, it is because the baby is overfeeding or has reflux. In both situations, you should feed him small amounts of formula or breast milk frequently. With his tiny stomach, he only needs 50 to 80 milliliters of formula 8 to 12 times a day, so be careful not to overfeed him. You should also burp your baby for at least 20 minutes in an upright position, and do not put him to lay down too early.",
+ "seconds": 1.901
+}

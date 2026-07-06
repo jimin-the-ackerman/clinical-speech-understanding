@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__454508_2",
+ "condition": "white_noise_6",
+ "reference": "It is risky to perform a total knee replacement for a diabetic patient. If you are afraid, you can conduct a Doppler ultrasound on his leg arteries to ensure it is the right choice.",
+ "audio_seconds": 13.4,
+ "created_at": "2026-07-06T04:48:37+00:00",
+ "failed": false,
+ "text": "It is risky to perform a total knee replacement for a diabetic patient. If you are afraid, you can conduct a Doppler ultrasound on his leg arteries to ensure it is the right choice.",
+ "seconds": 0.183
+}

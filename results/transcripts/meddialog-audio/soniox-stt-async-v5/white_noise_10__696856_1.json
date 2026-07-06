@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__696856_1",
+ "condition": "white_noise_10",
+ "reference": "My daughter, who is four years old, may have suffered from an absence seizure this past weekend. She woke up and vomited, and then seemed dazed but was very tired as we had a long day. She threw up four times that night. She has not seemed to have any episodes since. Is vomiting part of absence seizures?",
+ "audio_seconds": 18.94,
+ "created_at": "2026-07-06T03:03:10+00:00",
+ "failed": false,
+ "text": "I've got it, and I'm sorry you're late. Mia suffered from an absence seizure this past weekend. She woke up and vomited, and then she bathed but was very tired, again for 1 day. She flew up 4 times that night. She has not seemed to have any episodes since. Is vomiting part of absence seizures?",
+ "seconds": 5.689
+}

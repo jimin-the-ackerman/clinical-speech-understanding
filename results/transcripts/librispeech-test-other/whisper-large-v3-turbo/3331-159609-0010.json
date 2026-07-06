@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0010",
+ "condition": null,
+ "reference": "POOR POLLY WAS SO TAKEN BY SURPRISE THAT SHE HAD NOT A WORD TO SAY",
+ "audio_seconds": 5.26,
+ "created_at": "2026-07-05T13:10:21+00:00",
+ "failed": false,
+ "text": "poor polly was so taken by surprise that she had not a word to say",
+ "seconds": 0.113
+}

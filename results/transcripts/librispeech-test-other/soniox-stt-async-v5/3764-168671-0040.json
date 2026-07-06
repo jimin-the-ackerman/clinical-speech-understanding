@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168671-0040",
+ "condition": null,
+ "reference": "THE GOOD GOD CONSULTED HIS NOTE BOOK WHICH SHOWS WHEN THE TIME IS UP IT WAS FATHER MESTIENNE'S TURN FATHER MESTIENNE DIED",
+ "audio_seconds": 9.06,
+ "created_at": "2026-07-06T02:23:24+00:00",
+ "failed": false,
+ "text": "The good God consulted his notebook, which shows when the time is up; it was Father Mestien's turn. Father Mestien died.",
+ "seconds": 5.274
+}

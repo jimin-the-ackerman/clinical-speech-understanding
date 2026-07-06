@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__827912_2",
+ "condition": "background_noise_40",
+ "reference": "In my opinion, this could be inflammation of the seventh cranial nerve or an allergic reaction. Take Atarax ten milligrams; it will ease your symptoms. Stay warm and avoid air currents. Good luck.",
+ "audio_seconds": 12.12,
+ "created_at": "2026-07-06T04:20:11+00:00",
+ "failed": false,
+ "text": "In my opinion, this could be inflammation of the 7th cranial nerve or an allergic reaction. Take a Terax 10mg, it will ease your symptoms. Stay warm and avoid air currents. Good luck.",
+ "seconds": 0.502
+}

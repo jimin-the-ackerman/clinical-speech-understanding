@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0000",
+ "condition": null,
+ "reference": "SHE PULLED HER HAIR DOWN TURNED HER SKIRT BACK PUT HER FEET ON THE FENDER AND TOOK PUTTEL INTO HER LAP ALL OF WHICH ARRANGEMENTS SIGNIFIED THAT SOMETHING VERY IMPORTANT HAD GOT TO BE THOUGHT OVER AND SETTLED",
+ "audio_seconds": 13.67,
+ "created_at": "2026-07-05T12:58:05+00:00",
+ "failed": false,
+ "text": "she pulled her hair down turned her skirt back put her feet on the fender and took potter into her lap all of which arrangements signified that something very important had got to be thought over and settled",
+ "seconds": 0.337
+}

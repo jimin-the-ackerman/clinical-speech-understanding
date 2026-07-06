@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0041",
+ "condition": null,
+ "reference": "THE NAMES OF PROPOSED MEMBERS ARE TO BE SUBMITTED TO ME BEFORE THIS DAY WEEK",
+ "audio_seconds": 4.98,
+ "created_at": "2026-07-05T13:14:42+00:00",
+ "failed": false,
+ "text": "The names of the proposed members are to be submitted to me before this day week.",
+ "seconds": 0.111
+}

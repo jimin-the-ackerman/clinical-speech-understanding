@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0030",
+ "condition": null,
+ "reference": "JIS AS LOUD AS I COULD YELL",
+ "audio_seconds": 2.42,
+ "created_at": "2026-07-05T12:57:33+00:00",
+ "failed": false,
+ "text": "Just as loud as I could yell",
+ "seconds": 0.163
+}

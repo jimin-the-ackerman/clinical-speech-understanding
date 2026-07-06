@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__156778_1",
+ "condition": "clean",
+ "reference": "Hello, I am forty-two years old but my shape and beauty make me look like I am only twenty years old. I have two children and I would like to conceive again. My menstrual cycle is regular, but my hormones show a high level of follicle-stimulating hormone at thirty-four and luteinizing hormone at fourteen. Currently, there is a trial to use Fostimon injection, six per day since the 4th day of my cycle. Could it work? Tomorrow is the 12th day of my cycle, please help me.",
+ "audio_seconds": 30.12,
+ "created_at": "2026-07-06T02:57:04+00:00",
+ "failed": false,
+ "text": "Hello. I am 42 years old, but my shape and beauty make me look like I am only 20 years old. I have 2 children, and I would like to conceive again. My menstrual cycle is regular, but my hormones show a high level of follicle-stimulating hormone at 34 and luteinizing hormone at 14. Currently there is a trial to use Fosimon injection, 6 per day since the 4th day of my cycle. Could it work? Tomorrow is the 12th day of my cycle. Please help me.",
+ "seconds": 5.493
+}

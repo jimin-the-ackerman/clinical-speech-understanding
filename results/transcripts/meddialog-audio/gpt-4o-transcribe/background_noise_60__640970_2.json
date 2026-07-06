@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__640970_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, actually your stone has come out of the kidney but is impacted in the ureters, which are two tubes carrying urine from the kidney to the bladder. Don't take a chance by delaying; get urgent surgery or laser to have it removed as soon as possible.",
+ "audio_seconds": 13.57,
+ "created_at": "2026-07-06T00:44:16+00:00",
+ "failed": false,
+ "text": "Hello, actually your stone has come out of the kidney but is impacted in the ureters, which are two tubes carrying urine from the kidney to the bladder. Don't take a chance by delaying. Get urgent surgery or laser to have it removed as soon as possible.",
+ "seconds": 1.024
+}

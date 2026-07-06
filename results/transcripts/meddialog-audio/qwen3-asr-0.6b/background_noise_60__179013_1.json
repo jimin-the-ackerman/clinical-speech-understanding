@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__179013_1",
+ "condition": "background_noise_60",
+ "reference": "I had a tooth removed from the top left back three years ago. The root evidently pricked the sinus cavity and has been infected ever since. It smells and has green mucus that comes out when it builds up pressure. I have rinsed my sinus every day with everything from Epsom salts to antibiotics and have taken many rounds of antibiotics. I have no insurance and no cash. Is there anything else to try? I need relief from headache, nausea, and pressure above where the tooth was every day. Help would be greatly appreciated.",
+ "audio_seconds": 29.95,
+ "created_at": "2026-07-06T04:57:27+00:00",
+ "failed": false,
+ "text": "I had a tumor root in the top left back of the head, so the root evidently created a sinus cavity that has been infected ever since. The smell, and it has green mucus that comes out and fills up pressure. I have rinsed my sinus with every drug from Epsom salts to antibiotics, and have taken many rounds of antibiotics. They have no insurance, and no cash. Is there anything else to try for relief of headache, nausea, pressure above where the tumor was every day? Help would be greatly appreciated.",
+ "seconds": 0.961
+}

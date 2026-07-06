@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180297-0022",
+ "condition": null,
+ "reference": "WHAT I LOVED IN YOU WAS NOT THE MAN WHO WAS BUT THE MAN WHO WAS GOING TO BE",
+ "audio_seconds": 5.51,
+ "created_at": "2026-07-06T02:24:09+00:00",
+ "failed": false,
+ "text": "What I loved in you was not the man who was, but the man who was going to be.",
+ "seconds": 4.679
+}

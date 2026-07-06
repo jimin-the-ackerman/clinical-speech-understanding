@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__821590_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, I was pregnant last year and I had a missed abortion. After a certain period of time, we are planning to have a baby. After my last period, on day two, I underwent a follicle test. The doctor suggested taking Clomiphene tablets for five days and they injected a trigger injection to rupture the egg. After that, we just tried naturally. So what is the percentage of getting pregnant now?",
+ "audio_seconds": 25.69,
+ "created_at": "2026-07-06T04:20:09+00:00",
+ "failed": false,
+ "text": "hi i was pregnant last year and i had a missed abortion after a certain period of time we are planning to have a baby after my last period on day two i underwent a follicle test the doctor suggested taking clomiphene tablets for five days and they injected a trigger injection to rupture the egg after that we just tried naturally so what is the percentage of getting pregnant now",
+ "seconds": 0.644
+}

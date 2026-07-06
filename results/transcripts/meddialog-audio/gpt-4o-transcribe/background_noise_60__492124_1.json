@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__492124_1",
+ "condition": "background_noise_60",
+ "reference": "Hello, my husband and I are trying to conceive our second child. We are both healthy, other than him smoking. I still breastfeed my son five hours a day, but I only get my period every three months. Today is the fourteenth day after the first day of my last period. We made love unprotected, and I also elevated my legs to increase the chances of getting pregnant, but I am concerned about the three-month interval. What are my chances of being pregnant?",
+ "audio_seconds": 26.28,
+ "created_at": "2026-07-06T00:44:08+00:00",
+ "failed": false,
+ "text": "Hello, my husband and I are trying to conceive our second child. We are both healthy other than him smoking. I still breastfeed my son five hours a day, but I only get my period every three months. Today is the 14th day after the first day of my last period. We made love unprotected and I also elevated my legs to increase the chances of getting pregnant, but I am concerned about the three-month interval. What are my chances of being pregnant?",
+ "seconds": 1.601
+}

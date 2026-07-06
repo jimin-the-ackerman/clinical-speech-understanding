@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__460549_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. The second man seems to be the more likely father of the child, and it is most probable that he ejaculated inside you. I hope you can handle the situation, and I wish you all the best in this matter for the child.",
+ "audio_seconds": 13.48,
+ "created_at": "2026-07-06T05:24:51+00:00",
+ "failed": false,
+ "text": "Hello. The second man seems to be the more likely father of the child, and it is most probable that he ejaculated inside you. I hope you can handle the situation, and I wish you all the best in this matter for the child.",
+ "seconds": 0.486
+}

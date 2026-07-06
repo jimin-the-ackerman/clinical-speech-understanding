@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__913761_1",
+ "condition": "background_noise_40",
+ "reference": "I am experiencing brown spotting. My menstrual period ended last Saturday. My boyfriend and I were making love with our underwear on, but we did rub our parts against each other, and he did finger me, all while we were wearing our underwear. However, the spotting only occurred after two full days. Why is this so, and what does it mean?",
+ "audio_seconds": 21.76,
+ "created_at": "2026-07-06T00:43:40+00:00",
+ "failed": false,
+ "text": "I am experiencing brown spotting. My menstrual period ended last Saturday. My boyfriend and I were making love with our underwear on, but we did rub our parts against each other, and he did finger me all while we were wearing our underwear. However, the spotting only occurred after two full days. Why is this so, and what does it mean?",
+ "seconds": 1.197
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__202664_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, your concerns about your husband's health are more than welcome. Coumadin treatment means that he suffers from cardiac disease but protects him from cerebral vascular accidents or embolic events. A head computed tomography scan after trauma is done to exclude intracranial injury such as hemorrhage in the brain or hematoma, which are treatment emergencies. Fortunately for him, that went well. Meanwhile, ischemia and leukoencephalopathy are related to cerebral matter suffering from cardiac disease, hypertension, and various problems that your husband has had during his lifetime. Cerebral atrophy is cerebral shrinkage that occurs naturally with age and greatly increases in elderly persons. These are chronic conditions of the brain that most patients experience. You should pay attention to any other confusion, difficulty in speech, or difficulty in walking, that is, any changes from his normal general state to contact your doctor. Of course, also pay attention to other trauma. I hope this helps, and have a nice day.",
+ "audio_seconds": 61.44,
+ "created_at": "2026-07-06T04:21:12+00:00",
+ "failed": false,
+ "text": "Hi. Your concerns about your husband's health are more than welcome. Coumadin treatment means that he suffers from cardiac disease, but protects him from cerebral vascular accidents or embolic events. A head-computed tomography scan after trauma is done to exclude intracranial injuries such as hemorrhage in the brain or hematoma, which are treatment emergencies. Fortunately for him, that went well. Meanwhile, ischemia and leukoencephalopathy are related to cerebral matter suffering from cardiac disease. This includes hypertension and various problems that your husband has had during his lifetime. Cerebral atrophy is cerebral shrinkage that occurs naturally with age and greatly increases in elderly persons. These are chronic conditions of the brain that most patients experience. You should pay attention to any other confusion, difficulty in speech, or difficulty in walking. That is, any changes from his normal general state to contact your doctor. Of course, also pay attention to other trauma. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. I hope this helps, and have a nice day.",
+ "seconds": 2.074
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__519692_1",
+ "condition": "background_noise_60",
+ "reference": "Hello Doctor, I am twenty-nine years old. I am a male. Although I have been having healthy masturbation for the past fifteen years or more, the head of my penis is only slightly visible, and the foreskin does not fully retract. Will this situation hinder my married life? Is having sex with a condom possible? For a long-term solution, should I consider exercises or eventually get circumcised?",
+ "audio_seconds": 25.94,
+ "created_at": "2026-07-06T04:58:48+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I am twenty-nine years old. I am a male, although I have been having healthy masturbation for the past fifteen years or more. The head of my penis is only slightly visible, and the foreskin does not fully retract. Will this situation hinder my married life? Is having sex with a condom possible? For a long-term solution, should I consider exercises or eventually get circumcised?",
+ "seconds": 0.776
+}

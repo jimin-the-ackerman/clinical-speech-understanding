@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131562-0014",
+ "condition": null,
+ "reference": "HERE BENSON ENTERED WITH THE CANDLES AND THERE FOLLOWED A BRIEF INTERVAL OF SILENCE I SITTING STILL IN MY CHAIR AND HE STANDING WITH HIS BACK TO THE FIRE SILENTLY TRIUMPHING IN MY DESPAIR",
+ "audio_seconds": 13.31,
+ "created_at": "2026-07-05T13:12:19+00:00",
+ "failed": false,
+ "text": "here benson entered the candles and there followed a brief interval of silence i sitting still in my chair and he standing with his back to the fire silently triumphing in my despair",
+ "seconds": 0.133
+}

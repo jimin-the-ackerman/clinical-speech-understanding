@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__900298_2",
+ "condition": "white_noise_6",
+ "reference": "Those are probably infections associated with warm weather. So, avoid perspiration and remain cool in warm weather. Use mupirocin for local application whenever a small spot appears.",
+ "audio_seconds": 13.06,
+ "created_at": "2026-07-06T05:15:07+00:00",
+ "failed": false,
+ "text": "Those are part of the infection associated with warm weather. So avoid perspiration and remain cool in warm weather. Use neutrogena for local application whenever a small spot occurs.",
+ "seconds": 0.355
+}

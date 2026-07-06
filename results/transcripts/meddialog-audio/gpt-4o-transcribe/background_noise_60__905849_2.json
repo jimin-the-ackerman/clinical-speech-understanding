@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__905849_2",
+ "condition": "background_noise_60",
+ "reference": "Hi. I have reviewed your question. I can understand your concern. If the bleeding is still present and you are unable to sleep, change the gauze and wet another piece of gauze to place it in the extraction site. If the bleeding does not stop, you can use gauze with an ice pack. My suggestion is to not be apprehensive, as elevated blood pressure can also be a cause of bleeding. You can also visit an emergency room for further treatment. The two potential reasons may be damage to the left root stem and high blood pressure, provided you do not have any underlying blood disorder. Yes, do not sleep with gauze in your mouth, as it may obstruct your airway and can be fatal.",
+ "audio_seconds": 36.86,
+ "created_at": "2026-07-06T00:44:33+00:00",
+ "failed": false,
+ "text": "Hi, I have reviewed your question. I can understand your concern. If the bleeding is still present and you are unable to sleep, change the gauze and wet another piece of gauze to place it in the extraction site. If the bleeding does not stop, you can use gauze with an ice pack. My suggestion is to not be apprehensive, as elevated blood pressure can also be a cause of bleeding. You can also visit an emergency room for further treatment. The two potential reasons may be damage to the left root stem and high blood pressure, provided you do not have any underlying blood disorder. Yes, do not sleep with gauze in your mouth, as it may obstruct your airway and can be fatal.",
+ "seconds": 2.188
+}

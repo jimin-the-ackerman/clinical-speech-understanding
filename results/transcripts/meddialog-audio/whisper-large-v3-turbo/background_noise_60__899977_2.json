@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__899977_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, I have gone through your question and understand your concerns. It is likely that you have deep damage to the muscles and possibly to the bone as well. I suggest you visit an orthopedic surgeon and have a complete thorough workup, including a physical examination and laboratory tests like X-rays and Magnetic Resonance Imaging to rule out any deep injury that could cause problems later in your life. I hope this answers your question. If you have additional or follow-up questions, then please do not hesitate to ask. I will be happy to answer your questions. Wishing you good health.",
+ "audio_seconds": 31.15,
+ "created_at": "2026-07-06T04:43:41+00:00",
+ "failed": false,
+ "text": "hi i have gone through your question and understand your concern it is likely that you have deep damage to the muscles and possibly to the bone as well i suggest you visit an orthopedic surgeon and have a complete thorough workout including a physical examination and laboratory tests like x-rays and magnetic resonance imaging to rule out the deep injury that could cause problems later in your life i hope this answers your question if you have additional or follow-up questions then please do not hesitate to ask and we'll be happy to answer your questions wishing you good",
+ "seconds": 0.358
+}

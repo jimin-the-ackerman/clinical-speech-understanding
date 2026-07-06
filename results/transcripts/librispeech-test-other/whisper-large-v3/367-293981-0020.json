@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-293981-0020",
+ "condition": null,
+ "reference": "SANCHO TOOK IT AND AS HE WAS RAISING IT TO HIS MOUTH HE WAS STOPPED BY THE CRIES OF HIS MASTER EXCLAIMING SANCHO MY SON DRINK NOT WATER DRINK IT NOT MY SON FOR IT WILL KILL THEE SEE HERE I HAVE THE BLESSED BALSAM AND HE HELD UP THE FLASK OF LIQUOR AND WITH DRINKING TWO DROPS OF IT THOU WILT CERTAINLY BE RESTORED",
+ "audio_seconds": 17.29,
+ "created_at": "2026-07-05T12:59:44+00:00",
+ "failed": false,
+ "text": "sancho took it and as he was raising it to his mouth he was stopped by the cries of his master exclaiming sancho my son drink not water drink it not my son for it will kill thee see here i have the blessed balsam and he held up the flask of liquor and with drinking two drops of it thou wilt certainly be restored you",
+ "seconds": 0.607
+}

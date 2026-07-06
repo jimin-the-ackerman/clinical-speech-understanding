@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131556-0005",
+ "condition": null,
+ "reference": "THEY HAD BETAKEN THEMSELVES TO THEIR WORK I LESS TO DIVERT MY MIND THAN TO DEPRECATE CONVERSATION HAD PROVIDED MYSELF WITH A BOOK",
+ "audio_seconds": 10.12,
+ "created_at": "2026-07-06T03:20:54+00:00",
+ "failed": false,
+ "text": "They had betaken themselves to their work. I, less diverted my mind than to duplicate conversation, I provided myself with a book.",
+ "seconds": 0.284
+}

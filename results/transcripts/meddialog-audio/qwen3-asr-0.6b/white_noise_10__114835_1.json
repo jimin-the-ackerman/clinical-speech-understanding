@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__114835_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, I have a bad burning sensation on the upper right side of my stomach. It feels like my flesh is burning and it covers an area about the size of a silver dollar. Sometimes, when I bend over to tie my shoes, it goes into a spasm. The burning sensation is constant now, and it gets a lot worse with certain foods.",
+ "audio_seconds": 19.46,
+ "created_at": "2026-07-06T05:04:29+00:00",
+ "failed": false,
+ "text": "Yeah, I notice that there's a burning sensation on the other side of my chest. The nerves are sensitive burning in the covered area about the size of a golf ball. Sometimes when I bend over the time I see the blazing heat flash. The burning sensation is constant, and it gets a lot worse in certain feet.",
+ "seconds": 0.603
+}

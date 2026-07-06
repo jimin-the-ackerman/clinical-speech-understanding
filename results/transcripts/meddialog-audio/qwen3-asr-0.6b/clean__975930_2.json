@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__975930_2",
+ "condition": "clean",
+ "reference": "Do an abdominal ultrasound. Also, stop taking ibuprofen and try tramadol tablets or a combination of tramadol with paracetamol. A urine routine test is also required, along with serum creatinine. With these reports, check with your doctor.",
+ "audio_seconds": 15.53,
+ "created_at": "2026-07-06T05:04:19+00:00",
+ "failed": false,
+ "text": "Do an abdominal ultrasound. Also, stop taking ibuprofen and triclopidol tablets, or a combination of triclopidol with paracetamol. A urine routine test is also required, along with serum creatinine. With these reports, check with your doctor.",
+ "seconds": 0.537
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__809489_2",
+ "condition": "clean",
+ "reference": "Fever with chest tightness indicates the possibility of a respiratory tract infection. Vomiting may be due to gastric irritation or secondary viral hepatitis. You should take the child to a pediatrician.",
+ "audio_seconds": 11.86,
+ "created_at": "2026-07-06T02:59:33+00:00",
+ "failed": false,
+ "text": "Fever with chest tightness indicates the possibility of a respiratory tract infection; vomiting may be due to gastric irritation or secondary viral hepatitis; you should take the child to a pediatrician.",
+ "seconds": 5.644
+}

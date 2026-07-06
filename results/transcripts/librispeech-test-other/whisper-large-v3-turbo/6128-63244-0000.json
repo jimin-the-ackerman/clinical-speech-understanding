@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63244-0000",
+ "condition": null,
+ "reference": "MISS CHANCELLOR HERSELF HAD THOUGHT SO MUCH ON THE VITAL SUBJECT WOULD NOT SHE MAKE A FEW REMARKS AND GIVE THEM SOME OF HER EXPERIENCES",
+ "audio_seconds": 7.54,
+ "created_at": "2026-07-05T13:13:09+00:00",
+ "failed": false,
+ "text": "miss chancellor herself had thought so much on the vital subject would not she make a few remarks and give them some of her experiences",
+ "seconds": 0.128
+}

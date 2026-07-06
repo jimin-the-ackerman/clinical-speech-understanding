@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0006",
+ "condition": null,
+ "reference": "YOU DON'T KNOW WHAT A TRIAL IT IS FOR ME TO HAVE YOU HERE",
+ "audio_seconds": 3.05,
+ "created_at": "2026-07-05T13:08:07+00:00",
+ "failed": false,
+ "text": "You don't know what a trial it is for me to have you here.",
+ "seconds": 0.206
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__486251_2",
+ "condition": "white_noise_6",
+ "reference": "Considering your symptoms, it seems highly likely that you are suffering from a deficiency of vitamin B12, which is important for nerve health. This deficiency can arise if: one. You are diabetic, two. You are suffering from hypothyroidism or hypertension and have been taking medications for a long time, three. You are vegetarian or have some dietary preferences. Get your blood levels checked and have a vitamin B12 supplementation prescribed by your doctor. Hope it helps.",
+ "audio_seconds": 30.38,
+ "created_at": "2026-07-06T00:47:19+00:00",
+ "failed": false,
+ "text": "You can hear the beeps coming into the room. It's a continuous beeping on and off. It goes off as soon as I move the phone, and it comes back on. But the phone is connected. Which particular frequency is that? Well, here. When I move the phone, it goes off. But as soon as I go higher, it comes back on.",
+ "seconds": 1.993
+}

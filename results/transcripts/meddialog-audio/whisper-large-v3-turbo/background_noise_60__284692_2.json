@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__284692_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, it is better to avoid medication during pregnancy. Your symptoms indicate that you have a urinary infection and not a vaginal infection. It is better to perform a routine urinalysis and culture test and then decide on medication. Blindly taking Clingen is not a good idea.",
+ "audio_seconds": 18.94,
+ "created_at": "2026-07-06T04:42:41+00:00",
+ "failed": false,
+ "text": "Hello, it is better to avoid medication during pregnancy. Your symptoms indicate that urinary infection and not a vaginal infection. It is better to perform a routine urinalysis and culture test and then decide on medication. Blindly taking cleaning is not a good idea.",
+ "seconds": 0.225
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__838862_2",
+ "condition": "background_noise_60",
+ "reference": "I read your question carefully, and I understand your concern. Regarding your first question, yes, it is normal to wait for a week or so; it doesn't significantly affect the tumor's progression while careful planning can improve the outcome. As for your second question, it is a difficult one to answer. There are many types of brain tumors, some more aggressive and some less. Each type carries a different prognosis, which will be better determined after the surgery and the biopsy results. I hope everything works out for the best.",
+ "audio_seconds": 31.57,
+ "created_at": "2026-07-06T05:26:23+00:00",
+ "failed": false,
+ "text": "I read your questions and I understand your history. Answering your first question, yes, it is normal to wait for a response. The process of learning how to talk to Russians is a very long one, through the acronym. Answering your second question, it is difficult to answer. There are many types of tourists: sounder, more aggressive, selfless. Each type has different problems. So you better be careful about your surroundings. I hope everything works out for the best.",
+ "seconds": 0.913
+}

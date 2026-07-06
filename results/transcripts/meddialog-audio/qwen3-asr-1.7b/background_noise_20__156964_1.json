@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__156964_1",
+ "condition": "background_noise_20",
+ "reference": "Sir, I am eighteen years old. I used to masturbate four times a day after a gap of two to three days. I want to leave this problem in the past, but I am not able to. I want to stop this because after masturbating I felt weakness in my whole body and I am also unable to do any heavy work with my full effort, such as weight lifting, and I am also unable to think properly. I want to overcome this addiction; please help me!",
+ "audio_seconds": 25.94,
+ "created_at": "2026-07-06T05:15:42+00:00",
+ "failed": false,
+ "text": "Sir, I am 18 years old. I used to masturbate four times a day after a gap of two to three days. I want to leave this problem in the past, but I am not able to. I want to stop this because after masturbating, I felt weakness in my whole body, and I am also unable to do any heavy work with my full effort, such as weightlifting. And I am also unable to think properly. I want to overcome this addiction. Please help me.",
+ "seconds": 0.971
+}

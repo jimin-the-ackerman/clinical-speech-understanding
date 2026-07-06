@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__789023_1",
+ "condition": "background_noise_40",
+ "reference": "For the last three days, I have been experiencing back pain, specifically on the left side of my back. Whenever I move my head to the left or right, I feel light pain. I have taken Myotop tablets and Pantoprazole forty mg, but I am facing allergic issues. Is there full-body inflammation? Can you suggest another medicine, please?",
+ "audio_seconds": 22.44,
+ "created_at": "2026-07-06T04:19:59+00:00",
+ "failed": false,
+ "text": "For the last three days, I have been experiencing back pain, specifically on the left side of my back. Whenever I move my head to the left or right, I feel light pain. I have taken Myotop tablets and Pantoprofen for the emigrants, but I am facing allergic issues. Is there full body inflammation? Can you suggest another medicine, please?",
+ "seconds": 0.703
+}

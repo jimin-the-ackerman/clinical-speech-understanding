@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163389-0009",
+ "condition": null,
+ "reference": "NOW LEAVE AND TAKE YOUR HALF A MAN WITH YOU TOSSING HIS GUN UP ACROSS HIS LEFT ARM AND COCKING IT WHEN HE SAYS THIS",
+ "audio_seconds": 9.45,
+ "created_at": "2026-07-06T00:03:23+00:00",
+ "failed": false,
+ "text": "Now leave, and take your half a man with you,\" tossing his gun up across his left arm and cocking it when he says this.",
+ "seconds": 4.697
+}

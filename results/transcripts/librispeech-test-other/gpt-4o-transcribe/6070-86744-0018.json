@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-86744-0018",
+ "condition": null,
+ "reference": "HE DWELT WITH CONSIDERABLE FORCE AND ENERGY ON THE ALMOST MAGICAL HOSPITALITY HE HAD RECEIVED FROM THE COUNT AND THE MAGNIFICENCE OF HIS ENTERTAINMENT IN THE GROTTO OF THE THOUSAND AND ONE NIGHTS HE RECOUNTED WITH CIRCUMSTANTIAL EXACTITUDE ALL THE PARTICULARS OF THE SUPPER THE HASHISH THE STATUES THE DREAM AND HOW AT HIS AWAKENING THERE REMAINED NO PROOF OR TRACE OF ALL THESE EVENTS SAVE THE SMALL YACHT SEEN IN THE DISTANT HORIZON DRIVING UNDER FULL SAIL TOWARD PORTO VECCHIO",
+ "audio_seconds": 33.65,
+ "created_at": "2026-07-05T23:57:02+00:00",
+ "failed": false,
+ "text": "He dwelt with considerable force and energy on the almost magical hospitality he had received from the count, and the magnificence of his entertainment in the grotto of the Thousand and One Nights. He recounted with circumstantial exactitude all the particulars of the supper, the hashish, the statues, the dream, and how, at his awakening, there remained no proof or trace of all these events save the small yacht seen in the distant horizon driving under full sail toward Porto-Vecchio.",
+ "seconds": 2.099
+}

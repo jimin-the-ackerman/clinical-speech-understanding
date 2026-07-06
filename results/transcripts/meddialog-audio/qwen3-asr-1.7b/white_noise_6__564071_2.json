@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__564071_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. This is most likely a cyst of the cord, but this is usually painless. Another possibility is that this is a sebaceous cyst. It is better to undergo ultrasonography to confirm what it is and consider surgery to remove the swelling and confirm the diagnosis.",
+ "audio_seconds": 16.81,
+ "created_at": "2026-07-06T05:40:36+00:00",
+ "failed": false,
+ "text": "Hello, this is most likely a cyst of the cord, but this is usually painless. Another possibility is that this is a subcutaneous cyst. It is better to undergo ultrasonography to confirm what it is, and consider surgery to remove the swelling and confirm the diagnosis.",
+ "seconds": 0.546
+}

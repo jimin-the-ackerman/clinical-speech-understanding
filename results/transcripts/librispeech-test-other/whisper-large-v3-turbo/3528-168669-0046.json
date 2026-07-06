@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0046",
+ "condition": null,
+ "reference": "IF YOU HAD A LITTLE MORE FAITH AND IF YOU COULD HAVE BEEN IN HER CELL SHE WOULD HAVE CURED YOUR LEG MERELY BY TOUCHING IT SHE SMILED",
+ "audio_seconds": 8.05,
+ "created_at": "2026-07-05T13:10:30+00:00",
+ "failed": false,
+ "text": "If you had a little more faith, and if you could have been in her cell, she would have cured your leg merely by touching it. She smiled.",
+ "seconds": 0.177
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163399-0023",
+ "condition": null,
+ "reference": "HE MUST A COME AND YOU'VE MISSED HIM ALONG THE ROAD",
+ "audio_seconds": 3.37,
+ "created_at": "2026-07-06T00:04:15+00:00",
+ "failed": false,
+ "text": "He must have come, and you've missed him along the road.",
+ "seconds": 4.39
+}

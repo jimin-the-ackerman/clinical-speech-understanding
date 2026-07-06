@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__842057_1",
+ "condition": "white_noise_6",
+ "reference": "My ten-year-old son fell and banged his leg on Sunday. He has developed a solid lump on his lower leg about an inch away from his shin bone on the outside of his leg. He has no pain except when you press it. It is hard like bone and about one inch long. Should I be concerned?",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T05:41:58+00:00",
+ "failed": false,
+ "text": "My ten-year-old son fell and banged his leg on something. He has developed a solid, round, blue, and hard bump an inch or two from his shin bone on the outside of his leg. He has no pain except in his chest. It is hard like bone and about one inch long. Should I be concerned?",
+ "seconds": 0.644
+}

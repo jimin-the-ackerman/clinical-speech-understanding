@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0121",
+ "condition": null,
+ "reference": "AFTER WHICH THERE WILL BE NO TRACE OF ANYTHING",
+ "audio_seconds": 2.85,
+ "created_at": "2026-07-05T12:58:59+00:00",
+ "failed": false,
+ "text": "after which there will be no trace of anything",
+ "seconds": 0.173
+}

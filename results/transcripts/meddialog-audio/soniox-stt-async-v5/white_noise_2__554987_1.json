@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__554987_1",
+ "condition": "white_noise_2",
+ "reference": "Due to abdominal pain, I was advised to have a CT scan. The CT findings are: mild free fluid in the perihepatic region, interbowel region, and pelvis, a few subcentimeter enlarged mesenteric lymph nodes in the small bowel mesentery, and right iliac fossa. I was advised to take Ceftum five hundred milligrams twice a day. Now, it has almost been five days, and there is still no change in the pain. Can you advise me on what to do?",
+ "audio_seconds": 29.01,
+ "created_at": "2026-07-06T03:06:51+00:00",
+ "failed": false,
+ "text": "Due to abdominal pain, I was advised to have a CT scan. The CT findings are: mild free fluid in the periapatic region, interbowel region, and pelvis; a few subcentimeter enlarged mesenteric lymph nodes in the small bowel mesentery and right iliac fossa. I was advised to take Ceftin 500 mg twice a day. Now it has almost been 5 days, and there is still no change in the pain. Can you advise me on what to do?",
+ "seconds": 4.961
+}

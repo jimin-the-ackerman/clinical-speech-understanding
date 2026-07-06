@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__508930_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, complete recovery is possible after a blood transfusion, but it all depends on how much damage has occurred in the liver, what other diseases you have, how low the hemoglobin level is, etc. However, in general, complete recovery is possible, but abstinence from alcohol and smoking is required. If there is no permanent damage, then recovery can happen. But if your liver disease has progressed to cirrhosis and fibrosis has already developed, then it becomes very difficult.",
+ "audio_seconds": 27.22,
+ "created_at": "2026-07-06T04:58:44+00:00",
+ "failed": false,
+ "text": "Hello, complete recovery is possible if transfusion, but it all depends on how much damage has occurred in the liver, what other diseases you have, how low the hemoglobin level is, etc. However, in general, complete recovery is possible, but abstinence from alcohol and smoking is required. If there is no permanent damage, then recovery can happen. But liver disease has progressed to cirrhosis and fibrosis has already developed, then it becomes very difficult.",
+ "seconds": 0.879
+}

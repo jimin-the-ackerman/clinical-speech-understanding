@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__387096_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, I have numbness that started in my big toe, and I have not done anything about it. It has been two weeks. The likely cause could be that I was standing mostly in the same place for about five to seven hours. I am not doing that anymore, but the sensation has only worsened. Would resting reverse the symptoms?",
+ "audio_seconds": 18.26,
+ "created_at": "2026-07-06T04:21:57+00:00",
+ "failed": false,
+ "text": "Hi. I have numbness that started in my big toe, and I have not done anything about it. It has been two weeks. The only good cause could be that I was standing and resting in the same place for about five to seven hours. I am not doing that anymore, but the sensation is a little worsening. I've been resting for six months.",
+ "seconds": 0.626
+}

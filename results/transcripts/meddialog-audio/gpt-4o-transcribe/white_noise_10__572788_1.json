@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__572788_1",
+ "condition": "white_noise_10",
+ "reference": "I just received my blood work from my doctor after my physical examination. I am fifty-two years old and have been having issues with inflammation for quite some time now. All my blood work is normal except my erythrocyte sedimentation rate. I exercise and have been eating healthier. What do you suggest I can eat or take to get this rate to normal? Debbie",
+ "audio_seconds": 20.39,
+ "created_at": "2026-07-06T00:45:56+00:00",
+ "failed": false,
+ "text": "You need to back up your statement.",
+ "seconds": 0.67
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__876039_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, Doctor. My two cousins love to play with our seven-month-old Miniature Pinscher. They will put their hands in the mouth of our dog, and then my cousin had an abrasion on his hand. I washed it with water and soap, while my other cousin had a small cut on his finger. Our puppy has had complete vaccinations. What should we do? Please answer. Thank you.",
+ "audio_seconds": 21.76,
+ "created_at": "2026-07-06T04:49:23+00:00",
+ "failed": false,
+ "text": "Hi, doctor. My two cousins love to play with our seven-month miniature pincher. They will put their hands in the mouth of our dog, and then my cousin had an abrasion on his hand. I washed it with water and soap, while my other cousin had a small cut on his finger. Our puppy has had complete vaccinations. What should we do? Please answer. Thank you.",
+ "seconds": 0.263
+}

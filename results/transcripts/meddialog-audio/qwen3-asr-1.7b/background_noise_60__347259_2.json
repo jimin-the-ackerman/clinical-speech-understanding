@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__347259_2",
+ "condition": "background_noise_60",
+ "reference": "Hi. She may have repeated biliary colic, recurrent attacks of gastritis, or she may have urinary tract infections. Therefore, she needs a routine urine test and a liver function test for further evaluation.",
+ "audio_seconds": 12.97,
+ "created_at": "2026-07-06T05:24:27+00:00",
+ "failed": false,
+ "text": "Hi, she may have repeated biliary colic. Return the passive gastroduoden, or she may have urinary tract infections. Therefore, she needs a routine urine test and a liver function test for further evaluation.",
+ "seconds": 0.444
+}

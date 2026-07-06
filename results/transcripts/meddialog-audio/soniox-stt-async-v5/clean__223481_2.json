@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__223481_2",
+ "condition": "clean",
+ "reference": "It seems to be a secondary bacterial infection after a viral infection. Your son needs a course of antibiotics and paracetamol to overcome this.",
+ "audio_seconds": 9.3,
+ "created_at": "2026-07-06T02:57:17+00:00",
+ "failed": false,
+ "text": "It seems to be a secondary bacterial infection after a viral infection; your son needs a course of antibiotics and paracetamol to overcome this.",
+ "seconds": 4.626
+}

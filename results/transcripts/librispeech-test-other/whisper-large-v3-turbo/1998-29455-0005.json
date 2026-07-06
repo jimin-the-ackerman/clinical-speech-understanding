@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0005",
+ "condition": null,
+ "reference": "THEY'RE ONLY WEEDS SAID BEALE",
+ "audio_seconds": 2.49,
+ "created_at": "2026-07-05T13:09:19+00:00",
+ "failed": false,
+ "text": "they are only weeds said beale",
+ "seconds": 0.103
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__196411_1",
+ "condition": "white_noise_6",
+ "reference": "Dear Sir, my sperm count is thirty%, total motility is fifty%. Sperm motility is as follows: Grade I - thirty%, Grade II - thirty%, Grade III - twenty%, Grade IV - twenty%. Sperm morphology shows normal percentage, abnormal ten%, and dead sixty%. Pus cells are between eight to ten. Can you please tell me if my report is normal or not? If it is not normal, could you suggest which treatment I should pursue?",
+ "audio_seconds": 33.54,
+ "created_at": "2026-07-06T05:39:01+00:00",
+ "failed": false,
+ "text": "Dear sir, my sperm count is 30%. Total motility is 50%. Sperm motility is as follows: grade I, 30%; grade II, 30%; grade III, 20%; grade IV, 20%. Sperm morphology shows normal percentage, abnormal 10%, and dead 60%. Purse cells are between 8 to 10. Can you please tell me if my report is normal or not? If it is not normal, could you suggest which treatment I should pursue?",
+ "seconds": 1.04
+}

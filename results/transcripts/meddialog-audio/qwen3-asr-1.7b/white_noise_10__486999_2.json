@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__486999_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, I think you have two good follicles, so there is a fair chance of pregnancy. The chance of getting pregnant in one cycle of timed intercourse is only seven to ten percent. Therefore, try for at least three to six cycles of that. Go for a scan after two days to check for rupture. Be in contact with your husband for the next two days. Take progesterone for two weeks after the rupture, and then do a urine pregnancy test.",
+ "audio_seconds": 23.89,
+ "created_at": "2026-07-06T05:32:30+00:00",
+ "failed": false,
+ "text": "Hi, I think you have two good follicles, so there is a fair chance of pregnancy. The chance of getting pregnant in one cycle of timed intercourse is only seven to ten percent. Therefore, try for at least three to six cycles of that. Go for a scan after two days to check the rupture. Be in contact with your husband for the next two days. Take progesterone for two weeks after the rupture, and then do a urine pregnancy test.",
+ "seconds": 0.879
+}

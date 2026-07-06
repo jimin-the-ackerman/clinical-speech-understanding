@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__499371_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, I have gone through your question, and I appreciate your concern. A high erythrocyte sedimentation rate could be related to infection or inflammatory conditions. A high erythrocyte sedimentation rate along with swollen lymph glands in the neck is suggestive of an infection like tuberculosis. In my opinion, you should get a fine-needle aspiration cytology of the swollen lymph glands to confirm the diagnosis. You should be concerned, but not overly so; it is very much a treatable condition. She may require a course of antibiotics or directly observed treatment, short-course therapy under the supervision of your doctor. I hope this answers your question. You can upload the reports and photographs for more clarification, and I will gladly provide further assistance. Best wishes.",
+ "audio_seconds": 41.13,
+ "created_at": "2026-07-06T04:33:51+00:00",
+ "failed": false,
+ "text": "Hello, I have gone through your question and I appreciate your concern. High erythrocyte sedimentation rate could be related to infection or inflammatory conditions. A high erythrocyte sedimentation rate along with swollen lymph glands in the neck is suggestive of an infection like tuberculosis. In my opinion, you should get a fine needle aspiration psychology of the swollen lymph gland to confirm the diagnosis. You should be concerned, but not overly so. It is very much a treatable condition. You may require a course of antibiotics or directly observed treatment, short course therapy under the supervision of your doctor. I hope this answers your question. You can upload the reports and photographs for more clarification and I will gladly provide further assistance. Best wishes.",
+ "seconds": 1.244
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__930541_2",
+ "condition": "white_noise_2",
+ "reference": "Please avoid high-intensity exercise for now. You should get your blood pressure measured and have some investigations done: lipid profile, electrocardiography, and echocardiography. Please get back to me with the reports.",
+ "audio_seconds": 13.48,
+ "created_at": "2026-07-06T03:08:33+00:00",
+ "failed": false,
+ "text": "Please avoid high-intensity exercise for now; you should get your blood pressure measured and have some investigations done: lipid profile, electrocardiography, and echocardiography. Please get back to me with the reports.",
+ "seconds": 4.709
+}

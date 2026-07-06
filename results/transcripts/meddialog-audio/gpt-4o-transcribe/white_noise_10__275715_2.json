@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__275715_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, I have gone through your question and understand your concern. Arachnoid cysts are common findings in magnetic resonance imaging scans and are considered incidental, generally not responsible for any symptoms at all. The tremor you are having is probably an essential tremor and not related to the arachnoid cyst, nor does the depression have anything to do with it. Thus, the arachnoid cyst does not need any treatment. I hope this answers your question. I wish you good health.",
+ "audio_seconds": 30.72,
+ "created_at": "2026-07-06T00:45:47+00:00",
+ "failed": false,
+ "text": "I am now going to be answering your questions about the body. I will be giving you a worksheet and I want you to use the words in the box and match the body parts on the picture. If you have any problems I will give you assistance and if you have finished your questions I will give you another worksheet. You may use the dictionary if you need help.",
+ "seconds": 1.329
+}

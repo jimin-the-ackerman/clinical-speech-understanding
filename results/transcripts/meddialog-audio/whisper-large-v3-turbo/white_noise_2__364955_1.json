@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__364955_1",
+ "condition": "white_noise_2",
+ "reference": "My nearly three-year-old daughter was bitten by something last week on her thumb, and last night she was up for five hours vomiting. It was yellow, foamy, frothy vomit. Today she hasn't eaten anything at all. Could the bite have something to do with the vomit, or is the vomit something to be worried about?",
+ "audio_seconds": 16.21,
+ "created_at": "2026-07-06T04:47:04+00:00",
+ "failed": false,
+ "text": "my nearly three-year-old daughter was bitten by something last week on her thumb and last night she was up for five hours vomiting it was yellow foamy frothy vomit today she hasn't eaten anything at all could the bite have something to do with the vomit or is the vomit something to be worried about",
+ "seconds": 0.3
+}

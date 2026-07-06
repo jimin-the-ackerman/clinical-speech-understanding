@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__718213_2",
+ "condition": "clean",
+ "reference": "After prolonged surgery or prolonged positioning of the head in the same position, leading to ischemia and reduced blood flow to a point on the scalp due to constant pressure, this kind of thing can happen. It is referred to as a pressure sore and may even lead to permanent baldness in that region. Presently, only observation is required, and you can apply an oil-based ointment on it. It should reduce in size but may take a long time to heal fully.",
+ "audio_seconds": 25.34,
+ "created_at": "2026-07-06T02:59:11+00:00",
+ "failed": false,
+ "text": "After prolonged surgery or prolonged positioning of the head in the same position, leading to ischemia and reduced blood flow to a point on the scalp due to constant pressure, this kind of thing can happen; it is referred to as a pressure sore and may even lead to permanent baldness in that area. Presently, only observation is required, and you can apply an oil-based ointment on it; it should reduce in size but may take a long time to heal fully.",
+ "seconds": 5.977
+}

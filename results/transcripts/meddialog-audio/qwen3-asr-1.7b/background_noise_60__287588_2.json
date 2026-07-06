@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__287588_2",
+ "condition": "background_noise_60",
+ "reference": "Masturbation does not cause thinning of hair. If thinning of hair were to be a consequence of masturbation, you could not masturbate due to an endocrine problem, specifically testosterone deficiency. So, there is no issue with masturbation.",
+ "audio_seconds": 15.19,
+ "created_at": "2026-07-06T05:24:12+00:00",
+ "failed": false,
+ "text": "Masturbation does not cause thinning of hair. If thinning of hair were to be a consequence of masturbation, you could not masturbate due to an endocrine problem, specifically testosterone deficiency. So there is no issue with masturbation.",
+ "seconds": 0.474
+}

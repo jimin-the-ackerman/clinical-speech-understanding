@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__823648_2",
+ "condition": "white_noise_2",
+ "reference": "I personally am not in favor of sclerotherapy. You have not mentioned the exact location of the seroma; still, in my opinion, surgical excision followed by chemotherapy is a better option, and if required, a revision hip replacement.",
+ "audio_seconds": 14.93,
+ "created_at": "2026-07-06T00:46:57+00:00",
+ "failed": false,
+ "text": "Het is moeilijk na te bootsen. Je had nog een gymbadge opgeschreven.",
+ "seconds": 1.263
+}

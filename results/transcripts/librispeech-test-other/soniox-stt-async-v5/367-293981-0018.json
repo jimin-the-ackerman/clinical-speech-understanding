@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-293981-0018",
+ "condition": null,
+ "reference": "THE CRIES OF THE POOR BLANKETED WRETCH WERE SO LOUD THAT THEY REACHED THE EARS OF HIS MASTER WHO HALTING TO LISTEN ATTENTIVELY WAS PERSUADED THAT SOME NEW ADVENTURE WAS COMING UNTIL HE CLEARLY PERCEIVED THAT IT WAS HIS SQUIRE WHO UTTERED THEM",
+ "audio_seconds": 12.3,
+ "created_at": "2026-07-06T00:08:07+00:00",
+ "failed": false,
+ "text": "The cries of the poor blanketed wretch were so loud that they reached the ears of his master, who, halting to listen attentively, was persuaded that some new adventure was coming, until he clearly perceived that it was his squire who uttered them.",
+ "seconds": 4.545
+}

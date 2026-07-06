@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-130732-0022",
+ "condition": null,
+ "reference": "SO FAR IT HAS BEEN USED MOSTLY FOR GARNISHMENT OF OTHER DISHES AND IT IS ONLY RECENTLY THAT THE HOF BRAU HAS BEEN MAKING A SPECIALTY OF THEM",
+ "audio_seconds": 7.45,
+ "created_at": "2026-07-06T03:18:19+00:00",
+ "failed": false,
+ "text": "So far, it has been used mostly for garnishment of other dishes, and it is only recently that the hulf brow has been making a specialty of them.",
+ "seconds": 0.342
+}

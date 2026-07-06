@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__664739_2",
+ "condition": "background_noise_20",
+ "reference": "Colitis can be the cause. A stool examination is necessary. Please get an ultrasound done to rule out salpingitis as well. Take care.",
+ "audio_seconds": 7.59,
+ "created_at": "2026-07-06T02:48:24+00:00",
+ "failed": false,
+ "text": "Blindness can be the cause, but stool examination is necessary. Please get an ultrasound done to rule out salpingitis as well. Take care.",
+ "seconds": 4.659
+}

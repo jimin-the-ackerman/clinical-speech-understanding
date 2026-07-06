@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__497887_1",
+ "condition": "clean",
+ "reference": "I went to the doctor yesterday with a small bumpy rash just above my belly button to the right. She thought it could be shingles, but noted that I also had a viral infection. She prescribed me antibiotics and shingles cream, not giving me shingles tablets as I only have five spots. I now have eight spots, with two having black dots in the middle of them. I want to go back to work tomorrow and wonder if that is alright to do, seeing as the doctor wasn't too sure whether I had shingles or not.",
+ "audio_seconds": 29.87,
+ "created_at": "2026-07-06T04:26:23+00:00",
+ "failed": false,
+ "text": "I went to the doctor yesterday with a small bumpy rash just above my belly button to the right. She thought it could be shingles, but noted that I also had a viral infection. She prescribed me antibiotics and shingles cream, not giving me shingles tablets as I only have five spots. I now have eight spots, with two having black dots in the middle of them. I want to go back to work tomorrow and wonder if that is alright to do, seeing as the doctor wasn't too sure whether I had shingles or not.",
+ "seconds": 0.87
+}

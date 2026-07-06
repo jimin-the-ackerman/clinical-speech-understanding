@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__933980_2",
+ "condition": "white_noise_2",
+ "reference": "Hi. Are there any other associated symptoms like nausea, vomiting, fever, loose motion, or similar? This can be due to an infection of the liver, gall bladder, or colon on that side. You need a high-resolution ultrasonography to know what is going on inside and to take a course of antibiotics if necessary. Depending on the reports of the ultrasonography, you may need surgery.",
+ "audio_seconds": 21.67,
+ "created_at": "2026-07-06T04:48:03+00:00",
+ "failed": false,
+ "text": "Hi. Are there any other associated symptoms like nausea, vomiting, or lose motion, or similar? This can be due to an infection of the liver, gallbladder, or colon on that side. You need a high-resolution ultrasonography to know what is going on and to take a course of antibiotics if necessary. Depending on the reports of the ultrasonography, you may need surgery.",
+ "seconds": 0.261
+}

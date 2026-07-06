@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__757711_2",
+ "condition": "white_noise_2",
+ "reference": "Pain during a strong cough may be due to muscle or nerve irritation. The brown phlegm is a result of the strong cough, and there is no need to worry as it is normal. However, if the cough persists for a long time, then you should be concerned. Your cholesterol levels are high, which can occur due to a low dosage of thyroxine that is required for your body. Please check with your endocrinologist and adjust the dosage.",
+ "audio_seconds": 28.59,
+ "created_at": "2026-07-06T05:37:41+00:00",
+ "failed": false,
+ "text": "Pain during a strong cough may be due to muscle or nerve irritation. The brown phlegm is a result of the strong cough, and there is no need to worry as it is normal. However, if the cough persists for a long time, then you should be concerned. Your cholesterol levels are high, which can occur due to a low dosage of thyroxine that is required for your body. Please check with your endocrinologist and adjust the dosage.",
+ "seconds": 0.898
+}

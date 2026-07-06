@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-9934-0026",
+ "condition": null,
+ "reference": "THAT WILL BE SWALLOWING A TONGUE VERY FAST OR A HUNDRED SOUS VERY SLOWLY",
+ "audio_seconds": 5.43,
+ "created_at": "2026-07-06T02:26:15+00:00",
+ "failed": false,
+ "text": "That will be swallowing a tongue very fast, or a hundred sue very slowly.",
+ "seconds": 4.616
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__199994_2",
+ "condition": "background_noise_20",
+ "reference": "Dear patient, you may be experiencing a stress fracture of the tibia. This occurs due to unaccustomed activity and overuse. You need to take rest. Diagnosis can be confirmed by magnetic resonance imaging of the leg. Rest for at least one month. Start taking diclofenac sodium fifty milligrams twice a day for pain relief. After complete pain relief, you should start again with a slow and progressive increase in your workout.",
+ "audio_seconds": 25.43,
+ "created_at": "2026-07-06T04:39:38+00:00",
+ "failed": false,
+ "text": "Dear patient, you may be experiencing a stress fracture of the tibia. This occurs due to unaccustomed activity and overuse. You need to take rest. Diagnosis can be confirmed by magnetic resonance imaging of the leg. Rest for at least one month. Start taking diclofenic sodium 50 milligrams twice a day for pain relief. After complete pain relief, you should start again with a slow and progressive increase in your workout.",
+ "seconds": 0.295
+}

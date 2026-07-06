@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__877572_1",
+ "condition": "background_noise_20",
+ "reference": "I have been having pain in my feet and hands, and it kind of shoots up into my arms and legs. At the same time, my joints, primarily in my ankles, feel stiff when they are kept in one position for a few minutes. The pain comes and goes; it is more prominent in my feet and feels like it is getting progressively worse.",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T02:49:18+00:00",
+ "failed": false,
+ "text": "I've been having pain in my feet and hands, and it kind of shoots up into my arms and legs. At the same time, my joints—primarily in my ankles—feel stiff when they are kept in one position for a few minutes. The pain comes and goes. It is more prominent in my feet and feels like it is getting progressively worse.",
+ "seconds": 5.915
+}

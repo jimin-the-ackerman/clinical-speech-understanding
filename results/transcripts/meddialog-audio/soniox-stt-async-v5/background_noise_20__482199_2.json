@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__482199_2",
+ "condition": "background_noise_20",
+ "reference": "In my opinion, surgical treatment will be better for you, as medical treatment will reduce your symptoms but not cure your condition. In the later months of pregnancy, it will be more problematic for you.",
+ "audio_seconds": 13.23,
+ "created_at": "2026-07-06T02:47:41+00:00",
+ "failed": false,
+ "text": "In my opinion, surgical treatment will be better for you, as medical treatment will reduce your symptoms but not cure your condition. In the later months of pregnancy, it will be more problematic for you.",
+ "seconds": 4.647
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0046",
+ "condition": null,
+ "reference": "MISTER LILBURN AND MISTER DALY EACH AT A DIFFERENT TIME SOUGHT OUT THE YOUNG MAN WARD'S INTENDED VICTIM AND TRIED TO INFLUENCE HIM FOR GOOD",
+ "audio_seconds": 8.84,
+ "created_at": "2026-07-05T13:08:37+00:00",
+ "failed": false,
+ "text": "mr lilburn and mr daly each at a different time sought out the young man ward's intended victim and tried to influence him for good",
+ "seconds": 0.267
+}

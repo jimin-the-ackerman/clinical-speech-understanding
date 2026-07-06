@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__560295_2",
+ "condition": "clean",
+ "reference": "Usually, intercourse during pregnancy does not cause any harm to the baby. However, we suggest patients not to engage in sexual activity in the first and third trimesters of pregnancy.",
+ "audio_seconds": 10.33,
+ "created_at": "2026-07-06T02:58:27+00:00",
+ "failed": false,
+ "text": "Usually, intercourse during pregnancy does not cause any harm to the baby; however, we suggest patients not to engage in sexual activity in the first and third trimesters of pregnancy.",
+ "seconds": 5.589
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__732209_2",
+ "condition": "background_noise_40",
+ "reference": "Hi and welcome to Healthcare Management. This sounds like typical lumbosacral radiculopathy with nerve compression. You should get lumbar X-rays or an MRI to see if there is a disc bulge or any other spinal disorder. Also, some neurological diseases may need to be considered, but I am sure this is benign. You will have to rest and take painkillers or corticosteroids until symptoms improve. Sometimes surgery may also be necessary. I wish you good health.",
+ "audio_seconds": 25.43,
+ "created_at": "2026-07-06T04:56:00+00:00",
+ "failed": false,
+ "text": "I am welcome to healthcare management. This sounds like typical lumbar sacral radiculopathy with nerve compression. You should get lumbar X rays or an MRI to see if there is a disc bulge or any other spinal disorder. Also, some neurological diseases may need to be considered. But I am sure this is benign. You will have to rest and take painkillers or corticosteroids until symptoms improve. Sometimes surgery may also be necessary. I wish you good health.",
+ "seconds": 0.884
+}

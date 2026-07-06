@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280057-0008",
+ "condition": null,
+ "reference": "MISSUS WASHINGTON WELLS AND HER SON SAMUEL ON THE ROAD HOME FROM KANSAS CITY TO LEE'S SUMMIT RECOGNIZED THE BODY AS THAT OF MY FATHER",
+ "audio_seconds": 7.64,
+ "created_at": "2026-07-05T13:06:58+00:00",
+ "failed": false,
+ "text": "miss washington wells and her son samuel on the road home from kansas city to lee's summit recognized a body as that of my father",
+ "seconds": 0.28
+}

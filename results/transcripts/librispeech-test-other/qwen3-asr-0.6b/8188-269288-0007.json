@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0007",
+ "condition": null,
+ "reference": "IT IS THIS IF BY ANY CHANCE YOU DON'T LEAVE SAINT WODE'S ANNIE I HOPE YOU WILL ALLOW ME TO BE YOUR ROOMFELLOW AGAIN NEXT TERM",
+ "audio_seconds": 9.44,
+ "created_at": "2026-07-06T03:25:22+00:00",
+ "failed": false,
+ "text": "It is this: if by any chance you don't leave Saint Woods, any, I hope you will allow me to be your room fellow again next term.",
+ "seconds": 0.325
+}

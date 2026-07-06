@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__804527_1",
+ "condition": "white_noise_10",
+ "reference": "I am thirty-two weeks pregnant with a bad cough. I first felt pain in my stomach at the beginning, but now the pain has escalated into the middle part of my left backside. Is this pain the result of coughing too much, or is there something wrong with my kidney?",
+ "audio_seconds": 15.36,
+ "created_at": "2026-07-06T05:07:14+00:00",
+ "failed": false,
+ "text": "I am thirty-two weeks pregnant with a bad cough. I first felt pain in my stomach at the beginning, but now the pain has escalated into the middle part of my left backside. Does this pain result from coughing too much, or is there something wrong with my kidney?",
+ "seconds": 0.528
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__317221_1",
+ "condition": "clean",
+ "reference": "My mother is undergoing dialysis three times a week for three and a half hours each day. On those days, after about an hour on the machine, she experiences severe headaches and stomach issues such as pain and spasms. On the days she does not go, she feels great. Do you have any ideas about what is going on?",
+ "audio_seconds": 18.01,
+ "created_at": "2026-07-06T02:57:37+00:00",
+ "failed": false,
+ "text": "My mother is undergoing dialysis 3 times a week for 3.5 hours each day. On those days, after about an hour on the machine, she experiences severe headaches and stomach issues such as pain and spasms. On the days she does not go, she feels great. Do you have any ideas about what is going on?",
+ "seconds": 5.844
+}

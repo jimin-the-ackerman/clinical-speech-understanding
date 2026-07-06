@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__110215_1",
+ "condition": "white_noise_2",
+ "reference": "I fell on my left foot two weeks ago and went immediately to the emergency room. They said it was bruised metatarsals and gave me a tall walking boot with instructions to use the boot for a few days to help with mobility, and to apply ice and rest when possible. It has improved, but the pain is waking me up at night. It is centered at the base of my second, third, and fourth toes and on the middle left side. I had stopped wearing the boot and was using shoes with memory foam. Should I resume wearing the boot or go to a specialist to get further X-rays?",
+ "audio_seconds": 32.26,
+ "created_at": "2026-07-06T00:46:14+00:00",
+ "failed": false,
+ "text": "ザワママコアキンシド、ウマニンゲンキーロンニドで、レイサイプルグループならハコニカオガキッテスプンデクルグループで、ホントアイアンシュナスルハコ、ミュージックキーロンニハナシカケ、ワレジュンゴエンニュートコトシサショウスルキカイサイ。",
+ "seconds": 1.78
+}

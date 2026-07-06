@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__700534_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, I am twenty-three weeks pregnant and my hemoglobin level is seven point seven grams per deciliter. Under medical supervision, I took Orofer injection for five alternating days, and thereafter, I have been taking Orofer Total tablets once a day. After taking the tablets, I experience stomach pain, as if gas is forming, accompanied by breathlessness, which continues for three to four hours and then subsides. I am really worried whether this stomach pain has anything to do with my baby's growth.",
+ "audio_seconds": 30.46,
+ "created_at": "2026-07-06T04:47:40+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I am 23 weeks pregnant, and my hemoglobin level is 7.7 grams per deciliter. Under medical supervision, I took a ropher injection for five alternating days, and thereafter, I have been taking a ropher total tablets once a day. After taking the tablets, I experience stomach pain, as if gas is forming, accompanied by breathlessness, which continues for three to four hours, and then subsides. I am really worried whether this stomach pain has anything to do with my baby's growth.",
+ "seconds": 0.356
+}

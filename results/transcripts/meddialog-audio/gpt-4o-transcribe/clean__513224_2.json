@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__513224_2",
+ "condition": "clean",
+ "reference": "Hello there. It is possible you have trigger finger or the development of a ganglion cyst. Apply a cold compress. Take a painkiller for any present pain. Mild finger extension and stretching exercises will be beneficial. Please consult your orthopedic surgeon and undergo any necessary investigations, such as an ultrasound or magnetic resonance imaging, as required by your doctor, and treatment according to the cause.",
+ "audio_seconds": 26.79,
+ "created_at": "2026-07-06T00:45:06+00:00",
+ "failed": false,
+ "text": "Hello there. It is possible you have trigger finger or the development of a ganglion cyst. Apply a cold compress. Take a painkiller for any present pain. Mild finger extension and stretching exercises will be beneficial. Please consult your orthopedic surgeon and undergo any necessary investigations, such as an ultrasound or magnetic resonance imaging, as required by your doctor, and treatment according to the cause.",
+ "seconds": 1.674
+}

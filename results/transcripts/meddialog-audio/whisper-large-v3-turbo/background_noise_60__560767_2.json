@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__560767_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, your sister is experiencing resistant seizures that are not controlled with medications. She needs surgery for epilepsy. Various options include corpus callosotomy, functional hemispherotomy, multiple subpial transections, vagus nerve stimulation, and amygdaloid hippocampectomy.",
+ "audio_seconds": 18.26,
+ "created_at": "2026-07-06T04:43:09+00:00",
+ "failed": false,
+ "text": "Hi, your sister is experiencing resistant seizures that are not controlled with medications. She needs surgery for epilepsy. Various options include corpus callosotomy, functional hemispheromy, multiple sub-heal transections, vagus nerve stimulation, and amygdaloid hippocampactomy.",
+ "seconds": 0.243
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__169966_2",
+ "condition": "white_noise_2",
+ "reference": "Hi. The history of the fall is noted. It is possible that you have developed a problem with the discs of the spinal column. Get an MRI of the thoracolumbar spine to see whether there is a problem with the spinal cord. You can also have a study of the muscles that have the sprain. The pain in the left lower abdomen can be due to muscle sprain or referred pain from the compressed spinal cord due to a disc or other issues.",
+ "audio_seconds": 26.03,
+ "created_at": "2026-07-06T04:32:36+00:00",
+ "failed": false,
+ "text": "The history of the fall is noted. It is possible that you have developed a problem with the discs of the spinal column. Get an MRI of the thoracolumbar spine to see whether there is a problem with the spinal cord. You can also have a study of the muscles that have the sprain. The pain in the left lower abdomen can be due to muscle sprain or referred pain from the compressed spinal cord due to a disc or other issues.",
+ "seconds": 0.786
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__174369_1",
+ "condition": "white_noise_10",
+ "reference": "My little daughter was born on thirty March two thousand and nine. Everything is fine with her, but while walking, we notice that her legs have a curved shape. We thought it might be because of putting her in a trolley, but someone told us that she is experiencing rickets, which is why it is like that. She walks, but we can see her legs are curved. What is rickets and how should we address it?",
+ "audio_seconds": 22.78,
+ "created_at": "2026-07-06T05:04:43+00:00",
+ "failed": false,
+ "text": "I know what a dog is is going on in my mind. Everything is fine with me, but while walking, I noticed that her eyes have a very white. I thought it might be because of her little body, but someone told me that she is a queen from Egypt. That's why it looks like. Oh my God! So you can see her little bit hurt. What is wicked from her beautiful.",
+ "seconds": 0.748
+}

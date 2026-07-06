@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__853305_1",
+ "condition": "clean",
+ "reference": "I am a fifty-year-old male and a smoker. I do not have diabetes or high blood pressure, and I receive regular check-ups. Today, all of a sudden, I am experiencing sharp pain in my extreme left chest that feels as if it radiates into my armpit. Certain positions of my arm seem to affect it, although it is not coming from my arm. It feels very slightly tender to the touch, but it is too slight to definitively identify that as the spot. Deep breaths do not seem to aggravate it, but exhaling does a bit. Could this be a muscle strain? Could I have turned the steering wheel awkwardly and caused it? I have never felt anything in this area before.",
+ "audio_seconds": 37.55,
+ "created_at": "2026-07-06T05:30:22+00:00",
+ "failed": false,
+ "text": "I am a 50-year-old male and a smoker. I do not have diabetes or high blood pressure, and I receive regular checkups. Today, all of a sudden, I am experiencing sharp pain in my extreme left chest that feels as if it radiates into my armpit. Certain positions of my arm seem to affect it, although it is not coming from my arm. It feels very slightly tender to the touch, but it is too slight to definitively identify that as the spot. Deep breaths do not seem to aggravate it, but exhaling does a bit. Could this be a muscle strain? Could I have turned the steering wheel awkwardly and caused it? I have never felt anything in this area before.",
+ "seconds": 1.371
+}

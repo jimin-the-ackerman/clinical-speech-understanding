@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__630535_1",
+ "condition": "background_noise_60",
+ "reference": "How would I go about getting my old medication, Adderall? I haven't needed it in quite a while, but my Attention Deficit Disorder is getting out of control again and it is very irritating. I was seeing a doctor here in Atlanta about three years ago, and now I can't even find him. I am twenty-five years old and I am beginning school this Monday. Please help!",
+ "audio_seconds": 23.38,
+ "created_at": "2026-07-06T02:55:12+00:00",
+ "failed": false,
+ "text": "How would I go about getting my old medication, Adderall? I haven't needed it for quite a while, but my attention deficit disorder is getting out of control again, and it is very irritating. I was seeing a doctor here in Atlanta about 3 years ago, and now I can't even find it. I am 25 years old, and I am beginning school this Monday. Please help.",
+ "seconds": 8.077
+}

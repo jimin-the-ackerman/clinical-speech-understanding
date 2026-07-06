@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__331768_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, thank you for coming to the clinic. Your history of falling and the increased frequency of urination are not related to each other. The reason for this could be a urinary tract infection, and this needs to be investigated. For that, a urine test is necessary. If this test is positive, then it needs to be treated accordingly. This is nothing to worry about. I hope this helps.",
+ "audio_seconds": 20.22,
+ "created_at": "2026-07-06T05:16:32+00:00",
+ "failed": false,
+ "text": "Hello. Thank you for coming to the clinic. Your history of falling and the increased frequency of urination are not related to each other. The reason for this could be urinary tract infection, and this needs to be investigated. For that, a urine test is necessary. If this test is positive, then it needs to be treated accordingly. This is nothing to worry about. I hope this helps.",
+ "seconds": 0.75
+}

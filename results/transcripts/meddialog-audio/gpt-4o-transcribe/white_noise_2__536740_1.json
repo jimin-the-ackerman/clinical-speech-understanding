@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__536740_1",
+ "condition": "white_noise_2",
+ "reference": "My newborn son was born on July thirty-one, two thousand and twelve. He has been in the Neonatal Intensive Care Unit the entire time. When we go to visit him, he seems fine and is not hooked up to life support. The doctors say he has low platelets. Is this life-threatening? We are not getting much information from the staff.",
+ "audio_seconds": 22.02,
+ "created_at": "2026-07-06T00:46:40+00:00",
+ "failed": false,
+ "text": "It was a long day. How did it go?",
+ "seconds": 0.731
+}

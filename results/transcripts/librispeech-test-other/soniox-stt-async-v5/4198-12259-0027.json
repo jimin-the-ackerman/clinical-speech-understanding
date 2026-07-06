@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12259-0027",
+ "condition": null,
+ "reference": "HEYDAY HERE ARE TRIPES FIT FOR OUR SPORT AND IN EARNEST EXCELLENT GODEBILLIOS OF THE DUN OX YOU KNOW WITH THE BLACK STREAK",
+ "audio_seconds": 10.98,
+ "created_at": "2026-07-06T02:24:45+00:00",
+ "failed": false,
+ "text": "Hey there. Here are tribes fit for our sport, and in earnest, excellent go to be yours of the dun ox, you know, with the black streak.",
+ "seconds": 4.696
+}

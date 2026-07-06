@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__195189_1",
+ "condition": "white_noise_6",
+ "reference": "My uncle was just released from the hospital today. He came home still very dizzy and weak. He has congestive heart failure and had a heart attack on Monday morning. He has also lost a lot of blood from a bleed somewhere they cannot find. He also has a lot of swelling in his right foot and ankle. Is there anything else we should watch for as a sign that it is time to take him back to the hospital?",
+ "audio_seconds": 24.23,
+ "created_at": "2026-07-06T05:39:00+00:00",
+ "failed": false,
+ "text": "My uncle was just released from the hospital today. He came home still very dizzy and weak. He has congestive heart failure and had a heart attack on Monday morning. He has also lost a lot of blood from a bleed somewhere they cannot find. He also has a lot of swelling in his right foot and ankle. Is there anything else we should watch for as a sign that it is time to take him back to the hospital?",
+ "seconds": 0.817
+}

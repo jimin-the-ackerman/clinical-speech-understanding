@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__142004_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. I just read through your question. There are many colors of baby stool that are normal. Green is one of them. A potential problem could exist if you see red. Otherwise, there is no need for concern.",
+ "audio_seconds": 12.2,
+ "created_at": "2026-07-06T04:49:44+00:00",
+ "failed": false,
+ "text": "Hello, I just read through your question. There are many colors of baby stool that are normal. Green is one of them. A potential problem could exist if you see red. Otherwise, there is no need for concern.",
+ "seconds": 0.43
+}

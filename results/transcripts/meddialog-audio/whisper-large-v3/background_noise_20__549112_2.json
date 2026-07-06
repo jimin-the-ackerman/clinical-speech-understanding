@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__549112_2",
+ "condition": "background_noise_20",
+ "reference": "It looks like there might be a hormonal problem. Obtain an abdominopelvic scan. Consider removing the rod. Ensure she takes plenty of fluids and consume fruits that are high in vitamin C.",
+ "audio_seconds": 11.09,
+ "created_at": "2026-07-06T04:15:10+00:00",
+ "failed": false,
+ "text": "It looks like there might be a hormonal problem. Obtain an abdominopelvic scan. Consider removing the rod. Ensure she takes plenty of fluids and consume fruits that are high in vitamin C.",
+ "seconds": 0.465
+}

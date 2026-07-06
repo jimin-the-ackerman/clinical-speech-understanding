@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0003",
+ "condition": null,
+ "reference": "EVERY STUDENT IS TO BE IN EAST HALL AT HALF PAST EIGHT",
+ "audio_seconds": 3.85,
+ "created_at": "2026-07-06T03:37:40+00:00",
+ "failed": false,
+ "text": "Every student is to be in East Hall at half past eight.",
+ "seconds": 0.164
+}

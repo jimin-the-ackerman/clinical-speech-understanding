@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__800005_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, your child needs a proper evaluation. She is having a viral pyrexial infection, which often presents with the above complaints. Please show her to a local pediatric specialist who will examine her further and provide you with symptomatic treatment.",
+ "audio_seconds": 14.42,
+ "created_at": "2026-07-06T04:31:29+00:00",
+ "failed": false,
+ "text": "Hi, your child needs a proper evaluation. She is having a viral perectial infection, which often presents with the above complaints. Please show her to a local pediatric specialist who will examine her further and provide you with symptomatic treatment.",
+ "seconds": 0.453
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24317-0014",
+ "condition": null,
+ "reference": "CRATES HAD REALLY BEEN INVITED IN ORDER TO WIN HIM OVER TO THE QUEEN'S CAUSE BUT CHARMING FAIR HAIRED NICO HAD BEEN COMMISSIONED BY THE CONSPIRATORS TO PERSUADE HIM TO SING ARSINOE'S PRAISES AMONG HIS PROFESSIONAL ASSOCIATES",
+ "audio_seconds": 14.54,
+ "created_at": "2026-07-06T02:30:23+00:00",
+ "failed": false,
+ "text": "Kratos had really been invited in order to win him over to the Queen's cause. But charming fair-haired Niko had been commissioned by the conspirators to persuade him to sing Arsinoe's praises among his professional associates.",
+ "seconds": 4.609
+}

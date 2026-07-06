@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__692683_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, I have been taking Keppra for one and a half years now. I started with one gram in the morning and one gram at night. My doctor has gradually reduced the dosage to five hundred milligrams at night now. However, I have grown highly photosensitive. I see color balls in bright light and I can't find a possible explanation.",
+ "audio_seconds": 19.2,
+ "created_at": "2026-07-06T00:47:29+00:00",
+ "failed": false,
+ "text": "But I have to use it to get back to the moon.",
+ "seconds": 0.712
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__297064_2",
+ "condition": "clean",
+ "reference": "If she really had an episode of unconsciousness, no matter how long it lasted, she would have had a computed tomography scan of the brain done. Fever and chills might not be associated with that but should be assessed properly by a physician.",
+ "audio_seconds": 14.25,
+ "created_at": "2026-07-06T04:44:07+00:00",
+ "failed": false,
+ "text": "If she really had an episode of unconsciousness, no matter how long it lasted, she would have had a computed tomography scan of the brain done. Fever and chills might not be associated with that, but should be assessed properly by a physician.",
+ "seconds": 0.206
+}

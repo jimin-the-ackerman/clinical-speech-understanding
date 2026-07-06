@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164915-0016",
+ "condition": null,
+ "reference": "SO IT WAS AGREED THAT WE GO TO DAMASCUS AND FETCH THENCE THE KING'S SON SHARRKAN AND MAKE HIM SULTAN OVER HIS FATHER'S REALM",
+ "audio_seconds": 10.18,
+ "created_at": "2026-07-05T13:09:28+00:00",
+ "failed": false,
+ "text": "so it was agreed that we go to damascus and fetch thence the king's son sharkan and make him sultan over his father's realm",
+ "seconds": 0.131
+}

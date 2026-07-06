@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180294-0023",
+ "condition": null,
+ "reference": "COME DURING THE THIRD ENTR'ACTE",
+ "audio_seconds": 2.62,
+ "created_at": "2026-07-05T13:00:16+00:00",
+ "failed": false,
+ "text": "Come during the third entrant.",
+ "seconds": 0.155
+}

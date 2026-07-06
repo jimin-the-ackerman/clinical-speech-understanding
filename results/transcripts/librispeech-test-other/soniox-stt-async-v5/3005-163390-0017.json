@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0017",
+ "condition": null,
+ "reference": "RING UP FAIR ROSAMUN",
+ "audio_seconds": 2.15,
+ "created_at": "2026-07-06T00:03:39+00:00",
+ "failed": false,
+ "text": "Ring up, Fair Rosamund.",
+ "seconds": 4.116
+}

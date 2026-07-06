@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0080",
+ "condition": null,
+ "reference": "SUPPOSE I TRY SAID MISTER HALE",
+ "audio_seconds": 3.48,
+ "created_at": "2026-07-05T12:55:45+00:00",
+ "failed": false,
+ "text": "s'pose i try said mr hale you",
+ "seconds": 0.255
+}

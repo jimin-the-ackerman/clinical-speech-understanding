@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__284431_2",
+ "condition": "background_noise_20",
+ "reference": "There could be a gallbladder infection or stones associated with the urinary tract infection, which may be causing this. We need to conduct an abdominal examination to determine the diagnosis. In the meantime, take Gelusil two teaspoons twice daily and Stemetil twice daily, along with enzymes for digestion. Follow a completely fat-free diet and drink plenty of warm water.",
+ "audio_seconds": 22.95,
+ "created_at": "2026-07-06T05:16:26+00:00",
+ "failed": false,
+ "text": "There could be a gallbladder infection or stones associated with the urinary tract infection, which may be causing this. We need to conduct an abdominal examination to determine the diagnosis. In the meantime, take Gelisol two teaspoons twice daily and Senatol twice daily, along with enzymes for digestion. Follow a completely fat-free diet and drink plenty of warm water.",
+ "seconds": 0.69
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "5764-299665-0036",
+ "condition": null,
+ "reference": "THE MEMBERS WHO ADD TO THE MISERY OF THE FAMILY THE TRIBE OR THE NATION ARE CONSIDERED BAD MEMBERS",
+ "audio_seconds": 8.71,
+ "created_at": "2026-07-06T02:31:26+00:00",
+ "failed": false,
+ "text": "The members who add to the misery of the family. The tribe, or the nation, are considered bad members.",
+ "seconds": 4.839
+}

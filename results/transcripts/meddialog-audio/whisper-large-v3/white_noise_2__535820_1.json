@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__535820_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, nice to meet you. My father is seventy-eight years old, weighs seventy kilograms, and has myelodysplastic syndrome. He has seven hundred white blood cells and zero red blood cells. He has been receiving filgrastim and erythropoietin since Monday. I am worried because I want to see his blood improve as soon as possible. Is his condition risky and, if so, what can I do?",
+ "audio_seconds": 23.3,
+ "created_at": "2026-07-06T04:34:05+00:00",
+ "failed": false,
+ "text": "Hi, nice to meet you. My father is 78 years old, weighs 70 kilograms, and has myelodysplastic syndrome. He has 700 white blood cells and zero red blood cells. He has been receiving filgrastim and erythropoietin since Monday. I am worried because I want to see his blood improve as soon as possible. Is his condition risky and if so, what can I do?",
+ "seconds": 0.71
+}

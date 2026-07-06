@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__539486_2",
+ "condition": "white_noise_6",
+ "reference": "At her age, it is unlikely to be caused by her heart. However, if she is experiencing chest pain along with the shortness of breath, then she needs to be evaluated urgently. The most likely cause of her shortness of breath and fatigue is related to a metabolic, endocrine, electrolyte, or reproductive issue. Therefore, she should have some blood work done to ensure that none of these issues are present.",
+ "audio_seconds": 25.94,
+ "created_at": "2026-07-06T05:13:24+00:00",
+ "failed": false,
+ "text": "At her age, it may be to be caused by her heart. However, if she is experiencing chest pain along with the shortness of breath, then she needs to be evaluated urgently. The most likely cause shortness of breath and fatigue is related to a metabolic, endocrine, electrolyte, or reproductive issue. Therefore, she should have some blood work done to ensure that none of these issues are present.",
+ "seconds": 0.749
+}

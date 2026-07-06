@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131562-0010",
+ "condition": null,
+ "reference": "AND AS FOR THE HOUSEHOLD MATTERS MISSUS GREAVES MUST BE VERY PARTICULAR IN KEEPING HER ACCOUNTS WE MUST GO UPON AN ENTIRELY NEW PLAN",
+ "audio_seconds": 9.18,
+ "created_at": "2026-07-05T23:56:25+00:00",
+ "failed": false,
+ "text": "And as for the household matters, Mrs. Grieves must be very particular in keeping her accounts; we must go upon an entirely new plan.",
+ "seconds": 0.899
+}

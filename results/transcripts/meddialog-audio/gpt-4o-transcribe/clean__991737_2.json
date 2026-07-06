@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__991737_2",
+ "condition": "clean",
+ "reference": "If you have a previous history of allergies, it could be related to the sauce. I may suggest that you take a short course of steroids to prevent anaphylaxis, as well as a local application of antihistamine ointments and antihistamine tablets to treat this episode.",
+ "audio_seconds": 14.17,
+ "created_at": "2026-07-06T00:45:39+00:00",
+ "failed": false,
+ "text": "If you have a previous history of allergies, it could be related to the sauce. I may suggest that you take a short course of steroids to prevent anaphylaxis, as well as a local application of antihistamine ointments and antihistamine tablets to treat this episode.",
+ "seconds": 1.134
+}

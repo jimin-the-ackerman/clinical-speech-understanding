@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2330-0033",
+ "condition": null,
+ "reference": "HAVE YOU ANY BAND INSTRUMENTS OF AN EASY NATURE TO PLAY",
+ "audio_seconds": 4.27,
+ "created_at": "2026-07-05T13:13:41+00:00",
+ "failed": false,
+ "text": "Have you any band instruments of an easy nature to play?",
+ "seconds": 0.105
+}

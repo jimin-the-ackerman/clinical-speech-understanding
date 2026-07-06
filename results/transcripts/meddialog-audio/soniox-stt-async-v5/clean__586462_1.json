@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__586462_1",
+ "condition": "clean",
+ "reference": "I had a left hip labral repair three years ago. I have a lot of pain, and I just had another arthrogram. What does 'altered morphology with truncation and loss of substance superior and anterior left acetabular labrum compatible with post-surgical change' mean?",
+ "audio_seconds": 17.75,
+ "created_at": "2026-07-06T02:58:35+00:00",
+ "failed": false,
+ "text": "I had a left hip labral repair 3 years ago; I have a lot of pain, and I just had another arthrogram. What does altered morphology with truncation and loss of substance superior and anterior left acetabular labrum, compatible with post-surgical change, mean?",
+ "seconds": 5.019
+}

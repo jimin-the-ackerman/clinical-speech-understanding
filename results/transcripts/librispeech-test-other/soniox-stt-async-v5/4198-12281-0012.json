@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12281-0012",
+ "condition": null,
+ "reference": "O THE HOLY LADY NYTOUCH SAID ONE THE GOOD SANCTESS O OUR LADY OF SUCCOURS SAID ANOTHER HELP HELP",
+ "audio_seconds": 11.59,
+ "created_at": "2026-07-06T02:25:02+00:00",
+ "failed": false,
+ "text": "Oh, the Holy Lady Nites said one, the good sanctus; \"Oh our lady of Succurse,\" said another, \"help, help!\"",
+ "seconds": 5.24
+}

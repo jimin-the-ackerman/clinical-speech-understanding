@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__154909_2",
+ "condition": "background_noise_40",
+ "reference": "You have provided very little information. However, from the details you have given, it can be inferred that your repetitive and excessive thoughts are interfering with your daily life. You know that all you ruminate on is incorrect, and you may be trying to stop these thoughts. Does it cause anxiety? If so, do you substitute these thoughts with other thoughts, impulses, or images? If yes, then you may be suffering from Obsessive-Compulsive Disorder. Selective Serotonin Reuptake Inhibitors and behavioral therapy will help you a lot.",
+ "audio_seconds": 31.23,
+ "created_at": "2026-07-06T02:49:57+00:00",
+ "failed": false,
+ "text": "You'll talk about it very wisely; however, some of you have different. It can be inferred that you're repelled in excessive thoughts that are interfering with your daily life. You know that all you really know is in the depth, and you may be trying to stop these thoughts. Does it cause anxiety? If so, do you substitute these thoughts with other thoughts, impulsive disorder thoughts? Yes, and you may be suffering from obsessive-compulsive disorder, so like the serotonin, the uptick in your moods and behavioral therapy will help you with that.",
+ "seconds": 4.906
+}

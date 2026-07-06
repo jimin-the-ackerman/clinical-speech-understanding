@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__327738_2",
+ "condition": "background_noise_60",
+ "reference": "Hi. This can be a small abscess or a hemangioma. It can be a pyogenic granuloma. It is better to take a course of antibiotics for three days and see the results. If it is recurrent, it is better to have it surgically removed.",
+ "audio_seconds": 12.54,
+ "created_at": "2026-07-06T02:54:05+00:00",
+ "failed": false,
+ "text": "Hi. This can be a small abscess or a hemangioma; it can be a pyogenic range forming. It is better to take a course of antibiotics for 3 days and see the results. If it is recurrent, it is better to have it surgically removed.",
+ "seconds": 4.618
+}

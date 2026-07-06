@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0068",
+ "condition": null,
+ "reference": "I SOMETIMES THINK I SHALL BE MOPED WI SORROW EVEN IN THE CITY OF GOD IF FATHER IS NOT THERE",
+ "audio_seconds": 6.7,
+ "created_at": "2026-07-06T03:14:51+00:00",
+ "failed": false,
+ "text": "I sometimes think I shall be merped with sorrow even in the city of God if Arthur is not there.",
+ "seconds": 0.243
+}

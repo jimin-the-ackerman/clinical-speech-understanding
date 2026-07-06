@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__509420_1",
+ "condition": "white_noise_10",
+ "reference": "I was recently diagnosed with asthma. I am a forty-three-year-old female. About an hour ago, I began having trouble breathing, chest tightness, back pain, and stomach dizziness. Why am I experiencing back pain and dizziness? I took Symbicort this morning as I do every day, twice a day. At five PM, I took a Ventolin inhaler and just took it again at five:fifty PM.",
+ "audio_seconds": 26.71,
+ "created_at": "2026-07-06T00:45:54+00:00",
+ "failed": false,
+ "text": "",
+ "seconds": 1.124
+}

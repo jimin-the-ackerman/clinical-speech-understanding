@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-9170-0060",
+ "condition": null,
+ "reference": "FOR A MAN OF THE POOR WORKING CLASS THE ADVANTAGES AND DISADVANTAGES WILL BE THE SAME BUT WITH A GREAT INCREASE OF DISADVANTAGES",
+ "audio_seconds": 6.66,
+ "created_at": "2026-07-05T13:11:57+00:00",
+ "failed": false,
+ "text": "for a man of the poor working class the advantages and disadvantages will be the same but with a great increase of disadvantages",
+ "seconds": 0.122
+}

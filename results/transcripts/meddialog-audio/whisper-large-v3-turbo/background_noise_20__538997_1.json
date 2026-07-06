@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__538997_1",
+ "condition": "background_noise_20",
+ "reference": "Hello. I recently started taking Loestrin twenty-four back in May. I had sexual intercourse with my boyfriend for the first time at the end of June. I have not missed a period and have also had considerable breakthrough bleeding. I took three pregnancy tests and all were negative. Can I still be pregnant?",
+ "audio_seconds": 18.09,
+ "created_at": "2026-07-06T04:40:10+00:00",
+ "failed": false,
+ "text": "Hello, I recently started taking Low String 24 back in May. I had sexual intercourse with my boyfriend for the first time at the end of June. I have not missed a period and have also had considerable breakthrough bleeding. I took three pregnancy tests and all were negative. Can I still be pregnant?",
+ "seconds": 0.248
+}

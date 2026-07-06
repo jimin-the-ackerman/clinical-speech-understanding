@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280084-0003",
+ "condition": null,
+ "reference": "J S ALLEN WHOSE HARDWARE STORE WAS NEAR TRIED TO GO INTO THE BANK BUT MILLER ORDERED HIM AWAY AND HE RAN AROUND THE CORNER SHOUTING",
+ "audio_seconds": 6.87,
+ "created_at": "2026-07-05T13:07:18+00:00",
+ "failed": false,
+ "text": "J.S. Allen, whose hardware store was near, tried to go into the bank, but Miller ordered him away, and he ran around the corner shouting.",
+ "seconds": 0.316
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__154909_2",
+ "condition": "background_noise_40",
+ "reference": "You have provided very little information. However, from the details you have given, it can be inferred that your repetitive and excessive thoughts are interfering with your daily life. You know that all you ruminate on is incorrect, and you may be trying to stop these thoughts. Does it cause anxiety? If so, do you substitute these thoughts with other thoughts, impulses, or images? If yes, then you may be suffering from Obsessive-Compulsive Disorder. Selective Serotonin Reuptake Inhibitors and behavioral therapy will help you a lot.",
+ "audio_seconds": 31.23,
+ "created_at": "2026-07-06T04:41:02+00:00",
+ "failed": false,
+ "text": "You have provided marriage as inferred. However, from those who have given you, it can be inferred that your rebellion and concessive thoughts are interfering with your daily life. You know that all you believe in is incorrect, and you may be trying to stop these thoughts. Does it cause anxiety? If so, do you substitute these thoughts with other thoughts and questions for the audience? Yes, and you may be suffering from a recessive depression, so let the serotonin re-activity is going to be able to care. It will help you.",
+ "seconds": 0.355
+}

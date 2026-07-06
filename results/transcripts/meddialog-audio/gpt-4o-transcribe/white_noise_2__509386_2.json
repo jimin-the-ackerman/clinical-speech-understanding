@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__509386_2",
+ "condition": "white_noise_2",
+ "reference": "I read your question carefully, and your concern is understandable. While your friend's herniated disc can explain the weakness and numbness in the legs, if the disc in question is in the cervical spine, it does not explain the speech issue. It is not related to the spinal issues; the explanation lies elsewhere, as the brain areas and nerves responsible for speech function are at a higher level than the spinal cord. So your friend needs to have more tests for some other type of involvement, either a brain issue, which should be revealed through a brain magnetic resonance imaging, or a peripheral nerve issue involving the cranial nerves. Tests like lumbar puncture and nerve conduction studies with electromyography might be necessary to investigate that. I hope I have been of help.",
+ "audio_seconds": 46.25,
+ "created_at": "2026-07-06T00:46:37+00:00",
+ "failed": false,
+ "text": "I need a washing carefully. Can you decide on the schedule? What if time needed says twenty minutes and one is used? If a risky washing and simple time, it's more risky for you. This novel way to find washers gets a way to find all through. As a brain area is a nervous possible distribution or a higher level in spinal cord. So good brain is not known plus for some of it at all. With a brain issue which should be revealed in your brain by never using kind day or personal innovation with no risk at all. That's like no more concern and nothing studies of myology might be necessary for next pickup. I don't have to help.",
+ "seconds": 2.334
+}

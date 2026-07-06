@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__542226_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, I have gone through your question. Cerazette is a progesterone-only pill, and the hormone has side effects such as bloating sensation, tiredness, breast fullness, etc. The changes you are experiencing are most probably due to the effects of progesterone. The pain you are experiencing may be premenstrual pain, and you may get your periods shortly. I suggest you wait for your periods. If they do not come on time, then get a urine pregnancy test done. I hope you found the answer helpful. Wishing you good health.",
+ "audio_seconds": 30.21,
+ "created_at": "2026-07-06T03:10:33+00:00",
+ "failed": false,
+ "text": "Hi, I have gone through your question: Serezet is a progesterone-only pill, and the hormone has side effects such as bloating sensation, tiredness, breast fullness, etc. The changes you are experiencing are most probably due to the effects of progesterone. The pain you are experiencing may be premenstrual pain, and you may get your period shortly. I suggest you wait for your periods; if they do not come on time, then get a urine pregnancy test done. I hope you found the answer helpful; wishing you good health.",
+ "seconds": 5.093
+}

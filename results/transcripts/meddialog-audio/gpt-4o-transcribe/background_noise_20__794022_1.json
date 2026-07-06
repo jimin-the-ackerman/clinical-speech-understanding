@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__794022_1",
+ "condition": "background_noise_20",
+ "reference": "I have congestion in my head and chest. During a very severe coughing episode, I experienced a certain pain in my upper left abdomen. Now the pain is so bad that I cannot allow myself to cough unless I have a pillow pressed against the pain spot. Can coughing cause such pain? I thought maybe I had strained a muscle, but there is a little swelling.",
+ "audio_seconds": 19.37,
+ "created_at": "2026-07-06T00:42:33+00:00",
+ "failed": false,
+ "text": "I have congestion in my head and chest. During a very severe coughing episode, I experienced a certain pain in my upper left abdomen. Now the pain is so bad that I cannot allow myself to cough unless I have a pillow pressed against the pain spot. Can coughing cause such pain? I thought maybe I had strained a muscle, but there is a little swelling.",
+ "seconds": 1.307
+}

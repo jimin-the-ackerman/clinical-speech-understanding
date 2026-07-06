@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__956794_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, my name is Alam, I am twenty-six years of age. Because of excessive masturbation, I feel very weak and do not have any power for sexual acts. My penis is not getting harder anymore and I also have very thin semen leakage with urine. Is there any chance I can recover from this problem? Is there any permanent recovery? I have stopped masturbating now.",
+ "audio_seconds": 24.83,
+ "created_at": "2026-07-06T05:00:38+00:00",
+ "failed": false,
+ "text": "Hi, my name is Alat. I am twenty-six years of age. Because of excessive masturbation, I feel very weak and do not have any power in the situations. My penis is not getting harder anymore, and I also have very thin semen leakage with urine. Is there any chance I can recover from this problem? Is there any permanent recovery? I have stopped masturbating now.",
+ "seconds": 0.715
+}

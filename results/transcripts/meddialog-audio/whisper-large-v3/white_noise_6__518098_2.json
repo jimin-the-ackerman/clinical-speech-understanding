@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__518098_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, thanks for the healthcare update. Well, I don’t think there is any abnormality. Don't worry, everything will be fine soon. A few days earlier or later does not matter. If you feel the need, you can contact any gynecologist, but I think you are fine. There are other causes for menstrual disturbances that will be ruled out by a gynecologist.",
+ "audio_seconds": 20.57,
+ "created_at": "2026-07-06T04:37:27+00:00",
+ "failed": false,
+ "text": "Hello. Thanks for the healthcare update. Well, I don't think there is any abnormality. Don't worry. Everything will be fine soon. A few days earlier or later does not matter. If you feel the need, you can contact any gynecologist. But I think you are fine. There are other causes for my disease that would be ruled out by a gynecologist.",
+ "seconds": 0.598
+}

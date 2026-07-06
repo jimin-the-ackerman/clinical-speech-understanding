@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__948343_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, my name is H. I am forty-seven years old and weigh eleven stone. I have had no illnesses or broken bones before. I have had my left big toe fused together and had two screws put in as well; this was on 9th November two thousand and thirteen and is still a bit sore. How long will it be before I can wear steel toe caps again for work? In other words, how long will I be off work? It was an accident at work, and I am getting full pay, so no worries there. Many thanks, H.",
+ "audio_seconds": 31.74,
+ "created_at": "2026-07-06T02:52:59+00:00",
+ "failed": false,
+ "text": "Hi. My name is Ajit. I'm 47 years old and weigh 11 stone. I have had no illnesses or broken bones before. I have had my left big toe fused together and had 2 screws put in as well. This was on 9 November 2013, and it's still a bit sore. How long will it be before I can wear steel toe caps again for work? In other words, how long will I be off work? It was an accident at work, and I am getting full pay, so no worries there. Many thanks, Ajit.",
+ "seconds": 5.082
+}

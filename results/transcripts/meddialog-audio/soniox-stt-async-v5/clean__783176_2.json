@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__783176_2",
+ "condition": "clean",
+ "reference": "Dear parent, you have not stated what your general practitioner says. If this problem is occurring again, it is better to see the general practitioner again. The child may need investigations. Both conditions may or may not be related. This can only be determined after examining the child.",
+ "audio_seconds": 15.53,
+ "created_at": "2026-07-06T02:59:25+00:00",
+ "failed": false,
+ "text": "Dear parent, you have not stated what your general practitioner says. If this problem is occurring again, it is better to see the general practitioner again. The child may need investigations; both conditions may not be related. This can only be determined after examining the child.",
+ "seconds": 4.899
+}

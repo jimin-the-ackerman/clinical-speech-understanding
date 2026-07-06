@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128291-0023",
+ "condition": null,
+ "reference": "NOW HOWEVER TAKE LEAVE AT ONCE OF THY KINE THOU STRANGE ONE",
+ "audio_seconds": 6.97,
+ "created_at": "2026-07-06T00:01:46+00:00",
+ "failed": false,
+ "text": "Now, however, take leave at once of that kind, thou strange one.",
+ "seconds": 4.763
+}

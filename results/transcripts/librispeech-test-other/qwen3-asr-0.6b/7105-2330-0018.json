@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2330-0018",
+ "condition": null,
+ "reference": "HE SAYS HE NEVER HAS LEFT PRISON WITHOUT A BRASS BAND TO PLAY HIM OUT AND HE'S NOT GOING TO GO WITHOUT ONE NOW",
+ "audio_seconds": 7.17,
+ "created_at": "2026-07-06T03:23:48+00:00",
+ "failed": false,
+ "text": "He says he never has left prison without a breast band to play him out, and he's not going to go without one now.",
+ "seconds": 0.279
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__843963_2",
+ "condition": "white_noise_2",
+ "reference": "Sunburn on the tops of the feet would not usually cause pain on the soles. The pain in the feet may be radiating from the tops, but not to the extent you have described. It could be arthritis of the foot bones or bony spurs that is causing the pain. It is a chronic condition that does not resolve easily. Combining foot exercises with medication for pain is the solution. Sunburn on the tops of the feet should be managed with different measures for sunburn protection.",
+ "audio_seconds": 27.39,
+ "created_at": "2026-07-06T03:08:13+00:00",
+ "failed": false,
+ "text": "Sunder in on the tops of the feet would not usually cause pain on the soles. The pain in the feet may be radiating from the tops, but not to the extent you have described. It could be arthritis of the foot bones, or bony spurs that is causing the pain. It is a chronic condition that does not resolve easily. Combining foot exercises with medication for pain is the solution. Sunburn on the tops of the feet should be managed with different measures for sunburn protection.",
+ "seconds": 5.059
+}

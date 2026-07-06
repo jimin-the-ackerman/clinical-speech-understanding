@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__874320_2",
+ "condition": "white_noise_6",
+ "reference": "Hepatitis B, C, and D are transmitted through sexual contact, infected blood, from mother to child, or through family members who are already affected. To prevent such viruses from afflicting you, habits such as practicing safe sex and maintaining your own toothbrushes, razors, needles, and nail clippers are advisable. Pregnant women should undergo hepatitis B testing. The best liver transplant surgeons in India suggest that taking the hepatitis B vaccination is the best prevention method, especially if there are risk factors present.",
+ "audio_seconds": 34.22,
+ "created_at": "2026-07-06T03:12:02+00:00",
+ "failed": false,
+ "text": "Hepatitis B, C, and D are transmitted through sexual contact, infected blood from mother to child, or through family members who are already affected. To prevent such viruses from afflicting you, habits such as practicing safe sex and maintaining your own toothbrushes, razors, needles, and nail clippers are advisable. Pregnant women should undergo hepatitis B testing; the best liver transplant surgeons in India suggest that taking the hepatitis B vaccination is the best prevention method, especially if there are risk factors.",
+ "seconds": 5.049
+}

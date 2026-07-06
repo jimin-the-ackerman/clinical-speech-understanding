@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__514306_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, I have a right ovarian cyst of four centimeters and a left adnexal heterogeneous shadow of six centimeters. What should be done? Is there anything to worry about? Does it require an operation on an urgent basis? I am unmarried but not a virgin and have a regular conjugal life with a single partner. Do I need to stop being intimate? My weight is sixty-two kilograms and my height is five feet four inches.",
+ "audio_seconds": 24.75,
+ "created_at": "2026-07-06T04:33:56+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I have a right ovarian cyst of 4 centimeters and a left adnexal neus shadow of 6 centimeters. What should be done? Is there anything to worry about? Does it require an operation on an urgent basis? I am unmarried but not a virgin and have a regular conjugal life with a single partner. Do I need to stop being intimate? My weight is 62 kilograms and my height is 5 feet 4 inches.",
+ "seconds": 0.746
+}

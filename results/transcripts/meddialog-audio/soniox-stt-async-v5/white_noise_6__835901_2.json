@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__835901_2",
+ "condition": "white_noise_6",
+ "reference": "He might be experiencing some hemolysis; there are many reasons for it. It is better to check his reticulocyte count once.",
+ "audio_seconds": 7.94,
+ "created_at": "2026-07-06T03:11:50+00:00",
+ "failed": false,
+ "text": "He might be experiencing some hemolyasis; there are many reasons for it. It is better to check his reticulocyte count once.",
+ "seconds": 4.713
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280076-0001",
+ "condition": null,
+ "reference": "IT WAS CLAIMED BY PEOPLE OF LIBERTY THAT THEY POSITIVELY RECOGNIZED AMONG THE ROBBERS OLL SHEPHERD RED MONKERS AND BUD PENCE WHO HAD SEEN SERVICE WITH QUANTRELL",
+ "audio_seconds": 9.32,
+ "created_at": "2026-07-06T03:24:41+00:00",
+ "failed": false,
+ "text": "It was claimed by people of liberty that they positively recognized among the robbers all Shepard, Redmonkers, and Bud Pence who had seen service with Quantrell.",
+ "seconds": 0.333
+}

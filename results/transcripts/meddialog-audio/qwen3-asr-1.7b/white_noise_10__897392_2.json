@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__897392_2",
+ "condition": "white_noise_10",
+ "reference": "If all investigations conducted are normal, then you could probably be experiencing anxiety attacks. Also, try antacids as it may be gastroesophageal reflux disease as well.",
+ "audio_seconds": 11.52,
+ "created_at": "2026-07-06T05:34:21+00:00",
+ "failed": false,
+ "text": "If all investigations conducted are normal, then you could probably be experiencing anxiety attacks. Also, try antacids as it may be gastroesophageal reflux disease as well.",
+ "seconds": 0.352
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__150126_1",
+ "condition": "white_noise_10",
+ "reference": "I passed a kidney stone four days ago. It was very painful, and I was hospitalized but have since been discharged. Immediately after being discharged, I was constipated for a day, then began having serious lower pelvic cramps. After the first bowel movement, which was tough, I now have cramps and there is mostly blood. I do have some external hemorrhoids from the constipation episode yesterday. The blood is bright red. Is the cramping and blood from the hemorrhoids, or is something else going on?",
+ "audio_seconds": 30.72,
+ "created_at": "2026-07-06T04:45:21+00:00",
+ "failed": false,
+ "text": "I asked the kidneys going forward again, it was very dangerous and I would pass it around, but I can't seem to be stuck. Immediately after being discussed by a chance to put it forward again, when we were going home in Syria, we were kind of a chance. After the first fall in the evening, I had to swim, and I had to swim in the middle of the day. I didn't have to mix them in the middle of the day, but the knowledge is really great. Is it something in the bathroom mirror, or is it something in family?",
+ "seconds": 0.357
+}

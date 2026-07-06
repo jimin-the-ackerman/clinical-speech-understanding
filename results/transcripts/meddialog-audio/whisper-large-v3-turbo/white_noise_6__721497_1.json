@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__721497_1",
+ "condition": "white_noise_6",
+ "reference": "My lower right abdomen hurts, but not so bad that I need to go to the hospital. I took Gas-X just in case it might be gas, and it did not help. I then tested McBurney's point, and it hurt very badly after I pressed that for a couple of minutes. However, I am also experiencing pain in my lower left abdomen as well. Do you think I should go to a doctor or the hospital?",
+ "audio_seconds": 21.85,
+ "created_at": "2026-07-06T04:49:05+00:00",
+ "failed": false,
+ "text": "My lower right abdomen hurt, but it's not so bad that I need to go to the hospital. I took GASX just in case it might be GAS, and it did not help. I then tested my colonoscopy, and it hurt very badly after I pressed that for a couple of minutes. However, I am also experiencing my lower left abdomen as well. You can just go to the doctor or the hospital.",
+ "seconds": 0.267
+}

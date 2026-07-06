@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__450996_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, I have been coughing up a lot of phlegm, and it tastes foul and has a bad smell to it. It is very thick as well. It is really painful when I cough, and I have been sleeping a lot over the past few days. I have a few health problems and I am taking a lot of pain relief; I also have asthma. I have never been this tired before and have no energy. I keep getting breathless too.",
+ "audio_seconds": 27.31,
+ "created_at": "2026-07-06T04:29:54+00:00",
+ "failed": false,
+ "text": "Hi, I have been coughing up a lot of phlegm, and it tastes foul and has a bad smell to it. It is very thick as well. It is really painful when I cough, and I have been sleeping a lot over the past few days. I have a few health problems, and I am taking a lot of pain relief. I also have asthma. I have never been this tired before and have no energy. It's stressful too.",
+ "seconds": 0.765
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__112038_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, yes, the best treatments for blockages are angioplasty or bypass surgery. Is there a single blockage of ninety percent or multiple blockages? Usually, one or two blockages can be treated with angioplasty only, and bypass surgery can be avoided. Medication should be continued, such as aspirin, clopidogrel, and statins like atorvastatin, as well as nitroglycerin and metoprolol. I hope this helps you; please get back to me with more information or any doubts.",
+ "audio_seconds": 29.18,
+ "created_at": "2026-07-06T04:42:24+00:00",
+ "failed": false,
+ "text": "Hello, yes, the best treatments for blockages are angioplastics, or bypass surgery. Is there a single blockage of 90% or multiple blockages? Usually, one or two blockages can be treated with angioplastics only, and bypass surgery can be avoided. Medication should be continued, such as aspirin, clopidogrel, and statins like atorgastatin, as well as nitroglycerin and metocrolol. I hope this helps you. Please get back to me with more information or any doubts.",
+ "seconds": 0.339
+}

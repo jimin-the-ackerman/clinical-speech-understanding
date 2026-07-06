@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96591-0000",
+ "condition": null,
+ "reference": "I AM FROM THE CUTTER LYING OFF THE COAST",
+ "audio_seconds": 2.1,
+ "created_at": "2026-07-05T23:57:47+00:00",
+ "failed": false,
+ "text": "I'm from the cutter lying off the coast.",
+ "seconds": 0.533
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__992596_2",
+ "condition": "white_noise_10",
+ "reference": "Since you have a menstrual cycle of thirty-five days, there is a possibility that this spotting could be due to ovulation. So just wait for two-three days. If it does not stop, then you can start Duphaston as prescribed by your doctor. Once you complete the Duphaston treatment, you will get your period within a week and you can start taking medications for the induction of ovulation. It is good to know that your body mass index is normal. This increases your chances of conceiving. What is your age? I presume that necessary preliminary tests like semen analysis, hormone tests, and tubal patency tests have been done. Good luck. You should be regular in your treatment. Do not stop in between. If you have any further queries, I will be happy to answer.",
+ "audio_seconds": 49.58,
+ "created_at": "2026-07-06T00:46:13+00:00",
+ "failed": false,
+ "text": "What you do is, just watch me. You could stop the two front feet.",
+ "seconds": 1.226
+}

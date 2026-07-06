@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__871939_1",
+ "condition": "white_noise_2",
+ "reference": "I am wondering about healthy blood counts while undergoing chemotherapy and how low they can go. I am fifty% done with a four-treatment regimen for breast cancer. I am forty-eight, about one hundred and thirty pounds; my license says five feet, but that is pushing it. I am a week out from my second chemotherapy session. Today, my hemoglobin was eleven point two, white blood cell count was four point five, and platelet count was two hundred and ninety-one. My oncologist said it is all good, but I am curious to see if it is on the low side and how low it can go with my treatments.",
+ "audio_seconds": 37.29,
+ "created_at": "2026-07-06T05:11:18+00:00",
+ "failed": false,
+ "text": "I am wondering about healthy blood counts while undergoing chemotherapy and how low they can go. I am fifty percent done with a four-treatment regimen for breast cancer. I am forty-eight, about one hundred and thirty pounds. My license says fight, but that is pushing it. I am a week out for my second chemotherapy session. Today, my hemoglobin was eleven point two, white blood cell count was four point five, and platelet count was two hundred and ninety-one. My oncologist said it is all good, but I am curious to see if it is on the low side and how low it can go with my treatment.",
+ "seconds": 1.119
+}

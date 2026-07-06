@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__596864_1",
+ "condition": "white_noise_2",
+ "reference": "I am experiencing severe back pain just below my ribs in the kidney area, as if a one-inch poker is being pushed through my back. The pain is not easing with tramadol or solpadol and is increasing constantly. Using a hot water bottle is making it even worse. I don't know what to do with myself. This is a recurring flare-up that happens once a year for the past three years. I have been admitted to the hospital before and have had numerous tests, including cameras and scans down my throat, an MRI, and X-rays. It first started when I was in the Dominican Republic. Please help.",
+ "audio_seconds": 37.63,
+ "created_at": "2026-07-06T05:10:00+00:00",
+ "failed": false,
+ "text": "I am experiencing severe back pain just below my ribs in the kidney area, as if a one-inch poker is being pushed through my back. The pain is not easing with tramadol or sulphadol, and is increasing constantly. Using a hot water bottle is making it even worse. I don't know what to do with myself. This is a recurring flare-up that happens once a year for the past three years. I have been admitted to the hospital before, and have had numerous tests, including cameras and scans down my throat, an MRI, and X-rays. It first started when I was in the Dominican Republic. Please help.",
+ "seconds": 1.123
+}

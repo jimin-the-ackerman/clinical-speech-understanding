@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__977345_2",
+ "condition": "background_noise_20",
+ "reference": "Phlegm is a manifestation of a lower respiratory tract infection. These medications collectively act to improve the infection. Once the infection is cured, there will be no phlegm. Therefore, continue the treatment.",
+ "audio_seconds": 13.4,
+ "created_at": "2026-07-06T04:40:54+00:00",
+ "failed": false,
+ "text": "Phlegm is a manifestation of a lower respiratory tract infection. These medications collectively act to improve the infection. Once the infection is cured, there will be no phlegm. Therefore, continue the treatment.",
+ "seconds": 0.209
+}

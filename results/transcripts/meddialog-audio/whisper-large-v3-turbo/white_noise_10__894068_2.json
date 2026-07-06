@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__894068_2",
+ "condition": "white_noise_10",
+ "reference": "Dear patient, your symptoms are suggestive of lumbar canal stenosis. In this condition, the lumbar spinal canal is narrowed, which leads to a compromise in blood supply to the traversing nerve roots. So at rest, everything seems normal, but when you start working, the increased requirement is not met, and pain starts. The diagnosis is confirmed by magnetic resonance imaging of the lumbosacral spine, which can be from an older examination at a radiology center nearby you. Meanwhile, start taking pregabalin seventy-five milligrams twice a day and ibuprofen four hundred milligrams three times a day for pain relief. Please consult with a spine surgeon nearby you with the reports.",
+ "audio_seconds": 38.31,
+ "created_at": "2026-07-06T04:46:31+00:00",
+ "failed": false,
+ "text": "Dear patients, your symptoms are suggested of the lumbar spinal connection. In this condition, the lumbar spinal connection is narrow, which leads to a compromised blood supply to the perversed nervous system. So at rest, everything seems normal. But when you start working, the increase requirement does not match, or at least one. The diagnosis is confirmed by a magnetic weapon used to improve the lumbosurve of time, which can be from a posterior examination from a radiologist's center in your life. Meanwhile, start clicking fingerball in 75 meters twice a day, and eye your pulse in 400 meters three times a day too. Face new fault with a spine surgeon in your body is good for your pulse.",
+ "seconds": 0.407
+}

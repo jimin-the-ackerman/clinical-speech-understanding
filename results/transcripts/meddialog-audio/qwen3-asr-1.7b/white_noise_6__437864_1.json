@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__437864_1",
+ "condition": "white_noise_6",
+ "reference": "Hello, my name is Jaya. I am suffering from Systemic Lupus Erythematosus for eighteen years. I am using Wysolone five milligrams, Hydroxychloroquine, and Calcium one thousand milligrams daily. At present, I am having avascular necrosis in both hips and losing my eyesight due to Hydroxychloroquine. My eye doctor asked me to stop Hydroxychloroquine and consider some other alternative medicine.",
+ "audio_seconds": 25.51,
+ "created_at": "2026-07-06T05:39:55+00:00",
+ "failed": false,
+ "text": "Hello, my name is Jaya. I am suffering from systemic lupus erythematosus for eighteen years. I am using mycophenolate five milligrams, hydroxychloroquine, and calcium one thousand milligrams daily. At present, I am having avascular necrosis in both hips and losing my eyesight due to hydroxychloroquine. My eye doctor asked me to stop hydroxychloroquine and consider some other alternative medicines.",
+ "seconds": 0.875
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0020",
+ "condition": null,
+ "reference": "PRESENTLY MY FRIENDS CAME TO ME AND I DISTRIBUTED PRESENTS AMONG MY FAMILY AND GAVE ALMS AND LARGESSE AFTER WHICH I YIELDED MYSELF TO JOYANCE AND ENJOYMENT MIRTH AND MERRY MAKING AND FORGOT ALL THAT I HAD SUFFERED",
+ "audio_seconds": 14.38,
+ "created_at": "2026-07-06T03:23:37+00:00",
+ "failed": false,
+ "text": "Presently, my friends came to me, and I distributed presents among my family and gave arms and largesse. After which, I yielded myself to joyance and enjoyment, mirth and merrymaking, and forgot all that I had suffered.",
+ "seconds": 0.487
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163624-0009",
+ "condition": null,
+ "reference": "THEN SIGURD WENT TO HIS MOTHER AND ASKED FOR THE BROKEN PIECES OF HIS FATHER'S BLADE AND GAVE THEM TO REGIN",
+ "audio_seconds": 5.59,
+ "created_at": "2026-07-06T03:30:07+00:00",
+ "failed": false,
+ "text": "Then Sigurd went to his mother and asked for the broken pieces of his father's blade and gave them to Regan.",
+ "seconds": 0.261
+}

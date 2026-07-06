@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__236937_2",
+ "condition": "white_noise_2",
+ "reference": "Yes, it is safe. It is given for the prophylaxis of bronchial asthma. You can continue for one month. It will decrease the frequency as well as the intensity of the disease.",
+ "audio_seconds": 9.98,
+ "created_at": "2026-07-06T03:05:28+00:00",
+ "failed": false,
+ "text": "Yes, it is safe. It is given for the prophylaxis of bronchial asthma; you can continue for 1 month. It will decrease the frequency as well as the intensity of the disease.",
+ "seconds": 4.782
+}

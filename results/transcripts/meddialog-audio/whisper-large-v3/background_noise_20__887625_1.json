@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__887625_1",
+ "condition": "background_noise_20",
+ "reference": "The baby is six months old and is not breastfed. We have changed from formal feed to single-toned milk and also used to give Cerelac stage one. However, for the past few days, he has been going to the toilet five to six times, and it is increasing. The stools are not very loose but resemble cold. He is also suffering from a cold. Additionally, his hips are red, which is irritating him. Kindly suggest what to do; the doctor is unreachable for one day.",
+ "audio_seconds": 25.34,
+ "created_at": "2026-07-06T04:16:40+00:00",
+ "failed": false,
+ "text": "The baby is 6 months old and is not breastfed. We have changed from formal feed to single toned milk and also used to give Seralax stage 1. However, for the past few days, he has been going to the toilet 5-6 times and it is increasing. The stools are not very loose but resemble cold. He is also suffering from a cold. Additionally, his hips are red which is irritating him. Riley suggests what to do, the doctor is unreachable for one day.",
+ "seconds": 1.055
+}

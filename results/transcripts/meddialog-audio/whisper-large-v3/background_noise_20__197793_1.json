@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__197793_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, my name is Stavros. I had what felt like a bump on my scrotum, but at the same time, it felt like an ingrown hair. So, I squeezed it and pus came out and it went down a little. Then it came back, so I squeezed it some more and it felt like it popped and it all came out, but I didn’t see anything. I would assume that it broke inside me. Now my right side is only swollen. What do I do? Will it go away or is there something I can do?",
+ "audio_seconds": 25.43,
+ "created_at": "2026-07-06T04:13:35+00:00",
+ "failed": false,
+ "text": "Hi, my name is Stavros. I had what felt like a bump on my scrotum, but at the same time, it felt like an ingrown hair. So, I squeezed it, and pus came out, and it went down a little. Then it came back. So I squeezed it some more, and it felt like it popped, and it all came out. But I didn't see anything. I would assume that it broke inside me. Now my right side is only swollen. What do I do? Will it go away, or is there something I can do?",
+ "seconds": 1.152
+}

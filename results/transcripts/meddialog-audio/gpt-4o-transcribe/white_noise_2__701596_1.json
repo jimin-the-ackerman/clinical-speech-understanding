@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__701596_1",
+ "condition": "white_noise_2",
+ "reference": "I am a fifty-one-year-old woman of average weight and size. Over the past few weeks, my abdomen has become extremely distended to the point where I can barely bend over to tie my shoes. I am fatigued and have a general feeling of malaise. I have constant pain across the middle of my back and some breathing difficulty. When I bend over, I have pain in my lower abdomen. I do not have gas or a urinary tract infection. My doctor says the distention is unexplained and is sending me for an X-ray and ultrasound. What could this be?",
+ "audio_seconds": 33.28,
+ "created_at": "2026-07-06T00:46:50+00:00",
+ "failed": false,
+ "text": "Prius 1.5-litraisen bensiinimoottorin voima välitetään vain etupyörille. Nelivetoisen Hybrid Synergy Driven toteutus poikkeaa toisen Toyota-malliston mallin Prius+ ja Prius Plug-in Hybrid -malleista, sillä Priuksen neliveto toteutetaan mekaanisesti. Lisäksi Hybrid X -versiossa nelivetojärjestelmänä käytetään 1,5-litraisen bensiinimoottorin yhteydessä.",
+ "seconds": 2.077
+}

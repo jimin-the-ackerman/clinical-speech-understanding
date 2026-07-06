@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__146177_1",
+ "condition": "background_noise_40",
+ "reference": "My seventeen-year-old high school senior repeatedly lies about doing his homework. This has been going on since sixth grade. He has been confronted in front of his teacher and still lies. He is always saying the teacher lost his work, or just simply, \"Yes, I did it; they just haven't entered it yet.\" We usually try to give him the benefit of the doubt. Any comments? Confused and disappointed. P.S. He is a happy child with lots of friends. We have taken his phone and computers away, and nothing seems to phase him.",
+ "audio_seconds": 28.93,
+ "created_at": "2026-07-06T04:53:32+00:00",
+ "failed": false,
+ "text": "A seventeen-year-old high school senior repeatedly lies about doing his homework. This has been going on since sixth grade. He has been confronted in front of his teacher and still lies. He is always saying the teacher lost his work, or just simply, \"Yes, I did it. They just haven't entered it yet.\" We usually try to give him the benefit of the doubt, and he comments, confused and disappointed. P.S. He is a happy child with lots of friends. We have taken his phone and computers away, and nothing seems to faze him.",
+ "seconds": 1.021
+}

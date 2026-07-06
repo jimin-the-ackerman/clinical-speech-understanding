@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__414910_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, I have gone through your question and understand your concerns. There are no problems associated with this. It will not cause changes in sperm production or motility, and this is not a serious issue. It may only be a sign of prostate inflammation or hypertrophy, so it would be advisable to perform a prostate ultrasound and check prostate-specific antigen levels with your urologist. I hope this answers your question. If you have additional or follow-up questions, please do not hesitate to write to us. I will be happy to answer your questions. Wishing you good health.",
+ "audio_seconds": 36.27,
+ "created_at": "2026-07-06T04:41:31+00:00",
+ "failed": false,
+ "text": "Hello. I have gone through your question and understand your concerns. There are no problems associated with this. It will not cause changes in sperm production or motility, and this is not a serious issue. It may only be a sign of prostate inflammation or hypertrophy, so it would be advisable to perform a prostate ultrasound and check prostate-specific antigen levels with your urologist. I hope this answers your question. If you have additional or follow-up questions, please do not hesitate to write to us. I will be happy to answer your questions. Wishing you good health.",
+ "seconds": 0.382
+}

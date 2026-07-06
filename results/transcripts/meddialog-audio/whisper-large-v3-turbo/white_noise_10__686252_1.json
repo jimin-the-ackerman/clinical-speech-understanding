@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__686252_1",
+ "condition": "white_noise_10",
+ "reference": "I had a Mirena coil fitted two weeks ago. I was hospitalized with low pelvic pain, and a scan showed that the coil was positioned low and there was free fluid in the uterus. I was on intravenous antibiotics overnight and then sent home. I have since been in pain still, but I sneezed and had a popping sensation, and the pain increases. The popping has happened twice this week. The pain is quite bad now, but I have no blood loss.",
+ "audio_seconds": 24.92,
+ "created_at": "2026-07-06T04:46:09+00:00",
+ "failed": false,
+ "text": "I had an array of coil footage two weeks ago. I was hospitalized with low pelvic feet, and a scan showed that the coil was positioned low and there were three fluid in the ears. I was on intravenous anti-diotical range, and then stayed home. I have such been in pain today, but I sneezed and had a popping sensation, and the pain increases. The popping is happening twice this week. The pain is quite bad now, but I have no blood loss.",
+ "seconds": 0.263
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__826515_1",
+ "condition": "background_noise_20",
+ "reference": "I would like to know about untreated bipolar disorder and how it affects a person who also has non-military post-traumatic stress disorder. What are the side effects? How does Vicodin affect him? He is taking this for a knee injury that is quite painful. He is in a lot of pain, and I have noticed some changes in his mood with me lately. Is this due to the pain?",
+ "audio_seconds": 23.81,
+ "created_at": "2026-07-06T04:16:21+00:00",
+ "failed": false,
+ "text": "I would like to know about untreated bipolar disorder and how it affects a person who also has non-military post-traumatic stress disorder. What are the side effects? How does Vicodin affect him? He is taking this for a knee injury that is quite painful. He is in a lot of pain, and I have noticed some changes in his mood with me lately. Is this due to the pain?",
+ "seconds": 0.717
+}

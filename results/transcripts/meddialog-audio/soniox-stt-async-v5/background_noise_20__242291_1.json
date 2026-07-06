@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__242291_1",
+ "condition": "background_noise_20",
+ "reference": "Yes, I am a physician, but I am asking about my insulin-dependent husband, age sixty-four, Hispanic, who has had insulin-dependent diabetes mellitus for thirty-five years. He has good control but is experiencing slight pain in his left arm, similar to a spasm, which has subsided but has left him with what he describes as a slight strain. It does not sound like a myocardial infarction, but I still wonder if we need to get an electrocardiogram now. It is not sounding like a classic myocardial infarction, but with his insulin-dependent diabetes mellitus, I am worried.",
+ "audio_seconds": 36.69,
+ "created_at": "2026-07-06T02:46:50+00:00",
+ "failed": false,
+ "text": "Yes, I am a physician, but I am asking about my insulin-dependent husband, age 64, Hispanic, who has had insulin-dependent diabetes mellitus for 35 years. He has good control but is experiencing slight pain in his left arm, similar to a spasm, which has subsided but has left him with what he describes as a slight strain. It does not sound like a myocardial infarction, but I still wonder if we need to get an electrocardiogram now. It is not sounding like a classic myocardial infarction, but with his insulin-dependent diabetes mellitus I am worried.",
+ "seconds": 4.894
+}

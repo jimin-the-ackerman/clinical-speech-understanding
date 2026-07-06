@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__223453_1",
+ "condition": "background_noise_40",
+ "reference": "I have many flesh-colored spots on my armpits and a few of the same spots around my nipples and pubic area. I showed my Nurse Practitioner my armpits, and after researching, she diagnosed me with Fox-Fordyce disease. I researched it a little online and realized that the spots around my nipples and pubic area confirm her diagnosis. What type of treatment do you suggest? What are some things that I can do myself at home to help diminish this? For instance, I already use tretinoin cream on my face, and she suggested that I could try that. Should I wash my armpits and then apply the cream at night to wash off my deodorant? Also, is deodorant bad for the condition, or is shaving bad for it as well?",
+ "audio_seconds": 44.37,
+ "created_at": "2026-07-06T04:41:11+00:00",
+ "failed": false,
+ "text": "I have many flesh-colored spots on my armpits and a few of the same spots around my nipples and pubic area. I showed my nurse practitioner my armpits and after researching, she diagnosed me with Fox-Thordyce disease. I researched it a little online and realized that the spots around my nipples and pubic area confirm her diagnosis. What type of treatment do you suggest? What are some things that I can do myself at home to help diminish this? For instance, I already used tretinoin cream on my face and she suggested that I could try that. Should I wash my armpits and then apply the cream at night to wash off my deodorant? Also, is deodorant bad for the condition or is shaving bad for it as well?",
+ "seconds": 0.47
+}

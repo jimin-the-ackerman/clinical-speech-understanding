@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0012",
+ "condition": null,
+ "reference": "NO I SAYS IT DON'T",
+ "audio_seconds": 2.23,
+ "created_at": "2026-07-06T00:03:36+00:00",
+ "failed": false,
+ "text": "Noah says it don't.",
+ "seconds": 4.479
+}

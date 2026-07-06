@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__551533_1",
+ "condition": "white_noise_10",
+ "reference": "These days I am undergoing investigation for my chronic jaundice problem. My doctor has prescribed a lot of blood tests, Magnetic Resonance Cholangiopancreatography, Computed Tomography of the chest, and a biopsy of the liver. Two days ago, he sent me to a chest physician for his opinion because in my chest Computed Tomography report, the lymph node is enlarged and also large in my abdomen. My doctor wants his opinion in making a decision to diagnose my condition between tuberculosis and sarcoidosis. So please help me.",
+ "audio_seconds": 31.32,
+ "created_at": "2026-07-06T04:45:57+00:00",
+ "failed": false,
+ "text": "These days, I am undergoing investigation for my chronic jaundice problem. My doctor has prescribed a lot of blood tests, magnetic resonance cholangia pancreatophy, computed tomography of the chest, and a biopsy of the liver. Two days ago, he sent me to the chest physician for his opinion because in my chest computed tomography report, the lymph node is enlarged and also large in my abdomen. My doctor wants his opinion making a decision to diagnose my condition between tuberculosis and sarcoidosis. So please help me.",
+ "seconds": 0.402
+}

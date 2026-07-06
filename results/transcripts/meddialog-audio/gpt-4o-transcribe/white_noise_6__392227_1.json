@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__392227_1",
+ "condition": "white_noise_6",
+ "reference": "I have had a pulsing or throbbing sensation in the back of the neck area for about six years. It is at its worst when I wake up in the morning. I have seen heart, neurologist, and other types of doctors, and have undergone all kinds of tests - heart, blood vessels, brain, and various types of X-rays. So far, no doctor has been able to find out what is wrong with me. Can you help?",
+ "audio_seconds": 22.87,
+ "created_at": "2026-07-06T00:47:16+00:00",
+ "failed": false,
+ "text": "You can be as specific as you want.",
+ "seconds": 0.715
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__393448_1",
+ "condition": "background_noise_60",
+ "reference": "Hello Doctor, I am forty-two years old, and I had a bacterial infection. I took antibacterial and antifungal medication. Now, I have a burning sensation while urinating, and I feel like I have an unemptied bladder. I have an urge to urinate. I also have a feeling of leakage. I am taking the following medications for other conditions: Allopurinol, Aspirin, Ranitidine, Coversyl, and for hypothyroidism. Please suggest what I should do.",
+ "audio_seconds": 27.14,
+ "created_at": "2026-07-06T04:21:58+00:00",
+ "failed": false,
+ "text": "Doctor, I am 42 years old, and I had a bacterial infection. I took antibacterial and antifungal medication. Now, I have a burning sensation while urinating, and I feel like I have an unemptied bladder. I have an urge to urinate. I also have a feeling of leakage. I am taking the following medications for other conditions. Allopurinol, aspirin, rinitidine, covercell, and for hypothyroidism. Please suggest what I should do.",
+ "seconds": 0.914
+}

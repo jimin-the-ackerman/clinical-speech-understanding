@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__270341_1",
+ "condition": "background_noise_20",
+ "reference": "Hello, I am about eight weeks pregnant and for the last two days I have been seeing brown discharge when I wipe after using the bathroom. Today, I have experienced two period-like cramps. I do not have tender breasts or really any other symptoms. I called the doctor, but they seemed as if they did not care. I am getting worried it may be a miscarriage.",
+ "audio_seconds": 22.87,
+ "created_at": "2026-07-06T00:42:01+00:00",
+ "failed": false,
+ "text": "Hello, I am about eight weeks pregnant and for the last two days I have been seeing brown discharge when I wipe after using the bathroom. Today I have experienced two period-like cramps. I have tender breasts or really any other symptoms. I called the doctor but they seemed as if they did not care. I am getting worried, maybe a miscarriage?",
+ "seconds": 1.447
+}

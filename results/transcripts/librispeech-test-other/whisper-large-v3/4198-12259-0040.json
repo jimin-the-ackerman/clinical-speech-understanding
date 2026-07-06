@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12259-0040",
+ "condition": null,
+ "reference": "MY PRENTICESHIP IS OUT I AM A FREE MAN AT THIS TRADE",
+ "audio_seconds": 4.62,
+ "created_at": "2026-07-05T13:00:39+00:00",
+ "failed": false,
+ "text": "my apprenticeship is out i am a free man at this trade",
+ "seconds": 0.207
+}

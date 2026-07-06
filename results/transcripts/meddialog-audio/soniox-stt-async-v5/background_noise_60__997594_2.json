@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__997594_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, I am sorry to hear about your mother's condition. Constipation can occur in these patients, and if it does not respond to Duphalac, you can use a suppository to stimulate bowel movement. Also, keep in mind that adequate water intake is essential while using laxatives for optimal action. The bloating should hopefully resolve with the bowel movement, but if it persists, then you can contact your doctor again for agents that can reduce bloating.",
+ "audio_seconds": 25.0,
+ "created_at": "2026-07-06T02:56:54+00:00",
+ "failed": false,
+ "text": "Hello, I am sorry to hear about your mother's condition. Constipation can occur in these patients, and if it does not respond to Duphalac, you can use a suppository to stimulate bowel movement. Also, keep in mind that adequate water intake is essential while using laxatives for optimal action. The bloating should hopefully resolve with the bowel movement, but if it persists, then you can contact your doctor again for agents that can reduce bloating.",
+ "seconds": 5.024
+}

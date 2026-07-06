@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-14317-0001",
+ "condition": null,
+ "reference": "WHEN I SAW THAT THIS BUST CAME OUT SHARP AND CLEAN I SET AT ONCE TO CONSTRUCT A LITTLE FURNACE IN THE WORKSHOP ERECTED FOR ME BY THE DUKE AFTER MY OWN PLANS AND DESIGN IN THE HOUSE WHICH THE DUKE HAD GIVEN ME",
+ "audio_seconds": 12.05,
+ "created_at": "2026-07-06T03:19:35+00:00",
+ "failed": false,
+ "text": "When I saw that this bust came out sharp and clean, I set at once to construct a little furnace in the workshop erected for me by the duke, after my own plans and design, in the house which the duke had given me.",
+ "seconds": 0.477
+}

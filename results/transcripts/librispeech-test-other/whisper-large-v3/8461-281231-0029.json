@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0029",
+ "condition": null,
+ "reference": "AND WITH THIS EPISTLE THE UNHAPPY OLD MAN SET OUT TO PROCURE HIS DAUGHTER'S LIBERATION",
+ "audio_seconds": 5.84,
+ "created_at": "2026-07-05T13:08:58+00:00",
+ "failed": false,
+ "text": "And with this epistle the unhappy old man set out to procure his daughter's liberation.",
+ "seconds": 0.241
+}

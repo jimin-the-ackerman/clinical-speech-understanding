@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__569865_1",
+ "condition": "white_noise_10",
+ "reference": "I was just eating yellow cake with chocolate frosting mixed with popping mini eggs. I started feeling pinching sensations a little higher than my left breast, which felt like it was my heart. Is this normal? I am twenty-one years old, I weigh between one hundred and fifty-five and one hundred and sixty pounds, and I am five feet one inch tall. I do not have any medical conditions, nor do I take any medications.",
+ "audio_seconds": 28.42,
+ "created_at": "2026-07-06T04:30:23+00:00",
+ "failed": false,
+ "text": "I was just eating yellow cake with chocolate frosting mixed with popping mini-eggs. I started feeling pinching sensations a little higher than my left breast. It felt like it was my heart. Is this normal? I am 21 years old. I weigh between 155 and 160 pounds, and I am 5 feet 1 inch tall. I do not have any medical conditions, nor do I take any medications.",
+ "seconds": 0.702
+}

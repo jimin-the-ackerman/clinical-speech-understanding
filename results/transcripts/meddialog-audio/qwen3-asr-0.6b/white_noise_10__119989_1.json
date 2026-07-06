@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__119989_1",
+ "condition": "white_noise_10",
+ "reference": "I fell down the stairs yesterday and landed square in the middle of my back. My back is stiff today, but I woke up last night with stomach pain. It feels worse than a stomach ache but does not hurt to breathe. The stomach pain has been occurring on and off today as well. Sometimes it is sharp, but it feels mainly like a constant bubble of pain in my stomach.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T05:04:30+00:00",
+ "failed": false,
+ "text": "I fell down the stairs yesterday and landed square in the middle of my back. My back is yesterday, but I woke up last night with stomach pain. It feels worse than a stomachache, but does not hurt to breathe. The stomach pain has been occurring on and off today as well. Sometimes it is sharp, but it feels nearly like a constant bubble of pain in the stomach.",
+ "seconds": 0.709
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__479481_1",
+ "condition": "white_noise_10",
+ "reference": "What could it be if my sixteen-month-old son had two dime-sized bumps close together on his leg that looked like bites but had no spot to indicate a bite that developed into one and ended up looking like a bruise? It itched and hurt him when it was red, but not much anymore, and he has had it for almost a week. It seems slightly better.",
+ "audio_seconds": 22.7,
+ "created_at": "2026-07-06T05:05:44+00:00",
+ "failed": false,
+ "text": "What could it be if my sixteen-month-old son had two dime-sized bumps close together on his legs, like bites, but had no spots indicate a bite that develop into one, and ended up looking like a bruise? It itch and hurts him when it is red, but not much in the north, and he has had it for almost a week. It seems slightly better.",
+ "seconds": 0.723
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__396578_1",
+ "condition": "background_noise_40",
+ "reference": "Hello Doctor, I am on a thirteen-day cycle. My endometrium has shrunk to seven point seven millimeters, which was seven point nine millimeters on the 11th day. I am taking Ecosprin seventy-five milligrams, Progynova two milligrams twice a day, and estrogen cutaneous cream. I was on Viagra vaginal inserts for five days starting from day two, but now it has stopped. So, my question is why is my endometrium shrinking from seven point nine to seven point seven? My reproductive endocrinologist said they will take a call after two days of transvaginal ultrasound. Can you tell me what is going on?",
+ "audio_seconds": 41.64,
+ "created_at": "2026-07-06T04:54:41+00:00",
+ "failed": false,
+ "text": "Hello doctor, I am on a 13 day cycle. My endometrium has shrunk to 7.7 millimeters, which was 7.9 millimeters on the 11th day. I am taking Ecosprin 75 milligrams, Progynova 2 milligrams twice a day, and estrogen uterine cream. I was on Viagra vaginal inserts for five days starting from day two, but now it has stopped. So my question is, why is my endometrium shrinking from 7.9 to 7.7? My reproductive endocrinologist said they will take a call after two days of transvaginal ultrasound. Can you tell me what is going on?",
+ "seconds": 1.297
+}

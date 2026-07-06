@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__329471_1",
+ "condition": "clean",
+ "reference": "Hello Doctor, I am twenty-one years old. I have a cold every morning when I wake up, and as the day goes by, it continues to reduce gradually. This has been happening to me for the past two years. I need some long-term precautions for this. For the past two years, I have been using marijuana daily.",
+ "audio_seconds": 16.64,
+ "created_at": "2026-07-06T05:28:05+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I am 21 years old. I have a cold every morning when I wake up, and as the day goes by, it continues to reduce gradually. This has been happening to me for the past two years. I need some long-term precautions for this. For the past two years, I have been using marijuana daily.",
+ "seconds": 0.663
+}

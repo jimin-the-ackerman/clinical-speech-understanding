@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__208239_2",
+ "condition": "white_noise_10",
+ "reference": "Lumps in the groin area include sebaceous cysts, enlarged lymph nodes, or inguinal hernia. In your case, it is probably a sebaceous cyst.",
+ "audio_seconds": 9.22,
+ "created_at": "2026-07-06T00:45:44+00:00",
+ "failed": false,
+ "text": "Looks like we're monitoring.",
+ "seconds": 0.934
+}

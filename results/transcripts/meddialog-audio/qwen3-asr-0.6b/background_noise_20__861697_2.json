@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__861697_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, a likely cause for your symptoms is anemia. Do you have menstrual irregularities such as heavy flow or black, tarry stools? You should get your hemoglobin levels tested. If they are low, you will need serum iron studies, followed by iron supplements. I hope this helps you, and please get back to me with the report.",
+ "audio_seconds": 17.15,
+ "created_at": "2026-07-06T04:52:49+00:00",
+ "failed": false,
+ "text": "Hello, a likely cause for your symptoms is anemia. Do you have menstrual irregularities such as heavy flow or black tarry stools? You should get your hemoglobin levels tested. If they are low, you will need serum iron studies followed by iron supplements. I hope this helps you, and please get back to me with the report.",
+ "seconds": 0.636
+}

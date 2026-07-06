@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__636561_2",
+ "condition": "white_noise_10",
+ "reference": "Sinus infection is most likely to be affected. You may try steam inhalation. It might help in reducing some of the symptoms.",
+ "audio_seconds": 7.59,
+ "created_at": "2026-07-06T03:02:53+00:00",
+ "failed": false,
+ "text": "Sinus infections is most likely to be effective; you may try steam inhalation, which might help in reducing some of the symptoms.",
+ "seconds": 4.696
+}

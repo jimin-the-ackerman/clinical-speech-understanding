@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__985893_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. I can understand your concern and your symptoms could be related to a tension-type headache. You may have poor posture. Waking up at midnight can occur due to asthma or a panic attack. For this reason, it is essential to perform a pulmonary function test and a cervical spine X-ray study.",
+ "audio_seconds": 18.26,
+ "created_at": "2026-07-06T00:47:42+00:00",
+ "failed": false,
+ "text": "If it's taken at face value, the economy is in deep trouble.",
+ "seconds": 0.593
+}

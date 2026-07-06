@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__865470_1",
+ "condition": "white_noise_6",
+ "reference": "I am a registered nurse. I am experiencing severe esophageal, upper abdominal, and chest pain that comes and goes. My blood pressure is good and my heart rate is normal. There are no skips when auscultating my heart. I cannot afford an emergency room trip. I took Pepcid, but it did not help. I know I should go to the emergency room, but I want your opinion.",
+ "audio_seconds": 22.53,
+ "created_at": "2026-07-06T04:49:21+00:00",
+ "failed": false,
+ "text": "I am a registered nurse. I am experiencing severe esophageal, upper abdominal, and chest pain that comes and goes. My blood pressure is good and my heart rate is normal. There are no skips when I'm hurting my heart. I cannot afford an emergency room trip. I took Hapcid, but it did not help. I know I should go to the emergency room, but I want your opinion.",
+ "seconds": 0.284
+}

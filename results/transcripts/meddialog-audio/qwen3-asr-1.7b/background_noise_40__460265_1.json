@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__460265_1",
+ "condition": "background_noise_40",
+ "reference": "Applying pressure when trying to pass stool in turn makes my penis eject fluid, and I also spend a lot of time trying to defecate. I allow the defecation to happen naturally and I don't put pressure while trying to pass stool. I am suffering from constipation. Kindly help.",
+ "audio_seconds": 17.92,
+ "created_at": "2026-07-06T05:21:12+00:00",
+ "failed": false,
+ "text": "Applying pressure when trying to pass stool in makes my penis eject fluid, and I also spend a lot of time trying to defecate. I allow the defecation to happen naturally, and I don't put pressure while trying to pass stool. I am suffering from constipation. Kindly help.",
+ "seconds": 0.603
+}

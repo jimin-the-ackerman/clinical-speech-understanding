@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__827632_2",
+ "condition": "background_noise_40",
+ "reference": "Thank you for asking. I really appreciate your concern, and based on the history provided, I could say that this could be a kind of viral infection, with the chances of chickenpox being very likely. The age and gender are missing; otherwise, differential diagnoses can be considered. Have a nice day.",
+ "audio_seconds": 17.24,
+ "created_at": "2026-07-06T05:22:43+00:00",
+ "failed": false,
+ "text": "Thank you for asking. I really appreciate your concern. And based on the history provided, I could say that this could be a kind of viral infection, with the chances of chickenpox being very likely. The age and gender are missing. Otherwise, differential diagnoses can be considered. Have a nice day.",
+ "seconds": 0.606
+}

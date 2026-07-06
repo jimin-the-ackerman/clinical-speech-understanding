@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__357034_2",
+ "condition": "background_noise_40",
+ "reference": "Hello. During intercourse, your foreskin got retracted and caused a tight ring at the corona, resulting in a fissure. This is called paraphimosis. Pull the foreskin and the skin ring to cover the glans, and this edema will resolve on its own. You will need a circumcision if you want to avoid recurrence.",
+ "audio_seconds": 19.37,
+ "created_at": "2026-07-06T05:20:37+00:00",
+ "failed": false,
+ "text": "Hello. During intercourse, your foreskin got retracted and caused a tight ring at the corona, resulting in a fissure. This is called paraphimosis. Pull the foreskin and the ring to cover the glands, and this edema will resolve on its own. You will need a circumcision if you want to have currents.",
+ "seconds": 0.649
+}

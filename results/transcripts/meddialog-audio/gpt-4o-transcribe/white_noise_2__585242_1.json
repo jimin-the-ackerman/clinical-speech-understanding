@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__585242_1",
+ "condition": "white_noise_2",
+ "reference": "My forehead is numb. Five days ago, it was on the right side of my face, originating from my forehead. Now, it is on the right side, just as numb. I have done nothing. I haven't experienced any trauma. I do not think I have Lyme disease. Does it sound like Multiple Sclerosis or Trigeminal Neuralgia? I experienced numbness in my head, especially now; it is pretty bad. I cannot afford a Magnetic Resonance Imaging scan. What is your best advice?",
+ "audio_seconds": 25.43,
+ "created_at": "2026-07-06T00:46:42+00:00",
+ "failed": false,
+ "text": "My forehead is numb. Five days ago, it was on the right side of my face, originating from my forehead. Now, it is on the right side as well. I have done nothing. I haven't experienced any trauma. I do not think I have Lyme disease. Does this sound like multiple sclerosis or trigeminal neuralgia? I have serious numbness in my head, especially now. This is pretty bad. I cannot afford a magnetic resonance imaging scan. What is your best advice?",
+ "seconds": 1.591
+}

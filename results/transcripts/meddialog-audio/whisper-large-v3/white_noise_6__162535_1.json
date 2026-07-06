@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__162535_1",
+ "condition": "white_noise_6",
+ "reference": "I am suffering from rheumatoid arthritis and planning for a second pregnancy. I am thirty-one years old and I have polycystic ovarian disease. My doctor told me that it is safe to take sulfasalazine five hundred during pregnancy. I want to know how safe sulfasalazine is during pregnancy and what the side effects are.",
+ "audio_seconds": 21.85,
+ "created_at": "2026-07-06T04:36:05+00:00",
+ "failed": false,
+ "text": "I am suffering from rheumatoid arthritis and planning for a second pregnancy. I am 31 years old and I have polycystic ovarian disease. My doctor told me that it is safe to take sulfasalazine 500 during pregnancy. I want to know how safe sulfasalazine is during pregnancy and what the side effects are.",
+ "seconds": 0.629
+}

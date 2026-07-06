@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__172933_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, thank you for reaching out to me. I can understand your problem. You may have some functional issues that could be causing you to feel as though your blood pressure is low and that you are weak. However, this may not be the case as you believe. Just keep your stress levels very low; there is no need to worry about this. Everything will be okay. I hope this information helps. Have a nice day.",
+ "audio_seconds": 22.53,
+ "created_at": "2026-07-06T05:15:47+00:00",
+ "failed": false,
+ "text": "Hi, thank you for reaching out to me. I can understand your problem. You may have some functional issues that could be causing you to feel as though your blood pressure is low and that you are weak. However, this may not be the case as you believe. Just keep your stress levels very low. There is no need to worry about this. Everything will be okay. I hope this information helps. Have a nice day.",
+ "seconds": 0.817
+}

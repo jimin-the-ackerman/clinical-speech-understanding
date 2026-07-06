@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__838857_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, this skin rash is the body's reaction to sunlight. I think you should keep your child away from direct sunlight. An exposure of fifteen minutes is sufficient for vitamin D development in a child. I believe that you should not worry about this. Have a good day.",
+ "audio_seconds": 13.23,
+ "created_at": "2026-07-06T04:38:53+00:00",
+ "failed": false,
+ "text": "how skin rashes the body's reaction to sunlight i think you should keep your child away from direct sunlight an exposure of 15 minutes is sufficient for vitamin d development in a child i believe that you should not worry about this have a good day",
+ "seconds": 0.462
+}

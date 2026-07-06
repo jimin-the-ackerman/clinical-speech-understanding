@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__943737_1",
+ "condition": "clean",
+ "reference": "I am two weeks pregnant, and I started spotting on the 3rd of October. It has now become worse to the extent of wearing a pad. The blood is bright red, and I am experiencing mild abdominal cramping on and off. The blood is now saturating three pads a day, and at some point, it is coming out as a clot. I also have some light-headedness for a little bit. What do you think is wrong with me?",
+ "audio_seconds": 25.0,
+ "created_at": "2026-07-06T04:28:20+00:00",
+ "failed": false,
+ "text": "I am two weeks pregnant and I started spotting on the 3rd of October. It has now become worse to the extent of wearing a pad. The blood is bright red and I am experiencing mild abdominal cramping on and off. The blood is now saturating three pads a day and at some point it is coming out as a clot. I also have some lightheadedness for a little bit. What do you think is wrong with me?",
+ "seconds": 0.741
+}

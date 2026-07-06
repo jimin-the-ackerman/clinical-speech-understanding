@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__351198_1",
+ "condition": "background_noise_20",
+ "reference": "Sir, I have been married for four point five years. I have polycystic ovary syndrome, hypothyroidism, and I have had three miscarriages. In June, I had laparoscopy and underwent puncturing of cysts in both ovaries. Now I am on Clomiphene Citrate and Gonal-F for two cycles, but both have not succeeded. Now I have oligomenorrhea with brownish-black blood. What should I do next? Please advise.",
+ "audio_seconds": 30.89,
+ "created_at": "2026-07-06T04:14:18+00:00",
+ "failed": false,
+ "text": "Sir, I have been married for 4.5 years. I have polycystic ovary syndrome, hypothyroidism, and I have had three miscarriages. In June I had laparoscopy and underwent puncturing of cysts in both ovaries. Now I am on Clomiphene Citrate and Dental F for two cycles, but both have not succeeded. Now I have Gomaneria with brownish black. What should I do next? Please advise.",
+ "seconds": 0.938
+}

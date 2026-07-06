@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__836989_1",
+ "condition": "clean",
+ "reference": "Hi, is Nutrilite protein powder good for cancer patients? My aunt already had breast cancer surgery and completed her one-year course of medication after the surgery, and now she is almost fine regarding her cancer. Now she has high blood pressure and she is a diabetic patient. Can you please suggest if it is good for her to consume Nutrilite protein powder?",
+ "audio_seconds": 21.16,
+ "created_at": "2026-07-06T05:30:16+00:00",
+ "failed": false,
+ "text": "Hi, is Nutrilite protein powder good for cancer patients? My aunt already had breast cancer surgery and completed her one-year course of medication after the surgery, and now she is almost fine regarding her cancer. Now she has high blood pressure and she is a diabetic patient. Can you please suggest if it is good for her to consume Nutrilite protein powder?",
+ "seconds": 0.694
+}

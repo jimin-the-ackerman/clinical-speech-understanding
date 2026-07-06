@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96595-0017",
+ "condition": null,
+ "reference": "I DUNNO MUTTERED DICK AND A MAN CAN'T BE SURE",
+ "audio_seconds": 3.67,
+ "created_at": "2026-07-06T03:24:31+00:00",
+ "failed": false,
+ "text": "I don't know,\" muttered Dick, \"and men can't be sure.\"",
+ "seconds": 0.183
+}

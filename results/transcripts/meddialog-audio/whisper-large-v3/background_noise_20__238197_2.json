@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__238197_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. If your foreskin is hard and rough, you may benefit from removing the foreskin, that is, circumcision. I suggest you consult with a nearby urologist and get it done.",
+ "audio_seconds": 10.41,
+ "created_at": "2026-07-06T04:13:46+00:00",
+ "failed": false,
+ "text": "Hello if your foreskin is hard and rough you may benefit from removing the foreskin that is circumcision. I suggest you consult with a nearby urologist and get it done.",
+ "seconds": 0.405
+}

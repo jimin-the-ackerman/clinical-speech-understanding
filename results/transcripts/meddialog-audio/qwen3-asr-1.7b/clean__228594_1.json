@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__228594_1",
+ "condition": "clean",
+ "reference": "My mother is eighty-eight years old and has experienced reduced kidney function over the last three to four weeks. She has lost her appetite and is experiencing dizziness, shortness of breath, and nausea. The doctor recently stopped her Atenolol and put her on Bisoprolol as her usual high blood pressure was normal. I am concerned as she is starting to have falls and looks unwell.",
+ "audio_seconds": 20.57,
+ "created_at": "2026-07-06T05:27:39+00:00",
+ "failed": false,
+ "text": "My mother is 88 years old and has experienced reduced kidney function over the last three to four weeks. She has lost her appetite and is experiencing dizziness, shortness of breath, and nausea. The doctor recently stopped her atenolol and put her on bisoprolol as her usual high blood pressure was normal. I am concerned as she is starting to have falls and looks unwell.",
+ "seconds": 0.769
+}

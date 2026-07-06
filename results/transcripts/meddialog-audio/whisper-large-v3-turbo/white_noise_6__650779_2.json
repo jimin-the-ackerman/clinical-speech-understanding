@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__650779_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, this is radiating pain from the lumbosacral region. You are not supposed to do brisk and vigorous exercises. That clicking sound is called crepitus, which is most common with your problem. Please go for an MRI of the lumbosacral spine to know the exact depth of your problem. You can start on methylcobalamin five hundred milligrams tablets twice daily and pregabalin seventy-five milligrams daily at night. You can really see the difference.",
+ "audio_seconds": 25.77,
+ "created_at": "2026-07-06T04:48:58+00:00",
+ "failed": false,
+ "text": "Hi, this is radiating hairs in the lumbar circle region. You are not supposed to be first considering as exercises. That clicking sign is called Perpetus, which is most common with your problem. Please go for an MRI of the lumbar circle spine to know the exact rest of your problem. You can start on Metricabelanin 500mg habits twice daily, and Predivalin 75mg daily at night. You can really see the difference.",
+ "seconds": 0.288
+}

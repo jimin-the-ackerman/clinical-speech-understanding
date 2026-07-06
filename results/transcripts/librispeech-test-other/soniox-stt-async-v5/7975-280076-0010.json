@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280076-0010",
+ "condition": null,
+ "reference": "THIS CAN BE PROVED BY BOTH OF THEM ALSO BY SHERIFF BARKLEY AND FIFTY OTHER RESPECTABLE MEN OF THAT COUNTY",
+ "audio_seconds": 6.06,
+ "created_at": "2026-07-06T02:38:12+00:00",
+ "failed": false,
+ "text": "This can be proved by both of them, also by Sheriff Barkley and 50 other respectable men of that county.",
+ "seconds": 4.639
+}

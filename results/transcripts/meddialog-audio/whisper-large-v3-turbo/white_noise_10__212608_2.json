@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__212608_2",
+ "condition": "white_noise_10",
+ "reference": "It is a soft tissue swelling. It could be a hematoma. It will resolve spontaneously. A compressive bandage and ice packing might speed up resolution.",
+ "audio_seconds": 9.81,
+ "created_at": "2026-07-06T04:45:28+00:00",
+ "failed": false,
+ "text": "It is a soft tissue swallow. It could be a hematoma. It will resolve spontaneously. A compressive bandage and ice packing might speed up resolutions.",
+ "seconds": 0.201
+}

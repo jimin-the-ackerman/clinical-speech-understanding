@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0036",
+ "condition": null,
+ "reference": "THE PHYSICAL PART OF YOUR TRAINING AND ALSO THE MENTAL PART ARE ABUNDANTLY SUPPLIED IN THIS GREAT HOUSE OF LEARNING SHE CONTINUED BUT THE SPIRITUAL PART IT SEEMS TO ME OUGHT NOW TO BE STRENGTHENED",
+ "audio_seconds": 12.14,
+ "created_at": "2026-07-06T03:37:46+00:00",
+ "failed": false,
+ "text": "The physical part of your training, and also the mental part, are abundantly supplied in this great house of learning. She continued, but the spiritual part, it seems to me, ought now to be strengthened.",
+ "seconds": 0.424
+}

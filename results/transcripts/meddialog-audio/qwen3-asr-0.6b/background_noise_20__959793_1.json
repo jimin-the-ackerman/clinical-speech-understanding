@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__959793_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, I am twenty-four years old. I have had an enlarged spleen for about eight months. I was also diagnosed with psychogenic tremor disorder a few months ago and have had it for about five months. Around three or four months ago, I would get up in the middle of the night with very severe stomach pain accompanied by nausea and dizziness. This has continued until now. I am noticing a lot of bruising on my legs, all over, and sometimes on my arms and buttocks. I still experience nausea without vomiting. All I want is to get better.",
+ "audio_seconds": 33.96,
+ "created_at": "2026-07-06T04:53:11+00:00",
+ "failed": false,
+ "text": "Hi, I am twenty-four years old. I have had an enlarged spleen for about eight months. I was also diagnosed with psychogenic tremor disorder a few months ago, and have had it for about five months. Around three or four months ago, I would get up in the middle of the night with severe stomach pain, accompanied by nausea and dizziness. This has continued until now. I am noticing a lot of bruising on my legs, all over, and sometimes on my arms and buttocks. I still experience nausea without vomiting. All I want is to get better.",
+ "seconds": 1.048
+}

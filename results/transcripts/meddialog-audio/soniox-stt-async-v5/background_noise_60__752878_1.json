@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__752878_1",
+ "condition": "background_noise_60",
+ "reference": "Hello, Doctor. I am nineteen years old. Three days ago, I went to the gym and did some push-ups. While doing push-ups, I felt a severe cramp in my abdomen on the left side, as if some nerves or muscles were contracting. I did not take this seriously, but since the next day, there has continuously been some white liquid coming out, and the urine also comes without any prior feeling. In the beginning, it was accompanied by some pain in the right testis, but now it is somewhat better. Due to the leakage of this fluid, I am also not feeling any arousal. If you can provide some suggestions, please. I am in desperate need of them. Is it going to get cured automatically in a month or so, or should I seek some treatment? Please reply, sir.",
+ "audio_seconds": 44.63,
+ "created_at": "2026-07-06T02:55:37+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I am 19 years old. Three days ago I went to the gym and did some push-ups. While doing push-ups I felt a severe cramp in my abdomen on the left side, as if some nerves or muscles were contracting. I did not take this seriously, but since the next day there has continuously been some white liquid coming out, and the urine also comes without any prior feeling. In the beginning it was accompanied by some pain in the right testis, and now it is somewhat better. Due to the leakage of this fluid, I am also not feeling any arousal. If you can provide some suggestions, please. I am in desperate need of them. Is it going to get cured automatically in a month or so, or should I seek some treatment? Please reply, sir.",
+ "seconds": 8.111
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-9170-0016",
+ "condition": null,
+ "reference": "AFTER CONQUEST THE POWER OF THE EMPEROR PUTS AN END TO INTERNAL DISSENSIONS AND SO THE STATE CONCEPTION OF LIFE JUSTIFIES ITSELF",
+ "audio_seconds": 7.47,
+ "created_at": "2026-07-06T02:26:50+00:00",
+ "failed": false,
+ "text": "After conquest, the power of the emperor puts an end to internal dissensions, and so the state conception of life justifies itself.",
+ "seconds": 5.301
+}

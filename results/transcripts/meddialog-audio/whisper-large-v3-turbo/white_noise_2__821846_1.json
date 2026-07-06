@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__821846_1",
+ "condition": "white_noise_2",
+ "reference": "My three-year-old son has had chronic constipation since birth. He has a raised C-reactive protein and raised white blood cell count. He just had an X-ray which showed a mass in his pelvis that is causing a displacement and is pushing his bowel upwards. What could this be?",
+ "audio_seconds": 16.9,
+ "created_at": "2026-07-06T04:47:53+00:00",
+ "failed": false,
+ "text": "my three-year-old son has had chronic constipation since birth he has a raised c-reactive protein and raised white blood cell count he just had an x-ray which showed a mass in his pelvis that is causing a displacement and is pushing his bowel upwards what could this be",
+ "seconds": 0.236
+}

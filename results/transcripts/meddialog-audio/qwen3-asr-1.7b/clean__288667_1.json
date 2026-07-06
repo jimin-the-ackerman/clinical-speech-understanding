@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__288667_1",
+ "condition": "clean",
+ "reference": "My son had what I thought was a little black mark on his arm the other day, but when I tried to wash it off, it would not come off. It didn't look like a scrape either. Now, a few days later, it is red and bumpy. It no longer has the black color to it.",
+ "audio_seconds": 17.92,
+ "created_at": "2026-07-06T05:27:52+00:00",
+ "failed": false,
+ "text": "My son had what I thought was a little black mark on his arm the other day, but when I tried to wash it off, it would not come off. It didn't look like a scrape. Now, a few days later, it is red and bumpy. It no longer has the black color to it.",
+ "seconds": 0.62
+}

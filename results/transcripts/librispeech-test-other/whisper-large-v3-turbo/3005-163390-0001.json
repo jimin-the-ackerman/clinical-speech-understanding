@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0001",
+ "condition": null,
+ "reference": "THE PEOPLE MOST KILLED THEMSELVES LAUGHING AND WHEN THE KING GOT DONE CAPERING AND CAPERED OFF BEHIND THE SCENES THEY ROARED AND CLAPPED AND STORMED AND HAW HAWED TILL HE COME BACK AND DONE IT OVER AGAIN AND AFTER THAT THEY MADE HIM DO IT ANOTHER TIME",
+ "audio_seconds": 16.46,
+ "created_at": "2026-07-05T13:09:54+00:00",
+ "failed": false,
+ "text": "the people most killed themselves laughing and when the king got done capering and capered off behind the scenes they roared and clapped and stormed and haw-hawed till he come back and done it over again and after that they made him do it another time",
+ "seconds": 0.153
+}

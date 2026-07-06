@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__176115_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, don't worry. It happens by chance, and you can have a healthy baby. Just do a first trimester screening. Also, you can do a karyotype analysis for yourself and your husband.",
+ "audio_seconds": 10.24,
+ "created_at": "2026-07-06T02:50:03+00:00",
+ "failed": false,
+ "text": "Hi, don't worry. It happens by chance, and you can have a healthy baby; just do a first-trimester screen. Also, you can do a karyotype analysis for yourself and your husband.",
+ "seconds": 4.626
+}

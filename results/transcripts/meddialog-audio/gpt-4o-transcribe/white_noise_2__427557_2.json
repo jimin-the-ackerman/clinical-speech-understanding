@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__427557_2",
+ "condition": "white_noise_2",
+ "reference": "It is a very common problem and yes, it is curable. You can apply Lacto Calamine at night for two weeks and take any antihistamine once a day for one week. It should subside by then.",
+ "audio_seconds": 10.75,
+ "created_at": "2026-07-06T00:46:32+00:00",
+ "failed": false,
+ "text": "It is a very common problem. Yes, it is curable. You can apply Lacto Calamine at night for two weeks and take any antihistamine once a day for one week. It should subside by then.",
+ "seconds": 1.024
+}

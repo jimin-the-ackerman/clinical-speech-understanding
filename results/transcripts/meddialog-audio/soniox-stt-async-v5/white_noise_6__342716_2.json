@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__342716_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. If it is a disc prolapse, the pain and symptoms might be due to compression on the nerves. If the prolapse is more severe, it is better to consider surgery. If it is less severe, I recommend trying physiotherapy.",
+ "audio_seconds": 13.74,
+ "created_at": "2026-07-06T03:09:38+00:00",
+ "failed": false,
+ "text": "Hello, if it is a disc prolapse, the pain and symptoms might be due to compression on the nerves. If the prolapse is more severe, it is better to consider surgery. If it is less severe, I recommend trying physiotherapy.",
+ "seconds": 4.843
+}

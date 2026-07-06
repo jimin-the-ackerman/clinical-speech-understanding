@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__584567_2",
+ "condition": "background_noise_60",
+ "reference": "No, it is not like that. First of all, you should properly investigate the cause of your anemia. Iron deficiency is not the only cause; you might have another cause as well. Please go for proper examination, including serum iron and ferritin levels, Total Iron Binding Capacity, and other tests like Vitamin B12 levels, etc. First, reach the correct diagnosis and then take treatment accordingly.",
+ "audio_seconds": 24.23,
+ "created_at": "2026-07-06T00:44:14+00:00",
+ "failed": false,
+ "text": "No, it is not like that. First of all, you should properly investigate the cause of your anemia. Iron deficiency is not the only cause. You might have another cause as well. Please go for proper examination, including serum iron and ferritin levels, total iron binding capacity, and other tests like vitamin B12 levels, etc. First, reach the correct diagnosis and then take treatment accordingly.",
+ "seconds": 1.47
+}

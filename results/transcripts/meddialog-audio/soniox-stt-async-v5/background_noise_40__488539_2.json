@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__488539_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, sorry to hear about your granddaughter's leg pain. As your pediatrician suggested, leg pain is common during toddler age groups, but they do not feel it much during the daytime. They will complain about it more at night. Regarding the dark spot, did your granddaughter take any painkillers? If so, it may be an allergic reaction to the painkiller. Be concerned about it if it grows larger or if there is any itching associated with it. I hope you received your answer. Have a good day.",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T02:51:20+00:00",
+ "failed": false,
+ "text": "Hi. Sorry to hear about your granddaughter's leg pain, as your pediatrician suggested. Leg pain is common during toddler age groups, but they do not feel it much during the daytime; they will complain about it more at night. Regarding the dark spot, did your granddaughter take any painkillers? If so, it may be an allergic reaction to the painkiller. Just concerned about it if it grows larger or if there is any itching associated with it. I hope you received your answer. Have a good day.",
+ "seconds": 6.206
+}

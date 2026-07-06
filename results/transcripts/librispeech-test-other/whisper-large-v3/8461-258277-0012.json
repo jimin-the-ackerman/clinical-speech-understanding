@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-258277-0012",
+ "condition": null,
+ "reference": "ANSWERED HASAN I KNOW WHERE HE IS AND OPENING THE DOOR OF THE CLOSET SHOWED HIM THE SWEETMEAT SELLER WITHIN DRUGGED AND SENSELESS",
+ "audio_seconds": 8.8,
+ "created_at": "2026-07-05T13:08:44+00:00",
+ "failed": false,
+ "text": "answered hassan i know where he is and opening the door of the closet showed him the sweetmeat cellar within drugged and senseless",
+ "seconds": 0.279
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0033",
+ "condition": null,
+ "reference": "AND THE DOOR WAS SLAMMED VIOLENTLY TO",
+ "audio_seconds": 2.47,
+ "created_at": "2026-07-06T02:41:42+00:00",
+ "failed": false,
+ "text": "I did drive a slam, violently too.",
+ "seconds": 4.572
+}

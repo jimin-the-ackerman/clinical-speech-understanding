@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__703655_1",
+ "condition": "white_noise_2",
+ "reference": "My son is eleven years old. He struggles at school and was diagnosed with Attention Deficit Disorder. He is taking medication for Attention Deficit Disorder. We recently took him to a psychologist because he became very depressed and could not get along with the teacher. She administered an intelligence quotient test and found that he has an above-average intelligence quotient. She suspects Asperger's syndrome. We also took him for a blood test, and we received the results that his thyroid does not function properly. Could this possibly cause some of his problems?",
+ "audio_seconds": 35.07,
+ "created_at": "2026-07-06T04:34:50+00:00",
+ "failed": false,
+ "text": "My son is 11 years old. He struggles at school and was diagnosed with attention deficit disorder. He is taking medication for attention deficit disorder. We recently took him to a psychologist because he became very depressed and could not get along with the teacher. She administered an intelligence quotient test and found that he has an above-average intelligence quotient. She suspects Asperger's syndrome. We also took him for a blood test and we received the results that his thyroid does not function properly. Could this possibly cause some of his problems?",
+ "seconds": 0.932
+}

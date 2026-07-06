@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__386814_2",
+ "condition": "background_noise_40",
+ "reference": "I think you might be experiencing an elbow ligament injury. I would suggest you get a magnetic resonance imaging of the elbow to confirm the diagnosis. If there is such an injury, then you might need surgical intervention.",
+ "audio_seconds": 14.76,
+ "created_at": "2026-07-06T04:41:26+00:00",
+ "failed": false,
+ "text": "I think you might be experiencing an elbow ligament injury. I would suggest you get a magnetic resonance imaging of the elbow to confirm the diagnosis. If there is such an injury, then you might need surgical intervention.",
+ "seconds": 0.202
+}

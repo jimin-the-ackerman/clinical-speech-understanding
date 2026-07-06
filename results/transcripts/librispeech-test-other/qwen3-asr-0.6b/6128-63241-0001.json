@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63241-0001",
+ "condition": null,
+ "reference": "THE WOMEN HE HAD HITHERTO KNOWN HAD BEEN MAINLY OF HIS OWN SOFT CLIME AND IT WAS NOT OFTEN THEY EXHIBITED THE TENDENCY HE DETECTED AND CURSORILY DEPLORED IN MISSUS LUNA'S SISTER",
+ "audio_seconds": 13.1,
+ "created_at": "2026-07-06T03:22:38+00:00",
+ "failed": false,
+ "text": "The women he had hitherto known had been mainly of his own soft clime, and it was not often they exhibited the tendency he detected, and cursoryly deplored, in Missus Luna's sister.",
+ "seconds": 0.435
+}

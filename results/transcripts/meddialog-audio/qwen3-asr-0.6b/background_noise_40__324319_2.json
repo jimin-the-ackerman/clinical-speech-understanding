@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__324319_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, the pain could be due to two reasons: • Disc prolapse - get a magnetic resonance imaging scan of the lumbosacral spine. • Renal stones - get an ultrasound.",
+ "audio_seconds": 11.26,
+ "created_at": "2026-07-06T04:54:23+00:00",
+ "failed": false,
+ "text": "Hello, the pain could be due to two reasons: kerpeulum. Get a magnetic resonance imaging scan of the lumbar sacral spine. Kerpeul stones. Get an ultrasound.",
+ "seconds": 0.372
+}

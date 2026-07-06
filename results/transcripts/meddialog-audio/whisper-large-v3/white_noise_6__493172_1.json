@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__493172_1",
+ "condition": "white_noise_6",
+ "reference": "I have kidney stones and recently went to the hospital with a lot of pain in my left testicle, but it went away that evening. The doctor said I was passing a stone. It has been four days, and there is no pain really and no stone has passed yet. One thing that has me worried is that I am not producing hardly any semen when I ejaculate. Is the stone blocking this?",
+ "audio_seconds": 23.04,
+ "created_at": "2026-07-06T04:37:18+00:00",
+ "failed": false,
+ "text": "I have kidney stones and recently went to the hospital with a lot of pain in my left testicle but it went away that evening. The doctor said I was passing a stone. It has been four days and there is no pain really and no stone is passed yet. One thing that has me worried is that I am not producing hardly any semen when I ejaculate. Is the stone blocking this?",
+ "seconds": 0.684
+}

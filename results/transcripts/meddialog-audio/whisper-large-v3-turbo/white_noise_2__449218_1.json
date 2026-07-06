@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__449218_1",
+ "condition": "white_noise_2",
+ "reference": "Hello, recently my allergies have acted up due to oak trees in [location] right now. Today, I bent over to pick something up, and bright yellow liquid poured out of my nose. There seemed to be a lot of it, and it was the color of a yellow highlighter. It left a residue similar to that of sugar water. Do I need to be worried about this or not?",
+ "audio_seconds": 24.41,
+ "created_at": "2026-07-06T04:47:13+00:00",
+ "failed": false,
+ "text": "Hello, recently my allergies have acted up due to oak trees and… location… right now. Today I bent over to pick something up and bright yellow liquid poured out of my nose. There seemed to be a lot of it, and it was the color of a yellow highlighter. It left a residue similar to that of sugar water. Do I need to be worried about this or not?",
+ "seconds": 0.26
+}

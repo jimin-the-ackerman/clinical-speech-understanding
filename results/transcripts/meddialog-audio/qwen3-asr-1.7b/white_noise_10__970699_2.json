@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__970699_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, thank you for reaching out. I really appreciate your concern. Based on the history you provided, I could say that this could be an autoimmune reaction, which sometimes occurs after a history of fever. However, there is no need to worry; this could also be related to a viral infection. I hope this information helps you. Have a nice day.",
+ "audio_seconds": 22.02,
+ "created_at": "2026-07-06T05:34:39+00:00",
+ "failed": false,
+ "text": "Hi, thank you for reaching out. I really appreciate your concern. Based on the history you provided, I could say that this could be an autoimmune reaction, which sometimes occurs after a history of fever. However, there is no need to worry. This could also be related to a viral infection. I hope this information helps you. Have a nice day.",
+ "seconds": 0.692
+}

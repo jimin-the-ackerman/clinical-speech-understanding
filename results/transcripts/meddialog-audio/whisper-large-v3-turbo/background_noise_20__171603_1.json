@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__171603_1",
+ "condition": "background_noise_20",
+ "reference": "I have just started taking my pill again, Microgynon thirty. I have been taking it for sixteen days now. I had unprotected sexual intercourse five days ago and started the pack on my first day of my period. However, within the last two days, I have been feeling like I want to throw up. I have also been under stress. Could I be pregnant, or is it just stress?",
+ "audio_seconds": 20.74,
+ "created_at": "2026-07-06T04:39:34+00:00",
+ "failed": false,
+ "text": "I have just started to pill again, Microgenon 30. I have been taking it for 16 days now. I had unprotected sexual intercourse five days ago and started the pack on my first day of my period. However, within the last two days, I have been feeling like I want to throw up. I have also been under stress. Could I be or is it just stress?",
+ "seconds": 0.274
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__931161_2",
+ "condition": "background_noise_20",
+ "reference": "One of the few likely associations between low back pain and reduced appetite would be constipation. I would increase your fluid intake for now and consider a laxative if it is still no better. Then see your doctor if it lasts more than a day without any bowel movements.",
+ "audio_seconds": 16.3,
+ "created_at": "2026-07-06T02:49:31+00:00",
+ "failed": false,
+ "text": "One of the few likely associations between low back pain and reduced appetite would be constipation; I would increase your fluid intake for now and consider a laxative if it is still no better, then see your doctor if it lasts more than a day without any bowel movements.",
+ "seconds": 5.83
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__443341_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. I have carefully considered your concern and would like to explain that krill oil is a good source of omega-three fatty acids, which have proven beneficial to brain and nerve-ending activity. However, it shows only mild beneficial effects on the heart. In any case, it has no adverse cardiac properties, and you should not be concerned about any cardiac issues while using krill oil. It will not significantly affect your blood pressure or heart rate. You may follow normal daily activities without any need to monitor specific cardiac parameters or blood tests.",
+ "audio_seconds": 32.0,
+ "created_at": "2026-07-06T04:33:38+00:00",
+ "failed": false,
+ "text": "Hello, I have carefully considered your concern and would like to explain that krill oil is a good source of omega-3 fatty acids which have proven beneficial to brain and nerve ending activity. However, it shows only mild beneficial effects on the heart. In any case, it has no adverse cardiac properties and you should not be concerned about any cardiac issues while using krill oil. It will not significantly affect your blood pressure or heart rate. You may follow normal daily activities without any need to monitor specific cardiac parameters or blood tests.",
+ "seconds": 0.884
+}

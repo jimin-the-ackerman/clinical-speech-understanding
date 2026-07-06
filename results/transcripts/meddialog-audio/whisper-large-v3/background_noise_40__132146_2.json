@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__132146_2",
+ "condition": "background_noise_40",
+ "reference": "I think the problem with monthly cycles is the least likely possibility. Take some antacids and visit the nearest physician. Abdominal pain of this type should be treated accordingly.",
+ "audio_seconds": 11.52,
+ "created_at": "2026-07-06T04:17:16+00:00",
+ "failed": false,
+ "text": "I think the problem with monthly cycles is the least likely possibility. Take some antacids and visit the nearest physician. Abdominal pain of this type should be treated accordingly.",
+ "seconds": 0.38
+}

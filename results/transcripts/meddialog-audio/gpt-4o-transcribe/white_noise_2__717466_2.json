@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__717466_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, I think the exfoliant on your face is causing red bumps all over your face. It is called irritant contact dermatitis. Whatever the reason, you can use an antihistamine at night, an antibiotic twice daily, and prednisolone ten milligrams three times daily tapered to ten milligrams daily. Application of calamine lotion over the bumps can help cure it.",
+ "audio_seconds": 23.21,
+ "created_at": "2026-07-06T00:46:51+00:00",
+ "failed": false,
+ "text": "Hi, I think the exfoliant on your face is causing red bumps all over your face. It is called irritant contact dermatitis. Whatever the reason, you can use an antihistamine at night, an antibiotic twice daily, and prednisolone 10mg three times daily tapered to 10mg daily. Application of calamine lotion over the bumps can help cure it.",
+ "seconds": 1.423
+}

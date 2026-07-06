@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__445280_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, I am Heather, thirty-two. I had a laparoscopic appendectomy four weeks ago. It was not ruptured; I went to the hospital because the pain was in my back, and I thought it was a kidney stone. A computed tomography scan showed an inflamed appendix. Is it normal to have bloating, random stomach pain, gas, indigestion, and loose stools at this point?",
+ "audio_seconds": 22.7,
+ "created_at": "2026-07-06T04:51:00+00:00",
+ "failed": false,
+ "text": "Hi, I am Heather, thirty-two. I had a laparoscopic appendectomy four weeks ago. It was not ruptured. I went to the hospital because the pain was in my back, and I thought it was a kidney stone. A computed tomography scan showed an inflamed appendix. Is it normal to have bloating, random stomach pain, gas, indigestion, and loose stools at this point?",
+ "seconds": 0.768
+}

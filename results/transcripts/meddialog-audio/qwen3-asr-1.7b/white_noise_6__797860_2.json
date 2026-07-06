@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__797860_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, I would be happy to help you with your question. The Depo-Provera shot is associated with more irregular cycles for the first few months after it has worn off. It actually lasts longer than three months, so it is probably not completely out of your system. Your chance of pregnancy within six to twelve months is slightly less than average because of this cycle irregularity, but this should resolve over the year. I hope that this helps, and good luck!",
+ "audio_seconds": 25.26,
+ "created_at": "2026-07-06T05:41:41+00:00",
+ "failed": false,
+ "text": "Hello, I would be happy to help you with this question. The double ovary shot is associated with more irregular cycles for the first after it has worn off. It actually lasts longer than two months, so it is probably not completely out of whack. Your chance of pregnancy within six to twelve months is slightly less than average because of the cycle irregularity, but this should resolve over the year. I hope this helps, and good luck.",
+ "seconds": 0.867
+}

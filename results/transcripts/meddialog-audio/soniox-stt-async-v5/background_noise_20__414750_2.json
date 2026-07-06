@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__414750_2",
+ "condition": "background_noise_20",
+ "reference": "Seasonal symptoms do suggest an allergic origin.",
+ "audio_seconds": 3.84,
+ "created_at": "2026-07-06T02:47:25+00:00",
+ "failed": false,
+ "text": "Seasonal symptoms do suggest an allergic origin.",
+ "seconds": 4.603
+}

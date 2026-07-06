@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__561023_2",
+ "condition": "clean",
+ "reference": "It can be an allergic reaction or Gastroesophageal Reflux Disease. Apply Kenacort mouth gel over the affected lips and tongue. Add Antavid syrup, two teaspoons, three times a day.",
+ "audio_seconds": 12.46,
+ "created_at": "2026-07-06T05:28:58+00:00",
+ "failed": false,
+ "text": "It can be an allergic reaction or gastroesophageal reflux disease. Apply Kenacort mouth gel over the affected lips and tongue. Add Antavid syrup two teaspoons three times a day.",
+ "seconds": 0.389
+}

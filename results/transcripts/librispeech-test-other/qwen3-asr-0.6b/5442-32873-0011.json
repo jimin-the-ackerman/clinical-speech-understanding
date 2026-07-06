@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-32873-0011",
+ "condition": null,
+ "reference": "RACHEL LAKE RACHEL LAKE WHAT ARE YOU NOW",
+ "audio_seconds": 3.92,
+ "created_at": "2026-07-06T03:21:12+00:00",
+ "failed": false,
+ "text": "Rachel Leak. Rachel Leak, what are you now?",
+ "seconds": 0.14
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-32873-0006",
+ "condition": null,
+ "reference": "BRIGHT AND NATTY WERE THE CHINTZ CURTAINS AND THE LITTLE TOILET SET OUT NOT INELEGANTLY AND HER PET PIPING GOLDFINCH ASLEEP ON HIS PERCH WITH HIS BIT OF SUGAR BETWEEN THE WIRES OF HIS CAGE HER PILLOW SO WHITE AND UNPRESSED WITH ITS LITTLE EDGING OF LACE",
+ "audio_seconds": 16.73,
+ "created_at": "2026-07-05T13:03:01+00:00",
+ "failed": false,
+ "text": "bright and natty were the chintz curtains and the little toilet set out not inelegantly and her pet piping goldfinch asleep on his perch with his bit of sugar between the wires of his cage her pillow so white and unpressed with its little edging of lace",
+ "seconds": 0.424
+}

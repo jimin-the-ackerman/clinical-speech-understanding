@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__400009_1",
+ "condition": "white_noise_6",
+ "reference": "I just had surgery to remove stones from both of my kidneys and also had stents placed in both of them. I am urinating, but I feel like I am not going as much as I should. My abdomen is also extremely distended. I have been taking stool softeners three times daily. Is this normal and is there anything I can do to relieve the swelling?",
+ "audio_seconds": 21.85,
+ "created_at": "2026-07-06T03:09:56+00:00",
+ "failed": false,
+ "text": "I just had surgery to remove stones from both of my kidneys, and also had stents placed in both of them. I am urinating, but I feel like I am not going as much as I should. My abdomen is also extremely distended. I have been taking stool softeners 3 times daily. Is this normal, and is there anything I can do to relieve the swelling?",
+ "seconds": 5.67
+}

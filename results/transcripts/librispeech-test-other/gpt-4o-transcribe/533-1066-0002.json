@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-1066-0002",
+ "condition": null,
+ "reference": "I AM SURE I KISSED LIDDY AND I HAVE HAD TERRIBLE MOMENTS SINCE WHEN I SEEM TO REMEMBER KISSING MISTER JAMIESON TOO IN THE EXCITEMENT",
+ "audio_seconds": 9.29,
+ "created_at": "2026-07-05T23:56:19+00:00",
+ "failed": false,
+ "text": "I'm sure I kissed Lyddy, and I've had terrible moments since when I seem to remember kissing Mr. Jamieson, too, in the excitement.",
+ "seconds": 1.154
+}

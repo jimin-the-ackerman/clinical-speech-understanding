@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-32873-0003",
+ "condition": null,
+ "reference": "OH FRIGHTFUL FRIGHTFUL IS IT A DREAM",
+ "audio_seconds": 3.48,
+ "created_at": "2026-07-06T02:29:28+00:00",
+ "failed": false,
+ "text": "Oh, frightful, frightful—is it a dream?",
+ "seconds": 4.994
+}

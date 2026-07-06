@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__921414_1",
+ "condition": "clean",
+ "reference": "I had a lower molar removed five weeks ago. The very next morning, I woke up with a slight fever and a sore throat on the side where the tooth was removed. The fever subsided in hours, but since then, I have had weakness in all my extremities, severe back pain, a burning sensation in my mouth, and oral thrush. I also have a rapid heart rate and burning in my sinuses. I have no idea what this could be, and the doctors I have seen are baffled as well.",
+ "audio_seconds": 30.72,
+ "created_at": "2026-07-06T05:04:08+00:00",
+ "failed": false,
+ "text": "I had a lower molar removed five weeks ago. The very next morning, I woke up with a slight fever and a sore throat on the side where the tooth was removed. The fever subsided in hours, but since then, I have had weakness in all my extremities, severe back pain, a burning sensation in my mouth, and oral thrush. I also have a rapid heart rate and burning in my sinuses. I have no idea what this could be, and the doctors I have seen are baffled as well.",
+ "seconds": 0.959
+}

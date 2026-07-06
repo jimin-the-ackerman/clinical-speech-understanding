@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__837715_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, your liver function test report is fine. Alanine aminotransferase is high due to hepatitis or, you can say, liver inflammation. But don't worry, it's mildly high; just stay on a healthy diet, and it will come back to normal.",
+ "audio_seconds": 13.65,
+ "created_at": "2026-07-06T00:47:36+00:00",
+ "failed": false,
+ "text": "Okay, I'll get back to you.",
+ "seconds": 0.489
+}

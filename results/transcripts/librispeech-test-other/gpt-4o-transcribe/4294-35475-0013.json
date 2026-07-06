@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-35475-0013",
+ "condition": null,
+ "reference": "THOU SHALT NOT BE LEFT A PRISONER IN THIS DISMAL SPOT WHILE I HAVE THE POWER TO HELP THEE",
+ "audio_seconds": 4.72,
+ "created_at": "2026-07-05T23:55:53+00:00",
+ "failed": false,
+ "text": "Thou shalt not be left a prisoner in this dismal spot while I have the power to help thee.",
+ "seconds": 0.835
+}

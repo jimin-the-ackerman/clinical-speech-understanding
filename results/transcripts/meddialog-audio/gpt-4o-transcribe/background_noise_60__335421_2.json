@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__335421_2",
+ "condition": "background_noise_60",
+ "reference": "Yes, you can get pregnant. Please go to your gynecologist and take Clomiphene or Letrozole from day two. Then, conduct a follicular study. If needed, she will give you injections of gonadotropins until the follicle size is eighteen mm, then it will rupture. After that, maintain a sexual relationship.",
+ "audio_seconds": 19.46,
+ "created_at": "2026-07-06T00:43:59+00:00",
+ "failed": false,
+ "text": "Yes, you can get pregnant. Please go to your gynecologist and take clomiphene, or letrozole from day two. Then, conduct a follicular study. If needed, she will give you injections of gonadotropins until the follicle size is 18 mm. Then it will rupture. After that, maintain a sexual relationship.",
+ "seconds": 1.063
+}

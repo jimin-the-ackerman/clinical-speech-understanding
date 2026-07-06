@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0064",
+ "condition": null,
+ "reference": "BUT HOO'S COME AT LAST AND HOO'S WELCOME AS LONG AS HOO'LL KEEP FROM PREACHING ON WHAT HOO KNOWS NOUGHT ABOUT",
+ "audio_seconds": 7.73,
+ "created_at": "2026-07-05T13:09:05+00:00",
+ "failed": false,
+ "text": "but who's come at last and who's welcome as long as he'll keep from preaching on what who knows naught about",
+ "seconds": 0.124
+}

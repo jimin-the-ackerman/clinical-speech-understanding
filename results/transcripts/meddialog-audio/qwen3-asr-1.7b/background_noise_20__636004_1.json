@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__636004_1",
+ "condition": "background_noise_20",
+ "reference": "Hello! I am twenty-nine years old and generally very healthy. I do not work out but I am fit. I am five feet seven inches tall and weigh one hundred and seventeen pounds. I have recently been experiencing lower rib pain where I feel pressure, which makes it hard to breathe. It is so severe that the next day my ribs are sore. I am also feeling very dizzy and foggy. I have had an X-ray done, which came back clear for any fractures or issues in the lungs. I am waiting on blood test results, but I am guessing they will be negative as well. Help! What is this?! I am in pain now and I constantly feel dizzy and tired.",
+ "audio_seconds": 41.98,
+ "created_at": "2026-07-06T05:17:50+00:00",
+ "failed": false,
+ "text": "Hello, I am twenty-nine years old and generally healthy. I do not work out, but I am fit. I am five feet seven inches tall and weigh one hundred and seventeen pounds. I have recently been experiencing lower rib pain where I feel pressure, which makes it hard to breathe. It is so severe that the next day my ribs are sore. I am also feeling very dizzy and foggy. I have had an X-ray done, which came back clear for any fractures or issues in the lungs. I am waiting on blood test results, but I am guessing they will be negative as well. Help! What is this? I am in pain now, and I constantly feel dizzy and tired.",
+ "seconds": 1.289
+}

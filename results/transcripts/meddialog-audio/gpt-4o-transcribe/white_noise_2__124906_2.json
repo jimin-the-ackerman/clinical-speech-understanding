@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__124906_2",
+ "condition": "white_noise_2",
+ "reference": "You should continue with your current medications and quit tobacco completely. Do regular exercise, such as walking or yoga. Avoid a high salt diet and a high fat diet.",
+ "audio_seconds": 11.43,
+ "created_at": "2026-07-06T00:46:15+00:00",
+ "failed": false,
+ "text": "You should continue with your current medications as put back on the table.",
+ "seconds": 0.604
+}

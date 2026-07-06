@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__889245_2",
+ "condition": "clean",
+ "reference": "Hello, if your echocardiogram is normal, then there is no need to worry. Mild cardiomegaly is usually an artifact and occurs due to image magnification, or if the film is taken in the expiratory phase of respiration. There is no need to do anything, as the echocardiogram is confirmatory, and if it's normal, it rules out cardiomegaly.",
+ "audio_seconds": 20.57,
+ "created_at": "2026-07-06T00:45:32+00:00",
+ "failed": false,
+ "text": "Hello, if your audiogram is normal, then there is no need to worry. Mild cardiomegaly is usually an artifact and occurs due to image magnification or if the film is taken in the expiratory phase of respiration. There is no need to do anything as the echocardiogram is confirmatory, and if it's normal, it rules out cardiomegaly.",
+ "seconds": 1.173
+}

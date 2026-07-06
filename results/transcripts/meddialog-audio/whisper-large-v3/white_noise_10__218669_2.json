@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__218669_2",
+ "condition": "white_noise_10",
+ "reference": "Is it the kneecap that is popping out? That is a very serious issue. It is called habitual dislocation of the patella. It may be due to various causes such as laxity, high-riding patella, or femoral condyle dysplasia, and treatment depends upon the underlying cause. Do you have any X-rays or magnetic resonance imaging? Where do you live?",
+ "audio_seconds": 23.55,
+ "created_at": "2026-07-06T04:29:08+00:00",
+ "failed": false,
+ "text": "Is this the new task that it's talking about? That is a very serious issue. It is called Habitual Dissertation of its Heart. It merges into various causes that the black, highlighted color, and femoral conduct has played at, and shouldn't depend upon the underlying cause. Do you have any x-rays or magnetic resonance sensors? Or do you work?",
+ "seconds": 0.746
+}

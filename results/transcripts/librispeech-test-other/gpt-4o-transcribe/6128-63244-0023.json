@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63244-0023",
+ "condition": null,
+ "reference": "WHEN MISS BIRDSEYE APPROACHED IT TRANSFIGURED HER FAMILIAR HER COMICAL SHAPE AND MADE THE POOR LITTLE HUMANITARY HACK SEEM ALREADY A MARTYR",
+ "audio_seconds": 10.3,
+ "created_at": "2026-07-05T23:57:14+00:00",
+ "failed": false,
+ "text": "When Miss Birdseye approached, it transfigured her familiar, her comical shape, and made the poor little humanitarian hack seem already a martyr.",
+ "seconds": 1.022
+}

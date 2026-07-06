@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__657742_2",
+ "condition": "clean",
+ "reference": "Please use the inhaler properly. Refer to the instructions in the pamphlet, as the majority of patients use the inhaler incorrectly. The inhaler is a better option. If you do not feel better even after proper use, ask your doctor; they may prescribe some medications to help you through the crisis. Until then, stop smoking and avoid air pollution.",
+ "audio_seconds": 19.2,
+ "created_at": "2026-07-06T05:29:23+00:00",
+ "failed": false,
+ "text": "Please use the inhaler properly. Refer to the instructions in the pamphlet, as the majority of patients use the inhaler incorrectly. The inhaler is a better option. If you do not feel better even after proper use, ask your doctor. They may prescribe some medications to help you through the crisis. Until then, stop smoking and avoid air pollution.",
+ "seconds": 0.679
+}

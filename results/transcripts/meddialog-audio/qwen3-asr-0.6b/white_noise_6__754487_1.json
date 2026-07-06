@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__754487_1",
+ "condition": "white_noise_6",
+ "reference": "My six year old son took his last dose of antibiotics this morning. Last Monday he was diagnosed with strep throat and came down with hand, foot, and mouth disease. All rashes are gone and he has no complaints. Shortly ago he was outside and walked in front of his twelve year old brother when a plastic bat hit him in the head. He did not cry but came in and got on the couch. He had glassy eyes and felt warm to the touch. I checked his temperature and it was ninety-nine point nine degrees Fahrenheit, then I checked again and it was one hundred degrees Fahrenheit. He was hungry and ate three pieces of pizza and now is up playing. Could this be from the hit or is he sick again?",
+ "audio_seconds": 38.83,
+ "created_at": "2026-07-06T05:14:25+00:00",
+ "failed": false,
+ "text": "My six-year-old son took his last dose of antibiotics this morning. Last Monday, he was diagnosed with strep throat and came down with hand, foot, and mouth disease. All rashes are gone and he has no concern. Shortly ago, he was outside and walked in front of his twelve-year-old brother when a plastic bat hit him in the head. He did not cry but came in and got on the couch. He had glassy eyes and felt warm to the touch. I checked his temperature and it was ninety-nine point nine degrees Fahrenheit. Then I checked again and it was one hundred degrees Fahrenheit. He was hungry and ate three pieces of pizza and now is up playing. Could this be from the hit or is he sick of it?",
+ "seconds": 1.363
+}

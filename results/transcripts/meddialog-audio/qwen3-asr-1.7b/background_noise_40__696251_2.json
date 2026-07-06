@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__696251_2",
+ "condition": "background_noise_40",
+ "reference": "The lump sounds like a lipoma—a benign fatty tumor. If it bothers you, it can be surgically removed, usually under local anesthesia.",
+ "audio_seconds": 9.98,
+ "created_at": "2026-07-06T05:22:08+00:00",
+ "failed": false,
+ "text": "The lump sounds like a lipoma, a benign fatty tumor. If it bothers you, it can be surgically removed, usually under local anesthesia.",
+ "seconds": 0.313
+}

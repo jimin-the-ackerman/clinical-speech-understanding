@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__414608_2",
+ "condition": "background_noise_60",
+ "reference": "Though you might be protected from pregnancy, there is a small risk of becoming pregnant since you took the pill twelve hours late. Usually in such situations, it is wise to avoid sexual intercourse for two days after a missed pill, or a condom should have been used by your partner. To eliminate any chances of pregnancy in the future, I suggest that you take emergency contraceptive pills if you had sexual intercourse.",
+ "audio_seconds": 22.61,
+ "created_at": "2026-07-06T05:24:40+00:00",
+ "failed": false,
+ "text": "Though you might be protected from pregnancy, there is a small risk of becoming pregnant since you took the pill 12 hours late. Usually, in such situations, it is wise to avoid sexual intercourse for two days after a missed pill, or a condom should have been used by your partner to eliminate any chances of pregnancy in the future. I suggest that you take emergency contraceptive pills if you had sexual intercourse.",
+ "seconds": 0.771
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0007",
+ "condition": null,
+ "reference": "WHEN THEY SAW I UNDERSTOOD THEM NOT AND MADE THEM NO ANSWER ONE OF THEM CAME FORWARD AND SAID TO ME IN ARABIC PEACE BE WITH THEE O MY BROTHER",
+ "audio_seconds": 9.21,
+ "created_at": "2026-07-05T13:13:33+00:00",
+ "failed": false,
+ "text": "when they saw i understood them not and made them no answer one of them came forward and said to me in arabic peace be with thee o my brother",
+ "seconds": 0.124
+}

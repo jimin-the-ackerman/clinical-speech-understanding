@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96594-0014",
+ "condition": null,
+ "reference": "THEN I MUST REQUEST THAT YOU WILL NOT MAKE IT AGAIN VERY TRUE",
+ "audio_seconds": 3.32,
+ "created_at": "2026-07-06T03:36:30+00:00",
+ "failed": false,
+ "text": "Then I must request that you will not make it again. Very true.",
+ "seconds": 0.175
+}

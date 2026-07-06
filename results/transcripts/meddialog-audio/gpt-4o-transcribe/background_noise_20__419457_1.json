@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__419457_1",
+ "condition": "background_noise_20",
+ "reference": "A friend fell from her icy steps and hit the middle of her back. She said it was right on her spine. After that, she vomited because it hurt so badly, thinking she may have suffered a concussion, but she did not hit her head. A few days later, she has a lump where she fell on her spine. What is going on with her?",
+ "audio_seconds": 20.74,
+ "created_at": "2026-07-06T00:42:09+00:00",
+ "failed": false,
+ "text": "A friend fell from her icy steps and hit the middle of her back. She said it was right on her spine. After that, she vomited because it hurt so badly, thinking she may have suffered a concussion, but she did not hit her head. A few days later she has a lump where she fell on her spine. What is going on with her?",
+ "seconds": 1.279
+}

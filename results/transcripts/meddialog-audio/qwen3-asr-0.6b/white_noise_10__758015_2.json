@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__758015_2",
+ "condition": "white_noise_10",
+ "reference": "Hi and welcome to Health Care Management. If you want to be sure this isn't serious bleeding, then the best way to evaluate your bleeding is to do hemoglobin levels. However, this is also usual after such surgical procedures, so you should not be overly concerned. A few weeks are necessary for your periods to become balanced. If you notice bleeding beyond the expected time for your periods, along with lower abdominal sharp pain or fever, you should visit a doctor. If not, just be patient, and everything will be fine. Wishing you good health.",
+ "audio_seconds": 35.58,
+ "created_at": "2026-07-06T05:06:58+00:00",
+ "failed": false,
+ "text": "Hi and welcome to healthcare management. If you want to be sure this is a serious bleeding, then the best way to evaluate your bleeding is to do hemoglobin levels. However, this is also usual after such surgical procedures, so you should not be overly concerned. A few weeks are necessary for your period to become balanced. If you notice bleeding beyond the expected time for your period, along with lower abdominal sharp pain or fever, you should visit a doctor. If not, just be patient, and everything will be fine. Good health.",
+ "seconds": 0.959
+}

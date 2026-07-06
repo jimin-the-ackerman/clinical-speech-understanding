@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__539740_2",
+ "condition": "clean",
+ "reference": "Hey, just don't think about any major problem. Get a chest X-ray and an electrocardiogram to rule out causes related to the lungs and heart. It will mostly be muscular pain; get some analgesic.",
+ "audio_seconds": 11.52,
+ "created_at": "2026-07-06T04:44:30+00:00",
+ "failed": false,
+ "text": "Hey, just don't think about any major problem. Get a chest x-ray and an electrocardiogram to rule out causes related to the lungs and heart. It will mostly be muscular pain. Get some analgesic.",
+ "seconds": 0.196
+}

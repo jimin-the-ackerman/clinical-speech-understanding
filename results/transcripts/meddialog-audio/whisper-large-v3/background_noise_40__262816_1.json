@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__262816_1",
+ "condition": "background_noise_40",
+ "reference": "Um... hi? My girlfriend and I were fooling around, and before she was about to perform oral sex, she bit me. She has done this a few times before in other instances, but nothing happened then, and it was never very hard, just playfully. However, this time it started to bleed from the tip. There is no external wound, and it stopped after about fifteen to twenty minutes. I think it might be a urinary tract infection, but I am not really sure. Can you help?",
+ "audio_seconds": 25.94,
+ "created_at": "2026-07-06T04:17:56+00:00",
+ "failed": false,
+ "text": "um hi my girlfriend and i were fooling around and before she was about to perform oral sex she bit she has done this a few times before in other instances but nothing happened then and it was never very hard just playfully however this time it started to bleed from the tip there is no external wound that stopped after about 15 to 20 minutes i think it might be a urinary tract infection but i am not really sure can you help",
+ "seconds": 0.711
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__310548_2",
+ "condition": "clean",
+ "reference": "Hello. If your last period was on November nineteen, you cannot be six weeks pregnant by December seventeen. Maybe you had forgotten the last day of your period. I need to know what the abnormalities were in the Pap smear you had. Cervical erosions are more common in pregnancy, and you may have bleeding from that. There is no need to worry about cervical erosion; it is not dangerous. But I need to know the Pap smear report before I can assure you.",
+ "audio_seconds": 28.76,
+ "created_at": "2026-07-06T05:27:58+00:00",
+ "failed": false,
+ "text": "Hello, if your last period was on November nineteenth, you cannot be six weeks pregnant by December seventeenth. Maybe you had forgotten the last day of your period. I need to know what the abnormalities were in the Pap smear you had. Cervical erosions are more common in pregnancy, and you may have bleeding from that. There is no need to worry about cervical erosion. It is not dangerous, but I need to know the Pap smear report before I can assure you.",
+ "seconds": 0.905
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__710610_2",
+ "condition": "background_noise_60",
+ "reference": "You can take this medicine as soon as the pregnancy is confirmed in a normal pregnancy without treatment until twelve weeks. One tablet twice daily is safe during pregnancy. In case of a pregnancy that has been treated for infertility, you can start after your doctor indicates that ovulation has occurred.",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T05:25:51+00:00",
+ "failed": false,
+ "text": "You can take this medicine as soon as the pregnancy is confirmed. In a normal pregnancy, without treatment, until twelve weeks, one tablet twice daily is safe during pregnancy. In case of a pregnancy that has been treated for infertility, you can start after your indicates that ovulation has occurred.",
+ "seconds": 0.561
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0050",
+ "condition": null,
+ "reference": "I HAVE CONSULTED UPON THIS POINT MANY ECCLESIASTICS LABORING IN OUR LORD WHO OCCUPY THEMSELVES IN THE EXERCISES OF THE CLERICAL LIFE AND WHO BEAR WONDERFUL FRUIT",
+ "audio_seconds": 9.67,
+ "created_at": "2026-07-06T00:06:07+00:00",
+ "failed": false,
+ "text": "I have consulted upon this point many ecclesiastics laboring in our Lord, who occupy themselves in the exercises of the clerical life, and who bear wonderful fruit.",
+ "seconds": 4.137
+}

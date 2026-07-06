@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__911630_1",
+ "condition": "clean",
+ "reference": "Hello Doctor, my baby is having a fever ranging from one hundred to one hundred and four degrees Fahrenheit, which subsides after taking mefenamic acid at a dosage of sixty milligrams per eleven kilograms of body weight. There are no other obvious symptoms except for the fever. What should I do? Please suggest a course of treatment.",
+ "audio_seconds": 19.88,
+ "created_at": "2026-07-06T05:30:41+00:00",
+ "failed": false,
+ "text": "Hello, doctor. My baby is having a fever ranging from 100 to 104 degrees Fahrenheit, which subsides after taking mefenamic acid at a dosage of 60 milligrams per 11 kilograms of body weight. There are no other obvious symptoms except for the fever. What should I do? Please suggest a course of treatment.",
+ "seconds": 0.701
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__695370_2",
+ "condition": "clean",
+ "reference": "Hello. The history and findings you provided are definitely suggestive of a lump in the left colon. You need to be admitted for a colonoscopy to evaluate and obtain a biopsy. This could potentially be a mass. You also require a computed tomography evaluation and further management.",
+ "audio_seconds": 16.04,
+ "created_at": "2026-07-06T00:45:19+00:00",
+ "failed": false,
+ "text": "Hello, the history and findings you provided are definitely suggestive of a lump in the left colon. You need to be admitted for a colonoscopy to evaluate and obtain a biopsy. This could potentially be a mass. You also require a computed tomography evaluation and further management.",
+ "seconds": 1.357
+}

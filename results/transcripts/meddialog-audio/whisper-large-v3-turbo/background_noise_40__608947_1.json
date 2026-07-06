@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__608947_1",
+ "condition": "background_noise_40",
+ "reference": "On December 3rd, two thousand and thirteen, I suffered a brain injury from a car accident, specifically to the frontal lobe. I was cleared by the neurosurgeon, yet as the years have passed, I have lost interest in keeping in touch with people. I do not think it is depression because I am not sad about staying away from people.",
+ "audio_seconds": 19.2,
+ "created_at": "2026-07-06T04:41:49+00:00",
+ "failed": false,
+ "text": "on december 3rd 2013 i suffered a brain injury from a car accident specifically to the frontal lobe i was cleared by the neurosurgeon yet as the years have passed i have lost interest in keeping in touch with people i do not think it is depression because i am not sad about staying away from people",
+ "seconds": 0.293
+}

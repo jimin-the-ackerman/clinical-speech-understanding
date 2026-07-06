@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128292-0016",
+ "condition": null,
+ "reference": "THE DEVIL HIMSELF IS PERHAPS SKIN",
+ "audio_seconds": 3.02,
+ "created_at": "2026-07-06T03:15:47+00:00",
+ "failed": false,
+ "text": "The devil himself is perhaps skin.",
+ "seconds": 0.108
+}

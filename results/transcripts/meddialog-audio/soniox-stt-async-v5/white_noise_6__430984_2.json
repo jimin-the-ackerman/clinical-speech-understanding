@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__430984_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. The injections can help, but usually only after you have had a few of them. This does not exactly sound like an allergic reaction, but may just be a reaction to having had a needle inserted into your knees. You need to let your doctor know about this and allow him to decide whether you can continue with the injections.",
+ "audio_seconds": 16.64,
+ "created_at": "2026-07-06T03:10:02+00:00",
+ "failed": false,
+ "text": "Hello. The injections can help, but usually only after you have had a few of them. This does not exactly sound like an allergic reaction, but may just be a reaction to having had a needle inserted into your knee. You need to let your doctor know about this and allow him to decide whether you can continue with the injections.",
+ "seconds": 5.854
+}

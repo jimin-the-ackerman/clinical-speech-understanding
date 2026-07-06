@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__401338_1",
+ "condition": "background_noise_20",
+ "reference": "Hello Doctor, I have been experiencing pimple breakouts for about a year now. I had no problems prior to this. The pimples are on my cheeks and my forehead, occasionally around my chin and jaw. They are very large and have caused a considerable amount of scarring all over my face. I have tried using cleansers for oily skin and frequently use a face scrub and activated charcoal mask. Do you have any suggestions to stop the pimples from appearing and also to heal my scarring?",
+ "audio_seconds": 28.59,
+ "created_at": "2026-07-06T02:47:22+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I have been experiencing pimple breakouts for about a year now. I had no. Prior to this. The pimples are on my cheeks and my forehead, occasionally around my chin and jaw. They are very large and have caused a considerable amount of scarring all over my face. I have. Cleansers for oily skin, and frequently use a face scrub and activated charcoal mask. Do you have any suggestions to stop the pimples from appearing, and also to heal my scarring?",
+ "seconds": 5.308
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__263690_1",
+ "condition": "clean",
+ "reference": "I hit my chin pretty hard yesterday. When I opened a swinging door, it slammed into my chin. Now, I feel a lump on my chin, and it is very tender and hurts when I touch it. Is it possible for it to be broken, or will it eventually heal by itself?",
+ "audio_seconds": 14.51,
+ "created_at": "2026-07-06T02:57:29+00:00",
+ "failed": false,
+ "text": "I hit my chin pretty hard yesterday. When I opened a swinging door, it slammed into my chin. Now I feel a lump on my chin, and it is very tender and hurts when I touch it. Is it possible for it to be broken, or will it eventually heal by itself?",
+ "seconds": 5.504
+}

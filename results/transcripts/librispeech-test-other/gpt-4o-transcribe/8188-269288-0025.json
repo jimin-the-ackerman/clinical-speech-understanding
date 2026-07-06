@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0025",
+ "condition": null,
+ "reference": "BUT THEY ARE JUST SHUTTING UP",
+ "audio_seconds": 2.24,
+ "created_at": "2026-07-05T23:58:31+00:00",
+ "failed": false,
+ "text": "But they are just shutting up!",
+ "seconds": 0.623
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__142185_2",
+ "condition": "white_noise_6",
+ "reference": "It is a psychological problem. You need psychoanalysis. Diabetes is to be ruled out. With these steps, your problem will be resolved.",
+ "audio_seconds": 8.96,
+ "created_at": "2026-07-06T03:09:00+00:00",
+ "failed": false,
+ "text": "It is a psychological problem; you need psychoanalysis. Diabetes is to be ruled out. With these steps, your problem will be resolved.",
+ "seconds": 5.419
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__417534_2",
+ "condition": "background_noise_20",
+ "reference": "At this age, your problem seems physiological. Kindly mention the approximate dimensions of the swelling.",
+ "audio_seconds": 6.74,
+ "created_at": "2026-07-06T04:14:34+00:00",
+ "failed": false,
+ "text": "At this age, your problem seems physiological. Kindly mention the approximate dimensions of the swelling.",
+ "seconds": 0.279
+}

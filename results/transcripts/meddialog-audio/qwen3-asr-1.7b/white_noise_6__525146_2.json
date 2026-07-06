@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__525146_2",
+ "condition": "white_noise_6",
+ "reference": "Please get examined by a doctor or surgeon as they appear to be hemorrhoids according to your symptoms. It may be warts. Please avoid constipation.",
+ "audio_seconds": 8.62,
+ "created_at": "2026-07-06T05:40:22+00:00",
+ "failed": false,
+ "text": "Please get examined by a doctor or surgeon as they appear to be hemorrhoids, according to your symptoms. Inadequate work. Please avoid constipation.",
+ "seconds": 0.321
+}

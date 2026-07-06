@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__786594_1",
+ "condition": "background_noise_20",
+ "reference": "I got married four months ago. My periods became regular after marriage, but this month I had severe pain during the first day, and the blood was quite brown in color and changed gradually. However, my period lasted just for two days. I do not know why. My husband and I are having regular sexual intercourse. How can I get pregnant, and could these be symptoms of pregnancy? Otherwise, how can I find out?",
+ "audio_seconds": 26.97,
+ "created_at": "2026-07-06T04:16:10+00:00",
+ "failed": false,
+ "text": "i got married four months ago my periods became regular after marriage but this month i had severe pain during the first day and the blood was quite brown in color and changed gradually however my period lasted just for two days i do not know why my and i are having regular sexual intercourse how can i get pregnant and could these be symptoms of pregnancy otherwise how can i find out",
+ "seconds": 1.056
+}

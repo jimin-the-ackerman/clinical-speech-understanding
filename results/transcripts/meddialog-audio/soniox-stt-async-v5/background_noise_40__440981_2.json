@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__440981_2",
+ "condition": "background_noise_40",
+ "reference": "There could be many reasons for the pain, such as a cyst, an old injury, synovial bursitis, and what I suspect is a hamstring strain. However, without being evaluated, I cannot be sure of that, so you need to see a physiotherapist or orthopedic doctor. Until then, give your leg rest and do not try to strain that part by repeatedly doing the same movement, such as cross sitting. Also, using a knee cap or a crepe bandage can help to some extent while walking. I hope you find this useful. If you need any help, you can revert back.",
+ "audio_seconds": 35.41,
+ "created_at": "2026-07-06T02:51:09+00:00",
+ "failed": false,
+ "text": "There could be many reasons for the pain, such as a cyst, an old injury, synovial bursitis, and what I suspect is a hamstring strain; however, without being evaluated, I cannot be sure of that, so you need to see a physiotherapist or orthopedic doctor. Until then, give your leg rest, and do not try to strain that part repeatedly doing the same movement, such as cross-sitting. Also, using a kneecap or a cray bandage can help to some extent while walking. I hope you find this useful; if you need any help, you can revert back.",
+ "seconds": 6.037
+}

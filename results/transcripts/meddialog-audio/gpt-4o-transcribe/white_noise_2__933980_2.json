@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__933980_2",
+ "condition": "white_noise_2",
+ "reference": "Hi. Are there any other associated symptoms like nausea, vomiting, fever, loose motion, or similar? This can be due to an infection of the liver, gall bladder, or colon on that side. You need a high-resolution ultrasonography to know what is going on inside and to take a course of antibiotics if necessary. Depending on the reports of the ultrasonography, you may need surgery.",
+ "audio_seconds": 21.67,
+ "created_at": "2026-07-06T00:47:04+00:00",
+ "failed": false,
+ "text": "はい。アグラニアドアとしているけんなんか言葉が入らんそうじゃけんね。SBTの話も含めて話してって言われたけどさ、二人の話は面白いわけじゃん。結構それに引っかかりやすくなって。ちなみにもう一つ同時にできるミニシリーズ。",
+ "seconds": 1.258
+}

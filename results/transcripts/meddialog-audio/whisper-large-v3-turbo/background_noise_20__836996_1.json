@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__836996_1",
+ "condition": "background_noise_20",
+ "reference": "I have a large lump in my lower left back. It doesn't hurt all the time, but when I exercise, like do sit-ups or walk up stairs, it hurts pretty badly. My left leg has actually collapsed from underneath me a couple of times. This has been going on for a couple of years. What is it?",
+ "audio_seconds": 18.01,
+ "created_at": "2026-07-06T04:40:42+00:00",
+ "failed": false,
+ "text": "I have a large lump in my lower left back. It doesn't hurt all the time, but when I exercise, like do sit-ups or walk upstairs, it hurts pretty badly. My left leg has actually collapsed from underneath me a couple of times. This has been going on for a couple of s- What is it?",
+ "seconds": 0.255
+}

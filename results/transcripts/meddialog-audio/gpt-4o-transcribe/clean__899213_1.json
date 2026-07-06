@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__899213_1",
+ "condition": "clean",
+ "reference": "My eight-year-old grandson is having fairly severe pain in his left abdomen. My email is yyyy@yyyy. Sorry, I just noticed I have to pay to get information. I tried on the WebMD page to describe the area, but it wouldn't let me, and then it gave distorted answers that you can read. No worries, I might need to take him to the hospital if this heating pad doesn't help.",
+ "audio_seconds": 22.36,
+ "created_at": "2026-07-06T00:45:33+00:00",
+ "failed": false,
+ "text": "My eight-year-old grandson is having fairly severe pain in his left abdomen. My email is yeabaptist2 noticed I have to pay to get information. I tried on the WebMD page to describe the area, but it wouldn't let me, and then it gave distorted answers that you can read. No worries, I might need to take him to the hospital if this heating pad doesn't help.",
+ "seconds": 1.346
+}

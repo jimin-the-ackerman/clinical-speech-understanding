@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__753518_1",
+ "condition": "background_noise_20",
+ "reference": "I have been having severe pain in my muscles with some swelling. One arm, in particular, was swollen and painful, making me think I had a spider bite. Then, the second day, all of the muscles in my extremities were hurting. I went to urgent care, tested negative for influenza, but a urinalysis showed that I have blood in my urine. I am waiting for the results of a blood workup. This morning, I started having severe pain in the lower back on the right side. This is along with the aching pain in my muscles. Lying down and taking ibuprofen helps. What do you think this is?",
+ "audio_seconds": 36.61,
+ "created_at": "2026-07-06T05:18:24+00:00",
+ "failed": false,
+ "text": "I have been having severe pain in my muscles with some swelling. One arm in particular was swollen and painful, making me think I had a spider bite. Then the second day, all of the muscles in my extremities were hurting. I went to urgent care, tested negative for influenza, but a urinalysis showed that I have blood in my urine. I am waiting for the results of a blood workup. This morning, I started having severe pain in the lower back on the right side. This is along with the aching pain in my muscles. Lying down and taking ibuprofen helps. What do you think this is?",
+ "seconds": 1.188
+}

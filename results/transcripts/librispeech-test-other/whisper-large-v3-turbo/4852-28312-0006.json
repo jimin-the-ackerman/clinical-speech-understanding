@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28312-0006",
+ "condition": null,
+ "reference": "LITTLE TUFTS OF WHITE FUZZ ABOVE THE EARS WERE ALL THAT REMAINED OF THE ANTIQUARIAN'S HAIR BUT WHAT DREW AND HELD CHRIS'S GAZE WERE THE OLD MAN'S EYES",
+ "audio_seconds": 11.8,
+ "created_at": "2026-07-05T13:12:01+00:00",
+ "failed": false,
+ "text": "little tufts of white fuzz above the ears were all that remained of the antiquarian's hair but what drew and held chris gaze were the old man's eyes",
+ "seconds": 0.13
+}

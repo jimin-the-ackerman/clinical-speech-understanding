@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-35475-0006",
+ "condition": null,
+ "reference": "ONE NIGHT AS HE LAY IN A DEEP FOREST TOO UNHAPPY TO SLEEP HE HEARD A NOISE NEAR AT HAND IN THE BUSHES",
+ "audio_seconds": 7.22,
+ "created_at": "2026-07-05T13:11:39+00:00",
+ "failed": false,
+ "text": "one night as he lay in a deep forest too unhappy to sleep he heard a noise near at hand in the bushes",
+ "seconds": 0.118
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__676713_1",
+ "condition": "background_noise_20",
+ "reference": "My wife's blood pressure has bottomed out. She is lying in a tub of cool water and then hot water. She is very weak. She says she is feeling a little better. She went to the toilet, and I have never seen so much stool. She has been sipping water. It was very scary for a little bit.",
+ "audio_seconds": 16.13,
+ "created_at": "2026-07-06T00:42:25+00:00",
+ "failed": false,
+ "text": "My wife's blood pressure has bottomed out. She is lying in a tub of cool water and then hot water. She is very weak. She says she is feeling a little better. She went to the toilet and I have never seen so much stool. She has been sipping water. It was very scary for a little bit.",
+ "seconds": 1.153
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__971415_1",
+ "condition": "background_noise_20",
+ "reference": "I have never been to the dentist. I had one bad tooth that went into my inner ear and messed up my balance. I was not myself after that. I could not work out anymore because my muscles did not work the same; they did not work together like they are supposed to, leaving me uneven. I was badly stressed out, and then it led to issues with my genitals. They go up and down repeatedly. I can't describe all of it, but now it feels like I have blue balls. I have been suffering. Is this even possible? My ears pop and crackle all the time, and I have stuffed sinuses and infections like I have allergies. I don't please help me. No doctor can give me any good advice. Thank you for your time.",
+ "audio_seconds": 44.71,
+ "created_at": "2026-07-06T02:49:38+00:00",
+ "failed": false,
+ "text": "I have never been to the dentist. I had one bad tooth that went into my inner ear and messed up my balance. I was not myself after that. I could not work out anymore because my muscles did not work the same. They did not work together like they are supposed to, leaving me uneven. I was badly stressed out, and then it led to issues with my genitals. They go up and down repeatedly. I can't describe all of it, but now it feels like I have blue balls. I have been suffering. Is this even possible? My ears pop and crackle all the time, and I have stuffed sinuses and infections like I have allergies. I don't please help me. No doctor can give me any good advice. Thank you for your time.",
+ "seconds": 5.29
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__476096_2",
+ "condition": "background_noise_60",
+ "reference": "one. Bleeding disorder two. Renal calculi three. Injury four. Leukemia five. Aplastic anemia. If it is due to injury, please give intravenous tranexamic acid, proper antibiotics, ensure increased fluid intake, and rest.",
+ "audio_seconds": 16.73,
+ "created_at": "2026-07-06T04:42:57+00:00",
+ "failed": false,
+ "text": "1. Bleeding Disorder 2. Renal Calculi 3. Injury 4. Leukemia 3. Aplastic anemia. If it is due to injury, please build intravenous tramexamic acid. Proper antibiotics. Ensure increased fluid intake and rest.",
+ "seconds": 0.199
+}

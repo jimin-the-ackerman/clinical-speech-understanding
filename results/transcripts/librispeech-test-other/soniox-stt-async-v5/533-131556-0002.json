@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131556-0002",
+ "condition": null,
+ "reference": "THE WORD STARES ME IN THE FACE LIKE A GUILTY CONFESSION BUT IT IS TRUE I HATE HIM I HATE HIM",
+ "audio_seconds": 7.96,
+ "created_at": "2026-07-06T02:28:43+00:00",
+ "failed": false,
+ "text": "The word stares me in the face like a guilty confession, but it is true: I hate him, I hate him.",
+ "seconds": 4.614
+}

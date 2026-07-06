@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__839142_1",
+ "condition": "background_noise_40",
+ "reference": "Okay, I am seventeen years old and I have this nerve issue going on in my legs. I cannot feel them very well. If I take a sharp tool or something, I can feel it, but not as much as I should be able to feel it. It should hurt, but I only feel a dull, soft pinch on my leg. Is this a blood clot or something? I would like to know if it is serious.",
+ "audio_seconds": 27.65,
+ "created_at": "2026-07-06T04:56:35+00:00",
+ "failed": false,
+ "text": "Okay. I am seventeen years old, and I have this nerve issue going on in my eyes. I cannot feel anything. If I take a sharp tool or something, I can feel it, but not as much as I should be able to feel it. It should hurt, but I need dull, soft things on me. Is this a blood clot or something? I would like to know if it is serious.",
+ "seconds": 0.766
+}

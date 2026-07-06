@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__412974_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, I have been unwell since last week with sinusitis. I still have it and do not seem to be getting any better. I also have a cough and my back feels like it has been kicked in. Can you offer any advice? I am taking regular paracetamol and non-steroidal anti-inflammatory drugs as I am having a lot of headaches, etc.",
+ "audio_seconds": 21.85,
+ "created_at": "2026-07-06T04:29:44+00:00",
+ "failed": false,
+ "text": "Hi, I have been unwell since last week with sinusitis, I still have it and do not seem to be getting any better, I also have a cough and my back feels like it has been kicked in for any advice, I am taking regular paracetamol and non-steroidal anti-inflammatory drugs as I am having a lot of headaches etc.",
+ "seconds": 0.615
+}

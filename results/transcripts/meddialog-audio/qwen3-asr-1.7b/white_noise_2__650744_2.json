@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__650744_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. Swollen feet and ankles could be caused by arthritis, which could have many causes such as rheumatoid arthritis or gout. Additionally, stress fractures in the foot could be a cause. I advise you to see an orthopedic surgeon and undergo the necessary X-rays and other investigations, such as serum uric acid testing, if necessary. Avoid bearing weight on that foot and use crutches to help you get around. You can wrap an elastic non-adhesive bandage around the ankle and foot in a figure-eight position and keep the foot elevated for relief from pain and swelling. Take anti-inflammatory medicine, such as a two hundred milligram tablet of ibuprofen twice a day with a meal for pain relief.",
+ "audio_seconds": 43.26,
+ "created_at": "2026-07-06T05:37:11+00:00",
+ "failed": false,
+ "text": "Hello, swollen feet and ankles could be caused by arthritis, which could have many causes such as rheumatoid arthritis or gout. Additionally, stress fractures in the foot could be a cause. I advise you to see an orthopedic surgeon and undergo the necessary X-rays and other investigations, such as serum uric acid testing, if necessary. Avoid bearing weight on that foot, and use crutches to help you get around. You can wrap an elastic, non-adhesive bandage around the ankle and foot in a figure-eight position, and keep the foot elevated for pain and swelling. Take anti-inflammatory medicine, such as a 200 milligram tablet of ibuprofen twice a day with a meal for pain relief.",
+ "seconds": 1.351
+}

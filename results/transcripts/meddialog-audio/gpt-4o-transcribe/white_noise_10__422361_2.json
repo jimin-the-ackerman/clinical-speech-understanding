@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__422361_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, you can increase the time spent in foreplay and concentrate on mutual interests between partners. Find out what you each prefer from one another and try to have a slow but steady arousal. Involve yourself in more emotional conversations along with addressing physical needs.",
+ "audio_seconds": 15.53,
+ "created_at": "2026-07-06T00:45:51+00:00",
+ "failed": false,
+ "text": "For a moment she had no idea.",
+ "seconds": 0.459
+}

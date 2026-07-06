@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__313487_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, welcome to the clinic. You have not mentioned the problem that you have in the spinal cord. If this occurred because of the accident, then this needs to be further investigated, and the best option would be a magnetic resonance imaging test. Until then, the pain can be managed with acetaminophen tablets and diclofenac tablets three times a day. I hope this helps.",
+ "audio_seconds": 23.3,
+ "created_at": "2026-07-06T05:20:28+00:00",
+ "failed": false,
+ "text": "Hello, welcome to the clinic. You have not mentioned the problem that you have in the spinal cord. If this occurred because of the accident, then this needs to be further investigated, and the best option would be a magnetic resonance imaging test. Until then, the pain can be managed with acetaminophen tablets and diclofenac tablets three times a day. I hope this helps.",
+ "seconds": 0.748
+}

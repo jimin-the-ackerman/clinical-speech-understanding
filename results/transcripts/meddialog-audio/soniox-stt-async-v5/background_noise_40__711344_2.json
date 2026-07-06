@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__711344_2",
+ "condition": "background_noise_40",
+ "reference": "In infancy, the liver is normally palpable. It is pathological only if the liver span or its actual size is increased. As you mentioned, Mycoplasma infection can cause respiratory symptoms, which can result in a displaced liver, making it palpable. Therefore, unless there is visible jaundice or high-colored stools or clay-colored stools, you need not worry. Repeated vomiting and loss of appetite can be symptoms of hepatitis. I would suggest an abdominal ultrasound and liver function tests to rule out liver pathology.",
+ "audio_seconds": 30.12,
+ "created_at": "2026-07-06T02:52:08+00:00",
+ "failed": false,
+ "text": "In infancy, the liver is normally palpable; it is pathological only if the liver span or its actual size is increased. As you mentioned, mycoplasma infection can cause respiratory symptoms, which can result in a displaced liver, making it palpable. Therefore, unless there is visible jaundice or high-colored stools or clay-colored stools, you need not worry. Repeated vomiting and loss of appetite can be symptoms of hepatitis. I would suggest an abdominal ultrasound and liver function test to rule out liver pathology.",
+ "seconds": 6.033
+}

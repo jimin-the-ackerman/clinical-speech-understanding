@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__501574_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, it has been a year since my dad had an angioplasty. Sometimes he can walk even half a kilometer without getting tired, but most of the time he gets completely exhausted within one hundred meters and cannot walk any further. There seems to be no reason why he is tired on some days and not on others. He was a heavy smoker before his heart attack. He is on medications and is diabetic. His other levels are normal except for the high-density lipoprotein, which is thirty-five. I suspect he has developed more blockages. Is it possible?",
+ "audio_seconds": 31.66,
+ "created_at": "2026-07-06T04:18:56+00:00",
+ "failed": false,
+ "text": "Hi, it has been a year since my dad had an angioclast pain. Sometimes he can walk even half a kilometer without getting tired, but most of the time he gets completely exhausted within 100 meters and cannot walk any further, being the reason why he is tired on some days and not on others. He was a heavy smoker before his heart attack. He is on medications and is diabetic. His other levels are normal except for the high-density lipoprotein, which is 35. I suspect he has developed more blockages. Is it possible?",
+ "seconds": 1.04
+}

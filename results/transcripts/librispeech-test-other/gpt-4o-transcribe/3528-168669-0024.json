@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0024",
+ "condition": null,
+ "reference": "FATHER FAUVENT REVEREND MOTHER",
+ "audio_seconds": 3.2,
+ "created_at": "2026-07-05T23:54:49+00:00",
+ "failed": false,
+ "text": "Father Fervent, Reverend Mother.",
+ "seconds": 0.753
+}

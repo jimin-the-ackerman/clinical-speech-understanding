@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__685253_2",
+ "condition": "background_noise_60",
+ "reference": "First, you should do some investigations to rule out organic causes for tremor, such as thyroid function and liver function. Then, if those results are normal, you should consider familial causes if there is a family history of tremor. If there is no organic cause, then you can manage it with Propranolol ten milligrams twice a day.",
+ "audio_seconds": 19.54,
+ "created_at": "2026-07-06T05:25:46+00:00",
+ "failed": false,
+ "text": "First, you should do some investigations to rule out organic causes for tremor, such as thyroid function and liver function. Then, if those results are normal, you should consider familial causes if there is a family history of tremor. If there is no organic cause, then you can manage it with propranolol 10 milligrams twice a day.",
+ "seconds": 0.72
+}

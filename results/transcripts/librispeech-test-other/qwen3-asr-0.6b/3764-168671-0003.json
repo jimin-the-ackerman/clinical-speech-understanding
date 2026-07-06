@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168671-0003",
+ "condition": null,
+ "reference": "BEHIND IT CAME AN OLD MAN IN THE GARMENTS OF A LABORER WHO LIMPED ALONG",
+ "audio_seconds": 5.82,
+ "created_at": "2026-07-06T03:18:44+00:00",
+ "failed": false,
+ "text": "Behind it came an old man in the garments of a laborer, who limped along.",
+ "seconds": 0.209
+}

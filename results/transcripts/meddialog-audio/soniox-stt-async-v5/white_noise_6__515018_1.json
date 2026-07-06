@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__515018_1",
+ "condition": "white_noise_6",
+ "reference": "Hello, my five-year-old daughter passed gas this evening, and both times resulted in a discharge from her bottom. The first discharge was clear with some white specks in it, and the second was like clear jelly. Can you advise what this is and what causes it? She has developed a blocked nose today and has recently completed a course of penicillin for tonsillitis.",
+ "audio_seconds": 20.05,
+ "created_at": "2026-07-06T03:10:24+00:00",
+ "failed": false,
+ "text": "Hello. My 5-year-old daughter caught gastritising, and both times resulted in a discharge from her bottom. The first discharge was clear with some white specimen, and the second was like clear jelly. Can you advise what this is and what causes it? She has developed a blocked nose today and has recently completed a course of penicillin for tonsillitis.",
+ "seconds": 5.652
+}

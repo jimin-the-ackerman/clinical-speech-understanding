@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-142836-0004",
+ "condition": null,
+ "reference": "IF YOU DIP THE FINGER INTO THE SYRUP AND APPLY IT TO THE THUMB THE TENACITY OF THE SYRUP WILL ON SEPARATING THE FINGER AND THUMB AFFORD A THREAD WHICH SHORTLY BREAKS THIS IS THE LITTLE THREAD",
+ "audio_seconds": 11.1,
+ "created_at": "2026-07-05T23:55:00+00:00",
+ "failed": false,
+ "text": "If you dip the finger into the syrup and apply it to the thumb, the tenacity of the syrup will, on separating the finger and thumb, afford a thread, which shortly breaks. This is the little thread.",
+ "seconds": 0.955
+}

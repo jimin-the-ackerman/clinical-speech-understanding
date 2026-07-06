@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__122532_2",
+ "condition": "white_noise_2",
+ "reference": "A shadow on a kidney ultrasound usually means a calcification, like a kidney stone. A computed tomography scan will really highlight what is causing it, and that would be the next step.",
+ "audio_seconds": 11.61,
+ "created_at": "2026-07-06T05:08:08+00:00",
+ "failed": false,
+ "text": "A shadow on a kidney ultrasound usually means a calcification, like a kidney stone. A computed tomography scan will really highlight what is causing it, and that would be the next step.",
+ "seconds": 0.373
+}

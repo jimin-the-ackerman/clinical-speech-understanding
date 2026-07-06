@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__402654_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, since your child has had abdominal pain for five months, the possibility of a chronic infection like tuberculosis is very likely. Additionally, renal stones or a urinary tract infection can also cause chronic abdominal pain. The swollen lymph nodes point to an infectious cause. If I were treating you, I would recommend some investigations such as a complete blood count with erythrocyte sedimentation rate, Mantoux test, urine routine microscopy and culture, ultrasound of the abdomen, and X-ray of the kidneys, ureters, and bladder. I suggest you conduct the above investigations as soon as possible since they are necessary for diagnosis. I hope this has helped you. If you have any more questions, I will be happy to help you.",
+ "audio_seconds": 44.63,
+ "created_at": "2026-07-06T05:05:27+00:00",
+ "failed": false,
+ "text": "Hi, since society has a dominant opinion to find out the possibility of a chronic infection, makes it a global concern very much. Additionally, human beings are urinary tract infections, also have a germ infection. A urinary infection can cause pain and have to stop. If I was treating you, other recommendations would be: that for the complete blood count with a regular white blood count, a complete blood count, urinary tract infection, infection of the abdomen, and X ray of the kidneys, urine looking drop. I suggest to conduct the above investigation between the hospital since they are necessary to diagnose. What is the procedure? If you have any more questions, I would be happy to help you.",
+ "seconds": 1.21
+}

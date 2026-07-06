@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__247594_2",
+ "condition": "clean",
+ "reference": "Hi, I read your question. A one year and five month old baby can take anything. You are giving Isomil milk powder. You can try cow's milk or buffalo milk instead of milk powder. If any are taken, then use Lactogen from the Nestlé company. My advice to you is to try direct milk instead of milk powder. If she does not take it, then add some sugar or health powder like Horlicks or Bournvita.",
+ "audio_seconds": 21.59,
+ "created_at": "2026-07-06T04:25:22+00:00",
+ "failed": false,
+ "text": "Hi, I read your question. A one-year and five-month-old baby can take anything. You are giving isomilk milk powder. You can try cow's milk or buffalo milk instead of milk powder. If any are taken, then use lactogen from the Nestle company. My advice to you is to try direct milk instead of milk powder. She does not take it, then add some sugar or health powder like Horlicks or Born Vita.",
+ "seconds": 0.814
+}

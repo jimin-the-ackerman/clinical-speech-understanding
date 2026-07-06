@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__804505_1",
+ "condition": "clean",
+ "reference": "Hi, I see I am having black spots, kind of moles, on my body, and they appear to be increasing. I have two-three on my face and many on my body. Is there any way to remove them at home using natural methods? I suspect it to be dermatosis papulosa nigra from browsing the internet.",
+ "audio_seconds": 18.43,
+ "created_at": "2026-07-06T00:45:26+00:00",
+ "failed": false,
+ "text": "Hi, I see I am having black spots, kind of mole body, and they appear to be increasing. I have two three on my face and many on my body. Is there any way to remove them at home using natural methods? I suspect it to be Dermatosis Papulosa Nigra from browsing the internet.",
+ "seconds": 1.222
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__220294_1",
+ "condition": "white_noise_6",
+ "reference": "Hello. Can my girlfriend become pregnant if we did not have sexual intercourse and she is a virgin? We only had foreplay, and she performed oral sex on me, so the pre-ejaculatory fluid must have been washed away. I did not touch her with pre-ejaculatory fluid. Yes, I fingered her, but with clean fingers. She had her period, and it was regular, although she normally has late periods.",
+ "audio_seconds": 24.66,
+ "created_at": "2026-07-06T04:36:17+00:00",
+ "failed": false,
+ "text": "Hello? Can my girlfriend become pregnant if we did not have sexual intercourse and she is a virgin? We only had foreplay, and she performed oral sex on me, so the pre-ejaculatory fluid must have been washed away. I did not touch her with pre-ejaculatory fluid. Yes, I fingered her, but with clean fingers. She had her periods, and it was regular, although she normally has late periods.",
+ "seconds": 0.713
+}

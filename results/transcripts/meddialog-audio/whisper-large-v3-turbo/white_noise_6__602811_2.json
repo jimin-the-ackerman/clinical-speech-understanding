@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__602811_2",
+ "condition": "white_noise_6",
+ "reference": "Do a urine pregnancy test in front of you and check the result, or go for an ultrasound whichever is convenient. The implant may dislodge.",
+ "audio_seconds": 7.94,
+ "created_at": "2026-07-06T04:48:54+00:00",
+ "failed": false,
+ "text": "Do a urine pregnancy test in front of you and check the results, or go for an ultrasound whichever is convenient, the implant may dislodge.",
+ "seconds": 0.198
+}

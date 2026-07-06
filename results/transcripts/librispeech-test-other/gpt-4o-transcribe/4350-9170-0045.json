@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-9170-0045",
+ "condition": null,
+ "reference": "I AM EXPECTED FOR THE SAKE OF THE STATE TO MAKE THESE SACRIFICES TO RENOUNCE EVERYTHING THAT CAN BE PRECIOUS TO MAN PEACE FAMILY SECURITY AND HUMAN DIGNITY",
+ "audio_seconds": 8.62,
+ "created_at": "2026-07-05T23:56:06+00:00",
+ "failed": false,
+ "text": "I'm expected for the sake of the State to make these sacrifices—to renounce everything that can be precious to man: peace, family, security, and human dignity?",
+ "seconds": 0.853
+}

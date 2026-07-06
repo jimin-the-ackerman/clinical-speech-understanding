@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__409531_1",
+ "condition": "clean",
+ "reference": "I started with tuberculosis medication by mistake, and it was later determined that I had germinoma, which was cured by chemotherapy and radiation. However, since that point, I have been suffering from side effects like hand shivering, loss of grip, and facing difficulty while walking. Recently, I also experienced seizures.",
+ "audio_seconds": 18.94,
+ "created_at": "2026-07-06T04:26:04+00:00",
+ "failed": false,
+ "text": "I started with tuberculosis medication by mistake, and it was later determined that I had Germanoma, which was cured by chemotherapy and radiation. However, since that point, I have been suffering from side effects like hand shivering, loss of grip, and facing difficulty while walking. Recently, I also experienced seizures.",
+ "seconds": 0.559
+}

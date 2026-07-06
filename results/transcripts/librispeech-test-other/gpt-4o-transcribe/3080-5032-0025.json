@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5032-0025",
+ "condition": null,
+ "reference": "I HAVE BEEN STUDYING HOW TOM CHEEKE MIGHT COME BY HIS INTELLIGENCE AND I VERILY BELIEVE HE HAS IT FROM MY COUSIN PETERS",
+ "audio_seconds": 9.1,
+ "created_at": "2026-07-05T23:54:33+00:00",
+ "failed": false,
+ "text": "I have been studying how Tom Cheek might come by his intelligence, and I verily believe he has it from my cousin Peter's.",
+ "seconds": 0.783
+}

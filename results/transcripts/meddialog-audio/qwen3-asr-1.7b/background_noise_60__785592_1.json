@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__785592_1",
+ "condition": "background_noise_60",
+ "reference": "My son is twelve years old. He has had knee pain for about four months now. The pain is below the kneecap. I have taken him to the doctor five times for the pain. He has had no X-rays or tests. They just keep telling me it is a sports injury and that it will get better in time. He has started limping in the past week, with a knot and swelling below the kneecap. I am so frustrated right now. Could you please tell me what this could be other than a sports injury?",
+ "audio_seconds": 24.75,
+ "created_at": "2026-07-06T05:26:11+00:00",
+ "failed": false,
+ "text": "Son is 12 years old. He has had knee pain for about four months. Pain is below the kneecap. I have taken him to the doctor five times for pain. He has had no X-rays or tests. They just keep telling me it is a sports injury and that it will get better in time. He has started limping in the past week with a knot and swelling below the kneecap. I'm so frustrated right now. Could you please tell me what this could be other than a sports injury?",
+ "seconds": 1.0
+}

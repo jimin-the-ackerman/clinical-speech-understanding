@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__100096_1",
+ "condition": "clean",
+ "reference": "I have a dull pain behind my left collarbone when coughing. I have asthma and have had a virus for a couple of weeks. I have been coughing quite a bit, and it seems to be not very productive. The pain usually comes after a breathing treatment. Is it a pulled muscle or something worse?",
+ "audio_seconds": 17.83,
+ "created_at": "2026-07-06T04:43:52+00:00",
+ "failed": false,
+ "text": "I have a dull pain behind my left collarbone when coughing. I have asthma and I've had a virus for a couple of weeks. I have been coughing quite a bit and it seems to be not very productive. The pain usually comes after a breathing treatment. Is it a pulled muscle or something worse?",
+ "seconds": 0.241
+}

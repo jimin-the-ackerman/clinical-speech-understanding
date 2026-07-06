@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__360651_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, you should have autoimmune and immunological tests such as antinuclear antibody, complete blood count, erythrocyte sedimentation rate, immunoglobulin M, immunoglobulin G, etc. tested. Often, colitis with joint pains is an autoimmune disorder requiring immunosuppressive agents like azathioprine, cyclophosphamide, and prednisolone. However, confirmation is necessary if it is autoimmune.",
+ "audio_seconds": 25.34,
+ "created_at": "2026-07-06T05:08:56+00:00",
+ "failed": false,
+ "text": "Hi, we should have autoimmune and immunological tests such as anti-nuclear antibody, complete blood count, retrocyst sedimentation rate, immunoglobulin M, immunoglobulin G, etc. Tested. Often, colitis with joint pains is an autoimmune disorder requiring immunosuppressive agents like azathioprine, cyclophosphamide, and prednisolone. However, confirmation is necessary if it is autoimmune.",
+ "seconds": 0.799
+}

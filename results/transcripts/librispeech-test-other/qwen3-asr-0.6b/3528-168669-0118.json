@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0118",
+ "condition": null,
+ "reference": "AT ELEVEN O'CLOCK EXACTLY I AM TO BE IN THE CHAPEL",
+ "audio_seconds": 2.87,
+ "created_at": "2026-07-06T03:17:46+00:00",
+ "failed": false,
+ "text": "At eleven o'clock exactly, I am to be in the chapel.",
+ "seconds": 0.177
+}

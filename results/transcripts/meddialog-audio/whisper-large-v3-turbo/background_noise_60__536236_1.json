@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__536236_1",
+ "condition": "background_noise_60",
+ "reference": "I recently broke a blood vessel in my breast due to an injury. The pain the following day was so severe that I had no strength and felt nauseous. Can this be severe enough to need to go to the doctor, or is it just that sensitive because it is on the breast?",
+ "audio_seconds": 13.31,
+ "created_at": "2026-07-06T04:43:05+00:00",
+ "failed": false,
+ "text": "i recently broke a blood vessel in my to an injury the pain the following day was so severe that i had no strength and felt nauseous can this be severe enough to me to go to the doctor or is it just that sensitive because it is on the breast",
+ "seconds": 0.208
+}

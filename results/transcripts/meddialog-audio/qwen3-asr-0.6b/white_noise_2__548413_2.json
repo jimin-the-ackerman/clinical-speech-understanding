@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__548413_2",
+ "condition": "white_noise_2",
+ "reference": "You seem to have a problem with anal fissures. You should try laxatives and a diet rich in fiber to avoid straining during bowel movements. Also, you can apply lignocaine gel with a steroid for pain relief. A sitz bath may also help you. Avoid spicy food. Start some exercises if you have a sedentary lifestyle. The back pain may also subside subsequently. Low-dose painkillers along with back strengthening exercises are all that you require at present.",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T05:09:51+00:00",
+ "failed": false,
+ "text": "You seem to have a problem with anal fissures. You should try laxatives and a diet rich in fiber to avoid straining during bowel movements. Also, you can apply lidocaine gel with a steroid for pain relief. A sits back may also help you. Avoid spicy food. Start some exercises if you have a sedentary lifestyle. The back pain may also subside subsequently. Low dose painkillers along with back strengthening exercises are all that you require at present.",
+ "seconds": 0.909
+}

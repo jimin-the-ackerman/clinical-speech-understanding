@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__766371_1",
+ "condition": "white_noise_10",
+ "reference": "I did an ultrasound scan, and the result shows that the abdominal organs are normal. The uterus is enlarged by subserosal echogenic masses of different sizes. The endometrium is zero point four four centimeters thick and linear. The adnexa and ovaries are normal. The cul-de-sac is free. The urinary bladder is normal, and there are uterine fibroids. Can I get pregnant?",
+ "audio_seconds": 25.09,
+ "created_at": "2026-07-06T04:31:19+00:00",
+ "failed": false,
+ "text": "I did an ultrasound scan, and the results show that the abdominal organs are normal. The uterus is enlarged by subterrasol echogenic masses of different sizes. The endometrium is 0.44 centimeters thick and linear. The adnecta and ovaries are normal. The cul-de-sac is free. The urinary bladder is normal, and there are uterine fibroids. Can I get pregnant?",
+ "seconds": 0.755
+}

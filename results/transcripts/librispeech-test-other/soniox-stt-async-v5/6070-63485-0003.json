@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-63485-0003",
+ "condition": null,
+ "reference": "SARAH AND HER BROTHER HAVING AGAIN PASSED BY THE TAPIS FRANC ARRIVED CLOSE TO THE DILAPIDATED HOUSE WHICH WAS PARTLY IN RUINS AND ITS OPENED CELLARS FORMED A KIND OF GULF ALONG WHICH THE STREET RAN IN THAT DIRECTION",
+ "audio_seconds": 16.94,
+ "created_at": "2026-07-06T02:32:05+00:00",
+ "failed": false,
+ "text": "Sarah and her brother, having again passed by the tapis franc, arrived close to the dilapidated house, which was partly in ruins, and its open cellars formed a kind of gulf along which the street ran in that direction.",
+ "seconds": 4.613
+}

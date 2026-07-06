@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168670-0046",
+ "condition": null,
+ "reference": "YOU SURELY MUST HAVE A GIMLET YOU WILL MAKE A FEW HOLES HERE AND THERE AROUND MY MOUTH AND YOU WILL NAIL THE TOP PLANK ON LOOSELY GOOD AND WHAT IF YOU SHOULD HAPPEN TO COUGH OR TO SNEEZE",
+ "audio_seconds": 12.88,
+ "created_at": "2026-07-06T03:18:40+00:00",
+ "failed": false,
+ "text": "You surely must have a gimlet. You will make a few holes here and there around my mouth, and you will nail the top plank on loosely. Good, and what if you should happen to cough or to sneeze?",
+ "seconds": 0.452
+}

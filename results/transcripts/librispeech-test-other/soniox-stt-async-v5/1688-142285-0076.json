@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0076",
+ "condition": null,
+ "reference": "MARGARET WENT AWAY VERY SAD AND THOUGHTFUL",
+ "audio_seconds": 3.84,
+ "created_at": "2026-07-05T23:59:46+00:00",
+ "failed": false,
+ "text": "Margaret went away very sad and thoughtful.",
+ "seconds": 4.502
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__142213_1",
+ "condition": "white_noise_2",
+ "reference": "I have been married for about six weeks, and my husband and I have not used any contraceptives since we have both decided we are ready to start a family. My cycle is very regular, so we assumed we might get pregnant right away. I was thinking recently that I might be pregnant, so my question is this: can rough sexual activity during the very early stages of pregnancy possibly cause a miscarriage?",
+ "audio_seconds": 24.06,
+ "created_at": "2026-07-06T05:08:13+00:00",
+ "failed": false,
+ "text": "I have been married for about six weeks, and my husband and I have not used any contraceptives since we have both decided we are ready to start a family. My cycle is very regular, so we assumed we might get pregnant right away. I was thinking recently that I might be pregnant, so my question is this: Can rough sexual activity during the very early stages of pregnancy possibly cause a miscarriage?",
+ "seconds": 0.756
+}

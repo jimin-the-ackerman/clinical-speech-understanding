@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__525051_1",
+ "condition": "background_noise_60",
+ "reference": "My seven-year-old daughter has been having a high fever for the last three days, and today I noticed that her gums are purple. She has also been complaining of a headache and had diarrhea on the first day. Is this something I should take her to the emergency room for, or should I let it run its course?",
+ "audio_seconds": 16.64,
+ "created_at": "2026-07-06T04:22:34+00:00",
+ "failed": false,
+ "text": "My seven-year-old daughter has been having a high fever for the last three days. And today, I noticed that her gums are purple. She has also been complaining of a headache and had diarrhea on the first day. Is this something I should take her to the emergency room for? Or should I let it run its course?",
+ "seconds": 0.635
+}

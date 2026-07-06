@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__542306_2",
+ "condition": "white_noise_6",
+ "reference": "Hello there. You can get yourself tested for allergies at SRL Labs. Nowadays, there is an allergy panel test that can tell you about the foods you are allergic to.",
+ "audio_seconds": 11.01,
+ "created_at": "2026-07-06T05:40:29+00:00",
+ "failed": false,
+ "text": "Hello there, you can get yourself tested for allergies at SRL Labs. Nowadays, there is an allergy panel test that can tell you about the foods you are allergic to.",
+ "seconds": 0.373
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__626690_1",
+ "condition": "white_noise_10",
+ "reference": "I fell down a flight of stairs yesterday - outside, marble type. It had been raining, and I slipped. I rolled the way down on my side, and now one side of my body hurts - shoulder, arm, and leg. It is painful to move and walk, with a stiff ankle. Should I see my general practitioner on Monday or just wait it out?",
+ "audio_seconds": 22.95,
+ "created_at": "2026-07-06T04:30:39+00:00",
+ "failed": false,
+ "text": "I fell down a tiny stage of the outside marble-type living room when I slipped. I rolled the way down on my sandwich, and now one side of my body hits. Shoulder, arm, and leg. Those ankles move and lock at the second time. What I see in general captures me right now. I just leave it out.",
+ "seconds": 0.631
+}

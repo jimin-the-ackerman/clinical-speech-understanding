@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__801432_1",
+ "condition": "white_noise_6",
+ "reference": "Dear Doctor, I missed my periods for the last three months. However, I am unmarried and not pregnant. I was suffering from polycystic ovary syndrome five years ago, and after some treatments with sustained-release metformin and an oral contraceptive, all my issues became normal. But now I suspect that it has returned. How can I get my periods back?",
+ "audio_seconds": 19.8,
+ "created_at": "2026-07-06T05:41:43+00:00",
+ "failed": false,
+ "text": "Dear doctor, I missed my periods for the last three months. However, I am unmarried and not pregnant. I was suffering from polycystic ovaries during five years ago, and after some treatments with sustained-release metformin and an oral contraceptive, all my issues became normal. But now I suspect that it has returned. How can I get my periods back?",
+ "seconds": 0.712
+}

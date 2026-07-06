@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0024",
+ "condition": null,
+ "reference": "THIS ONE'S A MIDDLING HARD LOT FOR A DUKE",
+ "audio_seconds": 2.7,
+ "created_at": "2026-07-05T23:54:24+00:00",
+ "failed": false,
+ "text": "This one's a middlin' hard lot for a duke.",
+ "seconds": 1.003
+}

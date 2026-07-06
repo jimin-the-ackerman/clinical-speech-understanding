@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0003",
+ "condition": null,
+ "reference": "IF IT HAD NOT BEEN FOR TWO THINGS I FEAR SHE NEVER WOULD HAVE STOOD A SUMMER IN TOWN BUT SYDNEY OFTEN CALLED TILL HIS VACATION CAME AND A VOLUMINOUS CORRESPONDENCE WITH POLLY BEGUILED THE LONG DAYS",
+ "audio_seconds": 12.13,
+ "created_at": "2026-07-06T03:17:15+00:00",
+ "failed": false,
+ "text": "If it had not been for two things, I fear she never would have stood a summer in town. But Sydney often called till his vacation came, and the voluminous correspondence with Polly beguiled the long days.",
+ "seconds": 0.435
+}

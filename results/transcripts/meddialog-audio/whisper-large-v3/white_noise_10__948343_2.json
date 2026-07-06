@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__948343_2",
+ "condition": "white_noise_10",
+ "reference": "You should be able to wear steel toe caps two months after the fusion; however, they may be slightly painful almost forever. You can try a bigger size shoe with pads and cotton in it. Good luck.",
+ "audio_seconds": 13.23,
+ "created_at": "2026-07-06T04:32:05+00:00",
+ "failed": false,
+ "text": "You should be able to wear shoes for about two months after the season. However, they may be slightly painful on the foot. You can try a bigger size shoe with pads and hotness. Good luck!",
+ "seconds": 0.432
+}

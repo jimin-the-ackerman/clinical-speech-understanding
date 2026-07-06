@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__246622_1",
+ "condition": "clean",
+ "reference": "My daughter had petit mal seizures from the age of eight to thirteen; however, she hasn't suffered any since then, and she is now nineteen. She is considering taking classes using lasers, and I am curious if the blinking lights of the laser could ever bring them on again, even though she outgrew them during puberty.",
+ "audio_seconds": 17.83,
+ "created_at": "2026-07-06T05:01:18+00:00",
+ "failed": false,
+ "text": "My daughter had potty malaise from the age of eight to thirteen. However, she hasn't suffered any since then, and she is now nineteen. She is considering taking classes using lasers, and I am curious if the blinking lights of the laser could ever bring them on again, even though she outgrew them during puberty.",
+ "seconds": 0.622
+}

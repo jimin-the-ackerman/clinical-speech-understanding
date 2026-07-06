@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__525756_1",
+ "condition": "white_noise_2",
+ "reference": "Dear Doctor, I was earlier diagnosed with two calculi in my left kidney, the larger one measuring five point five millimeters in the middle calyx. Both of these calculi have come out with Ayurvedic medicine. However, my latest ultrasound report indicates the presence of a cyst with calcification measuring twelve by ten millimeters in the inter-polar region. I do experience pain in my lower back on the left side whenever I exercise a little harder. Please advise.",
+ "audio_seconds": 28.07,
+ "created_at": "2026-07-06T04:34:00+00:00",
+ "failed": false,
+ "text": "Dear Doctor, I was earlier diagnosed with two calculi in my left kidney, the larger one measuring 5.5 mm in the middle calyx. Both of these calculi have come out with Ayurvedic medicine. However, my latest ultrasound report indicates the presence of a cyst with calcification measuring 12 by 10 mm in the interpolar region. I do experience pain in my lower back on the left side whenever I exercise a little harder. Please advise.",
+ "seconds": 0.734
+}

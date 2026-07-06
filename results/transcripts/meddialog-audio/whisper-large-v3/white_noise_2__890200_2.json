@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__890200_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, for what kind of allergy or seasonal attacks are you taking therapy? You haven't mentioned it. Despite this, you said you had a side effect of lichen planus. You should ask about symptoms rather than making a diagnosis yourself. That's the doctor's job. It is better for you to go to a dermatologist and show him your skin appearance. I can't comment on that. Sorry.",
+ "audio_seconds": 21.5,
+ "created_at": "2026-07-06T04:35:35+00:00",
+ "failed": false,
+ "text": "Hi. For what kind of allergy or seasonal attacks are you taking therapy? You haven't mentioned it. Despite this, you said you had a side effect of lichen planus. You should ask about symptoms rather than making a diagnosis yourself. That's the doctor's job. It is better for you to go to a dermatologist and show him your skin appearance. I can't comment on that. Sorry.",
+ "seconds": 0.717
+}

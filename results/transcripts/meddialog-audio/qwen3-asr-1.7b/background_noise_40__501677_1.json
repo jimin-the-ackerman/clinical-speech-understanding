@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__501677_1",
+ "condition": "background_noise_40",
+ "reference": "My period has been acting very abnormal lately. A week prior to bleeding, I was experiencing severe lower abdominal cramps, and I never cramp unless it is on the first day of my period, but those cramps are very bearable. My vagina was also just aching. I didn’t start when I was supposed to, and now my period is light, but the blood coming out is clotted, jelly-like, and dark black. My tampon won’t even absorb it. I was scared I was pregnant when I was late, but now I’m not sure if I should be worried about that or not. What is going on?",
+ "audio_seconds": 33.96,
+ "created_at": "2026-07-06T05:21:24+00:00",
+ "failed": false,
+ "text": "My period has been acting very abnormal. The week prior to bleeding, I was experiencing severe lower abdominal cramps, and I never cramp unless it was on the first day of my period. But those cramps are very bearable. Now the guy who was also just sleeping, I didn't sleep when I supposed to, and now my period is lighter, but the blood coming out is carmine, jelly light, and dark light. I was not reminded of anything, but I'm scared I was pregnant and miserable. But now I'm not sure if it should be one drop or not. This morning.",
+ "seconds": 1.145
+}

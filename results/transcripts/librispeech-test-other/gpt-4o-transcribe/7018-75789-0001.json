@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0001",
+ "condition": null,
+ "reference": "THEN SIGHING FOR MYSELF I SET TO WORK COLLECTING A NUMBER OF PIECES OF CHINESE AND COMORIN ALOES WOOD AND I BOUND THEM TOGETHER WITH ROPES FROM THE WRECKAGE THEN I CHOSE OUT FROM THE BROKEN UP SHIPS STRAIGHT PLANKS OF EVEN SIZE AND FIXED THEM FIRMLY UPON THE ALOES WOOD MAKING ME A BOAT RAFT A LITTLE NARROWER THAN THE CHANNEL OF THE STREAM AND I TIED IT TIGHTLY AND FIRMLY AS THOUGH IT WERE NAILED",
+ "audio_seconds": 25.39,
+ "created_at": "2026-07-05T23:57:33+00:00",
+ "failed": false,
+ "text": "Then, signed for myself, I set to work collecting a number of pieces of Chinese and Khorneran aloes-wood, and I bound them together with ropes from the wreckage. Then I chose out from the broken-up ship straight planks of even size and fixed them firmly upon the aloes-wood, making me a boat-raft a little narrower than the channel of the stream, and I tied it tightly and firmly as though it were nailed.",
+ "seconds": 1.611
+}

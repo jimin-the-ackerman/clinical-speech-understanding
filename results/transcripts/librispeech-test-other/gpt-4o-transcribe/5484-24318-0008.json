@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24318-0008",
+ "condition": null,
+ "reference": "BUT IF HE WERE DESTINED TO MEET HIS MYRTILUS AND HIS MOTHER IN THE WORLD BEYOND THE GRAVE WHAT HAD HE NOT TO TELL THEM HOW SURE HE WAS OF FINDING A JOYFUL RECEPTION THERE FROM BOTH",
+ "audio_seconds": 9.66,
+ "created_at": "2026-07-05T23:56:45+00:00",
+ "failed": false,
+ "text": "But if he were destined to meet his Bertilus and his mother in the world beyond the grave, what had he not to tell them, how sure he was of finding a joyful reception there from both?",
+ "seconds": 0.968
+}

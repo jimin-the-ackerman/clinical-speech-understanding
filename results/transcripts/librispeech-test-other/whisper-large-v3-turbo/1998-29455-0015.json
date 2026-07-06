@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0015",
+ "condition": null,
+ "reference": "POOR LITTLE MAN SAID THE LADY YOU MISS YOUR MOTHER DON'T YOU",
+ "audio_seconds": 4.01,
+ "created_at": "2026-07-05T13:09:20+00:00",
+ "failed": false,
+ "text": "poor little man said the lady you miss your mother don't you",
+ "seconds": 0.11
+}

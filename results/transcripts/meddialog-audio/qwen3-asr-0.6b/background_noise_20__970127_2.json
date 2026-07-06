@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__970127_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. The pain in your back seems to be due to a back spasm, which can be caused by various reasons. Sudden overactivity or sudden twisting can lead to this issue. Don’t worry. Keep icing your spine frequently, once every two hours for fifteen minutes. Do not force any activity on your spine; take rest. As your muscle allows, slowly stretch your lower back by bending your knees towards your chest while you are lying on your back. I hope this is helpful to you. Kindly respond back in case you need any further clarification.",
+ "audio_seconds": 33.02,
+ "created_at": "2026-07-06T04:53:13+00:00",
+ "failed": false,
+ "text": "Hello. The pain in your back seems to be due to a back spasm, which can be caused by various reasons. Sudden overactivity or sudden twisting can lead to this issue. Don't worry. Keep icing your spine frequently, once every two hours for fifteen minutes. Do not force any activity on your spine. Take rest. As your muscle allows, slowly stretch your lower back by bending your knees towards your chest while you are lying in your back. I hope this is helpful to you. Kindly respond back in case you need any further clarification.",
+ "seconds": 1.035
+}

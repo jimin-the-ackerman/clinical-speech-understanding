@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__811027_2",
+ "condition": "clean",
+ "reference": "Hello. I just read through your question. If he has full range of motion of the finger, and you do not see any swelling or bruising, and he is not in pain when you apply pressure, there is nothing to worry about. He is fine, and it is very unlikely that anything is going on.",
+ "audio_seconds": 15.36,
+ "created_at": "2026-07-06T00:45:26+00:00",
+ "failed": false,
+ "text": "Hello, I just read through your question. If he has full range of motion of the finger and you do not see any swelling or bruising and he is not in pain when you apply pressure, there is nothing to worry about. He is fine, and it is very unlikely that anything is going on.",
+ "seconds": 1.286
+}

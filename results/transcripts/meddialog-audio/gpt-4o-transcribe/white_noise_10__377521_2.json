@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__377521_2",
+ "condition": "white_noise_10",
+ "reference": "The healing process of pneumonia should not cause back pain, cold sweats, or insomnia. When a patient with pneumonia or a lower respiratory tract infection improves, symptoms such as cough, sputum, fever, and body aches alleviate, rather than new symptoms emerging. You must get checked for these new symptoms.",
+ "audio_seconds": 22.1,
+ "created_at": "2026-07-06T00:45:49+00:00",
+ "failed": false,
+ "text": "The human heart normally beats around 60 to 100 times per minute.",
+ "seconds": 0.7
+}

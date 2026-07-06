@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-278226-0008",
+ "condition": null,
+ "reference": "PHILIP JOCELYN WAS EXAMINING SOME PICTURES ON THE OTHER SIDE OF THE ROOM WHEN HIS WIFE MADE THIS DISCOVERY",
+ "audio_seconds": 6.54,
+ "created_at": "2026-07-05T13:14:56+00:00",
+ "failed": false,
+ "text": "Philip Jocelyn was examining some pictures on the other side of the room when his wife made this discovery.",
+ "seconds": 0.126
+}

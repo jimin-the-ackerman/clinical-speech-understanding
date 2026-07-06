@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0047",
+ "condition": null,
+ "reference": "WHY I COULD TIE YOU UP IN A KNOT AND HEAVE YOU OFF THE CLIFF ANY DAY WHAT A GAME",
+ "audio_seconds": 4.63,
+ "created_at": "2026-07-05T13:06:42+00:00",
+ "failed": false,
+ "text": "why i could tie you up in a knot and heave you off the cliff any day what a game",
+ "seconds": 0.245
+}

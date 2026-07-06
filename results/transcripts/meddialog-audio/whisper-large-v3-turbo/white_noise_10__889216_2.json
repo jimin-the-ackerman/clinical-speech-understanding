@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__889216_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, I think you should take some medications for the growth of your eggs and also track the follicles by ultrasound. You can identify your ovulation days and then be in contact with your husband around the ovulation time. This time, you have taken Regestrone for only two days. That is not enough. Take it for at least five days and then wait for one to two weeks. If your period does not come, you may need other medications to induce your periods.",
+ "audio_seconds": 25.34,
+ "created_at": "2026-07-06T04:46:30+00:00",
+ "failed": false,
+ "text": "Hello? I think you should take some medications for the growth of your eggs and also crack the follicles by ultrasound. You can identify your ovulation days and then be in contact with your husband around the ovulation time. This time you have taken rogesterone for only 2 days. That is not enough. Take it for at least 5 days and then wait for 1-2 weeks. If your period does not come, you may need other medications to induce your period.",
+ "seconds": 0.276
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__923002_1",
+ "condition": "white_noise_10",
+ "reference": "I have had documented herniated discs and bulging discs shown by MRI in my neck. I have had two MRIs, and the second one showed some worsening in my neck. The surgeon did not want to perform surgery just for pain, and I agree. Lately, I have experienced increased pain in my neck and left shoulder, along with an electrical current-like feeling running down my neck, which seems slightly to the left. I cannot find a comfortable position. Muscle relaxants and two Aleve tablets do not help.",
+ "audio_seconds": 27.82,
+ "created_at": "2026-07-06T04:46:34+00:00",
+ "failed": false,
+ "text": "I have had documented herniated discs and folging discs shown by MRI in my neck. I have had two MRIs, and the second one showed some worsening in my neck. The surgeon did not want to perform surgery just for pain, and I agree. Lately, I have experienced increased pain in my neck and left shoulder, along with an electrical current I feel in running down my neck, which seems slightly to the left. I cannot find that comfortable position. Muscle relaxants and two elated tablets do not help.",
+ "seconds": 0.307
+}

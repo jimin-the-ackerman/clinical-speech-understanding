@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__895242_2",
+ "condition": "background_noise_60",
+ "reference": "Your body has systems designed to close the type of hole that occurs during an ablation. An ablation is done by touching part of the heart with a catheter. The catheter produces local changes that kill the tissue. Parts of the heart are very thin, sometimes only a few millimeters. Therefore, a puncture is one of the complications that sometimes occurs and is not always avoidable. Once closed, it will heal. The pre-existing hole is unrelated to the one created by the catheter and was not likely changed, but only your doctor who performed the procedure can answer accurately.",
+ "audio_seconds": 31.23,
+ "created_at": "2026-07-06T05:26:40+00:00",
+ "failed": false,
+ "text": "Your body has systems designed to close the type of hole that occurs during an ablation. An ablation is done by touching part of the heart with a catheter. The catheter produces local changes that kill the tissue. Parts of the heart are very thin, sometimes only a few millimeters. Therefore, a puncture is one of the complications that sometimes occurs and is not always avoidable. Once closed, it will heal. The pre-existing hole is unrelated to the one created by the catheter and was not likely changed. But only your doctor who performed the procedure can answer accurately.",
+ "seconds": 1.1
+}

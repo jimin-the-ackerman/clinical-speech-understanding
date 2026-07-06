@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__650779_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, this is radiating pain from the lumbosacral region. You are not supposed to do brisk and vigorous exercises. That clicking sound is called crepitus, which is most common with your problem. Please go for an MRI of the lumbosacral spine to know the exact depth of your problem. You can start on methylcobalamin five hundred milligrams tablets twice daily and pregabalin seventy-five milligrams daily at night. You can really see the difference.",
+ "audio_seconds": 25.77,
+ "created_at": "2026-07-06T05:40:57+00:00",
+ "failed": false,
+ "text": "Hi, this is radiating pain in the lumbar disc area. You are not supposed to do work and vigorous exercise. Back pain syndrome is called cervical, which is most common with your problem. Please go for an MRI of the lumbar disc or spine to know the exact nature of the problem. You can start on methylcobalamin, 500 milligrams tablet twice daily, and prednisolone, 75 milligrams daily at night. You can use either one.",
+ "seconds": 0.936
+}

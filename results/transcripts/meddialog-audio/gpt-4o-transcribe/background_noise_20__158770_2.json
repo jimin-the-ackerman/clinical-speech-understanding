@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__158770_2",
+ "condition": "background_noise_20",
+ "reference": "Dear patient, muscle twitching is a common sign of a deficiency in serum calcium, i.e., hypocalcemia. It is also common in patients with anxiety and stress. Are you anxious or under stress? Does this twitching occur only when you are free and thinking? If yes, it's a sign of anxiety. I would like to advise checking serum calcium levels to rule out hypocalcemia. Meanwhile, start taking tablet Shelcal five hundred milligrams twice a day with tablet Calcirol sixty,zero units once a week for four weeks. A visit to your nearby physician will be helpful.",
+ "audio_seconds": 36.01,
+ "created_at": "2026-07-06T00:41:51+00:00",
+ "failed": false,
+ "text": "Dear patient, muscle twitching is a common sign of a deficiency in serum calcium, e. hypocalcemia. It is also common in patients with anxiety and stress. Are you anxious or under stress? Does this twitching occur only when you are free and thinking? Yes, it's a sign of anxiety. I would like to advise checking serum calcium levels to rule out hypocalcemia. Meanwhile, start taking tablet Shellcal 500 mg twice a day with tablet Calcile 60, 0 units once or four weeks. A visit to your nearby physician will be helpful.",
+ "seconds": 2.14
+}

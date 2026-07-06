@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131564-0025",
+ "condition": null,
+ "reference": "CRIED SHE I COULDN'T HAVE INFLUENCED HIM I'M SURE BY ANYTHING THAT I COULD HAVE SAID",
+ "audio_seconds": 6.24,
+ "created_at": "2026-07-05T13:12:22+00:00",
+ "failed": false,
+ "text": "cried she i couldn't have influenced him i'm sure by anything that i could have said",
+ "seconds": 0.123
+}

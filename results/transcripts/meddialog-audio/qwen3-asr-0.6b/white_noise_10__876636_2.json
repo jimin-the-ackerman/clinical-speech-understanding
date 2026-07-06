@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__876636_2",
+ "condition": "white_noise_10",
+ "reference": "Hi and welcome to HCM. I am sorry about such a serious disease. This is obviously a terminal stage and one of the worst cancers. Unfortunately, the prognosis is not very good; it is always hard to predict. However, you have to do everything you can, including chemotherapy, which can prolong life expectancy for three to six months. Usually, a one-year survival rate is found in less than five%. She can benefit from palliative treatment for pain, nausea, and fatigue. Everything else is not in your hands. I wish you good health.",
+ "audio_seconds": 36.86,
+ "created_at": "2026-07-06T05:07:31+00:00",
+ "failed": false,
+ "text": "Hi and welcome to HCM. I am sorry about such a serious disease, which is obviously a terminal stage in one of the worst cancers. Unfortunately, the prognosis is not very good. It is always hard to predict. However, you have to do everything you can, including chemotherapy, which can prolong life expectancy for three to six months. Usually, a one-year survival rate is found in less than five percent. You can benefit from palliative treatments for pain, nausea, and fatigue. Everything else is not in your hands. I wish you good health.",
+ "seconds": 0.996
+}

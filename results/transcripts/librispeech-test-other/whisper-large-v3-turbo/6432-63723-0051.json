@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0051",
+ "condition": null,
+ "reference": "WHY POLONIUS SOME ONE ASKED",
+ "audio_seconds": 2.25,
+ "created_at": "2026-07-05T13:13:25+00:00",
+ "failed": false,
+ "text": "Why Polonia someone asked",
+ "seconds": 0.111
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131564-0001",
+ "condition": null,
+ "reference": "MISTER AND MISSUS HATTERSLEY HAVE BEEN STAYING AT THE GROVE A FORTNIGHT AND AS MISTER HARGRAVE IS STILL ABSENT AND THE WEATHER WAS REMARKABLY FINE I NEVER PASSED A DAY WITHOUT SEEING MY TWO FRIENDS MILICENT AND ESTHER EITHER THERE OR HERE",
+ "audio_seconds": 16.07,
+ "created_at": "2026-07-05T13:12:19+00:00",
+ "failed": false,
+ "text": "mr and mrs hattersley have been seeing at the grove a fortnight and as mr hargrave is still absent and the weather was remarkably fine i never passed the day without seeing my two friends millicent and esther either there or here",
+ "seconds": 0.178
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__279185_2",
+ "condition": "background_noise_20",
+ "reference": "Yes.",
+ "audio_seconds": 1.45,
+ "created_at": "2026-07-06T04:14:07+00:00",
+ "failed": false,
+ "text": "Yes.",
+ "seconds": 0.167
+}

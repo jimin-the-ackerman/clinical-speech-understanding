@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__487585_2",
+ "condition": "background_noise_60",
+ "reference": "You can proceed with the second intrauterine insemination, but for the success of intrauterine insemination, a satisfactory follicular size is eighteen to twenty millimeters in at least one ovary.",
+ "audio_seconds": 12.71,
+ "created_at": "2026-07-06T05:24:56+00:00",
+ "failed": false,
+ "text": "You can proceed with the second intrauterine insemination, but for the success of intrauterine insemination, a satisfactory follicular size is 18 to 20 millimeters in at least one ovary.",
+ "seconds": 0.442
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163391-0004",
+ "condition": null,
+ "reference": "WHER YOU BOUND FOR YOUNG MAN",
+ "audio_seconds": 2.83,
+ "created_at": "2026-07-06T03:28:27+00:00",
+ "failed": false,
+ "text": "Where are you bound for, young man?",
+ "seconds": 0.131
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__772925_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, I have a question about coughing. I have mild allergies, so I experience itchy eyes and sneezing, but now I am starting to experience severe coughing, which mostly happens at night. When I first start coughing, it is just a few coughs here and there, but then the coughing becomes constant. When this happens, it makes my chest itch really badly and it hurts. Can someone please tell me why this is happening? I do not know if it is due to allergies or because I may have a respiratory infection.",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T00:46:04+00:00",
+ "failed": false,
+ "text": "As my boss, you might be surprised to find them speaking at such length.",
+ "seconds": 0.858
+}

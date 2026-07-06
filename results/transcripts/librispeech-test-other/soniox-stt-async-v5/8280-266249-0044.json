@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0044",
+ "condition": null,
+ "reference": "I DINKS NO I DINKS I DEACH YOU VON LESSON RETURNED HIS CAPTOR NOT RELAXING HIS GRASP IN THE LEAST",
+ "audio_seconds": 7.96,
+ "created_at": "2026-07-06T02:41:49+00:00",
+ "failed": false,
+ "text": "I thinks no, I thinks I did you a fun lesson,\" returned his captor, not relaxing his grasp in the least.",
+ "seconds": 4.806
+}

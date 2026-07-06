@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__788772_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, it is sometimes possible to experience side effects from carbon dioxide that is filled in the uterus as part of the procedure before integrity is tested. If you have completed the shedding of the ablated endometrium, as evidenced by a follow-up transvaginal sonogram, you should look for any signs of pelvic infection. The tiredness and dizziness are likely to be part of the general weakness caused by overall malnutrition. Yet, it is imperative that you have a physician visit to check for other possible sources. Constipation can be relieved by increasing the intake of fiber in the diet, along with lactulose to facilitate easy passage. I hope this helps.",
+ "audio_seconds": 36.44,
+ "created_at": "2026-07-06T04:19:57+00:00",
+ "failed": false,
+ "text": "Hello. It is sometimes possible to experience side effects from carbon dioxide that is filled in the uterus as part of the procedure before integrity is tested. If you have completed the shedding of the ablated endometrium, as evidenced by a follow-up transvaginal sonogram, you should look for any signs of pelvic infection. The tiredness and dizziness are likely to be part of the general weakness caused by overall malnutrition. Yet, it is imperative that you have a physician visit to check for other possible sources. Constipation can be relieved by increasing the intake of fiber in the diet, along with lactulose to facilitate easy passage. I hope this helps.",
+ "seconds": 1.106
+}

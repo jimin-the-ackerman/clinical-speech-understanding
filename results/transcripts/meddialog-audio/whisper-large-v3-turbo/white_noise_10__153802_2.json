@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__153802_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, I understand your concerns. Looking at your sonography, it appears normal. I think you will not have any problem conceiving, as one ovary appears to have a follicle that can ovulate, and your endometrial thickness is within the normal range. Continue your follicular study and get back to us.",
+ "audio_seconds": 16.9,
+ "created_at": "2026-07-06T04:45:22+00:00",
+ "failed": false,
+ "text": "Hi, I understand your concern. Looking at your sonography? It appears normal. I think you will not have any problems with you, as one ovary appears to have a follicle that's not good, and your endometrial sickness seems to be the immortal meaning. Continue your follicle ascending and get back to it.",
+ "seconds": 0.211
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__827120_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. A chocolate cyst can sometimes rupture, leading to life-threatening peritonitis; therefore, surgical removal is the best option. The surgery involves the removal of the affected ovaries only, and as a result, you will not have any reproductive problems. All the best.",
+ "audio_seconds": 15.7,
+ "created_at": "2026-07-06T03:03:57+00:00",
+ "failed": false,
+ "text": "Hello. A chocolate cyst can sometimes rupture, leading to life-threatening peritonitis; therefore, surgical removal is the best option. The surgery involves a removal of the affected ovaries only, and as a result, you will not have any reproductive problems—all the best.",
+ "seconds": 5.0
+}

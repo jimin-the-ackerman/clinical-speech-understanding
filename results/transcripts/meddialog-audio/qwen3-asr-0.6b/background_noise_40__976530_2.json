@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__976530_2",
+ "condition": "background_noise_40",
+ "reference": "All your symptoms sound like a cardiac problem. As you have not mentioned your age, it is difficult to say exactly what is causing the swelling, but any kind of disease that leads to fluid buildup in your chest can cause these types of symptoms. See a doctor urgently.",
+ "audio_seconds": 15.96,
+ "created_at": "2026-07-06T04:57:04+00:00",
+ "failed": false,
+ "text": "All this seemed to be somewhat contrived, as you have not entered the village. It is difficult to see exactly what is causing the sparrow. But any kind of disease that leads to fever will rub your chest, and cause you to sneeze. See it on the roof.",
+ "seconds": 0.545
+}

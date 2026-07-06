@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__741709_1",
+ "condition": "clean",
+ "reference": "Hello. My age is twenty-five. Last month, my periods were delayed by seven days. This month, I want to conceive as my husband returned after a long time from the United Kingdom. I really want to conceive this coming month. My cycle is thirty-three to thirty-four days every month. When is the fertility date? I got my periods on April twenty-eight. I have been taking Endogest one hundred since May five. Will it help me to conceive this month? Or should I take more tablets after the course of fifteen tablets?",
+ "audio_seconds": 32.68,
+ "created_at": "2026-07-06T05:29:51+00:00",
+ "failed": false,
+ "text": "Hello, my age is twenty-five. Last month my periods were delayed by seven days. This month I want to conceive as my husband returned after a long time from the United Kingdom. I really want to conceive this coming month. My cycle is thirty-three to thirty-four days every month. When is the fertility date? I got my periods on April twenty-eighth. I have been taking Endogest one hundred since May five. Will it help me to conceive this month, or should I take more tablets after the course of fifteen tablets?",
+ "seconds": 1.01
+}

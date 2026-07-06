@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__598216_1",
+ "condition": "white_noise_6",
+ "reference": "My husband has a back problem and has developed leg and knee pain. The knee and back pain have improved since rehabilitation. Now he is experiencing pain in the calf. A negative venous Doppler study was performed. An X-ray of the knee showed osteoarthritis with effusion. The back of his knee is bruised, and his heel is also bruised. What is going on?",
+ "audio_seconds": 23.21,
+ "created_at": "2026-07-06T05:13:42+00:00",
+ "failed": false,
+ "text": "My husband has a back problem and has developed leg and knee pain. The knee and back pain have improved since he visited. Now he is clearly being healed with X-ray. A negative knee X-ray study was performed. An X-ray of the knee showed osteoarthritis of the knee. The back of the knee is bruised and the heel is also bruised. What is going on?",
+ "seconds": 0.732
+}

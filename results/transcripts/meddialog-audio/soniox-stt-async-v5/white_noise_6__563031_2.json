@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__563031_2",
+ "condition": "white_noise_6",
+ "reference": "What you are suffering from is pain that has pathological causes. However, due to various differential diagnoses that you already know, all contribute to the pain in your bilateral lower limbs. Kindly start with mild to moderate physiotherapy and monitor your weight. The aim should be to reduce the weight you are carrying on your knees while simultaneously increasing strength in your lower body.",
+ "audio_seconds": 22.87,
+ "created_at": "2026-07-06T03:10:39+00:00",
+ "failed": false,
+ "text": "What you are suffering from is pain that has pathological causes; however, due to various differential diagnoses that you already know, all contribute to the pain in your bilateral lower limbs. Kindly start with mild to moderate physiotherapy and monitor your weight; the aim should be to reduce the weight you are carrying on your knees while simultaneously increasing strength in your lower body.",
+ "seconds": 5.058
+}

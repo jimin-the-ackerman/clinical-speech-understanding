@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__417915_2",
+ "condition": "background_noise_40",
+ "reference": "You have an ankle sprain with a possible tear of the ligaments. You need to wear a non-adhesive elastic bandage. Keep the limb elevated and apply ice. Take painkillers twice a day for five days after meals. Avoid bearing weight on that foot for two weeks. Wear basketball shoes for better protection henceforth.",
+ "audio_seconds": 18.09,
+ "created_at": "2026-07-06T04:18:34+00:00",
+ "failed": false,
+ "text": "You have an ankle sprain with a possible tear of the ligaments. You need to wear a non-adhesive elastic bandage. Keep the limb elevated and apply ice. Take painkillers twice a day for five days after meals. Avoid bearing weight on that foot for two weeks. Wear basketball shoes for better protection henceforth.",
+ "seconds": 0.623
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__605666_2",
+ "condition": "background_noise_20",
+ "reference": "The darkness is due to the pressure points over the knees, and it will not lead to permanent discoloration if proper care is taken. You can clean with a cleanser like Cetaphil and apply the same moisturizers over the area.",
+ "audio_seconds": 11.78,
+ "created_at": "2026-07-06T04:15:23+00:00",
+ "failed": false,
+ "text": "The darkness is due to the pressure points over the knees and it will not lead to permanent discoloration if proper care is taken. You can clean with a cleanser like Cetaphil and apply the same moisturizers over the area.",
+ "seconds": 0.461
+}

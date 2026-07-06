@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__219946_2",
+ "condition": "background_noise_40",
+ "reference": "Tailbone region pain is also called coccydynia. It may occur due to a fall or may occur without any trauma. Generally, it is painful during prolonged sitting or pushing stools. You should: one. Apply a sitz bath, where you immerse your whole pelvic region in a hot water tub for ten minutes twice daily. two. Use a donut-shaped pillow, which helps relieve the pressure on the coccyx, the tailbone. three. Drink plenty of water and consume a fibrous diet, so that your stool is not hard and it is easy to push during a bowel movement. four. Refer to a Physical Medicine and Rehabilitation physician with expertise in pain management. He can prescribe certain medications or perform a procedure called a ganglion impar block to relieve the pain.",
+ "audio_seconds": 43.69,
+ "created_at": "2026-07-06T04:53:54+00:00",
+ "failed": false,
+ "text": "Tailbone region pain is also called coxodinia. May occur due to a fall or may occur without any trauma. Generally, it is painful during prolonged or pushing stools. Should one, apply a sits back where you immerse your whole pelvic region in a hot water tub for ten minutes twice daily. Two, donut shaped pillow which helps relieve the pressure on the cox, the tailbone. Three, drink plenty of water and consume a fibrous diet, so that your stool is not hard and it is easy to push during a bowel move. Four, refer to a physical medicine and rehabilitation physician with expertise in pain management. He can prescribe certain medications or perform a procedure called a ganglion IPR block to relieve pain.",
+ "seconds": 1.371
+}

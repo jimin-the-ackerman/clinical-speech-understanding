@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__229204_1",
+ "condition": "white_noise_6",
+ "reference": "I bumped my forehead yesterday and today it feels very bruised to the touch, but there is no bruise showing. I also do not feel good at all, but I am not sure if I am just overtired as my husband is away on a work trip and I have been running around for the past week after my one-year-old.",
+ "audio_seconds": 15.87,
+ "created_at": "2026-07-06T00:47:11+00:00",
+ "failed": false,
+ "text": "Do not defend me, nor take my part.",
+ "seconds": 0.567
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__976530_2",
+ "condition": "background_noise_40",
+ "reference": "All your symptoms sound like a cardiac problem. As you have not mentioned your age, it is difficult to say exactly what is causing the swelling, but any kind of disease that leads to fluid buildup in your chest can cause these types of symptoms. See a doctor urgently.",
+ "audio_seconds": 15.96,
+ "created_at": "2026-07-06T05:23:21+00:00",
+ "failed": false,
+ "text": "All we seem to be smelling pretty much as we have not mentioned the cage. It is difficult to say exactly what is causing the swelling, but any kind of disease that leads to fluid buildup in the chest may cause these types of symptoms. See a doctor immediately.",
+ "seconds": 0.52
+}

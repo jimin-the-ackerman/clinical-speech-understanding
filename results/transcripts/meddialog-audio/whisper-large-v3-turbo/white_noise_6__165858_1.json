@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__165858_1",
+ "condition": "white_noise_6",
+ "reference": "Hi Doctor, I have recently started practicing rhythmic breathing for peace of mind. The practice includes proper cycles of fast and slow breathing. I have heard that such a process might lead to hyperventilation and asthma problems. Furthermore, while doing the process, I feel some tingling and vibration in my fist and forehead. I also feel a mild headache at times after the process. However, overall, the process gives me peace of mind. Should I discontinue the process? Are there any harmful effects of the same?",
+ "audio_seconds": 30.72,
+ "created_at": "2026-07-06T04:48:13+00:00",
+ "failed": false,
+ "text": "Hi, Doctor. I have recently started processing with me bleeding for peace of mind. The practice improves proper cycles of fast and silly bleeding. I have worked with such a process that leads to hazard emulation and asthma problems. Furthermore, while doing the process, I feel some tingling and vibration in my fist and forehead. I also feel a mild headache at times after the process. However, overall, the process gives me peace of mind. Should I discontinue the process? Are there any harmful effects of the same?",
+ "seconds": 0.412
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-9170-0046",
+ "condition": null,
+ "reference": "EXCEPT FOR THE STATE THEY SAY WE SHOULD BE EXPOSED TO THE ATTACKS OF EVIL DISPOSED PERSONS IN OUR OWN COUNTRY",
+ "audio_seconds": 6.17,
+ "created_at": "2026-07-06T03:32:20+00:00",
+ "failed": false,
+ "text": "Except for the state, they say, we should be exposed to the attacks of evil-disposed persons in our own country.",
+ "seconds": 0.283
+}

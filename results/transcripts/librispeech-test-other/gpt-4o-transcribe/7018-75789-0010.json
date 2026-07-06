@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0010",
+ "condition": null,
+ "reference": "WHEN IT WAS THE FIVE HUNDRED AND SIXTY SECOND NIGHT",
+ "audio_seconds": 3.68,
+ "created_at": "2026-07-05T23:57:35+00:00",
+ "failed": false,
+ "text": "When it was the five hundred and sixty-second night,",
+ "seconds": 0.745
+}

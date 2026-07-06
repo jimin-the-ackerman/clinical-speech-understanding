@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__696289_2",
+ "condition": "background_noise_20",
+ "reference": "Sciatica is usually due to nerve root compression in the lumbosacral spine. Other than gabapentin, available options are: one. tablet pregabalin two. duloxetine three. amitriptyline. If medications are not very effective, get an MRI of the lumbosacral spine done, and if there is severe nerve compression, surgery can be an option.",
+ "audio_seconds": 24.92,
+ "created_at": "2026-07-06T02:48:30+00:00",
+ "failed": false,
+ "text": "Sciatica is usually due to nerve root compression in the lumbosacral spine. Other than gabapentin, available options are: 1) tablet pregabalin, 2) duloxetine, 3) amitriptyline. If medications are not very effective, get an MRI of the lumbosacral spine done when there is severe nerve compression; surgery can be an option.",
+ "seconds": 4.831
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163391-0010",
+ "condition": null,
+ "reference": "NO MY NAME'S BLODGETT ELEXANDER BLODGETT REVEREND ELEXANDER BLODGETT I S'POSE I MUST SAY AS I'M ONE O THE LORD'S POOR SERVANTS",
+ "audio_seconds": 10.7,
+ "created_at": "2026-07-05T12:57:36+00:00",
+ "failed": false,
+ "text": "no my name's blodgett alexander blodgett reverend alexander blodgett i s'pose i must say as i'm one of the lard's poor servants you",
+ "seconds": 0.427
+}

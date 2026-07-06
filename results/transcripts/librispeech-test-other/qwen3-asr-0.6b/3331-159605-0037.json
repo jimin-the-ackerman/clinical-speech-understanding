@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0037",
+ "condition": null,
+ "reference": "NOW DON'T BE AFFECTED POLLY BUT JUST TELL ME LIKE A DEAR HAS N'T HE PROPOSED",
+ "audio_seconds": 5.68,
+ "created_at": "2026-07-06T03:17:12+00:00",
+ "failed": false,
+ "text": "Now don't be affected, Polly. But just tell me, like a deer, has not he proposed?",
+ "seconds": 0.239
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41169-0013",
+ "condition": null,
+ "reference": "THEY'RE PROPRIETORS OF A SORT BUT WE'RE THE LANDOWNERS",
+ "audio_seconds": 4.12,
+ "created_at": "2026-07-05T13:03:23+00:00",
+ "failed": false,
+ "text": "They are proprietors of a sod, but we are the landowners.",
+ "seconds": 0.21
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__767830_1",
+ "condition": "background_noise_20",
+ "reference": "Hello Doctor. Last month, I had an abortion. This month, I got my period, which lasted for six days. After the period ended, I felt a little pain in my right abdomen and I am experiencing some watery discharge, which started three to four days after my period ended. Is something wrong with that?",
+ "audio_seconds": 17.66,
+ "created_at": "2026-07-06T04:16:06+00:00",
+ "failed": false,
+ "text": "Hello, doctor. Last month I had an abortion. This month I got my period, which lasted for six days. After the period ended, I felt a little pain in my right abdomen, and I am experiencing some watery discharge, which started three to four days after my period ended. Is something wrong with that?",
+ "seconds": 0.554
+}

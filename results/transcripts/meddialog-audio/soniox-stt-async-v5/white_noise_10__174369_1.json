@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__174369_1",
+ "condition": "white_noise_10",
+ "reference": "My little daughter was born on thirty March two thousand and nine. Everything is fine with her, but while walking, we notice that her legs have a curved shape. We thought it might be because of putting her in a trolley, but someone told us that she is experiencing rickets, which is why it is like that. She walks, but we can see her legs are curved. What is rickets and how should we address it?",
+ "audio_seconds": 22.78,
+ "created_at": "2026-07-06T03:00:45+00:00",
+ "failed": false,
+ "text": "Nobody darling before my baby was 2009. Everything was fine with me, but while walking I noticed that her legs had a first hurt. I thought it might be because of feeling her in a crowd, but someone told us that she was seeing some visions, which is why it looks like that. She laughed, but we can see her legs as hurt. What does witnessing have to do with that?",
+ "seconds": 5.464
+}

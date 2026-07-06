@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__917823_1",
+ "condition": "background_noise_40",
+ "reference": "I am having pains in my upper torso, in the rib cage area. I am nauseated and have diarrhea. I had been on antibiotics, Augmentin, because of a cat scratch, so I know I probably have the diarrhea from those. However, I have felt so bad for the last week that I have been taking them. I took my last one on Saturday morning but came home last night feeling as sick as can be. It has not gotten any better today. I also am belching a lot, so I have taken Ranitidine for that. I don’t think it's my heart, but someone said it sounded like gallbladder? Help.",
+ "audio_seconds": 35.84,
+ "created_at": "2026-07-06T04:42:17+00:00",
+ "failed": false,
+ "text": "I am having pains in my upper torso, in the ribcage area. I am nauseated and have diarrhea. I had been on antibiotics Augmentin, the cat scratch, so I know I probably have the diarrhea from those. However, I have felt so bad for the last week that I have been taking them. I took my last one on Saturday morning, but came home last night feeling as sick as can be. It has not gotten any better today. I also am belching a lot, so I have taken ranitidine for that. I don't think it's my heart, but someone said it sounded like gallbladder? Help.",
+ "seconds": 0.407
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__195841_2",
+ "condition": "background_noise_20",
+ "reference": "It is an anaphylactic reaction. It could have occurred secondary to an insect bite or due to mutton. Take a combination of Levocetirizine with Montelukast for five days. Also, start on Fexofenadine one hundred and twenty milligrams and continue therapy for a week. The severity of the allergy or anaphylaxis should be assessed. Get a serum absolute eosinophil count, erythrocyte sedimentation rate, and immunoglobulin E levels, which will inform us about your allergy status.",
+ "audio_seconds": 33.62,
+ "created_at": "2026-07-06T04:50:00+00:00",
+ "failed": false,
+ "text": "It is an anaphylactic reaction. It could have occurred secondary to an insect bite or due to mutton. Take a combination of levosulpirazine with montelukast for five days. Also, start on fexofenadine one hundred and twenty milligrams and continue therapy for a week. The severity of the allergy or anaphylaxis should be assessed. Get a serum absolute eosinophil counts, erythrocyte sedimentation rate, and immunoglobulin E levels, which will inform us about your allergy status.",
+ "seconds": 0.99
+}

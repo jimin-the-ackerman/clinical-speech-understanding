@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163619-0010",
+ "condition": null,
+ "reference": "SHE BEGGED VERY PRETTILY AND GOT IT AND THEN SHE BRUSHED HER HAIR AND THE GOLD DROPPED FROM IT",
+ "audio_seconds": 6.14,
+ "created_at": "2026-07-06T00:07:09+00:00",
+ "failed": false,
+ "text": "She begged very prettily and got it, and then she brushed her hair, and the gold dropped from it.",
+ "seconds": 4.73
+}

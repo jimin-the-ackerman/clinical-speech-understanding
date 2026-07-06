@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__519066_1",
+ "condition": "background_noise_20",
+ "reference": "I have recently had two blood tests, and both have come back with a low white blood cell count. I had the swine flu a couple of years ago; could that be the reason? I'm also pretty tired lately, which is one reason I went to the doctor. Other symptoms include typical menopausal symptoms and tingling in my feet and legs.",
+ "audio_seconds": 18.77,
+ "created_at": "2026-07-06T04:15:01+00:00",
+ "failed": false,
+ "text": "I have recently had two blood tests, and both have come back with a low white blood cell count. I had the swine flu a couple of years ago. Could that be the reason? I'm also pretty tired lately, which is one reason I went to the doctor. Other symptoms include typical menopausal symptoms and tingling in my feet and legs.",
+ "seconds": 0.638
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__128143_2",
+ "condition": "white_noise_6",
+ "reference": "When someone lies down after a heavy meal, there is reflux of food from the stomach to the esophagus if he has a lax gastroesophageal sphincter. I would suggest a scan for hiatus hernia, which means the stomach herniating into the chest, which also causes chest pain, and also an endoscopy. I suggest he has light meals and does not lie down soon after eating.",
+ "audio_seconds": 22.78,
+ "created_at": "2026-07-06T05:11:51+00:00",
+ "failed": false,
+ "text": "When someone lies down after a heavy meal, there is reflux of food from the stomach to the esophagus if he has a lack of gastric esophageal sphincter. I would suggest a scan for hiatus hernia, which means the stomach herniating into the chest, which also causes chest pain and also an endoscopy. I suggest he has light meals and does not lie down soon after eating.",
+ "seconds": 0.746
+}

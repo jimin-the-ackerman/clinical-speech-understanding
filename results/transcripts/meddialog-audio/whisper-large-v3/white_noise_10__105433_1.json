@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__105433_1",
+ "condition": "white_noise_10",
+ "reference": "I just noticed recently that the small of my back looks pretty bruised and isn't straight. There is a pretty noticeable curvature just in that spot! My left side hurts from my spine all the way around to the front on my left side from the top to my hip bone. I have some kind of swollen lumps behind my right ear along the bottom of my hairline, and they hurt. I can feel it when I turn my head, and I cannot press on that whole area behind the right ear into the back of my neck.",
+ "audio_seconds": 28.42,
+ "created_at": "2026-07-06T04:28:32+00:00",
+ "failed": false,
+ "text": "I just noticed recently that the small of my back looks pretty bruised and isn't straight. There is a pretty noticeable curvature just in that spot. My left side hurts from my spine all the way around to the front on my left side from the top of my hip bone. I have some kind of swirling lump behind my right ear along the bottom of my hairline, and it hurts. I can feel it when I turn my head, and I cannot press on that whole area behind the right ear to the back of my neck.",
+ "seconds": 0.833
+}

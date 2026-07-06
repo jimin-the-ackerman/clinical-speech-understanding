@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__650779_1",
+ "condition": "clean",
+ "reference": "I have a lower back and knee problem. I have constant pain in my lower back and all around my knee area. The pain also shoots down to my legs, and my knee makes a cracking sound when I bend down or perform squats. I have seen several doctors and an American orthopedic specialist and gone through temporary physical therapy, but it did not help. My email is yyyy@yyyy.",
+ "audio_seconds": 30.55,
+ "created_at": "2026-07-06T04:44:40+00:00",
+ "failed": false,
+ "text": "I have a lower back and knee problem. I have constant pain in my lower back and all around my knee area. The pain also shoots down to my legs, and my knee makes a cracking sound when I bend down or perform squats. I have seen several doctors and an American orthopedic specialist and gone through temporary physical therapy, but it did not help. My email is wavmina at wavtimelitexies and",
+ "seconds": 0.322
+}

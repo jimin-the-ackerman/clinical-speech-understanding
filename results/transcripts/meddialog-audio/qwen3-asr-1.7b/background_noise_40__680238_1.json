@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__680238_1",
+ "condition": "background_noise_40",
+ "reference": "My mother is eighty years old. About three weeks ago, her leg swelled up from the knee down. She was checked for blood clots, and the results were negative. She just finished a course of antibiotics because the doctor said it was an infection. Now she has numbness, sores that are scabbing over, and she says her ankle and foot hurt to the touch.",
+ "audio_seconds": 21.59,
+ "created_at": "2026-07-06T05:22:03+00:00",
+ "failed": false,
+ "text": "My mother is eighty years old. About three weeks ago, her leg swelled up from the knee down. She was checked for blood clots, and the results were negative. She just finished a course of antibiotics because the doctor said it was an infection. Now she has numbness, sores that are scabbing over, and she says her ankle and foot hurt to the touch.",
+ "seconds": 0.744
+}

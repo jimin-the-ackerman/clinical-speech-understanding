@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__997734_1",
+ "condition": "white_noise_2",
+ "reference": "I have skin rashes that resemble poison oak, which is common where I live. However, I have been experiencing rashes off and on for over a month now in the same areas of my body. I have a severe itchy rash with blisters in the inner crease of my elbow, behind my neck, and behind my ears. It can't be poison oak after a month. I am a fifty-eight-year-old female who still has night sweats due to menopause.",
+ "audio_seconds": 25.43,
+ "created_at": "2026-07-06T04:48:08+00:00",
+ "failed": false,
+ "text": "I have skin rashes that resemble poison oak, which is common where I live. However, I have been experiencing rashes off and on for over a month now in the same areas of my body. I have a severe itchy rash with blisters in the crease of my elbow, behind my neck, and behind my ears. It can't be poison oak after a month. I am a 58-year-old female who still has night sweats due to menopause.",
+ "seconds": 0.29
+}

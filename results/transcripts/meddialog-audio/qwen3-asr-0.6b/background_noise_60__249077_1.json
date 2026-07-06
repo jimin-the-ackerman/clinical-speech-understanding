@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__249077_1",
+ "condition": "background_noise_60",
+ "reference": "I am taking Bigot five hundred milligrams twice a day along with Ecoaspirin and Folinine. I am trying to conceive. I did my pregnancy blood test today and it was negative, but I am urinating a lot, so I thought I might be pregnant. Is it possible that I am pregnant? My last menstrual date was February ten, two thousand and twelve. Please help.",
+ "audio_seconds": 23.3,
+ "created_at": "2026-07-06T04:57:44+00:00",
+ "failed": false,
+ "text": "I am taking a flight from New York this late one to Las Vegas in Florida. I am trying to conceive. Did my pregnancy test today? It's negative. But I am sure it will not. So I thought I might be pregnant. Is it possible that I am pregnant? No, yes. Test today is February 10, 2000.",
+ "seconds": 0.703
+}

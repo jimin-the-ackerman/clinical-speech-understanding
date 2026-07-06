@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0022",
+ "condition": null,
+ "reference": "AT LENGTH WITH A TERRIFIC CRASH THE WHOLE TURRET GAVE WAY AND SHE PERISHED IN THE FLAMES WHICH HAD CONSUMED HER TYRANT",
+ "audio_seconds": 8.53,
+ "created_at": "2026-07-05T23:58:57+00:00",
+ "failed": false,
+ "text": "At length, with a terrific crash the whole tower gave way, and she perished in the flames which had consumed her tyrant.",
+ "seconds": 0.904
+}

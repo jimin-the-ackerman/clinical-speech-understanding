@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5032-0002",
+ "condition": null,
+ "reference": "HER CONVERSATION HAS MORE CHARMS THAN CAN BE IN MERE BEAUTY AND HER HUMOUR AND DISPOSITION WOULD MAKE A DEFORMED PERSON APPEAR LOVELY",
+ "audio_seconds": 9.99,
+ "created_at": "2026-07-06T00:04:21+00:00",
+ "failed": false,
+ "text": "Her conversation has more charm than can be in mere beauty, and her humor and disposition would make a deformed person appear lovely.",
+ "seconds": 4.794
+}

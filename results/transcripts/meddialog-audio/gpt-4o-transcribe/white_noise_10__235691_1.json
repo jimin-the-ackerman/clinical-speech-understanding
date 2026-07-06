@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__235691_1",
+ "condition": "white_noise_10",
+ "reference": "Hello Doctor, my brother has been diagnosed with a large pseudocyst located in the lesser sac region measuring six hundred and eighty-seven cubic centimeters. The body and tail of the pancreas are not visualized. Another cystic structure is seen in the left paraspinal region, supermedial to the upper pole of the left kidney, measuring two hundred and fifty cubic centimeters. Could you please tell me how serious this is and if it can be cured? He had a cyst last year in May which was cured, so how can he get it again? He does not consume alcohol.",
+ "audio_seconds": 33.02,
+ "created_at": "2026-07-06T00:45:46+00:00",
+ "failed": false,
+ "text": "One doctor, one nurse, and one teacher.",
+ "seconds": 0.786
+}

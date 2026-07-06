@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__409477_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, I am eighteen years old. I have a gap between my two front teeth, and I am very conscious about it. I hate to smile, and I feel as if my teeth are the center of attention wherever I am. I suffer from anxiety and panic attacks. I am always worrying about it.",
+ "audio_seconds": 14.93,
+ "created_at": "2026-07-06T04:33:23+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I am 18 years old. I have a gap between my two front teeth, and I am very conscious about it. I hate to smile, and I feel as if my teeth are the center of attention wherever I am. I suffer from anxiety and panic attacks. I am always worrying about it.",
+ "seconds": 0.559
+}

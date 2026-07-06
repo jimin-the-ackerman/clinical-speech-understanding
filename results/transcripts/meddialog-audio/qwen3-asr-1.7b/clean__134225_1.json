@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__134225_1",
+ "condition": "clean",
+ "reference": "I have experienced sleepiness for over a year since October two thousand and ten, along with dizziness and vision problems that occur before a dizzy episode. My blood pressure is low, and I have seen a cardiologist due to this issue. I had a severe dizzy spell while talking to someone, followed by recovering, and then my whole body started shaking for a minute while standing. Since then, I have had headaches, feel off balance visually, and have difficulty walking.",
+ "audio_seconds": 25.77,
+ "created_at": "2026-07-06T05:27:18+00:00",
+ "failed": false,
+ "text": "I have experienced sleepiness for over a year since October 2010, along with dizziness and vision problems that occur before a dizzy episode. My blood pressure is low, and I have seen a cardiologist due to this issue. I had a severe dizzy spell while talking to someone, followed by recovering, and then my whole body started shaking for a minute while standing. Since then, I have had headaches, feel off balance visually, and have difficulty walking.",
+ "seconds": 0.88
+}

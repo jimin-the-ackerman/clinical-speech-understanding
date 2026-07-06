@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__111091_1",
+ "condition": "white_noise_2",
+ "reference": "I have had keyhole surgery on my right shoulder approximately ten years ago. I am right-handed and a plasterer. I am experiencing a lot of continuous pain in my shoulder. I am on painkillers, but they are not working. It feels like having a continuous toothache. I also have bruising under the armpit.",
+ "audio_seconds": 17.58,
+ "created_at": "2026-07-06T04:46:43+00:00",
+ "failed": false,
+ "text": "I have had keyhole surgery on my right shoulder approximately 10 years ago. I am right handed and a plasterer. I am experiencing a lot of continuous pain in my shoulder. I am on painkillers, but they are not working. It feels like having a continuous toothache. I also have bruising under the armpit.",
+ "seconds": 0.239
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__739705_2",
+ "condition": "background_noise_60",
+ "reference": "I understand your concern. Do not dismiss this or ignore the doctor; however, he will need to get a skin biopsy in order to definitely confirm skin cancer. Ask him to see a doctor for evaluation and determination of the need for one. I hope this helps.",
+ "audio_seconds": 15.87,
+ "created_at": "2026-07-06T05:25:56+00:00",
+ "failed": false,
+ "text": "All the same, if you see, do not dismiss this word merely to doctors. However, he will need to be seen by a physician, though he can do worse. Ask him to see a doctor about the issue of the termination. If this helps.",
+ "seconds": 0.508
+}

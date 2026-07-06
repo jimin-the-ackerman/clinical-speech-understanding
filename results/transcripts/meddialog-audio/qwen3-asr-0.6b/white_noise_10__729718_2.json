@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__729718_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, welcome to the health care management. You need laparoscopic surgery to remove your chocolate cyst. Only then can we stimulate you for ovulation. A low sperm count will require in vitro fertilization to conceive. The removal of endometriosis followed by in vitro fertilization will help you conceive soon.",
+ "audio_seconds": 19.29,
+ "created_at": "2026-07-06T05:06:52+00:00",
+ "failed": false,
+ "text": "Welcome to the health care management. You need laparoscopic surgery to remove your chocolate cyst. Only then can we stimulate you for ovulation. A low sperm count will require in vitro fertilization to conceive. The removal of endometriosis followed by in vitro fertilization will help you conceive soon.",
+ "seconds": 0.566
+}

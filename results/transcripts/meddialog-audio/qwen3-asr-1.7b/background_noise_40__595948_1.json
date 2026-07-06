@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__595948_1",
+ "condition": "background_noise_40",
+ "reference": "My husband has had extreme, constant lower back pain for approximately two weeks. Looking at his back, there are visible veins over the area that is in pain. The doctor we saw said it was a bruise, but it reminded me of blood poisoning as the veins are very visible and tree branch-like. The pain has now moved to the exact same place on the right side. He has hot flashes also. He is very leery of doctors, and I am extremely worried about his health.",
+ "audio_seconds": 26.45,
+ "created_at": "2026-07-06T05:21:44+00:00",
+ "failed": false,
+ "text": "My husband has had extreme, constant lower back pain for approximately two weeks. Looking at his back, there are visible veins over the area that is in pain. The doctor we saw said it was a bruise, but it reminded me of blood poisoning as the veins are very visible and tree branch-like. The pain has now moved to the exact same place on the right side. He has hot flashes also. He is very leery of doctors, and I am extremely worried about his health.",
+ "seconds": 0.925
+}

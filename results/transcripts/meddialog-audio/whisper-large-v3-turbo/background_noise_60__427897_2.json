@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__427897_2",
+ "condition": "background_noise_60",
+ "reference": "It is quite unlikely to develop seizures thirty-five years after a head injury. You may be having some other lesion in the brain, which needs to be ruled out first before trying naturopathy. You need a detailed evaluation and a magnetic resonance imaging of the brain.",
+ "audio_seconds": 14.34,
+ "created_at": "2026-07-06T04:42:54+00:00",
+ "failed": false,
+ "text": "it is quite unlikely to develop seizures 35 years after a head injury you may be having some other lesion in the brain which needs to be ruled out first before trying naturopathy a detailed evaluation and a magnetic resonance imaging of the brain",
+ "seconds": 0.272
+}

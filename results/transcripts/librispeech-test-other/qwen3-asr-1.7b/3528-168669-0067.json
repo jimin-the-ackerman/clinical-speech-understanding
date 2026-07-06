@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0067",
+ "condition": null,
+ "reference": "YOU WILL RAISE THE STONE WITH THE BAR BY MEANS OF THE RING BUT",
+ "audio_seconds": 4.75,
+ "created_at": "2026-07-06T03:29:35+00:00",
+ "failed": false,
+ "text": "You will raise the stone with the bar by means of the ring, but.",
+ "seconds": 0.203
+}

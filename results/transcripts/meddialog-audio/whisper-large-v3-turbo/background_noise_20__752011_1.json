@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__752011_1",
+ "condition": "background_noise_20",
+ "reference": "Doctor, can you please help me? I am twenty-three years old and I need some natural treatment to increase my penis size to an average size without any operation. Is there any such treatment? I am also a patient of epilepsy. Does that have any impact on penis size?",
+ "audio_seconds": 15.7,
+ "created_at": "2026-07-06T04:40:33+00:00",
+ "failed": false,
+ "text": "Doctor, can you please help me? I am 23 years old and I need some natural treatment to increase my penis size to an average size without any operation. Is there any such treatment? I am also a patient of epilepsy. Does that have any impact on penis size?",
+ "seconds": 0.246
+}

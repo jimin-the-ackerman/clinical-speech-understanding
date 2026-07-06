@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__714549_2",
+ "condition": "white_noise_10",
+ "reference": "Methylprednisolone may not be the cause of your pain. Please get a check-up for your backache if movements of your spine are causing pain. Avoid bending and apply hot fomentation.",
+ "audio_seconds": 11.69,
+ "created_at": "2026-07-06T05:33:29+00:00",
+ "failed": false,
+ "text": "Muscle prednisolone may not be the cause of your pain. Please get a checkup for your back if movements of your spine are causing pain. Avoid bending and apply hot fermentation.",
+ "seconds": 0.39
+}

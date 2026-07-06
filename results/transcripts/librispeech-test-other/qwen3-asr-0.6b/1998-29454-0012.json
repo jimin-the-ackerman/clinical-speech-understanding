@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0012",
+ "condition": null,
+ "reference": "AND THE TEA AND ALL AN THE EGG",
+ "audio_seconds": 2.64,
+ "created_at": "2026-07-06T03:15:06+00:00",
+ "failed": false,
+ "text": "And the tea, and all, and the egg.",
+ "seconds": 0.14
+}

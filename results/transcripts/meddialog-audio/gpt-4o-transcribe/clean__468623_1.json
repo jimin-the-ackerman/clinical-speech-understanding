@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__468623_1",
+ "condition": "clean",
+ "reference": "I have pain and pressure only in the center, right above the pubic bone, and some lower back pain. I was thinking it is a urinary tract infection, but the tests came back fine. They thought I may have a bacterial infection, but my question is if it could be constipation. Would it hurt in that spot? I was thinking constipation would bother more higher in the abdomen, but I am just checking to see if constipation could affect the feeling of having a full bladder.",
+ "audio_seconds": 28.59,
+ "created_at": "2026-07-06T00:45:03+00:00",
+ "failed": false,
+ "text": "I have pain and pressure only in the center, right above the pubic bone, and some lower back pain. I was thinking it is a urinary tract infection, but the tests came back fine. They thought I may have a bacterial infection, but my question is if it could be constipation. Would it hurt in that spot? I was thinking constipation would bother more higher in the abdomen, but I am just checking to see if constipation could affect the feeling of having a full bladder.",
+ "seconds": 2.308
+}

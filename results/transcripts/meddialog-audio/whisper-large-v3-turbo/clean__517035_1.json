@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__517035_1",
+ "condition": "clean",
+ "reference": "Hi, I am Sadie and I have been experiencing really bad tension down both sides of my neck and tension in my shoulders. It is very uncomfortable and really tight. It hurts my back when I lean my head forward. No matter what I do, the tightness does not go away. Do you have any ideas?",
+ "audio_seconds": 16.47,
+ "created_at": "2026-07-06T04:44:28+00:00",
+ "failed": false,
+ "text": "Hi, I am Sadie and I have been experiencing really bad tension down both sides of my neck and tension in my shoulders. It is very uncomfortable and really tight. It hurts my back when I lean my head forward. No matter what I do, the tightness does not go away. Do you have any ideas?",
+ "seconds": 0.249
+}

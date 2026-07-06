@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__844943_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, you and your husband should undergo a fertility workup. You also need to lose some weight and get some hormone tests done along with an ultrasound. Your husband should also be tested. If all is normal, then you should have intercourse at the most fertile time as advised by your doctor.",
+ "audio_seconds": 18.01,
+ "created_at": "2026-07-06T00:43:37+00:00",
+ "failed": false,
+ "text": "Hello, you and your husband should undergo a fertility workup. You also need to lose some weight and get some hormone tests done along with an ultrasound. Your husband should be tested. If all is normal, then you should have intercourse at the most fertile time as advised by your doctor.",
+ "seconds": 1.207
+}

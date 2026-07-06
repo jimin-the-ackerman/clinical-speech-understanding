@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__368322_2",
+ "condition": "background_noise_40",
+ "reference": "Chronic obstructive pulmonary disease is generally a progressive disease. She must take her medications regularly, especially the inhalers. She should also be given chest physiotherapy, which helps in removing secretions from the lungs and in breathing. If she continues to be symptomatic, she can be placed on non-invasive ventilation like bilevel positive airway pressure.",
+ "audio_seconds": 21.93,
+ "created_at": "2026-07-06T00:43:05+00:00",
+ "failed": false,
+ "text": "Chronic obstructive pulmonary disease is generally a progressive disease. She must take her medications regularly, especially the inhalers. She should also be given chest physiotherapy, which helps in removing secretions from the lungs and in breathing. If she continues to be symptomatic, she can be placed on non-invasive ventilation like bilevel positive airway pressure.",
+ "seconds": 4.574
+}

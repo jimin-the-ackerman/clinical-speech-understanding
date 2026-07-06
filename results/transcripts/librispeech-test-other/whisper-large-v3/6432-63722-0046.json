@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0046",
+ "condition": null,
+ "reference": "WHAT ARE THE CHANCES OF GETTING HIM OFF LEGALLY IF WE GO AT IT FROM A NEGATIVE STANDPOINT ASKED THE COLONEL",
+ "audio_seconds": 5.71,
+ "created_at": "2026-07-05T13:05:12+00:00",
+ "failed": false,
+ "text": "What are the chances of getting him off legally, if we go at it from a negative standpoint? asked the Colonel.",
+ "seconds": 0.248
+}

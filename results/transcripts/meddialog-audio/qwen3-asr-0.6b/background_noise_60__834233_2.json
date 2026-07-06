@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__834233_2",
+ "condition": "background_noise_60",
+ "reference": "In my opinion, she may have osteomyelitis. Check for signs of fever. Also, stasis dermatitis may be possible, but it usually occurs in both legs rather than just one. I suggest an X-ray of the leg to confirm osteomyelitis. Good luck.",
+ "audio_seconds": 14.76,
+ "created_at": "2026-07-06T04:59:58+00:00",
+ "failed": false,
+ "text": "My opinion: She may have osteomyelitis. Check for signs of fever. Also, stasis dermatitis may be possible, but it usually occurs in both legs rather than just one. I suggest an X-ray of the leg to confirm osteomyelitis. Good luck.",
+ "seconds": 0.545
+}

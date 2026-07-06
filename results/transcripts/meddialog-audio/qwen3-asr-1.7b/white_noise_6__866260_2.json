@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__866260_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, the range of pus cells in stool is zero-five. A range of twenty to thirty pus cells is suggestive of an intestinal infection, which can cause loose stools and stomach pain. Please take treatment for loose motions from your doctor. Give her light food, and if possible, avoid milk and dairy products.",
+ "audio_seconds": 18.94,
+ "created_at": "2026-07-06T05:42:04+00:00",
+ "failed": false,
+ "text": "Hello. The range of past cells is 0.05. A range of 20 to 30 past cells is suggestive of an intestinal infection. If impulsive stools and stomach pains, please take treatment for these symptoms from your doctor. Give her night food and, if possible, avoid milk and dairy products.",
+ "seconds": 0.645
+}

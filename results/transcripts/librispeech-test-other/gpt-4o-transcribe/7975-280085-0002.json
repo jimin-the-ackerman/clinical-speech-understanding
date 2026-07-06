@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280085-0002",
+ "condition": null,
+ "reference": "BOB'S SHATTERED ELBOW WAS REQUIRING FREQUENT ATTENTION AND THAT NIGHT WE MADE ONLY NINE MILES AND MONDAY MONDAY NIGHT AND TUESDAY WE SPENT IN A DESERTED FARM HOUSE CLOSE TO MANKATO",
+ "audio_seconds": 10.64,
+ "created_at": "2026-07-05T23:58:14+00:00",
+ "failed": false,
+ "text": "Bob's shattered elbow was requiring frequent attention, and that night we made only nine miles, and Monday night and Tuesday we spent in a deserted farmhouse close to Mankato.",
+ "seconds": 0.81
+}

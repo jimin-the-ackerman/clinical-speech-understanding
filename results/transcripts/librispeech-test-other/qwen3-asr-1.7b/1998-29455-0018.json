@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0018",
+ "condition": null,
+ "reference": "NO I NEVER SAID DICKIE ERE'S THE STEEVER",
+ "audio_seconds": 3.68,
+ "created_at": "2026-07-06T03:27:11+00:00",
+ "failed": false,
+ "text": "No, I never said, Dicky. Yes, the Steeble.",
+ "seconds": 0.185
+}

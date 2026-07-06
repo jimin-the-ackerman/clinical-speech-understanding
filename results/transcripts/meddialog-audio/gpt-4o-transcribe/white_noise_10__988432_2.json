@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__988432_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, just discoloration of the skin. These are only macular rashes. With this size and no itching, it is most unlikely to be due to any allergic reactions to any allergens. The common cold is significant here. This macular rash may be due to a viral infection. If it is a common cold, they are self-limiting and subside on their own.",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T00:46:13+00:00",
+ "failed": false,
+ "text": "No, no, you stop it. You are not the boss of me. You can't do that to me.",
+ "seconds": 0.839
+}

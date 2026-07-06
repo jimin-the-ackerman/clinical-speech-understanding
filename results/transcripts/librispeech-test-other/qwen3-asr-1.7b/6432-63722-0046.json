@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0046",
+ "condition": null,
+ "reference": "WHAT ARE THE CHANCES OF GETTING HIM OFF LEGALLY IF WE GO AT IT FROM A NEGATIVE STANDPOINT ASKED THE COLONEL",
+ "audio_seconds": 5.71,
+ "created_at": "2026-07-06T03:35:06+00:00",
+ "failed": false,
+ "text": "What are the chances of getting him off legally if we go at it from a negative standpoint? Asked the colonel.",
+ "seconds": 0.256
+}

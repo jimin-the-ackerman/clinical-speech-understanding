@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__950132_1",
+ "condition": "background_noise_40",
+ "reference": "It's just getting into the summer months, and I have started sneezing. After a sneezing fit today, I have developed an irritation toward the back of my throat. It kind of feels like it's near the roof of my throat too. It's really irritating when swallowing, and I can feel it there all the time. I can't stand it. I have it whenever there is a stark change in weather conditions, and I've always wondered what it is.",
+ "audio_seconds": 23.38,
+ "created_at": "2026-07-06T05:23:12+00:00",
+ "failed": false,
+ "text": "It's just getting to the summer months, and I have started sneezing. After a sneezing fit today, I have developed an irritation toward the back of my throat. It kind of feels like it's near the roof of my throat too. It's really irritating when swallowing, and I can feel it there all the time. I can't stand it. I have it whenever there is a stark change in weather conditions, and I've always wondered what it is.",
+ "seconds": 0.906
+}

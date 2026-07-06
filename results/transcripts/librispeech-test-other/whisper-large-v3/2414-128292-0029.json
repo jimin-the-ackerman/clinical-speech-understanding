@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128292-0029",
+ "condition": null,
+ "reference": "FOR NOW EVERYTHING THAT IS NARROW AND FIXED SEDUCETH AND TEMPTETH THEE",
+ "audio_seconds": 6.3,
+ "created_at": "2026-07-05T12:56:52+00:00",
+ "failed": false,
+ "text": "for now everything that is narrow and fixed seduceth and tempteth thee",
+ "seconds": 0.206
+}

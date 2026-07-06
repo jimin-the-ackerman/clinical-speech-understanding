@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__537605_1",
+ "condition": "background_noise_60",
+ "reference": "Hello Doctor, my wife is twenty-six weeks pregnant and she has been suffering from a cold and cough for the past two days. Additionally, she has had chronic nasal congestion since her 12th week and is using nasal spray for relief. She has found it very hard to sleep for the past two days due to the continuous coughing. Her cough is dry and without phlegm. Please suggest some safe medications. She is taking calcium and iron tablets along with Eltroxin fifty micrograms for her thyroid condition.",
+ "audio_seconds": 33.79,
+ "created_at": "2026-07-06T04:22:37+00:00",
+ "failed": false,
+ "text": "hello doctor my wife is 26 weeks pregnant and she has been suffering from a cold and cough for the past two days additionally she has had chronic nasal congestion since her 12th week and is using nasal spray for relief she has found it very hard to sleep for the past two days due to the continuous coughing her cough is dry and without phlegm please suggest some safe medications she is taking calcium and iron tablets along with l-troxin 50 micrograms for her thyroid condition",
+ "seconds": 0.84
+}

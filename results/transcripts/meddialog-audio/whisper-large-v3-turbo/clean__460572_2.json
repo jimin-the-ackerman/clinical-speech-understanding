@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__460572_2",
+ "condition": "clean",
+ "reference": "The position of your arm won't change your pulse. Knowing that you're checking it will just cause anticipation. Normal at rest is less than one hundred and lower if you exercise. Check when seated and relaxed for ten to fifteen minutes. If it remains high all the time, seek assistance.",
+ "audio_seconds": 16.13,
+ "created_at": "2026-07-06T04:44:23+00:00",
+ "failed": false,
+ "text": "The position of your arm won't change your pulse. Knowing that you're checking it will just cause anticipation. Normal at rest is less than 100 and lower if you exercise. Check when seated and relaxed for 10 to 15 minutes. If it remains high all the time, seek assistance.",
+ "seconds": 0.22
+}

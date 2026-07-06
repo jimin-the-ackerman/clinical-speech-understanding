@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__943146_1",
+ "condition": "background_noise_60",
+ "reference": "I am a thirty-three-year-old woman. I have a constant dull pain in my upper right abdomen; it has lasted about twenty-four hours now. The pain is just below my ribcage and radiates into my back. It worsens when I stand up straight or twist my abdomen. There is a slight burning sensation and stabbing pain every now and then, and the pain is much worse when I cough or sneeze.",
+ "audio_seconds": 21.67,
+ "created_at": "2026-07-06T04:43:46+00:00",
+ "failed": false,
+ "text": "I am a 30-year-old, and I am a 30-year-old, and I am a 30-year-old. It's nice to look at the 30-year-old, but I am a 30-year-old. Of course, it is a 30-year-old, and I am a 30-year-old. There is a slight break in the session, and a scouting break in the oven. The game is much closer to the problem of the city of the city.",
+ "seconds": 0.29
+}

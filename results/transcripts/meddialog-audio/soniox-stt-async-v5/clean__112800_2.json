@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__112800_2",
+ "condition": "clean",
+ "reference": "This is a picture of obstructive jaundice. Get an ultrasound of the abdomen, and depending upon its report, take action.",
+ "audio_seconds": 8.28,
+ "created_at": "2026-07-06T02:56:56+00:00",
+ "failed": false,
+ "text": "This is a picture of obstructive jaundice; get an ultrasound of the abdomen and, depending upon its report, take action.",
+ "seconds": 4.606
+}

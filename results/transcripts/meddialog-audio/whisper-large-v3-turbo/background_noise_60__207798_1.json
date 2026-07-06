@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__207798_1",
+ "condition": "background_noise_60",
+ "reference": "I was dusting yesterday, and all of a sudden I experienced an enormous pain in my back and fell to my knees. It felt like a huge knot was in my back, and I was unable to move from the floor for six hours. I was finally able to crawl to my bed, but I am unable to put any vertical weight on my spine. Pain relievers don't seem to help much either. However, I am able to lie comfortably on my back or side as long as I don't move.",
+ "audio_seconds": 30.55,
+ "created_at": "2026-07-06T04:42:34+00:00",
+ "failed": false,
+ "text": "i lost him yesterday and all of a sudden i experienced an enormous pain in my back and fell to my knees it felt like a huge knot was in my back and i was unable to move from the floor for six hours i was finally able to crawl to my bed but i am unable to put any vertical weight on my spine pain relievers don't seem to help much either however i am able to lie comfortably on my back or side as long as i don't move",
+ "seconds": 0.347
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0026",
+ "condition": null,
+ "reference": "KNOW O COMPANY THAT AFTER MY RETURN FROM MY SIXTH VOYAGE WHICH BROUGHT ME ABUNDANT PROFIT I RESUMED MY FORMER LIFE IN ALL POSSIBLE JOYANCE AND ENJOYMENT AND MIRTH AND MAKING MERRY DAY AND NIGHT AND I TARRIED SOME TIME IN THIS SOLACE AND SATISFACTION TILL MY SOUL BEGAN ONCE MORE TO LONG TO SAIL THE SEAS AND SEE FOREIGN COUNTRIES AND COMPANY WITH MERCHANTS AND HEAR NEW THINGS",
+ "audio_seconds": 26.09,
+ "created_at": "2026-07-05T13:13:36+00:00",
+ "failed": false,
+ "text": "Know, O company, that after my return from my sixth voyage, which brought me abundant profit, I resumed my former life in all possible joyance and enjoyment and mirth, and making merry day and night, and I tarried some time in this solace and satisfaction, till my soul began once more to long to sail the seas and see foreign countries, and company with merchants and hear new things.",
+ "seconds": 0.22
+}

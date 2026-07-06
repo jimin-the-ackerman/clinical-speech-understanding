@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180294-0000",
+ "condition": null,
+ "reference": "THE DUKE COMES EVERY MORNING THEY WILL TELL HIM WHEN HE COMES THAT I AM ASLEEP AND PERHAPS HE WILL WAIT UNTIL I WAKE",
+ "audio_seconds": 7.96,
+ "created_at": "2026-07-06T02:23:30+00:00",
+ "failed": false,
+ "text": "The Duke comes every morning; they will tell him when he comes that I am asleep, and perhaps he will wait until I awake.",
+ "seconds": 5.151
+}

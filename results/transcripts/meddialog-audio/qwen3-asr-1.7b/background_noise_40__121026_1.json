@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__121026_1",
+ "condition": "background_noise_40",
+ "reference": "Hepatitis C symptoms involving blood found in both vomit and fecal matter. I am a thirty-nine-year-old male who is hepatitis C positive and currently still active in my addiction to methamphetamine. I have recently, seven days ago to be exact, started having sharp pains in my liver which brings on bouts of extreme nausea. When I do vomit from the pain, there has been enough blood in it to cause me great concern. The same in my stool, but only in the past three days. What should I do?",
+ "audio_seconds": 32.51,
+ "created_at": "2026-07-06T05:19:32+00:00",
+ "failed": false,
+ "text": "Hepatitis C symptoms involving blood found in both vomit and fecal matter. I am a 39-year-old male who is hepatitis positive and currently still active in my addiction to methamphetamine. I have recently, seven days ago to be exact, started having sharp pains in my liver, which brings on bouts of extreme nausea. When I do vomit from the pain, there has been enough blood in it to cause me great concern. The same in my stool, but only in the past three days. What should I do?",
+ "seconds": 1.016
+}

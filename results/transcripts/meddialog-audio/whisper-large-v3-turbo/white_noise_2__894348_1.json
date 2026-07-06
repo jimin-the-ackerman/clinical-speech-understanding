@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__894348_1",
+ "condition": "white_noise_2",
+ "reference": "Hello, my name is Pierre, and I am thirty-two years old. One month ago, I spent a day at the pool and went back to my house. I ate tuna with beetroots and, after two hours, went to bed. I woke up at three AM, and my hands, legs, and stomach were full of red bumps of different sizes. I went to the doctor immediately; she gave me a syringe and Xyzal for ten days and also asked me to avoid eating protein. I stopped eating and only consumed digestive aids plus a salad. Until now, I am still not cured. If I stop taking the pill, once I wake up, my body starts itching a bit, and red bumps appear all over my body. All day long, nothing appears; just when I sleep!",
+ "audio_seconds": 42.67,
+ "created_at": "2026-07-06T04:48:01+00:00",
+ "failed": false,
+ "text": "Hello, my name is Pierre, and I am 32 years old. One month ago, I spent a day at the pool and went back to my house. I ate tuna with beetroots and, after two hours, went to bed. I woke up at 3 a.m., and my hands, legs, and stomach were full of red bumps of different sizes. I went to the doctor immediately. She gave me a syringe and exasol for 10 days and also asked me to avoid eating protein. I stopped eating and only consumed digestive aids plus a salad. Until now, I am still not cured. If I stop taking the pill, once I wake up, my body starts itching a bit, and red bumps appear all over my body. All day long, nothing appears, just when I sleep.",
+ "seconds": 0.45
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0002",
+ "condition": null,
+ "reference": "TELL YER WHAT MATE LOOKS TO ME AS IF I'D TOOK A FANCY TO YOU",
+ "audio_seconds": 3.89,
+ "created_at": "2026-07-05T13:09:18+00:00",
+ "failed": false,
+ "text": "Tell you what mate, looks to me as if I took a fancy to you.",
+ "seconds": 0.117
+}

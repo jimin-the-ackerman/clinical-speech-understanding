@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__728038_1",
+ "condition": "clean",
+ "reference": "Hi, my daughter is forty months old. Recently, I noticed that she has a layer of jelly-like substance in her feces. It is slightly greenish in color. Please advise what this might be and what I should do. Please, please answer me. From: desperate mother.",
+ "audio_seconds": 16.47,
+ "created_at": "2026-07-06T04:44:51+00:00",
+ "failed": false,
+ "text": "Hi. My daughter is 40 months old. Recently, I noticed that she has a layer of jelly-like substance in her feces. It is slightly greenish in color. Please advise what this might be and what I should do. Please, please answer me. From Desperate Mother.",
+ "seconds": 0.245
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2340-0021",
+ "condition": null,
+ "reference": "HOW ON EARTH ARE WE TO KNOW SAID PETER THE MEAN PIG HASN'T BROUGHT US A PRESENT AND I'M HANGED IF HE SHALL CARRY ONE OFF",
+ "audio_seconds": 8.73,
+ "created_at": "2026-07-05T13:06:19+00:00",
+ "failed": false,
+ "text": "how on earth are we to know said peter the mean pig hasn't brought us a present and i'm hanged if he shall carry one off",
+ "seconds": 0.291
+}

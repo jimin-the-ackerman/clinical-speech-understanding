@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__324993_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, thank you for asking. I really appreciate your concern. Based on the history provided, I can say that this is an allergic condition. Besides the antihistamine, there is no need to take the other medication, particularly the antibiotic, as it will not be effective here. Simple general management could yield good results, which includes saltwater gargling and avoiding the underlying cause. I hope this information helps you. Have a nice day.",
+ "audio_seconds": 27.39,
+ "created_at": "2026-07-06T05:20:31+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking. I really appreciate your concern. Based on the history provided, I can say that this is an allergic condition. Besides the antihistamine, there is no need to take the other medication, particularly the antibiotic, as it will not be effective here. Simple general management could yield good results, which include saltwater gargling and avoiding the underlying cause. I hope this information helps you. Have a nice day.",
+ "seconds": 0.844
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__930117_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. The problems you have mentioned, such as blaming you for his faults, not listening to others, irritability, anger outbursts, suspiciousness, and remaining alone, could be occurring due to some underlying mood disturbance. Suspiciousness could be due to some psychotic pathology. This should be evaluated by a psychiatrist. He does not go out and does not interact with others, resulting in impairment in functioning. These symptoms cannot be ignored. You have to take him to a psychiatrist. If he is not willing to visit, please go to a psychiatrist and discuss management. He might be suffering from bipolar disorder or some form of psychosis based on the history you provided. However, the final diagnosis should be made only after taking a detailed history. With medications, he will be alright.",
+ "audio_seconds": 46.42,
+ "created_at": "2026-07-06T00:47:41+00:00",
+ "failed": false,
+ "text": "Look, God even makes the good, useful parts of God's creation hear good and godly things and do any work to be turned to God on your behalf. This can be evaluated by effect, because not all acts of good men are very effective by order, nor are some form of act good. This point of issue divides however, not by looking to be made only after faith in the crucified Christ.",
+ "seconds": 1.757
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__993916_1",
+ "condition": "white_noise_2",
+ "reference": "I am twenty-two. It has been more than a month since I stopped masturbating. Sometimes, inside my brain, I feel different kinds of sensations, and I experience mood swings—sometimes depression, sometimes excitement, sometimes aggression. I am not sure if masturbating is good or bad yet. Will it affect my sex life in the future? Should I start masturbating again? Should I continue what I am doing right now?",
+ "audio_seconds": 30.29,
+ "created_at": "2026-07-06T00:47:06+00:00",
+ "failed": false,
+ "text": "I am 22. It has been more than a month since I stopped masturbating. Sometimes inside my brain I feel different kinds of sensations, and I experience mood swings, sometimes depression, sometimes excitement, sometimes aggression. I am not sure if masturbating is good or bad yet. Will it affect my sex life in the future? Should I start masturbating again? Should I continue what I am doing right now?",
+ "seconds": 1.531
+}

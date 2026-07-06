@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__912378_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. The magnetic resonance imaging findings let us know that your tendons are injured and inflamed, possibly due to overuse over a long period. The tendons on the outer aspect of the elbow, as well as the front and inner aspects, are all inflamed. There is a tear on the outer aspect of the elbow; however, it is a mild tear. There is strain in the area where the tendon and muscle meet. There is also a tear along the mid-portion of the tendon on the inner aspect of the elbow. Additionally, there is a fluid-filled sac to assist tendon sliding near the bicipital insertion point, which is swollen. They will be painful to the touch and while moving your elbow. You may not be able to lift any weight and may have difficulty gripping for an extended period. You might also experience pain radiating towards the wrist. I hope this is helpful for you.",
+ "audio_seconds": 46.25,
+ "created_at": "2026-07-06T05:19:02+00:00",
+ "failed": false,
+ "text": "Hello. The magnetic resonance imaging findings let us know that your tendons are injured and inflamed, possibly due to overuse over a long period. The tendons on the outer aspect of the elbow, as well as the front inner aspects, are all inflamed. There is a tear on the outer aspect of the elbow. However, it is a mild tear. There is strain in the area where the tendon and muscle meet. There is also a tear along the mid portion of the tendon on the inner aspect of the elbow. Additionally, there is a fluid-filled sac to assist tendon sliding near the bicipital insertion point, which is swollen. They will be painful to the touch and while moving your elbow. You may not be able to lift any weight and may have difficulty gripping for an extended period. You might also experience pain towards the wrist. I hope this is helpful for you.",
+ "seconds": 1.682
+}

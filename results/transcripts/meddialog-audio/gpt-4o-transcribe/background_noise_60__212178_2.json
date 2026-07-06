@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__212178_2",
+ "condition": "background_noise_60",
+ "reference": "Dear annoyed patient, this could be a viral infection known as herpes simplex. Please consult with your dentist and take a course of acyclovir tablets four hundred milligrams three times a day for a week. Since it is contagious, you need to be careful to avoid spreading it.",
+ "audio_seconds": 14.59,
+ "created_at": "2026-07-06T00:43:51+00:00",
+ "failed": false,
+ "text": "Dear annoyed patient, this could be a viral infection known as herpes simplex. Please consult with your dentist and take a course of acyclovir tablets 400mg three times a day for a week. Since it is contagious, you need to be careful to avoid spreading it.",
+ "seconds": 0.962
+}

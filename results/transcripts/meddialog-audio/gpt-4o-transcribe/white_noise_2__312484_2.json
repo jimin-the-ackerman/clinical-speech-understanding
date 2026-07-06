@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__312484_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, please reply and send a photograph of the lump. When it comes, also send a copy of the computed tomography report and the scanned photographs of the computed tomography plates. In the meantime, try to avoid coughing positions to prevent complications from the issue. Consider using an abdominal belt until a definitive cause is found and treatment is started. Thank you. Feel free to ask more questions to address this serious painful problem.",
+ "audio_seconds": 23.98,
+ "created_at": "2026-07-06T00:46:27+00:00",
+ "failed": false,
+ "text": "Hi, please reply and send a photograph of the lump. When it comes, also send a copy of the computed tomography report and a scanned photograph of the computed tomography plate. In the meantime, try to avoid coughing positions to prevent complications from the issue. Consider using an abdominal belt until a definitive cause is found and treatment is started. Thank you. Feel free to ask more questions to address this serious, painful problem.",
+ "seconds": 1.522
+}

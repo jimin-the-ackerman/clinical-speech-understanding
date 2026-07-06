@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0033",
+ "condition": null,
+ "reference": "LESLIE LEFT THE ROOM BUT SHE HAD SCARCELY GONE A DOZEN PACES DOWN THE CORRIDOR BEFORE SHE MET ANNIE RETURNING",
+ "audio_seconds": 7.4,
+ "created_at": "2026-07-05T13:14:34+00:00",
+ "failed": false,
+ "text": "leslie left the room but she had scarcely gone a dozen places down the corridor before she met annie returning",
+ "seconds": 0.142
+}

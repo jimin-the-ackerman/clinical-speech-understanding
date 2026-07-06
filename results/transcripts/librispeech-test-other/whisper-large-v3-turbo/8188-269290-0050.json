@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0050",
+ "condition": null,
+ "reference": "JUST AS SHE WAS DOING SO MISS FRERE CAME UP",
+ "audio_seconds": 3.45,
+ "created_at": "2026-07-05T13:14:43+00:00",
+ "failed": false,
+ "text": "Just as she was doing so, Miss Freya came up.",
+ "seconds": 0.106
+}

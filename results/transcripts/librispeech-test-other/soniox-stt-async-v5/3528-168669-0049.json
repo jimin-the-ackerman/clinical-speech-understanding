@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0049",
+ "condition": null,
+ "reference": "FAUCHELEVENT HELD HIS PEACE SHE WENT ON",
+ "audio_seconds": 3.41,
+ "created_at": "2026-07-06T00:06:07+00:00",
+ "failed": false,
+ "text": "Vorshlavot held his piece. She went on.",
+ "seconds": 4.164
+}

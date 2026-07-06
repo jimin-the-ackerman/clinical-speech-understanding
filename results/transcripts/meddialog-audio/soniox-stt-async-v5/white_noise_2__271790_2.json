@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__271790_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, welcome to HealthCare Management. Sometimes the red spots in the baby's stool may be due to something that the baby has eaten, so you do not need to worry. If the blood is bright red, this indicates that the blood may come from the intestines. If the blood is brownish, this indicates that the blood has passed from the stomach. In the second case, the baby may have hurt his gums or mouth, and the blood is digested. If the blood is bright red, this may indicate a medical condition, and I suggest you visit your pediatrician if the blood persists in the stool after several days. A stool analysis may also provide you with the right answer you are looking for.",
+ "audio_seconds": 43.78,
+ "created_at": "2026-07-06T03:05:38+00:00",
+ "failed": false,
+ "text": "Hello, welcome to healthcare management. Sometimes the red spots in the baby's stool may be due to something that the baby has eaten, so you do not need to worry. If the blood is bright red, this indicates that the blood may be from the intestines. If the blood is brownish, this indicates that the blood has passed from the stomach. In the second case, the baby may have hurt his gums or mouth, and the blood is digested. If the blood is bright red, this may indicate a medical condition, and I suggest you visit your pediatrician if the blood persists in the stool after several days. A stool analysis may also provide the right answer you are looking for.",
+ "seconds": 5.921
+}

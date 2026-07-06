@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__916776_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, my child is two years old and he has been advised circumcision. The doctor suggested laser circumcision, so I just want to know whether it will be done with general anesthesia or local anesthesia. What type of precautions should I take? Will this be painful for my two-year-old child?",
+ "audio_seconds": 15.1,
+ "created_at": "2026-07-06T04:24:26+00:00",
+ "failed": false,
+ "text": "Hi my child is two years old and he has been advised circumcision. The doctor suggested laser circumcision, so I just want to know whether it will be done with general anesthesia or low pressure. What type of precautions should I take? Will this be painful for my two-year-old child?",
+ "seconds": 0.529
+}

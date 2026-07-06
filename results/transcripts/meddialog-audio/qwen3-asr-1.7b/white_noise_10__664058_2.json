@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__664058_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, an itchy rash on the face can be due to Razberi extract. Even though it is reported that it has no side effects, idiosyncratic reactions can occur in any individual to any product. It can be treated with Atarax twenty-five milligrams at night, Alaspan in the morning, azithromycin five hundred milligrams once daily for three days, and the application of calamine lotion can cure the condition.",
+ "audio_seconds": 22.78,
+ "created_at": "2026-07-06T05:33:15+00:00",
+ "failed": false,
+ "text": "High. When anti-rash is used, the results vary. Excess. Even though it is reported that it has no side effects, idiosyncratic reactions can occur in any individual with any product. It can be treated with a serum of 25 milligrams. A last hand in the morning. A zirconic of 500 milligrams once daily for three days. Any application of talcum is sufficient to cure the condition.",
+ "seconds": 0.857
+}

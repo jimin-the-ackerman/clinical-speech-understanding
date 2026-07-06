@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0001",
+ "condition": null,
+ "reference": "AS THEY WERE IN NO HASTE AND THE CONFINEMENT OF A RAILROAD CAR WOULD BE VERY IRKSOME TO THE YOUNGER CHILDREN IT HAD BEEN DECIDED TO MAKE THE JOURNEY BY WATER",
+ "audio_seconds": 9.2,
+ "created_at": "2026-07-05T13:14:45+00:00",
+ "failed": false,
+ "text": "as they were in no haste and the confinement of a railroad car would be very irksome to the younger children it had been decided to make the journey by water",
+ "seconds": 0.127
+}

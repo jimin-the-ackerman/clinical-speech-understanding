@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__620509_1",
+ "condition": "background_noise_60",
+ "reference": "Hello Doctor, my daughter is reaching her 6th month on August twenty-seven. Until now, we have been giving her formula milk along with her mother's milk. However, we have noticed that she wants to eat everything that others eat. So we are planning to buy Cerelac for her. Is that alright?",
+ "audio_seconds": 16.13,
+ "created_at": "2026-07-06T04:22:55+00:00",
+ "failed": false,
+ "text": "Hello, doctor. My daughter is reaching her sixth month on August 27th. Until now, we have been giving her formula milk along with her mother's milk. However, we have noticed that she wants to eat everything that others eat. So we are planning to buy serolac for her. Is that alright?",
+ "seconds": 0.512
+}

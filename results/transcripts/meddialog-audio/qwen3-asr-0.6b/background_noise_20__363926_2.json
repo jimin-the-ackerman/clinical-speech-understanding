@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__363926_2",
+ "condition": "background_noise_20",
+ "reference": "Your jaw size must be smaller than your total tooth size, so that tooth is not in the right place. An orthodontist can help you with that. Regarding your wisdom teeth, they may be broken because of dental caries.",
+ "audio_seconds": 10.75,
+ "created_at": "2026-07-06T04:50:42+00:00",
+ "failed": false,
+ "text": "Your jaw size must be smaller than your total tooth size, so that tooth is not in the right place. An orthodontist can help you with that. Regarding your wisdom teeth, they may be broken because of dental caries.",
+ "seconds": 0.447
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__170813_1",
+ "condition": "clean",
+ "reference": "I have been having pain in my right side below my rib cage on and off for a couple of months now. Last week it was really bad. I was told last year that I had a small cyst on my liver. I went to my gastroenterologist a couple of months ago, and he did an ultrasound and said he couldn't see anything.",
+ "audio_seconds": 17.83,
+ "created_at": "2026-07-06T02:57:09+00:00",
+ "failed": false,
+ "text": "I have been having pain in my right side below my ribcage, on and off for a couple of months now. Last week it was really bad. I was told last year that I had a small cyst on my liver. I went to my gastroenterologist a couple of months ago, and he did an ultrasound and said he couldn't see anything.",
+ "seconds": 4.57
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__443716_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, my wife has developed some white spots and hypopigmented patches in her underarm and breast area. We went to a dermatologist, but the doctor was confused about whether it is vitiligo or a fungal infection. The doctor prescribed fluconazole tablets along with mometasone and terbinafine ointment. She applies the ointment regularly, but there is no improvement. What could it be? Her mother has vitiligo covering her full body.",
+ "audio_seconds": 25.77,
+ "created_at": "2026-07-06T03:02:02+00:00",
+ "failed": false,
+ "text": "I and my wife have developed some white spots and hypothen patches in her underarm and breast area. We went to a dermatologist, but the doctor was confused about whether it is vitiligo or a fungal infection. The doctor prescribed flutomazole tablets along with mometasone and terbinafine ointment. She applies the ointment regularly, but there is no improvement. Her mother has vitiligo covering her whole body.",
+ "seconds": 5.937
+}

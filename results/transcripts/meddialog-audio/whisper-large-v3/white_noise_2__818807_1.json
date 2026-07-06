@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__818807_1",
+ "condition": "white_noise_2",
+ "reference": "Hello, I have a son who is ten years old. He had a sharp pain in his lower back followed by dizziness and a cold sweat. He had a bluish color and, as this happened, he also experienced a loss of bladder control. This has never happened before and I am very concerned.",
+ "audio_seconds": 18.69,
+ "created_at": "2026-07-06T04:35:16+00:00",
+ "failed": false,
+ "text": "Hello, I have a son who is 10 years old. He had a sharp pain in his lower back followed by dizziness and a cold sweat. He had a bluish color and as this happened, he also experienced a loss of bladder control. This has never happened before and I am very concerned.",
+ "seconds": 0.544
+}

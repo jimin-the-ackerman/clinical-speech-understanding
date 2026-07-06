@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-278226-0011",
+ "condition": null,
+ "reference": "SHE TURNED TO THE FRENCH ARTIST PRESENTLY AND ASKED HIM WHERE THE ELDER MISTER KERSTALL LIVED AND IF THERE WAS ANY POSSIBILITY OF SEEING HIM",
+ "audio_seconds": 8.42,
+ "created_at": "2026-07-06T03:38:20+00:00",
+ "failed": false,
+ "text": "She turned to the French artist presently and asked him where the elder Mr. Curstle lived, and if there was any possibility of seeing him.",
+ "seconds": 0.308
+}

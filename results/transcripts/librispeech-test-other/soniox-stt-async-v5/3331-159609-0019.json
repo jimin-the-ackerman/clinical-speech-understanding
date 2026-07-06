@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0019",
+ "condition": null,
+ "reference": "IT WAS A VERY DIFFERENT WINTER FROM THE LAST FOR BOTH THE GIRLS",
+ "audio_seconds": 3.62,
+ "created_at": "2026-07-06T00:05:30+00:00",
+ "failed": false,
+ "text": "It was a very different window from the last for both the girls.",
+ "seconds": 4.131
+}

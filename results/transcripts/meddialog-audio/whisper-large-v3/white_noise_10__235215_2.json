@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__235215_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, it seems like a developmental delay due to an infection affecting the growing brain during the newborn period. He needs to undergo investigations, including imaging of the brain and some basic blood tests. He will also require regular medications for his seizures.",
+ "audio_seconds": 15.19,
+ "created_at": "2026-07-06T04:29:15+00:00",
+ "failed": false,
+ "text": "Hi, it seems that the developments are delayed due to the impact and effects of growing grains on the newborn carrier. It seems that under growing expectations, you could reduce the amount of grains in the conveyor belt. You will also require regular medications for your baby.",
+ "seconds": 0.48
+}

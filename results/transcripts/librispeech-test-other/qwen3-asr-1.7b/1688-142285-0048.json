@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0048",
+ "condition": null,
+ "reference": "YOU KNOW I'M A STRANGER HERE SO PERHAPS I'M NOT SO QUICK AT UNDERSTANDING WHAT YOU MEAN AS IF I'D LIVED ALL MY LIFE AT MILTON",
+ "audio_seconds": 8.25,
+ "created_at": "2026-07-06T03:26:42+00:00",
+ "failed": false,
+ "text": "You know, I'm a stranger here, so perhaps I'm not so quick at understanding what you mean, as if I'd lived all my life in Milton.",
+ "seconds": 0.332
+}

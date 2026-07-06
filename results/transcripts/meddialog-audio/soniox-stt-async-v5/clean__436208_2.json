@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__436208_2",
+ "condition": "clean",
+ "reference": "Hello. The Unwanted seventy-two pill has a side effect of disrupting menstrual cycles, and since you have taken it twice, your period is likely delayed for this reason. I would suggest taking a pregnancy test to be sure. If you vomited the next day, it would not have affected the efficacy of the pill. Your symptoms may be due to anxiety or stress related to the delayed period.",
+ "audio_seconds": 20.48,
+ "created_at": "2026-07-06T02:58:03+00:00",
+ "failed": false,
+ "text": "Hello. The unwanted 72 pill has the side effect of disrupting menstrual cycles, and since you have taken it twice, your period is likely delayed for this reason. I would suggest taking a pregnancy test to be sure; if you vomited the next day, it would not have affected the efficacy of the pill. Your symptoms may be due to anxiety or stress related to the delayed period.",
+ "seconds": 8.07
+}

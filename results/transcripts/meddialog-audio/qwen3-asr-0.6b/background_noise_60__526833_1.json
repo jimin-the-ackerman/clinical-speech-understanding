@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__526833_1",
+ "condition": "background_noise_60",
+ "reference": "My baby is two and a half months old. My breast milk supply is very low, and I have to give formula milk to fulfill her requirements. However, I do not know how much quantity should be given to my baby in each feed and its preparation because, according to the directions on the formula, it seems concentrated.",
+ "audio_seconds": 19.2,
+ "created_at": "2026-07-06T04:58:50+00:00",
+ "failed": false,
+ "text": "My baby is two and a half months old. My breast milk supply is very low, and I have to give formula milk to fulfill her requirements. However, I do not know how much quantity should contain baby in each feed in its preparation because, according to the directions on the formula, it seems concentrated.",
+ "seconds": 0.572
+}

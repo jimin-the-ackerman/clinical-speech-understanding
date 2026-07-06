@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__508783_1",
+ "condition": "white_noise_6",
+ "reference": "I have lower left abdominal and back pain so severe that over-the-counter pain medicine does not help. I experience vomiting and exhaustion and am sleeping abnormally more often. I have regular bowel movements. I am slightly overweight. Please help! Do you have any suggestions about what this could be?",
+ "audio_seconds": 20.48,
+ "created_at": "2026-07-06T00:47:21+00:00",
+ "failed": false,
+ "text": "Ik moet nog altijd wachten tot het seizoen begonnen is.",
+ "seconds": 0.512
+}

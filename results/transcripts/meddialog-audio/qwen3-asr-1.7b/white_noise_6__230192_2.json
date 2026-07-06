@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__230192_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, thank you for your inquiry. I can understand your concern, but I can assure you that it is not cancer. I advise you to first try an antispasmodic preparation called 'dicyclomine' along with acetaminophen, which should provide good results. If the symptoms persist, then it will need to be examined and investigated. But for now, there is no need to worry. Have a nice day.",
+ "audio_seconds": 21.85,
+ "created_at": "2026-07-06T05:39:07+00:00",
+ "failed": false,
+ "text": "Hello, thank you for your inquiry. I can understand your concern, but I can assure you that it is not him. I advise you to first try an antispasmodic preparation called cyclophamine, along with acetaminophen, which should provide good results. If the symptoms persist, then it will need to be examined and investigated. But for now, there is no need to worry. Have a nice day.",
+ "seconds": 0.853
+}

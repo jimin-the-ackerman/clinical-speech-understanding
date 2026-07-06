@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__699743_1",
+ "condition": "white_noise_2",
+ "reference": "Dear Madam, I am thirty-four years old and I have been a diabetic since the age of twenty-five. I am on tablets. I take Glimsev one-zero-one, Glysipage one-one-one, and Voglitor one-zero-one. I have a nine-year-old daughter; I conceived her during the first cycle of intrauterine insemination at GG Hospital in Chennai. I was using a Copper T, which I removed in two thousand and eight. During the intrauterine insemination process, there was an ectopic pregnancy in the right tube, and it was sterilized at the time of the lower segment cesarean section. Even though we are not using any birth control since removing the Copper T, I am unable to conceive. My periods are regular. What are the chances of conceiving naturally?",
+ "audio_seconds": 45.99,
+ "created_at": "2026-07-06T00:46:49+00:00",
+ "failed": false,
+ "text": "You matter, I am here for you, and the sky that's the key is mine. I am a prophet. I think once I am fully one with the moon for one and blossom for one and the wind of the moon for one, I am a diamond. Each and every sparkle is giving me a summation of the possible divine. Each and every possibility containing the infinity remaining as possible paths to the next. In knowing them I lose meaningful tokens from the memory harvest tree. I am here for you. The spirit of a mother who did things with this green mantra.",
+ "seconds": 2.064
+}

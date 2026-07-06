@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__971699_1",
+ "condition": "white_noise_2",
+ "reference": "My daughter just found out her bladder is full of stones. This was determined by an ultrasound test. The issue is, she underwent a gastric bypass about seven years ago, and how would this problem with her gallbladder affect her should she elect to have surgery to remove the stones?",
+ "audio_seconds": 15.27,
+ "created_at": "2026-07-06T05:38:34+00:00",
+ "failed": false,
+ "text": "My daughter just found out her bladder is full of stones. This was determined by an ultrasound test. The issue is she underwent a gastric bypass about seven years ago, and how would this problem with her gallbladder affect her should she elect to have surgery to remove the stones?",
+ "seconds": 0.547
+}

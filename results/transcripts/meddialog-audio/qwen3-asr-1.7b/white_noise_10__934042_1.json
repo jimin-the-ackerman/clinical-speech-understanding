@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__934042_1",
+ "condition": "white_noise_10",
+ "reference": "I have a rare form of lung cancer, and I am going through chemotherapy, having completed six sessions so far. I just had a bone scan done, and it showed that both my knees, left thigh, and left hip have degenerative changes. My oncologist today said he may want to biopsy my thigh. It does not hurt me, but it is swollen and feels hard. I guess I’m just looking for either a second opinion.",
+ "audio_seconds": 25.69,
+ "created_at": "2026-07-06T05:34:30+00:00",
+ "failed": false,
+ "text": "I have a rare form of lung cancer, and I am going through chemotherapy. Having completed six sessions so far, I just had a bone scan done, and it showed that both my knees, left thigh, and left hip have degenerative changes. My oncologist today said you may want to buy off to my thigh. It does not hurt me, but it is swollen and feels hard. I guess I'm just looking for either a second opinion.",
+ "seconds": 0.853
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__625600_2",
+ "condition": "background_noise_20",
+ "reference": "Dear, these are signs of neural involvement, and since both hands and feet are involved, it may be due to vitamin deficiency. Please get the serum levels of vitamin B6 and vitamin B12 checked, and also watch for other symptoms.",
+ "audio_seconds": 14.08,
+ "created_at": "2026-07-06T00:42:22+00:00",
+ "failed": false,
+ "text": "Dear, these are signs of neural involvement, and since both hands and feet are involved, it may be due to vitamin deficiency. Please get the serum levels of vitamin B6 and vitamin B12 checked, and also watch for other symptoms.",
+ "seconds": 0.969
+}

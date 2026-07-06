@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__789089_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, I have a fifteen-year-old son who has taken mine and my daughter's clothes for years now. I have tried talking to him about this, asking what he does and how I can help him. He tells me he doesn't need help and that he is fine. The problem is that he takes them without permission. Sometimes he destroys them; he cuts the legs off of the pants or cuts them in half and then tapes them together with duct tape. I am afraid my husband will find out, and I want to help my son, but I don’t know who to turn to. I don’t want my son to think something is wrong with him. I have offered to buy him clothes, but I ask him to please stop taking our stuff. What do you suggest?",
+ "audio_seconds": 44.2,
+ "created_at": "2026-07-06T04:38:35+00:00",
+ "failed": false,
+ "text": "Hi, I have a 15-year-old son who has taken mine and my daughter's clothes for a reason. I have tried talking to him about this, asking what he does and how I can help him. He tells me he doesn't need help and that he is fine. The problem is that he takes them without permission. Sometimes he destroys them. He cuts the legs off of the pants or cuts them in half and then treats them together with dressing. I am afraid my husband will find out and I don't want to hurt my son. But I don't know how to change this. I don't want my son to think something is wrong with me. I have asked him to buy me clothes, but I ask him to please stop taking my stuff. What do you suggest?",
+ "seconds": 1.364
+}

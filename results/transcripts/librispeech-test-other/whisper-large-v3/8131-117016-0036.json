@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0036",
+ "condition": null,
+ "reference": "MURDOCH TOOK HIS NOD AS EVIDENCE ENOUGH AND TURNED TO THE WRETCHED TOUGHS",
+ "audio_seconds": 5.59,
+ "created_at": "2026-07-05T13:07:34+00:00",
+ "failed": false,
+ "text": "Murdock took his nod as evidence enough, and turned to the wretched Tufts.",
+ "seconds": 0.221
+}

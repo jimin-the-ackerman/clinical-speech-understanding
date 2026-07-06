@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__336388_2",
+ "condition": "background_noise_40",
+ "reference": "Hi. You seem to be facing a number of challenges at one time. It is indeed a lot to handle, but you will get through this phase a stronger and wiser person after this life experience. Firstly, you need to talk to someone face to face to express your feelings, a friend or someone close to you. Try keeping yourself busy by organizing your new room, making a friend, or finding a walking partner. Join some activities or pursuits you enjoy during your free time, such as Zumba, dance classes, or gym sessions to take care of yourself. Performing deep breathing exercises at least three times a day will help you calm down; going for a jog or a walk in the mornings is also preferable. Keeping a diary can help you express your feelings on a day-to-day basis and help you think clearly. Meeting face to face with a psychiatrist will help you deal with your emotions currently and may lead to medication if necessary after proper evaluation in person.",
+ "audio_seconds": 62.46,
+ "created_at": "2026-07-06T00:43:03+00:00",
+ "failed": false,
+ "text": "Hi. You seem to be facing a number of challenges at one time. It is indeed a lot to handle, but you will get through this phase a stronger and wiser person after this life experience. Firstly, you need to talk to someone face to face to express your feelings. A friend or someone close to you. Try keeping yourself busy by organizing your new room, making a friend, or finding a walking partner. Join some activities or pursuits you enjoy during your free time, such as Zumba, dance classes, or gym sessions to take care of yourself. Performing deep breathing exercises at least three times a day will help you calm down. Going for a jog or a walk in the mornings is also preferable. Keeping a diary can help you express your feelings on a day-to-day basis and help you think clearly. Meeting face to face with a psychiatrist will help you deal with your emotions and may lead to medication if necessary after proper evaluation in person.",
+ "seconds": 3.731
+}

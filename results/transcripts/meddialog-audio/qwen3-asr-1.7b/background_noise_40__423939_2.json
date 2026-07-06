@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__423939_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, I have gone through your question and understand your concerns. Constant tingling and numbness in the feet are mostly symptoms of nerve root compression due to a back problem, so I suggest doing a Magnetic Resonance Imaging of the lumbosacral spine. I also recommend using a lumbosacral belt.",
+ "audio_seconds": 15.62,
+ "created_at": "2026-07-06T05:21:00+00:00",
+ "failed": false,
+ "text": "Hi, I have gone through your question and understand your concerns. Constant tingling and numbness in the feet are mostly symptoms of nerve root compression due to a back problem. So, I suggest doing a magnetic resonance imaging of the lumbar sacral spine. I also recommend using a lumbar sacral belt.",
+ "seconds": 0.598
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__420297_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, the black line, if present on the tooth surface, can be either due to staining or it can be caries. If it is caries, you can get it filled based on the depth. If it is staining, it can be removed by scaling. If the black color is in the gum, then it can be due to subgingival calculus, which can be removed by scaling. So, there is nothing to be worried about. Meet a dentist and get your problem solved. According to the symptoms you have described, I do not believe you have a chance of needing dentures. Be cool. I hope you found some benefit from this reply. Have a healthy day!",
+ "audio_seconds": 37.21,
+ "created_at": "2026-07-06T04:37:01+00:00",
+ "failed": false,
+ "text": "Hello. The black line is present on the tooth's surface. It can be either due to staining or it can be caries. If it is caries, you can get it filled based on the depth. If it is staining, it can be removed by scaling. If the black color is in, then it can be due to subgynvol calculus, which can be removed by scaling. So, there is nothing to be worried about. Meet a dentist and get your call. Well, according to the symptoms you have described, I do not believe you have a chance of meeting dentures. Be cool. I hope you found some benefit from this reply. Have a healthy day.",
+ "seconds": 1.148
+}

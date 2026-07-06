@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0000",
+ "condition": null,
+ "reference": "HIS FOLLOWERS RUSHED FORWARD TO WHERE HE LAY AND THEIR UNITED FORCE COMPELLING THE BLACK KNIGHT TO PAUSE THEY DRAGGED THEIR WOUNDED LEADER WITHIN THE WALLS",
+ "audio_seconds": 10.72,
+ "created_at": "2026-07-06T03:26:13+00:00",
+ "failed": false,
+ "text": "His followers rush forward to where he lay, and their united force compelling the black knight to pause, they drag the wounded leader within the walls.",
+ "seconds": 0.303
+}

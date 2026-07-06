@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__203782_1",
+ "condition": "background_noise_20",
+ "reference": "Hi Doctor, recently, I found a small piece of flesh on the wrinkled part of my anus and also near the perineum, but connected to the anus. I am worried that it might be something serious. I discovered it about four days ago. It does not cause me any discomfort, bleeding, or pain. I do not even feel it is there, only when I touch it. I think it started when I sat on the toilet for too long, but I am not sure if that might be the cause. Do I have hemorrhoids, or is it different?",
+ "audio_seconds": 27.9,
+ "created_at": "2026-07-06T04:39:39+00:00",
+ "failed": false,
+ "text": "Hi, doctor. Recently, I found a small piece of flesh on the wrinkled part of my anus, and also near the perineum, but connected to the anus. I am worried that it might be something serious. I discovered it about four days ago. It does not cause me any discomfort, bleeding, or pain. I do not even feel it is there, only when I touch it. I think it started when I sat on the toilet for too long, but I am not sure if that might be the cause. Do I have hemorrhoids, or is it different?",
+ "seconds": 0.343
+}

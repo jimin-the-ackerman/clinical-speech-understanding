@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__520018_1",
+ "condition": "background_noise_40",
+ "reference": "Two weeks ago, I lost about two pints of blood, bleeding from the rectum. I was hospitalized, received two pints of blood, and was told I have diverticulosis. I also had a colonoscopy, and they found two polyps. I did not get the results back yet. Could the profuse bleeding from the rectum mean that I have cancer?",
+ "audio_seconds": 21.67,
+ "created_at": "2026-07-06T04:41:42+00:00",
+ "failed": false,
+ "text": "Two weeks ago, I lost about two pints of blood bleeding from the rectum. I was hospitalized, received two pints of blood, and was told I have ucylosis. I also had a colonoscopy, and they found two polyps. I did not get the results back yet. Could the profuse bleeding from the rectum mean that I have cancer?",
+ "seconds": 0.263
+}

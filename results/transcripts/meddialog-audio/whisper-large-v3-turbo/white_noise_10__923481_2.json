@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__923481_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. Yes, you are correct; fluvoxamine has a side effect of increased sedation. Due to the sedation, a person feels lethargic. You can try this: if fluvoxamine is causing sedation, you can shift the medication to night time, just before sleeping. This should address your problem. If this does not resolve your issue, you can try another selective serotonin reuptake inhibitor, sertraline, which is a safer option for patients with heart disease, as you have already tried escitalopram and paroxetine.",
+ "audio_seconds": 28.42,
+ "created_at": "2026-07-06T04:46:34+00:00",
+ "failed": false,
+ "text": "Hello? Yes, you are correct. Move Oxamate has a side effect with each information. Due to this addiction, a person who is a doctor. You can try this. If Move Oxamate has caused information, you can shift an indication of information. Just before sleeping. This should address your problem. If this does not resolve your issue, you can try another selected therapy and re-update the answer, which is a safer option for patients with heart disease. As you have already tried, Esoteroprams can't throw off the problem.",
+ "seconds": 0.365
+}

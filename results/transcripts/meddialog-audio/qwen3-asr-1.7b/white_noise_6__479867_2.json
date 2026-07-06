@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__479867_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, there is a possibility of a ringworm infection or fungal infection in your case. The only precaution you must follow is not to touch, pinch, pop, or squeeze any of them; otherwise, it can get infected and cause complications. You can apply clotrimazole cream and take the antihistamine loratadine or levocetirizine by mouth.",
+ "audio_seconds": 23.13,
+ "created_at": "2026-07-06T05:40:04+00:00",
+ "failed": false,
+ "text": "There is a possibility of a ringworm infection or fungal infection in your case. The only precaution you must follow is not to touch, pop or squeeze any of them. Otherwise, it can get infected and cause complications. You can apply clotrimazole cream and take the antihistamine loratadine or levocetirizine by mouth.",
+ "seconds": 0.682
+}

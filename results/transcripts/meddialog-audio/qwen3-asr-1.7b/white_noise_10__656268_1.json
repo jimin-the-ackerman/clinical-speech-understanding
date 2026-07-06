@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__656268_1",
+ "condition": "white_noise_10",
+ "reference": "My ten-year-old daughter still has a tummy that I thought would slim down as she got older, but it hasn't. She has no complaints about pain or discomfort. She doesn't overeat or consume a lot of sweets and has a bowel movement at least once a day. She also exercises regularly. Her height and weight are normal for her age, and she has no significant medical history. Her tummy caught my attention when I was tying her belt around her for her martial arts class; it hangs over the belt. Any ideas?",
+ "audio_seconds": 27.31,
+ "created_at": "2026-07-06T05:33:13+00:00",
+ "failed": false,
+ "text": "My ten-year-old daughter still has a tummy that I thought would slim down when she got older, but it hasn't. She has no complaints about pain or discomfort. She doesn't overeat or overfeed, and has a bowel movement at least once a day. She also exercises regularly. Her height and weight are normal for her age, and she has no significant medical history. Her tummy caught my attention when I was tying her belt around her for her martial arts class. It hangs over the belt. Any ideas?",
+ "seconds": 0.989
+}

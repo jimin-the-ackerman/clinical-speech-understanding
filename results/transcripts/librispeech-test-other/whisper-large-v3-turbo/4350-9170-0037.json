@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-9170-0037",
+ "condition": null,
+ "reference": "BUT WITH UNIVERSAL MILITARY SERVICE IT COMES TO PASS THAT MEN AFTER MAKING EVERY SACRIFICE TO GET RID OF THE CRUELTY OF STRIFE AND THE INSECURITY OF EXISTENCE ARE CALLED UPON TO FACE ALL THE PERILS THEY HAD MEANT TO AVOID",
+ "audio_seconds": 11.93,
+ "created_at": "2026-07-05T13:11:54+00:00",
+ "failed": false,
+ "text": "but with universal military service it comes to pass that men after making every sacrifice to get rid of the cruelty of strife and the insecurity of existence are called upon to face all the perils they had meant to avoid",
+ "seconds": 0.14
+}

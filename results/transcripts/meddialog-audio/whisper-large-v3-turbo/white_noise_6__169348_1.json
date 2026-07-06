@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__169348_1",
+ "condition": "white_noise_6",
+ "reference": "I am twenty years old, male. I have problems with my penis. Itchy and white fluid comes out with a bad smell. I went to the laboratory. The result was red blood cells zero-two and pus cells eight-twelve. What happened? My girlfriend and I went to a hotel. We had intercourse. Is that the reason, or is it because the towel and bed are not clean?",
+ "audio_seconds": 22.02,
+ "created_at": "2026-07-06T04:48:14+00:00",
+ "failed": false,
+ "text": "I am 20 years old, male, I have probably penis, itchy and white fluid comes out with a bad smell. I went to the laboratory, there was red blood cells 02 and pus cells 812. What happened? My girlfriend and I went to a hotel, we had intercourse, is that the reason or is it because the towel and bed are not clean?",
+ "seconds": 0.257
+}

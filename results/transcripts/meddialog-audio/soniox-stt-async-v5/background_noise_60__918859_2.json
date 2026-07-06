@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__918859_2",
+ "condition": "background_noise_60",
+ "reference": "Urine culture and sensitivity tests may be advisable to change the antimicrobial. Pantoprazole twenty milligrams for acidity can be taken for your symptoms.",
+ "audio_seconds": 10.07,
+ "created_at": "2026-07-06T02:56:30+00:00",
+ "failed": false,
+ "text": "Urine culture and sensitivity tests may be advisable to change the antimicrobial. Pantoprazole 20 mg for acidity can be taken for your symptoms.",
+ "seconds": 4.6
+}

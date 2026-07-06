@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0023",
+ "condition": null,
+ "reference": "IF YOU ARE IN LONDON DURING THE SUMMER YOU MUST COME AND PAY US A VISIT WILL YOU",
+ "audio_seconds": 4.56,
+ "created_at": "2026-07-05T13:08:11+00:00",
+ "failed": false,
+ "text": "if you are in london during the summer you must come and pay us a visit will you",
+ "seconds": 0.221
+}

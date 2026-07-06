@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__616137_2",
+ "condition": "white_noise_2",
+ "reference": "It depends on what antibiotic is being prescribed. Methotrexate is excreted through the kidneys. The idea is that most antibiotics are also removed from the kidneys, thereby making the kidneys an easy target. The best way to answer your question would be to monitor the serum methotrexate levels daily for the next three days when he takes the next injection of methotrexate. Best of luck.",
+ "audio_seconds": 19.97,
+ "created_at": "2026-07-06T04:47:29+00:00",
+ "failed": false,
+ "text": "It depends on what antibiotic is being prescribed. Methotrexate is excreted through the kidney. The idea is that most antibiotics are also removed from the kidneys, thereby making the kidneys an easy target. The best way to answer your question would be to monitor the serum methotrexate levels daily for the next three days when you take the next injection of methotrexate. Best of luck.",
+ "seconds": 0.289
+}

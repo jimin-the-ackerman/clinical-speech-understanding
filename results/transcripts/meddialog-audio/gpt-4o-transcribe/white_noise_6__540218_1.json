@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__540218_1",
+ "condition": "white_noise_6",
+ "reference": "Hi doctor, please help me. I took a semen analysis test yesterday. The results are shown below. Sir, please analyze and tell me if my condition is normal or not. Can I become a father? Sperm count is ninety-nine million. Sperm motility is: progressive motile - twenty-six%, non-progressive - thirty%, immotile - forty-four%. pH - eight, volume - one, normal forms of sperms - ninety-six% and abnormal are four%. Pus cells are four-six%.",
+ "audio_seconds": 35.58,
+ "created_at": "2026-07-06T00:47:23+00:00",
+ "failed": false,
+ "text": "Michael, Michael will be speaking about Google's calendar, but Lee Hammer is currently participating remotely. Therefore, we will proceed with them. Enoch Ike performing one. Louis Dufour is performing the software.",
+ "seconds": 1.181
+}

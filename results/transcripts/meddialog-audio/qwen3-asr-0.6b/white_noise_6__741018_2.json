@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__741018_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. As per your description, you have removed the wire from all brackets, and now no wire is present. Ideally, you should not have done this, as it may hamper your treatment progress. When the wire was disturbing you, you should have contacted your orthodontist at least by telephone. To reduce discomfort, there are alternatives such as using orthodontic relief wax to alleviate irritation from the wire end or bracket projections, or using wet cotton pellets, instead of directly removing the wire. Since there are another two to three days before your brackets will be without wire or any force, there is a chance of your teeth becoming misaligned or loss of alignment. Additionally, the stage of your treatment is not mentioned, and this action could hinder your progress. Now, I advise you to visit your orthodontist as early as possible. I would also like to see images of the concerned area.",
+ "audio_seconds": 59.14,
+ "created_at": "2026-07-06T05:14:18+00:00",
+ "failed": false,
+ "text": "Hello, ask her your description. You have removed the wire from all brackets, and now no wire is present. Ideally, you should not have done this as it may hamper your treatment progress. When the wire was disturbing you, you should have contacted your orthodontist at least by telephone to reduce discomfort. There are alternatives such as using orthodontic relief wraps to alleviate irritation from the wire ends, or bracket projections, or using wet cotton pellets instead of directly removing the wire. Since there are another two to three days before your bracket will be without wire or any force, there is a chance of your teeth becoming misaligned or loss of alignments. Additionally, the stage of your is not mentioned, and this action could hinder your progress. Now, I advise you to visit your orthodontist as early as possible. I would also like to see images of the concerned area.",
+ "seconds": 1.578
+}

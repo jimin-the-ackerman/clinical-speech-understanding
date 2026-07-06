@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__615633_2",
+ "condition": "white_noise_2",
+ "reference": "Low hemoglobin is one of the most common causes of tachycardia and dizziness. Other causes include hyperthyroidism, anxiety, and low oxygen levels in the blood. Do you have any sleep-related problems, such as snoring or excessive daytime sleepiness, which could cause sympathetic hyperactivity and high heart rate? Also, please get your blood sugar level tested. If you are on any medications, have those reviewed for side effects.",
+ "audio_seconds": 27.39,
+ "created_at": "2026-07-06T03:07:01+00:00",
+ "failed": false,
+ "text": "Low hemoglobin is one of the most common causes of tachycardia and dizziness; other causes include hyperthyroidism, anxiety, and low oxygen levels in the blood. Do you have any sleep-related problems, such as snoring or excessive daytime sleepiness, which could cause sympathetic hyperactivity and high heart rate? Also, please get your blood sugar level tested. If you are on any medications, have those reviewed for side effects.",
+ "seconds": 4.651
+}

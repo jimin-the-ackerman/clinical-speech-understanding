@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__597923_2",
+ "condition": "background_noise_20",
+ "reference": "Treatment depends upon various factors, such as age, duration, and intensity of symptoms, as well as associated medical conditions. However, depending upon the MRI report you have mentioned, we can proceed further in the following manner: one) Anti-inflammatory medication and muscle relaxants, such as the tablet diclofenac fifty milligrams and thiocholchicoside four milligrams twice daily two) Local application gel three) Ultrasound and interferential therapy to the local pain spot four) Avoiding heavy work and forward bending after relief in pain. Physiotherapy needs to be started after.",
+ "audio_seconds": 38.57,
+ "created_at": "2026-07-06T02:48:10+00:00",
+ "failed": false,
+ "text": "Treatment depends upon various factors, such as age, duration, and intensity of symptoms, as well as associated medical conditions. However, depending upon the MRI report you have mentioned, we can proceed further in the following manner: 1) anti-inflammatory medication and muscle relaxants, such as the tablet diclofenac 50 mg and thiocholchiposide 4 mg twice daily; 2) local application gel; 3) ultrasound and interferential therapy for the local pain spot; 4) avoiding heavy work and forward bending after relief in pain. Physiotherapy needs to be started after.",
+ "seconds": 4.9
+}

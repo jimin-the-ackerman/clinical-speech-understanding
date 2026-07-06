@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164914-0020",
+ "condition": null,
+ "reference": "O MY LORD CONTINUED THE EUNUCH AND SHAHRAZAD PERCEIVED THE DAWN OF DAY AND CEASED TO SAY HER PERMITTED SAY",
+ "audio_seconds": 10.05,
+ "created_at": "2026-07-05T23:53:57+00:00",
+ "failed": false,
+ "text": "O my lord,\" continued the eunuch. And Shahrazad perceived the dawn of day and ceased to say her permitted say.",
+ "seconds": 0.793
+}

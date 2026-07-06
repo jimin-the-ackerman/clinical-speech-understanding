@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96591-0002",
+ "condition": null,
+ "reference": "AND AND YOU HAVE NOT FOUND OUT ANYTHING CAME IN QUICK FRIGHTENED TONES",
+ "audio_seconds": 5.02,
+ "created_at": "2026-07-06T02:36:22+00:00",
+ "failed": false,
+ "text": "And— and you have not found out anything? Came in quick, frightened tones.",
+ "seconds": 5.162
+}

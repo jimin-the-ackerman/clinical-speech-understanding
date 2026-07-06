@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__919023_2",
+ "condition": "background_noise_60",
+ "reference": "Actually, we do not know the cause of cerebral atrophy in your child, but oxygen being a cause is not possible. Developmental stimulation at neurodevelopmental centers can be helpful, and Transcranial Magnetic Stimulation for determining the cause of cerebral atrophy needs to be done.",
+ "audio_seconds": 15.7,
+ "created_at": "2026-07-06T04:24:27+00:00",
+ "failed": false,
+ "text": "Actually, we do not know the cause of cerebral atrophy in your child, but oxygen being a cause is not possible. Developmental stimulation at neurodevelopmental centers can be helpful, and transcranial magnetic stimulation for determining the cause of cerebral atrophy needs to be done.",
+ "seconds": 0.515
+}

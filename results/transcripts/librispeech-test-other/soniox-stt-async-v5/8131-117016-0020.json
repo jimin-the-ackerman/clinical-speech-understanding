@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0020",
+ "condition": null,
+ "reference": "THERE WAS A CRUDE LIGHTING SYSTEM HERE PUT UP BY THE CITIZENS AT THE FRONT OF EACH BUILDING A DIM PHOSPHOR BULB GLOWED WHEN DARKNESS FELL THEY WOULD HAVE NOTHING ELSE TO SEE BY",
+ "audio_seconds": 12.59,
+ "created_at": "2026-07-06T02:39:00+00:00",
+ "failed": false,
+ "text": "There was a crude lighting system here, put up by the citizens. At the front of each building a dim phosphor bulb glowed; when darkness fell, they would have nothing else to see by.",
+ "seconds": 4.651
+}

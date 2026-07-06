@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__160254_2",
+ "condition": "background_noise_20",
+ "reference": "Hi dear, in a female with a regular twenty-eight-thirty day cycle, the most fertile days are between the 8th and 18th days calculated from the day of the onset of the period. Any unprotected sexual intercourse during this period increases the chances of pregnancy. If you had sexual intercourse within a week after your period, then it falls in the fertile window and there are chances of conceiving. The symptoms you are experiencing are vague and do not specifically indicate pregnancy. Anyway, get a pregnancy test done immediately in case of a missed period. All the best.",
+ "audio_seconds": 30.46,
+ "created_at": "2026-07-06T04:49:49+00:00",
+ "failed": false,
+ "text": "Hi dear. In a female with a regular twenty-eight thirty day cycle, the most fertile days are between the eighth and eighteenth days, calculated from the day of the onset of the period. Any unprotected sexual intercourse during this period increases the chances of pregnancy. If you had sexual intercourse within a week after your period, then it falls in the fertile window and there are chances of conceiving. The symptoms you are experiencing are vague and do not specifically indicate pregnancy. Anyway, get a pregnancy test done immediately in case of a missed period. All the best.",
+ "seconds": 0.99
+}

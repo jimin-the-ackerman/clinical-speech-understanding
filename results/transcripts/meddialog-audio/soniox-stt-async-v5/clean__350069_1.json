@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__350069_1",
+ "condition": "clean",
+ "reference": "My son is two years and ten months old. He has been experiencing a high fever for the last four days, reaching up to one hundred and four degrees Fahrenheit, which decreases with medication. We have had his blood test done, and his C-reactive protein reading came back very high, at sixteen. Please advise me on why this C-reactive protein reading could be high. His weight is eleven kilograms.",
+ "audio_seconds": 25.26,
+ "created_at": "2026-07-06T02:57:46+00:00",
+ "failed": false,
+ "text": "My son is 2 years and 10 months old. He has been experiencing a high fever for the last 4 days, reaching up to 104°F, which decreases with medication. We have had his blood tests done, and his C-reactive protein reading came back very high, at 16. Please advise me on why this C-reactive protein reading could be high. His weight is 11 kg.",
+ "seconds": 4.838
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__626169_1",
+ "condition": "white_noise_6",
+ "reference": "Hello, my fiancé and I are trying to conceive. My last regular period was on October two. We had unprotected sexual intercourse on the 15th. I had some bleeding starting on the 25th. It first started as a light pink color in discharge. The next day it was a steady flow for about half a day. After that, it became spotting and eventually disappeared. My period is not due until the 2nd or 3rd, around that time. Would I be getting my period again?",
+ "audio_seconds": 30.38,
+ "created_at": "2026-07-06T03:10:55+00:00",
+ "failed": false,
+ "text": "Hello, my exams are in our attendance and food. My last regular period was on October 2. He had unprotected sexual intercourse on the 16th; I had some bleeding starting on the 21st. It first started as a light pink color and discharged. The next day it was a steady flow for about half a day. After that, it became spotty and eventually disappeared. My period was not due until the 2nd or 3rd, and then that's gone. Do you and I be getting my period again?",
+ "seconds": 8.256
+}

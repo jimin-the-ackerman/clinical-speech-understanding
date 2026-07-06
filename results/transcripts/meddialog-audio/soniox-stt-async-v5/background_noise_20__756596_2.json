@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__756596_2",
+ "condition": "background_noise_20",
+ "reference": "I may suggest immobilization of the big toe with strapping to the next toe and anti-inflammatory medications if your doctor agrees. Immobilization for two to three weeks may help.",
+ "audio_seconds": 10.5,
+ "created_at": "2026-07-06T02:48:51+00:00",
+ "failed": false,
+ "text": "I may suggest immobilization of the big toe with strapping to the next toe and anti-inflammatory medications if your doctor agrees; immobilization for 2 to 3 weeks may help.",
+ "seconds": 5.243
+}

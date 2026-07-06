@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-61336-0012",
+ "condition": null,
+ "reference": "ITS FALL MAY NOT HAVE BEEN UNCONNECTED WITH THE TREND OF EVENTS IN ASSYRIA DURING THE CLOSING YEARS OF THE MIDDLE EMPIRE",
+ "audio_seconds": 7.64,
+ "created_at": "2026-07-06T02:25:16+00:00",
+ "failed": false,
+ "text": "Its form may not have been unconnected with the trend of events in Assyria during the closing years of the Middle Empire.",
+ "seconds": 5.241
+}

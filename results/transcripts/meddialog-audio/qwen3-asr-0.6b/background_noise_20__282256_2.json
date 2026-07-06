@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__282256_2",
+ "condition": "background_noise_20",
+ "reference": "Dear parent, your concern is valid. However, in this case, I would prefer to refer your child to the treating physician, who will evaluate and prescribe whatever is needed. These medications must always be taken with a prescription.",
+ "audio_seconds": 13.31,
+ "created_at": "2026-07-06T04:50:28+00:00",
+ "failed": false,
+ "text": "Dear parent, your concern is valid. However, in this case, I would prefer to refer your child to the treating physician, who will evaluate and prescribe whatever is needed. These medications must always be taken with a prescription.",
+ "seconds": 0.434
+}

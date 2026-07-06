@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__313795_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, welcome to Health Care Management. I can understand your concerns. Your child most probably has a lower respiratory tract infection. You should get the child examined by a physician.",
+ "audio_seconds": 12.29,
+ "created_at": "2026-07-06T04:21:37+00:00",
+ "failed": false,
+ "text": "Hello, welcome to healthcare management. I can understand your concerns. Your child most probably has a lower respiratory tract infection. You should get the child examined by a physician.",
+ "seconds": 0.341
+}

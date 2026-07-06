@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__339669_1",
+ "condition": "background_noise_60",
+ "reference": "I have a red lump on my waistline. It is slightly larger than a pea and is very painful. It turns white when I press on it. It is right where my underwear band sits. This is not the first time I have gotten this kind of lump in this same place. It comes and goes.",
+ "audio_seconds": 18.01,
+ "created_at": "2026-07-06T04:42:46+00:00",
+ "failed": false,
+ "text": "I have a red lump on my waistline. It is slightly larger than a pea and is very painful. It turns white when I press on it. It is right where my underwear band sits. This is not the first time I have gotten this kind of lump in this same place. It comes and goes.",
+ "seconds": 0.25
+}

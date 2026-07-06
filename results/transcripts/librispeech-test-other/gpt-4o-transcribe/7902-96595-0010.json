@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96595-0010",
+ "condition": null,
+ "reference": "DON'T KNOW AS HE HAS BEEN SEEN ABOUT HERE DO YOU SAID GURR LOOKING AT HER SEARCHINGLY NO SIR",
+ "audio_seconds": 4.95,
+ "created_at": "2026-07-05T23:58:01+00:00",
+ "failed": false,
+ "text": "Don't know as he has been seen about here, do you?\" said Gurr, looking at her searchingly. \"No, sir.\"",
+ "seconds": 1.098
+}

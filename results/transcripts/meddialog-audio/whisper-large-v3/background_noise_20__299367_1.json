@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__299367_1",
+ "condition": "background_noise_20",
+ "reference": "I want to conceive a baby now, as my husband and I just planned for a baby. I went to the doctor to get myself diagnosed. She advised me to do an ultrasound to find out if both ovaries are working properly. After the ultrasound, I found that I had mild free fluid in the right adnexa around the right ovary. What does it mean?",
+ "audio_seconds": 17.83,
+ "created_at": "2026-07-06T04:14:12+00:00",
+ "failed": false,
+ "text": "i want to conceive a baby now as my husband and i just planned for a baby i went to the doctor to get myself diagnosed she advised me to do an ultrasound to find out if both ovaries are working properly after the ultrasound i found that i had mild free fluid in the right adnexa around the right ovary what does it mean",
+ "seconds": 0.627
+}

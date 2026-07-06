@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__937302_1",
+ "condition": "background_noise_40",
+ "reference": "My seventy-two-year-old mother has an aneurysm and has undergone surgery. She is now fully bedridden; she cannot speak and cannot move her legs or hands. Will she recover from this problem? She is taking Eptoin tablets twice a day. This month marks two months since the surgery. Kindly help. Is there any other medication required for her neurological improvement? She can identify people, and if she does not want something, she moves her head for yes or no.",
+ "audio_seconds": 28.5,
+ "created_at": "2026-07-06T00:43:41+00:00",
+ "failed": false,
+ "text": "My 72-year-old mother has an aneurysm and has undergone surgery. She is now fully bedridden. She cannot speak and cannot move her legs or hands. Will she recover from this problem? She is taking Eptoin tablets twice a day. This month marks two months since the surgery. Kindly help. Is there any other medication required for her neurological improvement? She can identify people, and if she does not want something, she moves her head for yes or no.",
+ "seconds": 1.917
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__853258_2",
+ "condition": "background_noise_60",
+ "reference": "Good morning. I feel very sorry for you. You have undergone a lot of procedures. It is very dangerous if the fetus is exposed to radiation in the early weeks as most of the internal organs begin forming. Now you say that you are in ten to eleven weeks of pregnancy. You should undergo a detailed examination and ultrasound examination. If any problem is noted, you can take the opinion of your gynecologist. Thank you.",
+ "audio_seconds": 25.69,
+ "created_at": "2026-07-06T04:24:06+00:00",
+ "failed": false,
+ "text": "Good morning. I feel very sorry for you. You have undergone a lot of procedures. It is very dangerous if the fetus is exposed to radiation in the early weeks as most of the internal organs begin forming. Now you say that you are in 10 to 11 weeks of pregnancy. You should undergo a detailed examination and ultrasound examination. If any problem is noted, you can take the opinion of your gynecologist. Thank you.",
+ "seconds": 0.746
+}

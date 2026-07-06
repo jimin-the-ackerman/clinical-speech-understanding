@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__581592_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, I had a procedure done where I had to have two large kidney stones removed. They went up through my urethra and were broken up. I now have a stent in place to help me pass the grit and gravel that remains. There is a string there. I have a question: I know you probably can't have sexual intercourse, but I was curious if, with care, my husband and I may engage in anal sex?",
+ "audio_seconds": 23.64,
+ "created_at": "2026-07-06T04:37:46+00:00",
+ "failed": false,
+ "text": "Hi, I had a procedure done where I had to have two large kidney stones removed. They went up through my urethra and were broken out. I now have a stent in place to help me cross the grit and gravel that was left. There is a string there. I have a question. I know you probably can't have sexual intercourse, but I'm just curious if, with care, my husband and I may engage in intersex?",
+ "seconds": 0.759
+}

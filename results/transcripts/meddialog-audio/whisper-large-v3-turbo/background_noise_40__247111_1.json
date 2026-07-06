@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__247111_1",
+ "condition": "background_noise_40",
+ "reference": "Hello. I have a hemorrhagic cyst of four point five centimeters in my left ovary, which I have had for three years. I underwent aspiration three years ago and my cyst was gone, but after a year it returned. I underwent aspiration nine months ago again, but it returned three months after that. Its size was eight point five centimeters before the doctor began treatment, but now it has reduced to four point five centimeters. I want to be pregnant. Can you suggest what I should do?",
+ "audio_seconds": 29.7,
+ "created_at": "2026-07-06T04:41:14+00:00",
+ "failed": false,
+ "text": "Hello, I have a hemorrhagic cyst of 4.5 cm in my left ovary, which I have had for 3 years. I underwent aspiration 3 years ago and my cyst was gone, but after a year it returned. I underwent aspiration 9 months ago again, but it returned 3 months after that. Its size was 8.5 cm before the doctor began treatment, but now it has reduced to 4.5 cm. I want to be pregnant. Can you suggest what I should do?",
+ "seconds": 0.296
+}

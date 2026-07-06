@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__835132_1",
+ "condition": "clean",
+ "reference": "Hi, I have had upper arm pain for a few weeks now and it seems to be getting worse. I do not have pain all the time; I can carry things without pain, but I cannot raise my arm fully. I cannot put my arm behind my back; if I do, I get a sharp pain through my arm that lasts possibly about a minute. I cannot sleep properly because of the pain in my arm, and I cannot lie on that side.",
+ "audio_seconds": 26.97,
+ "created_at": "2026-07-06T05:30:15+00:00",
+ "failed": false,
+ "text": "Hi, I have had upper arm pain for a few weeks now, and it seems to be getting worse. I do not have pain all the time. I can carry things without pain, but I cannot raise my arm fully. I cannot put my arm behind my back. If I do, I get a sharp pain through my arm that lasts possibly about a minute. I cannot sleep properly because of the pain in my arm, and I cannot lie on that side.",
+ "seconds": 0.888
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__466749_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. Ideally, a colonoscopy should not cause any pain in the abdomen at all. Just to discuss: if the pain has started during or immediately after the colonoscopy, I can consider an injury to the colon causing an infection or an abscess. You need the attention of a doctor irrespective of your status.",
+ "audio_seconds": 17.92,
+ "created_at": "2026-07-06T00:45:52+00:00",
+ "failed": false,
+ "text": "You have to put each of your weight.",
+ "seconds": 0.653
+}

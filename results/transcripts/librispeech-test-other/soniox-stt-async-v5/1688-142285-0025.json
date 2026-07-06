@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0025",
+ "condition": null,
+ "reference": "AND I DO SAID HER FATHER LAUGHING",
+ "audio_seconds": 3.4,
+ "created_at": "2026-07-05T23:59:18+00:00",
+ "failed": false,
+ "text": "\"No, I do,\" said her father, laughing.",
+ "seconds": 4.512
+}

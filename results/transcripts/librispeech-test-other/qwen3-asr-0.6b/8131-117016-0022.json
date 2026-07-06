@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0022",
+ "condition": null,
+ "reference": "THERE WAS NO CHANCE TO SAVE THE CITIZEN WHO WAS DYING FROM LACK OF AIR",
+ "audio_seconds": 4.5,
+ "created_at": "2026-07-06T03:25:03+00:00",
+ "failed": false,
+ "text": "There was no chance to save the citizen who was dying from lack of air.",
+ "seconds": 0.186
+}

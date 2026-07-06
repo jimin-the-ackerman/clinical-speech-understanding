@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__401137_1",
+ "condition": "white_noise_6",
+ "reference": "Hello Doctor, I contracted Mycoplasma and Mycoplasma hominis. I had this from my partner for the last six months and was treated. A follow-up test confirmed it had gone away after treatment. A new test has shown it has come back. Can you advise if this can return naturally if neither of us has it, or does one of us have to have had sexual intercourse with an infected person? I do not know if it is a sexually transmitted disease or natural bacteria. Please, can you help?",
+ "audio_seconds": 24.41,
+ "created_at": "2026-07-06T05:12:47+00:00",
+ "failed": false,
+ "text": "Hello doctor, I contracted mycoplasma and mycoplasma hominis. I had this from my partner for the last six months and was treated. Can you advise if this can return naturally if neither of us has it, or does one of us have to have had sexual intercourse with an infected person? I do not know if it is a sexually transmitted disease or natural bacteria. Please, can you help?",
+ "seconds": 0.788
+}

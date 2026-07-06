@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__515035_1",
+ "condition": "white_noise_6",
+ "reference": "I am suffering from severe pain in my left shoulder and left chest. The pain is so intense that I am unable to breathe properly. It hurts when I take a deep breath. When I lean or change my position, the pain increases for ten to fifteen seconds, and then it becomes normal. Please help.",
+ "audio_seconds": 17.07,
+ "created_at": "2026-07-06T05:40:19+00:00",
+ "failed": false,
+ "text": "I am suffering from severe pain in my left shoulder and left chest. The pain is so intense that I am unable to breathe properly. It hurts when I breath. When I lean or change my position, the pain increases for 10 to 15 seconds, and then it becomes normal. Please help.",
+ "seconds": 0.602
+}

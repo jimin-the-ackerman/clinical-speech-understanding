@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__639231_1",
+ "condition": "background_noise_40",
+ "reference": "My seven-month-old daughter has had diarrhea for two weeks solid now, up to eight-ten dirty diapers a day. I stopped solids as I thought it was linked, but that was a week ago and there is still no change. I have been to the doctor, but they have not been very helpful. They sent off a stool sample and I am still awaiting the results, and they gave cream for her burning bottom but haven't said what it could be.",
+ "audio_seconds": 24.41,
+ "created_at": "2026-07-06T04:19:27+00:00",
+ "failed": false,
+ "text": "My seven-month-old daughter has had diarrhea for two weeks solid now, up to 8-10 dirty diapers a day. I stopped solids as I thought it was linked, but that was a week ago and there is still no change. I have been to the doctor, but they have not been very helpful. They sent off a stool sample and I am still awaiting the results. And they gave cream for her burning bottom, but haven't said what it could be.",
+ "seconds": 0.747
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__528436_2",
+ "condition": "white_noise_10",
+ "reference": "Hi and welcome to the Health Care Management. Why do you think you have breast cancer? You are anxious about something that is irrational. It is almost impossible to have cancer at this age. You should stop even thinking of it. Have you ever heard of a young girl having breast cancer? You want to do a mammogram and risk radiation because of it? There is no doctor in the world who will say anything else. Just enjoy your life and do not have such absurd things on your mind. I wish you good health.",
+ "audio_seconds": 30.89,
+ "created_at": "2026-07-06T04:45:54+00:00",
+ "failed": false,
+ "text": "Hi and welcome to the Health Care Management. Why do you think you have breast cancer? You are anxious about something that is irrational. It is almost impossible to have cancer at this age. You should stop even thinking of it. Have you ever heard of a young girl having breast cancer? She will do a mammogram and risk radiation because of it. There is no doctor in the world who will say anything else. Just enjoy your life and do not have such absurd things on your mind. I wish you good health.",
+ "seconds": 0.384
+}

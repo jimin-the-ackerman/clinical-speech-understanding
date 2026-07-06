@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__712056_2",
+ "condition": "white_noise_2",
+ "reference": "Escitalopram five milligrams in the morning will help you. Along with that, try some yoga or meditation regularly.",
+ "audio_seconds": 7.0,
+ "created_at": "2026-07-06T04:47:42+00:00",
+ "failed": false,
+ "text": "Eschatolopram, 5 mg in the morning, will help you. Along with that, try some yoga or meditation regularly.",
+ "seconds": 0.18
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__597938_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, lung opacity at this age should always be carefully investigated. There may be some other causes, but malignancy is also a possibility. A high-resolution computed tomography scan of the chest should be an initial diagnostic test. Based on the Hounsfield unit characteristics of the lump, a radiologist can provide further insights. Follow your doctor's advice.",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T04:59:05+00:00",
+ "failed": false,
+ "text": "Hi, lung opacity at this age should always be carefully investigated. There may be some other causes, but malignancy is also a possibility. A high-resolution computed tomography scan of the chest should be an initial diagnostic test. Based on the Hounsfield unit characteristics of the lump, a radiologist can provide further insights. Follow your doctor's advice.",
+ "seconds": 0.644
+}

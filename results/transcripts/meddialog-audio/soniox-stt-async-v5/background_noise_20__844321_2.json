@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__844321_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, welcome to HealthcareMagic. Hi Jyothi, the report indicates that the largest cyst measures thirty-seven by thirty-one millimeters in the left ovary. The other follicles are of different sizes according to their duration. Even though many follicles develop, typically only one may ovulate or several at a time, which can interfere with fertilization. You can engage in sexual intercourse with your husband, and after a week, you need to follow up with an ultrasound. I hope I have answered your questions. Take care.",
+ "audio_seconds": 28.93,
+ "created_at": "2026-07-06T02:49:12+00:00",
+ "failed": false,
+ "text": "Hi, welcome to HealthCare Magic. Hi, Jyoti. The report indicates that the largest cyst measures 37 x 31 mm in the left ovary; the other follicles are of different sizes according to their duration. Even though many follicles develop, typically only one may ovulate or several at a time, which can interfere with fertilization. You can engage in sexual intercourse with your husband, and after a week you need to follow up with an ultrasound. I hope I have answered your questions; take care.",
+ "seconds": 6.004
+}

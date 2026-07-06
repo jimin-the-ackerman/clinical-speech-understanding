@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__796889_2",
+ "condition": "white_noise_10",
+ "reference": "No, the survival of a patient who is already in end-stage liver disease is limited. Most often, patients fail because of cirrhosis of the liver rather than liver cancer itself. As you have not provided the exact extent of the liver cancer, I cannot suggest the correct treatment.",
+ "audio_seconds": 17.24,
+ "created_at": "2026-07-06T05:07:12+00:00",
+ "failed": false,
+ "text": "No, the survival of a patient who is already in an unsafe position is the reason. Most often, patient fail because of the rotus of the liver rather than the liver cancer itself, as he has not provided the exact extent of the liver. I cannot suggest a first treatment.",
+ "seconds": 0.527
+}

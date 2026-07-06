@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__885290_2",
+ "condition": "background_noise_20",
+ "reference": "Your cycles have become irregular, and you had very frequent sexual intercourse, so you can take a urine pregnancy test and check. Postinor-two is an emergency contraceptive with an efficiency of eighty-eight percent. That means thirteen out of one hundred women get pregnant even after taking this pill.",
+ "audio_seconds": 19.63,
+ "created_at": "2026-07-06T05:18:56+00:00",
+ "failed": false,
+ "text": "Your cycles have become irregular, and you had frequent sexual intercourse, so you can take a urine pregnancy test and check. Postinor II is an emergency contraceptive with an efficiency of 88%. That means 13 out of 100 women get pregnant even after taking this pill.",
+ "seconds": 0.578
+}

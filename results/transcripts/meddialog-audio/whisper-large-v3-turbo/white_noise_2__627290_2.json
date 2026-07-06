@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__627290_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. Overpowering foul bowel movements are suggestive of an intestinal infection due to the very low resistance of the patient.",
+ "audio_seconds": 9.13,
+ "created_at": "2026-07-06T04:47:31+00:00",
+ "failed": false,
+ "text": "Hello, overpowering foul bowel movements are suggestive of an intestinal infection due to the very low resistance of the patient.",
+ "seconds": 0.178
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__133326_1",
+ "condition": "white_noise_10",
+ "reference": "I am thirty-four years old. I had family planning surgery ten years ago. Is there any chance that I could be pregnant? My period is twenty-five days late this month.",
+ "audio_seconds": 9.47,
+ "created_at": "2026-07-06T05:31:11+00:00",
+ "failed": false,
+ "text": "I am thirty-one years old. I have been looking for you for years. It's already two years that I've been searching. My period is twenty-five years this month.",
+ "seconds": 0.363
+}

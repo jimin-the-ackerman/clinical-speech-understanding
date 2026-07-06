@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2330-0019",
+ "condition": null,
+ "reference": "SAID THE PRIME MINISTER WE CAN HARDLY BE SUPPOSED TO SUPPLY A RELEASED PRISONER WITH A BRASS BAND HOW ON EARTH COULD WE DEFEND IT ON THE ESTIMATES",
+ "audio_seconds": 9.43,
+ "created_at": "2026-07-05T13:13:39+00:00",
+ "failed": false,
+ "text": "said the prime minister we can hardly be supposed to supply a released prisoner with a brass band how on earth could we defend it on the estimates",
+ "seconds": 0.131
+}

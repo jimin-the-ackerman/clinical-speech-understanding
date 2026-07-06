@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131556-0000",
+ "condition": null,
+ "reference": "BUT HOW AM I TO GET OVER THE TEN OR TWELVE DAYS THAT MUST YET ELAPSE BEFORE THEY GO",
+ "audio_seconds": 6.21,
+ "created_at": "2026-07-06T03:20:53+00:00",
+ "failed": false,
+ "text": "But how am I to get over the ten or twelve days that must yet elapse before they go?",
+ "seconds": 0.229
+}

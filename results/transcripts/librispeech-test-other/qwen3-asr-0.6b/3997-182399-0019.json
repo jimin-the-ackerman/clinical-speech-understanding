@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-182399-0019",
+ "condition": null,
+ "reference": "A LITTLE SIGH OF SATISFACTION WENT AROUND THE CIRCLE OF LISTENERS",
+ "audio_seconds": 5.11,
+ "created_at": "2026-07-06T03:19:15+00:00",
+ "failed": false,
+ "text": "A little sigh of satisfaction went round the circle of listeners.",
+ "seconds": 0.149
+}

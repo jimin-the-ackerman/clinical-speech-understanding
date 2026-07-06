@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__702042_1",
+ "condition": "background_noise_60",
+ "reference": "I am in remission now from uterine cancer. I was diagnosed a year ago and had a total hysterectomy. I had twenty-five treatments of radiation and finished in July. I am also in remission from breast cancer, both at stage two. I am having clear, jelly-like discharge from my rectum and pain in my abdomen and lower pelvic area. I also have cramping. What is the jelly from? I am having diarrhea also.",
+ "audio_seconds": 27.22,
+ "created_at": "2026-07-06T00:44:20+00:00",
+ "failed": false,
+ "text": "I am in remission now from uterine cancer. I was diagnosed a year ago and had a total hysterectomy. I had 25 treatments of radiation and finished in July. I am also in remission from breast cancer, both at stage 2. I am having clear, jelly-like discharge from my rectum and pain in my abdomen and lower pelvic area. I also have cramping. What is the jelly from? I am having diarrhea also.",
+ "seconds": 1.592
+}

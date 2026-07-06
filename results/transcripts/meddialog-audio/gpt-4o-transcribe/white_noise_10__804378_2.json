@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__804378_2",
+ "condition": "white_noise_10",
+ "reference": "Get her prolactin levels checked as it could possibly be due to a prolactinoma, which is a pituitary tumor. Be careful, as it can lead to infertility.",
+ "audio_seconds": 11.78,
+ "created_at": "2026-07-06T00:46:05+00:00",
+ "failed": false,
+ "text": "The company added a new feature to the washing machine.",
+ "seconds": 0.586
+}

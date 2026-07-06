@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__367271_1",
+ "condition": "white_noise_6",
+ "reference": "I was bitten by my own dog. It is not a deep bite at all. However, he has nipped at me a couple of times in the past, and each time I have had to get antibiotics because it got infected. This bite seems to be getting infected. My skin is extremely sensitive. I have some Bactrim Double Strength left from an ear infection, and I am wondering if I can take that for this skin infection?",
+ "audio_seconds": 23.13,
+ "created_at": "2026-07-06T05:12:36+00:00",
+ "failed": false,
+ "text": "I was bitten by my own dog. It is not a deep bite at all. However, he has bitten me a couple of times in the past, and each time I have had to get antibiotics because it got infected. This bite seems to be getting infected. My skin is extremely sensitive. I have some baclofen double strength left from an ear infection, and I am wondering if I can take that for this skin infection.",
+ "seconds": 0.785
+}

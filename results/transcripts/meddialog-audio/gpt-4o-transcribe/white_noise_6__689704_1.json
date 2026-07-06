@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__689704_1",
+ "condition": "white_noise_6",
+ "reference": "My dad has a prostate-specific antigen value of fourteen point nine eight. He has been advised to take Microdox LBX lactic bacillus. After a month, he is to take the prostate-specific antigen test again. If the prostate-specific antigen value is high, then he is advised to take a biopsy. He had a prior prostate surgery. Can I know whether his prostate-specific antigen value is high because of prior surgery? His prostate is a little bulged. Please reply.",
+ "audio_seconds": 28.42,
+ "created_at": "2026-07-06T00:47:29+00:00",
+ "failed": false,
+ "text": "If the software detects a bug, it will notify you.",
+ "seconds": 0.856
+}

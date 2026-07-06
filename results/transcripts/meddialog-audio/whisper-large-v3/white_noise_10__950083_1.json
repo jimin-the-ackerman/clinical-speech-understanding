@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__950083_1",
+ "condition": "white_noise_10",
+ "reference": "I recently had the flu and developed lower back pain. That pain subsided, but then it spread to my hip and hamstring. It hurts when I cough or sneeze as well. I assume it is sciatic in nature, but my hip continues to jam when I do anything active. I have seen a chiropractor and physiotherapist, but the pain has not subsided. Any suggestions?",
+ "audio_seconds": 22.27,
+ "created_at": "2026-07-06T04:32:06+00:00",
+ "failed": false,
+ "text": "I recently had the flu and developed lower back pain. That pain subsided, but then it spread to my hips and hamstrings. It hurts when I cough or sneeze as well. I am a sciatic in nature, but my hips continue to jam when I do anything else. I have seen a chiropractor and physiotherapist, but the pain has not subsided. Any suggestions?",
+ "seconds": 0.679
+}

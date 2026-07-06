@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0031",
+ "condition": null,
+ "reference": "HE WAS GONE BEFORE SHE COULD DO ANYTHING BUT LOOK UP AT HIM WITH A REMORSEFUL FACE AND SHE WALKED ON FEELING THAT THE FIRST AND PERHAPS THE ONLY LOVER SHE WOULD EVER HAVE HAD READ HIS ANSWER AND ACCEPTED IT IN SILENCE",
+ "audio_seconds": 14.7,
+ "created_at": "2026-07-06T03:29:08+00:00",
+ "failed": false,
+ "text": "He was gone before she could do anything but look up at him with a remorseful face, and she walked on, feeling that the first and perhaps the only lover she would ever have, had read his answer and accepted it in silence.",
+ "seconds": 0.468
+}

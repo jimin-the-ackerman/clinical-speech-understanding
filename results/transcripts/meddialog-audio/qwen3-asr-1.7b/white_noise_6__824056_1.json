@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__824056_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, my son is three years old and has been unwell. He keeps burning up, and Calpol is not helping. He is complaining that his head is hurting and also his stomach. He vomited earlier but is off his food, and I am kind of forcing him to sip fluids. What could be wrong? Does he need to see somebody?",
+ "audio_seconds": 16.73,
+ "created_at": "2026-07-06T05:41:50+00:00",
+ "failed": false,
+ "text": "Hi, my son is three years old and hello. He keeps burning up, and helpful is not helping. He is complaining that his head is hurting and also his stomach. He vomited earlier, but his office food and I am tired of forcing him to sip fluids. What could be wrong? Does he need to see somebody?",
+ "seconds": 0.651
+}

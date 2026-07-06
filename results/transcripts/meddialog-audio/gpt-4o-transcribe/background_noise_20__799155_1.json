@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__799155_1",
+ "condition": "background_noise_20",
+ "reference": "I have stage three brain cancer and I just finished my chemotherapy for five days this month. My concern is that my stool has mucus and light red blood, and it is very foul. I haven’t passed a normal bowel movement in about two days, which is typical when I am on my chemotherapy. I was wondering if I should go to the emergency room?",
+ "audio_seconds": 21.93,
+ "created_at": "2026-07-06T00:42:33+00:00",
+ "failed": false,
+ "text": "I have stage three brain cancer and I just finished my chemotherapy for five days this month. My concern is that my stool has mucus and light red blood, and it is very foul. I haven't passed a normal bowel movement in about two days, which is typical when I am on my chemo. I was wondering if I should go to the emergency room?",
+ "seconds": 1.929
+}

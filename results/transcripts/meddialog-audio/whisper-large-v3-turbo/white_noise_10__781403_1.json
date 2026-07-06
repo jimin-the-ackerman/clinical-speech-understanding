@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__781403_1",
+ "condition": "white_noise_10",
+ "reference": "Hey, I am a patient with psoriasis for the last seven years. I took homeopathy, then I took Ayurvedic medicines, but there was no result. Now I am on allopathic treatment and I am taking steroids and applying them too. I just wanted to ask how much do these steroids affect your body and skin? People always say that steroids cause so many side effects in your body. Is it true? And if yes, then why do doctors recommend them?",
+ "audio_seconds": 27.9,
+ "created_at": "2026-07-06T04:46:21+00:00",
+ "failed": false,
+ "text": "Hey, I am a patient with psoriasis for the last seven years. I took homeopathy, then I took Ayurvedic medicine, but there was no result. Now I am on allopathic treatment, and I'm taking steroids and applying them too. I just wanted to ask, how much do these steroids affect your body and skin? People always say that steroids cause so many side effects in your body. Is it true? And if yes, then why do doctors recommend them?",
+ "seconds": 0.306
+}

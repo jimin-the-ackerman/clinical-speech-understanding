@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63240-0008",
+ "condition": null,
+ "reference": "AND YET THE READER WHO LIKES A COMPLETE IMAGE WHO DESIRES TO READ WITH THE SENSES AS WELL AS WITH THE REASON IS ENTREATED NOT TO FORGET THAT HE PROLONGED HIS CONSONANTS AND SWALLOWED HIS VOWELS THAT HE WAS GUILTY OF ELISIONS AND INTERPOLATIONS WHICH WERE EQUALLY UNEXPECTED AND THAT HIS DISCOURSE WAS PERVADED BY SOMETHING SULTRY AND VAST SOMETHING ALMOST AFRICAN IN ITS RICH BASKING TONE SOMETHING THAT SUGGESTED THE TEEMING EXPANSE OF THE COTTON FIELD",
+ "audio_seconds": 31.13,
+ "created_at": "2026-07-05T23:57:07+00:00",
+ "failed": false,
+ "text": "And yet the reader, who likes a complete image, who desires to read with the senses as well as with the reason, is entreated not to forget that he prolonged his consonants and swallowed his vowels, that he was guilty of elisions and interpolations which were equally unexpected, and that his discourse was pervaded by something sultry and vast, something almost African in its rich, basking tone, something that suggested the teeming expanse of the cotton field.",
+ "seconds": 1.493
+}

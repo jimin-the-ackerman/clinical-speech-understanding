@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__871740_1",
+ "condition": "white_noise_6",
+ "reference": "I am fifteen years old and I dance. For a while now, after sleeping, I wake up with these lower back pains. More recently, I have been experiencing tingling and numbness in my upper right thigh. One day at school, these pains occurred all of a sudden, and they hurt when I was walking out of class. I really would like help in diagnosing the problem with my thigh. Can you help?",
+ "audio_seconds": 24.32,
+ "created_at": "2026-07-06T05:42:06+00:00",
+ "failed": false,
+ "text": "I am 15 years old, and I dance. For a while now, after sleeping, I wake up with these lower back pains. More recently, I have been experiencing tingling and numbness in my upper right thigh. One day at school, these pains occurred all of a sudden, and they hurt when I was walking out of class. I really would like help in diagnosing the problem with my thigh. Can you help?",
+ "seconds": 0.835
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__725084_1",
+ "condition": "clean",
+ "reference": "My brother, aged fifty-one years, has frequent severe pain in various parts of his body, which may include the cervical region, shoulder, arm, hands, foot, or knee. The pain is so intense that he feels as if the joint is dislocated. It resolves automatically after twenty-four hours. This has been occurring for the past year, although he was fine for about four months in between. His blood picture is normal.",
+ "audio_seconds": 26.79,
+ "created_at": "2026-07-06T05:03:12+00:00",
+ "failed": false,
+ "text": "My brother, aged fifty-one years, has frequent severe pain in various parts of his body, which may include the cervical region, shoulder, arm, hands, foot, or knee. The pain is so intense that he feels as if the joint is dislocated. It resolves automatically after twenty-four hours. This has been occurring for the past year, although he was fine for about four months in between. His blood picture is normal.",
+ "seconds": 0.785
+}

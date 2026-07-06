@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__802667_1",
+ "condition": "white_noise_6",
+ "reference": "I am twenty-nine years old, generally healthy, and fit as I play a lot of football. Over the last few weeks, while playing, my chest becomes tight, I get out of breath easily, and my chest starts wheezing. I have had a virus, but this has been going on for six weeks. What could this be?",
+ "audio_seconds": 15.7,
+ "created_at": "2026-07-06T05:14:38+00:00",
+ "failed": false,
+ "text": "I am twenty-nine years old, generally healthy and fit. As I play a lot of football, for the last few weeks, while playing, my chest becomes tight. I get out of breath easily, and my chest starts weeping. I have had a virus, but this has been going on for six weeks. What could this be?",
+ "seconds": 0.626
+}

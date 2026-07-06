@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__531225_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, you can give fresh seasonal fruit juice to your baby. It does not cause any harm. At the time of cold and cough, it is better to avoid them.",
+ "audio_seconds": 9.22,
+ "created_at": "2026-07-06T04:48:46+00:00",
+ "failed": false,
+ "text": "Hello! You can give fresh seasonal fruit juice to your baby. It does not cause any harm. At the time of cold and cough, it is better to avoid them.",
+ "seconds": 0.19
+}

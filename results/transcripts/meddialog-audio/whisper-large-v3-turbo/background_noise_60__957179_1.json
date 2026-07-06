@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__957179_1",
+ "condition": "background_noise_60",
+ "reference": "I have a resting heart rate in the 40s, and at times it starts racing for short periods. I also suffer from migraines, and I know I have an arachnoid cyst in my brain. I had a large cyst in my left lung that necessitated the removal of the entire left lower lobe three years ago at Cedars-Sinai Hospital in Los Angeles. I am a twenty-four-year-old female and starting my career as a videographer in Nashville, but over the past week, I have barely been able to work due to extreme fatigue, headaches, and a low heart rate in the 40s. Do you think it's possible that all these symptoms are related?",
+ "audio_seconds": 39.68,
+ "created_at": "2026-07-06T04:43:50+00:00",
+ "failed": false,
+ "text": "I have a resting heart rate in the 40s, and at times it starts racing for short periods. I also suffer from migraines, and I know I have an arachnoid cyst in my brain. I had a large cyst in my left lung that necessitated the removal of the entire left lower lobe. Three years ago, at Cedars-Sinai Hospital in Los Angeles, I am a 24 female and starting my career as a videographer in Nashville. But over the past week, I have barely been able to work due to extreme fatigue, headaches, and a low heart rate in the 40s. Do you think it's possible that all these symptoms are related?",
+ "seconds": 0.417
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128291-0013",
+ "condition": null,
+ "reference": "THE KINGDOM OF HEAVEN HOWEVER IS WITH THE KINE AND WHY IS IT NOT WITH THE RICH",
+ "audio_seconds": 9.77,
+ "created_at": "2026-07-05T13:09:32+00:00",
+ "failed": false,
+ "text": "The kingdom of heaven, however, is with the kind, and why is it not with the rich?",
+ "seconds": 0.123
+}

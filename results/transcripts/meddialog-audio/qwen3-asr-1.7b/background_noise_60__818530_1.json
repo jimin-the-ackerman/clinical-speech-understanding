@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__818530_1",
+ "condition": "background_noise_60",
+ "reference": "My friend recently took thirty tablets of five hundred milligrams of Crocin Advance with fruit juice. She powdered them and mixed them with the juice and consumed it. However, she tells me this, and she has been in an intensive care unit after three days, and just now slowly recovering after four weeks. What actually happened to her? Did the doctors tell her correctly that she had a serious liver problem, or are they just acting? I do not mean to hurt any doctors here; I know doctors are very precious. The only thing I want to ask is what actually might have happened to her?",
+ "audio_seconds": 35.33,
+ "created_at": "2026-07-06T05:26:16+00:00",
+ "failed": false,
+ "text": "My friend recently took thirty tablets of highly low-grade probiotics fruit juice. She powdered them and mixed them with juice. However, she tells me this, and she has been in an intensive care unit for three days. She just now discovered an unusual case. What actually happened to her? Did the doctors tell me correctly that she was suffering from a problem, or am I just acting? I never heard any doctors there. I know doctors are very precious. The only thing I want to ask is what actually did happen to her.",
+ "seconds": 0.989
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__921609_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. Kindly get an ultrasound of the abdomen done and send me the scanned copy of your reports. Only after seeing your reports will I be able to guide you further.",
+ "audio_seconds": 9.47,
+ "created_at": "2026-07-06T04:46:34+00:00",
+ "failed": false,
+ "text": "Hello, I needed an ultrasound of the abdomen done and sent me the scanned copy of your report and the after seeing your report will I be able to guide you further.",
+ "seconds": 0.17
+}

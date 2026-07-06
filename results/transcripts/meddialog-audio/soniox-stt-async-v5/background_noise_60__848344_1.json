@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__848344_1",
+ "condition": "background_noise_60",
+ "reference": "I fell on Wednesday evening on icy steps. My feet slipped out from under me and I fell flat, hitting my whole body, including my head. At first, I was just hurting in my back, but then that night I could feel that I hit my head. By Thursday morning, I wound up with a lot of pressure on the back of my head, and throughout the day, it continued to worsen. Today, the pressure has returned, with discomfort all over, even in my face.",
+ "audio_seconds": 29.18,
+ "created_at": "2026-07-06T02:56:05+00:00",
+ "failed": false,
+ "text": "I fell on Wednesday evening on icy steps, my feet slipped out from under me, and I fell flat, hitting my whole body, including my head. At first I was just hurting in my back, but then that night I could feel that I hit my head. By Thursday morning I wound up with a lot of pressure on the back of my head, and throughout the day it continued to worsen. Today the pressure has returned, with discomfort all over, even in my face.",
+ "seconds": 11.709
+}

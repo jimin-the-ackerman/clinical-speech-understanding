@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__478427_1",
+ "condition": "background_noise_20",
+ "reference": "I am fifty-seven years old, five feet tall, one hundred and fifty pounds. I have fibromyalgia, but my problem is I get catches in my hips. When that happens, it is excruciatingly painful, and I can hardly walk. This time it lasted for two days; most times it might just last a few hours. I usually lay down for a while, and it will go away, but sometimes it is worse than others. I had an Magnetic Resonance Imaging on my hips and my lower back, and they were negative.",
+ "audio_seconds": 27.9,
+ "created_at": "2026-07-06T04:51:06+00:00",
+ "failed": false,
+ "text": "I am fifty-seven years old, five feet tall, one hundred and fifty pounds. I have fibromyalgia, but my problem is I get catches in my hips. When that happens, it is excruciatingly painful and I can hardly walk. This time it lasted for two days. Most times it might just last a few hours. I usually lay down for a while and it will go away, but sometimes it is worse than others. I had a magnetic resonance imaging on my hips and my lower back, and they were negative.",
+ "seconds": 0.975
+}

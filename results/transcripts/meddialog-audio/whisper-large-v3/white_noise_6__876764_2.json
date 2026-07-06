@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__876764_2",
+ "condition": "white_noise_6",
+ "reference": "This vaccination prevents pneumococcal infection, which is a cause of pneumonia, meningitis, and other infections. It costs one,three hundred Indian Rupees per injection. If your financial situation allows, you should proceed with it.",
+ "audio_seconds": 12.89,
+ "created_at": "2026-07-06T04:39:05+00:00",
+ "failed": false,
+ "text": "This vaccination prevents pneumococcal infection, which is a cause of pneumonia, meningitis, and other infections. It costs 1,300 Indian rupees per injection. If your financial situation allows, you should proceed with it.",
+ "seconds": 0.429
+}

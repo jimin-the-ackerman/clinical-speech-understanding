@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180297-0013",
+ "condition": null,
+ "reference": "WHEN I THOUGHT THAT THIS MARVELLOUS CREATURE WHOSE FEET I HAD ONCE LONGED TO KISS WAS WILLING TO LET ME TAKE MY PLACE IN HER THOUGHTS MY PART IN HER LIFE AND THAT I WAS NOT YET CONTENT WITH WHAT SHE GAVE ME I ASKED IF MAN'S DESIRE HAS INDEED LIMITS WHEN SATISFIED AS PROMPTLY AS MINE HAD BEEN IT REACHED AFTER SOMETHING FURTHER",
+ "audio_seconds": 22.12,
+ "created_at": "2026-07-06T03:19:06+00:00",
+ "failed": false,
+ "text": "When I thought that this marvelous creature, whose feet I had once longed to kiss, was willing to let me take my place in her thoughts, my part in her life, and that I was not yet content with what she gave me, I asked if men's desire had indeed limits. When satisfied as promptly as mine had been, it reached after something further.",
+ "seconds": 0.697
+}

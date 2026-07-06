@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__208239_2",
+ "condition": "white_noise_10",
+ "reference": "Lumps in the groin area include sebaceous cysts, enlarged lymph nodes, or inguinal hernia. In your case, it is probably a sebaceous cyst.",
+ "audio_seconds": 9.22,
+ "created_at": "2026-07-06T05:04:50+00:00",
+ "failed": false,
+ "text": "Once the neogloryn area includes the basipist and large lymph nodes, or inguinal hernia, in your case, it is probably a basipist.",
+ "seconds": 0.351
+}

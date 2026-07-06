@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280085-0010",
+ "condition": null,
+ "reference": "SIX STEPPED TO THE FRONT SHERIFF GLISPIN COLONEL T L VOUGHT B M RICE G A BRADFORD C A POMEROY AND S J SEVERSON",
+ "audio_seconds": 9.37,
+ "created_at": "2026-07-06T02:38:42+00:00",
+ "failed": false,
+ "text": "Sixth step to the front: Sheriff Glisbon, Colonel T.O. Valt, B.M. Rice, G.A. Bradford, C.A. Pomeroy, and S.J. Severson.",
+ "seconds": 8.127
+}

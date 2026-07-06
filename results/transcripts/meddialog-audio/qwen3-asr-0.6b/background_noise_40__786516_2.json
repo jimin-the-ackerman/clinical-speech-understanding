@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__786516_2",
+ "condition": "background_noise_40",
+ "reference": "A blood sugar level of thirty-five is low, not high. He needs to be evaluated for such a low level of sugar. Your doctor must have told you what was wrong with the child. Again, thirty-five is low sugar, not high.",
+ "audio_seconds": 13.31,
+ "created_at": "2026-07-06T04:56:15+00:00",
+ "failed": false,
+ "text": "A blood sugar level of thirty five is low, not high. He needs to be evaluated for such a low level of sugar. Your doctor must have told you what was wrong with the child. Again, thirty five is low sugar, not high.",
+ "seconds": 0.47
+}

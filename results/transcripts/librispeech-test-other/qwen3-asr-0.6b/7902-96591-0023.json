@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96591-0023",
+ "condition": null,
+ "reference": "BUT THERE WAS NO CHANCE FOR HIS BODY THERE THE HEAD WOULD NOT GO FIRST",
+ "audio_seconds": 3.37,
+ "created_at": "2026-07-06T03:24:09+00:00",
+ "failed": false,
+ "text": "But there was no chance for his body there, and the head would not go first.",
+ "seconds": 0.201
+}

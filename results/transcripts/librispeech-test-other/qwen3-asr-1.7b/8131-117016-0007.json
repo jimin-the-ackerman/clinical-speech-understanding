@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0007",
+ "condition": null,
+ "reference": "CAPTAIN MURDOCH WAS AN UNKNOWN FACTOR AND NOW WAS ASKING FOR MORE MEN",
+ "audio_seconds": 5.75,
+ "created_at": "2026-07-06T03:37:08+00:00",
+ "failed": false,
+ "text": "Captain Murdock was an unknown factor, and now was asking for more men.",
+ "seconds": 0.193
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__352673_2",
+ "condition": "white_noise_6",
+ "reference": "No change in diet is required after the anti-rabies vaccination. You can continue to feed your child everything that you were feeding him routinely.",
+ "audio_seconds": 8.36,
+ "created_at": "2026-07-06T00:47:15+00:00",
+ "failed": false,
+ "text": "Seperti yang terkena di bagian belakang.",
+ "seconds": 0.477
+}

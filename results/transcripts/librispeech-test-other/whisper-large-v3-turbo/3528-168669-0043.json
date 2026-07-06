@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0043",
+ "condition": null,
+ "reference": "FATHER FAUVENT THE COMMUNITY HAS BEEN BLESSED IN MOTHER CRUCIFIXION",
+ "audio_seconds": 4.16,
+ "created_at": "2026-07-05T13:10:30+00:00",
+ "failed": false,
+ "text": "father fulvent the community has been blessed in mother crucifixion",
+ "seconds": 0.117
+}

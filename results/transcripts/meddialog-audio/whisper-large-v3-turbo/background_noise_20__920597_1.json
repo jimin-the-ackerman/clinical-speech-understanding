@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__920597_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, would you please comment and advise on my semen analysis? pH: eight, volume: three ml, pus cells: one-three, red blood cells: nil, epithelial cells: zero-one, color: cream white, viscosity: mucoid, concentration: zero point one x ten^six ml, ideal forms: three%, big head defects: thirty-seven%, mid-piece defects: thirty%, pin head defects: thirty%, viable: twenty%, dead: eighty%, active: two%, sluggish: eighteen%, non-motile: eighty%.",
+ "audio_seconds": 41.73,
+ "created_at": "2026-07-06T04:40:49+00:00",
+ "failed": false,
+ "text": "Hi, would you please comment and advise on my semen analysis? 37% mid-piece defects, 37% mid-piece defects, 4-0s, ray, defense, non-motile, 80%.",
+ "seconds": 0.251
+}

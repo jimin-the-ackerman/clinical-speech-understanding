@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0052",
+ "condition": null,
+ "reference": "I SEE BY YOUR FACE MISS GILROY THAT YOU ARE DISTRESSED ABOUT SOMETHING ARE YOU KEEPING ANYTHING BACK",
+ "audio_seconds": 5.56,
+ "created_at": "2026-07-06T03:25:40+00:00",
+ "failed": false,
+ "text": "I see by your face, Miss Gilroy, that you are distressed about something. Are you keeping anything back?",
+ "seconds": 0.242
+}

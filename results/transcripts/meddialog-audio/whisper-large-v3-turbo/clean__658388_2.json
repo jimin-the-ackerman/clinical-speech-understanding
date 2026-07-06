@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__658388_2",
+ "condition": "clean",
+ "reference": "Well, have both fasting and postprandial blood sugar tested. Ask him to take a break from work-related stress and then compare the results.",
+ "audio_seconds": 9.56,
+ "created_at": "2026-07-06T04:44:41+00:00",
+ "failed": false,
+ "text": "Well, have both fasting and postprandial blood sugar tested. Ask him to take a break from work-related stress and then compare the results.",
+ "seconds": 0.186
+}

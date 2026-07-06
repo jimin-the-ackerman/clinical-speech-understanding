@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__387330_2",
+ "condition": "white_noise_2",
+ "reference": "Hi. This can be either cancer or some inflammatory mass. A computed tomography scan or magnetic resonance imaging and fine needle aspiration cytology to start with should help to get a diagnosis. If this is cancer, you may need a laryngectomy. If it is inflammatory, simple repeated aspiration and broad-spectrum antibiotics should help to cure you. Always go for investigations before any surgery.",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T00:46:29+00:00",
+ "failed": false,
+ "text": "The things you have built and things that people have built can automatically communicate and send all of this data to each other not through the network. They can send data to it, sort of without the way that the world is actually wired up, the way your home is. All the way so from your destination before it ends.",
+ "seconds": 1.355
+}

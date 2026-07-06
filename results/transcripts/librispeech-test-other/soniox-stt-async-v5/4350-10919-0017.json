@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-10919-0017",
+ "condition": null,
+ "reference": "AND THEN THE MOTHER WISHES IT HE ADDED",
+ "audio_seconds": 2.31,
+ "created_at": "2026-07-06T02:26:30+00:00",
+ "failed": false,
+ "text": "And then the mother wishes it, he added.",
+ "seconds": 5.401
+}

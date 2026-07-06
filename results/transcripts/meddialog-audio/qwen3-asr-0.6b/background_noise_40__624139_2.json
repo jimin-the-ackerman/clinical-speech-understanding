@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__624139_2",
+ "condition": "background_noise_40",
+ "reference": "If you are on any medication, treatment can only be determined after reviewing your Holter monitor results. If you have discomfort, further treatment may be necessary for your daily life.",
+ "audio_seconds": 10.92,
+ "created_at": "2026-07-06T04:55:40+00:00",
+ "failed": false,
+ "text": "If you are on any medication, treatment can only be determined after reviewing your current monitor results. If you have discomfort, further treatment may be necessary during your life.",
+ "seconds": 0.325
+}

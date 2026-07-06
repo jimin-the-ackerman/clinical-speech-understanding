@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__586554_1",
+ "condition": "background_noise_60",
+ "reference": "My baby fell while he was getting up trying to reach Grandma. He fell back and hurt his head. He started crying, then Grandma got him, and he was just trying to grab where he had hurt himself. After ten minutes, he threw up. It was eight:zero PM on February nineteen, two thousand and fourteen. Three hours later, he threw up again. Then again, it was around twelve:zero AM. Two hours later, he threw up again, and it was around four:zero AM. What should I do?",
+ "audio_seconds": 26.28,
+ "created_at": "2026-07-06T00:44:14+00:00",
+ "failed": false,
+ "text": "They fell while he was getting up trying to reach grandma. He fell back and hurt his head. He started crying and grandma got him and he was just trying to grab where he hurt himself. After ten minutes, he threw up. It was 8:00 PM on February 19, 2014. Three hours later, he threw up again. Then again, it was around 12:00 AM. Two hours later, he threw up again and it was around 4:00 AM. What should I do?",
+ "seconds": 1.439
+}

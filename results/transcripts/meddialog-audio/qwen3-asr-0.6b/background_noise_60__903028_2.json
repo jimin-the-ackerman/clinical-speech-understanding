@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__903028_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, thank you for asking. I can understand your problem based on the history you provided. Let me tell you that masturbation is a physiological condition, and libido is a natural instinct. Society has established certain rules, such as marriage, to fulfill your natural desire for sexual intercourse. I hope this information helps you. Have a nice day.",
+ "audio_seconds": 18.77,
+ "created_at": "2026-07-06T05:00:17+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking. I can understand your problem based on the history you provided. Let me tell you that masturbation is a physiological condition, and it is a natural instinct. Society has established certain rules, such as marriage, to fulfill your natural desire for sexual intercourse. I hope this information helps you. Have a nice day.",
+ "seconds": 0.62
+}

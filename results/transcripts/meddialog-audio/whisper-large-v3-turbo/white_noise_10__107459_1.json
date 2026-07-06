@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__107459_1",
+ "condition": "white_noise_10",
+ "reference": "My husband has been experiencing what he describes as tightness around his chest. This lasts for several minutes before ending, and afterward, he feels very fatigued. Tonight, we noticed the gains around his right shoulder and down the right arm were very noticeable. He is thirty-seven years old.",
+ "audio_seconds": 18.43,
+ "created_at": "2026-07-06T04:45:18+00:00",
+ "failed": false,
+ "text": "My husband has been experiencing what he describes as pregnant around his chest. This lasts for several minutes before injury, and afterwards, he feels very fatigued. He noticed the damage around his right shoulder and around the right arm for victory. He is 37 years old.",
+ "seconds": 0.217
+}

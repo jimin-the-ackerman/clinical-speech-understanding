@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__758589_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, Rashmi. Welcome to HCM. There is nothing to worry about. Avoid fried foods, chilies, and junk food for a few weeks. You can take Metrogyl or Ornidazole tablets for five days as there is a possibility of having a mixed infection. Okay, goodbye.",
+ "audio_seconds": 19.03,
+ "created_at": "2026-07-06T05:37:42+00:00",
+ "failed": false,
+ "text": "Hi Rashmi, welcome to HCM. There is nothing to worry about. Avoid fried food, chilies, and junk food for a few weeks. You can take metrogel or ornidazole tablets for five days, as possibility of having a mixed infection. Okay, goodbye.",
+ "seconds": 0.575
+}

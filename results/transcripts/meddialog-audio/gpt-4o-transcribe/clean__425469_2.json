@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__425469_2",
+ "condition": "clean",
+ "reference": "That effect will be there for two to three weeks. It is very painful; nail bed injuries are really very painful. Go for painkiller syrup and cold compression.",
+ "audio_seconds": 11.52,
+ "created_at": "2026-07-06T00:45:00+00:00",
+ "failed": false,
+ "text": "That effect will be there for two to three weeks. It is very painful. Nail bed injuries are really very painful. Go for painkiller syrup and cold compression.",
+ "seconds": 0.766
+}

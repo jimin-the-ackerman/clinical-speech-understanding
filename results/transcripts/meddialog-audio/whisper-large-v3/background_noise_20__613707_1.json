@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__613707_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, my eleven-month-old has a very, very stuffy nose and cold sweats. His skin color is normal. He has been having very hard, dark stools for the past couple of weeks and also has no teeth yet, but they are visible underneath the gums. My biggest worry is the cold sweats and rock-hard stools.",
+ "audio_seconds": 18.18,
+ "created_at": "2026-07-06T04:15:25+00:00",
+ "failed": false,
+ "text": "Hi my 11 month old has a very very stuffy nose and cold sweats. His skin color is normal. He has been having very hard dark stools for the past couple of weeks and also has no teeth yet but they are visible underneath the gums. My biggest worry is the cold sweats and rock-hard stools.",
+ "seconds": 0.585
+}

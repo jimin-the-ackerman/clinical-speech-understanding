@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__170260_2",
+ "condition": "background_noise_20",
+ "reference": "If you have had the symptoms evaluated and found no underlying heart disease or dangerous rhythm, the primary concern is to relieve your symptoms and anxiety. A pause in the heartbeat that is worrisome is generally quite long, longer than three seconds. If your doctor wasn't worried, you shouldn't be either.",
+ "audio_seconds": 18.43,
+ "created_at": "2026-07-06T00:41:52+00:00",
+ "failed": false,
+ "text": "If you have had the symptoms evaluated and found no underlying heart disease or dangerous rhythm, the primary concern is to relieve your symptoms and anxiety. A pause in the heartbeat that is worrisome is generally quite long, longer than three seconds. If your doctor wasn't worried, you shouldn't be either.",
+ "seconds": 1.071
+}

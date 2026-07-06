@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__263032_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, I have gone through your question and understand your concerns. Considering your description, there is a reactively swollen neck lymph node, which is commonly seen as a response to any infection in your body. Additionally, this may be a benign lymph node growth such as lymphangioma. It is good that you have done tests, including a computed tomography scan, to rule out malignancy, but I am not sure if you underwent an ultrasound-guided needle biopsy to verify the exact pathology. I suggest doing this, and if the result is negative, then you should consider surgical removal of the lymph node since if it presses on surrounding tissue or causes discomfort, then this is symptomatic, and treatment is indicated even if it is not malignancy. Medication treatment can be attempted with antibiotics but only if an infectious cause is established. I hope this answers your question. If you have additional questions or follow-up inquiries, please do not hesitate to write to us. I will be happy to answer your questions. Wishing you good health.",
+ "audio_seconds": 57.17,
+ "created_at": "2026-07-06T05:16:18+00:00",
+ "failed": false,
+ "text": "Hi, I have gone through your question and understand your concerns. Considering your description, there is a reactively swollen neck lymph node, which is commonly seen as a response to any infection in your body. Additionally, this may be a benign lymph node growth such as lymphangioma. It is good that you have done tests, including a computed tomography scan, to rule out malignancy. But I am not sure if you underwent an ultrasound-guided needle biopsy to verify the exact pathology. I suggest doing this, and if the result is negative, then you should consider surgical removal of the lymph node, since if it presses on surrounding tissue or causes discomfort, then this is symptomatic, and treatment is indicated, even if it is not malignancy. Education treatment can be attempted with antibiotics, but only if an infectious cause is established. I hope this answers your question. If you have additional questions or follow-up inquiries, please do not hesitate to write to us. I will be happy to answer your questions. Wishing you good health.",
+ "seconds": 1.897
+}

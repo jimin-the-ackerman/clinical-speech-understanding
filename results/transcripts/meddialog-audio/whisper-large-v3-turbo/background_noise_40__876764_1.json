@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__876764_1",
+ "condition": "background_noise_40",
+ "reference": "Hello Doctor, my baby boy was born on November twenty-six, two thousand and ten. The doctor told us to administer the pneumococcal seven vaccine, and she mentioned it costs four,one hundred Indian Rupees. We are not able to spend that much. Is this vaccination compulsory for Indian babies? What purpose does it serve? If we do not administer this injection, will there be any problems?",
+ "audio_seconds": 27.48,
+ "created_at": "2026-07-06T04:42:14+00:00",
+ "failed": false,
+ "text": "Hello doctor, my baby boy was born on November 26, 2010. The doctor told us to administer the pneumococcal 7 vaccine and she mentioned it costs 400 Indian rupees. We are not able to spend that much. Is this vaccination compulsory for Indian babies? What purpose does it serve? If we do not administer this injection, B, any problems?",
+ "seconds": 0.331
+}

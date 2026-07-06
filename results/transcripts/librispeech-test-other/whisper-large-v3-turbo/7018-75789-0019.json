@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0019",
+ "condition": null,
+ "reference": "HIS LETTER HATH SHOWN ME THIS AND AS FOR THE MIGHTINESS OF HIS DOMINION THOU HAST TOLD US WHAT THOU HAST EYE WITNESSED",
+ "audio_seconds": 7.76,
+ "created_at": "2026-07-05T13:13:35+00:00",
+ "failed": false,
+ "text": "His letter hath shown me this, and as for the mightiness of his dominion, thou hast told us what thou hast eyewitnessed.",
+ "seconds": 0.148
+}

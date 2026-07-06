@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__515922_1",
+ "condition": "background_noise_20",
+ "reference": "My two-year-old just had a mustard brown colored stool. It literally looked like a million tiny little sesame seeds and easily broke apart with a flaky texture. The sesame seed appearance had sharp edges. What am I looking at? I have to wait to take him to the doctor in the morning.",
+ "audio_seconds": 17.83,
+ "created_at": "2026-07-06T04:40:08+00:00",
+ "failed": false,
+ "text": "My two-year-old just had a mustard-brown-colored stool. It literally looked like a million little sesame seeds and easily broke apart with a flaky texture. The sesame seed appearance had sharp edges. What am I looking at? I have to wait to take him to the doctor in the morning.",
+ "seconds": 0.261
+}

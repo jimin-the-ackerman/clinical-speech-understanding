@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__731559_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, I have high blood pressure and am on twelve point five milligrams of hydrochlorothiazide and twenty milligrams of lisinopril. My side effects are reduced energy levels, headaches, pain in my lower extremities, nosebleeds, shortness of breath, and sleepless nights due to the pain. The most concerning symptom is the uncomfortable pain in my chest that comes and goes. I can't work as a CNC machinist as I used to. My question is: are these symptoms considered a condition that could lead to a future catastrophic event, and is this a legitimate disability affecting my ability to work in any gainful employment.",
+ "audio_seconds": 38.83,
+ "created_at": "2026-07-06T04:40:31+00:00",
+ "failed": false,
+ "text": "Hi. I have high blood pressure and am on 12.5 milligrams of hydrochlorothiazide and 20 milligrams of lisinopril. My side effects are reduced energy levels, headaches, pain in my lower extremities, nosebleeds, shortness of breath, and sleepless nights due to the pain. The most concerning symptom is the uncomfortable pain in my chest that comes and goes. I can't work as a CNC machinist as I used to. My question is, are these symptoms considered a condition that could lead to a future catastrophic event, and is this a legitimate disability affecting my ability to work in any game for employment?",
+ "seconds": 0.404
+}

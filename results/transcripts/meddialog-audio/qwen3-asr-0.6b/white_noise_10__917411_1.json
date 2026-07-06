@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__917411_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, I had pulmonary embolism thirteen years ago and again in January two thousand and thirteen. I am on Coumadin and monitored closely, and my International Normalized Ratio is consistently between two point eight and three. I also have a vena cava filter. Yesterday, I had a very sharp stabbing pain in my chest that lasted a couple of minutes and then went away. Do you think it is another blood clot?",
+ "audio_seconds": 24.41,
+ "created_at": "2026-07-06T05:07:38+00:00",
+ "failed": false,
+ "text": "Hello, I had pulmonary embolism thirteen years ago, and again in January two thousand and thirteen. I am on tumeidon and monitored closely. My international normalized ratio is consistently between two point eight and three. I also have a venous catheter. Yesterday, I had a very sharp, sudden pain in my chest that lasted a couple of minutes, then went away. You think it is another blood clot.",
+ "seconds": 0.763
+}

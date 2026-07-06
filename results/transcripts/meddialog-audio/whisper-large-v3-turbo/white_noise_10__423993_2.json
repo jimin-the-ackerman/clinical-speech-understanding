@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__423993_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, if you can write back to me with the following details: your complete semen analysis report, your age, and whether you smoke or consume alcohol, I will be able to give you more accurate information. Meanwhile, your sperm count is on the lower side, so continue with the medications your doctor advised. All these medications are health supplements, and they will help you achieve good quality sperm and semen. You should also follow these guidelines: complete abstinence from smoking and alcohol is required; have lots of fresh fruits and vegetables; and enjoy your life while trying to avoid excess stress and anxiety. I hope this helps you. Please feel free to converse further with more relevant history so that I will be able to assist you more precisely. Best wishes.",
+ "audio_seconds": 41.73,
+ "created_at": "2026-07-06T04:45:46+00:00",
+ "failed": false,
+ "text": "Hello, if you can write back to me with the following details, your complete semen analysis report, your age, and whether you smoke or consume alcohol, I will be able to give you more accurate information. Meanwhile, your sperm count is on the lower side, so continue with me and your doctor advice. All these medications are health supplements, and they will help you achieve good quality sperm and seeds. You should also follow these guidelines, complete abstinence from smoking and alcohol as required, have lots of fresh fruits and vegetables, and enjoy your life while trying to avoid excess stress and anxiety. I hope this helps you. Please feel free to converse further with more relevant history so that I will be able to assist you more precisely. Best wishes.",
+ "seconds": 0.403
+}

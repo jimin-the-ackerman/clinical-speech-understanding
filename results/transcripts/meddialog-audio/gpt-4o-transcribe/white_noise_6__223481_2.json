@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__223481_2",
+ "condition": "white_noise_6",
+ "reference": "It seems to be a secondary bacterial infection after a viral infection. Your son needs a course of antibiotics and paracetamol to overcome this.",
+ "audio_seconds": 9.3,
+ "created_at": "2026-07-06T00:47:11+00:00",
+ "failed": false,
+ "text": "You will feel no actual detection.",
+ "seconds": 0.463
+}

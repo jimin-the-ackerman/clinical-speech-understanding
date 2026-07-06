@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__248241_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, I impacted a soccer goalpost with my shin yesterday. There is a very dark bruise at the impact zone, and the whole surrounding area is completely numb. If I do not limp, I experience excruciating pain radiating throughout my leg from the impact area. Should I get an X-ray, or is it likely to be soft tissue damage?",
+ "audio_seconds": 20.14,
+ "created_at": "2026-07-06T05:31:45+00:00",
+ "failed": false,
+ "text": "Hello, I impacted a soccer goalkeeper with my shin yesterday. There is a very dark bruise on the leg, and the whole surrounding area is completely numb. If I do not limp, I experience excruciating pain radiating throughout my leg from the impact area. Should I get an X-ray, or is it likely to be soft tissue damage?",
+ "seconds": 0.692
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__260295_1",
+ "condition": "white_noise_6",
+ "reference": "I smacked my knee on the side of a door when I tried to open it early this morning, and it has been bothering me the whole day. I can bend it, but it hurts too, and after a while, it hurts to walk. Sometimes my leg falls asleep even though I have only been sitting down for a couple of minutes. Also, every time I go up the stairs and I get up off the couch, my knee hurts a lot. I have been icing it, but I do not know if I should go to the doctor or not. I hit the top of my kneecap.",
+ "audio_seconds": 32.6,
+ "created_at": "2026-07-06T00:47:12+00:00",
+ "failed": false,
+ "text": "But now, when you want to come before God in the early morning, I want you to be quiet in your mind and your spirit. Be calm in your heart and your mouth, and don't even utter a sound.",
+ "seconds": 1.05
+}

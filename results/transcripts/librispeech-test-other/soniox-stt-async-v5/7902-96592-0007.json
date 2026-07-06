@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0007",
+ "condition": null,
+ "reference": "BUT HOW QUEER FOR MISTER GURR TO BE TALKING LIKE THAT TO ANDREW TEAL THE BOY WHO HELPED THE COOK",
+ "audio_seconds": 5.14,
+ "created_at": "2026-07-06T02:36:43+00:00",
+ "failed": false,
+ "text": "But how queer for Mr. Gura to be talking like that to Andrew Teal, the boy who helped the cook—",
+ "seconds": 4.632
+}

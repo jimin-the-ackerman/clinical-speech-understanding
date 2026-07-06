@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__350867_1",
+ "condition": "clean",
+ "reference": "Sir, I am suffering from a fever for the past week. I had a blood test done the day before yesterday. The doctor says I am infected with leptospirosis and Salmonella Typhi O antigen - positive one:eighty, Salmonella Typhi H antigen - positive one:sixteen, Salmonella Paratyphi A H antigen - negative one:twenty, Salmonella Paratyphi B H antigen - negative one:twenty, Microscopic Agglutination Test - positive ++, and the Microscopic Agglutination Test for Leptospira Semaranga is one:eighty. Is it necessary for me to be hospitalized, or can I undergo treatment as an outpatient?",
+ "audio_seconds": 31.32,
+ "created_at": "2026-07-06T02:57:47+00:00",
+ "failed": false,
+ "text": "Sir, I am suffering from a fever for the past week; I had a blood test done the day before yesterday. The doctor says I am infected with leptospirosis and Salmonella typhi, O antigen: positive 1, E, i.e. Salmonella typhi, H antigen: positive 1, 16; Salmonella paratyphi, A, H antigen: negative 1, 20; microscopic agglutination test for Leptospira summarenga is 1, E. Is it necessary hospitalized, or can I undergo treatment as an outpatient?",
+ "seconds": 4.901
+}

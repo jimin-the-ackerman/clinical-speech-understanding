@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__750817_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, there can be different types of lumps at the anus, for example, lipoma, external hemorrhoids, sentinel tag, rectal prolapse, etc. Different lumps require different treatments. Therefore, it is necessary for you to see a surgeon for a checkup so that he can explain things to you in detail. I do not think it is related to the kidney stone.",
+ "audio_seconds": 20.22,
+ "created_at": "2026-07-06T03:07:48+00:00",
+ "failed": false,
+ "text": "Hi. There can be different types of lumps at the anus, for example lipoma, external hemorrhoids, sentinel tag, rectal prolapse, etc. Different lumps require different treatments; therefore, it is necessary for you to see a surgeon for a checkup so that he can explain things to you in detail. I do not think it is related to the kidney stone.",
+ "seconds": 5.038
+}

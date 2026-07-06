@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75788-0006",
+ "condition": null,
+ "reference": "TO THESE HE COMMITTED ME COMMENDING ME TO THEIR CARE AND SAYING THIS MAN IS A STRANGER SO TAKE HIM WITH YOU AND TEACH HIM HOW TO GATHER THAT HE MAY GET HIS DAILY BREAD AND YOU WILL EARN YOUR REWARD AND RECOMPENSE IN HEAVEN",
+ "audio_seconds": 15.77,
+ "created_at": "2026-07-05T23:57:31+00:00",
+ "failed": false,
+ "text": "To these he committed me, commending me to their care and saying, This man is a stranger, so take him with you and teach him how to gather that he may get his daily bread and you will earn your reward and recompense in heaven.",
+ "seconds": 1.084
+}

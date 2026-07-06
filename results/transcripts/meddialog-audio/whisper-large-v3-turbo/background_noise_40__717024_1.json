@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__717024_1",
+ "condition": "background_noise_40",
+ "reference": "I have a bald patch on my head and increased hair loss. What should I do to regrow hair on the patch and reduce hair loss? I had this condition when I was twenty-two, and some Ayurvedic treatment helped me. By the way, I am a female, forty-nine years old, and I am on thyroid supplements. The last time I checked my thyroid, which was six months ago, it was normal. Thanks.",
+ "audio_seconds": 25.17,
+ "created_at": "2026-07-06T04:41:57+00:00",
+ "failed": false,
+ "text": "i bald patch on my head and increased hair loss what should i do to regrow hair on the patch and reduce hair loss i had this condition when i was 22 and some higher vape treatment helped me by the way i am a female 49 years old and i am on thyroid supplements the last time i checked my thyroid which was sick though it was normal thanks",
+ "seconds": 0.323
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__165308_2",
+ "condition": "white_noise_6",
+ "reference": "I am sorry to hear about your situation. A blockage of forty% is not considered significant. I would like to know about the status of other arteries as well; there might be blockages in other arteries for which surgery is advised. Therefore, without knowing the full coronary angiography report, it is difficult to comment. I would like to inform you that having surgery with heart function at twenty-five% is always a high-risk procedure, including the possibility of death on the operating table.",
+ "audio_seconds": 30.21,
+ "created_at": "2026-07-06T00:47:09+00:00",
+ "failed": false,
+ "text": "I like to make videos of animals.",
+ "seconds": 1.302
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__769320_1",
+ "condition": "white_noise_6",
+ "reference": "My husband has swelling in his cranium. It started on the left side above the occipital area, and now this morning it's on the left side as well. After a twelve-hour workday, he came home and straight across from one side to the other is another lump laterally. He is experiencing pain, vision issues, and no appetite. This has been going on for about three to four days. Should I take him to the hospital? Please help. Thank you, Dawn.",
+ "audio_seconds": 25.77,
+ "created_at": "2026-07-06T05:14:28+00:00",
+ "failed": false,
+ "text": "My husband has slowly been deteriorating. He started on the left side of our vestibular area, and now this morning is on the left side as well. After a twelve-hour workday, he came home and straight across from one side to the other of another room. Laboratory. He has experience in pain, vision issues, and multiple. This has been going on for about three to four days. Have taken to the hospital. Can you help? Can you do?",
+ "seconds": 0.847
+}

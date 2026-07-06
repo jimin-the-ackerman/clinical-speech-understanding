@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__280616_2",
+ "condition": "clean",
+ "reference": "Hello. This finding is always a positive indicator. The report of tuberculosis is given only if certain cells are seen on the slides. So please proceed with the appropriate treatment, as your daughter is at a growing age. She needs treatment, a high-protein diet, multivitamin syrups, and plenty of playtime.",
+ "audio_seconds": 19.8,
+ "created_at": "2026-07-06T04:44:07+00:00",
+ "failed": false,
+ "text": "Hello. This finding is always a positive indicator. The report of tuberculosis is given only if certain cells are seen on the slides. So please proceed with the appropriate treatment, as your daughter is at a growing age. She needs treatment, a high-protein diet, multivitamin syrups, and plenty of playtime.",
+ "seconds": 0.241
+}

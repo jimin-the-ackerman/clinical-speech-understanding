@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163399-0029",
+ "condition": null,
+ "reference": "BEING TOM SAWYER WAS EASY AND COMFORTABLE AND IT STAYED EASY AND COMFORTABLE TILL BY AND BY I HEAR A STEAMBOAT COUGHING ALONG DOWN THE RIVER",
+ "audio_seconds": 8.94,
+ "created_at": "2026-07-05T13:10:05+00:00",
+ "failed": false,
+ "text": "Being Tom Sawyer was easy and comfortable, and it stayed easy and comfortable till by and by I hear a steamboat coughing along down the river.",
+ "seconds": 0.132
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__382271_1",
+ "condition": "white_noise_10",
+ "reference": "Good evening. I recently had the removal of basal cell carcinoma from my right shoulder. I had internal and external sutures. The scar is painful and raised, and I have stabbing pain intermittently. I now have a painful lump at the base of my skull that is making it hard to sleep. Could this be a swollen lymph node caused by the basal cell removal?",
+ "audio_seconds": 22.95,
+ "created_at": "2026-07-06T03:01:39+00:00",
+ "failed": false,
+ "text": "Good evening. I recently had the removal of basal cell carcinoma from my right shoulder. I had internal and external CTs. The scar is painful and raised, and I have stabbing pain up and in. I now have a painful lump at the base of my shoulder that is making it hard to sleep. Could this be a sort of maintenance caused by the basal cell removal?",
+ "seconds": 5.028
+}

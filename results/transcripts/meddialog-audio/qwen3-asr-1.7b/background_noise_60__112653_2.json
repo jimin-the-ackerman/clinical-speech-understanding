@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__112653_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, I think it cannot be related to soil or rock. Please get yourself evaluated by a gynecologist. Have a thyroid profile, prolactin level, and an ultrasound done to examine your uterus and ovaries. You can try ovulation induction with timed intercourse for conceiving. Talk to your doctor regarding this. I hope it helps.",
+ "audio_seconds": 20.99,
+ "created_at": "2026-07-06T05:23:27+00:00",
+ "failed": false,
+ "text": "Hi, I think it cannot be related to soil, rock. Please get yourself evaluated by a doctor. Have a thyroid profile, prolactin, and an ultrasound done to examine your uterus. You can try ovulation induction with timed intercourse if necessary. Talk to your doctor regarding this. I hope it helps.",
+ "seconds": 0.613
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__332785_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, thank you for asking. The hot fermentation is the only remedy. You can try either with a hot water bag or any other device. Have a good day.",
+ "audio_seconds": 9.3,
+ "created_at": "2026-07-06T04:29:29+00:00",
+ "failed": false,
+ "text": "Alright, thank you so much. I'm not going to keep any of this. You can call me with a hotline, and I'll be in your device. Have a good day.",
+ "seconds": 0.446
+}

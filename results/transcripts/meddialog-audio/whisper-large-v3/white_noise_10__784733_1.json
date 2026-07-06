@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__784733_1",
+ "condition": "white_noise_10",
+ "reference": "My daughter is having a severe cough after a dusty day in Kuwait. The doctor gave her Dexol syrup along with antibiotics and cough syrup. Is it safe for her to take Dexol and for how long should she take it? Will she have any other side effects later? My daughter is nine years old and weighs forty-two kilograms.",
+ "audio_seconds": 18.77,
+ "created_at": "2026-07-06T04:31:28+00:00",
+ "failed": false,
+ "text": "My daughter is having a severe cough after a dusty day in Kuwait. The doctor gave her dexyl syrup along with antibiotics and cough. Is it safe for her to take dexyl and for how long should she take it? Will she have any other side effects later? My daughter is 9 years old and weighs 42 kilograms.",
+ "seconds": 0.604
+}

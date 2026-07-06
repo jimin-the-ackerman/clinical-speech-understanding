@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5764-299665-0000",
+ "condition": null,
+ "reference": "AFTERWARD IT WAS SUPPOSED THAT HE WAS SATISFIED WITH THE BLOOD OF OXEN LAMBS AND DOVES AND THAT IN EXCHANGE FOR OR ON ACCOUNT OF THESE SACRIFICES THIS GOD GAVE RAIN SUNSHINE AND HARVEST",
+ "audio_seconds": 17.26,
+ "created_at": "2026-07-06T03:33:58+00:00",
+ "failed": false,
+ "text": "Afterward, it was supposed that he was satisfied with the blood of oxen, lambs, and doves, and that in exchange for or in account of these sacrifices, this god gave rain, sunshine, and harvest.",
+ "seconds": 0.479
+}

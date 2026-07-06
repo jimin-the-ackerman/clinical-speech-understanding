@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__649577_2",
+ "condition": "white_noise_2",
+ "reference": "These types of twitching and flickers are common after recovering from a stroke. These movements are not intentional and do not suggest a good or bad prognosis. I think you have to wait for some more days. Remember, recovery can take from months to years.",
+ "audio_seconds": 14.59,
+ "created_at": "2026-07-06T05:37:10+00:00",
+ "failed": false,
+ "text": "These types of twitching and flickers are common after recovering from a stroke. Movements are not intentional and do not suggest a good or bad prognosis. I think you have to wait for some more days. Remember, recovery can take from months to years.",
+ "seconds": 0.541
+}

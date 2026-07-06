@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__796889_2",
+ "condition": "white_noise_10",
+ "reference": "No, the survival of a patient who is already in end-stage liver disease is limited. Most often, patients fail because of cirrhosis of the liver rather than liver cancer itself. As you have not provided the exact extent of the liver cancer, I cannot suggest the correct treatment.",
+ "audio_seconds": 17.24,
+ "created_at": "2026-07-06T04:46:22+00:00",
+ "failed": false,
+ "text": "No, the survival of a patient who is already in end-stage liver disease is limited. Most often, patients fail because it's allergic to the liver rather than another cancer itself. As you have not provided the attractive stem to the liver, I cannot suggest a first treatment.",
+ "seconds": 0.219
+}

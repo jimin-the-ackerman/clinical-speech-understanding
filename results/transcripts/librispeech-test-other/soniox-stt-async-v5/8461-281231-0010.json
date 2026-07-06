@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0010",
+ "condition": null,
+ "reference": "THE BLACK KNIGHT WITH PORTENTOUS STRENGTH FORCED HIS WAY INWARD IN DESPITE OF DE BRACY AND HIS FOLLOWERS",
+ "audio_seconds": 7.3,
+ "created_at": "2026-07-06T02:42:29+00:00",
+ "failed": false,
+ "text": "The black knight, with potent or strength, forces his way inward in despite of Debracy and his followers.",
+ "seconds": 5.252
+}

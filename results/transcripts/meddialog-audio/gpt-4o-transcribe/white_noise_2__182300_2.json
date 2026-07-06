@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__182300_2",
+ "condition": "white_noise_2",
+ "reference": "It is normal to experience déjà vu. Its frequency is increased in temporal lobe epilepsy. I suggest you get an electroencephalogram for screening.",
+ "audio_seconds": 9.39,
+ "created_at": "2026-07-06T00:46:20+00:00",
+ "failed": false,
+ "text": "手紙を読んでジャムを作るつもりだった。",
+ "seconds": 0.48
+}

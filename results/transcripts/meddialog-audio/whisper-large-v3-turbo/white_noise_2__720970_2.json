@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__720970_2",
+ "condition": "white_noise_2",
+ "reference": "These are allergies which might have been triggered due to medications used in the past for vomiting to clear it. You have to correlate accordingly and treat the allergies to potentially cure them permanently. Get proper tests, diagnose, and treat the allergies because they can be treated if you know the cause. Until then, take montelukast ten mg twice daily, bronchodilator syrup, and a codeine plus chlorpheniramine maleate combination syrup at night, plus antacid liquid. It will make you feel better.",
+ "audio_seconds": 29.7,
+ "created_at": "2026-07-06T04:47:44+00:00",
+ "failed": false,
+ "text": "These are allergies which might have been triggered due to medications used in the past for vomiting to clear it. You have to correlate accordingly and treat the allergies to potentially cure them permanently. Get proper tests, diagnose, and treat the allergies because they can be treated if you know the cause. Until then, take Montelukas 10mg twice daily, bronchodilator syrup, and a codeine plus chlorpheniramine malate combination syrup at night plus antacid liquid. It will make you feel better.",
+ "seconds": 0.343
+}

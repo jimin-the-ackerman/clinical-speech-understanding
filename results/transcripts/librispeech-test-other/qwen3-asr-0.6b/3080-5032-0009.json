@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5032-0009",
+ "condition": null,
+ "reference": "MISTER FISH IS THE SQUIRE OF DAMES AND HAS SO MANY MISTRESSES THAT ANYBODY MAY PRETEND A SHARE IN HIM AND BE BELIEVED BUT THOUGH I HAVE THE HONOUR TO BE HIS NEAR NEIGHBOUR TO SPEAK FREELY I CANNOT BRAG MUCH THAT HE MAKES ANY COURT TO ME AND I KNOW NO YOUNG WOMAN IN THE COUNTRY THAT HE DOES NOT VISIT OFTEN",
+ "audio_seconds": 22.75,
+ "created_at": "2026-07-06T03:16:43+00:00",
+ "failed": false,
+ "text": "Mister. Fish is a squire of dames, and has so many mistresses that anybody may pretend to share in him. And we believe, but though I have the honour to be his near neighbour, to speak freely, I cannot brag much that he makes any court to me, and I know no young woman in the country that he does not visit often.",
+ "seconds": 0.721
+}

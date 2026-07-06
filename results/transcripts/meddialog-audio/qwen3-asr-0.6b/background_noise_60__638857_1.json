@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__638857_1",
+ "condition": "background_noise_60",
+ "reference": "I am twenty years of age, weighing ninety-five pounds. I have had kidney stones and a stent placed, and they were blasted out about three years ago. Then, about five months ago, I had nose surgery. Now, for the past three nights, I have been experiencing fever only at night and very bad sharp chest pains, as if I am being stabbed. It feels like the pain is going through to my back. My kidneys are also having sharp pains, and I am experiencing the same sharp sensations in my lower abdomen. What could this mean?",
+ "audio_seconds": 33.62,
+ "created_at": "2026-07-06T04:59:12+00:00",
+ "failed": false,
+ "text": "I am twenty years of age, weighing ninety-five pounds. I have had kidney stones and a stent placed, and they were blasted out about two years ago. Then, about five months ago, I had no surgery. Now, for the past three nights, I have been experiencing fever all night at night and very bad sharp chest pains, as if I am being stabbed. It feels like the pain is going through my back. My kidneys are also having sharp pains, and I am experiencing the same sharp sensations in my lower abdomen. What could this mean?",
+ "seconds": 1.005
+}

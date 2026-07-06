@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6938-70848-0016",
+ "condition": null,
+ "reference": "MEANWHILE THE QUESTION OF THE STATUS OF THE EXECUTIVE COMMITTEE WAS AGITATING ALL MINDS",
+ "audio_seconds": 5.62,
+ "created_at": "2026-07-05T13:05:38+00:00",
+ "failed": false,
+ "text": "Meanwhile, the question of the status of the executive committee was agitating all minds.",
+ "seconds": 0.212
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__892182_1",
+ "condition": "background_noise_60",
+ "reference": "I am sixty years old and have multiple problems such as joint pain, spine issues, digestion problems, being overweight, and swelling in my feet. I have taken different treatments like Ayurveda, physical therapy, acupuncture, and other possible treatments, but I do not feel relief and my weight is increasing day by day. Can you please advise me on what kind of treatment I should pursue?",
+ "audio_seconds": 25.94,
+ "created_at": "2026-07-06T05:00:14+00:00",
+ "failed": false,
+ "text": "I am sixty years old and have multiple problems such as joint pain, spine issues, digestion problems, being overweight, and swelling in my feet. I have taken different treatments like Ayurveda, physical therapy, acupuncture, and other possible treatments, but I do not feel relief and my weight is increasing day by day. Can you please advise me on what kind of treatment I should pursue?",
+ "seconds": 0.705
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__961501_2",
+ "condition": "background_noise_40",
+ "reference": "You have severe cervical spondylosis with possible frozen shoulder. I suggest an MRI to confirm. Good luck.",
+ "audio_seconds": 6.49,
+ "created_at": "2026-07-06T02:53:04+00:00",
+ "failed": false,
+ "text": "He has severe cervical spondylosis with possible frozen shoulder; I suggest an MRI to confirm. Good luck.",
+ "seconds": 4.82
+}

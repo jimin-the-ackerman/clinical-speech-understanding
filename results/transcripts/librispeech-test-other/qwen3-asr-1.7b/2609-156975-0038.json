@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-156975-0038",
+ "condition": null,
+ "reference": "THE CONSTANT NECESSITY OF MEETING THE DANGERS OF THE WILDERNESS AND OF DEFENDING THE FLOCKS ENTRUSTED TO MOSES CARE DEVELOPED HIS COURAGE AND POWER OF LEADERSHIP AND ACTION",
+ "audio_seconds": 13.1,
+ "created_at": "2026-07-06T03:28:04+00:00",
+ "failed": false,
+ "text": "The constant necessity, of meeting the dangers of the wilderness, and the defending the flocks entrusted to Moses' care, developed his courage and power of leadership and action.",
+ "seconds": 0.359
+}

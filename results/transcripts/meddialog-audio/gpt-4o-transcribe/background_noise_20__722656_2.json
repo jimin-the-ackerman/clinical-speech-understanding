@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__722656_2",
+ "condition": "background_noise_20",
+ "reference": "Hi. Reading your picture, it appears that you have injured your ankle slightly. I would suggest you use a support like a crepe bandage around your ankle for two to three weeks and take any painkiller that suits you.",
+ "audio_seconds": 12.71,
+ "created_at": "2026-07-06T00:42:28+00:00",
+ "failed": false,
+ "text": "Hi, reading your picture, it appears that you have injured your ankle slightly. I would suggest you use a support like a crepe bandage around your ankle for 2 to 3 weeks and take any painkiller that suits you.",
+ "seconds": 0.877
+}

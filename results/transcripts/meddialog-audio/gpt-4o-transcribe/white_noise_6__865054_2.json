@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__865054_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, I am concerned about the lump you have in your left armpit. I would advise you to get a fine needle aspiration biopsy from a nearby surgeon, who is the right expert to attend to it. Since it is painless, there is not much to worry about. After the fine needle aspiration report, most likely, it will be a non-malignant tumor. It may be tumor-like or may be a chronically infected node in the armpit. The information you provided definitely needs expert advice and follow-up until it is resolved with relief after proper treatment. Thank you. Feel free to reach out with any more queries on this matter.",
+ "audio_seconds": 33.96,
+ "created_at": "2026-07-06T00:47:37+00:00",
+ "failed": false,
+ "text": "I am concerned about the monkeypox outbreak. How do you recommend we get the population vaccinated quickly and effectively to combat the spread? What type of funding or operational support would you recommend to implement a vaccination effort? What type of funding or operational effort would you recommend to implement a vaccination effort? Which types of engagement strategies have been the most effective? How can we efficiently protect those in our community?",
+ "seconds": 1.681
+}

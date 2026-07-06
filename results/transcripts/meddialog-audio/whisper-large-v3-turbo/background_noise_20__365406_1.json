@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__365406_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, I am seven months pregnant, and when I stand for a long time, my thighs have a burning sensation and it hurts. What should I do? What healthy diet should I have now? I am also not taking iron tablets as they are giving me severe acidity problems. Is there any issue if I have a lower intake of iron? I am consuming calcium tablets daily.",
+ "audio_seconds": 21.59,
+ "created_at": "2026-07-06T04:39:54+00:00",
+ "failed": false,
+ "text": "Hi. I am seven months pregnant, and when I stand for a long time, my thighs have a burning sensation and it hurts. What should I do? What healthy diet should I have now? I am also not taking iron tablets as they are giving me severe acidity problems. Is there any issue if I have a lower intake of iron? I am consuming calcium tablets daily.",
+ "seconds": 0.31
+}

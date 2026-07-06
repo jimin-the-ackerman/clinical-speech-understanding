@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__257131_1",
+ "condition": "white_noise_2",
+ "reference": "I was diagnosed with two stones in my left kidney, each around five to six millimeters, and a stone at the vesicular junction, which I believe has been removed in my urine the day before yesterday. I also have a simple cortical cyst in my right kidney. I have to go to a foreign country for a week. What should I do for the stones in my kidney, and why does it sometimes hurt a little bit even after the stone at the vesicular junction was removed?",
+ "audio_seconds": 22.7,
+ "created_at": "2026-07-06T00:46:24+00:00",
+ "failed": false,
+ "text": "I was diagnosed with two stones in my left kidney, each around five to six millimeters in the stone at the vesicular junction, which I believe has been removed in my urine the day before yesterday. I also have a simple cortical cyst in my right kidney. What should I do for the stones in my kidney, and why does it sometimes hurt a little bit even after the stone at the vesicular junction was removed?",
+ "seconds": 1.566
+}

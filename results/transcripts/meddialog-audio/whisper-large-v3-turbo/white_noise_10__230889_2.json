@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__230889_2",
+ "condition": "white_noise_10",
+ "reference": "If you take my advice, I would recommend confirming the pregnancy with a urine pregnancy test one week after intercourse because white discharge does not indicate that she is pregnant. Additionally, a confirmatory test would be an ultrasound examination.",
+ "audio_seconds": 15.7,
+ "created_at": "2026-07-06T04:45:31+00:00",
+ "failed": false,
+ "text": "If you take my advice, I would recommend confirming the pregnancy with a urine pregnancy test one week after intercourse because white discharge does not indicate that she is pregnant. Additionally, a confirmatory test would be an ultrasound examination",
+ "seconds": 0.202
+}

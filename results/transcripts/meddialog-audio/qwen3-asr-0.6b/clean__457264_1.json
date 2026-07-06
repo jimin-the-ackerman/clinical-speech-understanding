@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__457264_1",
+ "condition": "clean",
+ "reference": "I have been experiencing an ongoing mild headache. It feels like a heaviness on the top of my head, and I see blurry at times. Sometimes it is hard to think, and I lose my train of thought; I might be saying something and then forget what I was about to say, and my mind goes completely blank. Should I be worried, or is it just a head cold or sinus issue?",
+ "audio_seconds": 19.54,
+ "created_at": "2026-07-06T05:02:03+00:00",
+ "failed": false,
+ "text": "I have been experiencing going mild headache. It feels like a heaviness on the top of my head, and I see blurry at times. Sometimes it is hard to think, and I lose my train of thought. I might be saying something and then forget what I was about to say, and my mind goes completely blank. Should I be worried, or is it just a head cold or sinus issue?",
+ "seconds": 0.731
+}

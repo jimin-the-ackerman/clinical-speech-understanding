@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__153063_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, I have a habit of ejaculating once every three days, and I am experiencing a loss of eyesight. I wear glasses, but my eyesight is deteriorating day by day. I would like to ask you if there is any connection between masturbation and losing eyesight.",
+ "audio_seconds": 16.81,
+ "created_at": "2026-07-06T04:45:22+00:00",
+ "failed": false,
+ "text": "Hi, I have a habit of ejaculating 173 days, and I am experiencing the loss of eyesight. I wear glasses, but my eyesight is deteriorated day by day. I would like to ask you if there is any connection between masturbation and losing eyesight.",
+ "seconds": 0.215
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__912510_2",
+ "condition": "clean",
+ "reference": "Fine Needle Aspiration Cytology of the contents should be done to determine the diagnosis. Does he have a fever?",
+ "audio_seconds": 6.66,
+ "created_at": "2026-07-06T00:45:34+00:00",
+ "failed": false,
+ "text": "By needle aspiration, cytology of the contents should be done to determine the diagnosis. Does he have a fever?",
+ "seconds": 0.657
+}

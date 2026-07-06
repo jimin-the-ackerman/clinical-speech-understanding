@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__992400_1",
+ "condition": "white_noise_6",
+ "reference": "Doctor, I am from Nepal. On Tuesday, my newborn baby boy was born. He weighs two point seven grams. On that day, the doctor administered some vaccines to him. On Thursday morning, my wife and baby were discharged from the hospital. During these days, I felt that his body was warm. I asked a nurse, and she told me it happens, but he still has a high fever. I am very worried, doctor. What should I do? What precautions should I take?",
+ "audio_seconds": 25.0,
+ "created_at": "2026-07-06T03:12:28+00:00",
+ "failed": false,
+ "text": "Doctor, I am from Nepal. On Tuesday my newborn baby boy was born; he weighs 2.7 grams. On that day the doctor administered some vaccine to him. On Thursday morning my wife and baby were discharged from the hospital. During these days I felt that his body was warm. I asked a nurse and she told me it happened, but he still has a high fever. I am very worried, doctor. What should I do? What precautions should I take?",
+ "seconds": 5.822
+}

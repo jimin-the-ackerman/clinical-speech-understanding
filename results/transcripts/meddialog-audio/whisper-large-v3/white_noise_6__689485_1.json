@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__689485_1",
+ "condition": "white_noise_6",
+ "reference": "My eighty-year-old father has been experiencing stomach pains for the past seven days. The pain is directly in the center of the abdomen. Today, he almost passed out; he became very lightheaded and was sweating profusely. He will see his medical doctor this week for a complete workup. What do you think it could be?",
+ "audio_seconds": 20.91,
+ "created_at": "2026-07-06T04:38:06+00:00",
+ "failed": false,
+ "text": "My 80-year-old father has been experiencing stomach pains for the past seven days. The pain is directly in the sunny abdomen. Today, he almost passed out. He became very lightheaded and was sweating profusely. He will see his medical doctor this week for a complete workup. What do you think it could be?",
+ "seconds": 0.61
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__467506_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, I had stitches on my top left lip and I also lost my tooth, the one that is located beneath my lip wound. I have had the stitches for six days. Today I went to the doctor; yesterday he said a part got infected and prescribed me antibiotics. This means that it is going to take longer for my lip to heal and I cannot go to the dentist yet.",
+ "audio_seconds": 20.05,
+ "created_at": "2026-07-06T04:45:49+00:00",
+ "failed": false,
+ "text": "Hello, I had stickers on my top left lip, and I also lost my teeth, so one of the glutes are going to lose my lip getting. I had had the stickers for 6 days. Today I went to the doctor. Yesterday he said a heart got infected and prescribed me an antibiotic. This means it is going to take longer for my lip to feel, and I cannot go to the dentist yet.",
+ "seconds": 0.27
+}

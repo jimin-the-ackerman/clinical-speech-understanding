@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280084-0014",
+ "condition": null,
+ "reference": "AS TO THE REST OF THE AFFAIR INSIDE THE BANK I TAKE THE ACCOUNT OF A NORTHFIELD NARRATOR",
+ "audio_seconds": 5.28,
+ "created_at": "2026-07-05T13:07:21+00:00",
+ "failed": false,
+ "text": "as to the rest of the affair inside the bank i take the account of a northfield narrator",
+ "seconds": 0.231
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__739705_2",
+ "condition": "background_noise_60",
+ "reference": "I understand your concern. Do not dismiss this or ignore the doctor; however, he will need to get a skin biopsy in order to definitely confirm skin cancer. Ask him to see a doctor for evaluation and determination of the need for one. I hope this helps.",
+ "audio_seconds": 15.87,
+ "created_at": "2026-07-06T02:55:34+00:00",
+ "failed": false,
+ "text": "And I understand your concern. Do not dismiss this or ignore the doctor. However, you will need to get a skin biopsy in order to go deeper in the dermis for detailed testing. Ask him to see a doctor for evaluation and determination of the lesion. I hope this helps.",
+ "seconds": 4.62
+}

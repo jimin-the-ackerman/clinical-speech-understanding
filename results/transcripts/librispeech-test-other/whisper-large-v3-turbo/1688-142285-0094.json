@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0094",
+ "condition": null,
+ "reference": "I DON'T KNOW POSITIVELY THAT IT IS HERS EITHER BUT FROM LITTLE THINGS I HAVE GATHERED FROM HIM I FANCY SO",
+ "audio_seconds": 7.38,
+ "created_at": "2026-07-05T13:09:09+00:00",
+ "failed": false,
+ "text": "i don't know positively that it is hers either but from little things i have gathered from him i fancy so",
+ "seconds": 0.124
+}

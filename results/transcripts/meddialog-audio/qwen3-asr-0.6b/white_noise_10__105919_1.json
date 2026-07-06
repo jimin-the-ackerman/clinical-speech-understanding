@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__105919_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, I just want to know what is wrong with me. I feel heat inside my body. I feel exhausted. I have lost weight. I try to eat, but it seems like I haven't gained any weight. I have a health history of hepatitis B, and I haven't received any treatment yet. One time, I had a blood test to count the virus in my blood. The doctor said there are many viruses in one milliliter of blood. Are the above symptoms caused by hepatitis B?",
+ "audio_seconds": 29.87,
+ "created_at": "2026-07-06T05:04:26+00:00",
+ "failed": false,
+ "text": "Hi, I just want to know what is wrong with me. I feel heat inside my body, I feel exhausted, I have lost weight, I try to eat but it seems like I haven't gained any weight. I have a health history of hepatitis B, but I haven't received the treatment yet. One time, I had a blood test to count the virus in my blood. The doctor said there are many viruses in one milliliter of blood. Are the above symptoms caused by hepatitis B?",
+ "seconds": 0.911
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__408474_2",
+ "condition": "white_noise_10",
+ "reference": "Do serum thyroid-stimulating hormone and serum prolactin, then do hysterosalpingography on the eighth day. Then do a follicular study after taking clomiphene from day two. When the follicle size increases to eighteen millimeters, it will rupture, and then perform intrauterine insemination for early results.",
+ "audio_seconds": 20.39,
+ "created_at": "2026-07-06T00:45:50+00:00",
+ "failed": false,
+ "text": "Electrical conductivity is also higher for salt water.",
+ "seconds": 0.588
+}

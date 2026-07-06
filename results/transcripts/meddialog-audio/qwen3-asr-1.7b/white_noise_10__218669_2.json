@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__218669_2",
+ "condition": "white_noise_10",
+ "reference": "Is it the kneecap that is popping out? That is a very serious issue. It is called habitual dislocation of the patella. It may be due to various causes such as laxity, high-riding patella, or femoral condyle dysplasia, and treatment depends upon the underlying cause. Do you have any X-rays or magnetic resonance imaging? Where do you live?",
+ "audio_seconds": 23.55,
+ "created_at": "2026-07-06T05:31:33+00:00",
+ "failed": false,
+ "text": "Is this the new cast that is popping up? Odd is a very serious issue. It is called habitual dislocation of the disc, that moves into various problems such as back, high-riding hip, and femoral condyles dislocation. The treatment depends upon the underlying cause. Do you have any X-rays in my head? It doesn't look anything. What do you do?",
+ "seconds": 0.748
+}

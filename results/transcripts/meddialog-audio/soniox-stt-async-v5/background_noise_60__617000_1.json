@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__617000_1",
+ "condition": "background_noise_60",
+ "reference": "The back of my head feels numb if I am sitting in the same position for too long. I can feel relief when it goes away. I have also been battling horrible back pain, not constant but occurring every so often. Doctors say they are spasms. When my back hurts, I also feel as if I am having an asthma attack when it is really bad. Everyone says they are just back spasms and sends me on my way. Any ideas?",
+ "audio_seconds": 25.77,
+ "created_at": "2026-07-06T02:55:11+00:00",
+ "failed": false,
+ "text": "The back of my head feels numb if I am sitting in the same position for too long; I can feel relief when it goes away. I have also been battling horrible back pain, not constant but occurring every so often. Doctors say they are spasms. When my back hurts, I also feel as if I am having an asthma attack when it is really bad. Everyone says they are just \"back spasms\" and sends me on my way. And the ideas?",
+ "seconds": 6.027
+}

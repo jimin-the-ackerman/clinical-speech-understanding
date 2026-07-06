@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__987624_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, welcome to the health care management. Pregnancy is more a natural phenomenon than a physiological one, and sometimes even after all the tests are normal, conception may not be possible. Conversely, conception can occur in cases where there is an obvious cause of infertility. In my opinion, just keep trying regardless of the primary infertility issue. I hope this information helps.",
+ "audio_seconds": 24.49,
+ "created_at": "2026-07-06T04:57:05+00:00",
+ "failed": false,
+ "text": "Hello, welcome to the healthcare management. Pregnancy is more a natural phenomenon than a physiological one, and sometimes even after all the tests are normal, conception may not be possible. Conversely, conception can occur in cases where there is an obvious cause of infertility. In my opinion, just keep trying regardless of the primary infertility issue. I hope this information helps.",
+ "seconds": 0.651
+}

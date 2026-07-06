@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__474158_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, this is weird, and I can't find anything on the web explaining it, but I have a place just above my belly button that hurts sometimes, and when I push on it, it feels sort of like there is a stuffed animal inside. It has been there for a long time, and it really freaks me out sometimes. Also, when I laugh hard, it feels like my organs are popping.",
+ "audio_seconds": 21.67,
+ "created_at": "2026-07-06T00:46:35+00:00",
+ "failed": false,
+ "text": "Hi, this is weird. I can't find anything on the rabbit planet. Can you help figure out what I'm talking about?",
+ "seconds": 0.813
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__829987_2",
+ "condition": "white_noise_10",
+ "reference": "Hi. Full dentures are used to replace all teeth when they are absent. In your case, as you have mentioned that you have only one front tooth left, it is much easier to replace only the missing teeth. The options here are removable partial dentures. You can choose between regular or Valplast dentures. Valplast is much more flexible than the regular ones. Another option is a fixed partial denture, which involves a set of crowns to replace your lost teeth, supported by the original back teeth on either side. The materials available for these dentures include ceramic and zirconia, with zirconia looking more natural than ceramic. Additionally, dental implants can replace lost teeth using small metal screws followed by fixing ceramic caps or crowns. However, this option might be expensive for multiple teeth and takes more time.",
+ "audio_seconds": 54.78,
+ "created_at": "2026-07-06T03:04:00+00:00",
+ "failed": false,
+ "text": "Hi, full dentures are used to replace all teeth when they are absent. In your case, as you have mentioned that you have only 1 front tooth left, this is much easier to replace only the missing teeth. The options here are removable partial dentures; you can choose between regular or Valplast dentures. Valplast is much more flexible than the regular ones. Another option is a fixed partial denture, which involves a set of crowns to replace your lost teeth, supported by the original back tooth on either side. The materials available for these dentures include ceramic and zirconia, with zirconia looking more natural than ceramic. Additionally, dental implants can replace lost teeth using small metal screws, followed by fixing ceramic caps or crowns. However, this option might be expensive for multiple teeth and takes more time.",
+ "seconds": 8.448
+}

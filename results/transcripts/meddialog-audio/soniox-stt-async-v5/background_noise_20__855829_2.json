@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__855829_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, welcome to the clinic. In my opinion, just keep trying and do not focus on whether your menstrual cycles are regular or irregular, as this is a natural phenomenon and does not require any treatment. It depends on compatibility. I hope this information helps.",
+ "audio_seconds": 16.21,
+ "created_at": "2026-07-06T02:49:13+00:00",
+ "failed": false,
+ "text": "Hello, welcome to the clinic. In my opinion, just keep trying and do not focus on whether your menstrual cycles are regular or irregular, as this is a natural phenomenon and does not require any treatment. It depends on compatibility. I hope this information helps.",
+ "seconds": 4.91
+}

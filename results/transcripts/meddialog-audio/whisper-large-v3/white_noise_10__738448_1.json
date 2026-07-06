@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__738448_1",
+ "condition": "white_noise_10",
+ "reference": "After a chest X-ray, my doctor told me I have a heterogeneous opacity in the right middle lobe. I am not sure what that means and what it is. I am not sick, but he is treating me with Ciprofloxacin and wants a follow-up X-ray in thirty days. What causes this and is it serious? I am sixty-eight years old.",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T04:31:11+00:00",
+ "failed": false,
+ "text": "After we kept that play, my doctor told me I had a hepatic adenomyosis in the right knee bone. I am not sure about him and what it is. I am not safe, but he is putting me in a separate box with him and I have to follow up after I'm 30 days. The cause of this may be serious. I need to see you immediately.",
+ "seconds": 0.749
+}

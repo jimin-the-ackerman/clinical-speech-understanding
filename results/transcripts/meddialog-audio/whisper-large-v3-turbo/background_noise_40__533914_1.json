@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__533914_1",
+ "condition": "background_noise_40",
+ "reference": "I have a horrible pain in my lower left abdomen. This has been going on for more than a year, and it recently became more frequent. I was wondering if I should look deeper into it. I am also fifteen years of age and overweight. Other than my being heavy, my medical history is clean.",
+ "audio_seconds": 15.79,
+ "created_at": "2026-07-06T04:41:43+00:00",
+ "failed": false,
+ "text": "I have a horrible pain in my lower left abdomen. This has been going on for more than a year, and it recently became more frequent. I was wondering if I should look deeper into it. I am also 15 years of age and overweight. Other than my being heavy, my medical history is clean.",
+ "seconds": 0.239
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__536740_1",
+ "condition": "white_noise_2",
+ "reference": "My newborn son was born on July thirty-one, two thousand and twelve. He has been in the Neonatal Intensive Care Unit the entire time. When we go to visit him, he seems fine and is not hooked up to life support. The doctors say he has low platelets. Is this life-threatening? We are not getting much information from the staff.",
+ "audio_seconds": 22.02,
+ "created_at": "2026-07-06T04:34:06+00:00",
+ "failed": false,
+ "text": "My newborn son was born on July 31, 2012. He has been in the neonatal intensive care unit the entire time. When we go to visit him, he seems fine and is not hooked up to life support. The doctors say he has low platelets. Is this life threatening? We are not getting much information from the staff.",
+ "seconds": 0.606
+}

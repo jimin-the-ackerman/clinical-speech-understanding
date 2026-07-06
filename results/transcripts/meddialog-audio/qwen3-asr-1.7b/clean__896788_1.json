@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__896788_1",
+ "condition": "clean",
+ "reference": "Hi, my girlfriend and I are really worried right now because when we were having sexual intercourse last night, the condom broke and I did not notice, so I ejaculated inside her. The condom was a Trojan spermicide type, and she has also been taking birth control for about a year, and she never misses a pill. She also cleaned herself thoroughly after it happened. Should we be worried about pregnancy?",
+ "audio_seconds": 22.7,
+ "created_at": "2026-07-06T05:30:34+00:00",
+ "failed": false,
+ "text": "Hi, my girlfriend and I are really worried right now because when we were having sexual intercourse last night, the condom broke and I did not notice. So I ejaculated inside her. The condom was a Trojan spermicide type, and she has also been taking birth control for about a year, and she never misses a pill. She also cleaned herself thoroughly after it happened. Should we be worried about pregnancy?",
+ "seconds": 0.773
+}

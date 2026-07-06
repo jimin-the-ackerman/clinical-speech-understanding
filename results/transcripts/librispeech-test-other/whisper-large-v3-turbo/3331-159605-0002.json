@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0002",
+ "condition": null,
+ "reference": "I VE TRIED IT AND LIKED IT AND MAYBE THIS IS THE CONSEQUENCE OF THAT NIGHT'S FUN",
+ "audio_seconds": 6.23,
+ "created_at": "2026-07-05T13:10:14+00:00",
+ "failed": false,
+ "text": "I've tried it, and liked it, and maybe this is the consequence of that night's fun.",
+ "seconds": 0.119
+}

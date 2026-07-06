@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-157645-0013",
+ "condition": null,
+ "reference": "GOING TO CHURCH AT HAYES IN THOSE DAYS MUST HAVE BEEN QUITE AN EXCITING EXPERIENCE",
+ "audio_seconds": 6.23,
+ "created_at": "2026-07-05T23:54:17+00:00",
+ "failed": false,
+ "text": "Going to church at Hedingham in those days must have been quite an exciting experience.",
+ "seconds": 0.902
+}

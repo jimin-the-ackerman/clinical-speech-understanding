@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164915-0001",
+ "condition": null,
+ "reference": "THEN SHE THREW HERSELF UPON HIM AND HE GATHERED HER TO HIS BOSOM AND THE TWAIN FELL DOWN IN A FAINTING FIT",
+ "audio_seconds": 8.94,
+ "created_at": "2026-07-05T12:56:26+00:00",
+ "failed": false,
+ "text": "then she threw herself upon him and he gathered her to his bosom and the twain fell down in a fainting fit",
+ "seconds": 0.282
+}

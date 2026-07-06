@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__165306_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, I suffer from several back issues considering I am only nineteen. I weigh one hundred and forty pounds, and I stand six feet tall. It is far beyond a problem in all activities I do. I am missing the L4 vertebra, I also have a mild case of scoliosis, a herniated disk, and lastly, I have been informed I have an extra spinal disk that the doctor could not explain. How can I relieve my pain? I am relatively healthy, but almost all forms of exercise, and just the simple act of waking up, are beginning to tear me apart. I have an appointment with a surgeon, but that is in January two thousand and twelve.",
+ "audio_seconds": 37.21,
+ "created_at": "2026-07-06T04:42:30+00:00",
+ "failed": false,
+ "text": "Hi, I suffer from several back issues considering I am only 19. I weigh 140 pounds and I stand 6 feet tall. It is far beyond a problem in all activities I do. I am missing the L4 vertebra. I also have a mild case of scoliosis, a herniated disc, and lastly, I have been informed I have an extra spinal disc that the doctor could not explain. I am relatively healthy, but almost all forms of exercise and just the simple act of waking up are beginning to tear me apart. I have an appointment with a surgeon, but that is in January 2012.",
+ "seconds": 0.398
+}

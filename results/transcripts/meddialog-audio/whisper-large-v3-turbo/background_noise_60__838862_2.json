@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__838862_2",
+ "condition": "background_noise_60",
+ "reference": "I read your question carefully, and I understand your concern. Regarding your first question, yes, it is normal to wait for a week or so; it doesn't significantly affect the tumor's progression while careful planning can improve the outcome. As for your second question, it is a difficult one to answer. There are many types of brain tumors, some more aggressive and some less. Each type carries a different prognosis, which will be better determined after the surgery and the biopsy results. I hope everything works out for the best.",
+ "audio_seconds": 31.57,
+ "created_at": "2026-07-06T04:43:34+00:00",
+ "failed": false,
+ "text": "I read the question about you, and I understand that this is a very new first question. Yes, it is normally the way you are in person. It has some significant interaction between depression and depression and depression. As for your second question, what is it to have you in this way? There are many folks who are interested in this. Some are more aggressive and selfless. Each type has different problems. I hope everything works out for you guys.",
+ "seconds": 0.331
+}

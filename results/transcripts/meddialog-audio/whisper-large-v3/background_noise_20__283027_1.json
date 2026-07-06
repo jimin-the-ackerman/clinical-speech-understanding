@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__283027_1",
+ "condition": "background_noise_20",
+ "reference": "Hello Doctor, I have a light pain in my upper abdomen with a bloated feeling after eating, and occasional pain in my gut. I experienced some violent pain about a year ago while I was training with an exercise program to strengthen my abdominal muscles. It felt like a tear in my gut while training. I do not know if this is related to what I am experiencing now. I also train with heavy weights. Can you please give me an idea of what is going on and what I should do about this situation?",
+ "audio_seconds": 25.09,
+ "created_at": "2026-07-06T04:14:09+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I have a light pain in my upper abdomen with a bloated feeling after eating. An occasional pain in my gut. I experienced some violent pain about a year ago while I was training with an exercise program to strengthen my abdominal muscles. It felt like a tear in my gut while training. I do not know if this is related to what I am experiencing now. I also train with heavy weights. Can you please give me an idea of what is going on and what I should do about this situation?",
+ "seconds": 0.924
+}

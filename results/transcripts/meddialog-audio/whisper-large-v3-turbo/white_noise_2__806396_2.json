@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__806396_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, welcome to the clinic. I really appreciate your concern. The tightening you are experiencing could be due to a muscular spasm and may not be related to any cardiac disease. At your young age and as a female, chest pain due to heart disease is unlikely unless there is some congenital condition. The symptoms you mentioned could indeed be due to muscular spasm and would likely be temporary, especially if they occur due to deep breathing. I hope this information helps.",
+ "audio_seconds": 28.67,
+ "created_at": "2026-07-06T04:47:52+00:00",
+ "failed": false,
+ "text": "Hello, welcome to the clinic. I really appreciate your concern. The tightening you are experiencing could be due to a muscular spasm and may not be related to any cardiac disease. At your young age and as a female, chest pain due to heart disease is unlikely unless there is some congenital condition. The symptoms you mentioned could indeed be due to muscular spasm and would likely be temporary, especially if they occur due to deep breathing. I hope this information helps.",
+ "seconds": 0.265
+}

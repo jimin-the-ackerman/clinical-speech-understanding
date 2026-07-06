@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280076-0023",
+ "condition": null,
+ "reference": "THERE WERE FIFTY OR A HUNDRED PERSONS THERE WHO WILL TESTIFY IN ANY COURT THAT JOHN AND I WERE THERE",
+ "audio_seconds": 5.33,
+ "created_at": "2026-07-06T02:38:21+00:00",
+ "failed": false,
+ "text": "There were 50 or 100 persons there who will testify in any court that John and I were there.",
+ "seconds": 4.599
+}

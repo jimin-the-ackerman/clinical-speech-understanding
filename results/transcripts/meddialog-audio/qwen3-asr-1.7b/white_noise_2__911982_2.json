@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__911982_2",
+ "condition": "white_noise_2",
+ "reference": "Can you tell me if, when you cry, you are sad at that time and for how many days it lasts? The same for being angry. If it lasts days to weeks together, then it may be bipolar disorder. However, if not, then you may be experiencing low frustration tolerance, emotional imbalance, or collectively an emotionally unstable personality for which psychotherapy may be helpful.",
+ "audio_seconds": 26.54,
+ "created_at": "2026-07-06T05:38:21+00:00",
+ "failed": false,
+ "text": "Can you tell me if, when you cry, you are sad at that time, and for how many days it lasts? The same for being angry. If it lasts days to weeks together, then it may be bipolar disorder. However, if not, then you may be experiencing low frustration tolerance, emotional imbalance, or collectively an emotionally unstable personality for which psychotherapy may be helpful.",
+ "seconds": 0.747
+}

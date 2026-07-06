@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75788-0013",
+ "condition": null,
+ "reference": "NEXT MORNING AS SOON AS IT WAS LIGHT HE PRAYED THE DAWN PRAYER AND AFTER BLESSING MOHAMMED THE CREAM OF ALL CREATURES BETOOK HIMSELF TO THE HOUSE OF SINDBAD THE SEAMAN AND WISHED HIM A GOOD DAY",
+ "audio_seconds": 13.61,
+ "created_at": "2026-07-05T13:05:45+00:00",
+ "failed": false,
+ "text": "next morning as soon as it was light he prayed the dawn prayer and after blessing mohammed the cream of all creatures betook himself to the house of sindbad the seaman and wished him a good day",
+ "seconds": 0.344
+}

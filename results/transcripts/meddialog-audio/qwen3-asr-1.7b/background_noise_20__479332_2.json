@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__479332_2",
+ "condition": "background_noise_20",
+ "reference": "The missed periods that you are experiencing are most likely due to hormonal changes in your body as a result of the fact that you missed your pills for a few days. It is unlikely that you would be pregnant; however, having said that, I would still recommend that you take a home pregnancy test to be sure.",
+ "audio_seconds": 15.02,
+ "created_at": "2026-07-06T05:17:06+00:00",
+ "failed": false,
+ "text": "The missed periods that you are experiencing are most likely due to hormonal changes in your body as a result of the fact that you missed your pills for a few days. It is unlikely that you would be pregnant. However, having said that, I would still recommend that you take a home pregnancy test to be sure.",
+ "seconds": 0.598
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__865054_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, I am a forty-four-year-old male in good health, except for moderate depression diagnosed a year ago. Lately, I noticed a lump in my ribs, five inches below my left armpit, and three inches from my left nipple. The lump feels semi-hard and moves up and down a bit when I apply pressure with my fingers. So far, it is painless. Recently, I had to take antibiotics because of laryngitis and coughing. I would appreciate your comments about my lump, as well as any suggestions.",
+ "audio_seconds": 27.31,
+ "created_at": "2026-07-06T00:46:09+00:00",
+ "failed": false,
+ "text": "to create a watch that combined everything from precision chronograph movement and speedometer to water resistance and compass.",
+ "seconds": 0.859
+}

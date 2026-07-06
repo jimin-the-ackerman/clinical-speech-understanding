@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__188425_2",
+ "condition": "background_noise_40",
+ "reference": "Hi. From your history, this may be an inguinal hernia or a boil. If this is a hernia, it will be expansible—meaning it increases with coughing and straining—and reducible, meaning it can be manually reduced. If it is a boil, it will remain the same irrespective of coughing or pressing. The treatment for a hernia is herniotomy, and if it is a boil or similar condition, a trial with an antibiotic and anti-inflammatory medications for five days will be sufficient.",
+ "audio_seconds": 28.59,
+ "created_at": "2026-07-06T04:41:05+00:00",
+ "failed": false,
+ "text": "Hi, from your history, this may be an inguinal hernia or a boil. If this is a hernia, it will be expansible, meaning it increases with coughing and straining, and reducible, meaning it can be manually reduced. If it is a boil, it will remain the same irrespective of coughing or pressing. The treatment for a hernia is herniotomy, and if it is a boil or similar condition, a trial with an antibiotic and anti-inflammatory medications for five days will be sufficient.",
+ "seconds": 0.309
+}

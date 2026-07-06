@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0009",
+ "condition": null,
+ "reference": "WE STRUCK THE RAFT AT THE SAME TIME AND IN LESS THAN TWO SECONDS WE WAS GLIDING DOWN STREAM ALL DARK AND STILL AND EDGING TOWARDS THE MIDDLE OF THE RIVER NOBODY SAYING A WORD",
+ "audio_seconds": 11.15,
+ "created_at": "2026-07-05T12:57:28+00:00",
+ "failed": false,
+ "text": "we struck the raft at the same time and in less than two seconds we was gliding down stream all dark and still and edging towards the middle of the river nobody saying a word we struck the raft at the same time and in less than two seconds we was gliding down stream all dark and still and edging towards the middle of the river",
+ "seconds": 0.578
+}

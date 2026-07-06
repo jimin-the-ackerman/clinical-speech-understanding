@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__823153_2",
+ "condition": "background_noise_20",
+ "reference": "I am unable to understand your question properly, but what I can gather is that you had an appendectomy in January and now you are having left-sided abdominal pains. First of all, the appendix is on the right side, so your pain cannot be explained by the surgery. I would be able to answer your question better if you let me know your age and whether you are experiencing any bowel or bladder disturbances.",
+ "audio_seconds": 25.51,
+ "created_at": "2026-07-06T00:42:35+00:00",
+ "failed": false,
+ "text": "I am unable to understand your question properly, but what I can gather is that you had an appendectomy in January and now you are having left-sided abdominal pains. First of all, the appendix is on the right side, so your pain cannot be explained by the surgery. I would be able to answer your question better if you let me know your age and whether you are experiencing any bowel or bladder disturbances.",
+ "seconds": 1.418
+}

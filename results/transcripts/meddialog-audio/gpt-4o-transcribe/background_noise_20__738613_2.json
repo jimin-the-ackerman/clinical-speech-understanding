@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__738613_2",
+ "condition": "background_noise_20",
+ "reference": "The medications Leuprolide or Nafarelin can cause cessation of menstruation and associated menstrual cramping, and may even lead to shrinkage of the swelling associated with adenomyosis. However, the effect is temporary; when the medication is discontinued, the symptoms return. At the present time, the only treatment for adenomyosis is surgery. In situations where the adenomyosis is confined to isolated areas in the muscle wall, an attempt may be made to surgically remove these areas and repair the rest of the uterus. In situations where the majority of the uterus is affected, hysterectomy may be the only cure.",
+ "audio_seconds": 38.06,
+ "created_at": "2026-07-06T00:42:29+00:00",
+ "failed": false,
+ "text": "The medications Lupralide or Neferalin can cause cessation of menstruation and associated menstrual cramping, and may even lead to shrinkage of the swelling associated with adenomyosis. However, the effect is temporary. When the medication is discontinued, the symptoms return. At the present time, the only treatment for adenomyosis is surgery. In situations where the adenomyosis is confined to isolated areas in the muscle wall, an attempt may be made to surgically remove these areas and repair the rest of the uterus. In situations where the majority of the uterus is affected, hysterectomy may be the only cure.",
+ "seconds": 2.099
+}

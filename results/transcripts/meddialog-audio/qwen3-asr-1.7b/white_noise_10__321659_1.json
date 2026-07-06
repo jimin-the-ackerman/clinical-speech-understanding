@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__321659_1",
+ "condition": "white_noise_10",
+ "reference": "I just noticed my four-month-old's vaginal area is now showing an opening, a little hole that wasn't open before. Should she have an opening already? She strains a lot and stays tense or stiff trying to do a lot of things her body isn't ready for yet. My point is, if this isn't normal, would straining cause it? She had a very hard bowel movement last night and cried during it.",
+ "audio_seconds": 24.58,
+ "created_at": "2026-07-06T05:31:53+00:00",
+ "failed": false,
+ "text": "I just noticed my four-month-old vaginal area is now showing an opening, a little hole that wasn't open before. Did she have an opening already? She strains a lot and takes twigs or fists, trying to do a lot of things her body isn't ready for yet. Next point is, this is abnormal. She's straining a lot. She had a very hard bowel movement last night and cried for it.",
+ "seconds": 0.81
+}

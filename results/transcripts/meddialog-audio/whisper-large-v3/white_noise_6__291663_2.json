@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__291663_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, dear. Unilateral short-duration pain may be due to a cluster headache if it occurs unilaterally with periodicity and is located periorbitally with attacks occurring during sleep or early morning. Other possibilities may include a short-lasting unilateral neuralgiform headache with conjunctival injection and burning.",
+ "audio_seconds": 19.97,
+ "created_at": "2026-07-06T04:36:33+00:00",
+ "failed": false,
+ "text": "Hello, dear. Unilateral port duration pain may be due to a cluster headache if it occurs unilaterally with periodicity and is located periorbidally with attacks occurring during sleep or early morning. Other possibilities may include a short-lasting unilateral neural duct headache with conjunctival injection and burning.",
+ "seconds": 0.512
+}

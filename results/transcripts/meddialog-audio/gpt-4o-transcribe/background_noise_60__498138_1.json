@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__498138_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, I got married. It has been six years, and I am still not having a child. Please suggest to me, after my menstrual cycle, from which day we should start intercourse. For the last five years, I had one operation for a fibroid, which is now clear, but I am still not having a baby. I am thirty-eight years old, and my husband is forty-three years old. Please tell me the treatment; I am waiting for your answer.",
+ "audio_seconds": 29.1,
+ "created_at": "2026-07-06T00:44:08+00:00",
+ "failed": false,
+ "text": "I got married. It has been six years and I'm still not having a child. Please suggest to me what day we should start intercourse. For the last five years I had one operation for a fibroid, which is now clear, but I am still not having a baby. I am 38 years old and my husband is 43 years old. Please tell me the treatment. I am waiting for your answer.",
+ "seconds": 1.343
+}

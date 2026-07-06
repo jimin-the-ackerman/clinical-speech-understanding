@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__630458_1",
+ "condition": "clean",
+ "reference": "I was in the Philippines when a dog bit me. It was a mother dog protecting her puppies. She looked healthy, and the owners said this dog had bitten their children before and there had never been a problem. It did not cause me to bleed, and I couldn't tell if it even scratched the surface, but it bruised. Since it's the Philippines, I am still worried. It's been about one week, but I can't stop thinking about it. Should I go to the doctor? Is it too late to get a vaccine?",
+ "audio_seconds": 27.22,
+ "created_at": "2026-07-06T05:29:13+00:00",
+ "failed": false,
+ "text": "I was in the Philippines when a dog bit me. It was a mother dog protecting her puppies. She looked healthy, and the owner said this dog had bitten their children before, and there had never been a problem. It did not cause me to bleed, and I couldn't tell if it even scratched the surface, but it bruised. Since it's the Philippines, I am still worried. It's been about one week, but I can't stop thinking about it. Should I go to the doctor? Is it too late to get a vaccine?",
+ "seconds": 1.067
+}

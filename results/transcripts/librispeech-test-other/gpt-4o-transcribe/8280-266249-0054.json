@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0054",
+ "condition": null,
+ "reference": "IT CAME FROM UNDER THE TABLE GASPED WARD LOOK WHAT'S THERE LOOK YOURSELF",
+ "audio_seconds": 5.93,
+ "created_at": "2026-07-05T23:58:49+00:00",
+ "failed": false,
+ "text": "It came from under the table,\" gasped Ward. \"Look what's there! Look yourself!\"",
+ "seconds": 0.756
+}

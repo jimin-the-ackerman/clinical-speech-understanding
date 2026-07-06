@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117029-0000",
+ "condition": null,
+ "reference": "THERE WAS A MAN COMING FROM EARTH ON A SECOND SHIP WHO WOULD SEE HIM",
+ "audio_seconds": 4.47,
+ "created_at": "2026-07-05T13:07:46+00:00",
+ "failed": false,
+ "text": "There was a man coming from earth on a second ship who would see him.",
+ "seconds": 0.2
+}

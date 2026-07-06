@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__465227_2",
+ "condition": "background_noise_20",
+ "reference": "These are possibly infected sebaceous cysts or folliculitis and need to be evaluated by a gynecologist! All the best.",
+ "audio_seconds": 9.56,
+ "created_at": "2026-07-06T04:40:03+00:00",
+ "failed": false,
+ "text": "These are possibly infected sebaceous cysts or folliculitis and need to be evaluated by a gynecologist. All the best.",
+ "seconds": 0.179
+}

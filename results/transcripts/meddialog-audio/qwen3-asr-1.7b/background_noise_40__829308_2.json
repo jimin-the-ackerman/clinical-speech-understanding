@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__829308_2",
+ "condition": "background_noise_40",
+ "reference": "Hi. First of all, there cannot be a cancerous spot on the spleen. In a patient who is eighty-five years old, this can be due to an infarct or hemangioma, which can cause severe pain. Since you have provided a history related to her food habits and taste, it is possible she has other forms of gastrointestinal disease, which need thorough investigations. I would advise a computed tomography scan of the abdomen, an upper gastrointestinal endoscopy, and tests of blood, urine, and stool. I can understand the feelings you have about your mother. If there is no cancer, she can live much longer.",
+ "audio_seconds": 39.51,
+ "created_at": "2026-07-06T05:22:45+00:00",
+ "failed": false,
+ "text": "Hi. First of all, there cannot be a cancerous spot on the spleen in a patient who is 85 years old. This can be due to an infarct or hemangioma, which can cause pain. Since you added a history related to her food habits and taste, it is possible she has other forms of gastrointestinal disease. Which thorough investigations? I would advise a computed tomography scan of the abdomen, an upper gastrointestinal endoscopy, and tests of blood, urine, and stool. I can understand the feelings you have about your mother. If there is no cancer, she can live much longer.",
+ "seconds": 1.195
+}

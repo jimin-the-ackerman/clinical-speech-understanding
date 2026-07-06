@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__399449_2",
+ "condition": "background_noise_60",
+ "reference": "Upper right-sided abdominal pain is usually caused by problems in the gallbladder, liver, right lower lung, or chest wall. I would suggest a chest X-ray to rule out any lung or pleural lesions and also an ultrasound of the abdomen to rule out gallbladder stones or infection. Details about the pain would be helpful to guide the management. Medication should not be commenced until the cause of the pain is known, especially since you would be on medication for kidney stones and sciatica.",
+ "audio_seconds": 28.67,
+ "created_at": "2026-07-06T02:54:21+00:00",
+ "failed": false,
+ "text": "Upper right-sided abdominal pain is usually caused by problems in the gallbladder, liver, right lower lung, or chest wall; I would suggest a chest X-ray to rule out any pleural lesions, and also an ultrasound of the abdomen to rule out gallbladder stones or infection. Details about the pain may be helpful to guide the management. Medication should not be commenced until the cause of the pain is known, especially since you will be on medication for kidney stones and sciatica.",
+ "seconds": 8.511
+}

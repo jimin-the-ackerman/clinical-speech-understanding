@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__588461_2",
+ "condition": "background_noise_40",
+ "reference": "Hi dear, I understand your concern. There are different causes of fever: one. Infection - perform stool culture and test stool for cysts and ova. two. Urinary tract infection - do a urine analysis. three. Viral infection.",
+ "audio_seconds": 18.18,
+ "created_at": "2026-07-06T04:55:31+00:00",
+ "failed": false,
+ "text": "Hi, dear. I understand your concern. There are different causes of fever. One, infection, performed stool culture and test stool persists in OVA. Two, retracted infection, do a urine analysis. Three, viral infection.",
+ "seconds": 0.461
+}

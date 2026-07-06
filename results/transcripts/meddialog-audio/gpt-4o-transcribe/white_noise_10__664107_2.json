@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__664107_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, do not worry; it has nothing to do with prostate cancer. Who told you that exposure to the computer has a chance of causing cancer? Go and enjoy!",
+ "audio_seconds": 8.79,
+ "created_at": "2026-07-06T00:45:59+00:00",
+ "failed": false,
+ "text": "Chlorine gas.",
+ "seconds": 0.479
+}

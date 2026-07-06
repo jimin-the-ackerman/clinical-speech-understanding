@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0008",
+ "condition": null,
+ "reference": "SEE IM CROST THE ROAD THERE SEE HIM",
+ "audio_seconds": 2.9,
+ "created_at": "2026-07-06T03:15:14+00:00",
+ "failed": false,
+ "text": "See him, cross the road there. See him.",
+ "seconds": 0.14
+}

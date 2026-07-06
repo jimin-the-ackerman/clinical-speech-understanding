@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__702826_2",
+ "condition": "background_noise_60",
+ "reference": "Hi Sir, welcome to HCG. I understand your problem; it may be a viral fever. There is no need to worry. Please follow the treatment: take Dolo six hundred and fifty milligrams after breakfast, after lunch, and after dinner. Also, take Extracef Plus two hundred milligrams after breakfast and after dinner for a five-day course. I hope you are satisfied with my answer. Thank you.",
+ "audio_seconds": 22.36,
+ "created_at": "2026-07-06T04:59:28+00:00",
+ "failed": false,
+ "text": "Hi sir, welcome to HCT. I understand your problem. It may be a viral fever. There is no need to worry. Please follow the treatment: take Dolo six hundred and fifty milligrams after breakfast, after lunch, and after dinner. Also, take X-ray plus two hundred milligrams after breakfast, after dinner, for a five-day course. Hope you are satisfied with the answer. Thank you.",
+ "seconds": 0.788
+}

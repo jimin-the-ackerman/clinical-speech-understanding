@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__239890_1",
+ "condition": "white_noise_6",
+ "reference": "My three-year-old urinated rusty or brown urine yesterday at two:forty-five PM. That was the last time he urinated until eight:forty-five AM this morning at school, which is not normal for him. Then, when his teacher contacted me, she said he urinated a lot, but the urine was yellow with tiny black specks in it. What could it be? He has no discomfort yet and no fever. Can you help me with this?",
+ "audio_seconds": 25.26,
+ "created_at": "2026-07-06T04:48:19+00:00",
+ "failed": false,
+ "text": "My three-year-old urinated rusty or brown urine yesterday at 2 45 p.m. That was the last time he urinated until 8 45 a.m. this morning at school, which is not normal for him. Then when his teacher contacted me, she said he urinated a lot, but the urine was yellow with tiny black specks in it. What could it be? He has no discomfort yet and no fever. Can you help me with this?",
+ "seconds": 0.267
+}

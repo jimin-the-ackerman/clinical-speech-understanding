@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__755698_1",
+ "condition": "background_noise_40",
+ "reference": "Hello, I have a three-month-old baby girl. I have not had breast milk from the beginning due to certain reasons. I cannot give formula milk to my baby. So right now, I am giving buffalo milk. What else should I provide her for better nourishment? She has a constipation problem, which may be due to the milk, but I cannot give her breast milk or formula. How can I overcome this? Please help me.",
+ "audio_seconds": 27.05,
+ "created_at": "2026-07-06T04:42:01+00:00",
+ "failed": false,
+ "text": "Hello, I have a three-month-old baby girl. I have not had breast milk from the beginning due to certain reasons. I cannot give formula milk to my baby. So right now, I am giving buffalo milk. What else should I provide her for better nourishment? She has a constipation problem, which may be due to the milk. But I cannot give her breast milk or formula. How can I overcome this? Please help me.",
+ "seconds": 0.319
+}

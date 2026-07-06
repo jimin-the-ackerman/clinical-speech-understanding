@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-15444-0006",
+ "condition": null,
+ "reference": "IN A CASE OF ATTEMPTED SUICIDE BY POISONING IS IT THE DUTY OF THE DOCTOR TO INFORM THE POLICE",
+ "audio_seconds": 6.43,
+ "created_at": "2026-07-05T13:09:10+00:00",
+ "failed": false,
+ "text": "In a case of attempted suicide by poisoning, is it the duty of the doctor to inform the police?",
+ "seconds": 0.126
+}

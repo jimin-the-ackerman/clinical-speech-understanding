@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__950823_2",
+ "condition": "background_noise_40",
+ "reference": "No need to worry if emergency contraception has already been taken. Emergency contraception is very effective in preventing pregnancy. However, it is advisable to use condoms if you are not keen on planning a child.",
+ "audio_seconds": 12.8,
+ "created_at": "2026-07-06T05:23:13+00:00",
+ "failed": false,
+ "text": "No need to worry if emergency contraception has already been taken. Emergency contraception is very effective in preventing pregnancy. However, it is advisable to use condoms if you are not keen on planning a child.",
+ "seconds": 0.391
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__690016_2",
+ "condition": "white_noise_10",
+ "reference": "It can be a traumatic hematoma collection. Get an X-ray done. Apply a crepe support. Use analgesics and ice application. Avoid strenuous activities.",
+ "audio_seconds": 8.36,
+ "created_at": "2026-07-06T04:46:09+00:00",
+ "failed": false,
+ "text": "It can be a traumatic hematoma cluster, get an x-ray done, apply a trait support, use analgesic and ice applications, avoid strenuous activity.",
+ "seconds": 0.227
+}

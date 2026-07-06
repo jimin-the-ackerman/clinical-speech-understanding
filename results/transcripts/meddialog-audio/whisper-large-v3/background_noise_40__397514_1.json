@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__397514_1",
+ "condition": "background_noise_40",
+ "reference": "I have just discovered that I have a mass in my left scrotum that is as big as my testicle. It now appears that I have three testicles in my scrotum. My last memorable check was twenty-seven years ago, and I discovered a liquid sac and was told that it was not a problem.",
+ "audio_seconds": 17.66,
+ "created_at": "2026-07-06T04:18:27+00:00",
+ "failed": false,
+ "text": "I have just discovered that I have a mass in my left scrotum that is as big as my testicle. It now appears that I have three testicles in my scrotum. My last memorable check was 27 years ago and I discovered a liquid sac and was told that it was not a problem.",
+ "seconds": 0.564
+}

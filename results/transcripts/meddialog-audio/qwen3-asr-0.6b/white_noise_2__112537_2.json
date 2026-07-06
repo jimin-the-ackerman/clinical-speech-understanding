@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__112537_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, ovulation is either absent or deficient in Polycystic Ovary Disease. Fertigyn helps to accelerate ovulation, while Evatone contains estrogen that is helpful in building up the endometrium suitable for implantation. Your doctor may try different combinations to ensure ovulation, and this may take time. When such medications are being taken, there is the possibility of hyperstimulation of the ovary, and this should be closely monitored. Additionally, loss of excess body weight is very beneficial in correcting the hormonal imbalance. I hope this information is useful to you. Good luck.",
+ "audio_seconds": 43.52,
+ "created_at": "2026-07-06T05:08:05+00:00",
+ "failed": false,
+ "text": "Hello, ovulation is either absent or deficient in polycystic ovary disease. Fertagen helps to accelerate ovulation, while ovtone contains estrogen that is helpful in building up the endometrium suitable for implantation. Your doctor may try different combinations to ensure ovulation, and this may take time. When such medications are being taken, there is the possibility of hyperstimulation of the ovary, and this should be closely monitored. Additionally, loss of excess body weight is very beneficial in correcting the hormonal imbalance. I hope this information is useful. Good luck.",
+ "seconds": 1.041
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__490941_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, you need to have a doctor examine you since you may have testicular torsion—twisting—of that testicle, and if you do, you could lose it without surgery.",
+ "audio_seconds": 9.22,
+ "created_at": "2026-07-06T02:47:44+00:00",
+ "failed": false,
+ "text": "Hello, you need to have a doctor examine you since you may have testicular torsion, twisting of that testicle, and if you do, you could lose it without surgery.",
+ "seconds": 5.053
+}

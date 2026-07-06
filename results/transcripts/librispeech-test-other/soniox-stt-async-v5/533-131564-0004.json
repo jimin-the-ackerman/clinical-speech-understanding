@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131564-0004",
+ "condition": null,
+ "reference": "IT IS A RESOLUTION YOU OUGHT TO HAVE FORMED LONG AGO",
+ "audio_seconds": 3.8,
+ "created_at": "2026-07-06T02:29:12+00:00",
+ "failed": false,
+ "text": "It is a resolution you were performed long ago.",
+ "seconds": 5.091
+}

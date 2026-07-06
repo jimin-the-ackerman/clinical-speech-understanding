@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131562-0016",
+ "condition": null,
+ "reference": "I TRY TO LOOK TO HIM AND RAISE MY HEART TO HEAVEN BUT IT WILL CLEAVE TO THE DUST",
+ "audio_seconds": 6.26,
+ "created_at": "2026-07-06T03:33:05+00:00",
+ "failed": false,
+ "text": "I try to look to him and raise my heart to heaven, but it will clif to the dust.",
+ "seconds": 0.243
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__440802_1",
+ "condition": "background_noise_40",
+ "reference": "Hello, this is Mrs. Shahid. I want to become pregnant. I have been married for ten years, but my prolactin level is thirty-six. When I take medications to reduce it, I become in very bad condition, which is why I had to stop the medication. Please guide me about injections for this problem.",
+ "audio_seconds": 16.81,
+ "created_at": "2026-07-06T02:51:09+00:00",
+ "failed": false,
+ "text": "Hello, this is Mrs. Shahid. I want to become pregnant. I have been married for 10 years, but my prolactin level is 36. When I take medications to reduce it, I become in very bad condition, which is why I had to stop the medication. Please guide me about injections for this problem.",
+ "seconds": 4.942
+}

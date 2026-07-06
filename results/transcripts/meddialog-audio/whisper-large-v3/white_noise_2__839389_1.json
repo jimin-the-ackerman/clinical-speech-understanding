@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__839389_1",
+ "condition": "white_noise_2",
+ "reference": "My friend has blood poisoning and he is at the doctor in intensive care. He has been there for about five days now. The doctors say he isn't looking good. I am wondering how long it will take for him to die. What are the possibilities that he will die? Apparently, he has septicemia.",
+ "audio_seconds": 16.13,
+ "created_at": "2026-07-06T04:35:23+00:00",
+ "failed": false,
+ "text": "My friend has blood poisoning, and he is at the doctor in intensive care. He has been there for about five days now. The doctors say he isn't looking good. I am wondering how long it will take for him to die. What are the possibilities that he will die? Apparently, he has septicemia.",
+ "seconds": 0.606
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__662093_2",
+ "condition": "background_noise_20",
+ "reference": "From your description, it looks like there is an infection that needs to be treated immediately. Kindly visit your dentist as soon as possible for an X-ray and proper treatment.",
+ "audio_seconds": 9.47,
+ "created_at": "2026-07-06T04:51:55+00:00",
+ "failed": false,
+ "text": "From your description, it looks like there is an infection that needs to be treated immediately. Kindly visit your dentist as soon as possible for an X ray and proper treatment.",
+ "seconds": 0.347
+}

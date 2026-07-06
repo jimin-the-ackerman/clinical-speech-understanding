@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__767678_2",
+ "condition": "white_noise_10",
+ "reference": "Vertigo may not cause low sugar, but low sugar or low blood pressure can give you symptoms similar to vertigo. In case you are not satisfied, feel free to ask more questions, and I will reply.",
+ "audio_seconds": 12.63,
+ "created_at": "2026-07-06T03:03:37+00:00",
+ "failed": false,
+ "text": "Vertigo may not cause low sugar, but low sugar or low blood pressure can give you symptoms similar to vertigo. In case you are not satisfied, feel free to ask more questions, and I will reply.",
+ "seconds": 6.04
+}

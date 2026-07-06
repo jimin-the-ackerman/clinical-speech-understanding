@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__745239_1",
+ "condition": "clean",
+ "reference": "I had a back fusion two years ago and I'm still experiencing increased pain in my back and hip area. I had an MRI last week, which showed more changes in my back, but my concern is that they found a cyst on my right kidney. I have had four urinary tract infections and blood and protein in my urine lately. However, before knowing about the cyst, I had been having pains in that area. I am out of work due to the back surgery, and my primary care physician wanted me to see a urologist, but I cannot afford that right now. Should I be concerned about this? Also, when I was three years old, I had to have my urethra stretched and I have had many kidney issues and urinary tract infections while growing up.",
+ "audio_seconds": 43.26,
+ "created_at": "2026-07-06T00:45:22+00:00",
+ "failed": false,
+ "text": "I had a back fusion two years ago, and I'm still experiencing increased pain in my back and hip area. I had an MRI last week, which showed more changes in my back, but my concern is that they found a cyst on my right kidney. I have had four urinary tract infections and blood and protein in my urine lately. However, before knowing about the cyst, I had been having pains in that area. I am out of work due to the back surgery, and my primary care physician wanted me to see a urologist, but I cannot afford that right now. Should I be concerned about this? Also, when I was three years old, I had to have my urethra stretched, and I have had many kidney issues and urine tract infections while growing up.",
+ "seconds": 2.391
+}

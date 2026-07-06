@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63244-0000",
+ "condition": null,
+ "reference": "MISS CHANCELLOR HERSELF HAD THOUGHT SO MUCH ON THE VITAL SUBJECT WOULD NOT SHE MAKE A FEW REMARKS AND GIVE THEM SOME OF HER EXPERIENCES",
+ "audio_seconds": 7.54,
+ "created_at": "2026-07-06T03:34:49+00:00",
+ "failed": false,
+ "text": "Miss Chancleer herself hath thought so much on the vital subject; would not she make a few remarks and give them some of her experiences?",
+ "seconds": 0.305
+}

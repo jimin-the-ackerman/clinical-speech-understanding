@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5032-0022",
+ "condition": null,
+ "reference": "I KNOW NOT HOW MY BROTHER COMES TO BE SO WELL INFORMED AS YOU SAY BUT I AM CERTAIN HE KNOWS THE UTMOST OF THE INJURIES YOU HAVE RECEIVED FROM HER",
+ "audio_seconds": 9.43,
+ "created_at": "2026-07-06T03:28:46+00:00",
+ "failed": false,
+ "text": "I know not how my brother comes to be so well informed as you say, but I am certain he knows the utmost of the injuries you have received from her.",
+ "seconds": 0.336
+}

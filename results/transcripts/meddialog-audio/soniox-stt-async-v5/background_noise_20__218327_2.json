@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__218327_2",
+ "condition": "background_noise_20",
+ "reference": "Yes, breathlessness may be caused by excessive crying, pain, fever, etc. But as soon as these aggravating factors subside, the breathlessness also settles. However, in pathological conditions, it will not go away until the disease is treated.",
+ "audio_seconds": 15.53,
+ "created_at": "2026-07-06T02:46:45+00:00",
+ "failed": false,
+ "text": "Yes, breathlessness may be caused by excessive crying, pain, fever, etc., but as soon as these aggravating factors subside, the breathlessness also settles; however, in pathological conditions it will not go away until the disease is treated.",
+ "seconds": 5.255
+}

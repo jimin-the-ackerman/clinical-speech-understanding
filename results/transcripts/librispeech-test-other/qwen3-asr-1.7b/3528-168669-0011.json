@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0011",
+ "condition": null,
+ "reference": "MERIT CONSISTS IN WORKING ACCORDING TO ONE'S STRENGTH A CLOISTER IS NOT A DOCK YARD",
+ "audio_seconds": 5.61,
+ "created_at": "2026-07-06T03:29:26+00:00",
+ "failed": false,
+ "text": "Merit consists in working according to one's strength. A cloister is not a dockyard.",
+ "seconds": 0.216
+}

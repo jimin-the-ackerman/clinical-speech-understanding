@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__699573_1",
+ "condition": "background_noise_60",
+ "reference": "I have been trying to conceive for a year. My boyfriend and I have never used birth control. I ovulated on the fifth of September. I bled lightly for three days around the eighth to the eleventh. I have had unprotected intercourse since then. I have been experiencing nausea and vomiting for about a week, intermittently. Could I be pregnant?",
+ "audio_seconds": 20.14,
+ "created_at": "2026-07-06T04:59:26+00:00",
+ "failed": false,
+ "text": "I have been drinking. My boyfriend and I have never moved. I ovulated on the fifth of September. I've let my leak two days in a row. I have an unprotected intercourse since then. I have been experiencing nausea and vomiting for about a week intermittently. Could I be pregnant?",
+ "seconds": 0.579
+}

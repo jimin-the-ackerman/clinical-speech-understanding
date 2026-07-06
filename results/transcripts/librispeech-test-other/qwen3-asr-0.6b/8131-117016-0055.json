@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0055",
+ "condition": null,
+ "reference": "COST EM MORE BUT THEY'D BE RESPECTABLE",
+ "audio_seconds": 3.71,
+ "created_at": "2026-07-06T03:25:09+00:00",
+ "failed": false,
+ "text": "Cost a more, but they'd be respectable.",
+ "seconds": 0.133
+}

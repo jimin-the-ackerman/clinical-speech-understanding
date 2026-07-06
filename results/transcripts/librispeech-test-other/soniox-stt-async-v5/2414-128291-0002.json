@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128291-0002",
+ "condition": null,
+ "reference": "WHEN HOWEVER ZARATHUSTRA WAS QUITE NIGH UNTO THEM THEN DID HE HEAR PLAINLY THAT A HUMAN VOICE SPAKE IN THE MIDST OF THE KINE AND APPARENTLY ALL OF THEM HAD TURNED THEIR HEADS TOWARDS THE SPEAKER",
+ "audio_seconds": 18.06,
+ "created_at": "2026-07-06T00:01:36+00:00",
+ "failed": false,
+ "text": "When, however, the dust straw was quite nigh unto them, then did he hear plainly that human voice spake in the midst of the kind, and apparently all of them had turned their heads towards the speaker.",
+ "seconds": 4.951
+}

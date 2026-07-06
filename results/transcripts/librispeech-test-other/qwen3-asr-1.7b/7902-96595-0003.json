@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96595-0003",
+ "condition": null,
+ "reference": "GURR GLANCED ROUND TO SEE IF THE MEN WERE LOOKING AND THEN SAID RATHER HUSKILY BUT KINDLY",
+ "audio_seconds": 4.39,
+ "created_at": "2026-07-06T03:36:35+00:00",
+ "failed": false,
+ "text": "Gur glanced round to see if the men were looking, and then said rather huskily but kindly.",
+ "seconds": 0.235
+}

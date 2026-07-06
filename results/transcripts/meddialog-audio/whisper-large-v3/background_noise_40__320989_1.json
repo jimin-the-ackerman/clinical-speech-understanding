@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__320989_1",
+ "condition": "background_noise_40",
+ "reference": "I believe I mildly sprained my ankle. It hurts to walk on it, and now the pain is shooting up my shin to my knee. From my ankle to my knee, it feels hot, swollen, and painful. I am not sure if it is more than a sprain. I banged my shin pretty good a week ago, and it was sore.",
+ "audio_seconds": 20.82,
+ "created_at": "2026-07-06T04:18:07+00:00",
+ "failed": false,
+ "text": "i believe i mildly sprained my ankle it hurts to walk on it and now the pain is shooting up my shin to my knee from my ankle to my knee it feels hot swollen and painful i am not sure if it is more than a sprain i banged my shin pretty good a week ago and it was sore",
+ "seconds": 0.59
+}

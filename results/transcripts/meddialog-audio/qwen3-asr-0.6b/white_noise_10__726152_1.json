@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__726152_1",
+ "condition": "white_noise_10",
+ "reference": "My throat has been producing this frothy white sputum, and I always spit it out. I do not have a productive cough at all. I also experience chest and back pains later in the day. I am female, twenty-three years old, and a month ago, I was diagnosed with minimal pleural effusion. After a week of antibiotic treatment, my chest X-ray states that it is back to normal. I just do not understand why my back keeps aching.",
+ "audio_seconds": 28.93,
+ "created_at": "2026-07-06T05:06:49+00:00",
+ "failed": false,
+ "text": "My throat has been producing this frothy white fluid, and I always spit it out. I do not have a productive cough at all. I also experience chest and back pains later in the day. I am female, twenty-three years old, and a month ago I was diagnosed with minimal throat infection. After a week of antibiotic treatment, my chest X ray states that it is back to normal. I just do not understand why my back is shaking.",
+ "seconds": 0.82
+}

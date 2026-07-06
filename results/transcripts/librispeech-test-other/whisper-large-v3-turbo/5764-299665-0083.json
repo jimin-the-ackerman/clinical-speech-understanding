@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "5764-299665-0083",
+ "condition": null,
+ "reference": "FOR THOUSANDS OF YEARS MEN AND WOMEN HAVE BEEN TRYING TO REFORM THE WORLD",
+ "audio_seconds": 5.35,
+ "created_at": "2026-07-05T13:12:53+00:00",
+ "failed": false,
+ "text": "For thousands of years, men and women have been trying to reform the world.",
+ "seconds": 0.109
+}

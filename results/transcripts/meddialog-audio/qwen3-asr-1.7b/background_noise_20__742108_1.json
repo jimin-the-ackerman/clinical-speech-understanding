@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__742108_1",
+ "condition": "background_noise_20",
+ "reference": "Hello Doctor, my name is Bala from India. I am twenty-six years old. I feel a little pressure in my heart. I do not feel any pain, and I do not have any problems with breathing. I have been feeling this for the last two months. Please tell me if this is a serious problem to worry about. In the last two months, there have been some days when I felt good as well.",
+ "audio_seconds": 22.95,
+ "created_at": "2026-07-06T05:18:21+00:00",
+ "failed": false,
+ "text": "Hello, doctor. My name is Bala from India. I'm 26 years old. I feel a little pressure in my heart. I do not feel any pain, and I do not have any problems of breathing. I have been feeling this for the last two months. Please tell me if this is a serious problem to worry about. In the last two months, there have been some days when I felt good as well.",
+ "seconds": 0.821
+}

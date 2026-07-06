@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-15444-0003",
+ "condition": null,
+ "reference": "IN MAKING A POST MORTEM EXAMINATION THE ALIMENTARY CANAL SHOULD BE REMOVED AND PRESERVED FOR FURTHER INVESTIGATION",
+ "audio_seconds": 7.25,
+ "created_at": "2026-07-05T23:53:44+00:00",
+ "failed": false,
+ "text": "In making a post-mortem examination, the alimentary canal should be removed and preserved for further investigation.",
+ "seconds": 0.715
+}

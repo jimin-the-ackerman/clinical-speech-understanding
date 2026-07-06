@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__696856_2",
+ "condition": "background_noise_40",
+ "reference": "Vomiting is usually not a part of an absence seizure. An absence seizure typically occurs unnoticed. Vomiting may be associated with a precipitating factor.",
+ "audio_seconds": 10.67,
+ "created_at": "2026-07-06T04:41:56+00:00",
+ "failed": false,
+ "text": "Vomiting is usually not a part of an absence seizure. An absence seizure typically occurs unnoticed. Vomiting may be associated with a precipitating factor.",
+ "seconds": 0.197
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__670557_2",
+ "condition": "white_noise_2",
+ "reference": "You may have palpitations despite those normal tests. The important thing is to diagnose when you are having palpitations, either with a twenty-four-hour Holter monitor or an immediate electrocardiogram if it lasts long enough to reach the emergency room or your doctor's office. The Copper-T does not cause any arrhythmia.",
+ "audio_seconds": 16.21,
+ "created_at": "2026-07-06T04:47:37+00:00",
+ "failed": false,
+ "text": "You may have palpitations despite those normal tests. The important thing is to diagnose when you are having palpitations, either with a 24-hour Holter monitor or an immediate electrocardiogram if it lasts long enough to reach the emergency room or your doctor's office. The copper T does not cause any arrhythmia.",
+ "seconds": 0.245
+}

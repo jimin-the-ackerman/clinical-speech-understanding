@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__408474_2",
+ "condition": "white_noise_10",
+ "reference": "Do serum thyroid-stimulating hormone and serum prolactin, then do hysterosalpingography on the eighth day. Then do a follicular study after taking clomiphene from day two. When the follicle size increases to eighteen millimeters, it will rupture, and then perform intrauterine insemination for early results.",
+ "audio_seconds": 20.39,
+ "created_at": "2026-07-06T03:01:46+00:00",
+ "failed": false,
+ "text": "Do you use serum thyroid-stimulating hormone and serum prolactin, then do hysterosalpinography on the 8th day, then do a follicular study after taking clomiphene from day 2? When the follicle size increases to 18 mm, it will rupture, and then perform intrauterine insemination for early results.",
+ "seconds": 4.878
+}

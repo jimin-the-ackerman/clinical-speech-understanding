@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__556839_2",
+ "condition": "background_noise_20",
+ "reference": "It improves digestion, but do not give fermented products as they may cause abdominal pain due to excess gas formation. Also, do not overeat.",
+ "audio_seconds": 10.07,
+ "created_at": "2026-07-06T04:15:11+00:00",
+ "failed": false,
+ "text": "It improves digestion, but do not give fermented products as they may cause abdominal pain due to excess gas formation. Also, do not overeat.",
+ "seconds": 0.358
+}

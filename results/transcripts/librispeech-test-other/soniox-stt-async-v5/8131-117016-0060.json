@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0060",
+ "condition": null,
+ "reference": "THIS COULD LEAD TO ABUSES AS HE'D SEEN ON EARTH",
+ "audio_seconds": 3.65,
+ "created_at": "2026-07-06T02:39:25+00:00",
+ "failed": false,
+ "text": "This could lead to abuses, as he'd seen on Earth.",
+ "seconds": 4.613
+}

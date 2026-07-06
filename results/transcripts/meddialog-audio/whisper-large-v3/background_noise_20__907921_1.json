@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__907921_1",
+ "condition": "background_noise_20",
+ "reference": "Am I going to die? I am almost fifteen. I have been constipated for as long as I can remember. I saw a doctor a few years ago; they advised me to eat healthier. I have been eating well: bran muffins and fruit. It has been easier to defecate lately. When I defecate, it feels like my rectum is hanging out of my anus. Do I have rectal prolapse? I am scared because I have been reading up about it but do not want to go to the doctors.",
+ "audio_seconds": 24.32,
+ "created_at": "2026-07-06T04:16:44+00:00",
+ "failed": false,
+ "text": "Am I going to die? I am almost 15. I have been constipated for as long as I can remember. I saw a doctor a few years ago. They advised me to eat healthier. I have been eating well, bran muffins and fruit. It has been easier to defecate me. When I defecate, it feels like my rectum is hanging out of my anus. Do I have rectal prolapse? I am scared because I have been reading up about it, but do not want to go to the doctor.",
+ "seconds": 0.94
+}

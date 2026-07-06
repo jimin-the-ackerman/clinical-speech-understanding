@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164914-0016",
+ "condition": null,
+ "reference": "SO GO THOU TO THY STATION AND IF THOU AGAIN MEET ANY ONE AFTER THIS HOUR RECITING AUGHT OF POETRY WHETHER HE BE NEAR OR FAR IT WILL BE I OR SOME ONE I KNOW AND THOU SHALT NOT LEARN OF HIM BUT BY ME",
+ "audio_seconds": 16.93,
+ "created_at": "2026-07-05T13:09:25+00:00",
+ "failed": false,
+ "text": "so go thou to thy station and if thou again meet any one after this hour reciting aught of poetry whether he be near or far it will be i or someone i know and thou shalt not learn of him but by me",
+ "seconds": 0.157
+}

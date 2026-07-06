@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__387636_2",
+ "condition": "background_noise_20",
+ "reference": "Have an electrocardiogram, just to rule out angina. If the electrocardiogram is normal, it could be gastroesophageal reflux disease, which will require treatment for the same.",
+ "audio_seconds": 10.58,
+ "created_at": "2026-07-06T05:16:45+00:00",
+ "failed": false,
+ "text": "Have an electrocardiogram just to rule out angina. If the electrocardiogram is normal, it could be gastroesophageal reflux disease, which will require treatment for the same.",
+ "seconds": 0.401
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__985885_2",
+ "condition": "clean",
+ "reference": "Yes, according to your history, it will be safe to use, in my opinion. You can use it twice a day. If you add Montelukast ten milligrams twice daily along with it, you should have excellent results. You can use it for ten to fourteen days.",
+ "audio_seconds": 16.55,
+ "created_at": "2026-07-06T04:28:30+00:00",
+ "failed": false,
+ "text": "Yes, according to your history, it will be safe to use. In my opinion, you can use it twice a day. If you add Montelukos 10mg twice daily, along with it, you should have excellent results. You can use it for 10-14 days.",
+ "seconds": 0.522
+}

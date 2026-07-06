@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0042",
+ "condition": null,
+ "reference": "AM I MY BROTHER'S KEEPER",
+ "audio_seconds": 2.0,
+ "created_at": "2026-07-06T03:37:47+00:00",
+ "failed": false,
+ "text": "Am I my brother's keeper?",
+ "seconds": 0.105
+}

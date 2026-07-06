@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__631413_2",
+ "condition": "white_noise_10",
+ "reference": "Hello and welcome to the healthcare center. Pneumonitis means that there is inflammation in the region of the lungs. It usually gets corrected with a course of antibiotics over five to six days. However, we should monitor that the symptoms are decreasing. Have a good day.",
+ "audio_seconds": 15.87,
+ "created_at": "2026-07-06T04:46:04+00:00",
+ "failed": false,
+ "text": "Hello, and welcome to the healthcare center. Pneumonitis means that there is inflammation in the region of the lungs. It usually gets corrected with a course of antibiotics over five to six days. However, we should monitor that the symptoms are decreasing. Have a good day.",
+ "seconds": 0.24
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2340-0026",
+ "condition": null,
+ "reference": "I SHOULD HAVE GIVEN IT TO YOU LAST NIGHT AFTER DINNER ONLY IT HAPPENED TO BE A CREAM JUG AND YOU SEEMED ANNOYED AT HAVING SO MANY DUPLICATES SO I FELT RATHER AWKWARD ABOUT GIVING YOU ANOTHER",
+ "audio_seconds": 13.1,
+ "created_at": "2026-07-06T03:23:59+00:00",
+ "failed": false,
+ "text": "I should have given it to you last night after dinner. Only it happened to be a green jug, and you seemed annoyed at having so many duplicates. So I felt rather awkward about giving you another.",
+ "seconds": 0.4
+}

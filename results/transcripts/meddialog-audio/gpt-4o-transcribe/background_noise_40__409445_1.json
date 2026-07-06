@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__409445_1",
+ "condition": "background_noise_40",
+ "reference": "I have no money and I know you charge, but I am going to try anyway. My mental illnesses are very severe. I am sixty-six years old; I have bipolar disorder type two and agoraphobia. I go through a lot of depression, and my entire family wants no contact with me. They think I am violent, but I am not. Can someone have mercy and help me?",
+ "audio_seconds": 21.93,
+ "created_at": "2026-07-06T00:43:09+00:00",
+ "failed": false,
+ "text": "I have no money and I know you charge, but I am going to try anyway. My mental illnesses are very severe. I am 66 years old. I have bipolar disorder type 2 and agoraphobia. I go through a lot of depression and my entire family wants no contact with me. They think I am violent, but I am not. Can someone have mercy and help me?",
+ "seconds": 1.525
+}

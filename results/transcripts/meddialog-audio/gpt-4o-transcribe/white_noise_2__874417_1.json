@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__874417_1",
+ "condition": "white_noise_2",
+ "reference": "I have a lump under my ear on my neck that has been there for the last three days. I felt the pain only when it first appeared, but since then there has been no pain. Last night, another lump was found just a few centimeters away from it. Now, I want to ask what this lump could be and whether it is viral or bacterial. Moreover, what medicine should I use?",
+ "audio_seconds": 22.87,
+ "created_at": "2026-07-06T00:47:01+00:00",
+ "failed": false,
+ "text": "I have a number in my journal that matches the last name Davis. I hope that you know what it refers to. You found her address also? That's right, another month ago Mr. Eason gave it away. How about Mr. Smith?",
+ "seconds": 1.457
+}

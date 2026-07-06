@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0008",
+ "condition": null,
+ "reference": "O MY BROTHER ANSWERED HE WE ARE HUSBANDMEN AND TILLERS OF THE SOIL WHO CAME OUT TO WATER OUR FIELDS AND PLANTATIONS AND FINDING THEE ASLEEP ON THIS RAFT LAID HOLD OF IT AND MADE IT FAST BY US AGAINST THOU SHOULDST AWAKE AT THY LEISURE",
+ "audio_seconds": 17.27,
+ "created_at": "2026-07-05T23:57:34+00:00",
+ "failed": false,
+ "text": "O my brother, answered he, we are husbandmen and tillers of the soil who came out to water our fields and plantations, and finding thee asleep on this raft, laid hold of it and made it fast by us, against thou shouldst awake at thy leisure.",
+ "seconds": 1.262
+}

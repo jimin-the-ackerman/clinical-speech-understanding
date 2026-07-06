@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28319-0023",
+ "condition": null,
+ "reference": "MISTER WICKER BEGAN MOVING ABOUT UPSTAIRS THE FLOORBOARDS CREAKED AND STILL CHRIS COULD NOT LEAVE UNTIL THE POTION FUMED AND GLOWED",
+ "audio_seconds": 9.96,
+ "created_at": "2026-07-05T23:56:16+00:00",
+ "failed": false,
+ "text": "Mr. Worker began moving about upstairs. The floorboards creaked, and still Chris could not leave until the potion fumed and glowed.",
+ "seconds": 0.737
+}

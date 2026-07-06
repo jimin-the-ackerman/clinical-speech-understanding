@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__546980_2",
+ "condition": "background_noise_60",
+ "reference": "Hi. This occurs due to age-related hardening of blood vessels called arteriosclerosis. This hardening is not reversible, which is why he has high blood pressure. He should be taking medication throughout his life. He should maintain a healthy lifestyle, such as avoiding fatty, oily, and high-calorie foods. He should follow a low-sodium diet and monitor his blood pressure regularly, three times a day for one week, and then once or twice a week thereafter. If the blood pressure is persistently more than one hundred and forty over ninety millimeters of mercury, then his medications will need to be increased. Regular exercise, like brisk walking, can help him. He can walk according to his capacity for at least thirty minutes a day, five days a week. Please conduct tests for lipid profile and blood sugar once.",
+ "audio_seconds": 48.64,
+ "created_at": "2026-07-06T02:54:58+00:00",
+ "failed": false,
+ "text": "This is a closed-loop event for the United Kingdom and foreign countries that are currently following the storm's rise. It has already hit the southernmost of Ireland, which is right near the southern coast. You should be keeping your window wide open. You should make sure to open the windows, and if you are going to go inside and enter the area, make sure you are protecting yourself. You should follow the website and the guide on the online website for the update. Any time today at 9:00 PM, and then at 1:00 PM, please do not. Thank you very much. And if there is persistent rain at 9:00 PM, please do not go outside. Then you have a few more minutes to make sure that you are outside instead of just walking around. If you want to take a picture of the situation, send them to our website. Please do not text messages while you are outside.",
+ "seconds": 5.24
+}

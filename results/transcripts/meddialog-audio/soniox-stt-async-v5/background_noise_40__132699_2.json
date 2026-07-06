@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__132699_2",
+ "condition": "background_noise_40",
+ "reference": "It is a hemarthrosis, which means blood has collected in the knee joint. Go immediately to an orthopedic surgeon. Get a knee X-ray first to rule out fractures. If the X-ray is normal, get a knee aspiration of the blood done and follow your surgeon's advice. Thank you.",
+ "audio_seconds": 17.07,
+ "created_at": "2026-07-06T02:49:52+00:00",
+ "failed": false,
+ "text": "It is a hemarthrosis, which means blood has collected in the knee joint. Go immediately to an orthopedic surgeon; get a knee X-ray first to rule out fractures. If the X-ray is normal, get a knee aspiration of the blood done and follow your surgeon's advice. Thank you.",
+ "seconds": 4.648
+}

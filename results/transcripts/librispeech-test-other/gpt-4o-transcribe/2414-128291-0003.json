@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128291-0003",
+ "condition": null,
+ "reference": "WHAT DO I HERE SEEK",
+ "audio_seconds": 2.69,
+ "created_at": "2026-07-05T23:54:02+00:00",
+ "failed": false,
+ "text": "For do I hear seek?",
+ "seconds": 0.852
+}

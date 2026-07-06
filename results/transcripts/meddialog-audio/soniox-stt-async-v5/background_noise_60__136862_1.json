@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__136862_1",
+ "condition": "background_noise_60",
+ "reference": "My father is eighty-one. He fell on his face and did not go to the hospital until the next day. He is on Coumadin and had a hematoma. He had surgery after two weeks in the intensive care unit. He has atrial fibrillation, has had serious melanoma surgery, and had both shoulders replaced. He has fallen and broken his arm two times in the past year and has a pins and truss system to support his elbow now. He has had a lot of surgeries in the past several years and has experienced a few small strokes. What is his chance of coming out of a coma after almost four weeks following craniotomy and having any quality of life? He is breathing four to five hours a day on his own but has a tracheostomy and percutaneous endoscopic gastrostomy tube. My mom says he blinks his eyes when talked to.",
+ "audio_seconds": 50.77,
+ "created_at": "2026-07-06T02:53:17+00:00",
+ "failed": false,
+ "text": "My father, he's 81, he fell on his face and did not go to the hospital until the next day. He is on Coumadin and had a hematoma; he had surgery after 2 weeks in the intensive care unit. He has atrial fibrillation, has had serious surgery, and had both shoulders replaced. He has fallen and broken his arm 2 times in the past year, and has a pins and truss system to support his elbow now. He has had a lot of surgeries in the past several years and has experienced a few small strokes. What is his chance of coming out of a coma after almost 4 weeks following craniotomy and having quality of life? He is breathing 4 to 5 hours a day on his own, but has a tracheostomy and a percutaneous endoscopic gastrostomy tube. My mom says he blinked his eyes when talking.",
+ "seconds": 8.888
+}

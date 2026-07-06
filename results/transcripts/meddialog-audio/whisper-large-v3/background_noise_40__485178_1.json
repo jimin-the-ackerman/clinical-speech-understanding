@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__485178_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, my name is April. I have had the Mirena intrauterine device for three years, and I had my period last week, which stopped about four days ago. I was fine until yesterday when I went to use the restroom and there was a string of blood in the toilet, but I didn't see any string or anything else. Since then, I have been experiencing menstrual cramps like crazy, but no bleeding. Do you know what that could be?",
+ "audio_seconds": 22.95,
+ "created_at": "2026-07-06T04:18:52+00:00",
+ "failed": false,
+ "text": "Hi, my name is April. I have had the Mirena intrauterine device for three years and I had my period last week, which stopped about four days ago. I was fine until yesterday when I went to use the restroom and there was a stream of blood in the toilet, but I didn't see any stream or anything else. Since then, I have been experiencing menstrual cramps like crazy, but no bleeding. Do you know what that could be?",
+ "seconds": 0.788
+}

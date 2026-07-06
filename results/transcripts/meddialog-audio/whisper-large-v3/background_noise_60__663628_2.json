@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__663628_2",
+ "condition": "background_noise_60",
+ "reference": "Most often, they could be benign or harmless. However, it depends on the nature of the cancer and its characteristics. Post-surgery monitoring involves serum thyroglobulin levels and serial ultrasound scans to see if they are increasing in size. If required or in the case of suspicious findings, iodine scans may be considered by your primary doctor.",
+ "audio_seconds": 21.76,
+ "created_at": "2026-07-06T04:23:09+00:00",
+ "failed": false,
+ "text": "Most often, they could be benign or harmless. However, it depends on the nature of the cancer and its characteristics. Post-surgery monitoring involves serum fibroglobulin levels and serial ultrasound scans to see if they are increasing in size. If required or in the case of suspicious findings, iodine scans may be considered by your primary doctor.",
+ "seconds": 0.623
+}

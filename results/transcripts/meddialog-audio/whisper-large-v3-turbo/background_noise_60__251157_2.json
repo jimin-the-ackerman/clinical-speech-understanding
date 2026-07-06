@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__251157_2",
+ "condition": "background_noise_60",
+ "reference": "Dear parent, this is quite common to have very cold hands and feet. Kindly check for anemia as soon as possible. In the meantime, make her wear gloves and socks to keep her hands and feet warm. If she has a bad cough, give her steam and see if she can gargle warm saline water. Since she has wheezing as well, I would like to suggest visiting the nearest doctor immediately.",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T04:42:39+00:00",
+ "failed": false,
+ "text": "Dear parent, this is quite common to have very cold hands and feet. Kindly check for anemia as soon as possible. In the meantime, make her wear gloves and socks to keep her hands and feet warm. If she has a bad cough, give her steam and see if she can gargle warm saline water. Since she has wheezing as well, I would like to suggest visiting the nearest doctor immediately.",
+ "seconds": 0.268
+}

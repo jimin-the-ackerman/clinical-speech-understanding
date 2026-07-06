@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131564-0007",
+ "condition": null,
+ "reference": "NEVER MIND MY PLAIN SPEAKING SAID I IT IS FROM THE BEST OF MOTIVES",
+ "audio_seconds": 6.42,
+ "created_at": "2026-07-05T13:12:20+00:00",
+ "failed": false,
+ "text": "never mind my plain speaking said i it is from the best of motives",
+ "seconds": 0.127
+}

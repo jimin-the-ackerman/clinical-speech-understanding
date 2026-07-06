@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__321275_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, you had a total knee replacement about one month ago and then injured your hamstrings during physical therapy. Now you have a rash that has developed after the hamstring injury. In my opinion, the rash you are describing is the collection of blood following the hamstring injury. It spreads gradually and the color also changes over time. Just wait for a few months and it will disappear. Continue with your exercises, but do milder ones.",
+ "audio_seconds": 25.17,
+ "created_at": "2026-07-06T02:47:07+00:00",
+ "failed": false,
+ "text": "Hi, you had a total knee replacement about 1 month ago and then injured your hamstrings during physical therapy. Now you have a rash that has developed after the hamstring injury. In my opinion, the rash you are describing is the collection of blood following. Injury. It spreads gradually, and the color also changes over time; just wait for a few months and it will disappear. Continue with your exercises, but do milder ones.",
+ "seconds": 5.043
+}

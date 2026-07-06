@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__238635_2",
+ "condition": "clean",
+ "reference": "Hi, I read your question. Hiccups are common at this age group; they do not require any treatment. You should burp your baby for ten minutes, and the hiccups may stop. After coughing and hiccups, there is some abdominal pressure rise which causes intestinal movement, resulting in a small stool output. This is common, so there is no need to worry about it.",
+ "audio_seconds": 22.1,
+ "created_at": "2026-07-06T05:01:16+00:00",
+ "failed": false,
+ "text": "Hi, I read your question. Hiccups are common at this age group. They do not require any treatment. You should burp your baby for 10, and the hiccups may stop. After coughing and hiccups, there is some abdominal pressure rise which causes intestinal movement, resulting in a small stool output. This is common, so there is no need to worry about it.",
+ "seconds": 0.75
+}

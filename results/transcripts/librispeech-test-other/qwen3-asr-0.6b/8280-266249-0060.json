@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0060",
+ "condition": null,
+ "reference": "OH HOW KIND HOW VERY KIND MISSUS DALY SAID WITH TEARS OF JOY AND GRATITUDE WE HAVE HARDLY KNOWN HOW WE SHOULD MEET THE MOST NECESSARY EXPENSES OF THIS TRIP BUT HAVE BEEN TRYING TO CAST OUR CARE UPON THE LORD ASKING HIM TO PROVIDE",
+ "audio_seconds": 15.69,
+ "created_at": "2026-07-06T03:26:02+00:00",
+ "failed": false,
+ "text": "Oh how kind, how very kind,\" Missus Daly said with tears of joy and gratitude. \"We have hardly known how we should meet the most necessary expenses of this trip, but have been trying to cast our care upon the Lord, asking Him to provide.\"",
+ "seconds": 0.518
+}

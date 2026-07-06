@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-9170-0030",
+ "condition": null,
+ "reference": "THIS INCREASE IS CONTAGIOUS AS MONTESQUIEU POINTED OUT ONE HUNDRED FIFTY YEARS AGO",
+ "audio_seconds": 4.25,
+ "created_at": "2026-07-05T13:01:39+00:00",
+ "failed": false,
+ "text": "this increase is contagious as montesquieu pointed out a hundred fifty years ago",
+ "seconds": 0.203
+}

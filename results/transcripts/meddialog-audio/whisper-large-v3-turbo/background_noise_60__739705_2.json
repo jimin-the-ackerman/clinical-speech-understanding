@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__739705_2",
+ "condition": "background_noise_60",
+ "reference": "I understand your concern. Do not dismiss this or ignore the doctor; however, he will need to get a skin biopsy in order to definitely confirm skin cancer. Ask him to see a doctor for evaluation and determination of the need for one. I hope this helps.",
+ "audio_seconds": 15.87,
+ "created_at": "2026-07-06T04:43:23+00:00",
+ "failed": false,
+ "text": "Do not dismiss this or ignore the doctor. However, he will need to get his own biopsies in the end so he can be honest with you. Ask him to see a doctor's evaluation on the terminal screen. I hope this helps you.",
+ "seconds": 0.229
+}

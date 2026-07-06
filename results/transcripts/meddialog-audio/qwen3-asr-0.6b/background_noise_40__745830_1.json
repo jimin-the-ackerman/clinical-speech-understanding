@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__745830_1",
+ "condition": "background_noise_40",
+ "reference": "I have pain on the right side of my middle back. I have had it for three days now. It doesn’t hurt to breathe, but it is painful inside when I stretch my shoulders. The pain goes from left to right across my back. I do not recall doing anything to injure myself. I do have a sixteen-month-old granddaughter that I carry around at times, but I have never had this pain before.",
+ "audio_seconds": 24.06,
+ "created_at": "2026-07-06T04:56:02+00:00",
+ "failed": false,
+ "text": "I have pain on the right side of my middle back. I have had it for three days now. It doesn't hurt to breathe, but it is painful inside when I stretch my shoulders. The pain goes from left to right across my back. I do not recall doing anything to injure myself. I do have a sixteen-month-old granddaughter that I carry around at times. I have never had this pain before.",
+ "seconds": 0.761
+}

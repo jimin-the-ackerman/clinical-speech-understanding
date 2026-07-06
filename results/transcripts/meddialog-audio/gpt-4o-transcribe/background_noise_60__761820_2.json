@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__761820_2",
+ "condition": "background_noise_60",
+ "reference": "Hello there, welcome to Healthcare Magic. I read your problem, and the first thing that came to mind is gastritis or gastric ulcers. I would ask you to take Omeprazole or Pantoprazole forty milligrams tablets for a month every morning on an empty stomach and see if you get relief. If you do not feel better after this, you should undergo an upper gastrointestinal endoscopy. In the meantime, do not smoke, and avoid coffee and alcohol. These habits increase gastric acid production and weaken the mucosal barrier of the gastrointestinal tract, promoting ulcer formation and slowing ulcer healing. Do not take aspirin or nonsteroidal anti-inflammatory medications. Avoid eating any foods that aggravate symptoms. I hope I could answer your questions. Feel free to ask any more queries.",
+ "audio_seconds": 47.53,
+ "created_at": "2026-07-06T00:44:23+00:00",
+ "failed": false,
+ "text": "Hello there, welcome to Healthcare Magic. The problem and the first thing that came to mind is gastric ulcers. I would ask you to take omeprazole or pantoprazole, 40 mg tablets for a month every morning on an empty stomach, and see if you get relief. If you do not feel better after this, you should undergo an upper gastrointestinal endoscopy. In the meantime, do not smoke and avoid coughing and alcohol. These habits increase gastric acid production and weaken the mucosal barrier of the gastrointestinal tract, promoting ulcer formation and slowing ulcer healing. Do not take aspirin or non-steroidal anti-inflammatory medications. Avoid eating any foods that aggravate symptoms. I hope I can answer your questions. Feel free to ask any more queries.",
+ "seconds": 3.172
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0027",
+ "condition": null,
+ "reference": "MAYBE THE FIGHT WAS ABOUT WHO OWNED THE WATCH FOR THE DAGOS TALKED IN THEIR FOREIGN LINGO AND NONE OF THE NEIGHBORS COULD TELL WHAT THEY WERE SAYIN I SEE",
+ "audio_seconds": 8.12,
+ "created_at": "2026-07-06T03:35:02+00:00",
+ "failed": false,
+ "text": "Maybe the fight was about who owned the watch. For the dagos talked in their foreign lingo, and none of the neighbors could tell what they were saying. I see.",
+ "seconds": 0.41
+}

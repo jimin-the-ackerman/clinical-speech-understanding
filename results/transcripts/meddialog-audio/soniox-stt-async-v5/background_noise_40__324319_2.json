@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__324319_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, the pain could be due to two reasons: • Disc prolapse - get a magnetic resonance imaging scan of the lumbosacral spine. • Renal stones - get an ultrasound.",
+ "audio_seconds": 11.26,
+ "created_at": "2026-07-06T02:50:37+00:00",
+ "failed": false,
+ "text": "Hello, the pain could be due to two reasons: curpialum—get a MRI scan of the lumbosacral spine; curpial stones—get an ultrasound.",
+ "seconds": 4.63
+}

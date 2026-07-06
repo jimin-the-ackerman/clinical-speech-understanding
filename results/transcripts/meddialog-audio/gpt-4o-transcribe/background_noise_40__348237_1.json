@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__348237_1",
+ "condition": "background_noise_40",
+ "reference": "I had pain in my left buttock and the pain extended to my thigh. Blood tests were done, and I tested positive for Human Leukocyte Antigen B27. I was prescribed Sulfasalazine and Voveran by the doctors. After seven days, the pain has reduced a lot, but I am still not able to walk properly. How much time will it take for me to become normal?",
+ "audio_seconds": 24.06,
+ "created_at": "2026-07-06T00:43:03+00:00",
+ "failed": false,
+ "text": "I had pain in my left bottom and the pain extended to my thigh. Blood tests were done and I tested positive for human leukocyte antigen B27. I was prescribed sulfasalazine and Voveran by the doctors. After seven days, the pain is reduced a lot, but I am still not able to walk properly. How much time would it take for me to become normal?",
+ "seconds": 1.443
+}

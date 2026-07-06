@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__617555_1",
+ "condition": "white_noise_10",
+ "reference": "Hi doctor, I am having pain in my forearm. I do exercise regularly. In the past, I had pain in my tendon two years back. The doctor gave me Hifenac Sustained Release and some soft tissue relaxants; it worked. Should I take Hifenac Modified Release, which is a muscle relaxant? If yes, how should it be taken? I mean, is there any other antacid tablet required?",
+ "audio_seconds": 29.87,
+ "created_at": "2026-07-06T05:06:20+00:00",
+ "failed": false,
+ "text": "Hi doctor, I am having pain in my forearm. Have you exercised regularly? In the past, I have pain in my tendon. Do you do that? The doctor gave me high intensity pain relief and some soft tissue relaxant. It works. Should I take high intensity pain relief? Which is a muscle relaxant. If yes, how should we take it? Hmm. Hmm",
+ "seconds": 4.315
+}

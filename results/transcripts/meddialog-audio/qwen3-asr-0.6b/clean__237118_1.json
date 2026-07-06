@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__237118_1",
+ "condition": "clean",
+ "reference": "My sister is having a routine problem. Whenever she wakes up in the morning, her legs experience a lot of pain. Doctors said her body has a low amount of calcium. We have done complete treatments many times, but they have been useless. Please help us. What should we do?",
+ "audio_seconds": 16.21,
+ "created_at": "2026-07-06T05:01:14+00:00",
+ "failed": false,
+ "text": "My sister is having a routine problem. Whenever she wakes up in the morning, her legs experience a lot of pain. Doctor said her body has a low amount of calcium. We have done complete treatments many times, but they have been useless. Please help us. What should we do?",
+ "seconds": 0.541
+}

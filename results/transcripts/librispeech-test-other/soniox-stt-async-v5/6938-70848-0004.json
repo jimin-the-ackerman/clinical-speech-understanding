@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "6938-70848-0004",
+ "condition": null,
+ "reference": "HAVEN'T I GOT SOMETHING TO REMEMBER THEM BY THE DEVILS",
+ "audio_seconds": 3.65,
+ "created_at": "2026-07-06T02:34:44+00:00",
+ "failed": false,
+ "text": "Haven't I got something to remember them by the devil's?",
+ "seconds": 4.601
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0020",
+ "condition": null,
+ "reference": "WELL READ IT IN PEACE SAID LESLIE I WON'T DISTURB YOU",
+ "audio_seconds": 4.79,
+ "created_at": "2026-07-05T13:07:55+00:00",
+ "failed": false,
+ "text": "well read it in peace said liddesleigh i won't disturb you",
+ "seconds": 0.191
+}

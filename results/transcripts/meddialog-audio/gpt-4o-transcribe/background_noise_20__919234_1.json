@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__919234_1",
+ "condition": "background_noise_20",
+ "reference": "Hi Sir, my ten-month-old premature mild cerebral palsy baby involuntarily moves his shoulders and head. We are giving Valproate medicine two milliliters in the morning and evening, and Normabrain. But still, sometimes he does that. When will it stop? Please suggest if there is any good treatment for that.",
+ "audio_seconds": 19.8,
+ "created_at": "2026-07-06T00:42:40+00:00",
+ "failed": false,
+ "text": "Hi sir, my 10-month-old premature mild cerebral palsy baby involuntarily moves his shoulders and head. We are Valproate medicine 2 ml in the morning and evening, and normobrain, but still sometimes he does that. When will it stop? Please suggest if there is any good treatment for that.",
+ "seconds": 1.041
+}

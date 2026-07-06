@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__986041_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, I had an implantable cardioverter-defibrillator implanted two years ago in my left arm area. I have been exercising daily for one point five years in the gym, and I have noticed that my left arm is almost half the size of my right one. While the right one increases in size over time, the left appears to be the same size as before. What can I do? Are there any exercises to address this? It is very frustrating.",
+ "audio_seconds": 26.45,
+ "created_at": "2026-07-06T05:34:41+00:00",
+ "failed": false,
+ "text": "Hello, I had an implantable cardioverter defibrillator implanted two years ago in my left arm area. I have been exercising daily for one point five years in the gym, and I have noticed that my left arm is almost half the size of my right one. While the right one increases in size over time, the left appears to be the same size as before. What can I do? Are there any exercises to address this? This is very frustrating.",
+ "seconds": 0.872
+}

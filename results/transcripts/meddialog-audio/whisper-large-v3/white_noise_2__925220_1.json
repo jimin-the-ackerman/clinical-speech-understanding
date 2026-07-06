@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__925220_1",
+ "condition": "white_noise_2",
+ "reference": "I have a small purple bump on my leg that is hard. Some days it is perfectly fine with no pain, while other days, if you touch it, it feels like a deep burning pain. I have had the bump for eight months. What could this be and how would you treat it? It appeared as a bug bite when it first appeared, but it never went away, and now it has extreme burning pains every once in a while.",
+ "audio_seconds": 22.87,
+ "created_at": "2026-07-06T04:35:41+00:00",
+ "failed": false,
+ "text": "I have a small purple bump on my leg that is hard. Some days it is perfectly fine with no pain, while other days, if you touch it, it feels like a deep burning pain. I have had the bump for eight months. What could this be and how would you treat it? It appeared as a bug bite when it first appeared, but it never went away and now it has extreme burning every once in a while.",
+ "seconds": 0.743
+}

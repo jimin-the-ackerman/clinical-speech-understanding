@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-258277-0010",
+ "condition": null,
+ "reference": "SO HE TOLD HIM WHAT HAD BEFALLEN HIM AND ADDED IF I KNOW WHITHER THE RASCAL IS GONE AND WHERE TO FIND THE KNAVE I WOULD PAY HIM OUT",
+ "audio_seconds": 8.93,
+ "created_at": "2026-07-05T13:14:55+00:00",
+ "failed": false,
+ "text": "so he told him what had befallen him and added if i know whither the rascal is gone and where to find the knave i would pay him out",
+ "seconds": 0.124
+}

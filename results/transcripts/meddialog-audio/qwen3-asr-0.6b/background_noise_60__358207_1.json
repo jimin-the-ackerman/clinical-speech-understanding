@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__358207_1",
+ "condition": "background_noise_60",
+ "reference": "I am Sudha Bajpai, aged forty-six. Two years ago, I started feeling that everything was dirty around me, and I refrained from walking on the road. I did not even like people coming to my house with shoes on. Lately, the problem has increased, and every time I use the toilet, I take a bath and clean the toilet even after urinating. I feel depressed and want to cry. I can't even concentrate or divert my mind to any other activities. I feel everyone is unhygienic after using the restroom. Is there a cure for my problem? Please advise. I am a resident of Dehradun.",
+ "audio_seconds": 36.01,
+ "created_at": "2026-07-06T04:58:07+00:00",
+ "failed": false,
+ "text": "I am Suda Bodjpai, aged forty-six. Two years ago, I started feeling that everything was dirty around me, then I refrained from walking on the road. I did not even like people coming to my house with shoes on. Lately, the problem has increased. Every time I use the toilet, I take a bath and clean the toilet even after urinating. I feel depressed and want to cry. I can't concentrate or divert my mind to any other activities. I feel everyone is unhygienic after using the restroom. Is there a cure for my problem? Please advise. I am a resident of Dara Dune.",
+ "seconds": 1.165
+}

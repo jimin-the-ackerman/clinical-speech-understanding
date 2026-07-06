@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-32873-0012",
+ "condition": null,
+ "reference": "I'LL STAY HERE THAT IS IN THE DRAWING ROOM SHE ANSWERED AND THE FACE WAS WITHDRAWN",
+ "audio_seconds": 5.34,
+ "created_at": "2026-07-06T02:29:33+00:00",
+ "failed": false,
+ "text": "I'll stay here. That is, in the drawing room. She answered, and the face was withdrawn.",
+ "seconds": 4.62
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__431535_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. Bleeding from the glans penis is not normal. If you are on medication, such as aspirin tablets, stop it at once. The safest thing to do is to see your doctor and let them examine you to find out the exact cause of the bleeding. There should not be repeated bleeding after masturbation.",
+ "audio_seconds": 17.58,
+ "created_at": "2026-07-06T00:46:32+00:00",
+ "failed": false,
+ "text": "Hello, bleeding from the glans penis is not normal. If you are on medication such as aspirin tablets, stop it at once. The safest thing to do is to see your doctor and let them examine you to find out the exact cause of the bleeding. There should not be repeated bleeding after masturbation.",
+ "seconds": 0.898
+}

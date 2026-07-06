@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128291-0005",
+ "condition": null,
+ "reference": "FOR I TELL THEE THAT I HAVE ALREADY TALKED HALF A MORNING UNTO THEM AND JUST NOW WERE THEY ABOUT TO GIVE ME THEIR ANSWER",
+ "audio_seconds": 10.65,
+ "created_at": "2026-07-06T03:27:36+00:00",
+ "failed": false,
+ "text": "For I tell thee that I have already talked half a morning unto them, and just now, were they about to give me their answer.",
+ "seconds": 0.291
+}

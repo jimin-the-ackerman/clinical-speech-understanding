@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0054",
+ "condition": null,
+ "reference": "I MUST SEE HER MYSELF EARLY IN THE MORNING AND I AM QUITE SURE THAT NOTHING WILL SATISFY MISS LAUDERDALE EXCEPT A VERY AMPLE APOLOGY AND A FULL EXPLANATION OF THE REASON WHY SHE ABSENTED HERSELF",
+ "audio_seconds": 10.91,
+ "created_at": "2026-07-06T03:37:49+00:00",
+ "failed": false,
+ "text": "I must see her myself early in the morning, and I am quite sure that nothing will satisfy Miss Lauderdale except a very ample apology, and a full explanation of the reason why she absented herself.",
+ "seconds": 0.399
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__875501_1",
+ "condition": "background_noise_60",
+ "reference": "I want my body to feel warm, not feverish, especially at the back of my head. I also feel slightly faint. The doctors said that I have no problem but just weakness. This has been going on for a long time, about one and a half months. My body is not feeling fresh, and I am experiencing pain in both knees.",
+ "audio_seconds": 18.09,
+ "created_at": "2026-07-06T05:00:09+00:00",
+ "failed": false,
+ "text": "I want my body to feel warm, not feverish, especially at the back of my head. I feel some kind of pain. The doctor said that I have no problem but just weakness. This has been going on for a long time—about one and a half months. My body is not feeling fresh, and I am experiencing pain in both knees.",
+ "seconds": 0.654
+}

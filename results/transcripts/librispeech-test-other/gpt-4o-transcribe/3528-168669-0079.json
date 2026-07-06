@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0079",
+ "condition": null,
+ "reference": "THE PRIORESS WHO WAS USUALLY SUBJECTED TO THE BARRIER OF SILENCE AND WHOSE RESERVOIR WAS OVERFULL ROSE AND EXCLAIMED WITH THE LOQUACITY OF A DAM WHICH HAS BROKEN AWAY",
+ "audio_seconds": 9.8,
+ "created_at": "2026-07-05T23:54:54+00:00",
+ "failed": false,
+ "text": "The prioress, who was usually subjected to the barrier of silence, and whose reservoir was overfull, rose and exclaimed with the loquacity of a dam which has broken away:",
+ "seconds": 0.842
+}

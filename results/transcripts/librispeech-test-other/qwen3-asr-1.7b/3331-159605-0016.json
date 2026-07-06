@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0016",
+ "condition": null,
+ "reference": "WHEN SATURDAY CAME POLLY STARTED AS USUAL FOR A VISIT TO BECKY AND BESS BUT COULD N'T RESIST STOPPING AT THE SHAWS TO LEAVE A LITTLE PARCEL FOR FAN THOUGH IT WAS CALLING TIME",
+ "audio_seconds": 12.94,
+ "created_at": "2026-07-06T03:29:03+00:00",
+ "failed": false,
+ "text": "When Saturday came, Polly started as usual for a visit to Becky and Bess, but could not resist stopping at the shores to leave a little parcel for Fan, though it was calling time.",
+ "seconds": 0.387
+}

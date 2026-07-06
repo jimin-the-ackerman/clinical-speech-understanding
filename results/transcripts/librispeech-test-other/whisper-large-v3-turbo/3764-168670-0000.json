@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168670-0000",
+ "condition": null,
+ "reference": "THE STRIDES OF A LAME MAN ARE LIKE THE OGLING GLANCES OF A ONE EYED MAN THEY DO NOT REACH THEIR GOAL VERY PROMPTLY",
+ "audio_seconds": 8.8,
+ "created_at": "2026-07-05T13:10:59+00:00",
+ "failed": false,
+ "text": "the strides of a lame man are like the ogling glances of a one-eyed man they do not reach their goal very promptly",
+ "seconds": 0.128
+}

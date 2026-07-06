@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28311-0016",
+ "condition": null,
+ "reference": "THE LONGER WING TOWARD THE BACK HAD A BACK DOOR THAT OPENED ONTO WATER STREET THE SPACE BETWEEN THE HOUSE AND WISCONSIN AVENUE HAD BEEN MADE INTO A NEAT OBLONG FLOWER GARDEN FENCED OFF FROM THE SIDEWALK BY BOX SHRUBS AND A WHITE PICKET FENCE",
+ "audio_seconds": 14.38,
+ "created_at": "2026-07-06T02:27:27+00:00",
+ "failed": false,
+ "text": "The longer wing, toward the back, got a back door that opened onto Water Street. The space between the house and Wisconsin Avenue had been made into a neat oblong flower garden, fenced off from the sidewalk by box shrugs and a white picket fence.",
+ "seconds": 5.029
+}

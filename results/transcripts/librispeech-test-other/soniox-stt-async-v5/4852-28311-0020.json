@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28311-0020",
+ "condition": null,
+ "reference": "AT THE FOOT OF THE HILL HE REACHED THE HOUSE",
+ "audio_seconds": 2.71,
+ "created_at": "2026-07-06T02:27:31+00:00",
+ "failed": false,
+ "text": "At the foot of the hill, he reached the house.",
+ "seconds": 4.8
+}

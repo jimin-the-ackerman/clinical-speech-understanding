@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__812730_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, I have just had an ultrasound and have a thirteen millimeter hyperechoic focus in the mid-pole region of my right kidney. What does this mean? I am thirty-one, one hundred and fifty-four centimeters tall, and weigh one hundred and seven kilograms. I had a hysterectomy earlier this year and have not been able to pass urine since because of a hematoma the size of a grapefruit post-surgery. I have a catheter in at present and I have had a large volume of blood in my urine, as well as clots and recurrent Escherichia coli and Pseudomonas urinary tract infections.",
+ "audio_seconds": 39.59,
+ "created_at": "2026-07-06T03:03:53+00:00",
+ "failed": false,
+ "text": "Hi, I have just had an ultrasound and have a 13 mm hyperechoic focus in the mid-pole region of my right kidney. What does this mean? I am 31, 154 cm tall, and weigh 107 kg. I had a hysterectomy earlier this year and have not been able to pass urine since because of a hematoma the size of a grapefruit post-surgery. I have a catheter in at present, and I have had a large volume of blood in my urine, as well as cough and recurrent Escherichia coli and Pseudomonas urinary tract infections.",
+ "seconds": 8.22
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__738448_1",
+ "condition": "white_noise_10",
+ "reference": "After a chest X-ray, my doctor told me I have a heterogeneous opacity in the right middle lobe. I am not sure what that means and what it is. I am not sick, but he is treating me with Ciprofloxacin and wants a follow-up X-ray in thirty days. What causes this and is it serious? I am sixty-eight years old.",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T04:46:15+00:00",
+ "failed": false,
+ "text": "After I checked that day, my doctor told me I had a happier dinner that was happening in the night and alone. I am not sure about how I am and how it is. I am not sure, but how you're feeding me these sickle blocks with them and how to follow up after every 30 days. What causes this means is food. I need to see you in the way.",
+ "seconds": 0.256
+}

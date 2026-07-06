@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163399-0020",
+ "condition": null,
+ "reference": "HAS HE COME NO SAYS HER HUSBAND",
+ "audio_seconds": 3.56,
+ "created_at": "2026-07-06T03:28:36+00:00",
+ "failed": false,
+ "text": "Has he come? No,\" says her husband.",
+ "seconds": 0.133
+}

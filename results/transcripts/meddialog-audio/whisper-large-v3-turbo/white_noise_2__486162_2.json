@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__486162_2",
+ "condition": "white_noise_2",
+ "reference": "For example, conduct a stool analysis and check for Helicobacter pylori in the stool. If clear, do a chest X-ray and an electrocardiogram to rule out cardiac and chest diseases.",
+ "audio_seconds": 12.54,
+ "created_at": "2026-07-06T04:47:16+00:00",
+ "failed": false,
+ "text": "For example, conduct a stool analysis and check for helicobacter pylori in the stool. If clear, do a chest x-ray and an electrocardiogram to rule out cardiac and chest diseases.",
+ "seconds": 0.186
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__612262_1",
+ "condition": "background_noise_60",
+ "reference": "I have been suffering from keloids for the last two years. For the past two months, I have been taking tricot injections once a month and isotretinoin twenty milligram capsules daily, but there is hardly any difference. Please can you suggest any other medication, and will the scars go away with time?",
+ "audio_seconds": 17.92,
+ "created_at": "2026-07-06T04:43:12+00:00",
+ "failed": false,
+ "text": "I have been suffering from caloids for the last two years. For the past two months, I have been taking TriQuad injections once a month and isotretinoin 20 milligram capsules daily, but there is hardly any difference. Please can you suggest any other medication, and will the scars go away with time?",
+ "seconds": 0.248
+}

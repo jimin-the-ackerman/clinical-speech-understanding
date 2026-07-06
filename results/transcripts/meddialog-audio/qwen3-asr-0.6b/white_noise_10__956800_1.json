@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__956800_1",
+ "condition": "white_noise_10",
+ "reference": "Today we went to Burger King and my daughter was in her car seat when the lady at the counter put our fries on the tray. They tipped over into her car seat, flaming hot. She screamed; the fries burned her little neck, skin came off. What should I put on it to help her with the redness?",
+ "audio_seconds": 15.7,
+ "created_at": "2026-07-06T05:07:53+00:00",
+ "failed": false,
+ "text": "Today we had the perfect moment. My daughter leaving her party in the lady of the town had our display. They took over eating at her party, waiting out. She screamed, the fire burned in her mouth, sin came off. I should have seen on it. I had to look at Redness.",
+ "seconds": 0.573
+}

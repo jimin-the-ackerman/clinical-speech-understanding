@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-130732-0026",
+ "condition": null,
+ "reference": "TAKE THIRTY CRAWFISH FROM WHICH REMOVE THE GUT CONTAINING THE GALL IN THE FOLLOWING MANNER TAKE FIRM HOLD OF THE CRAWFISH WITH THE LEFT HAND SO AS TO AVOID BEING PINCHED BY ITS CLAWS WITH THE THUMB AND FOREFINGER OF THE RIGHT HAND PINCH THE EXTREME END OF THE CENTRAL FIN OF THE TAIL AND WITH A SUDDEN JERK THE GUT WILL BE WITHDRAWN",
+ "audio_seconds": 18.52,
+ "created_at": "2026-07-06T00:07:53+00:00",
+ "failed": false,
+ "text": "Take 30 crawfish from which remove the gut containing the gall in the following manner: take firm hold of the crawfish with the left hand so as to avoid being pinched by its claws; with the thumb and forefinger of the right hand, pinch the extreme end of the central fin of the tail; and, with a sudden jerk, the gut will be withdrawn.",
+ "seconds": 4.192
+}

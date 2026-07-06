@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__924040_2",
+ "condition": "white_noise_10",
+ "reference": "Your tingling in your arms and legs could be due to hyperventilation. Vomiting is unrelated and could be due to gastroenteritis. There is always acid in the stomach unless you have cancer of the stomach when you have no acid. Most of your symptoms could be due to anxiety. Your tingling may not be due to any medical condition.",
+ "audio_seconds": 17.75,
+ "created_at": "2026-07-06T04:46:34+00:00",
+ "failed": false,
+ "text": "The tingling in your arms and legs could be due to hyperventilation. Vomiting is unrelated and could be due to gastroenteritis. There is always acid in the stomach unless you have cancer of the stomach when you have no acid. Most of your symptoms could be due to anxiety. Your tingling may not be due to any medical condition.",
+ "seconds": 0.253
+}

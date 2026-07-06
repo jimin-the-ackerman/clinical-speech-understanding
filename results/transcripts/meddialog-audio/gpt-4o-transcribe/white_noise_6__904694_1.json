@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__904694_1",
+ "condition": "white_noise_6",
+ "reference": "My name is Savitri, and I am fifty-five years old. I have had leg pain for the last four years. When I sit for a long time or walk for some time, I feel unbearable pain and a burning sensation. I have taken Ayurvedic and allopathic medicines, but there has been no result. I am feeling hopeless. What should I do?",
+ "audio_seconds": 19.37,
+ "created_at": "2026-07-06T00:47:39+00:00",
+ "failed": false,
+ "text": "I think he could now take his health into his own hands.",
+ "seconds": 0.503
+}

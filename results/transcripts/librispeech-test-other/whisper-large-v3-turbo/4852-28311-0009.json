@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28311-0009",
+ "condition": null,
+ "reference": "HE WOULD HAVE LIKED TO GET THE JOB FOR JAKEY WHO NEEDED IT BUT SOMEHOW THE TASK OF FACING MISTER WICKER ESPECIALLY NOW THAT THE LIGHT WAS GOING AND DUSK EDGING INTO THE STREETS WAS NOT WHAT CHRIS HAD INTENDED FOR ENDING THE AFTERNOON",
+ "audio_seconds": 12.01,
+ "created_at": "2026-07-05T13:11:58+00:00",
+ "failed": false,
+ "text": "he would have liked to get the job for jakey who needed it but somehow the task of facing mr wicker especially now that the light was going and dusk edged into the streets was not what chris had intended for ending the afternoon",
+ "seconds": 0.143
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0025",
+ "condition": null,
+ "reference": "HE FOUND THE PLACE WITHOUT A LIGHT IN IT STUMBLED OVER SOMETHING ON THE FLOOR AND THERE WAS ALI'S BODY WITH THE HEAD BUSTED IN AND THIS HEAVY CANDLESTICK NEAR IT",
+ "audio_seconds": 9.43,
+ "created_at": "2026-07-06T03:22:55+00:00",
+ "failed": false,
+ "text": "He found the place without a light in it, stumbled over something on the floor, and there was Ali's body, with the head busted in and this heavy candlestick near it.",
+ "seconds": 0.371
+}

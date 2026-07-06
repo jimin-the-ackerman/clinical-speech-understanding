@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__381444_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, my name is Shaylor Wells, and for the past two to three months, I have been experiencing sharp pains in my arms, back, and chest. The chest pain is located approximately two inches below my collarbone, and it feels like the back pain is around the same area as the chest pain. Last month, my nose started running unexpectedly, and I developed a cough. My nose is still running, and I still have a cough. I have been smoking for ten years, and it has never slowed me down, but when I run now or even go up new stairs, it leaves me feeling very winded. As for the pain, I have anxiety, but as a smoker, I fear it might be lung cancer.",
+ "audio_seconds": 44.54,
+ "created_at": "2026-07-06T04:42:49+00:00",
+ "failed": false,
+ "text": "Hi, my name is Shayla Wills, and for the past 200 nights, I have been experiencing sharp pains in my arms, back, and chest. The chest pain is located approximately two inches below my collarbone, and it feels like the back pain is around the same area as the chest pain. Last month, my nose started running unexpectedly, and I've run into cough. I'm running, but I still have a cough. I've been sleeping for 10 years, and it has never slowed me down, but when I've run now, or even go up to the stairs, it seems to be very good. And the first thing I've been hearing, I haven't done, but as a sloker, I fear not being broken.",
+ "seconds": 0.419
+}

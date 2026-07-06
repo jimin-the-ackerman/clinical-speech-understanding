@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-274364-0009",
+ "condition": null,
+ "reference": "YOUNG VANE FALLING UPON THIS PAPER OF NOTES DEEMED THE MATTER OF THE UTMOST IMPORTANCE AND IMMEDIATELY COMMUNICATED IT TO PYM WHO NOW PRODUCED THE PAPER BEFORE THE HOUSE OF COMMONS",
+ "audio_seconds": 11.25,
+ "created_at": "2026-07-06T03:25:44+00:00",
+ "failed": false,
+ "text": "Young Vane, falling upon this paper of notes, deemed the matter of the utmost importance, and immediately communicated it to Pym, who now produced the paper before the House of Commons.",
+ "seconds": 0.377
+}

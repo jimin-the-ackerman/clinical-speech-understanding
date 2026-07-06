@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__764001_2",
+ "condition": "white_noise_2",
+ "reference": "To confirm pregnancy, the only way is to do a pregnancy test. For pregnancy, fertilization of the ovum with sperm is required. Your ovulation and patency tests need to be done, and a semen analysis of your husband should also be conducted. Consult a doctor; do not rely on hearsay from a layperson.",
+ "audio_seconds": 19.03,
+ "created_at": "2026-07-06T03:07:53+00:00",
+ "failed": false,
+ "text": "To confirm pregnancy, the only way is to do a pregnancy test. For pregnancy, fertilization of the ovum with sperm is required. Your ovulation and patency tests need to be done, and a semen analysis of your husband should also be conducted. Consult a doctor; do not rely on a layperson.",
+ "seconds": 6.015
+}

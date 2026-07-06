@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__668784_2",
+ "condition": "clean",
+ "reference": "Often, such a finding is benign, but obviously the doctor wants to be sure there is no sort of true bone marrow abnormality or blood disorder. However, since the result is many times not worrisome, you should not fear the worst prior to the bone scan.",
+ "audio_seconds": 13.91,
+ "created_at": "2026-07-06T00:45:16+00:00",
+ "failed": false,
+ "text": "Often, such a finding is benign, but obviously the doctor wants to be sure there is no sort of true bone marrow abnormality or blood disorder. However, since the result is many times not worrisome, you should not fear the worst prior to the bone scan.",
+ "seconds": 0.914
+}

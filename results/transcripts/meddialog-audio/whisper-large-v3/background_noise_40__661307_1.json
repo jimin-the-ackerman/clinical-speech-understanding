@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__661307_1",
+ "condition": "background_noise_40",
+ "reference": "I have a slight numbness in my left hand; it is not painful and it is not severe, but I do have a little less sensation in the hand than I normally do. I have also had tremors a lot more recently in my right hand, which are also not painful and not very severe. I am seventeen and female.",
+ "audio_seconds": 18.69,
+ "created_at": "2026-07-06T04:19:31+00:00",
+ "failed": false,
+ "text": "I have a slight numbness in my left hand. It is not painful and it is not severe, but I do have a little less sensation in the hand than I normally do. I have also had tremors a lot more recently in my right hand, which were also not painful and not very severe. I am 17 and 3 now.",
+ "seconds": 0.582
+}

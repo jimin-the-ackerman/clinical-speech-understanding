@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0009",
+ "condition": null,
+ "reference": "I ANSWERED FOR ALLAH'S SAKE O MY LORD ERE I SPEAK GIVE ME SOMEWHAT TO EAT FOR I AM STARVING AND AFTER ASK ME WHAT THOU WILT",
+ "audio_seconds": 10.75,
+ "created_at": "2026-07-06T03:35:39+00:00",
+ "failed": false,
+ "text": "I answered, for Allah's sake, O my lord, ere I speak, give me somewhat to eat, for I am starving, and after ask me what thou wilt.",
+ "seconds": 0.361
+}

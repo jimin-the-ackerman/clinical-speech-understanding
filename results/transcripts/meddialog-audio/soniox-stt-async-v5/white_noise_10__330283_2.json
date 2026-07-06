@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__330283_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. I need to understand your problems better and kindly advise you to get a pregnancy test done. I understand that you are female and of childbearing age. If it is not pregnancy-related nausea, then what you are experiencing may be a somatoform disorder. Yes, your anxiety may have caused these symptoms. It is a manifestation of a psychiatric disorder. But do not worry; you can manage this with your mind. Engage in yoga and meditation. Try to stop overthinking or being anxious, and consider seeking help from a psychiatrist. I do not believe you have any other medical issues. For precaution, get an abdominal ultrasound done since you have a history of diverticulitis. Gastritis with reflux can also present similar symptoms. You can try any gastric medications for two weeks to see if it alleviates the symptoms. I recommend a combination approach of the above-mentioned strategies to address your concerns. I hope this information helps you sort out your issues regarding anxiety, abdominal ultrasound, gastritis, and potential pregnancy.",
+ "audio_seconds": 70.4,
+ "created_at": "2026-07-06T03:01:23+00:00",
+ "failed": false,
+ "text": "Hello, I need to understand your problem better and kindly advise you to get a pregnancy test done. I understand that you are female and of childbearing age. If it is not pregnancy-related nausea, then what you are experiencing may be a somatoform disorder. Yes, your anxiety may have causal symptoms; it is a manifestation of a psychiatric disorder. But do not worry; you can manage this with your mind. Engage in yoga and meditation. Try to stop overthinking or being anxious, and consider seeking help from a psychiatrist. I do not believe you have any other medical issues. For precaution, get an abdominal ultrasound done since you have a history of diverticulitis. Gastritis with reflux can also present similar symptoms. You can try any gastric medications for 2 weeks to see if it alleviates the symptoms. I recommend a combination approach of the above-mentioned strategies to address your concerns. I hope this information helps you sort out your issues regarding anxiety, abdominal ultrasound, gastritis, and potential pregnancy.",
+ "seconds": 8.492
+}

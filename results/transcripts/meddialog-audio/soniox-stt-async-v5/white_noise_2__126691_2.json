@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__126691_2",
+ "condition": "white_noise_2",
+ "reference": "Treatment for Chronic Obstructive Pulmonary Disease includes short-acting bronchodilators such as a Salbutamol inhaler, long-acting bronchodilators, inhaled corticosteroids, and oxygen if there is respiratory failure. When a patient has an exacerbation, they may need systemic corticosteroids and even antibiotics if the reason for the exacerbation is a lung infection. The patient may also need non-invasive ventilation in the form of BiPAP or CPAP.",
+ "audio_seconds": 32.94,
+ "created_at": "2026-07-06T03:04:59+00:00",
+ "failed": false,
+ "text": "Treatment for chronic obstructive pulmonary disease includes short-acting bronchodilators such as a salbutamol inhaler, long-acting bronchodilators, inhaled corticosteroids, and oxygen if there is respiratory failure. When a patient has an exacerbation, they may need systematic corticosteroids, and even antibiotics if the reason for the exacerbation is a lung infection. The patient may also need non-invasive ventilation in the form of BiPAP or CPAP.",
+ "seconds": 7.882
+}

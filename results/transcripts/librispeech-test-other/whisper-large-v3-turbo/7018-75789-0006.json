@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0006",
+ "condition": null,
+ "reference": "BUT I WAS DELIGHTED AT MY ESCAPE FROM THE RIVER",
+ "audio_seconds": 2.88,
+ "created_at": "2026-07-05T13:13:33+00:00",
+ "failed": false,
+ "text": "But I was delighted at my escape from the river.",
+ "seconds": 0.101
+}

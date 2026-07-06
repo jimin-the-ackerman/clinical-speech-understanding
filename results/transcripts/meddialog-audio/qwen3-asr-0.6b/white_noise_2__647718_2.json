@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__647718_2",
+ "condition": "white_noise_2",
+ "reference": "According to your presentation, it could be acute gastric ulcers that usually present as mild aches. In between your rib cage, you are advised to start taking Pantoprazole forty mg once daily on an empty stomach before breakfast. Avoid spicy food and tea. Observe your symptoms.",
+ "audio_seconds": 20.31,
+ "created_at": "2026-07-06T05:10:18+00:00",
+ "failed": false,
+ "text": "According to your presentation, it could be acute gastric ulcers, but usually present as mild aches. In between your rib cage, you are advised to start taking pantoprazole forty milligrams once daily on an empty stomach before breakfast. Avoid spicy food and tea. Observe your symptoms.",
+ "seconds": 0.574
+}

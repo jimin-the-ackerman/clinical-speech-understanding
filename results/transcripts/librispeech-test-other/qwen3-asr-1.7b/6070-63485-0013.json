@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-63485-0013",
+ "condition": null,
+ "reference": "OLD BOY IT WILL PAY FOR LOOKING AFTER",
+ "audio_seconds": 2.94,
+ "created_at": "2026-07-06T03:34:19+00:00",
+ "failed": false,
+ "text": "Old boy, it will pay for looking after.",
+ "seconds": 0.133
+}

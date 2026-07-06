@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__119989_1",
+ "condition": "white_noise_10",
+ "reference": "I fell down the stairs yesterday and landed square in the middle of my back. My back is stiff today, but I woke up last night with stomach pain. It feels worse than a stomach ache but does not hurt to breathe. The stomach pain has been occurring on and off today as well. Sometimes it is sharp, but it feels mainly like a constant bubble of pain in my stomach.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T00:45:40+00:00",
+ "failed": false,
+ "text": "I don't think that you're the kind of person to do that.",
+ "seconds": 1.51
+}

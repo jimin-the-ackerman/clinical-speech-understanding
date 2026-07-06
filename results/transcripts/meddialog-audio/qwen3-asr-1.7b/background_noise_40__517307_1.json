@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__517307_1",
+ "condition": "background_noise_40",
+ "reference": "My eighteen-month-old child has developed small tiny spots covering his chest up to the top of his diaper and his back. He hasn't had a temperature, but he has been off his food and very whiny and tired lately. Can you advise? He has already had chickenpox, but the spots don't look like those anyway.",
+ "audio_seconds": 16.21,
+ "created_at": "2026-07-06T05:21:29+00:00",
+ "failed": false,
+ "text": "My 18-month-old child has developed small, tiny spots covering his chest, up to the top of his diaper, and his back. He hasn't had a temperature, but he has been off his food and very whiny and tired lately. Can you advise? He has already had chickenpox, but the spots don't look like those in your.",
+ "seconds": 0.711
+}

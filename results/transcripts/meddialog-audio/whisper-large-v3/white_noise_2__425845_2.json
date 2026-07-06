@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__425845_2",
+ "condition": "white_noise_2",
+ "reference": "There seems to be no relation with Neurobion. However, these symptoms may be related to some cervical pathology. He should undergo a magnetic resonance imaging scan of the cervical vertebrae. If it is normal, then he may need some neck exercises as well as avoidance of using a pillow.",
+ "audio_seconds": 16.3,
+ "created_at": "2026-07-06T04:33:33+00:00",
+ "failed": false,
+ "text": "There seems to be no relation with neurobiome, however, these symptoms may be related to some cervical pathology. He should undergo a magnetic resonance imaging scan of the cervical vertebrae. If it is normal, then he may need some neck exercises as well as avoidance of using the pillow.",
+ "seconds": 0.55
+}

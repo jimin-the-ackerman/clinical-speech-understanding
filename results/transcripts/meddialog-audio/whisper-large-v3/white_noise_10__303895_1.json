@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__303895_1",
+ "condition": "white_noise_10",
+ "reference": "I have a pain that comes and goes in the left side of my abdomen, near my belly button. It feels like a feather turning in my abdomen; when it stops turning, the pain stops. However, now I am bleeding after I have been to the toilet through my anus. It is bright red blood each time, and this has been happening for the last three days. I just went, and I am still bleeding today, but it does not feel uncomfortable or sore or anything. I don’t know if it makes any difference, but I am a gay man.",
+ "audio_seconds": 32.68,
+ "created_at": "2026-07-06T04:29:24+00:00",
+ "failed": false,
+ "text": "I have a pain that comes and goes in the left side of my abdomen, near my belly button. It feels like a feather curling in my abdomen. When it stops turning, the pain stops. However, now I am bleeding after I have been to the toilet through my anus. It is bright red blood each time, and this has been happening for the last three days. I just went, and I am still bleeding today, but it does not feel uncomfortable or sore or anything. I don't know if it makes any difference, but I am a gay man.",
+ "seconds": 1.011
+}

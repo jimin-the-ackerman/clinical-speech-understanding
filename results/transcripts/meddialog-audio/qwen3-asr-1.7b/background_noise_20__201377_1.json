@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__201377_1",
+ "condition": "background_noise_20",
+ "reference": "Doctor, my child is twenty months old. She has been experiencing vomiting and fever for the last two days. Her urine frequency has decreased and it turns white after a few minutes. Diarrhea is not very frequent but she discharges white loose stools. What should I do for her relief?",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T05:15:59+00:00",
+ "failed": false,
+ "text": "Doctor, my child is 20 months old. She has been experiencing vomiting and fever for the last two days. Her urine frequency has decreased, and it turns white after a few minutes. Diarrhea is not very frequent, but she discharges white loose stools. What should I do for her relief?",
+ "seconds": 0.607
+}

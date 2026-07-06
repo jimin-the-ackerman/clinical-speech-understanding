@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__231432_1",
+ "condition": "white_noise_10",
+ "reference": "I have no animals, but there is a serious infestation of fleas where I used to work in home health aid. I went to the doctor and received creams and two different tablets. They help, but I continue being bitten. I am not working there anymore. It feels like there are things under my skin that itch badly. I have allergies, and my skin looks like I was beaten with a rope.",
+ "audio_seconds": 22.36,
+ "created_at": "2026-07-06T00:45:46+00:00",
+ "failed": false,
+ "text": "and the first is the one",
+ "seconds": 0.661
+}

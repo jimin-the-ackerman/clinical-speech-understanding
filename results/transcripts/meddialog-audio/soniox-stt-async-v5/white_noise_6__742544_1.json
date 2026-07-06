@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__742544_1",
+ "condition": "white_noise_6",
+ "reference": "I am eighteen years old and have been on Mononessa for almost ten months. During the second week on the pill this month, I was on antibiotics for a urinary tract infection, and I had sexual intercourse that week and the following week quite consistently. The week I was on antibiotics, we used a condom, but the very next day after finishing the antibiotics, we stopped using them. I think I am experiencing pregnancy symptoms, but I am not sure if they are just in my head. How likely is it that I could have become pregnant?",
+ "audio_seconds": 34.13,
+ "created_at": "2026-07-06T03:11:21+00:00",
+ "failed": false,
+ "text": "I am 18 years old and have been on Mononessa for almost 10 months. During the second week on the pill this month, I was on antibiotics for a urinary tract infection, and I had sexual intercourse that week and the following week, quite consistently. The week I was on antibiotics, we used a condom, but the very next day after finishing the antibiotics we stopped using them. I think I am experiencing pregnancy symptoms, but I am not sure if they are just in my head. How likely is it that I could have become pregnant?",
+ "seconds": 6.075
+}

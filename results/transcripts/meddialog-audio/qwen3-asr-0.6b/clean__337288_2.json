@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__337288_2",
+ "condition": "clean",
+ "reference": "It can be cervical radicular pain secondary to trauma to the nerve root while under regional anesthesia. Try taking pregabalin for symptomatic relief.",
+ "audio_seconds": 8.62,
+ "created_at": "2026-07-06T05:01:37+00:00",
+ "failed": false,
+ "text": "Surgical radicular pain secondary to trauma to the nerve root while under regional anesthesia. Try taking pregabalin for symptomatic relief.",
+ "seconds": 0.277
+}

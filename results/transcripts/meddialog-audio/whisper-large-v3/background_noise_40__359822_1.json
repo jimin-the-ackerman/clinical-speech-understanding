@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__359822_1",
+ "condition": "background_noise_40",
+ "reference": "Hello, Doctor. My partner is having a lot of pain in his wisdom tooth. I think he is developing an infection, but his whole mouth is swollen, and he is not even able to talk. He also has a fever now, and the pain is unbearable. What should we do right now as none of the doctors are available?",
+ "audio_seconds": 18.26,
+ "created_at": "2026-07-06T04:18:17+00:00",
+ "failed": false,
+ "text": "hello doctor my partner is having a lot of pain in his wisdom tooth i think he is developing an infection that his whole mouth is swollen and he is not even able to talk he also has a fever now and the pain is unbearable what should we do right now as none of the doctors are",
+ "seconds": 0.523
+}

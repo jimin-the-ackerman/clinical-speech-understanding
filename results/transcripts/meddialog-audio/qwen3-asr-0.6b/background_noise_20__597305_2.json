@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__597305_2",
+ "condition": "background_noise_20",
+ "reference": "Your history of allergies suggests that your allergy has involved the skin because eczema is also allergic. If you want to get rid of these, go for allergy tests and immunotherapy to address both respiratory and skin systems. This time, you might have mixed scabies, which also look like allergies and it spreads from one person to another in the family. You can treat it locally by applying Crotamiton Hydrochloride ointment twice daily and using Emulsified Scabicide lotion at night on the whole body for ten days. These can also be applied to other family members having this issue. You can take an as-needed antihistamine for itchiness. Every time you change clothes, boil them in warm water and then use them again. You also have to change bed sheets, pillow covers, etc., every day and reuse them by boiling them in water. It takes three weeks for scabies to go away with medication.",
+ "audio_seconds": 52.31,
+ "created_at": "2026-07-06T04:51:38+00:00",
+ "failed": false,
+ "text": "Your history of allergies suggests that your allergy has involved the skin because eczema is also allergic. If you want to get rid of these, go for allergy tests and immunotherapy to address both respiratory and skin systems. This time, you might have mixed scabies, which also look like allergies, and it spreads from one person to another in the family. You can treat it locally by applying crotamiton hydrochloride ointment twice daily and using emulsified scabicide lotion at night on the whole body for ten days. These can also be applied to other family members having this issue. You can take an as-needed antihistamine for itchiness, every time you change clothes, boil them in warm water and then use them again. You also have to change bed sheets, pillow covers, etc. Every day and reuse them by boiling them in water. It takes three weeks for scabies to go away with medication.",
+ "seconds": 1.721
+}

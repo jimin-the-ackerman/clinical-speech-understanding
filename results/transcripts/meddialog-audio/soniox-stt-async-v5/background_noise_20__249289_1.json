@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__249289_1",
+ "condition": "background_noise_20",
+ "reference": "I have been experiencing what can only be described as severe indigestion in my chest. My upper arms ache, as well as across the top of my shoulders and neck. It lasts for about half an hour, and I shake and feel cold when it leaves me. It happens in waves, and I have had this for four days now.",
+ "audio_seconds": 16.64,
+ "created_at": "2026-07-06T02:46:53+00:00",
+ "failed": false,
+ "text": "I have been experiencing what can only be described as severe indigestion in my chest, my upper arms ache, as well as across the top of my shoulders and neck. It lasts for about half an hour, and I shake and feel cold when it leaves me. It happens in waves, and I have had this for 4 days now.",
+ "seconds": 4.589
+}

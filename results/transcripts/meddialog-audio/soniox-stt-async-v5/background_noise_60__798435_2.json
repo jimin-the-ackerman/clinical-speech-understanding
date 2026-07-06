@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__798435_2",
+ "condition": "background_noise_60",
+ "reference": "Get a complete blood count done. See a skin specialist for evaluation of the red blotches. Perform back strengthening exercises from a physiotherapist.",
+ "audio_seconds": 9.64,
+ "created_at": "2026-07-06T02:55:53+00:00",
+ "failed": false,
+ "text": "Get a complete blood count done, see a skin specialist for evaluation of the red blotches, perform back strengthening exercises from a physiotherapist.",
+ "seconds": 7.91
+}

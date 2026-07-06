@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__976530_2",
+ "condition": "background_noise_40",
+ "reference": "All your symptoms sound like a cardiac problem. As you have not mentioned your age, it is difficult to say exactly what is causing the swelling, but any kind of disease that leads to fluid buildup in your chest can cause these types of symptoms. See a doctor urgently.",
+ "audio_seconds": 15.96,
+ "created_at": "2026-07-06T00:43:43+00:00",
+ "failed": false,
+ "text": "All the symptoms sound like a heart attack. However, any kind of disease that leads to fluid build-up in the chest can cause these types of symptoms. See a doctor today.",
+ "seconds": 0.758
+}

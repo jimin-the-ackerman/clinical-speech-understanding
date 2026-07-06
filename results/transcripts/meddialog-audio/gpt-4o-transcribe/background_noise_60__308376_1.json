@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__308376_1",
+ "condition": "background_noise_60",
+ "reference": "I had a blister come up on my cheekbone under my right eye the other night. It was gone within two hours. Tonight, I have another one come up, same place but under my left eye this time, and it is twice the size. My entire cheek is very warm to the touch, and the blister area is itchy. I am on no medication and have no allergies. However, I do suffer from psoriasis and irritable bowel syndrome. It doesn't look like psoriasis; it looks like a water-filled blister. It's already going down again. I am just curious as to what it might be.",
+ "audio_seconds": 35.24,
+ "created_at": "2026-07-06T00:43:57+00:00",
+ "failed": false,
+ "text": "I had a blister come up on my cheekbone under my right eye the other night. It was gone within two hours. Tonight, I have another one come up. Same place but under my left eye this time, and it is twice the size. My entire cheek is very warm to the touch, and the blister area is itchy. I am on no medication and have no allergies. However, I do suffer from psoriasis and irritable bowel syndrome. It doesn't look like psoriasis. It looks like a water-filled blister. It's already going down again. I am just curious as to what it might be.",
+ "seconds": 1.994
+}

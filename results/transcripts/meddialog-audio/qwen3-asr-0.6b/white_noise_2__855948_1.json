@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__855948_1",
+ "condition": "white_noise_2",
+ "reference": "I was feeling fine the other day. I have panic attacks and I have been overwhelmed with too much stress. I was talking fast and slurred my words a little for about two or three minutes. Then I had someone on my mind; I knew who I was talking to, but I said the other person's name and then I really panicked. What can I do to stop these attacks? I worry for no reason.",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T05:11:12+00:00",
+ "failed": false,
+ "text": "I was really fine the other day. I have panic attacks and I have been overwhelmed with too much stress. I was talking fast and slurred my words a little for about two or three minutes. Then I hit someone on my mind. I knew who I was talking to, but I said the other person's name and then I really panicked. What can I do to stop these attacks? I worry for no reason.",
+ "seconds": 0.786
+}

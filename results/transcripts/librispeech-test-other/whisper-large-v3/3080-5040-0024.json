@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5040-0024",
+ "condition": null,
+ "reference": "FOR MY LIFE I CANNOT BEAT INTO THEIR HEADS A PASSION THAT MUST BE SUBJECT TO NO DECAY AN EVEN PERFECT KINDNESS THAT MUST LAST PERPETUALLY WITHOUT THE LEAST INTERMISSION",
+ "audio_seconds": 12.92,
+ "created_at": "2026-07-05T12:58:02+00:00",
+ "failed": false,
+ "text": "for my life i cannot beat into their heads a passion that must be subject to no decay an even perfect kindness that must last perpetually without the least intermission",
+ "seconds": 0.291
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__827659_2",
+ "condition": "background_noise_40",
+ "reference": "Why do you need general anesthesia in the first place? Wisdom tooth extraction is a daycare minor surgery and can easily be performed under local anesthesia. You may also ask for conscious sedation. General anesthesia is administered by trained anesthesiologists and poses little or no danger to life when managed by experts.",
+ "audio_seconds": 17.49,
+ "created_at": "2026-07-06T04:56:29+00:00",
+ "failed": false,
+ "text": "Why do you need general anesthesia? Wisdom tooth extraction is a day care minor surgery and can easily be performed under local anesthesia. You may also ask for conscious sedation. General anesthesia is administered by trained anesthesiologists and poses little or no danger to life when managed by experts.",
+ "seconds": 0.531
+}

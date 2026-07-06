@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0027",
+ "condition": null,
+ "reference": "HE WAS OFTEN MOANING AND MOURNING THAT WAY NIGHTS WHEN HE JUDGED I WAS ASLEEP AND SAYING PO LITTLE LIZABETH",
+ "audio_seconds": 7.87,
+ "created_at": "2026-07-05T12:57:33+00:00",
+ "failed": false,
+ "text": "he was often moaning and mourning that way nights when he judged i was asleep and saying poor little elizabeth",
+ "seconds": 0.254
+}

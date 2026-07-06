@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__726979_2",
+ "condition": "clean",
+ "reference": "Lysol is a phenolic compound that may cause poisoning by absorption through the skin. It can cause burns and dermatitis. We should apply a barrier cream to the hands and exposed skin before spraying. If it could have been poisoning, the effects could be immediate. Lysol never causes brain damage; there is no evidence or literature supporting that. Regarding tingling and numbness, they are considered paresthesias. Usually, we see this in patients with neuropathy or with low calcium levels. Even delayed neuropathy is not reported with Lysol. It is just a cresol compound that causes skin irritation and dermatitis, so don't worry. We should rule out other causes if symptoms persist.",
+ "audio_seconds": 45.48,
+ "created_at": "2026-07-06T04:27:23+00:00",
+ "failed": false,
+ "text": "Lysol is a phenolic compound that may cause poisoning by absorption through the skin. It can cause burns and dermatitis. We should apply a barrier cream to the hands and expose skin before spraying. If it could have been poisoning, the effects could be immediate. Lysol never causes brain damage. There is no evidence or literature supporting that. Regarding tingling and numbness, they are considered paresthesias. Usually, we see this in patients with neuropathy or with low calcium levels. Even delayed neuropathy is not reported with Lysol. It is just a creosol compound that causes skin irritation and dermatitis. So don't worry, we should rule out other causes if symptoms persist.",
+ "seconds": 1.249
+}

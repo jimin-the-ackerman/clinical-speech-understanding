@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63240-0012",
+ "condition": null,
+ "reference": "HE LOOKED AT MISSUS LUNA WITH INTELLIGENT INCREDULITY",
+ "audio_seconds": 3.81,
+ "created_at": "2026-07-05T13:04:40+00:00",
+ "failed": false,
+ "text": "he looked at mrs luna with intelligent incredulity you",
+ "seconds": 0.258
+}

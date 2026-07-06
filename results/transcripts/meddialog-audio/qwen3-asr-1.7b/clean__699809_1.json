@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__699809_1",
+ "condition": "clean",
+ "reference": "Hi, I am twenty weeks pregnant and have been having really bad back pain for about a week now. I also have a lot of pain in my right lower abdomen, and it sometimes stops me from moving. It hurts if I touch the area, and when I do touch it, it also hurts in my back and I experience shooting pain in my back passage and vagina.",
+ "audio_seconds": 20.31,
+ "created_at": "2026-07-06T05:29:40+00:00",
+ "failed": false,
+ "text": "Hi, I am 20 weeks pregnant and have been having really bad back pain for about a week now. I also have a lot of pain in my right lower abdomen, and it sometimes stops me from moving. It hurts if I touch the area, and when I do touch it, it also hurts in my back, and I experience shooting pain in my back passage and vagina.",
+ "seconds": 0.761
+}

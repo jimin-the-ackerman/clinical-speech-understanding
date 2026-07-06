@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__369836_2",
+ "condition": "white_noise_10",
+ "reference": "The non-surgical management includes wrist range of motion exercises and an analgesic when required. Hope this helps.",
+ "audio_seconds": 7.85,
+ "created_at": "2026-07-06T04:29:35+00:00",
+ "failed": false,
+ "text": "The non-surgical management includes wrist range of motion exercises and an NLT just when required. Hope this helps.",
+ "seconds": 0.3
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__922733_1",
+ "condition": "background_noise_40",
+ "reference": "Hi. I started using the Ortho Evra birth control patch two months ago, but it fell off early. I am experiencing nausea with some vomiting all day, every day for the past two weeks, tender, swollen, hot, painful breasts, serious fatigue sleeping eighteen to twenty-two hours a day, lower back pain, cramping, and slight spotting. Do you think this is due to the birth control, or do you think it may be a pregnancy?",
+ "audio_seconds": 28.76,
+ "created_at": "2026-07-06T02:52:55+00:00",
+ "failed": false,
+ "text": "Hi. I started using the Orville Ever Birth Control patch 2 months ago, but it fell off early. I am experiencing nausea with some vomiting all day, every day for the past 2 weeks: tender, swollen, hot, painful breasts, serious fatigue sleeping 18-22 hours a day, lower back pain, cramping, and slight spotting. Do you think this is due to the birth control, or do you think it may be a pregnancy?",
+ "seconds": 5.522
+}

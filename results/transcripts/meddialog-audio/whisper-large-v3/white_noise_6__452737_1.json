@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__452737_1",
+ "condition": "white_noise_6",
+ "reference": "Hello. I have been experiencing stomach pain for about seven months now. In the beginning, I was constipated for about three weeks and finally had black, tarry stool. That is gone; however, I still have severe abdominal pain. I had an endoscopy today, but everything came back negative. The doctor suggested another endoscopy. What should I do? The pain is becoming unbearable, but everything is indicating that it is simply in my head.",
+ "audio_seconds": 26.71,
+ "created_at": "2026-07-06T04:37:07+00:00",
+ "failed": false,
+ "text": "Hello. I have been experiencing stomach pain for about seven months now. In the beginning, I was constipated for about three weeks and finally had black terry stool. That is gone. However, I still have severe abdominal pain. I had an endoscopy today, but everything came back negative. The doctor suggested another endoscopy. What should I do? The pain is becoming unbearable, but everything is indicating that it is simply in my head.",
+ "seconds": 0.763
+}

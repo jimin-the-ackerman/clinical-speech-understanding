@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0037",
+ "condition": null,
+ "reference": "AND A CLOSE OBSERVER MIGHT HAVE OBSERVED THAT HE DID NOT TOUCH HIS BARE FINGERS TO THE TIMEPIECE BUT POKED IT ABOUT AND TOUCHED IT HERE AND THERE WITH THE END OF A LEADPENCIL",
+ "audio_seconds": 10.91,
+ "created_at": "2026-07-06T02:33:51+00:00",
+ "failed": false,
+ "text": "And a close observer might have observed that he did not touch his bare fingers to the timepiece, but poked it about and touched it here and there with the end of a lead pencil.",
+ "seconds": 4.621
+}

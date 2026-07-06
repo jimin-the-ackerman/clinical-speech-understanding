@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__738448_1",
+ "condition": "white_noise_10",
+ "reference": "After a chest X-ray, my doctor told me I have a heterogeneous opacity in the right middle lobe. I am not sure what that means and what it is. I am not sick, but he is treating me with Ciprofloxacin and wants a follow-up X-ray in thirty days. What causes this and is it serious? I am sixty-eight years old.",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T03:03:27+00:00",
+ "failed": false,
+ "text": "After we prepped that tray, I was also told we all have a history of being in capacity in the right middle row. I am not sure what that means, and what it is. I am not sure, but I do assume you used triple phosphorus and went to follow-up after in 30 days. But causes this, and you'll be curious. I am 68 years old.",
+ "seconds": 5.98
+}

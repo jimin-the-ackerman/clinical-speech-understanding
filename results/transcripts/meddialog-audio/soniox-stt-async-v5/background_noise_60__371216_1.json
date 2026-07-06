@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__371216_1",
+ "condition": "background_noise_60",
+ "reference": "I have been experiencing sharp stabbing pains on the left side of my chest. They come quickly and last for about a minute. Just this afternoon, the stabbing pain has prolonged and radiated to my left shoulder blade. I have an achy pain in my shoulder and arm. I do not know if I need to go to the emergency room or wait to call my cardiologist. I am a twenty-seven-year-old female with a previous atrial septal defect repair at age five and a mitral valve replacement three years ago after having congestive heart failure. I do not know if this contributes to anything.",
+ "audio_seconds": 32.68,
+ "created_at": "2026-07-06T02:54:16+00:00",
+ "failed": false,
+ "text": "I have been experiencing sharp sounding pains on the left side of my chest. They come quickly and last for about a minute. Just this afternoon the stabbing pain has prolonged and radiated to my left shoulder blade. I have an achy pain in my shoulder and arm. I do not know if I need to go to the emergency room or wait to call my cardiologist. I am a 27-year-old female with a previous atrial septal defect repair at age 5 and a mitral valve replacement 3 years ago after having congestive heart failure, but I do not know if this is to anything.",
+ "seconds": 7.993
+}

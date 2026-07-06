@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__717181_2",
+ "condition": "white_noise_10",
+ "reference": "Not to worry much, as it could just be a bursa, lipoma, or a lymph node. It would be best to get examined by a surgeon for the best opinion. All the best!",
+ "audio_seconds": 9.22,
+ "created_at": "2026-07-06T04:31:05+00:00",
+ "failed": false,
+ "text": "Not to worry, as it could be aversive, whichever, or a weird thing. It would be best to get a new device, and for the best of me, all the best!",
+ "seconds": 0.411
+}

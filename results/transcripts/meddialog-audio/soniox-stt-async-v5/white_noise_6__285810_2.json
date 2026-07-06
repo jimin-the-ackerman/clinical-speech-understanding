@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__285810_2",
+ "condition": "white_noise_6",
+ "reference": "As mentioned in your narrative, I believe you are a young adult, and you may be experiencing just a muscle spasm and nothing else. For this, you should take some painkillers with a muscle relaxant like Tablet Dan-MR or Tablet Osteonac-Th twice daily after meals when your back pain is severe enough to disturb your routine activities, along with Tablet Shalcal five hundred milligrams once daily after meals with Tablet Rantac or Tablet Famotidine twice daily before meals. You can also use Volidup Gel or Powergesic-Plus Gel for local application, as it is quite helpful in relieving your back pain and muscle spasm.",
+ "audio_seconds": 36.27,
+ "created_at": "2026-07-06T03:09:28+00:00",
+ "failed": false,
+ "text": "As mentioned in your narrative, I believe you are in heavy golf, and you may be experiencing just a muscle spasm and nothing else. For this, you should take some painkillers with a muscle relaxant like Tablet Beta-Car or Tablet Osteonet Fast, twice daily after meals so your back is near enough to disturb your routine activities, along with Tablet Shallfall 500 mg once daily after meals, Tablet Ranpak or Tablet Famotidine twice daily before meals. You can also use Volodub Gel or Power Dizzy Plus Gel for local application, as it is quite helpful in relieving your back pain and muscle spasm.",
+ "seconds": 8.321
+}

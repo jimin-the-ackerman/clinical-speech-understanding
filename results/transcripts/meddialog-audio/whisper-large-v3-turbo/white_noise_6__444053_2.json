@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__444053_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. I completely understand that you are suffering from first metacarpophalangeal joint arthritis. This condition occurs when you engage in repetitive twisting motions of the thumb. This is partly confirmed by the vague bulge in the joint region. I would suggest getting an X-ray of the hand to confirm the diagnosis. In the meantime, I would recommend a treatment protocol. Minimize repeated use of the joint. Obtain X-rays of the hand in anteroposterior and lateral views. Manage rheumatoid nodules and arthritis of the first metacarpophalangeal joint. Take Lornoxicam and Paracetamol twice daily after meals for one week, take Rabeprazole twenty milligrams once daily before breakfast for one week, take Tendofit Forte twice daily after meals for one week, and apply Diclofenac Sodium gel twice a day for local application. Additionally, perform hot fomentation twice a day. Please do not use the same thumb for at least two weeks and follow up with the reports.",
+ "audio_seconds": 61.18,
+ "created_at": "2026-07-06T04:48:36+00:00",
+ "failed": false,
+ "text": "Hello. I completely understand that you are suffering from first metacarpothalangeal joint arthritis. This condition occurs when you engage in repetitive twisting motions of your thumb. This is partly confirmed of bulge in the joint region. I would suggest getting an x-ray of the hand to confirm the diagnosis. In the meantime, I would recommend a treatment protocol. Minimize repeated use of the joint. Obtain x-rays of the hand in anteo-posterior and lateral glues. Manage rheumatoid nodules and arthritis of the first metacarpothalangeal. Take lorinoxacam and paracetamol twice daily after meals for one week. Take ribeprazole 20mg once daily before breakfast for one week. Take tendal fit forte twice daily after meals for one week. And apply diclofenac sodium gel twice a day for the patient. Additionally, perform hot fomentation twice a day. Please do not use the same thumb for at least two weeks and follow up with the report.",
+ "seconds": 0.606
+}

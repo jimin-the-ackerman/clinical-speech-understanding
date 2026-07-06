@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__963355_1",
+ "condition": "clean",
+ "reference": "Hi, I am a diabetic, and I have a corn on my small toe. I am from England and used to go to the chiropodist once a month to have this removed. I last had it done one year ago, so you can imagine how painful this is. Is there any help I can get for this corn, please? I would also like to mention that I am seventy-eight years old.",
+ "audio_seconds": 20.31,
+ "created_at": "2026-07-06T04:45:14+00:00",
+ "failed": false,
+ "text": "I am a diabetic and I have a corn on my small toe. I am from England and used to go to the Chiropodist once a month to have this removed. I last had it done one year ago so you can imagine how painful this is. Is there any help I can get for this corn please? I would also like to mention that I am 78 years old.",
+ "seconds": 0.245
+}

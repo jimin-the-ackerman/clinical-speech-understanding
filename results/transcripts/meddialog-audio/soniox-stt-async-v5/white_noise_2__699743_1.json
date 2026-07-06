@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__699743_1",
+ "condition": "white_noise_2",
+ "reference": "Dear Madam, I am thirty-four years old and I have been a diabetic since the age of twenty-five. I am on tablets. I take Glimsev one-zero-one, Glysipage one-one-one, and Voglitor one-zero-one. I have a nine-year-old daughter; I conceived her during the first cycle of intrauterine insemination at GG Hospital in Chennai. I was using a Copper T, which I removed in two thousand and eight. During the intrauterine insemination process, there was an ectopic pregnancy in the right tube, and it was sterilized at the time of the lower segment cesarean section. Even though we are not using any birth control since removing the Copper T, I am unable to conceive. My periods are regular. What are the chances of conceiving naturally?",
+ "audio_seconds": 45.99,
+ "created_at": "2026-07-06T03:07:31+00:00",
+ "failed": false,
+ "text": "Dear Madam, I am 34 years old and I have been a diabetic since the age of 25. I am on tablets; I take Glimepirid 101, Glisepage 111, and Vogrator 101. I have a 9-year-old daughter; teacher during the first cycle of intrauterine insemination at GG Hospital in Chennai. I was using a copper teeth, which I removed in 2008. During the intrauterine insemination process, there was an ectopic pregnancy in the right tube, and it was sterilized at the time of the lower-segment cesarean section. Even though we are not using any birth control since removing the copper teeth, I am unable to conceive. My periods are regular. What are the chances of conceiving naturally?",
+ "seconds": 8.403
+}

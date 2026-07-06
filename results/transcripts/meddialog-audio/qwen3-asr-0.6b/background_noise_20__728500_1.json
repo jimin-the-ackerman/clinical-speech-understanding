@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__728500_1",
+ "condition": "background_noise_20",
+ "reference": "Good evening, Doctor! My husband is in Dubai right now. He is not feeling well but he continues his work. He has a cough, his fever is on and off. The worst thing that he feels right now is back pain in the upper part of his body. What do you think he is suffering from right now? Please answer, and thank you!",
+ "audio_seconds": 19.29,
+ "created_at": "2026-07-06T04:52:14+00:00",
+ "failed": false,
+ "text": "Good evening, Doctor. My husband is in Dubai right now. He is not feeling well, but he continues his work. He has a cough, his feet on and off. The worst thing that he feels right now is back pain in the upper part of his body. What do you think he is suffering from right now? Please answer, and thank you.",
+ "seconds": 0.666
+}

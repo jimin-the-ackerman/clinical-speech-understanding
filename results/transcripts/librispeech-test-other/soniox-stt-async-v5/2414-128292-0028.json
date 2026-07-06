@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128292-0028",
+ "condition": null,
+ "reference": "BEWARE LEST IN THE END A NARROW FAITH CAPTURE THEE A HARD RIGOROUS DELUSION",
+ "audio_seconds": 8.08,
+ "created_at": "2026-07-06T00:02:04+00:00",
+ "failed": false,
+ "text": "Beware lest in the end a narrow faith capture thee a hard, reckless delusion.",
+ "seconds": 4.701
+}

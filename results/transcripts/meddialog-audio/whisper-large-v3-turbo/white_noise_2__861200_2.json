@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__861200_2",
+ "condition": "white_noise_2",
+ "reference": "Please provide some details about your problem and findings in the MRI of the brain. Without details, no one can give you any insight.",
+ "audio_seconds": 7.68,
+ "created_at": "2026-07-06T04:47:58+00:00",
+ "failed": false,
+ "text": "Please provide some details about your problem and findings in the MRI of the brain. Without details, no one can give you any insight.",
+ "seconds": 0.176
+}

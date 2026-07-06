@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__197736_1",
+ "condition": "white_noise_10",
+ "reference": "My boyfriend and I were treated for chlamydia on Monday, and we did not vomit the antibiotics. It is Wednesday now, and we had sex using a condom. Is this okay? I am really nervous that we could get re-infected. I will contact the health unit, but will we be okay?",
+ "audio_seconds": 18.09,
+ "created_at": "2026-07-06T03:00:53+00:00",
+ "failed": false,
+ "text": "May I briefly deny the speed of proximity on Monday, and you did not vomit the end of that? It is Wednesday now, and we have sex within a conduit. Is this okay? I'm a little nervous that it could get reinfected. I will contact the health unit, but it will be—",
+ "seconds": 4.855
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__923481_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. Yes, you are correct; fluvoxamine has a side effect of increased sedation. Due to the sedation, a person feels lethargic. You can try this: if fluvoxamine is causing sedation, you can shift the medication to night time, just before sleeping. This should address your problem. If this does not resolve your issue, you can try another selective serotonin reuptake inhibitor, sertraline, which is a safer option for patients with heart disease, as you have already tried escitalopram and paroxetine.",
+ "audio_seconds": 28.42,
+ "created_at": "2026-07-06T05:34:27+00:00",
+ "failed": false,
+ "text": "Hello. Yes, you are correct. We've also made an exciting speech installation. What is this about? A person who has lost. We can try this. If we've also made this conversation, we finish the meditation now. Just for four seconds. This should have resolved. If this does not resolve your issues, you can try another selected therapy, the updating method, which is a safer option for patients with heart disease, as you have already tried escitalopram, amitriptyline.",
+ "seconds": 0.964
+}

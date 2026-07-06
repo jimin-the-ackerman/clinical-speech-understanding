@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168670-0048",
+ "condition": null,
+ "reference": "WHO IS THERE WHO HAS NOT SAID TO A CAT DO COME IN",
+ "audio_seconds": 4.05,
+ "created_at": "2026-07-05T12:59:55+00:00",
+ "failed": false,
+ "text": "Who is there who has not said to a cat, do come in?",
+ "seconds": 0.194
+}

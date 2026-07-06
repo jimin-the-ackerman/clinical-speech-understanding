@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__679720_2",
+ "condition": "background_noise_60",
+ "reference": "It could have been a spasm of the abdominal muscles because of the sudden and explosive sneezing. The sneeze reflex involves the contraction of a number of different muscles and muscle groups throughout the body, including abdominal muscles, which contract suddenly to increase the pressure within the abdomen. This action pushes the diaphragm upwards and is one of the actions performed during a sneeze. I wouldn't worry about it if the pain subsided completely within a short time. I hope I have answered your question. Please feel free to get back to me in case you have any more doubts.",
+ "audio_seconds": 29.53,
+ "created_at": "2026-07-06T04:23:12+00:00",
+ "failed": false,
+ "text": "could have been a spasm of the abdominal muscles because of the sudden and explosive sneezing sneeze reflex involves the contraction of a number of different muscles in muscle groups throughout the body including abdominal muscles which contracts suddenly to increase the pressure within the abdomen this action pushes the diaphragm upwards as one of the actions performed during a sneeze i wouldn't worry about it if the pain subsided completely within a short time i hope i have answered your question please feel free to get back to me in case you have any more doubts",
+ "seconds": 1.218
+}

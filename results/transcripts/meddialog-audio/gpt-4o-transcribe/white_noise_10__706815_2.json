@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__706815_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. Before discussing the progression of scoliosis, I would like to clarify some facts about it. one) The Cobb angle is a measure of the curvature of the spine in degrees. This helps to determine what type of treatment is necessary. A Cobb angle of ten degrees is regarded as the minimum angulation to define scoliosis. two) A scoliosis curve of ten to fifteen degrees normally does not require any treatment except for regular check-ups. three) If the scoliosis curve is twenty to forty degrees, the orthopedic doctor will prescribe a back brace to help keep the spine from developing more of a curve. four) Curves greater than forty-five degrees require corrective surgery involving many pedicle screws and osteotomies to correct the curvature. I hope you have an X-ray done of your spine, as it will be easy to measure the curvature properly.",
+ "audio_seconds": 56.92,
+ "created_at": "2026-07-06T00:46:00+00:00",
+ "failed": false,
+ "text": "After that I worked at a gas station, then I worked at a knife factory, then I worked at a picture frame factory.",
+ "seconds": 1.523
+}

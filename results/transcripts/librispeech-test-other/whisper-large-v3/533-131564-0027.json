@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131564-0027",
+ "condition": null,
+ "reference": "AFTER THAT THEY WILL REPAIR TO THEIR COUNTRY HOME",
+ "audio_seconds": 3.38,
+ "created_at": "2026-07-05T13:03:00+00:00",
+ "failed": false,
+ "text": "After that, they were prepared to their country home.",
+ "seconds": 0.171
+}

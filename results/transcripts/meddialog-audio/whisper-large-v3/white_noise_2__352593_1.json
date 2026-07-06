@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__352593_1",
+ "condition": "white_noise_2",
+ "reference": "My daughter is five years old and has been toilet trained since she was three throughout the night, with the occasional accident. She has recently started having accidents during the night and sometimes complains of abdominal pain as well. She has had odd pains; could it be connected?",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T04:33:10+00:00",
+ "failed": false,
+ "text": "my daughter is five years old and has been toilet trained since she was three throughout the night with the occasional accident she has recently started having accidents during the night and sometimes complains of abdominal pain as well she has had odd pains could it be connected",
+ "seconds": 0.455
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__657772_2",
+ "condition": "background_noise_40",
+ "reference": "Hi there! Your description does not refer to a fracture, definitely! Try to palpate the nasal bone on both sides; if it is painful, then a fracture is possible. You should be concerned if the nose is deformed. Undisplaced nasal fractures will heal over time. You can obtain an X-ray to confirm the diagnosis and to ease your mind. I hope this helps.",
+ "audio_seconds": 19.03,
+ "created_at": "2026-07-06T00:43:25+00:00",
+ "failed": false,
+ "text": "Hi there, your description does not refer to a fracture, definitely. Try to palpate the nasal bone on both sides, if it is painful then a fracture is possible. You should be concerned if the nose is deformed. Undisplaced nasal fractures will heal over time, you can obtain an X-ray to confirm the diagnosis and to ease your mind. I hope this helps.",
+ "seconds": 1.21
+}

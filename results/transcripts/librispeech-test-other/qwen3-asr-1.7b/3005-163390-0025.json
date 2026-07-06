@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0025",
+ "condition": null,
+ "reference": "WHEN I WAKED UP JUST AT DAYBREAK HE WAS SITTING THERE WITH HIS HEAD DOWN BETWIXT HIS KNEES MOANING AND MOURNING TO HIMSELF",
+ "audio_seconds": 8.35,
+ "created_at": "2026-07-06T03:28:24+00:00",
+ "failed": false,
+ "text": "When I waked up just at daybreak, he was sitting there with his head down betwixt his knees, moaning and mourning to himself.",
+ "seconds": 0.34
+}

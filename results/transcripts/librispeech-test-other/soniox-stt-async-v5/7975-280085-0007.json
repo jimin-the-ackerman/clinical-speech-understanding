@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280085-0007",
+ "condition": null,
+ "reference": "HE HAD TO SLEEP WITH IT PILLOWED ON MY BREAST JIM BEING ALSO CRIPPLED WITH A WOUND IN HIS SHOULDER AND WE COULD NOT GET MUCH SLEEP",
+ "audio_seconds": 6.69,
+ "created_at": "2026-07-06T02:38:38+00:00",
+ "failed": false,
+ "text": "He had to sleep with a pillow on my breast, Jim being also a cripple with a wound in his shoulder, and we could not get much sleep.",
+ "seconds": 5.122
+}

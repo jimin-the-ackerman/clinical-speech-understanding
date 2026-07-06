@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__309144_1",
+ "condition": "background_noise_40",
+ "reference": "I took a Plan B pill today right after my partner and I had sex. Unfortunately, two hours later after taking the pill, one thing led to another, and we had unprotected sex again. Does that mean I can be pregnant, or does the pill already cover it too? Should I take another Plan B pill?",
+ "audio_seconds": 16.81,
+ "created_at": "2026-07-06T04:18:04+00:00",
+ "failed": false,
+ "text": "I took a Plan B pill today right after my partner and I had sex. Unfortunately, two hours later after taking the pill, one thing led to another and we had unprotected sex again. But as that night can be pregnant, he'll already cover it too. Should I take another Plan B pill?",
+ "seconds": 0.831
+}

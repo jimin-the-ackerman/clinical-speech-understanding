@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2330-0037",
+ "condition": null,
+ "reference": "THE POPULAR SONG OF THE MOMENT REPLIED THE AGITATOR AFTER A MOMENT'S REFLECTION",
+ "audio_seconds": 5.92,
+ "created_at": "2026-07-06T03:35:58+00:00",
+ "failed": false,
+ "text": "The popular song of the moment,\" replied the agitator after a moment's reflection.",
+ "seconds": 0.201
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0009",
+ "condition": null,
+ "reference": "THE DEFENDERS FINDING THE CASTLE TO BE ON FIRE NOW DETERMINED TO SELL THEIR LIVES AS DEARLY AS THEY COULD AND HEADED BY DE BRACY THEY THREW OPEN THE GATE AND WERE AT ONCE INVOLVED IN A TERRIFIC CONFLICT WITH THOSE OUTSIDE",
+ "audio_seconds": 14.61,
+ "created_at": "2026-07-05T13:14:59+00:00",
+ "failed": false,
+ "text": "the defenders finding the castle to be on fire now determined to sell their lives as dearly as they could and headed by the bracy they threw open the gate and were at once involved in a terrific conflict with those outside",
+ "seconds": 0.138
+}

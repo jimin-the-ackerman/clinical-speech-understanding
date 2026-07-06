@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0033",
+ "condition": null,
+ "reference": "BUT MARJORIE AND EILEEN HAD ALREADY DEPARTED AND LESLIE AND JANE FOUND THEMSELVES AMONG THE LAST STUDENTS TO ARRIVE AT THE GREAT EAST HALL",
+ "audio_seconds": 8.71,
+ "created_at": "2026-07-05T13:14:41+00:00",
+ "failed": false,
+ "text": "but marjorie and eileen had already departed and leslie and jane found themselves among the last students to arrive at the great east hall",
+ "seconds": 0.126
+}

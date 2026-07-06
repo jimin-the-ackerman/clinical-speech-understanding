@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2330-0024",
+ "condition": null,
+ "reference": "THE CHIEF ORGANISER RANG OFF",
+ "audio_seconds": 2.83,
+ "created_at": "2026-07-06T02:35:47+00:00",
+ "failed": false,
+ "text": "The Chief Organizer Rangoff.",
+ "seconds": 4.64
+}

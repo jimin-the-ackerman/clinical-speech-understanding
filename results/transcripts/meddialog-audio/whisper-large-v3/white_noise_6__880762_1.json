@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__880762_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, I have a lump on the inside of my bottom lip. It has been there for over a month. It hasn't really grown, but I have been given ulcer cream. I have to use this cream for another week, and then I may have to see a mouth specialist. I am only twenty-one years old and do not smoke at all. The lump hasn't bled. Do I have any reason to worry? I have spoken to my cousin who is a doctor, and she says mouth cancer is very rare for a twenty-one-year-old, but I am still scared.",
+ "audio_seconds": 29.27,
+ "created_at": "2026-07-06T04:39:05+00:00",
+ "failed": false,
+ "text": "hi i have a lump on the inside of my bottom lip it has been there for over a month it hasn't really grown but i have been given ulcer cream i have to use this cream for another week and then i may have to see a mouth specialist i am only 21 years old and do not smoke at all the lump hasn't bled do i have any reason to worry i have spoken to my cousin who is a doctor and she says mouth cancer is there for a 21 year old but i am scared",
+ "seconds": 0.984
+}

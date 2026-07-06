@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__610856_1",
+ "condition": "white_noise_2",
+ "reference": "I have severe anxiety and panic attacks with longstanding depression. Xanax helps, but I cannot get a physician to prescribe a dosage strong enough that I feel is beneficial to me. I am not looking to get high; I am just looking forward to being able to have a more normal life. I have panic attacks that make me feel as though I have pressure on my chest and cannot breathe. I have tremors that are noticeable by other people, which makes me feel more anxious. I am in a horrible cycle, and I feel as though doctors think I just want more Xanax. It helps me tremendously by decreasing the intensity of the attacks. Please, any suggestions? Severely nervous and sleepless in New York.",
+ "audio_seconds": 37.21,
+ "created_at": "2026-07-06T04:34:19+00:00",
+ "failed": false,
+ "text": "I have severe anxiety and panic attacks with long-standing depression. Xanax help cannot get a physician to prescribe a dosage strong enough that I feel is beneficial to me. I am not looking to get high, I am just looking forward to being able to have a more normal life. I have panic attacks that make me feel as though I have pressure on my chest and cannot breathe. I have tremors that are noticeable by other people, which makes me feel more anxious. I am in a horrible cycle, and I feel as though doctors think I just want more Xanax. It helps me tremendously by decreasing the intensity of the attacks. Please, any suggestions? Severely nervous and sleepless in New York.",
+ "seconds": 1.201
+}

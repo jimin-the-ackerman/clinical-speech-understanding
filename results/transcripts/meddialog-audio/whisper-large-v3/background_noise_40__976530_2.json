@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__976530_2",
+ "condition": "background_noise_40",
+ "reference": "All your symptoms sound like a cardiac problem. As you have not mentioned your age, it is difficult to say exactly what is causing the swelling, but any kind of disease that leads to fluid buildup in your chest can cause these types of symptoms. See a doctor urgently.",
+ "audio_seconds": 15.96,
+ "created_at": "2026-07-06T04:20:45+00:00",
+ "failed": false,
+ "text": "All these symptoms sound like a cardiac arrest. As you have not entered the cage, it is difficult to see exactly what is causing the trauma. So, any kind of disease that leads to fear of being opened in the chest, it only has these types of symptoms. See you, Dr. Lee.",
+ "seconds": 0.552
+}

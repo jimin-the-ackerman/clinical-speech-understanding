@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__606109_1",
+ "condition": "white_noise_6",
+ "reference": "I am working on an assignment for university - preparing a return to work for a laborer who has had the distal phalanges of the middle right hand amputated. Would this require the wound to be open? As this will affect the type of duties he could perform during the first four weeks after the operation, can you tell me what a person would or would not be capable of doing in the workplace?",
+ "audio_seconds": 22.02,
+ "created_at": "2026-07-06T03:10:52+00:00",
+ "failed": false,
+ "text": "I am working on an assignment for university, preparing a return-to-work for a laborer who has had the distal phalanges of the middle right hand amputated. Would this require the wound to be open? As this will affect the type of duties he could perform during the first 4 weeks after the operation, can you tell me what a person would or would not be capable of doing in the workplace?",
+ "seconds": 5.001
+}

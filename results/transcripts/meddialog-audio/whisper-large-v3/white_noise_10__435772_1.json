@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__435772_1",
+ "condition": "white_noise_10",
+ "reference": "My daughter is twenty-eight years old and lives at home. She has had anxiety issues for some time, but in the last four to five months, she has stopped being social. She won't come into a room when we are there and expects us to leave so she can be in the kitchen or go down the hall to use the bathroom. It is getting worse and very difficult to live with.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T04:29:51+00:00",
+ "failed": false,
+ "text": "My daughter is 20 years older than most of us. She has had anxiety issues for some time. But in the last 4-5 months, she has stopped being focused. She won't come into a room when you are there except for you so she can have your cooking, or go down the stairs when you are back. It is getting worse and very difficult to live there.",
+ "seconds": 0.706
+}

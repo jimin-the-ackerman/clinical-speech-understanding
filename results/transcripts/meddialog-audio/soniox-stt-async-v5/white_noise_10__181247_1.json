@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__181247_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, I am a natural bodybuilder, twenty years old, and I am looking for techniques to increase muscle mass. Do you have any information I could use to my advantage? I have also recently gained interest in myostatin inhibition through follistatin and other methods.",
+ "audio_seconds": 16.98,
+ "created_at": "2026-07-06T03:00:50+00:00",
+ "failed": false,
+ "text": "Hi, I am a natural bodybuilder, 20 years old, and I am looking for techniques to increase muscle mass. Do you have any information I could use to my advantage? I have also recently gained interest in myostatin inhibition through furley statin and other methods.",
+ "seconds": 4.81
+}

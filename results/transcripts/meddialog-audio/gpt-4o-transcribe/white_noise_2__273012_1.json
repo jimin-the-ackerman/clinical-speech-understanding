@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__273012_1",
+ "condition": "white_noise_2",
+ "reference": "My wife has had pain on her right side below the ribcage for two weeks. It is a constant sharp pain. The emergency room physician said her blood work was good and her ultrasound for the gallbladder was fine. Yet it is still there. I can squeeze her side and feel that it is a small spherical structure that is movable freely. She is an African American female, forty-six years of age, weighing three hundred and twenty-five pounds. Please advise on what this may be.",
+ "audio_seconds": 29.78,
+ "created_at": "2026-07-06T00:46:24+00:00",
+ "failed": false,
+ "text": "My wife said he not right side of road is. In the cockpit sharp pain. Irresistible position of body or the office on the car drivers arm. You must remain. It sweet desired you but it is more irresistible than you book you. In the bathroom yet he not. Who is the Tuesday may be mother the train platform. He is in by them defending.",
+ "seconds": 1.779
+}

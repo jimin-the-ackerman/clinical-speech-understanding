@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__777968_2",
+ "condition": "background_noise_40",
+ "reference": "First of all, have your hormone levels tested, namely follicle-stimulating hormone, luteinizing hormone, and testosterone. If they are normal and you desperately want treatment, then you may consider surgery. There is a procedure called subcutaneous mastectomy. If the hormones are abnormal, then it can be managed through medications. I hope this helps you.",
+ "audio_seconds": 24.41,
+ "created_at": "2026-07-06T04:42:03+00:00",
+ "failed": false,
+ "text": "First of all, have your hormone levels tested. Mainly follicle, stimulating hormone, luteinizing hormone, and testosterone. If they are normal and you desperately want treatment, then you may consider surgery. There is a procedure called subcutaneous mastectomy. If the hormones are abnormal, then it can be managed through medications. I hope this helps you.",
+ "seconds": 0.273
+}

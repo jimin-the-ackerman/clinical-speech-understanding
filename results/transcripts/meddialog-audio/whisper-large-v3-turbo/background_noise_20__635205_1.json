@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__635205_1",
+ "condition": "background_noise_20",
+ "reference": "Hello! My granddaughter, Niah, is sixteen months old. The other night, my daughter woke up and found Niah choking on thick vomit. My daughter said the thickness and texture were similar to that of a cat's hairball. This is not the first time she has choked on her vomit, but when my daughter took her to the doctor, she said this is normal? We are both worried - I have never heard of this happening to anyone else before. Do you have any idea what could be causing this or if it is serious?",
+ "audio_seconds": 27.39,
+ "created_at": "2026-07-06T04:40:21+00:00",
+ "failed": false,
+ "text": "hello my granddaughter naya is 16 months old the other night my daughter woke up and found nyan choking on thick vomit my dog thickness and texture were similar to that of a cat's hairball this is not the first time she has choked on her vomit but when my daughter took her to the doctor she said this is normal we are both worried i have never heard of this happening to anyone else before do you have any idea what could be causing this or if it is serious",
+ "seconds": 0.348
+}

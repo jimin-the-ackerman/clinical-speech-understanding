@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28319-0023",
+ "condition": null,
+ "reference": "MISTER WICKER BEGAN MOVING ABOUT UPSTAIRS THE FLOORBOARDS CREAKED AND STILL CHRIS COULD NOT LEAVE UNTIL THE POTION FUMED AND GLOWED",
+ "audio_seconds": 9.96,
+ "created_at": "2026-07-05T13:12:07+00:00",
+ "failed": false,
+ "text": "mr worker began moving about upstairs the floorboards creaked and still chris could not leave until the function fumed and glowed",
+ "seconds": 0.123
+}

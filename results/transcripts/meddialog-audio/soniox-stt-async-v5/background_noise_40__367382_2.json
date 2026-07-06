@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__367382_2",
+ "condition": "background_noise_40",
+ "reference": "What is your age? Usually, it is impingement, tendinitis, or rotator cuff tear that causes shoulder pain. There are many other reasons which can be excluded by examination and magnetic resonance imaging. Scapular dyskinesia also causes a similar problem. You might get better with some scapular stabilizing exercises and rotator cuff strengthening. See how you do with physical therapy.",
+ "audio_seconds": 23.13,
+ "created_at": "2026-07-06T02:50:47+00:00",
+ "failed": false,
+ "text": "What is your age? Usually it is impingement tendonitis or rotator cuff tear that causes shoulder pain; there are many other reasons which can be excluded by examination and magnetic resonance imaging. Scapular dyskinesia also causes a similar problem; you might get better with some scapular stabilizing exercises and rotator cuff strengthening. See how you do with physical therapy.",
+ "seconds": 5.243
+}

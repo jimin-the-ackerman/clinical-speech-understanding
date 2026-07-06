@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__947438_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, I do not think his problem will be continuous. He seems to be experiencing urge incontinence, which is most likely due to a urinary tract infection. Please get his urine routine examination and culture done and take antibiotics according to the culture sensitivity. You have not mentioned if your father is diabetic or not. Please get his blood sugar checked. Also, get an ultrasound of the abdomen to see if his prostate is enlarged. I wish him a speedy recovery.",
+ "audio_seconds": 29.01,
+ "created_at": "2026-07-06T05:23:10+00:00",
+ "failed": false,
+ "text": "I do not think his problem will be continuous. He seems to be experiencing urgent incontinence, which is most likely due to a urinary tract infection. Please get his urine routine examination and culture done, and take antibiotics according to the culture sensitivity. You have not mentioned if your father is diabetic or not. Please get his blood sugar checked. Also, get an ultrasound of the abdomen to see if his prostate is enlarged. I wish him a speedy recovery.",
+ "seconds": 0.87
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__950916_1",
+ "condition": "white_noise_10",
+ "reference": "I was asked to have a semen analysis test. I went to the lab, but I noticed great embarrassment. I entered the procedure room but could not achieve an erection for many minutes; my heart rate increased. Then I started rubbing wildly. I ejaculated very quickly with a very minimal erection. The test report said: sperm count = nil. I am very upset. What should I do now? There is no family history of infertility.",
+ "audio_seconds": 22.7,
+ "created_at": "2026-07-06T03:04:35+00:00",
+ "failed": false,
+ "text": "I was asked to have a semen analysis test, I went to the lab, but I noticed Rayden therapy. I entered the procedure room, but could not achieve an erection for many minutes; my heart rate increased, then I started rubbing wildly. I ejaculated very quickly with a very minimal erection. The test report said: sperm count: nil. I am very upset. What should I do now? There is no family history of infertility.",
+ "seconds": 8.06
+}

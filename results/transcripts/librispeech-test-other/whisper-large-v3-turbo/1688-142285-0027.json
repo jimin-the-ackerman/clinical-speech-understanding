@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0027",
+ "condition": null,
+ "reference": "I DON'T SET HIM UP FOR A HERO OR ANYTHING OF THAT KIND",
+ "audio_seconds": 4.16,
+ "created_at": "2026-07-05T11:47:31+00:00",
+ "failed": false,
+ "text": "i don't set him up for a hero or anything of that kind",
+ "seconds": 0.166
+}

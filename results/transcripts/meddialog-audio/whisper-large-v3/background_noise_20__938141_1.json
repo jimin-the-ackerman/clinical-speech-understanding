@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__938141_1",
+ "condition": "background_noise_20",
+ "reference": "Hi Doctor, I had vaginal sex with two condoms without any breakage two weeks ago. I do not know the person I had sex with and am not aware of whether she has Human Immunodeficiency Virus or not. Am I at risk of getting a Human Immunodeficiency Virus infection from vaginal sex with two condoms? Does the partner's fluid that touches the shaft cause Human Immunodeficiency Virus transmission?",
+ "audio_seconds": 24.06,
+ "created_at": "2026-07-06T04:16:54+00:00",
+ "failed": false,
+ "text": "Hi, doctor. I had vaginal sex with two condoms without any breakage two weeks ago. I do not know the person I had sex with and am not aware of whether she has human immunodeficiency virus or not. Am I at risk of getting a human immunodeficiency virus infection from vaginal sex with two condoms? Does the partner's fluid that touches the shaft's human immunodeficiency virus transmission?",
+ "seconds": 0.697
+}

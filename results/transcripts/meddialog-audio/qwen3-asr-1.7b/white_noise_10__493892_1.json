@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__493892_1",
+ "condition": "white_noise_10",
+ "reference": "Hi Doctor, I have been a patient of psoriasis for the last ten years. It began on my head and then spots appeared on my body. The condition was cured five years ago, but now the spots have started appearing again on my body, nails, and hair. Is this disease permanently curable?",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T05:32:33+00:00",
+ "failed": false,
+ "text": "Doctor, I have been a case of psoriasis for the last two years. But the damage on my head and scalp is great on my body. The condition was cured five years ago, but now spots are starting to appear on my body, nails, and hair. Is this disease permanently curable?",
+ "seconds": 0.586
+}

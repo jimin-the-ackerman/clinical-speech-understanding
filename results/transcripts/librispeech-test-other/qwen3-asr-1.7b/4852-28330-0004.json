@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28330-0004",
+ "condition": null,
+ "reference": "THE MIRABELLE WAS NEARING TAHITI",
+ "audio_seconds": 2.23,
+ "created_at": "2026-07-06T03:32:46+00:00",
+ "failed": false,
+ "text": "The Mirabel was nearing Tahiti.",
+ "seconds": 0.118
+}

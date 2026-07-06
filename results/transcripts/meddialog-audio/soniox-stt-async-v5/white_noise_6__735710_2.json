@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__735710_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. All the symptoms you have mentioned, namely severe abdominal pain, urinating on yourself, hair loss, weight loss, painful internal examination, and the feeling of a mass, are all suggestive of an active inflammatory process. This can be due to the development of an abscess or, most likely, cancer of the cervix. I hope a biopsy was taken and sent for pathology examination. This will confirm the diagnosis, and the computed tomography scan will help to determine the extent of the disease, plan for the type of surgery you will need, and evaluate the possible outcome to decide about the operability of the case. Please get admitted for blood, urine, and stool tests, as well as a chest X-ray, and a physician's check-up for fitness.",
+ "audio_seconds": 41.81,
+ "created_at": "2026-07-06T03:11:20+00:00",
+ "failed": false,
+ "text": "Hello. All the symptoms you have mentioned, namely severe abdominal pain, urinating on yourself, hair loss, weight loss, painful internal examination, and the feeling of a mass, are all indicative of an active inflammatory process. This can be due to the development of an abscess or, most likely, cancer of the cervix. I hope a biopsy was taken and sent for pathology examination. This will confirm the diagnosis, and the CT scan will help to determine the extent of the disease, plan for the type of surgery you will need, and evaluate the possible outcome to decide about the operability of it. Please get admitted for blood, urine, and stool tests, as well as a chest X-ray and a physician's checkup for fitness.",
+ "seconds": 9.428
+}

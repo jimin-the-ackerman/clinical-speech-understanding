@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__871043_2",
+ "condition": "background_noise_40",
+ "reference": "For swelling on the ear, you can give him some antibiotics, preferably Moxikind-CV or Zifi-CV, after obtaining an expert opinion, along with Ibugesic-Plus syrup or Brufen Junior syrup for swelling and inflammation. You can also give him Bandy-Plus syrup, ten milliliters, immediately at night. Don't worry; he will be fine soon.",
+ "audio_seconds": 20.14,
+ "created_at": "2026-07-06T04:56:42+00:00",
+ "failed": false,
+ "text": "For swelling on the ear, you can give him some antibiotics, preferably moxifloxacin or cefaseb. After obtaining an expert opinion, along with ibogesic plus syrup or brewton junior syrup for swelling and inflammation, you can also give him bandy plus syrup ten milliliters immediately at night. Don't worry, he will be fine soon.",
+ "seconds": 0.687
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__216242_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, first of all, I would like to know whether you are symptomatic due to this. If you are having pain in the C6-C7 dermatome, you may need surgery for this as the canal diameter is very narrow. Treatment options without surgery are: tablet Pregabalin, oral steroids, epidural steroids, neck exercises, and other pain modalities.",
+ "audio_seconds": 20.22,
+ "created_at": "2026-07-06T03:00:56+00:00",
+ "failed": false,
+ "text": "Hi. First of all, I would like to know whether you are symptomatic due to this. If you are having pain in the C6-C7 dermatomes, you may need surgery for this as the canal diameter is very narrow. Treatment options without surgery are: tablet pregabalin, oral steroids, epidural steroids, neck exercises, and other pain modalities.",
+ "seconds": 4.854
+}

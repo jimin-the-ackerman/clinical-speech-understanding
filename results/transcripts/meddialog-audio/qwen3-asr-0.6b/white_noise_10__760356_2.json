@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__760356_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. If you are experiencing heavy bleeding, then it is likely that your abortion was not complete. You should immediately get an ultrasound scan to determine if the uterus is empty or not. If the uterus is not empty, then you need to address this by removing the products of conception using instruments. If you neglect this, it may lead to sepsis and adverse effects on your health.",
+ "audio_seconds": 21.33,
+ "created_at": "2026-07-06T05:07:00+00:00",
+ "failed": false,
+ "text": "Hello. If you are serious in committing, then it is likely that your objection is not complete. You should immediately get a personal consultation with a neurologist in your location. If the uterus is not removed, then you need to address this by removing a conception with an instrument. If you neglect this, it may lead to substance and adverse effects from the.",
+ "seconds": 0.662
+}

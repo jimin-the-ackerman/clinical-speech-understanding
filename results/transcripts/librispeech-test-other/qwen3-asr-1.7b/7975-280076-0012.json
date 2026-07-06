@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280076-0012",
+ "condition": null,
+ "reference": "I THEN WENT TO ARKANSAS AND RETURNED TO SAINT CLAIR COUNTY ABOUT THE FIRST OF MAY",
+ "audio_seconds": 4.41,
+ "created_at": "2026-07-06T03:36:52+00:00",
+ "failed": false,
+ "text": "I then went to Arkansas and returned to St. Clair County about the first of May.",
+ "seconds": 0.204
+}

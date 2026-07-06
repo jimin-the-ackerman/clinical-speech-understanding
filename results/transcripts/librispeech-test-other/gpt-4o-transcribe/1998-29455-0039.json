@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0039",
+ "condition": null,
+ "reference": "WHAT'S THAT THERE SAID DICKIE",
+ "audio_seconds": 2.37,
+ "created_at": "2026-07-05T23:53:55+00:00",
+ "failed": false,
+ "text": "Húrstað þú þessa tíkí?",
+ "seconds": 0.553
+}

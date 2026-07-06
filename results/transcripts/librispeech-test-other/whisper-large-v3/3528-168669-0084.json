@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0084",
+ "condition": null,
+ "reference": "GOD SUBORDINATED TO THE COMMISSARY OF POLICE SUCH IS THE AGE SILENCE FAUVENT",
+ "audio_seconds": 5.91,
+ "created_at": "2026-07-05T12:58:46+00:00",
+ "failed": false,
+ "text": "god subordinated to the commissary of police such is the age silence",
+ "seconds": 0.203
+}

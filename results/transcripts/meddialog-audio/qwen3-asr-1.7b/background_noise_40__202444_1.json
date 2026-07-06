@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__202444_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, my daughter is nine months old, and she has a fever of one hundred and two point three degrees Fahrenheit now. I gave her a suppository, but after fifteen minutes, she had a bowel movement, more like diarrhea, and the fever is not going down; it is actually going up. Can I give her Advil syrup if she had a suppository an hour ago?",
+ "audio_seconds": 22.61,
+ "created_at": "2026-07-06T05:19:54+00:00",
+ "failed": false,
+ "text": "Hi, my daughter is nine months old, and she has a fever of 102.3 degrees Fahrenheit now. I gave her a suppository, but after 15 minutes, she had a bowel movement, more like diarrhea, and the fever is not going down. It is actually going up. Can I give her Advil syrup if she had a suppository an hour ago?",
+ "seconds": 0.753
+}

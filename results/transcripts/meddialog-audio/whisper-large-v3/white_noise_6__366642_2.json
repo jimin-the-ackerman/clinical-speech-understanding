@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__366642_2",
+ "condition": "white_noise_6",
+ "reference": "No, this might be an occasional cramp, but if it is repeated, then he should check his potassium level in his blood.",
+ "audio_seconds": 7.59,
+ "created_at": "2026-07-06T04:36:46+00:00",
+ "failed": false,
+ "text": "No, this might be an occasional fan, but if it is repeated, then he should check his capacity level in his blood.",
+ "seconds": 0.342
+}

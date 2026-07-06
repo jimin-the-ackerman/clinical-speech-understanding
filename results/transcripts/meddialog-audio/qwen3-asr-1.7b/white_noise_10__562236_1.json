@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__562236_1",
+ "condition": "white_noise_10",
+ "reference": "Five days ago, I slipped on a tile floor and landed hard on my back. It knocked the wind out of me. I also hit my head. I had my back X-rayed and there was no new injury. The stiffness is improving, but now I have sharp pain in my chest on the right side, front if I stand or sit for long. If I lie on my back, I feel fine. Any ideas?",
+ "audio_seconds": 22.87,
+ "created_at": "2026-07-06T05:32:51+00:00",
+ "failed": false,
+ "text": "Five days ago, I slipped on the tile floor and landed hard on my back. It knocked the wind out of me. I also hit my head. I had my back x-rayed and there is no need. The sickness is improving, but now I have sharp pain in my chest on the right side. Sudden if I stand or sit for long. If I lie on my back, I feel fine. Any ideas?",
+ "seconds": 0.848
+}

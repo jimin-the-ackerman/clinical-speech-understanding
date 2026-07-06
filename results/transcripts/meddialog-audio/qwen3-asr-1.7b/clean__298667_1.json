@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__298667_1",
+ "condition": "clean",
+ "reference": "I took a fall today and landed hard on my behind. The lower back is hurting quite badly, but when I touch the hip bones and pelvis, they do not hurt. I have been putting ice and heat on it and have taken up to four Advil. It hurts like crazy; what should I do?",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T05:27:53+00:00",
+ "failed": false,
+ "text": "I took a fall today and landed hard on my behind. The lower back is hurting quite badly, but when I touch the hip bones and pelvis, they do not hurt. I have been putting ice and heat on it and have taken up to four Advil. It hurts like crazy. What should I do?",
+ "seconds": 0.617
+}

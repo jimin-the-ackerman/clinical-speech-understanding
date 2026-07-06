@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__354897_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, I would be happy to help you with your question. It is not unusual to have some significant cycle irregularity when you have recently been on the Depo-Provera injection. What you are describing is related to this, and the symptoms that you are describing might just be related to the resumption of your cycles. My guess is that you will get your period within the next two weeks based on the symptoms you are describing. I hope that this helps, and good luck!",
+ "audio_seconds": 26.79,
+ "created_at": "2026-07-06T04:39:52+00:00",
+ "failed": false,
+ "text": "hello i would be happy to help you with your question it is not unusual to have some significant cycle irregularity when you have recently been on the deprovera injection what you are describing is related to this and the symptoms that you are describing might just be related to the resumption of your cycles my guess is that you will get your period within the next two weeks based on the symptoms you are describing i hope that this helps and good luck",
+ "seconds": 0.328
+}

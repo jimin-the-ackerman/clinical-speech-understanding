@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__175623_1",
+ "condition": "background_noise_20",
+ "reference": "Sir, I fell while playing football. I went for a check-up, and they said that there is a crack in the wrist region; I think it is the scaphoid region. They also added that the space between the bones has slightly increased, and they mentioned that it is two millimeters. Now I have a plaster of Paris, and they said that after one week we should take another X-ray and check. What can I do? Will there be any problems, or will it heal with the plaster itself?",
+ "audio_seconds": 23.47,
+ "created_at": "2026-07-06T04:13:26+00:00",
+ "failed": false,
+ "text": "sir i fell while playing football i went for a checkup and they said that there is a crack in the wrist region i think it is the scaphoid region they also added that the space between the bones has slightly increased and they mentioned that it is two millimeters now i have a plaster of paris and they said that after one week we should take another x-ray and check what can i do will there be any problems or will it heal with the plaster itself",
+ "seconds": 1.005
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__151040_1",
+ "condition": "white_noise_2",
+ "reference": "I fell a week ago and banged up my knee. It swelled, and I applied ice throughout the day. The swelling went down, and my knee developed a reddish-purple bruise that ran down my leg to my foot. Now my foot is swollen and has a purple bruise on my instep, which is bumpy with raised spots on my ankle bone.",
+ "audio_seconds": 19.03,
+ "created_at": "2026-07-06T03:05:06+00:00",
+ "failed": false,
+ "text": "I fell a week ago and banged up my knee. It swells, and I applied ice throughout the day. The swelling went down, and my knee developed a reddish-purple bruise that ran down my leg to my foot. Now my foot is swollen and has a purple bruise on my instep, which is bumpy with raised spots on my ankle bone.",
+ "seconds": 5.01
+}

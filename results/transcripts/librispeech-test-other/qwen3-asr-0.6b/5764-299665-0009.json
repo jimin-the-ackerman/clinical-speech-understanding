@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5764-299665-0009",
+ "condition": null,
+ "reference": "DID THIS GOD ALLOW THE CRUEL AND VILE TO DESTROY THE BRAVE AND VIRTUOUS",
+ "audio_seconds": 6.0,
+ "created_at": "2026-07-06T03:21:55+00:00",
+ "failed": false,
+ "text": "Did this god allow the cruel and vile to destroy the brave and virtuous?",
+ "seconds": 0.193
+}

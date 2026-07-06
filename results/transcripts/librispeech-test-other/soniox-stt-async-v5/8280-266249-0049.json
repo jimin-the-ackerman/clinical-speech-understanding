@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0049",
+ "condition": null,
+ "reference": "THEN MISTER LILBURN WAKING FROM HIS FIRST SLEEP IN A STATEROOM NEAR BY THOUGHT HE WOULD BREAK IT UP ONCE MORE",
+ "audio_seconds": 6.68,
+ "created_at": "2026-07-06T02:41:51+00:00",
+ "failed": false,
+ "text": "Then Mr. Lilborn, waking from his first sleep in a stateroom nearby, thought he would break it up once more.",
+ "seconds": 4.726
+}

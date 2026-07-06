@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__613117_1",
+ "condition": "white_noise_6",
+ "reference": "Dear Sir, I have experienced sweating and some uneasiness on a few occasions in the last two-three months. On investigations, the electrocardiogram has shown variations. However, I was able to withstand the treadmill test for about seven-eight minutes. When I experience the above symptoms, my pulse rate goes up to about ninety-five-one hundred. The blood pressure is about ninety-five-ninety-seven on the lower side and one hundred and forty-five-one hundred and fifty on the higher side. After some time, it returns. The pulse rate falls back to about seventy, and the blood pressure also ranges back to eighty-five-one hundred and twenty-five or so. I do not take any medications for blood pressure. The sweating usually occurs at night, sometimes late in my sleep at two:thirty AM or even four:zero AM. Please advise.",
+ "audio_seconds": 55.3,
+ "created_at": "2026-07-06T04:37:53+00:00",
+ "failed": false,
+ "text": "Dear Sir, I have experienced sweating and some uneasiness on a few occasions in the last 2-3 months. On investigations, the electrocardiogram has shown variations. However, I was able to withstand the treadmill test for about 7-8 minutes. When I experience the above symptoms, my pulse rate goes up to about 95-100. The blood pressure is about 95-97 on the lower side and 145-150 on the higher side. After some time, it returns. The pulse rate falls back to about 70 and the blood pressure also ranges back to 85-125 or so. I do not take any medications for blood pressure. The sweating usually occurs at night, sometimes late in my sleep at 2.30am or even 4pm. I do not take any medications for blood pressure. Please advise.",
+ "seconds": 1.428
+}

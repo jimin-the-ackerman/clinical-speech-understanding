@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0015",
+ "condition": null,
+ "reference": "LESLIE THANKED HER AND EAGERLY GRASPED THE LITTLE PARCEL",
+ "audio_seconds": 4.14,
+ "created_at": "2026-07-06T02:40:10+00:00",
+ "failed": false,
+ "text": "Lizly thanked her and eagerly grasped the little parcel.",
+ "seconds": 4.602
+}

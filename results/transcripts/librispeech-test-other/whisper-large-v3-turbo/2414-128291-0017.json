@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128291-0017",
+ "condition": null,
+ "reference": "THUS SPAKE THE PEACEFUL ONE AND PUFFED HIMSELF AND PERSPIRED WITH HIS WORDS SO THAT THE KINE WONDERED ANEW",
+ "audio_seconds": 10.69,
+ "created_at": "2026-07-05T13:09:32+00:00",
+ "failed": false,
+ "text": "thus begged the peaceful one and puffed himself and perspired with his words so that the kind wondered anew",
+ "seconds": 0.123
+}

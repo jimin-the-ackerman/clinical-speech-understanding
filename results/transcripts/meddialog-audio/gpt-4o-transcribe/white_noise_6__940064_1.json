@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__940064_1",
+ "condition": "white_noise_6",
+ "reference": "I am a chronic immune thrombocytopenic purpura patient since birth. I am now fifty-one years old and male, having creatinine level of nine and urea level of two hundred and forty. I do not want to undergo dialysis because of my low platelet count, as complications may increase. I am nervous, though slowly the creatinine level is coming down. Should I avoid dialysis?",
+ "audio_seconds": 25.34,
+ "created_at": "2026-07-06T00:47:41+00:00",
+ "failed": false,
+ "text": "I have tried to meet with the company, but I am not the only one who has reacted negatively to it. I am not opposed to the plan, as competition is always good. I am not the sole reactor, if I put it that way.",
+ "seconds": 1.085
+}

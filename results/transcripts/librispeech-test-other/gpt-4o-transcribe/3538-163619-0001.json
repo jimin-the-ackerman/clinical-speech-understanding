@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163619-0001",
+ "condition": null,
+ "reference": "FROM THE VERY DAY THAT THE NEW WIFE CAME INTO THE HOUSE THERE WAS NO PEACE FOR THE MAN'S CHILDREN AND NOT A CORNER TO BE FOUND WHERE THEY COULD GET ANY REST SO THE BOY THOUGHT THAT THE BEST THING HE COULD DO WAS TO GO OUT INTO THE WORLD AND TRY TO EARN HIS OWN BREAD",
+ "audio_seconds": 14.23,
+ "created_at": "2026-07-05T23:55:02+00:00",
+ "failed": false,
+ "text": "From the very day that the new wife came into the house, there was no peace for the man's children, and not a corner to be found where they could get any rest. So the boy thought that the best thing he could do was to go out into the world and try to earn his own bread.",
+ "seconds": 1.377
+}

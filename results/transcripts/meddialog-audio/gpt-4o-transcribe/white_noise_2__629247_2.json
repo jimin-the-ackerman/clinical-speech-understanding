@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__629247_2",
+ "condition": "white_noise_2",
+ "reference": "If the foot pain is in one leg, then it won't help; if it is in both legs, then yes, it may help. I wish you could tell me if the pain is localized or widespread, the time of day it occurs, and whether it happens when walking or at rest. Good luck.",
+ "audio_seconds": 16.13,
+ "created_at": "2026-07-06T00:46:44+00:00",
+ "failed": false,
+ "text": "Es ist ein bisschen warm hier auf Gott. Bitte boldreist, mir zu helfen. Mancheitzomächt mir droht, was zu machen dem Tod.",
+ "seconds": 1.73
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__871523_1",
+ "condition": "white_noise_6",
+ "reference": "I was recently diagnosed with a urinary tract infection, and they also cultured it. I was prescribed ciprofloxacin, and now, ten days later, the urgency to urinate and the discomfort are gone, but I continue to feel sore in the lower abdomen. I went in two days ago and took another test, which showed no infection, but my abdomen still hurts, and I just feel kind of unwell.",
+ "audio_seconds": 25.43,
+ "created_at": "2026-07-06T03:12:01+00:00",
+ "failed": false,
+ "text": "I was recently diagnosed with a urinary tract infection, and they also cultured it. I was prescribed ciprofloxacin, and now 10 days later the urgency to urinate and the discomfort are gone, but I continue to feel sore in the lower abdomen. I went in 2 days ago and took another test, which showed no infection, but my abdomen still hurts, and I just feel kind of unwell...",
+ "seconds": 4.909
+}

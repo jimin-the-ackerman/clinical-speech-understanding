@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-293981-0010",
+ "condition": null,
+ "reference": "SANCHO GOT UP WITH PAIN ENOUGH IN HIS BONES AND WENT AFTER THE INNKEEPER IN THE DARK AND MEETING THE OFFICER WHO WAS LOOKING TO SEE WHAT HAD BECOME OF HIS ENEMY HE SAID TO HIM SENOR WHOEVER YOU ARE DO US THE FAVOUR AND KINDNESS TO GIVE US A LITTLE ROSEMARY OIL SALT AND WINE FOR IT IS WANTED TO CURE ONE OF THE BEST KNIGHTS ERRANT ON EARTH WHO LIES ON YONDER BED WOUNDED BY THE HANDS OF THE ENCHANTED MOOR THAT IS IN THIS INN",
+ "audio_seconds": 22.77,
+ "created_at": "2026-07-05T13:10:58+00:00",
+ "failed": false,
+ "text": "sancho got up with pain enough in his bones and went after the innkeeper in the dark and meeting the officer who was looking to see what had become of his enemy he said to him senor whoever you are do us a favour in kindness to give us a little rosemary oil salt and wine for it is wanted to cure one of our best knights errant on earth who lies on yonder bed wounded by the hands of the enchanted moor that is in this inn",
+ "seconds": 0.196
+}

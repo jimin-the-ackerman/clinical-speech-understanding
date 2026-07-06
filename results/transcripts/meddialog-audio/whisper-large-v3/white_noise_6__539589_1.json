@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__539589_1",
+ "condition": "white_noise_6",
+ "reference": "I have pain on the left side of my stomach. It comes and goes. I have had an X-ray scan of my esophagus and a scan of my gallbladder. Everything came up negative. I also have pain in my middle back that started about a month ago and is getting worse. Any thoughts?",
+ "audio_seconds": 14.93,
+ "created_at": "2026-07-06T04:37:33+00:00",
+ "failed": false,
+ "text": "I have pain on the left side of my stomach. It comes in waves. I have had an x-ray scan of my esophagus and a scan of my gallbladder. Everything came up negative. I also have pain in my middle back that started about a month ago and is getting worse. Any thoughts?",
+ "seconds": 0.543
+}

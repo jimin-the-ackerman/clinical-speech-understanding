@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__864201_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, so I have had some weird things going on lately. I went to the gynecologist a few weeks ago and found out that a cyst ruptured and leaked fluid all over my abdomen. At least she said, 'It looks like a cyst ruptured,' but I have had cysts rupture before and it didn't hurt this time. So, that was a few weeks ago. However, about a week or so before that, I had a complete loss of appetite, and now it comes and goes. I have also had bloating and pain in my abdomen for months now. Last night, right after intercourse, I experienced a sharp pain in my lower abdomen, and I am really bloated, and it has not gone away at all. I am still in a lot of pain. Any idea what it could be? I have no fever or nausea, just bloating and severe pain.",
+ "audio_seconds": 50.01,
+ "created_at": "2026-07-06T02:56:10+00:00",
+ "failed": false,
+ "text": "Hi. So, I have had some weird things going on lately. I went to the gynecologist a few weeks ago and found out that a cyst ruptured and leaked fluid all over my abdomen. At least she said, \"It looks like a cyst ruptured,\" but I have had cyst rupture before, and it didn't hurt this time. So, that was a few weeks ago. However, about a week or so before that, I had a complete loss of appetite, and now it comes and goes. I have also had bloating and pain in my abdomen for months now. Last night, right after intercourse, I experienced a sharp pain in my lower abdomen, and I am really bloated, and it has not gone away at all. I am still in a lot of pain. Any idea what it could be? I have no fever or nausea, just bloating and severe pain.",
+ "seconds": 8.286
+}

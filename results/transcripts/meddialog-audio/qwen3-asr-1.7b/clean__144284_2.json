@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__144284_2",
+ "condition": "clean",
+ "reference": "What we refer to as pitting edema is nothing but fluid accumulation. It is unrelated to your back injury. The causes of it include renal failure, congestive heart failure, severe anemia, and hypoproteinemia. Please rule out these causes.",
+ "audio_seconds": 16.81,
+ "created_at": "2026-07-06T05:27:21+00:00",
+ "failed": false,
+ "text": "What we refer to as pitting edema is nothing but fluid accumulation. It is unrelated to your back injury. The causes of it include renal failure, congestive heart failure, severe anemia, and hypoproteinemia. Please rule out these causes.",
+ "seconds": 0.506
+}

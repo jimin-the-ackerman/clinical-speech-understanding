@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__153802_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, I understand your concerns. Looking at your sonography, it appears normal. I think you will not have any problem conceiving, as one ovary appears to have a follicle that can ovulate, and your endometrial thickness is within the normal range. Continue your follicular study and get back to us.",
+ "audio_seconds": 16.9,
+ "created_at": "2026-07-06T05:04:37+00:00",
+ "failed": false,
+ "text": "Hi, I understand your concern. Living it with another person it appears normal. I think you will not have any problems with it. As one agrees, there is some possibility that not doing. In your end of the year, it is the usual normal week. Continue your political spending. Get back to me.",
+ "seconds": 0.582
+}

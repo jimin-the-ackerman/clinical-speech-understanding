@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__487896_1",
+ "condition": "white_noise_6",
+ "reference": "I have bad sacroiliac joint pain, and my back hurts in the morning for the first five minutes after getting out of bed. I can move around afterwards, but then my back starts hurting where the nerve that runs from my rib to my left side begins to hurt. The left side starts with a really sharp pain that takes my breath away, so I have to start depending on Lortab and Tramadol throughout the day. What can I do to stop this?",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T03:10:13+00:00",
+ "failed": false,
+ "text": "I have bad sacroiliac joint pain, and my back hurts in the morning for the first 5 minutes after getting out of bed. I can move around afterward, but then my back starts hurting. The nerve that runs from my rib to my left side begins to hurt. The left side starts with a really sharp pain that takes my breath away, so I have to start depending on Lortab and tramadol throughout the day. What can I do to stop?",
+ "seconds": 5.978
+}

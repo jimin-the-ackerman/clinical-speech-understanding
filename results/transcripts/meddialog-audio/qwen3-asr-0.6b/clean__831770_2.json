@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__831770_2",
+ "condition": "clean",
+ "reference": "Lung lavage is not indicated in pulmonary fibrosis, as the lungs are not filled with any material; they are shrinking. She may need long-term oxygen therapy and Continuous Positive Airway Pressure. I cannot provide a reference for a pulmonologist, as I am not from Mumbai, but you can visit any tertiary care hospital, whether government or private, where you can consult a pulmonologist.",
+ "audio_seconds": 23.89,
+ "created_at": "2026-07-06T05:03:38+00:00",
+ "failed": false,
+ "text": "Long lage is not indicated in pulmonary fibrosis, as the lungs are not filled with any material. They are shrinking. She may need long-term oxygen therapy and continuous positive airway pressure. I cannot provide a reference for a pulmonologist as I am not from Mumbai, but you can visit any tertiary care hospital, whether government or private, where you can consult a pulmonologist.",
+ "seconds": 0.714
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__327558_1",
+ "condition": "white_noise_10",
+ "reference": "Hello Doctor, I broke my heel three days ago. The specialist said it is the worst type of break to get. My question is, should I keep the special boot on even with the fracture blisters? It is painful as it rubs against the boot. Should I keep it on at night as well?",
+ "audio_seconds": 16.04,
+ "created_at": "2026-07-06T04:29:27+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I broke my heel three days ago. The specialist said it is the worst type of break you get. My question is, did I keep the special boot on even with the fracture blisters? It is painful as it rubs against the boot. Did I keep it on at night as well?",
+ "seconds": 0.561
+}

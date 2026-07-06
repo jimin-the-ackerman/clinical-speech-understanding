@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__576849_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, Madam. Bleeding, especially with clots, is not a good sign. It is advisable to visit an otorhinolaryngologist for a detailed examination. They will guide you better. One of the reasons for bleeding through the nose is high blood pressure, so please visit a doctor and get your blood pressure examined. Do follow the treatment meticulously; things will improve.",
+ "audio_seconds": 20.39,
+ "created_at": "2026-07-06T05:40:39+00:00",
+ "failed": false,
+ "text": "Hello, madam. Bleeding, especially with cloths, is not a good sign. It is advisable to visit an otolaryngologist for a detailed examination. It will guide you better. One of the reasons for bleeding through the nose is high blood pressure. So please visit a doctor and get your blood pressure. And do follow the treatment meticulously. Things will improve.",
+ "seconds": 0.726
+}

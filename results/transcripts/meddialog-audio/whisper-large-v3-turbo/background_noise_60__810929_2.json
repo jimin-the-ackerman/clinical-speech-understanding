@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__810929_2",
+ "condition": "background_noise_60",
+ "reference": "I am a male, twenty-five years old. My hands tremble when I lift a cup of coffee or a mobile phone. If I hold any tools, I experience severe trembling. Why is this happening and how can I avoid this problem? I do not smoke or consume alcohol, and I am unmarried.",
+ "audio_seconds": 18.94,
+ "created_at": "2026-07-06T04:43:31+00:00",
+ "failed": false,
+ "text": "I am a male, 25 years old. My hands tremble when I lift a cup of coffee or a mobile phone. If I hold any tools, I experience severe trembling. Why is this happening? And how can I avoid this problem? I do not smoke or consume alcohol, and I am unmarried.",
+ "seconds": 0.245
+}

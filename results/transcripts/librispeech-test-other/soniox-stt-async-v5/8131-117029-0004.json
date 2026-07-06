@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117029-0004",
+ "condition": null,
+ "reference": "GORDON CAME TO A ROW OF TEMPORARY BUBBLES INDIVIDUAL DWELLINGS BUILT LIKE THE DOME BUT OPAQUE FOR PRIVACY",
+ "audio_seconds": 8.2,
+ "created_at": "2026-07-06T02:39:48+00:00",
+ "failed": false,
+ "text": "Gordon came to a row of temporary bubbles: individual dwellings built like the dome, but opaque for privacy.",
+ "seconds": 5.144
+}

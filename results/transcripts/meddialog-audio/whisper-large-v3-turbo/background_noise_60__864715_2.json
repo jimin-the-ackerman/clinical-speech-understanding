@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__864715_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, since you have missed your due date, you should take a urine pregnancy test, as the symptoms you are describing can also indicate pregnancy.",
+ "audio_seconds": 8.28,
+ "created_at": "2026-07-06T04:43:37+00:00",
+ "failed": false,
+ "text": "Hello! Since you have missed your due date, you should take a urine pregnancy test, as the symptoms you are describing can also indicate pregnancy.",
+ "seconds": 0.169
+}

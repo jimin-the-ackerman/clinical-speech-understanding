@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__913875_1",
+ "condition": "clean",
+ "reference": "I am a singer and guitar player and am having trouble with carpal tunnel syndrome. I have numbness and tingling, and I cannot sleep well because of the pain. I am eighty years old but still active. I would like to ask you what you would do if you were in this situation. Would you suggest the operation or exercising to try to eliminate the problem?",
+ "audio_seconds": 21.5,
+ "created_at": "2026-07-06T03:00:07+00:00",
+ "failed": false,
+ "text": "I am a singer and guitar player, and I'm having trouble with carpal tunnel syndrome. I have numbness and tingling, and I cannot sleep well because of the pain. I'm 80 years old, but still active. I would like to ask you what you would do if you were in this situation. Would you suggest the operation, or exercising, to try to eliminate the problem?",
+ "seconds": 5.848
+}

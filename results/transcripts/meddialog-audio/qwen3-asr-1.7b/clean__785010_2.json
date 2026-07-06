@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__785010_2",
+ "condition": "clean",
+ "reference": "Hello, it may be entirely a soft tissue injury, or an undisplaced fracture may also be suspected depending on the severity of the trauma. Yellow discoloration may be due to trauma-related onycholysis, where the nail separates from the nail bed. Since throbbing pain is still felt on the third day, it is better to have a physical examination and an X-ray if required, along with ibuprofen, which relieves the pain and edema as well. Hope it helps.",
+ "audio_seconds": 27.56,
+ "created_at": "2026-07-06T05:30:02+00:00",
+ "failed": false,
+ "text": "Hello. It may be entirely a soft tissue injury, or an undisplaced fracture may also be suspected, depending on the severity of the trauma. Yellow discoloration may be due to trauma-related onycholysis, where the nail separates from the nail bed. Since throbbing pain is still felt on the third day, it is better to have a physical examination and an X-ray if required, along with ibuprofen, which relieves the pain and edema as well. Hope it helps.",
+ "seconds": 0.943
+}

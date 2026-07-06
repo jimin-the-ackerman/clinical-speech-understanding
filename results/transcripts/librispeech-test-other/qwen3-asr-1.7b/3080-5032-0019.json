@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5032-0019",
+ "condition": null,
+ "reference": "THE MATTER IS NOT GREAT FOR I CONFESS I DO NATURALLY HATE THE NOISE AND TALK OF THE WORLD AND SHOULD BE BEST PLEASED NEVER TO BE KNOWN IN'T UPON ANY OCCASION WHATSOEVER YET SINCE IT CAN NEVER BE WHOLLY AVOIDED ONE MUST SATISFY ONESELF BY DOING NOTHING THAT ONE NEED CARE WHO KNOWS",
+ "audio_seconds": 21.4,
+ "created_at": "2026-07-06T03:28:45+00:00",
+ "failed": false,
+ "text": "The matter is not great, for I confess I do naturally hate the noise and talk of the world, and should be best pleased never to be known in it upon any occasion whatsoever. Yet, since it can never be wholly avoided, one must satisfy oneself by doing nothing, that one need care. Who knows?",
+ "seconds": 0.602
+}

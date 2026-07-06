@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__647091_1",
+ "condition": "white_noise_10",
+ "reference": "How long before taking Cialis before it works, and will I suffer much if she is not around? I have never had a girlfriend before, and I am fifty-six, so this is new to me. She is very understanding about this, but also very cautious, as she was married to someone who was on Testogel, and she blames this for him abusing her child. So, I need to tread carefully.",
+ "audio_seconds": 25.69,
+ "created_at": "2026-07-06T05:33:11+00:00",
+ "failed": false,
+ "text": "How long before taking Cialis before it works? And will I suffer much if she is not around? I have never had a girlfriend before, and I am fifty-six, so this is new to me. She is very understanding about this, but also very cautious, as she was married to someone who was on Tadalafil, and she blames this for him abusing her child. So, I need to tread carefully.",
+ "seconds": 0.781
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__171950_1",
+ "condition": "clean",
+ "reference": "Dear Doctor, I appreciate your help. I did a prolactin level test once early in the morning, and it was twenty-five. I repeated it after one week, having been awake for more than three hours, and it was forty-six. My Anti-Müllerian Hormone level is two point two, and I am trying to get pregnant. Do you think it is my prolactin level that is preventing me from conceiving?",
+ "audio_seconds": 22.53,
+ "created_at": "2026-07-06T04:43:58+00:00",
+ "failed": false,
+ "text": "Dear doctor, I appreciate your help. I did a prolactin level test once early in the morning, and it was 25. I repeated it after one week, having been awake for more than three hours, and it was 46. My anti-malarian hormone level is 2.2, and I am trying to get pregnant. Do you think it is my prolactin level that is preventing me from conceiving?",
+ "seconds": 0.268
+}

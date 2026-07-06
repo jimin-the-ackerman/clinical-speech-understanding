@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__319036_2",
+ "condition": "white_noise_10",
+ "reference": "This shows some arthritis and a thickened ligament, which could be irritating nerves on the left side. It would not explain right-sided leg symptoms.",
+ "audio_seconds": 7.85,
+ "created_at": "2026-07-06T05:05:13+00:00",
+ "failed": false,
+ "text": "This shows to our brothers and sisters in the church that we are truly in the right. We did not expect the right to be right.",
+ "seconds": 0.283
+}

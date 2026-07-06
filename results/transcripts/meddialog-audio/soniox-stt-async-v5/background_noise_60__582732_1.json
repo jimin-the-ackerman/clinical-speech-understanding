@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__582732_1",
+ "condition": "background_noise_60",
+ "reference": "Hello Doctor, the top skin of my penis is not retracting during masturbation or sexual intercourse. It is not completely closed from the top, but it is still painful to push it back. If I try to do so forcefully, it becomes swollen from the top after a few hours and some white hard substance comes out from inside.",
+ "audio_seconds": 19.88,
+ "created_at": "2026-07-06T02:55:05+00:00",
+ "failed": false,
+ "text": "Hello, doctor, the top skin of my penis is not retracting during masturbation or sexual intercourse. It is not completely closed from the top, but it is still painful to push it back. If I try to do so forcefully, it becomes swollen from the top after a few hours and some white hard substance comes out from inside.",
+ "seconds": 5.82
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28319-0021",
+ "condition": null,
+ "reference": "DUSK CAME TWO HOURS BEFORE ITS TIME THUNDER SNARLED IN THE SKY",
+ "audio_seconds": 4.84,
+ "created_at": "2026-07-05T13:02:14+00:00",
+ "failed": false,
+ "text": "Thus came, two hours before its time, thunder snarls in the sky.",
+ "seconds": 0.213
+}

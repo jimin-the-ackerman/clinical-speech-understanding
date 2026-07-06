@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__939767_2",
+ "condition": "background_noise_60",
+ "reference": "Once a subluxated rib has been stabilized, the pain should ease up each day. However, rib pain is notorious for lingering, so you may have some aching for a few weeks. However, the severe pain should be gone within a week.",
+ "audio_seconds": 12.8,
+ "created_at": "2026-07-06T05:26:54+00:00",
+ "failed": false,
+ "text": "Once a subluxated rib has been stabilized, the pain should ease up each day. However, rib pain is notorious for lingering, so you may have some aching for weeks. However, the severe pain should be gone within a week.",
+ "seconds": 0.48
+}

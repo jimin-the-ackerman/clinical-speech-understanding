@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__450632_2",
+ "condition": "background_noise_20",
+ "reference": "It is better to have yourself checked so that later on, there are no problems. If you remain shy, it could negatively impact your future life. It is important to address this for your own benefit.",
+ "audio_seconds": 11.43,
+ "created_at": "2026-07-06T02:47:35+00:00",
+ "failed": false,
+ "text": "It is better to have yourself checked so that later on there are no problems. If you remain shy, it could negatively impact your future life. It is important to address this for your own benefit.",
+ "seconds": 4.654
+}

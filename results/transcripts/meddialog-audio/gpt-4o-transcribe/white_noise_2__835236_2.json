@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__835236_2",
+ "condition": "white_noise_2",
+ "reference": "There is no restriction on diet for ovarian cancer patients, but care should be taken to eat only healthy cooked foods. Canned, fermented, and stored foods should be avoided due to the possible risk of contamination. Dietary products like milk, which can be boiled before consumption, are preferable to stored dairy products.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T00:46:57+00:00",
+ "failed": false,
+ "text": "There is no inscription on that clothing, but here's a piece of information you could quote: \"When the night sky is sparkling, you should toss your best sandwich.\" That could work, no?",
+ "seconds": 1.459
+}

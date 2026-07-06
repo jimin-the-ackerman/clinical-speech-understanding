@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0014",
+ "condition": null,
+ "reference": "IT WAS SO TENDER EARNEST AND DEFIANT THAT FANNY FORGOT THE DEFENCE OF HER OWN LOVER IN ADMIRATION OF POLLY'S LOYALTY TO HERS FOR THIS FAITHFUL ALL ABSORBING LOVE WAS A NEW REVELATION TO FANNY WHO WAS USED TO HEARING HER FRIENDS BOAST OF TWO OR THREE LOVERS A YEAR AND CALCULATE THEIR RESPECTIVE VALUES WITH ALMOST AS MUCH COOLNESS AS THE YOUNG MEN DISCUSSED THE FORTUNES OF THE GIRLS THEY WISHED FOR BUT COULD NOT AFFORD TO MARRY",
+ "audio_seconds": 28.37,
+ "created_at": "2026-07-05T13:10:21+00:00",
+ "failed": false,
+ "text": "it was so tender earnest and defiant that fanny forgot the defence of her own lover in admiration of polly's loyalty to hers for this faithful all-absorbing love was a new revelation to fanny who was used to hearing her friends boast of two or three lovers a year and calculate their respective values with almost as much coolness as the young men discussed the fortunes of the girls they wished for but could not afford to marry",
+ "seconds": 0.212
+}

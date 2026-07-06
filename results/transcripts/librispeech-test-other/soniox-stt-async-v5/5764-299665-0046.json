@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "5764-299665-0046",
+ "condition": null,
+ "reference": "WHEN THE CHURCH HAD CONTROL WERE MEN MADE BETTER AND HAPPIER",
+ "audio_seconds": 4.71,
+ "created_at": "2026-07-06T02:31:32+00:00",
+ "failed": false,
+ "text": "When the church had control, were men made better and happier?",
+ "seconds": 5.012
+}

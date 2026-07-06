@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163624-0019",
+ "condition": null,
+ "reference": "THAT LET HIM DO AND THEN RIDE OVER HINDFELL TO THE PLACE WHERE BRYNHILD SLEEPS",
+ "audio_seconds": 4.79,
+ "created_at": "2026-07-06T00:07:35+00:00",
+ "failed": false,
+ "text": "That let him do, then ride over Hinfeld to the place where Brynhild sleeps.",
+ "seconds": 4.343
+}

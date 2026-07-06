@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__923024_2",
+ "condition": "white_noise_6",
+ "reference": "I understand your concern about your problem. The warm sensation is due to recurrent vasospasm followed by flushing of blood due to the dilation of the artery. When there is inflammation, the effect of the autonomic nervous system is reduced. Therefore, there will be warmth and sometimes a burning sensation as well. As soon as possible, you need to pay attention to a healthy diet and nutritional value. Regular pranayama, yoga asanas, and exercises will help decrease inflammation in the vessels. I recommend going to a physical therapist to learn Buerger's exercise, which is very helpful in maintaining good blood supply and pain-free walking. I hope you are satisfied with this answer.",
+ "audio_seconds": 43.52,
+ "created_at": "2026-07-06T00:47:40+00:00",
+ "failed": false,
+ "text": "But that can be such a common question. Even if you think you can trust or trust somebody, you might think, well, if I let you watch her, what do you do when I'm not there? It's like this little insecurity. And so it's hard to put somebody in charge of that. But two people, that's not something you can manage in a household. You can't protect a child from that much stuff. You just can't. You can't do it. At some point, something's going to happen. But when you have two people there to say, we'll be very comfortable. We can very comfortably turn this off and kind of create music. It's not a good distraction. I guess.",
+ "seconds": 2.139
+}

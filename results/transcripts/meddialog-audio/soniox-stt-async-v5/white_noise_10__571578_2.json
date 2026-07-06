@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__571578_2",
+ "condition": "white_noise_10",
+ "reference": "Yes, ma'am, it is better and advisable to give the booster now, ma'am. Antibiotics do not interfere with the immunity for the diphtheria, pertussis, and tetanus vaccine, so kindly proceed with administering the vaccine.",
+ "audio_seconds": 14.51,
+ "created_at": "2026-07-06T03:02:41+00:00",
+ "failed": false,
+ "text": "Yes, Mom, it is better and advisable to give the booster now. Mom, antibiotics do not interfere with the immunity for the diphtheria, pertussis, and tetanus vaccines, so kindly proceed with administering the vaccine.",
+ "seconds": 4.77
+}

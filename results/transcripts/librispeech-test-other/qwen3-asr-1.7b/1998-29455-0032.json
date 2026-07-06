@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0032",
+ "condition": null,
+ "reference": "IF E'S STRAIGHT E'LL DO FOR ME AND IF HE AIN'T I'LL DO FOR IM SEE",
+ "audio_seconds": 4.32,
+ "created_at": "2026-07-06T03:27:15+00:00",
+ "failed": false,
+ "text": "If he's straight, he'll do for me, and if he ain't, I'll do for him. See.",
+ "seconds": 0.261
+}

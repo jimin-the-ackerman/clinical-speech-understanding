@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__787326_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, this is about my daughter. She has a lump at the back of her head on the left side, near her neck, and I want to know if it can be treated with medication and what I can give her. I am worried because she is eight years old. Please, Doctor, help me. She does not have any pain, but it does hurt if you press it. There are no additional symptoms, just like a lump.",
+ "audio_seconds": 23.13,
+ "created_at": "2026-07-06T00:46:55+00:00",
+ "failed": false,
+ "text": "Hello doctor, this is about my daughter. She has a lump at the back of her head on the left side, near her neck, and I want to know if we should be worried or if it's just a normal part of her skull. She does not have any pain, it just hurts to touch it. There are no other symptoms, just the lump.",
+ "seconds": 3.358
+}

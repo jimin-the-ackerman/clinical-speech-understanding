@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__862540_1",
+ "condition": "white_noise_6",
+ "reference": "Hello Doctor, I am thirty-seven years old and my height is five feet. I have some regular problems such as my stool not being clear, which causes me to have gas problems. I experience headaches now and then, typically starting from the left side. I also have leg pain with swelling, with more pain from the ankle to the toe.",
+ "audio_seconds": 20.39,
+ "created_at": "2026-07-06T04:38:57+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I am 37 years old and my height is 5 feet. I have some regular problems such as my stool not being clear, which causes me to have gas problems. I experience headaches now and then, typically starting from the left side. I also have leg pain and swelling, with more pain from the ankle to the toe.",
+ "seconds": 0.544
+}

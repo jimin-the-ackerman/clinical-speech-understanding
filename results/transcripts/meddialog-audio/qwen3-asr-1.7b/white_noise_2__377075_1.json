@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__377075_1",
+ "condition": "white_noise_2",
+ "reference": "I have had this leg pain for five years. It started in my lower back and extends down to just above the ankle. I have managed my pain with pain medication, but I am about to lose access to the pain medication. It gets very painful, and I am at a loss for relief from this pain. I used the Veterans Affairs for my medical needs and really cannot get any help from them. At this point, anything would be helpful.",
+ "audio_seconds": 23.72,
+ "created_at": "2026-07-06T05:35:45+00:00",
+ "failed": false,
+ "text": "I have had this leg pain for five years. It started in my lower back and extends down to just above the ankle. I have managed my pain with medication, but I am about to lose access to the pain medication. It gets very painful, and I am at a loss for relief from this pain. I use the Veterans Affairs for my medical needs, and really cannot get any help from them. At this point, anything would be helpful.",
+ "seconds": 0.843
+}

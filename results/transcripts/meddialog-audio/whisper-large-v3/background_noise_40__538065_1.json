@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__538065_1",
+ "condition": "background_noise_40",
+ "reference": "My husband has been having bloody diarrhea lately, and he is not sure what is causing it. He says he doesn't have any pain of any kind. He hasn't eaten anything unusual or been anywhere. He has been under a lot of stress lately with work and the recent passing of his mother.",
+ "audio_seconds": 15.19,
+ "created_at": "2026-07-06T04:19:05+00:00",
+ "failed": false,
+ "text": "My husband has been having bloody diarrhea lately, and he is not sure what is causing it. He says he doesn't have any pain of any kind. He hasn't eaten anything unusual or been anywhere. He has been under a lot of stress lately with work and the recent passing of his mother.",
+ "seconds": 0.585
+}

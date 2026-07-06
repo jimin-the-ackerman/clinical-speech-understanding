@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__112653_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, I think it cannot be related to soil or rock. Please get yourself evaluated by a gynecologist. Have a thyroid profile, prolactin level, and an ultrasound done to examine your uterus and ovaries. You can try ovulation induction with timed intercourse for conceiving. Talk to your doctor regarding this. I hope it helps.",
+ "audio_seconds": 20.99,
+ "created_at": "2026-07-06T04:57:10+00:00",
+ "failed": false,
+ "text": "The type, and since it cannot be related to soil, rock, please get yourself a valuer by a dry point, a dry wood profile, collecting, and an ultrasound done to examine the features in the over. You can try observation induction with type indices and symbols. Talk to your doctor for guidance. I hope it works.",
+ "seconds": 0.614
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__768990_1",
+ "condition": "white_noise_10",
+ "reference": "What does it mean when your ribs feel like they are being held up? I have been feeling like this for a couple of weeks now. Sometimes I cannot crouch, and my back hurts from just sitting up straight for too long. I just want to know what this means and if it is bad for me to feel this way.",
+ "audio_seconds": 15.02,
+ "created_at": "2026-07-06T03:03:40+00:00",
+ "failed": false,
+ "text": "What does it mean when your ribs feel like they're being held out? Mostly feeling like they're stuck up over the top, sometimes like a knocked couch. And my back hurts when they stay up straight for too long. I just want to know what this means, and if it is fascinating to feel this way.",
+ "seconds": 4.785
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__894068_2",
+ "condition": "white_noise_10",
+ "reference": "Dear patient, your symptoms are suggestive of lumbar canal stenosis. In this condition, the lumbar spinal canal is narrowed, which leads to a compromise in blood supply to the traversing nerve roots. So at rest, everything seems normal, but when you start working, the increased requirement is not met, and pain starts. The diagnosis is confirmed by magnetic resonance imaging of the lumbosacral spine, which can be from an older examination at a radiology center nearby you. Meanwhile, start taking pregabalin seventy-five milligrams twice a day and ibuprofen four hundred milligrams three times a day for pain relief. Please consult with a spine surgeon nearby you with the reports.",
+ "audio_seconds": 38.31,
+ "created_at": "2026-07-06T05:34:19+00:00",
+ "failed": false,
+ "text": "Dear patient, your symptoms are suggestive of lumbar spinal stenosis. In this condition, the lumbar spinal canal is narrowed, which leads to a compromise in blood supply that constricts nerve roots. For rest, everything seems normal, but when you start working, the treatment requirement is not met. Please note, the diagnosis is confirmed by a magnetic resonance imaging of the lumbar cervical spine, which can be in a folder in the radiology center nearby. Meanwhile, start taking graded boric 25 milligrams twice a day, and ibuprofen 400 milligrams three times a day. Please consult with a spine surgeon nearby with the report.",
+ "seconds": 1.237
+}

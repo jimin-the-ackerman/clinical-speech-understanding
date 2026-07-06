@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__217984_1",
+ "condition": "background_noise_40",
+ "reference": "Hello Doctor, my thyroid levels indicate that I have hyperthyroidism and I am experiencing severe itching. Itching is my primary complaint. I also have an elevated heart rate, abnormal liver function tests, and weight loss. I made an appointment with an endocrinologist; however, I need assistance now. I am very itchy. Is there a low dose of something that can help?",
+ "audio_seconds": 22.1,
+ "created_at": "2026-07-06T05:19:59+00:00",
+ "failed": false,
+ "text": "Hello, doctor. My thyroid levels indicate that I have hyperthyroidism, and I am experiencing severe itching. Itching is my primary complaint. I also have an elevated heart rate, abnormal liver function tests, and weight loss. I made an appointment with an endocrinologist. However, I need assistance now. I am very itchy. Is there a low dose of something that could help?",
+ "seconds": 0.762
+}

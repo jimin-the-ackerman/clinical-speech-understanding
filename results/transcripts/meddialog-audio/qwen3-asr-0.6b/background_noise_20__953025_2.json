@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__953025_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, you need a Magnetic Resonance Imaging scan of your lower back to check for a ruptured disk with nerve root compression, which could be the cause of your problem.",
+ "audio_seconds": 9.47,
+ "created_at": "2026-07-06T04:53:11+00:00",
+ "failed": false,
+ "text": "Hi, you need a magnetic resonance imaging scan of your lower back to check for a ruptured disc with nerve root compression, which could be the cause of your problem.",
+ "seconds": 0.336
+}

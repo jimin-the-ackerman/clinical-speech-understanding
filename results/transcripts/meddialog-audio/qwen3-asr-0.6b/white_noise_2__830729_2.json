@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__830729_2",
+ "condition": "white_noise_2",
+ "reference": "A harsh, hoarse cough in a four-year-old that disturbs night sleep usually comes from a swollen voice box or larynx. It is typically caused by a viral infection of the upper airways. Keep him as comfortable as possible in bed with slight elevation of the head end with pillows. Give him frequent sips of warm water. If he has a fever, give him the ibuprofen. Antibiotics may not help him now, but if the cough worsens or he starts breathing a little fast, take him to the emergency department where they will give him nebulized medication through a mask to reduce the effort of breathing. Simple cough medications are okay but may not be very effective.",
+ "audio_seconds": 37.12,
+ "created_at": "2026-07-06T05:11:06+00:00",
+ "failed": false,
+ "text": "A harsh, force cough in a four-year-old that disturbs night sleep usually comes from a swollen voice box or larynx. It is typically caused by a viral infection of the upper airway. Keep them as comfortable as possible in bed with slight elevation of the head end with pillows. Give them frequent sips of warm water. If he has a fever, give him the ibuprofen. Antibiotics may not help him now, but if the cough worsens or he starts breathing a little fast, take him to the emergency department where they will give him nebulized medication through a mask to reduce the effort of breathing. Simple cough medications are okay, but may not be very effective.",
+ "seconds": 1.233
+}

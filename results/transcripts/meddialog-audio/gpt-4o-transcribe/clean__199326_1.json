@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__199326_1",
+ "condition": "clean",
+ "reference": "Hi, I had an intrauterine insemination that failed. It is now the sixth day of my cycle and I am experiencing horrible lower abdominal and back pain. I used Ovidrel to help stimulate ovulation and progesterone suppositories up until my negative pregnancy test. Is this pain normal and how long will it last?",
+ "audio_seconds": 19.97,
+ "created_at": "2026-07-06T00:44:47+00:00",
+ "failed": false,
+ "text": "Hi, I had an intrauterine insemination that failed. It is now the sixth day of my cycle and I am experiencing horrible lower abdominal and back pain. I used Ovidrel to help stimulate ovulation and progesterone suppositories up until my negative pregnancy test. Is this pain normal and how long will it last?",
+ "seconds": 1.053
+}

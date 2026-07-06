@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131564-0020",
+ "condition": null,
+ "reference": "IF YOU INTEND TO REFORM INVOKE GOD'S BLESSING HIS MERCY AND HIS AID NOT HIS CURSE",
+ "audio_seconds": 6.91,
+ "created_at": "2026-07-06T03:21:07+00:00",
+ "failed": false,
+ "text": "If you intend to reform, invoke God's blessing, his mercy in this aid, not his curse.",
+ "seconds": 0.236
+}

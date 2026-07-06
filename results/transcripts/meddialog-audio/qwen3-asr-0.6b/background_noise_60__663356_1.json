@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__663356_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, maybe it's just that my husband and I are excited to have a baby, which is why even though my period is not due, I have this feeling that I am pregnant. Some people say that I might be pregnant because I have gained so much weight and my body looks like I am pregnant. I also feel something beating in my lower abdomen, but I don't see any signs of pregnancy. I took a pregnancy test, but it was negative. Could I be pregnant? My last period was on April five. Could I be pregnant?",
+ "audio_seconds": 29.7,
+ "created_at": "2026-07-06T04:59:17+00:00",
+ "failed": false,
+ "text": "Hi, maybe it's just that my husband and I are excited to have a baby, which is why even though my period is not due, I have this feeling that I am pregnant. Some people say that I might be pregnant because I have gained so much weight, and my body looks like I am pregnant. I also feel some bleeding in the lower abdomen, but I don't see any signs of pregnancy. I took a pregnancy test, but it was negative. Can I be pregnant? My last period was on April 9. Can I be pregnant?",
+ "seconds": 1.01
+}

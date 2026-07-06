@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__726612_1",
+ "condition": "background_noise_20",
+ "reference": "I have a hard, pea-sized red lump on my right side above the collarbone. I thought it was a insect bite. It has been there since the middle of July. I thought I would leave it, thinking it would go away, but it has not. It has gotten a bit bigger, it hurts when you touch it, and it hurts around the collarbone and the side of my neck.",
+ "audio_seconds": 16.64,
+ "created_at": "2026-07-06T04:52:13+00:00",
+ "failed": false,
+ "text": "I have a hard pea-sized red lump on my right side above the collarbone. I thought it was an insect bite, because it's been there since the middle of July. I thought I would leave it, thinking it would go away, but it has not. It has gotten a bit bigger. If you touch it, it hurts around the collarbone and the side of my neck.",
+ "seconds": 0.713
+}

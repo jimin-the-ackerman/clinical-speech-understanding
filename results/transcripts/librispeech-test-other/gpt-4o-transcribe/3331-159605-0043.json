@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0043",
+ "condition": null,
+ "reference": "HE MEANT TO GO AWAY BEFORE THAT SO DON'T THINK HIS HEART IS BROKEN OR MIND WHAT SILLY TATTLERS SAY",
+ "audio_seconds": 7.09,
+ "created_at": "2026-07-05T23:54:42+00:00",
+ "failed": false,
+ "text": "He meant to go away before that, so that things his heart is broken, or mind would silly Tatler say.",
+ "seconds": 0.73
+}

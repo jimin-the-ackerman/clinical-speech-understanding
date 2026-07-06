@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280076-0011",
+ "condition": null,
+ "reference": "I BROUGHT THE CATTLE TO KANSAS THAT FALL AND REMAINED IN SAINT CLAIR COUNTY UNTIL FEBRUARY",
+ "audio_seconds": 5.04,
+ "created_at": "2026-07-06T03:24:44+00:00",
+ "failed": false,
+ "text": "I brought the cattle to Kansas at fall and remained in Saint Clair County until February.",
+ "seconds": 0.192
+}

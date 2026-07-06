@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__604740_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, Nexium does not work for arrhythmia but works for acidity and reflux. Many patients have reflux disease, and the symptoms are often similar to cardiac arrhythmia, such as palpitations and chest pain. So, considering this, the doctor might have started this medication. I hope this helps you, and please get back to me if you have any doubts.",
+ "audio_seconds": 19.8,
+ "created_at": "2026-07-06T03:10:50+00:00",
+ "failed": false,
+ "text": "Hello, Nexium does not work for arrhythmia but works for acidity and reflux; many patients have reflux disease, and the symptoms are often similar to cardiac arrhythmia, such as palpitations and chest pain. So, considering this, the doctor might have started this medication; I hope this helps you, and please get back to me if you have any doubts.",
+ "seconds": 4.875
+}

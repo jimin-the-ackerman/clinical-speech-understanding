@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0017",
+ "condition": null,
+ "reference": "HE ASKED ME WHENCE THEY CAME AND I SAID TO HIM BY ALLAH O COMMANDER OF THE FAITHFUL I KNOW NOT THE NAME OF THE CITY NOR THE WAY THITHER",
+ "audio_seconds": 10.38,
+ "created_at": "2026-07-05T23:57:36+00:00",
+ "failed": false,
+ "text": "He asked me whence they came and I said to him, \"By Allah, O Commander of the Faithful, I know not the name of the city nor the way thither.",
+ "seconds": 0.873
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__199868_1",
+ "condition": "background_noise_40",
+ "reference": "Nice to meet you! My nephew, eight months old, has been in a coma for one day. Before this, he had pneumonia and was cured. He does not have a fever. Besides having cereal and water, he is asleep and in low spirits. Yesterday, he was brought back to the hospital and was checked. There is nothing wrong with him. Today, he will have a bone marrow aspiration for further diagnosis. I am worried about him.",
+ "audio_seconds": 25.43,
+ "created_at": "2026-07-06T04:41:07+00:00",
+ "failed": false,
+ "text": "Nice to meet you. My nephew, eight months old, has been in a coma for one day. Before this, he had pneumonia and was cured. He does not have a fever. Besides having cereal and water, he is asleep and in low spirits. Yesterday, he was brought back to the hospital and was checked. There is nothing wrong with him. Today, he will have a bone marrow aspiration for further diagnosis. I am worried about him.",
+ "seconds": 0.279
+}

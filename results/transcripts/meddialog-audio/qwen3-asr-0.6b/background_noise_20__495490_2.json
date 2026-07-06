@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__495490_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. This is all suggestive of a tubal pregnancy. Please get an urgent ultrasonography done and receive surgical treatment if a tubal pregnancy is found. If there is no pregnancy detected on the ultrasonography, relax and carry on; there is nothing to worry about.",
+ "audio_seconds": 16.55,
+ "created_at": "2026-07-06T04:51:13+00:00",
+ "failed": false,
+ "text": "Hello, this is all suggestive of a tubal pregnancy. Please get an urgent ultrasound done and receive surgical treatment if a tubal pregnancy is found. If there is no pregnancy detected on the ultrasound,ography relax and carry on. There is nothing to worry about.",
+ "seconds": 0.493
+}

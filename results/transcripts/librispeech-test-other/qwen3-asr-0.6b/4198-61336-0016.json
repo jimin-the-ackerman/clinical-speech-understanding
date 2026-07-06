@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-61336-0016",
+ "condition": null,
+ "reference": "NO RESISTANCE WAS POSSIBLE ON THE PART OF MENAHEM THE USURPER WHO WAS PROBABLY READY TO WELCOME THE ASSYRIAN CONQUEROR SO THAT BY ARRANGING AN ALLIANCE HE MIGHT SECURE HIS OWN POSITION",
+ "audio_seconds": 12.92,
+ "created_at": "2026-07-06T03:19:32+00:00",
+ "failed": false,
+ "text": "No resistance was possible on the part of Menahem, the usurper, who was probably ready to welcome the Assyrian conqueror, so that by arranging an alliance, he might secure his own position.",
+ "seconds": 0.41
+}

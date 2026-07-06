@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__112940_1",
+ "condition": "background_noise_60",
+ "reference": "I have tingling in my lips and tongue one or two days after I eat mutton, chicken, and fish. One or two mouth ulcers also occur. I have been having this problem for three years. If I do not eat the aforementioned foods, I do not experience any of the symptoms. Could you help me determine what could be the cause?",
+ "audio_seconds": 19.97,
+ "created_at": "2026-07-06T02:53:14+00:00",
+ "failed": false,
+ "text": "I have tingling in my lips and tongue 1 or 2 days after I eat mutton, chicken, and fish; 1 or 2 mouth ulcers also occur. I have been having this problem for 3 years. If I do not eat the aforementioned foods, I do not experience any of the symptoms. Could you help me determine what could be the cause?",
+ "seconds": 5.101
+}

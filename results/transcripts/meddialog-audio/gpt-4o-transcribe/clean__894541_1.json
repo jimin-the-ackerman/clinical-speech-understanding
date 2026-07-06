@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__894541_1",
+ "condition": "clean",
+ "reference": "Hello Doctor, we are planning for the baby now, and it has been four months since we started trying and we haven't taken any precautions, so I would like to know the percentage chance of conceiving. Secondly, I would like to know how long it takes for the fluid to travel inside the female after intercourse. I have noticed that every time the fluid comes out, so I would like to know how the sperm remains inside and what is the normal timeframe. Also, is there any position that I need to maintain after intercourse so that the sperm flows in?",
+ "audio_seconds": 28.84,
+ "created_at": "2026-07-06T00:45:32+00:00",
+ "failed": false,
+ "text": "Doctor, we are planning for the baby now and it has been four months since we started trying and we haven't any precautions. So I would like to know the percentage chance of conceiving. Secondly, I would like to know how long it takes for the fluid to travel inside the female after intercourse. I have noticed that every time the fluid comes out, so I would like to know how the sperm remains inside and what is the normal time frame. Also, is there any position that I need to maintain after intercourse so that the sperm flows in?",
+ "seconds": 1.718
+}

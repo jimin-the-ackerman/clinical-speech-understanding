@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__154040_1",
+ "condition": "clean",
+ "reference": "My daughter has small red pimple-looking bumps on her outer thigh. They started on the left leg and have spread to her left arm and now her right leg. Some of them have white heads. I popped one of them last night and liquid pus came out. They do not itch or hurt her. Help!!!",
+ "audio_seconds": 18.86,
+ "created_at": "2026-07-06T05:00:55+00:00",
+ "failed": false,
+ "text": "My daughter has small red pimple-looking bumps on her outer thigh. They started on the left leg and have spread to her left arm and now her right leg. Some of them have white heads. I popped one of them last night and liquid pus came out. They do not itch or hurt her. Help.",
+ "seconds": 0.58
+}

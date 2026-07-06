@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__184064_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, I am ten weeks pregnant, and I have been experiencing a lot of lower abdominal pain that lasts for long periods of time. It always starts when I am standing at work for a while. I went to my doctor the other day, and we discovered that I have a retroverted uterus. Can that really be causing a lot of pain, or should I be worried? I am not sure if I should wait it out or seek help now. I have an ultrasound scheduled for the 21st.",
+ "audio_seconds": 27.14,
+ "created_at": "2026-07-06T05:08:24+00:00",
+ "failed": false,
+ "text": "Hi, I am ten weeks pregnant, and I have been experiencing a lot of lower abdominal pain that lasts for long periods of time. It always starts when I am standing at work for a while. I went to my doctor the other day, and we discovered that I have a retroverted uterus. Can that really be causing a lot of pain, or should I be worried? I am not sure if I should wait it out or seek help now. I have an ultrasound scheduled for the twenty-first.",
+ "seconds": 0.899
+}

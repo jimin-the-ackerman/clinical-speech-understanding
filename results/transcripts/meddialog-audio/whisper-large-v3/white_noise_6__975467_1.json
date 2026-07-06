@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__975467_1",
+ "condition": "white_noise_6",
+ "reference": "Can a baby's heartbeat stop and start again? My baby's heartbeat cannot be detected. Is it because I am too early or am I miscarrying? At first, doctors calculated that I was eleven weeks. I had my first ultrasound yesterday, and I was told I was nine weeks. No heartbeat was detected, and I was told I was having a missed miscarriage. But just to be safe, the doctor scheduled me for a second ultrasound on January 26th. Help me, please.",
+ "audio_seconds": 32.51,
+ "created_at": "2026-07-06T04:39:23+00:00",
+ "failed": false,
+ "text": "Can a baby's heartbeat stop and start again? My baby's heartbeat cannot be detected. Is it because I am too early or am I missing? At first, doctors calculated that I was 11 weeks. I had my first ultrasound yesterday and I was told I was 9 weeks. No heartbeat was detected and I was told I was having a miscarriage. But just to be safe, the doctor scheduled me for a second ultrasound on January 26th. Help me, please.",
+ "seconds": 0.864
+}

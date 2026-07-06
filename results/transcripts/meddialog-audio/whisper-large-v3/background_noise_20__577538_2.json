@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__577538_2",
+ "condition": "background_noise_20",
+ "reference": "If you have had an allergy to a particular substance before, there is a chance that you may still be allergic to it now. It is better to avoid it or use it under the supervision of your doctor.",
+ "audio_seconds": 12.89,
+ "created_at": "2026-07-06T04:15:16+00:00",
+ "failed": false,
+ "text": "If you have had an allergy to a particular substance before, there is a chance that you may still be allergic to it now. It is better to avoid it or use it under the supervision of your doctor.",
+ "seconds": 0.449
+}

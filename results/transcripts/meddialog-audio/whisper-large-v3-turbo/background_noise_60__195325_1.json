@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__195325_1",
+ "condition": "background_noise_60",
+ "reference": "This morning I was sitting in the front seat of my car when I turned around to the back seat to buckle my daughter in her seat. Suddenly, I felt a sharp pain shoot up my back. Now, I cannot stand up straight, and going from a sitting down to a standing up position is excruciating. I have to help myself get up with support by holding onto the table. What could have happened and how do I fix it?",
+ "audio_seconds": 20.82,
+ "created_at": "2026-07-06T04:42:32+00:00",
+ "failed": false,
+ "text": "This morning, I was sitting in the front seat of my car when I turned around to the back buckle of my daughter in her seat. Suddenly, I felt a sharp pain shoot up my back. Now, I cannot stand up straight, and going from a sitting down to a standing up position is excruciating. I have to help myself get up in support by holding onto the table. What could have happened, and how do I fix it?",
+ "seconds": 0.275
+}

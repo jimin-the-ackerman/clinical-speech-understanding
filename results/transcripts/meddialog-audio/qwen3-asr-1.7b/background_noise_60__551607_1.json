@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__551607_1",
+ "condition": "background_noise_60",
+ "reference": "My mother is fifty-seven years old. She is a Hepatitis C patient who completed seventy-two injections six years ago. At present, she is experiencing fluctuations in her platelet count, along with feelings of intense weakness and leg pains. Her other medical reports are clear; her hemoglobin level is thirteen point two, alanine aminotransferase is twenty-eight, and total leukocyte count is within range. How could this condition be controlled, and what might be the possible reasons for it? Please suggest any medications to improve her platelet count.",
+ "audio_seconds": 35.24,
+ "created_at": "2026-07-06T05:25:17+00:00",
+ "failed": false,
+ "text": "My mother is 57 years old. She is a hepatitis C patient who completed 72 injections six years ago. At present, she is experiencing fluctuations in her platelet count, along with feelings of intense weakness and legs. Her other medical reports are clear. Her hemoglobin level is 13.2. Alanine aminotransferase is 28. Total leukocyte count is within range. How could this condition be controlled, and what might be the possible reasons for it? Please suggest any medications to improve her platelet count.",
+ "seconds": 1.057
+}

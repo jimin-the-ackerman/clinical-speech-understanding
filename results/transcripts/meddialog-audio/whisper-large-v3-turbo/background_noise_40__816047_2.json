@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__816047_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, you mentioned that your cycles are regular with a twenty-eight-day duration. Since your periods started on December 2nd, ovulation typically occurs around December 16th, plus or minus two days. Therefore, it is unlikely to experience ovulation on December 5th. The symptoms you are experiencing are mostly due to hormonal changes. Pregnancy does not usually occur during the first eight days and the last eight days of the cycle for individuals with regular periods. There is no need to feel anxious. However, if you are still concerned, you may consider taking a pregnancy test or undergoing an abdominal ultrasound.",
+ "audio_seconds": 36.95,
+ "created_at": "2026-07-06T04:42:08+00:00",
+ "failed": false,
+ "text": "hi you mentioned that your cycles are regular with a 28-day duration since your period started on december 2nd ovulation typically occurs around december 16th plus or minus two days therefore it is unlikely to experience ovulation on december 5th the symptoms you are experiencing are mostly due to hormonal changes pregnancy does not usually occur during the first eight days in the last eight days of the cycle for individuals with regular periods there is no need to feel anxious however if you are still concerned you may consider taking a pregnancy test or undergoing an abdominal ultrasound",
+ "seconds": 0.369
+}

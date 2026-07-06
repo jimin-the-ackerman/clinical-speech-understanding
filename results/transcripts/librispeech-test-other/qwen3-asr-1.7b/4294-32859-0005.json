@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-32859-0005",
+ "condition": null,
+ "reference": "BUT HONEST MARK FORGOT THAT YOUNG LADIES DO NOT ALWAYS COME OUT QUITE ALONE AND JUMP UNASSISTED INTO THEIR VEHICLES",
+ "audio_seconds": 7.71,
+ "created_at": "2026-07-06T03:31:44+00:00",
+ "failed": false,
+ "text": "But honest Mark forgot that young ladies do not always come out quite alone, and jump unassisted into their vehicles.",
+ "seconds": 0.257
+}

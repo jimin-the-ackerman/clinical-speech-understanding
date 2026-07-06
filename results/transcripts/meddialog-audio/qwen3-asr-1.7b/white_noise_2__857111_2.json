@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__857111_2",
+ "condition": "white_noise_2",
+ "reference": "Hi Sarathkrishna, if there is confirmation of brain death, then unfortunately no more treatment options exist. This situation is unsurvivable, and she is being kept alive by the ventilator while her heart continues to pump blood. If your friend's family has no objection, then her organs could possibly help a few patients suffering from various other diseases. I hope this answer helps.",
+ "audio_seconds": 25.09,
+ "created_at": "2026-07-06T05:38:09+00:00",
+ "failed": false,
+ "text": "Hi, Sraf Krishna. If there is confirmation of brain death, then unfortunately no more treatment options exist. The situation is unsurvivable, and she is being kept alive by the ventilator while her heart continues to pump blood. If your friend's family has no objection, then her organs could possibly help a few patients suffering from various other diseases. I hope this answer helps.",
+ "seconds": 0.738
+}

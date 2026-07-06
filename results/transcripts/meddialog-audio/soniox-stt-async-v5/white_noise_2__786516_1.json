@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__786516_1",
+ "condition": "white_noise_2",
+ "reference": "My son fainted last Saturday, and before that, he was in bed feeling very tired. He told me he needed chocolate, so I gave it to him, and all of a sudden, his energy level went up. I took him to the doctor; they ran a blood test, and his blood sugar level was at thirty-five. What could be wrong with him?",
+ "audio_seconds": 18.94,
+ "created_at": "2026-07-06T03:07:57+00:00",
+ "failed": false,
+ "text": "My son fainted last Saturday, and before that he was in bed feeling very tired. He told me he needed chocolate, so I gave it to him, and all of a sudden his energy level went up. I took him to the doctor, they ran a blood test, and his blood sugar level was at 35. What could be wrong with him?",
+ "seconds": 5.007
+}

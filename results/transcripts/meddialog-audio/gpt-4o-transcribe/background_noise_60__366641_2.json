@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__366641_2",
+ "condition": "background_noise_60",
+ "reference": "For hyperpigmentation, you can use a skin lightening ointment like Melacare for a couple of days. Hypopigmentation resolves in many cases, so it is best to observe the initial period to check for any changes in pigmentation. If the hypopigmented area persists, there are treatment modalities like microskin grafting and epidermal grafting. Talk to a plastic surgeon regarding this. Also, do not forget to apply sunscreen over the burned area before sun exposure.",
+ "audio_seconds": 28.67,
+ "created_at": "2026-07-06T00:44:01+00:00",
+ "failed": false,
+ "text": "For hyperpigmentation, you can use a skin lightening ointment like Melacare for a couple of days. Hypopigmentation resolves in many cases, so it is best to observe the initial period to check for any changes in pigmentation. If the hypopigmented area persists, there are treatment modalities like microskin grafting and epidermal grafting. Talk to a plastic surgeon regarding this. Also, do not forget to apply sunscreen over the burned area before sun exposure.",
+ "seconds": 1.653
+}

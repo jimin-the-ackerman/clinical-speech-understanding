@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0018",
+ "condition": null,
+ "reference": "BEAR IT PEOPLE ALWAYS DO BEAR THINGS SOMEHOW ANSWERED POLLY LOOKING AS IF SENTENCE HAD BEEN PASSED UPON HER",
+ "audio_seconds": 7.32,
+ "created_at": "2026-07-06T03:17:20+00:00",
+ "failed": false,
+ "text": "Bear it. People always do bear things somehow. Answered Polly, looking as if sentence had been passed upon her.",
+ "seconds": 0.256
+}

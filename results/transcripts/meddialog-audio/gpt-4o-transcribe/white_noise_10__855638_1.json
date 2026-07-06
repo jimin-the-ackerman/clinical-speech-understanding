@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__855638_1",
+ "condition": "white_noise_10",
+ "reference": "My husband has had a lump appear in front of his right ear, and it is getting larger. He has had two surgeries for skin cancers on his scalp, which required radical surgery. Could the lump be related to the cancers since one has not completely healed? Is this a gland in the area of the ear?",
+ "audio_seconds": 19.03,
+ "created_at": "2026-07-06T00:46:08+00:00",
+ "failed": false,
+ "text": "It's all up to you. It's all up to you.",
+ "seconds": 0.651
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__847078_2",
+ "condition": "white_noise_10",
+ "reference": "If allergies are not treated, they may extend to other systems after a long duration, like your sinus allergies extending to the skin. Some medicines used for allergies can cause this, such as paracetamol, synthetic vitamins, ibuprofen, Disprin, decongestants, and aspirin. It is recommended to undergo allergy tests and treatment later on. If you do not use the aforementioned medicines, your skin will gradually clear. For your skin to recover, avoid using mustard oil, coconut oil, groundnut oil, almond oil, and soybean oil. Instead, use olive oil for cooking and application. Use non-toxic soaps, shampoos, and creams.",
+ "audio_seconds": 39.94,
+ "created_at": "2026-07-06T05:07:25+00:00",
+ "failed": false,
+ "text": "If allergies are not treated, they may extend to other systems after a long duration, like your sinus allergies extending to the skin. Some medicines used for allergy sufferers, such as Percitamol, synthetic vitamins, ID Prophen, Dispren, Decongestants, and Astir. It is recommended to undergo allergy testing and treatment later on. If you do not use the aforementioned medicines, your skin will gradually clear. For your skin to recover, avoid using mustard oil, coconut oil, ground nut oil, and soybean oil. Instead, use olive oil for cooking and applications. Use non toxic soap, shampoo, and cleaners.",
+ "seconds": 1.148
+}

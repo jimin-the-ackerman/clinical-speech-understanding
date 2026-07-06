@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__532067_1",
+ "condition": "white_noise_2",
+ "reference": "Hello, my wife and son have had a low-grade fever for more than a month. Several tests have been conducted, including blood tests for typhoid and malaria, etc. Recently, an ultrasound was conducted for my wife, where two results were found: one was kidney stones, and there was a small increase in liver size. However, my son does not have any symptoms of fever and is having a temperature below one hundred degrees Fahrenheit. My wife is experiencing a temperature below one hundred and one degrees Fahrenheit. Please suggest what to do.",
+ "audio_seconds": 31.83,
+ "created_at": "2026-07-06T05:36:36+00:00",
+ "failed": false,
+ "text": "Hello, my wife and son have had a low-grade fever for more than a month. Several tests have been conducted, including blood tests for typhoid and malaria, etc. Recently, an ultrasound was conducted for my wife, where two results were found. One was kidney stones, and there was a small increase in liver size. However, my son does not have any symptoms of fever and is having a temperature below 100 degrees Fahrenheit. My wife is experiencing a temperature below 101 degrees Fahrenheit. Please suggest what to do.",
+ "seconds": 1.026
+}

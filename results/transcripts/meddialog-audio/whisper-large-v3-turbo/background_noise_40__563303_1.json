@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__563303_1",
+ "condition": "background_noise_40",
+ "reference": "I have a purple, dark lump on my bikini line. It has been there for months now. It went down, then came back up, and now it also has a little pinprick hole on the lump. Pus, blood, and clear fluids come out of the lump when I squeeze it. What could it be? How do I get rid of it?",
+ "audio_seconds": 18.18,
+ "created_at": "2026-07-06T04:41:46+00:00",
+ "failed": false,
+ "text": "I have a purple dark lump on my bikini line. It has been there for months now. It went down, then came back up, and now it also has a little pinprick hole on the line. Pus, blood, and clear fluids come out of the lump when I squeeze it. What could it be? How do I get rid of it?",
+ "seconds": 0.262
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0065",
+ "condition": null,
+ "reference": "WE FEEL MY HUSBAND AND I THAT WE ARE ONLY THE STEWARDS OF HIS BOUNTY AND THAT BECAUSE HE HAS SAID INASMUCH AS YE HAVE DONE IT UNTO ONE OF THE LEAST OF THESE MY BRETHREN YE HAVE DONE IT UNTO ME IT IS THE GREATEST PRIVILEGE AND DELIGHT TO DO ANYTHING FOR HIS PEOPLE",
+ "audio_seconds": 17.02,
+ "created_at": "2026-07-05T13:14:53+00:00",
+ "failed": false,
+ "text": "we feel my husband and i that we are only the stewards of his bounty and because he has said inasmuch as ye have done it unto one of the least of these my brethren ye have done it unto me it is the greatest privilege and delight to do anything for his people",
+ "seconds": 0.16
+}

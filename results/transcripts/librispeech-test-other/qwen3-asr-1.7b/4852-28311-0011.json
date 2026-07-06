@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28311-0011",
+ "condition": null,
+ "reference": "BETCHA AREN'T GOIN AFTER ALL CHRIS TURNED ON HIM",
+ "audio_seconds": 3.35,
+ "created_at": "2026-07-06T03:32:27+00:00",
+ "failed": false,
+ "text": "Bitcher ain't going after all. Just turned on him.",
+ "seconds": 0.167
+}

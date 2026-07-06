@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__475691_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, I think you should get yourself evaluated first. Get a thyroid profile and prolactin level done. Clomiphene Citrate is given to increase the size of follicles. Fostimon is also for the same purpose. You can track your ovulation by repeated ultrasounds, and when the follicle is more than seventeen to eighteen millimeters, take the Choriomon injection for the rupture of follicles. Be in contact with your husband for two to three days after the injection. Take progesterone for the next two weeks after rupture is confirmed on ultrasound. Do a urine pregnancy test after that. You can try like this for three to six cycles. The chance of getting pregnant in one cycle of timed intercourse is only seven to ten percent. Hope this helps.",
+ "audio_seconds": 44.8,
+ "created_at": "2026-07-06T04:41:37+00:00",
+ "failed": false,
+ "text": "Hi! I think you should get yourself evaluated first. Get a thyroid profile and prolactin level done. Clonafine citrate is given to increase the size of follicles. Clostamon is also for the same purpose. You can track your ovulation by repeated ultrasounds, and when the follicle is more than 17 to 18 millimeters, take the Coriamon injection for the rupture of follicles. Be in contact with your husband for 2 to 3 days after the injection. Take progesterone for the next 2 weeks after rupture is confirmed on ultrasound. Do a urine pregnancy test after that. You can try like this for 3 to 6 cycles. The chance of getting pregnant in 1 cycle of timed intercourse is only 7 to 10%. Hope this helps.",
+ "seconds": 0.485
+}

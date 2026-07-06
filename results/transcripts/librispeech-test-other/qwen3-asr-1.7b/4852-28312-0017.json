@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28312-0017",
+ "condition": null,
+ "reference": "BUT EVEN AS HE SLOWLY TURNED THE THOUGHT PIERCED HIS MIND WHY HAD HE NOT SEEN THE REFLECTION OF THE HEADLIGHTS OF THE CARS MOVING UP AROUND THE CORNER OF WATER STREET AND UP THE HILL TOWARD THE TRAFFIC SIGNALS",
+ "audio_seconds": 13.11,
+ "created_at": "2026-07-06T03:32:34+00:00",
+ "failed": false,
+ "text": "But even as he slowly turned, the thought pierced his mind: Why had he not seen the reflection of the headlights of the cars moving up or around the corner of Waller Street, not the hill toward the traffic signals?",
+ "seconds": 0.439
+}

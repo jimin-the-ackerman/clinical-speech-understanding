@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163624-0002",
+ "condition": null,
+ "reference": "BUT IN THE NIGHT WHEN THE BATTLE WAS OVER HIS YOUNG WIFE CAME OUT AND SEARCHED FOR HIM AMONG THE SLAIN AND AT LAST SHE FOUND HIM AND ASKED WHETHER HE MIGHT BE HEALED",
+ "audio_seconds": 8.14,
+ "created_at": "2026-07-06T03:30:05+00:00",
+ "failed": false,
+ "text": "But in the night, when the battle was over, his young wife came out and searched for him among the slain, and at last she found him and asked whether he might be healed.",
+ "seconds": 0.375
+}

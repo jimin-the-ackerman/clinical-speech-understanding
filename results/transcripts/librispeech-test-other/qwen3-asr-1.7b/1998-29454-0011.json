@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0011",
+ "condition": null,
+ "reference": "WHEN IT WAS OVER THE MAN ASKED DICKIE IF HE COULD WALK A LITTLE WAY AND WHEN DICKIE SAID HE COULD THEY SET OUT IN THE MOST FRIENDLY WAY SIDE BY SIDE",
+ "audio_seconds": 8.59,
+ "created_at": "2026-07-06T03:27:01+00:00",
+ "failed": false,
+ "text": "When it was over, the man asked Dicky if he could walk a little way, and when Dicky said he could, they set out in the most friendly way, side by side.",
+ "seconds": 0.393
+}

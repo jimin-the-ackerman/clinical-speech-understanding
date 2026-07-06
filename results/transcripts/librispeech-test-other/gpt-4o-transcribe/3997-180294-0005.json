@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180294-0005",
+ "condition": null,
+ "reference": "NOW GO I CAN'T KEEP MY EYES OPEN",
+ "audio_seconds": 3.2,
+ "created_at": "2026-07-05T23:55:29+00:00",
+ "failed": false,
+ "text": "Now go; I can't keep my eyes open.",
+ "seconds": 0.566
+}

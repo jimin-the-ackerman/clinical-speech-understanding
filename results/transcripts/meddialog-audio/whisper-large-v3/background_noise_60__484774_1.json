@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__484774_1",
+ "condition": "background_noise_60",
+ "reference": "It appears that I have an abscessed tooth. I got a bump on my gum four months ago and experienced pain. I then took antibiotics to eliminate the infection, but the small sac on my gum never went away. Now, four months later, pus is coming out when I press on it. I have been gargling with saltwater and I am going to see a dentist tomorrow. Will I lose my tooth because I waited so long?",
+ "audio_seconds": 22.02,
+ "created_at": "2026-07-06T04:22:17+00:00",
+ "failed": false,
+ "text": "It appears that I'm having a process of healing, but I'm not going to go through the whole process of healing. I'm just going to continue healing. I then took antibiotics to eliminate the infection, but the small sap of my throat never really healed. I'm going to go through the whole process of healing. Plus, it's not going to be impressive. I have been gardening with salt water, and I am going to continue to use it. I'm going to continue to use it.",
+ "seconds": 2.211
+}

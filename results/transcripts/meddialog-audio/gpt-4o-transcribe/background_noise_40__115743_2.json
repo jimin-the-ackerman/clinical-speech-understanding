@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__115743_2",
+ "condition": "background_noise_40",
+ "reference": "Hello! Pneumonia, bronchitis, and asthma are three completely different conditions. However, the child usually has a cough in all three situations. It is important to differentiate the cause of the cough. Treatment will be according to that. Talk to your doctor about it.",
+ "audio_seconds": 15.7,
+ "created_at": "2026-07-06T00:42:47+00:00",
+ "failed": false,
+ "text": "Hello! Pneumonia, bronchitis, and asthma are three completely different conditions. However, the child usually has a cough in all three situations. It is important to differentiate the cause of the cough. Treatment will be according to that. Talk to your doctor about it.",
+ "seconds": 0.965
+}

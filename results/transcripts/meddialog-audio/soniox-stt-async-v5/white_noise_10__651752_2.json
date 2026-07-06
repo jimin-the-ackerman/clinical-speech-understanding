@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__651752_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, the first seven days of a menstrual cycle are safe. Having unprotected sexual intercourse during this period does not cause pregnancy. In addition, you are regularly taking Microgynon correctly. So in all probability, there is no chance of pregnancy. I don't see any reason why you should think you are pregnant. The period after completing the Microgynon packet can start on any day in a week's time. Today is just the third day. You should be starting your period in two-three days. Don't worry. I hope I have answered your concerns.",
+ "audio_seconds": 32.6,
+ "created_at": "2026-07-06T03:02:57+00:00",
+ "failed": false,
+ "text": "Hi. The first 7 days of a menstrual cycle are safe. Having unprotected sexual intercourse during this period does not cause pregnancy. In addition, you are regularly taking microgenome correctly, so in all probability there is no chance of pregnancy. I don't see any reason why you should think you are pregnant. The period after completing the microgynon packet can start on any day in a week's time. Today is just the 3rd day; you should be starting your period in 2 to 3 days. Don't worry. I hope I have answered your concerns.",
+ "seconds": 9.239
+}

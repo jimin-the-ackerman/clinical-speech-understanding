@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__486251_2",
+ "condition": "white_noise_6",
+ "reference": "Considering your symptoms, it seems highly likely that you are suffering from a deficiency of vitamin B12, which is important for nerve health. This deficiency can arise if: one. You are diabetic, two. You are suffering from hypothyroidism or hypertension and have been taking medications for a long time, three. You are vegetarian or have some dietary preferences. Get your blood levels checked and have a vitamin B12 supplementation prescribed by your doctor. Hope it helps.",
+ "audio_seconds": 30.38,
+ "created_at": "2026-07-06T04:48:40+00:00",
+ "failed": false,
+ "text": "Considering your symptoms, it seems highly likely that you are suffering from a deficiency of vitamin B12, which is important for nerve health. This deficiency can arise if, 1. You are diabetic. 2. You are suffering from hypothyroidism or hypertension and have been taking medications for a long time. 3. You are vegetarian or have some dietary preferences. Get your blood levels checked and have a vitamin B12 supplementation prescribed by your doctor. I hope it helps.",
+ "seconds": 0.337
+}

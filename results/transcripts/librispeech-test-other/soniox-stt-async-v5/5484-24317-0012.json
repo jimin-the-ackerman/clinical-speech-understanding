@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24317-0012",
+ "condition": null,
+ "reference": "TRUE AN INTERESTING CONVERSATION STILL HAD POWER TO CHARM HIM BUT OFTEN DURING ITS CONTINUANCE THE FULL CONSCIOUSNESS OF HIS MISFORTUNE FORCED ITSELF UPON HIS MIND FOR THE MAJORITY OF THE SUBJECTS DISCUSSED BY THE ARTISTS CAME TO THEM THROUGH THE MEDIUM OF SIGHT AND REFERRED TO NEW CREATIONS OF ARCHITECTURE SCULPTURE AND PAINTING FROM WHOSE ENJOYMENT HIS BLINDNESS DEBARRED HIM",
+ "audio_seconds": 22.75,
+ "created_at": "2026-07-06T02:30:22+00:00",
+ "failed": false,
+ "text": "True, an interesting conversation still had power to charm him. But often during its continuance, the full consciousness of his misfortune forced itself upon his mind, for the majority of the subjects discussed by the artists came to them through the medium of sight and referred to new creations of architecture, sculpture, and painting, from whose enjoyment his blindness debarred him.",
+ "seconds": 5.614
+}

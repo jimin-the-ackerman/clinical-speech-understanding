@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__506145_2",
+ "condition": "white_noise_10",
+ "reference": "Hi. Yes, you can be pregnant. However, I cannot provide you with a confirmation of your pregnancy status, as the effects of the Depo-Provera injection need to wear off. Before that, you need to ensure your menstrual cycle regularizes. Only once it does should you start trying to conceive, because conception might occur, but without a normal fertility and hormonal profile, the continuation of pregnancy in a healthy manner might not be so easy. Best wishes.",
+ "audio_seconds": 32.17,
+ "created_at": "2026-07-06T00:45:53+00:00",
+ "failed": false,
+ "text": "get off the park bench!",
+ "seconds": 0.726
+}

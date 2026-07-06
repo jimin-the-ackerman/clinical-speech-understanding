@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__195513_1",
+ "condition": "clean",
+ "reference": "My brother's wife is twenty-nine years old and is suffering from a severe cough and fever at night. She is suspected to have pneumonia and tuberculosis, but the X-ray did not show any results. We went to our family doctor, and according to his suggestion, we had a scan done. He is saying that it is primary complex. Is there any chance of primary complex affecting her? Her hemoglobin level is ten.",
+ "audio_seconds": 22.87,
+ "created_at": "2026-07-06T05:01:06+00:00",
+ "failed": false,
+ "text": "My brother's wife is twenty-nine years old and is suffering from a severe cough and fever at night. She is suspected to have pneumonia and tuberculosis, but the X-ray did not show any results. We went to our family doctor, and according to his suggestion, scan done. He is saying that it is primary complex. Is there any chance of primary complex affecting her? Her hemoglobin level is ten.",
+ "seconds": 0.742
+}

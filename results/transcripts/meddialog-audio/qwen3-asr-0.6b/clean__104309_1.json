@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__104309_1",
+ "condition": "clean",
+ "reference": "Hi, I am a fifteen-year-old male. There is a bone that sticks out from just under my stomach, and it has been there for as long as I can remember. It sticks out a lot when I am in the deep end of a swimming pool or when I am doing sit-ups. Is there a way to stop this?",
+ "audio_seconds": 16.9,
+ "created_at": "2026-07-06T05:00:47+00:00",
+ "failed": false,
+ "text": "Hi, I am a fifteen-year-old male. There is a bone that sticks out from just under my stomach, and it has been there for as long as I can remember. It sticks out a lot when I am in the deep end of a swimming pool or when I am doing sit-ups. Is there a way to stop this?",
+ "seconds": 0.633
+}

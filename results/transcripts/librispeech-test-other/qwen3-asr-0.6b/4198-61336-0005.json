@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-61336-0005",
+ "condition": null,
+ "reference": "AN ATTEMPT WAS MADE TO CAPTURE KING SHARDURIS WHO LEAPT FROM HIS CHARIOT AND MADE HASTY ESCAPE ON HORSEBACK HOTLY PURSUED IN THE GATHERING DARKNESS BY AN ASSYRIAN CONTINGENT OF CAVALRY",
+ "audio_seconds": 12.96,
+ "created_at": "2026-07-06T03:19:29+00:00",
+ "failed": false,
+ "text": "An attempt was made to capture King Chardurus, who leapt from his chariot and made hasty escape on horseback, hotly pursued in the gathering darkness by an Assyrian contingent of cavalry.",
+ "seconds": 0.409
+}

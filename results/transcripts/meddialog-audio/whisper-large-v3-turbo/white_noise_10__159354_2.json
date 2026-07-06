@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__159354_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, it is entirely a normal phenomenon. You are aware of your heartbeat; it happens only when you are relaxing and your pulse rate is also normal. Therefore, I think it is not a pathological condition at all. You should try to ignore it. However, if it does not get relieved, then you can get 'Ciplar LA' twenty milligrams once a day prescribed by a local doctor for a few weeks.",
+ "audio_seconds": 24.83,
+ "created_at": "2026-07-06T04:45:22+00:00",
+ "failed": false,
+ "text": "Hello, it is entirely a normal phenomenon. You are aware of your heartbeat. It happens only when you are relaxing and your pulse rate is also normal. Therefore, I think it is not a pathological condition at all. You should try to ignore it. However, if it does not get released, then you can get Kippler LA 20 milligrams once a day, prescribed by a local doctor for a few weeks.",
+ "seconds": 0.234
+}

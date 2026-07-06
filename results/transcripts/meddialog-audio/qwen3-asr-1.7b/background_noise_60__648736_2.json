@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__648736_2",
+ "condition": "background_noise_60",
+ "reference": "These are symptoms of aggressive and antisocial behavior. These are due to genetic and environmental factors. You should go for a chromosomal analysis of your child. An extra X chromosome in the genome may lead to difficulties like these. A frontal lobe lesion in the brain may also cause this, so you should seek help from a pediatric neurologist.",
+ "audio_seconds": 19.46,
+ "created_at": "2026-07-06T05:25:36+00:00",
+ "failed": false,
+ "text": "These are symptoms of aggressive and antisocial behavior. These are due to genetic and environmental factors. You should go for a chromosomal analysis of your child. An extra X chromosome in the genome may lead to difficulties like these. A frontal lobe lesion in the brain may also cause this. So you should seek help from a pediatric neurologist.",
+ "seconds": 0.66
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41168-0021",
+ "condition": null,
+ "reference": "IN REPLY SNETKOV SPOKE OF THE TRUST THE NOBLEMEN OF THE PROVINCE HAD PLACED IN HIM THE AFFECTION THEY HAD SHOWN HIM WHICH HE DID NOT DESERVE AS HIS ONLY MERIT HAD BEEN HIS ATTACHMENT TO THE NOBILITY TO WHOM HE HAD DEVOTED TWELVE YEARS OF SERVICE",
+ "audio_seconds": 16.46,
+ "created_at": "2026-07-06T03:21:22+00:00",
+ "failed": false,
+ "text": "In reply, Snedcov spoke of the trust the noblemen of the province had placed in him, the affection they had shown him, which he did not deserve, as his only merit had been his attachment to the nobility, to whom he had devoted twelve years of service.",
+ "seconds": 0.542
+}

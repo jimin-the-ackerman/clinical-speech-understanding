@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__143631_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, sir. Welcome to HCG. I understand your problem. First, you have to undergo some investigations like a complete blood count, liver function test, Widal test, malaria test, and complete urine examination. If all your reports are normal, then it may be due to weakness. Start taking one multivitamin tablet for three months and consume good food such as meat, proteins, milk, eggs, and leafy vegetables. I hope you are satisfied with my answer. Thank you.",
+ "audio_seconds": 27.82,
+ "created_at": "2026-07-06T00:41:50+00:00",
+ "failed": false,
+ "text": "Hi sir, welcome to HCG. I understand your problem. First, you have to undergo some investigations like a complete blood count, liver function test, weedle test, malaria test, and complete urine examination. If all your reports are normal, then it may be due to weakness. Start taking one multivitamin tablet for three months and consume good foods such as meat, proteins, milk, eggs, and leafy vegetables. I hope you are satisfied with my answer. Thank you.",
+ "seconds": 1.605
+}

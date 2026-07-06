@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0044",
+ "condition": null,
+ "reference": "BLESS ME SAID MISTER BEALE UNCOMFORTABLY WELL THERE",
+ "audio_seconds": 3.63,
+ "created_at": "2026-07-06T03:27:07+00:00",
+ "failed": false,
+ "text": "Bless me,\" said Mister Beale uncomfortably. Well, there.",
+ "seconds": 0.184
+}

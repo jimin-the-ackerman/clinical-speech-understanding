@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__961574_2",
+ "condition": "clean",
+ "reference": "Hi, you need not to worry at all. This is a normal occurrence. Since it is a boy, his voice will become thicker as he grows. In some babies, this occurs later, and in some earlier. I wish your child good health.",
+ "audio_seconds": 15.36,
+ "created_at": "2026-07-06T03:00:15+00:00",
+ "failed": false,
+ "text": "Hi. Not to worry at all; this is a normal occurrence. Since it is a boy, his voice will become thicker as he grows. In some babies, this occurs later, and in some earlier. I wish your child good health.",
+ "seconds": 4.641
+}

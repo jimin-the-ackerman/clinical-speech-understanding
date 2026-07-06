@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168671-0009",
+ "condition": null,
+ "reference": "THE INTERMENT OF MOTHER CRUCIFIXION IN THE VAULT UNDER THE ALTAR THE EXIT OF COSETTE THE INTRODUCTION OF JEAN VALJEAN TO THE DEAD ROOM ALL HAD BEEN EXECUTED WITHOUT DIFFICULTY AND THERE HAD BEEN NO HITCH LET US REMARK IN PASSING THAT THE BURIAL OF MOTHER CRUCIFIXION UNDER THE ALTAR OF THE CONVENT IS A PERFECTLY VENIAL OFFENCE IN OUR SIGHT",
+ "audio_seconds": 22.29,
+ "created_at": "2026-07-06T03:30:44+00:00",
+ "failed": false,
+ "text": "The interment of Mother Crucifixion in the vault under the altar, the exit of Cosette, the introduction of Jean Valjean into the dead room, all had been executed without difficulty, and there had been no hitch. Let us remark in passing that the burial of Mother Crucifixion under the altar of the convent is a perfectly venial offence in our sight.",
+ "seconds": 0.767
+}

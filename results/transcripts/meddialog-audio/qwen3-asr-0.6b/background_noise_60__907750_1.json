@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__907750_1",
+ "condition": "background_noise_60",
+ "reference": "Under my ribs on the right side is hurting when I breathe, cough, or even clear my throat. I got choked on some meat Wednesday night, and this right side has hurt since, but it has been worse today. I had to leave work at nine a.m. this morning. I don't know if it is the spleen or if I have cracked a rib when I was coughing so hard while choking.",
+ "audio_seconds": 19.2,
+ "created_at": "2026-07-06T05:00:20+00:00",
+ "failed": false,
+ "text": "Look at my ribs on the right side. It's hurting from pain from the cough, or even clear my throat. I got choked on some meat once in a while. This right side is worse since, but it hasn't been worse today. I had a weird burn at nine a.m. this morning. I don't know if it is the spleen, or I have cracked ribs, and it's causing so horrible choking.",
+ "seconds": 0.819
+}

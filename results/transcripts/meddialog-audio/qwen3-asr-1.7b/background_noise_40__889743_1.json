@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__889743_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, my name is Danny Francis. I am from Ascension Island. I have been going to the doctor on the island but I don't seem to get any suitable answers; that's why I am online looking for a doctor who can help me. For the last six months, I have been troubled with pain in my neck, radiating down my right arm, and experiencing pins and needles in my hand. Could you please tell me what could be the problem and what medication I can take to help me? I look forward to hearing from you. I'm sorry I don't have a credit card, and I really need some answers.",
+ "audio_seconds": 28.93,
+ "created_at": "2026-07-06T05:23:00+00:00",
+ "failed": false,
+ "text": "Hi, my name is Danny Francis. I am from Ascension Island. I have been going to the doctor on the island, but I don't seem to get any suitable answers. That's why I am online looking for a doctor who can help me. For the last six months, I have been troubled with pain in my neck, radiating down my right arm, and experiencing pins and needles in my hand. Could you please tell me what could be the problem and what medication I can take to help me? I look forward to hearing from you. I'm sorry I don't have a credit card, and I really need some answers.",
+ "seconds": 1.189
+}

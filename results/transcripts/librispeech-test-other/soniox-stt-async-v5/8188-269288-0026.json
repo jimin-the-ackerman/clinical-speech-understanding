@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0026",
+ "condition": null,
+ "reference": "I SHALL GO I KNOW A WAY",
+ "audio_seconds": 2.72,
+ "created_at": "2026-07-06T02:40:17+00:00",
+ "failed": false,
+ "text": "I shall go. I know a way.",
+ "seconds": 5.04
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-278226-0004",
+ "condition": null,
+ "reference": "I REMEMBER ALL THE RUBENSES AT THE LOUVRE FOR I SAW THEM THREE YEARS AGO WHEN I WAS STAYING IN PARIS WITH GRANDPAPA",
+ "audio_seconds": 7.82,
+ "created_at": "2026-07-06T03:26:09+00:00",
+ "failed": false,
+ "text": "I remember all the Rubenses at the Louvre, for I saw them three years ago when I was staying in Paris with Grandpapa.",
+ "seconds": 0.303
+}

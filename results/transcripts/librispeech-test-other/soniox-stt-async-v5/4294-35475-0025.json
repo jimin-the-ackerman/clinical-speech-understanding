@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-35475-0025",
+ "condition": null,
+ "reference": "BUT ETHELRIED HEEDED NOT THEIR TAUNTS",
+ "audio_seconds": 2.63,
+ "created_at": "2026-07-06T02:25:57+00:00",
+ "failed": false,
+ "text": "But Ethel read, \"He did not, their taunts.\"",
+ "seconds": 4.626
+}

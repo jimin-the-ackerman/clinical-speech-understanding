@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__791308_1",
+ "condition": "background_noise_20",
+ "reference": "Hello there, I am currently experiencing discomfort and have been for the last three weeks in the left side of my back. I suspect it might be related to my kidney. I am passing urine very regularly, although it is not painful to pass. I had a magnetic resonance imaging scan back in two thousand and ten which reported mild left renal prominence. I have tried not to dwell on this, but this problem is reoccurring and again causing me discomfort. What can I do?",
+ "audio_seconds": 30.29,
+ "created_at": "2026-07-06T04:16:13+00:00",
+ "failed": false,
+ "text": "Hello there. I am currently experiencing discomfort and have been for the last three weeks in the left side of my back. I suspect it might be related to my kidney. I am passing urine very regularly, although it is not painful to pass. I had a magnetic resonance imaging scan back in 2010, which reported mild left renal prominence. I have tried not to dwell on this, but this problem is reoccurring and again causing me discomfort. What can I do?",
+ "seconds": 0.895
+}

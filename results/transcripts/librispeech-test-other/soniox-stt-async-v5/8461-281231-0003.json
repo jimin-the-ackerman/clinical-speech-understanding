@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0003",
+ "condition": null,
+ "reference": "WHAT ART THOU HE EXCLAIMED IN TERROR",
+ "audio_seconds": 3.21,
+ "created_at": "2026-07-06T02:42:24+00:00",
+ "failed": false,
+ "text": "\"What art thou?\" he exclaimed in terror.",
+ "seconds": 4.6
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__165290_2",
+ "condition": "background_noise_40",
+ "reference": "Hi. Please check your thyroid levels in blood and visit a psychiatrist without any delay. This may be a major depressive disorder to the extent of suicidality. This is curable if you take medication regularly. Let us not make life more gloomy; arise and hope for your good health.",
+ "audio_seconds": 15.36,
+ "created_at": "2026-07-06T05:19:43+00:00",
+ "failed": false,
+ "text": "Hi, please check your thyroid levels in blood and visit a psychiatrist without any delay. This may be a major depressive disorder to the extent of suicidality. This is curable if you take medication regularly. Let us not make life more gloomy. Arise and hope for your good health.",
+ "seconds": 0.571
+}

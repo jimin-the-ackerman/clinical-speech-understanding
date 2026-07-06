@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0024",
+ "condition": null,
+ "reference": "HE LEFT THE GALLANT BAND OF FORESTERS SORROWING DEEPLY FOR HIS LOST FRIEND THE LORD OF CONINGSBURGH AND HE AND HIS FOLLOWERS HAD SCARCE DEPARTED WHEN A PROCESSION MOVED SLOWLY FROM UNDER THE GREENWOOD BRANCHES IN THE DIRECTION WHICH HE HAD TAKEN IN THE CENTRE OF WHICH WAS THE CAR IN WHICH THE BODY OF ATHELSTANE WAS LAID",
+ "audio_seconds": 20.21,
+ "created_at": "2026-07-05T13:15:02+00:00",
+ "failed": false,
+ "text": "he left the gallant band of foresters sorrowing deeply for his lost friend the lord of coningsburg and he and his followers had scarce departed when a procession moved slowly from under the greenwood branches in the direction which he had taken in the centre of which was the car in which the body of adelstein was laid",
+ "seconds": 0.174
+}

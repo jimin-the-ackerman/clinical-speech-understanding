@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__425790_2",
+ "condition": "white_noise_2",
+ "reference": "Hi. If I were you, I would first get an X-ray done. I would like to be sure that nothing is wrong with the bone after the fall. I would also do the following for speedy recovery: keep frequent ice for fifteen minutes every two hours, compress it with ankle support or with a crepe bandage, and keep it elevated. No massage until I am sure that no bony injury has occurred. If I am sure, I would slowly knead my calf and the muscles along the outer side of the leg and ice them as well. Once the pain gets reduced, I will start rehabilitation of the ankle, starting slowly with mild calf raises, pushing the sandbag away from the body, pushing the sandbag towards the other leg, keeping it on top of the foot and lifting my toes up. Additionally, do pelvic bridging, clamshell, standing on a single leg with eyes closed, and standing on a single leg trying to reach the toes. I hope this is helpful for you. Please revert back in case you need any further clarification. Wish you a speedy recovery.",
+ "audio_seconds": 64.43,
+ "created_at": "2026-07-06T05:09:13+00:00",
+ "failed": false,
+ "text": "Hi, if I were you, I would first get an X-ray done. I would like to be sure that nothing is wrong with the bone after the fall. I would also do the following for speedy recovery: keep frequent ice for fifteen minutes every two hours, compress it with ankle support or with a craped bandage, and keep it elevated. No massage until I am sure that no bony injury has occurred. If I am sure, I would slowly knead my calf and the muscles along the outer side of the leg and ice them as well. Once the pain gets reduced, I will start rehabilitation of the ankle, starting slowly with mild calf raises, pushing the sandbag away from the body, pushing the sandbag towards the other leg, keeping it on top of the foot and lifting my toes up. Additionally, do pelvic bridging, clamshell, standing on a single leg with eyes closed, and standing on a single leg trying to reach the toes. I hope this is helpful for you. Please revert back in case you need any further clarification. Wish you a speedy recovery.",
+ "seconds": 1.964
+}

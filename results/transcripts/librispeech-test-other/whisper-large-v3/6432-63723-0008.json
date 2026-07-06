@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0008",
+ "condition": null,
+ "reference": "YOU DON'T MEAN THAT LARCH STRUCK HER THAT THERE WAS PHYSICAL ABUSE DO YOU ASKED THE COLONEL THAT'S WHAT HE DID",
+ "audio_seconds": 7.42,
+ "created_at": "2026-07-05T13:05:17+00:00",
+ "failed": false,
+ "text": "you don't mean that larch struck her that there was physical abuse do you asked the colonel that's what he did",
+ "seconds": 0.261
+}

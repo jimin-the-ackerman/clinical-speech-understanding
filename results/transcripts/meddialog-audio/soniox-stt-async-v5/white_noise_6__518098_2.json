@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__518098_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, thanks for the healthcare update. Well, I don’t think there is any abnormality. Don't worry, everything will be fine soon. A few days earlier or later does not matter. If you feel the need, you can contact any gynecologist, but I think you are fine. There are other causes for menstrual disturbances that will be ruled out by a gynecologist.",
+ "audio_seconds": 20.57,
+ "created_at": "2026-07-06T03:10:25+00:00",
+ "failed": false,
+ "text": "Hello, thanks for the healthcare update—well, I don't think there is any abnormality. Don't worry, everything will be fine soon. A few days earlier or later does not matter. If you feel the need, you can contact any gynecologist, but I think you are fine. There are other causes for menstrual issues that will be ruled out by a gynecologist.",
+ "seconds": 4.701
+}

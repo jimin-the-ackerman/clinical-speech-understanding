@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__646781_1",
+ "condition": "background_noise_60",
+ "reference": "I had a porcelain tooth, and it recently fell out while I was eating at a restaurant. I placed it down and lost it. It has been almost two weeks since I have had it. I am waiting for my insurance to be effective, which is on the first of December. This past Sunday, I had a really bad toothache. Now it feels like the pain has moved to my jaw. My jaw looks swollen and is really tender! What can I do?",
+ "audio_seconds": 27.22,
+ "created_at": "2026-07-06T04:43:15+00:00",
+ "failed": false,
+ "text": "I'm gonna listen to it. I'm gonna listen to it. No, you can't just get a touch, but I don't even know. I don't even know it. Only one thing that I'm not going to see is it? I think it's been a surprise. Sometimes I feel like I think I'm too late. It's only a good time. Once I'm just kind of I feel great.",
+ "seconds": 1.391
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__143195_1",
+ "condition": "background_noise_20",
+ "reference": "I have a large painful lump on my upper abdomen. It feels tender when I push on it. When I am just sitting, it does not hurt, but if I lean over, which puts pressure on it, it hurts. It is not really hard, but if I run my hand over my stomach, I can feel a big lump that has never been there before. I feel like if I could just pop this large mass, my abdomen and chest would feel better. I notice when I run, I get a dull pain where the lump is, and I have chest pain, and I have to slow down and walk. I never walk; I normally run three to five miles a day. What could this be?",
+ "audio_seconds": 44.63,
+ "created_at": "2026-07-06T04:13:17+00:00",
+ "failed": false,
+ "text": "I have a large, painful lump on my upper abdomen. It feels tender when I push on it. When I am just sitting, it does not hurt. But if I lean over, which puts pressure on it, it hurts. It is not really hard, but if I run my hand over my stomach, I can feel a big lump that has never been there before. I feel like if I could just pop this large mass, my abdomen and chest would feel better. I notice when I run, I get a dull pain where the lump is, and I have chest pain, and I have to slow down and walk. I never walk. I normally run 3 to 5 miles a day. What could this be?",
+ "seconds": 1.387
+}

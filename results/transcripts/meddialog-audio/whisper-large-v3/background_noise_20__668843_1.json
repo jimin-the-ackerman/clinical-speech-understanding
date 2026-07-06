@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__668843_1",
+ "condition": "background_noise_20",
+ "reference": "I am a thirty-three-year-old woman. I am not sexually active, although I am not a virgin. My partner and I do not have regular sex since he works abroad. When we are together, we have sex. I feel pain whenever we have sexual intercourse for the first time. After the session is over, I experience vaginal discharge which is brownish in color. This happens whenever we have sex after a long time. Subsequent sessions become smooth later on. This time too, I had sex again for the first time after eight years. Am I experiencing the pain because of having sex after a long time? Is the discharge brown due to blood? Is it a symptom of cancer?",
+ "audio_seconds": 37.97,
+ "created_at": "2026-07-06T04:15:38+00:00",
+ "failed": false,
+ "text": "i am a 33 year old woman i am not sexually active although i am not a virgin my partner and i do not have regular sex since he works abroad when we are together we have sex i feel pain whenever we have sexual intercourse for the first time after the session i experience vaginal discharge which is brownish in color this happens whenever we have sex after a long time subsequent sessions become smooth later on this time too i had sex again for the first time after eight years am i experiencing because of having sex after a long time is the discharge brown due to blood is it a symptom of cancer",
+ "seconds": 1.276
+}

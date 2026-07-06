@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164915-0014",
+ "condition": null,
+ "reference": "SO FARE YE FORWARDS NO HARM SHALL BEFAL YOU TILL YOU JOIN HIS GRAND WAZIR DANDAN",
+ "audio_seconds": 7.16,
+ "created_at": "2026-07-05T13:09:28+00:00",
+ "failed": false,
+ "text": "So fear ye four words, no harm shall befall you till you join his Grand Wazir, Dandan.",
+ "seconds": 0.124
+}

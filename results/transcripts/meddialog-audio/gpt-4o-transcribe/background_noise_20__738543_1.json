@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__738543_1",
+ "condition": "background_noise_20",
+ "reference": "Before three to four years ago, my hair was thick and could be easily styled, but now it does not set easily. My treatment is ongoing, but I want my old hair back because everyone liked my hair at that time. So what should I do? I am experiencing hair fall, and I have a protein deficiency and an infection problem.",
+ "audio_seconds": 17.07,
+ "created_at": "2026-07-06T00:42:29+00:00",
+ "failed": false,
+ "text": "Three to four years ago, my hair was thick and could be easily styled, but now it does not set easily. My treatment is ongoing, but I want my old hair back because everyone liked my hair at that time. So, what should I do? I am experiencing hair fall, and I have a protein deficiency and an infection problem.",
+ "seconds": 1.176
+}

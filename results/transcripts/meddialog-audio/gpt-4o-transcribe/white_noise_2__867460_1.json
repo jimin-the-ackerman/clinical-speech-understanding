@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__867460_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, my name is Nagakumar. I have a problem with my heartbeat; my heart suddenly starts beating fast and I begin sweating profusely. This subsides after some time, and during that time, my body starts shaking. Can you please tell me why this is happening?",
+ "audio_seconds": 17.24,
+ "created_at": "2026-07-06T00:47:00+00:00",
+ "failed": false,
+ "text": "Hello doctor, my name is Nagakumar. I have a problem with my heartbeat. My heart suddenly starts beating fast, and I begin sweating profusely. This subsides after some time, and during that time, my body starts shaking. Can you please tell me why this is happening?",
+ "seconds": 1.029
+}

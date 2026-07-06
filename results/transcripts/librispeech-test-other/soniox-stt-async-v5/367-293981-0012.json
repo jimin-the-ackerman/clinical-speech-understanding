@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-293981-0012",
+ "condition": null,
+ "reference": "SANCHO PANZA WHO ALSO REGARDED THE AMENDMENT OF HIS MASTER AS MIRACULOUS BEGGED HIM TO GIVE HIM WHAT WAS LEFT IN THE PIGSKIN WHICH WAS NO SMALL QUANTITY",
+ "audio_seconds": 8.11,
+ "created_at": "2026-07-06T00:08:03+00:00",
+ "failed": false,
+ "text": "Sancho Ponce, who also regarded the amendment of his master as miraculous, begged him to give him what was left in the pigskin, which was no small quantity.",
+ "seconds": 4.7
+}

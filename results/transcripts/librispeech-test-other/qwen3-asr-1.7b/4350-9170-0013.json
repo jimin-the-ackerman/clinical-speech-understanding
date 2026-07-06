@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-9170-0013",
+ "condition": null,
+ "reference": "EVEN IF THERE WAS ONCE A TIME WHEN OWING TO THE LOW STANDARD OF MORALS AND THE DISPOSITION OF MEN TO VIOLENCE THE EXISTENCE OF AN AUTHORITY TO RESTRAIN SUCH VIOLENCE WAS AN ADVANTAGE BECAUSE THE VIOLENCE OF GOVERNMENT WAS LESS THAN THE VIOLENCE OF INDIVIDUALS ONE CANNOT BUT SEE THAT THIS ADVANTAGE COULD NOT BE LASTING",
+ "audio_seconds": 15.4,
+ "created_at": "2026-07-06T03:32:09+00:00",
+ "failed": false,
+ "text": "Even if there was once a time when, owing to the low standards of morals and the disposition of men to violence, the existence of an authority to restrain such violence was an advantage, because the violence of the government was less than the violence of individuals, one cannot but see that this advantage could not be lasting.",
+ "seconds": 0.606
+}

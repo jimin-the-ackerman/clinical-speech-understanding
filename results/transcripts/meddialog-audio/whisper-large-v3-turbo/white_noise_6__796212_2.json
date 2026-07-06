@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__796212_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, I appreciate your concern. Musculoskeletal pain is likely and may not be due to any disease, but it may be nonspecific. It can be managed with non-steroidal anti-inflammatory drugs, and sometimes may require tranquillizers as well. I hope this information helps.",
+ "audio_seconds": 16.55,
+ "created_at": "2026-07-06T04:49:12+00:00",
+ "failed": false,
+ "text": "Hello. I appreciate your concern. Muscular cells that come in with lightening may not be due to any disease, but it may be nonspecific. It can be managed with non-steroidal anti-inflammatory drugs, and sometimes may require tranquilizer as well. And if this information helps.",
+ "seconds": 0.202
+}

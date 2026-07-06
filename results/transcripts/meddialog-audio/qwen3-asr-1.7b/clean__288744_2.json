@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__288744_2",
+ "condition": "clean",
+ "reference": "It's not advisable to correct the bend in the lingual arch on your own. I would recommend that you visit your orthodontist to have it corrected. This way, you will learn not to play with your lingual arch next time.",
+ "audio_seconds": 11.95,
+ "created_at": "2026-07-06T05:27:52+00:00",
+ "failed": false,
+ "text": "It's not advisable to correct the bend in the lingual arch on your own. I would recommend that you visit your orthodontist to have it corrected. This way, you will learn not to play with your lingual arch next time.",
+ "seconds": 0.474
+}

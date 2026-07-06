@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__191982_2",
+ "condition": "background_noise_60",
+ "reference": "Once the testicles have descended and occupied their positions, it is normal for one testicle to be higher than the other. As long as there is no pain or swelling around the testicles, there is no cause for concern.",
+ "audio_seconds": 12.2,
+ "created_at": "2026-07-06T04:57:28+00:00",
+ "failed": false,
+ "text": "Once the testicles have descended in archetypal positions, it is known that one testicle will be higher than the other. But as long as there is no pain or swelling around the testicles, there is no cause for concern.",
+ "seconds": 0.461
+}

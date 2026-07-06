@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__665579_1",
+ "condition": "background_noise_60",
+ "reference": "Hi. My two-month-old baby is getting weaker day by day. She sleeps for four to five hours, and after every sleep, she only takes two ounces of formula milk. She also does not take breast milk. What should I do to maintain her health? At birth, she was three point six kilograms, and now, after two months and ten days, she weighs four point six kilograms.",
+ "audio_seconds": 24.41,
+ "created_at": "2026-07-06T02:55:21+00:00",
+ "failed": false,
+ "text": "Hi. My 2-month-old baby is getting weaker day by day. She sleeps for 4 to 5 hours, and after every sleep she only takes 2 ounces of formula milk. She also does not take breast milk. What should I do to maintain that moment? At birth she was 3.6 kg, and now, after 2 months and 10 days, she weighs 4.6 kg.",
+ "seconds": 5.962
+}

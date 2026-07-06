@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__664739_2",
+ "condition": "background_noise_20",
+ "reference": "Colitis can be the cause. A stool examination is necessary. Please get an ultrasound done to rule out salpingitis as well. Take care.",
+ "audio_seconds": 7.59,
+ "created_at": "2026-07-06T04:40:24+00:00",
+ "failed": false,
+ "text": "Bellitis can be the cause. A stool examination is necessary. Please get an ultrasound done to rule out salvingitis as well. Take care.",
+ "seconds": 0.21
+}

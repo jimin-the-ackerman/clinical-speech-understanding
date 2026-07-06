@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__917629_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, thank you for asking. I really appreciate your concern. It is important to confirm that the lesion is a fungal infection. If this is not a fungal infection, then the antifungal medication will not work here. If the lesion is doubtful, then it needs to be treated with broad-spectrum treatment, which covers all the possibilities of infections. I think it would be better to talk with a dermatologist. I hope this information helps you. Have a nice day.",
+ "audio_seconds": 27.82,
+ "created_at": "2026-07-06T05:19:04+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking. I really appreciate your concern. It is important to confirm that the lesion is a fungal infection. If this is not a fungal infection, then the antifungal medication will not work here. If the lesion is doubtful, then it needs to be treated with broad spectrum treatment, which covers all the possibilities of infections. I think it would be better to talk with a dermatologist. I hope this information helps you. Have a nice day.",
+ "seconds": 0.882
+}

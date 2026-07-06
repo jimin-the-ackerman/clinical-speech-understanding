@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__413328_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, this can be due to chronic bad posture. If you have to work sitting for long hours, take a break of five to ten minutes and walk around your room after every thirty to forty minutes. Do stretching exercises frequently. Practice relaxation exercises like deep breathing and meditation to reduce oxidative stress. Apply hot compresses. Take pain relievers when required. I hope this helps.",
+ "audio_seconds": 26.03,
+ "created_at": "2026-07-06T00:45:51+00:00",
+ "failed": false,
+ "text": "make sure you wash your hands thoroughly",
+ "seconds": 0.75
+}

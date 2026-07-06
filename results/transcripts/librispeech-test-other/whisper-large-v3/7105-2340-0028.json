@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2340-0028",
+ "condition": null,
+ "reference": "LADY ERNESTINE PIGEONCOTE HIS MOTHER MOVED IN CIRCLES WHICH WERE ENTIRELY BEYOND THEIR COMPASS OR AMBITIONS AND THE SON WOULD PROBABLY ONE DAY BE AN AMBASSADOR",
+ "audio_seconds": 11.69,
+ "created_at": "2026-07-05T13:06:20+00:00",
+ "failed": false,
+ "text": "lady ernestine pigeoncote his mother moved in circles which were entirely beyond their compass or ambitions and the son would probably one day be an ambassador",
+ "seconds": 0.289
+}

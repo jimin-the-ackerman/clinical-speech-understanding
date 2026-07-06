@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__497108_1",
+ "condition": "background_noise_20",
+ "reference": "I have suffered from a bad back since the age of fourteen. I am now only twenty and I am finding it difficult to do day-to-day activities. No doctor takes it seriously, and I know there must be something wrong or a reason why my back is hurting so much. What can I do?",
+ "audio_seconds": 17.66,
+ "created_at": "2026-07-06T04:40:06+00:00",
+ "failed": false,
+ "text": "i have suffered from a bad back since the age of 14. i am now 20 and i'm finding it difficult to do day-to-day activities. no doctor takes it seriously and i know there must be something wrong or a reason why my back is hurting so much. what can i do?",
+ "seconds": 0.36
+}

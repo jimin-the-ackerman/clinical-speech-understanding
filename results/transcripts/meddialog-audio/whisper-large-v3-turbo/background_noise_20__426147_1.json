@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__426147_1",
+ "condition": "background_noise_20",
+ "reference": "I started out with what I thought was a canker sore, but after putting powdered elm on it, I realized there was another one inside at the bottom of my teeth (the floor of my inside teeth). My gums are red and I see a few white patches on them. Would this be oral cancer? I have been using peroxide to kill what is in there.",
+ "audio_seconds": 16.73,
+ "created_at": "2026-07-06T04:39:59+00:00",
+ "failed": false,
+ "text": "started out with what i thought was a canker sore but after putting powdered elm on it i realized there was another one inside at the bottom of my teeth the floor of my inside teeth my gums are red and i see a few white patches on them this be oral cancer i have been using peroxide to kill what is in there",
+ "seconds": 0.299
+}

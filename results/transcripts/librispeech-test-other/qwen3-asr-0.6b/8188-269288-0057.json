@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0057",
+ "condition": null,
+ "reference": "OH THIS WILL KILL ME MY HEART WILL BREAK THIS WILL KILL ME",
+ "audio_seconds": 5.46,
+ "created_at": "2026-07-06T03:25:31+00:00",
+ "failed": false,
+ "text": "Oh, this will kill me! My heart will break. This will kill me.",
+ "seconds": 0.194
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__111691_2",
+ "condition": "white_noise_6",
+ "reference": "The symptoms you mention are consistent with gastroesophageal reflux disease. You should continue the medications as advised by the doctor. Try to provide small and frequent meals. Let her sleep in an elevated position. If the symptoms persist even after three to four days, perform a repeat chest radiograph and ultrasound scan of the abdomen.",
+ "audio_seconds": 19.97,
+ "created_at": "2026-07-06T04:36:00+00:00",
+ "failed": false,
+ "text": "The symptoms you mention are consistent with gastroesophageal reflux disease. You should continue the medications as advised by the doctor. Try to provide small and frequent meals. Let her sleep in an elevated position. If the symptoms persist even after three to four days, perform a repeat chest radiograph and ultrasound scan of the abdomen.",
+ "seconds": 0.623
+}

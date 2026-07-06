@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2340-0004",
+ "condition": null,
+ "reference": "WILFRID PIGEONCOTE HAD SUDDENLY BECOME HEIR TO HIS UNCLE SIR WILFRID PIGEONCOTE ON THE DEATH OF HIS COUSIN MAJOR WILFRID PIGEONCOTE WHO HAD SUCCUMBED TO THE AFTER EFFECTS OF A POLO ACCIDENT",
+ "audio_seconds": 13.61,
+ "created_at": "2026-07-06T02:36:00+00:00",
+ "failed": false,
+ "text": "Wilfrid Kitchencoat had suddenly become heir to his uncle, Sir Wilfrid Pigeoncoat, on the death of his cousin, Major Wilfrid Pigeoncoat, who had succumbed to the aftereffects of a polo accident.",
+ "seconds": 4.644
+}

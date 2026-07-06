@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41168-0005",
+ "condition": null,
+ "reference": "THE CONFIDENCE OF THE MONARCH NO CHECKING THE ACCOUNTS OF THE MARSHAL HE'S NOT A CASHIER BUT THAT'S NOT THE POINT",
+ "audio_seconds": 7.58,
+ "created_at": "2026-07-05T23:56:32+00:00",
+ "failed": false,
+ "text": "The confidence of the monarch, no checking the accounts of the marshal, he is not a cashier, but that's not the point.",
+ "seconds": 0.749
+}

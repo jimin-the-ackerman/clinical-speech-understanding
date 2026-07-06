@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__769320_1",
+ "condition": "white_noise_6",
+ "reference": "My husband has swelling in his cranium. It started on the left side above the occipital area, and now this morning it's on the left side as well. After a twelve-hour workday, he came home and straight across from one side to the other is another lump laterally. He is experiencing pain, vision issues, and no appetite. This has been going on for about three to four days. Should I take him to the hospital? Please help. Thank you, Dawn.",
+ "audio_seconds": 25.77,
+ "created_at": "2026-07-06T04:38:32+00:00",
+ "failed": false,
+ "text": "My husband has swelling in his perineum. It's padded on the left side of every obstacle area, and now this morning it's on the left side as well. After a 12-hour workday, he came home and stayed across from one side to the other as another went laterally. He has experienced some pain, vision issues, and no appetite. This has been going on for about two to four days. Should I take him to the hospital? Please help. Thank you, darling.",
+ "seconds": 0.833
+}

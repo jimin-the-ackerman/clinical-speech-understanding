@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__381433_2",
+ "condition": "white_noise_2",
+ "reference": "Nothing to worry about; it may be viral diarrhea and will likely resolve in the next two days. Continue feeding her oral rehydration solution and probiotic medication, and keep a watch on her urine output.",
+ "audio_seconds": 14.85,
+ "created_at": "2026-07-06T05:35:47+00:00",
+ "failed": false,
+ "text": "Nothing to worry about. It may be viral diarrhea, and will likely resolve in the next two days. Continue feeding her oral rehydration solution and probiotic medication, and keep a watch on her urine output.",
+ "seconds": 0.421
+}

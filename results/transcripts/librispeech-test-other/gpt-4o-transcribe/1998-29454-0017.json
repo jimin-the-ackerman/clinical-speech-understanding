@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0017",
+ "condition": null,
+ "reference": "THAT AIN'T WHAT SHE'LL BE IN WHEN YOU GETS BACK",
+ "audio_seconds": 2.67,
+ "created_at": "2026-07-05T23:53:48+00:00",
+ "failed": false,
+ "text": "Der dan butil bien when you gets back.",
+ "seconds": 0.576
+}

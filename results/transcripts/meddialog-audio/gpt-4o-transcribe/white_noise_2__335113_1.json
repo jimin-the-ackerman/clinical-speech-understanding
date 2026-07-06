@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__335113_1",
+ "condition": "white_noise_2",
+ "reference": "I have a question regarding pregnancy. My girlfriend has been having irregular periods from the beginning. I had unprotected sex with my girlfriend two months ago. As we were not sure about ejaculation, she took the emergency contraceptive pill within twenty-four hours. She also got her period seven-eight days after the intercourse. Please let me know, is there any chance of pregnancy?",
+ "audio_seconds": 17.49,
+ "created_at": "2026-07-06T00:46:27+00:00",
+ "failed": false,
+ "text": "I have a question regarding pregnancy. My girlfriend has been having irregular periods from the beginning. I had unprotected sex with my girlfriend two months ago. As we were not sure about ejaculation, she took the emergency contraceptive pill within 24 hours. Please let me know, is there any chance of pregnancy?",
+ "seconds": 1.104
+}

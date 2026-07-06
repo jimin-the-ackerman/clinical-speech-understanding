@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280085-0003",
+ "condition": null,
+ "reference": "THAT DAY A MAN NAMED DUNNING DISCOVERED US AND WE TOOK HIM PRISONER",
+ "audio_seconds": 3.54,
+ "created_at": "2026-07-06T02:38:37+00:00",
+ "failed": false,
+ "text": "That day a man named Dunning discovered us, and we took him prisoner.",
+ "seconds": 5.031
+}

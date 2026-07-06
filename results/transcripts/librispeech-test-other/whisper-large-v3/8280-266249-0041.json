@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0041",
+ "condition": null,
+ "reference": "THEY HEARD HIM IN SILENCE WITH A COOL PHLEGMATIC INDIFFERENCE MOST EXASPERATING TO ONE IN HIS PRESENT MOOD",
+ "audio_seconds": 7.04,
+ "created_at": "2026-07-05T13:08:35+00:00",
+ "failed": false,
+ "text": "they heard him in silence with a cool phlegmatic indifference most exasperating to one in his present mood",
+ "seconds": 0.265
+}

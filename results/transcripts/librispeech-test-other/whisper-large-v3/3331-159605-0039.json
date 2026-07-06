@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0039",
+ "condition": null,
+ "reference": "TRULY TRULY FAN",
+ "audio_seconds": 2.88,
+ "created_at": "2026-07-05T12:58:15+00:00",
+ "failed": false,
+ "text": "Truly, Julie fan.",
+ "seconds": 0.139
+}

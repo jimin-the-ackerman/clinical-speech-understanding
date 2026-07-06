@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0005",
+ "condition": null,
+ "reference": "WHEN I AWOKE AT LAST I FOUND MYSELF IN THE LIGHT OF HEAVEN AND OPENING MY EYES I SAW MYSELF IN A BROAD STREAM AND THE RAFT MOORED TO AN ISLAND IN THE MIDST OF A NUMBER OF INDIANS AND ABYSSINIANS",
+ "audio_seconds": 12.89,
+ "created_at": "2026-07-06T02:35:16+00:00",
+ "failed": false,
+ "text": "When I awoke at last, I found myself in the light of heaven, and opening my eyes I saw myself in a broad stream, and the raft moored to an island in the midst of a number of Indians and Abyssinians.",
+ "seconds": 4.64
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__561239_2",
+ "condition": "background_noise_20",
+ "reference": "It looks like a pimple, which is pus-filled and is increasing due to heat. Take doxycycline one hundred mg twice daily for ten days; this is the fastest pus clearer for skin. Take ebastine ten mg at night, liquid antacid, and warm water. Apply clindamycin gel three times a day and calamine lotion on the skin when you go out. Avoid non-oily, non-greasy, non-fatty, and non-spicy food. Avoid toxic soaps, shampoos, oils, and stop applying any body application materials.",
+ "audio_seconds": 35.84,
+ "created_at": "2026-07-06T02:48:03+00:00",
+ "failed": false,
+ "text": "It looks like a pimple, which is pus-filled and is increasing due to heat. Take doxycycline 100 mg twice daily for 10 days. This is the fastest pus-clearer for skin. Take Ebisteen 10 mg at night, liquid antacid, and warm water. Apply clindamycin gel 3 times a day, and calamine lotion on the skin when you go out. Avoid non-oily, non-greasy, non-fatty, and non-spicy food. Avoid toxic soaps, shampoos, oils, and stop applying any body application materials.",
+ "seconds": 8.877
+}

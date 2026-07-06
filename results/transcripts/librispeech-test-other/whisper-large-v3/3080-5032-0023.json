@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5032-0023",
+ "condition": null,
+ "reference": "WE HAVE HAD ANOTHER DEBATE BUT MUCH MORE CALMLY",
+ "audio_seconds": 4.25,
+ "created_at": "2026-07-05T12:57:54+00:00",
+ "failed": false,
+ "text": "We have had another debate, but much more calmly.",
+ "seconds": 0.174
+}

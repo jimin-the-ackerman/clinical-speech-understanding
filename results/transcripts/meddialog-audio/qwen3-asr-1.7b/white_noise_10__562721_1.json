@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__562721_1",
+ "condition": "white_noise_10",
+ "reference": "My daughter is experiencing stomach pain, is not feeling hungry, and has missed her menstrual periods. The doctor suggested blood tests for fasting blood sugar and hemoglobin, as well as a stomach scan. The fasting blood sugar and hemoglobin levels came back normal. However, the scan showed some bubbles in her ovaries, indicating the presence of cysts. The doctor has now suggested taking Glyciphage SR five hundred milligrams in the dosage of zero point five+zero+zero point five for one week, then zero point five+zero point five+zero point five the following week, and one+zero point five+one for the week after that. Finally, for three months, the dosage will be one+one+one. Why is this happening? She is now seventeen years old. What is her problem?",
+ "audio_seconds": 47.87,
+ "created_at": "2026-07-06T05:32:52+00:00",
+ "failed": false,
+ "text": "My daughter is a 16-year-old girl, not very hungry, and needs some protein. The doctor suggested blood tests for fasting blood sugar and hemoglobin, as well as a CT. Fasting blood sugar and hemoglobin levels came normal. However, the CT showed some mild bone overgrowth, indicating the presence of cyst. The doctor has now suggested taking bicalutamide, 500 milligrams, in doses of 0.5 plus 0 plus 0.5 for one week, then 0.5 plus 0.5 plus 0.5 the following week, and one last 0.5 plus one for the week after that. Finally, the three-month dosage will be one plus one. Nice topic. We've been talking about it. Nice topic.",
+ "seconds": 1.49
+}

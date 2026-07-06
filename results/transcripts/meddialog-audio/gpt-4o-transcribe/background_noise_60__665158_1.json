@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__665158_1",
+ "condition": "background_noise_60",
+ "reference": "This is my second Implanon, and it expired at the beginning of February. I have had unprotected sex, but my question is, do I have a chance of getting pregnant? Also, when I get it removed and get a new one put in, will that cause me any problems with being infertile since that will be nine years of being on birth control consecutively?",
+ "audio_seconds": 19.03,
+ "created_at": "2026-07-06T00:44:18+00:00",
+ "failed": false,
+ "text": "This is my second implant, and it expired at the beginning of February. I have had unprotected sex, but my question is, do I have a chance of getting pregnant? Also, when I get it removed and get a new one put in, will that cause me any problems with being infertile since that will be nine years of being on birth control consecutively?",
+ "seconds": 1.318
+}

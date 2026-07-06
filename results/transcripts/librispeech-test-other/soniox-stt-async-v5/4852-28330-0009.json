@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28330-0009",
+ "condition": null,
+ "reference": "HIS FACE FROZE WITH NERVOUSNESS THAT THIS MIGHT NOT DO AS AN ANSWER AND HE STOOD STIFF AND STILL BEFORE CAPTAIN BLIZZARD",
+ "audio_seconds": 6.95,
+ "created_at": "2026-07-06T02:28:17+00:00",
+ "failed": false,
+ "text": "His face froze with nervousness that this might not do as an answer, and he stood stiff and still before Captain Blizzard.",
+ "seconds": 5.243
+}

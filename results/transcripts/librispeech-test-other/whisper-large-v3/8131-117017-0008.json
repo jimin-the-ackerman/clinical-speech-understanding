@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117017-0008",
+ "condition": null,
+ "reference": "ONE LOOK WAS ENOUGH THE WORK PAPERS HAD THE TELLTALE OVER THICKENING OF THE SIGNATURE THAT HAD SHOWED UP ON OTHER PAPERS OBVIOUSLY FORGERIES",
+ "audio_seconds": 11.43,
+ "created_at": "2026-07-05T13:07:41+00:00",
+ "failed": false,
+ "text": "one look was enough the work papers had the tell-tale over-thickening of the signature that had showed up on other papers obviously forgeries",
+ "seconds": 0.292
+}

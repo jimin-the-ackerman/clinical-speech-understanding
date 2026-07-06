@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__811016_1",
+ "condition": "white_noise_2",
+ "reference": "My son is five years old and he has been complaining of stomach pain for the last year. Doctors have conducted various blood tests, and all his results were good, but he still complains of stomach pain and leg pain at night. What do you suggest we do? I am really worried about this.",
+ "audio_seconds": 18.43,
+ "created_at": "2026-07-06T04:35:15+00:00",
+ "failed": false,
+ "text": "My son is 5 years old, and he has been complaining of stomach pain for the last year. Doctors have conducted various blood tests, and all his results are good, but he still complains of stomach pain and leg pain at night. What do you suggest we do? I am really worried about this.",
+ "seconds": 0.54
+}

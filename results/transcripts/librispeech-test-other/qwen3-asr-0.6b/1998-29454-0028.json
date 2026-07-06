@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0028",
+ "condition": null,
+ "reference": "GET IT WROTE DOWN THEN DONE",
+ "audio_seconds": 2.33,
+ "created_at": "2026-07-06T03:15:09+00:00",
+ "failed": false,
+ "text": "Get it written down. Then done.",
+ "seconds": 0.115
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__924613_2",
+ "condition": "clean",
+ "reference": "Hello, welcome to HealthcareMagic. According to the history, your uncle seems to be suffering from a depressive illness. Only medical therapy from a psychiatrist may not be very useful. In addition, relaxation exercises, engaging in activities one enjoys, involvement in social activities, and connections with relatives may help. Have a healthful day.",
+ "audio_seconds": 21.5,
+ "created_at": "2026-07-06T04:45:12+00:00",
+ "failed": false,
+ "text": "Hello, welcome to Healthcare Magic. According to the history, your uncle seems to be suffering from a depressive illness. Only medical therapy from a psychiatrist may not be very useful. In addition, relaxation exercises, engaging in activities one enjoys, involvement in social activities, and connections with relatives may help. Have a healthful day.",
+ "seconds": 0.273
+}

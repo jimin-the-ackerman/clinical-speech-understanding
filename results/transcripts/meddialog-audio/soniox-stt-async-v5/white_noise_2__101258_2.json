@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__101258_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, your symptoms can arise from nerve stretching, so there is no need to panic. Please take analgesics and rest. You will find that the symptoms will resolve with time.",
+ "audio_seconds": 11.01,
+ "created_at": "2026-07-06T03:04:51+00:00",
+ "failed": false,
+ "text": "Hello. Your symptoms can arise from nerve stretch, so there is no need to panic; please take analgesics and rest. You will find that the symptoms will resolve with time.",
+ "seconds": 4.822
+}

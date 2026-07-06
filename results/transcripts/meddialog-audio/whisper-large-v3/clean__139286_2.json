@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__139286_2",
+ "condition": "clean",
+ "reference": "Welcome to HealthcareMagic. It is better to get yourself checked by an obstetrician to find out the cause of the pain and receive definitive treatment. I hope everything will be alright, and you can continue your pregnancy without any problems.",
+ "audio_seconds": 12.8,
+ "created_at": "2026-07-06T04:24:57+00:00",
+ "failed": false,
+ "text": "Welcome to Healthcare Magic. It is better to get yourself checked by an obstetrician to find out the cause of the pain and receive definitive treatment. I hope everything will be alright and you can continue your pregnancy without any problems.",
+ "seconds": 0.473
+}

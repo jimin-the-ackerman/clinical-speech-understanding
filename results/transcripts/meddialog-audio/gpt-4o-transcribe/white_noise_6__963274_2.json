@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__963274_2",
+ "condition": "white_noise_6",
+ "reference": "Since she is taking oral contraceptive pills, there may be a hormonal imbalance leading to her spotting. There is no problem in taking the iron supplements.",
+ "audio_seconds": 10.92,
+ "created_at": "2026-07-06T00:47:42+00:00",
+ "failed": false,
+ "text": "I think we both have chicken for the main dish.",
+ "seconds": 0.53
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__353569_1",
+ "condition": "clean",
+ "reference": "I am twenty-six weeks pregnant and due to go on maternity leave in three weeks. I am really struggling with pain in my ribs and my back. I am feeling depressed because of it. I am off work a lot, and everyone at work treats me poorly about it. Would my doctor sign me off work? I feel like I cannot cope with the pain and work anymore.",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T05:28:10+00:00",
+ "failed": false,
+ "text": "I am twenty-six weeks pregnant and did go on maternity leave in three weeks. I am really struggling with pain in my ribs and my back. I am feeling depressed because of it. I am off work a lot, and everyone at work treats me poorly about it. Would my doctor sign me off work? I feel like I cannot cope with the pain in work anymore.",
+ "seconds": 0.706
+}

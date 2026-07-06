@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__595631_1",
+ "condition": "clean",
+ "reference": "Dear Sir, my two-and-a-half-year-old baby had a seizure when she was three months old. After that day, the day before yesterday, she had her second seizure. As per the prescription, we are using Valparin syrup, but now the doctor has prescribed Eptoin syrup along with Valparin. What will be the side effects since she is a preterm baby suffering from developmental delay? For the past two days after the seizure, her mentality has totally changed; she is behaving very adamantly. Kindly advise us. Veeramani, Chennai, South India.",
+ "audio_seconds": 31.4,
+ "created_at": "2026-07-06T02:58:37+00:00",
+ "failed": false,
+ "text": "Dear sir, my 2-and-a-half-year-old baby had a seizure when she was 3 months old. After that day, the day before yesterday, she had a seizure. As per the prescription, we are using Valperin syrup, but now the doctor has prescribed Eptoin syrup along with Valperin. What will be the side effects since she is a preterm baby suffering from developmental delay? For the past 2 days after the seizure, her mentality has totally changed; she is behaving very adamantly. Kindly advise us. Veera Amani, Chennai, South India.",
+ "seconds": 7.896
+}

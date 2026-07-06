@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28319-0015",
+ "condition": null,
+ "reference": "IF HE WAS TO BE A MAGICIAN COULD HE MAKE THIS BOY COME TO LIFE",
+ "audio_seconds": 3.6,
+ "created_at": "2026-07-06T03:32:41+00:00",
+ "failed": false,
+ "text": "If he was to be a magician, could he make this boy come to life?",
+ "seconds": 0.209
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-35475-0016",
+ "condition": null,
+ "reference": "THE PRINCE SPENT ALL THE FOLLOWING TIME UNTIL MIDNIGHT TRYING TO THINK OF A SUITABLE VERSE TO SAY TO THE SCISSORS",
+ "audio_seconds": 6.46,
+ "created_at": "2026-07-06T03:31:48+00:00",
+ "failed": false,
+ "text": "The prince spent all the following time until midnight trying to think of a suitable verse to say to the scissors.",
+ "seconds": 0.25
+}

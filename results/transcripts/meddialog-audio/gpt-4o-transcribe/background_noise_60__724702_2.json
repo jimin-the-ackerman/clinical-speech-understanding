@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__724702_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, congratulations. Mild pain is normal during early pregnancy. However, if you experience severe pain accompanied by any discharge from the vagina, it is imperative to seek emergency medical attention to rule out ectopic pregnancy. I suggest you have your serum human chorionic gonadotropin levels tested. Please wait for two more weeks for an ultrasound examination. Consult your obstetrician if the pain becomes very severe. All the best.",
+ "audio_seconds": 29.01,
+ "created_at": "2026-07-06T00:44:21+00:00",
+ "failed": false,
+ "text": "Hi, congratulations. Mild pain is normal during early pregnancy. However, if you experience severe pain accompanied by any discharge from the vagina, it is imperative to seek emergency medical attention to rule out exopic pregnancy. I suggest you have your serum human chorionic gonadotropin levels tested. Please wait for two more weeks for an ultrasound examination. Consult your obstetrician if the pain becomes very severe. All the best.",
+ "seconds": 1.489
+}

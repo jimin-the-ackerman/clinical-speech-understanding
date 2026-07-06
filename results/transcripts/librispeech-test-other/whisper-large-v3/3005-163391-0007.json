@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163391-0007",
+ "condition": null,
+ "reference": "THE YOUNG CHAP WAS MIGHTY THANKFUL SAID IT WAS TOUGH WORK TOTING HIS BAGGAGE SUCH WEATHER",
+ "audio_seconds": 5.55,
+ "created_at": "2026-07-05T12:57:35+00:00",
+ "failed": false,
+ "text": "the young chap was mighty thankful said it was tough work toting his baggage such weather you",
+ "seconds": 0.295
+}

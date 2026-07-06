@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0028",
+ "condition": null,
+ "reference": "A HAPPY INSPIRATION HAD COME AND PLACING ONE HAND UPON HIS BREAST HE THRUST IN THE OTHER GAVE A TUG AND DREW OUT HIS LITTLE CURVED DIRK GLANCED AT THE EDGE RAN TO THE WINDOW AND BEGAN TO CUT AT ONE OF THE BARS LABOUR IN VAIN",
+ "audio_seconds": 12.41,
+ "created_at": "2026-07-06T03:24:15+00:00",
+ "failed": false,
+ "text": "A happy inspiration had come, and placing one hand upon his chest, he thrust in the other, gave a tug, and drew out his little curved dirk. Glanced at the edge, ran to the window, and began to cut at one of the bars. Labor in vain.",
+ "seconds": 0.547
+}

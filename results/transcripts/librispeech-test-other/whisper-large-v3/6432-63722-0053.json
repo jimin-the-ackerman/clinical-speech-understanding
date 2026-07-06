@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0053",
+ "condition": null,
+ "reference": "IN FACT I HAVE A FEELING THAT I'LL LAND MY FISH",
+ "audio_seconds": 3.62,
+ "created_at": "2026-07-05T13:05:14+00:00",
+ "failed": false,
+ "text": "in fact i have a feeling that i will land my fish",
+ "seconds": 0.181
+}

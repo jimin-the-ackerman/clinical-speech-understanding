@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__515594_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. The amount of white blood cells and red blood cells that you are passing in your urine is significant and is not merely related to a urinary tract infection. We cannot neglect your kidney cyst. Having said that, the description and size of your kidney cyst are incomplete; you should determine whether the cyst is simple or has septations within, making it complex in nature. If your earlier ultrasound did not provide this information, then I suggest you go for another scan and ask the sonologist for the same information. Your further management depends on that.",
+ "audio_seconds": 32.43,
+ "created_at": "2026-07-06T04:51:17+00:00",
+ "failed": false,
+ "text": "Hello, the amount of white blood cells and red blood cells that you are passing in your urine is significant and is not merely related to a urinary tract infection. We cannot neglect your kidney cyst. Having said that, the description and size of your kidney cyst are incomplete. You should determine whether the cyst is simple or has septations within, making it complex in nature. If your earlier ultrasound did not provide this information, then I suggest you go for another scan and ask the sonologist for the same information. Your further management depends on that.",
+ "seconds": 0.969
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__405134_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, I am eleven point five weeks pregnant, and when I went to the bathroom, it looked like I had urinated straight blood. In weeks seven to ten, I had brown spotting only when I urinated. There was no cramping or pain. I have had three normal pregnancies, and the last three have ended in miscarriage. I am worried about this one.",
+ "audio_seconds": 19.2,
+ "created_at": "2026-07-06T05:20:55+00:00",
+ "failed": false,
+ "text": "Hi, I am 11.5 weeks pregnant, and when I went to the bathroom, it looked like I had urinated straight blood. In week seven to ten, I had brown spotting only when I urinated. There was no cramping or pain. I have had three normal pregnancies, and the last three have ended in miscarriage. Being worried about this one.",
+ "seconds": 0.722
+}

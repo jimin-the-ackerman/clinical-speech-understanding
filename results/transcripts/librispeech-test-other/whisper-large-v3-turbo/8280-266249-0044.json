@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0044",
+ "condition": null,
+ "reference": "I DINKS NO I DINKS I DEACH YOU VON LESSON RETURNED HIS CAPTOR NOT RELAXING HIS GRASP IN THE LEAST",
+ "audio_seconds": 7.96,
+ "created_at": "2026-07-05T13:14:51+00:00",
+ "failed": false,
+ "text": "i dinks no i dinks i did you fun lesson returned his captor not relaxing his grasp in the least",
+ "seconds": 0.121
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__894122_2",
+ "condition": "background_noise_40",
+ "reference": "I suggest a complete blood count and an ultrasound to rule out kidney stones, as the recurrence of kidney stones higher up could be the reason for this. Also, if you are running a fever, it might be acute pyelonephritis, and a blood count would provide a better idea of what it is. Meanwhile, drink plenty of fluids and take eight hundred milligrams of ibuprofen for the pain.",
+ "audio_seconds": 24.41,
+ "created_at": "2026-07-06T04:42:16+00:00",
+ "failed": false,
+ "text": "I suggest a complete blood count and an ultrasound to rule out kidney stones, as the recurrence of kidney stones higher up could be the reason for this. Also, if you are running a fever, it might be acute pyelonephritis, and a blood count would provide a better idea of what it is. Meanwhile, drink plenty of fluids and take 800mg of ibuprofen for the pain.",
+ "seconds": 0.26
+}

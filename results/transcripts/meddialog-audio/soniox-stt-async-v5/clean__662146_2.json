@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__662146_2",
+ "condition": "clean",
+ "reference": "This is serious. The onset and character of the pain are suggestive of peritonitis. The probable causes are as follows: primary peritonitis, perforation of the gastric ulcer, perforation of the small intestine due to typhoid or tuberculosis, and perforated appendicitis. If the patient is female, consider torsion of the ovarian cyst, rupture of the ovarian follicle, tubal pregnancy, or a mass. You need an X-ray of the abdomen in the standing position to check for gas under the diaphragm, an ultrasound, and routine tests of blood, urine, and blood sugar as per past history. You will need admission to the hospital, intravenous fluids to replenish third space losses, electrolyte balance, antibiotics, supportive treatment, and consent for surgery if required.",
+ "audio_seconds": 47.02,
+ "created_at": "2026-07-06T02:58:50+00:00",
+ "failed": false,
+ "text": "This is serious; the onset and character of the pain are suggestive of peritonitis. The probable causes are as follows: primary peritonitis, perforation of the gastric ulcer, perforation of the small intestine due to typhoid or tuberculosis, and perforated appendicitis. If the patient is female, consider torsion of the ovarian cyst, rupture of the ovarian follicle, tubal pregnancy, or a mass. You need an X-ray of the abdomen in the standing position to check for gas under the diaphragm, an ultrasound, and routine tests of blood, urine, and blood sugar as per past history. You will need admission to the hospital, intravenous fluids to replenish third space losses, electrolyte balance, antibiotics, supportive treatment, and consent for surgery if required.",
+ "seconds": 8.696
+}

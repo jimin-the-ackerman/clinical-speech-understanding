@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__695048_2",
+ "condition": "clean",
+ "reference": "Hi, thank you for asking. The tooth extraction and the present problems seem unrelated to each other. She has had a long-standing problem with her teeth, and that might have exhausted her. Panic and phobia may have taken place. She would be in need of great moral support to assure her that now it is alright, everything will be fine, and not to worry. Giving medication in this situation could worsen her mental condition. Have a nice day.",
+ "audio_seconds": 28.33,
+ "created_at": "2026-07-06T04:27:14+00:00",
+ "failed": false,
+ "text": "Hi. Thank you for asking. The tooth extraction and the present problems seem unrelated to each other. She has had a long-standing problem with her teeth, and that might have exhausted her. Panic and phobia may have taken place. She would be in need of great moral support to assure her that now it is all right. Everything will be fine, and not to worry. Giving medication in this situation could worsen her mental condition. Have a nice day.",
+ "seconds": 0.799
+}

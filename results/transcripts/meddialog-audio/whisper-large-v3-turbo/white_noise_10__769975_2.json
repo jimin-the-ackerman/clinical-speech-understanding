@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__769975_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. You have come to me because of the poor posture. Such pain is very common and this is happening due to the undue compression over certain tender points of the body or major compression of the bony structure. By maintaining good posture, this should improve. I hope this helps.",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T04:46:19+00:00",
+ "failed": false,
+ "text": "Hello! You have come to me because of the poor posture. Such pain is very common, and this is happening due to the undue compression such as certain tender points of the body or major compression of the bone structure. By maintaining good posture, this should improve. I hope this helps.",
+ "seconds": 0.249
+}

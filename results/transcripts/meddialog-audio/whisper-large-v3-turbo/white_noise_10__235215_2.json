@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__235215_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, it seems like a developmental delay due to an infection affecting the growing brain during the newborn period. He needs to undergo investigations, including imaging of the brain and some basic blood tests. He will also require regular medications for his seizures.",
+ "audio_seconds": 15.19,
+ "created_at": "2026-07-06T04:45:31+00:00",
+ "failed": false,
+ "text": "Hi, it seems that the development of the load leading in fact that it's actually going during during the new year and later, it needs to end of the moment of the day, and through the reason you need to carry it into the same place of work. You will also require working in the patient to do this.",
+ "seconds": 0.801
+}

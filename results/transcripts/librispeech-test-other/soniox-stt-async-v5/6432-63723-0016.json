@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0016",
+ "condition": null,
+ "reference": "NO BUT HE WILL OR I'LL SUE HIM AND GET JUDGMENT OH HE'LL PAY ALL RIGHT",
+ "audio_seconds": 5.54,
+ "created_at": "2026-07-06T02:34:15+00:00",
+ "failed": false,
+ "text": "No, but he will. Or I'll sue him and get judgment—oh, he'll pay all right.",
+ "seconds": 4.618
+}

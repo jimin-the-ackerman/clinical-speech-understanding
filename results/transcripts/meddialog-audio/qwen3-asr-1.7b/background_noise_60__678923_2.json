@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__678923_2",
+ "condition": "background_noise_60",
+ "reference": "Yes, it could be related to your sleeping on your stomach. Just try sleeping on your back for a few days and see the difference.",
+ "audio_seconds": 6.23,
+ "created_at": "2026-07-06T05:25:44+00:00",
+ "failed": false,
+ "text": "Yes, it could be related to your sleeping on your stomach. Just try sleeping on your back for a few days and see the difference.",
+ "seconds": 0.293
+}

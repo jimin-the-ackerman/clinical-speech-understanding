@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__994794_2",
+ "condition": "background_noise_20",
+ "reference": "Good day. Horseshoe kidneys, depending on the severity, may affect his career due to the abnormal location of the kidneys. The usual location of the kidneys for patients with horseshoe kidneys is in the anterior abdomen or behind the stomach. The normal location of the kidneys is in the flank area, protected by the ribs and a significant amount of fat to cushion the kidneys. That being said, the abnormal location of the kidneys may limit your son’s involvement in professional boxing or even amateur boxing because it will place his kidneys at a higher risk for injury. Surgery can be performed to reposition both kidneys to the normal anatomic location; however, this is a major operation and entails a lot of risk as well. I hope I have answered your question, and best wishes.",
+ "audio_seconds": 44.12,
+ "created_at": "2026-07-06T05:19:22+00:00",
+ "failed": false,
+ "text": "Good day. Horseshoe kidneys, depending on the severity, may affect his career due to the abnormal location of the kidneys. The usual location of the kidneys for patients with horseshoe kidneys is in the anterior abdomen or behind the stomach. The normal location of the kidneys is in the flank area, protected by the ribs and a significant amount of fat to cushion the kidneys. That being said, the abnormal location of the kidneys may limit your son's involvement in professional boxing or even amateur boxing, because it will place his kidneys at a higher risk for injury. Surgery can be performed to reposition both kidneys to the normal anatomic location. However, this is a major operation and entails a lot of risk as well. I hope I have answered your question and best wishes.",
+ "seconds": 1.488
+}

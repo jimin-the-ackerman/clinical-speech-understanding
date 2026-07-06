@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__618101_2",
+ "condition": "background_noise_40",
+ "reference": "It is most important to determine where the issue is present in the brain. I suggest an MRI of the brain with a contrast report. According to allopathic medicine, surgery may be required, and further management will depend on the biopsy report. After that, radiation therapy may be advised. In homeopathic medicine, there can be usefulness in some cases of brain tumors. If you are interested in homeopathy, please consult me; I will help you.",
+ "audio_seconds": 29.61,
+ "created_at": "2026-07-06T04:41:50+00:00",
+ "failed": false,
+ "text": "It is most important to determine where the issue is present in the brain. I suggest an MRI of the brain with a contrast report. According to allopathic medicine, surgery may be required, and further management will depend on the biopsy report. After that, radiation therapy may be advised. In homeopathic medicine, there can be usefulness in some cases of brain tumors. If you are interested in homeopathy, please consult me. I will help you.",
+ "seconds": 0.375
+}

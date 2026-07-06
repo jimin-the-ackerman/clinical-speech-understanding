@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5040-0031",
+ "condition": null,
+ "reference": "NOT TO KNOW WHEN YOU WOULD COME HOME I CAN ASSURE YOU NOR FOR ANY OTHER OCCASION OF MY OWN BUT WITH A COUSIN OF MINE THAT HAD LONG DESIGNED TO MAKE HERSELF SPORT WITH HIM AND DID NOT MISS OF HER AIM",
+ "audio_seconds": 12.77,
+ "created_at": "2026-07-06T00:04:52+00:00",
+ "failed": false,
+ "text": "Not to know when you would come home, I can assure you, nor for any other occasion of my own, but with a cousin of mine that had long designed to make herself spoilt with him, and did not miss of her aim.",
+ "seconds": 4.73
+}

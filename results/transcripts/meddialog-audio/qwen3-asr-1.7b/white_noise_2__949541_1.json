@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__949541_1",
+ "condition": "white_noise_2",
+ "reference": "Should I throw away my toothbrush if I had chlamydia? My partner and I have been treated. We have had sexual intercourse a few times while being treated but with a condom. Does this make the medications less effective? Am I putting myself at higher risk? I have been given Doxycycline hyclate one hundred milligrams, an injection of something in my butt, and four tablets of Azithromycin. Will I still be able to get pregnant after all of this?",
+ "audio_seconds": 27.05,
+ "created_at": "2026-07-06T05:38:29+00:00",
+ "failed": false,
+ "text": "Should I throw away my toothbrush if I had chlamydia? My partner and I have been treated. We have had sexual intercourse a few times while being treated, but with a condom. Does this make the medications less effective? Am I putting myself at higher risk? I have been given doxycycline hyclate 100 milligrams, an injection of something in my butt, and four tablets of azithromycin. Will I still be able to get pregnant after all of this?",
+ "seconds": 0.974
+}

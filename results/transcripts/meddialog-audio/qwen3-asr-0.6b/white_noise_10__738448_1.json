@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__738448_1",
+ "condition": "white_noise_10",
+ "reference": "After a chest X-ray, my doctor told me I have a heterogeneous opacity in the right middle lobe. I am not sure what that means and what it is. I am not sick, but he is treating me with Ciprofloxacin and wants a follow-up X-ray in thirty days. What causes this and is it serious? I am sixty-eight years old.",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T05:06:55+00:00",
+ "failed": false,
+ "text": "After a tough night's play, my doctor told me I had a heart attack. Even after being right here alone, I am not sure if that means I am in the middle of something. I am not sure that he is treating me properly. Boxed in, and I have to follow up after him. But I'll be safe in this room. I need to see you very.",
+ "seconds": 0.715
+}

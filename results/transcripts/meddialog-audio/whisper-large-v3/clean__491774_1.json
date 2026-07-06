@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__491774_1",
+ "condition": "clean",
+ "reference": "My son has left-sided abdominal pain, left pelvic and right pelvic pain in the groin area. He can only stand for a short time, and sitting is impossible due to the pain. A computed tomography scan showed enlarged lymph nodes and slight elevation in white blood cell count. He has been experiencing this for ten weeks and has been unable to get any relief other than rest and pain medications. He is thirty-two years old, six feet three inches tall, and approximately two hundred and twenty pounds.",
+ "audio_seconds": 33.71,
+ "created_at": "2026-07-06T04:26:21+00:00",
+ "failed": false,
+ "text": "My son has left-sided abdominal pain, left pelvic and right pain in the groin area. He can only stand for a short time and sitting is impossible due to the pain. A computed tomography scan showed enlarged lymph nodes and slight elevation in white blood cell count. He has been experiencing this for 10 weeks and has been unable to get any relief other than rest and pain medications. He is 32 years old, 6 feet 3 inches tall and approximately 220 pounds.",
+ "seconds": 0.836
+}

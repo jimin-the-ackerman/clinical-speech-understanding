@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__110048_2",
+ "condition": "background_noise_60",
+ "reference": "Hi. I can understand your concern. Since you are able to achieve erections when you watch pornography but are losing them during sex, this indicates that the problem is not organic. The issues are more psychological. Confido helps to boost confidence but is not a proper treatment. For the time being, you can try taking the tablet Tadalafil or Sildenafil. Either of these tablets, if taken about half to one hour before sexual intercourse, can help to improve erections. If the problem persists, then visit a doctor and get serum testosterone and prolactin levels tested. If the levels of both these hormones are normal, then remain relaxed. There is no need to worry.",
+ "audio_seconds": 43.69,
+ "created_at": "2026-07-06T04:57:08+00:00",
+ "failed": false,
+ "text": "Hi, I can understand this. Since you're able to achieve erection, you are normal. But a leading doctor said, \"Vising the pain of the solenoid is not a bad. \" He used a more psychological, concreta help to do it. But it's not appropriate. For the time being, you can try taking the traveller telephones for him telephone. Either of these tablets, if taken about half to one hour, can help to achieve erection. If the problem persists, then visit a doctor and get serum testosterone and prolactin tested. If the levels of both these hormones are normal, then remain relaxed. There is no need to worry.",
+ "seconds": 1.203
+}

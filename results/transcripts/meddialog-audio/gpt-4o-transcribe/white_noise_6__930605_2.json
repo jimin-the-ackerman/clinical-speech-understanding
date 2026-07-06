@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__930605_2",
+ "condition": "white_noise_6",
+ "reference": "Your cycles may be irregular for a few months after stopping the pills, and it may take three to six months to conceive. So, don't worry; relax, everything will be alright.",
+ "audio_seconds": 12.2,
+ "created_at": "2026-07-06T00:47:41+00:00",
+ "failed": false,
+ "text": "Oké.",
+ "seconds": 1.21
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__806004_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, at this time you should go with the cardiologist's opinion because the heart is the culprit for your shortness of breath. Do not delay because a single heart attack can be fatal as well. Thank you.",
+ "audio_seconds": 11.26,
+ "created_at": "2026-07-06T00:47:34+00:00",
+ "failed": false,
+ "text": "Please press two to confirm or press one to go back.",
+ "seconds": 0.462
+}

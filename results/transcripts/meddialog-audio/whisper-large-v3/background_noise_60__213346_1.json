@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__213346_1",
+ "condition": "background_noise_60",
+ "reference": "I had my wisdom teeth pulled three days ago under anesthesia, and since then my throat has been sore. I just recently looked in the back of my throat, and there are white sores back there. The anesthesia also made my lips crack and peel, so I am wondering if this was a reaction to the medication.",
+ "audio_seconds": 15.7,
+ "created_at": "2026-07-06T04:21:17+00:00",
+ "failed": false,
+ "text": "I had my wisdom teeth pulled three days ago under anesthesia and since then I've been sore I just recently looked in the back of my throat and there are white sores back there The anesthesia also made my lips crack and peel. So I am wondering if this was a reaction to the medication",
+ "seconds": 0.51
+}

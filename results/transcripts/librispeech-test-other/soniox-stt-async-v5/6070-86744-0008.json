@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-86744-0008",
+ "condition": null,
+ "reference": "NOW THEN SAID THE COUNT RETURNING HIS TABLETS TO HIS POCKET MAKE YOURSELF PERFECTLY EASY THE HAND OF YOUR TIME PIECE WILL NOT BE MORE ACCURATE IN MARKING THE TIME THAN MYSELF",
+ "audio_seconds": 12.48,
+ "created_at": "2026-07-06T02:32:20+00:00",
+ "failed": false,
+ "text": "\"Now then,\" said the count, returning his tablets to his pocket, \"make yourself perfectly easy; the hand of your timepiece will not be more accurate in marking the time than myself.\"",
+ "seconds": 4.66
+}

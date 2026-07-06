@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-157645-0014",
+ "condition": null,
+ "reference": "WHEN THESE MEN IN THE COURSE OF MY REMONSTRANCE FOUND THAT I WAS NOT GOING TO CONTINUE THE CUSTOM THEY NO LONGER CARED TO BE COMMUNICANTS",
+ "audio_seconds": 9.54,
+ "created_at": "2026-07-06T00:03:04+00:00",
+ "failed": false,
+ "text": "When these men— and in the course of my remonstrance— found out that I was not going to continue the custom, they no longer cared to be communicants.",
+ "seconds": 4.751
+}

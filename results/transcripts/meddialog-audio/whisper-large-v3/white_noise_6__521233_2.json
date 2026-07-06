@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__521233_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, you can try a soy-based product. Few people also find it useful to consume different forms of milk products like yogurt or buttermilk. You can also consume ice creams and syrups to keep your calorie intake up. two,one hundred calories per day is a decent goal that can be achieved. If mucus production is really a problem, you can take mild medications like olopatadine or amitriptyline. They reduce the amount of secretion without many side effects.",
+ "audio_seconds": 31.66,
+ "created_at": "2026-07-06T04:37:28+00:00",
+ "failed": false,
+ "text": "hi you can try a soy-based product these people also find it useful to consume different forms of milk products like yogurt or buttermilk you can also consume ice creams and syrups to keep your calorie intake up two 100 calories per day is a decent goal that can be achieved if mucous production is really a problem you can take mild medications like a little patadine or on the crystalline they reduce the amount of secretion without many side effects",
+ "seconds": 0.89
+}

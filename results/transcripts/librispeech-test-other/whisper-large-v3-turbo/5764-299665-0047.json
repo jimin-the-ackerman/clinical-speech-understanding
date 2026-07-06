@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "5764-299665-0047",
+ "condition": null,
+ "reference": "WHAT HAS RELIGION DONE FOR HUNGARY OR AUSTRIA",
+ "audio_seconds": 4.58,
+ "created_at": "2026-07-05T13:12:49+00:00",
+ "failed": false,
+ "text": "What has religion done for Hungary or Austria?",
+ "seconds": 0.109
+}

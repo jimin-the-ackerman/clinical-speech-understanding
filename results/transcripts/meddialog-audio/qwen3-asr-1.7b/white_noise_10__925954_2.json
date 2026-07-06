@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__925954_2",
+ "condition": "white_noise_10",
+ "reference": "It definitely seems to be an allergic reaction. Anything such as food, pollen, medicines, or fabrics can react with body proteins to cause this. You can use an antihistamine tablet and apply triamcinolone mouth paint on the lips. This will address the current symptoms, and if it recurs, we should investigate the cause, in my opinion.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T05:34:29+00:00",
+ "failed": false,
+ "text": "It definitely seems to be an allergic reaction. Any things such as food, hair, and medical or fabric can react to body odors to cause this. You can even find the history of materials in a strong scent on your mouth, nose, and lips. This will affect different symptoms. If it recurs, you should investigate cause, environment.",
+ "seconds": 0.659
+}

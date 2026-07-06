@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__565776_1",
+ "condition": "background_noise_20",
+ "reference": "Okay, so I took Plan B on Monday, and two days after that I had an appointment to get birth control. I went to get the pills and I told my nurse that I had taken Plan B recently. She told me to wait until my next period starts, which wasn’t until three weeks later, and then she told me to start the pills after my period was over. It’s been three days since I got the pills and I already got my period, which is an effect of Plan B. So do I go ahead and start taking the pills after it’s done or should I wait until my period is back on cycle?",
+ "audio_seconds": 31.23,
+ "created_at": "2026-07-06T05:17:32+00:00",
+ "failed": false,
+ "text": "Okay, so I took Plan B on Monday, and two days after that, I had an appointment to get birth control. I went to get the pills, and I told my nurse that I had taken Plan B recently. She told me to wait until my next period starts, which wasn't until three weeks later. And then she told me to start the pills after my period was over. It's been three days since I got the pills, and I already got my period, which is an effect of Plan B. So, do I go ahead and start taking the pills after it's done, or should I wait until my period is back on cycle?",
+ "seconds": 1.215
+}

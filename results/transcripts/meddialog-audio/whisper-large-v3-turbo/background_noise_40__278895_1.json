@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__278895_1",
+ "condition": "background_noise_40",
+ "reference": "I am fifty-six years old. My height is five feet five inches. I am female and have been having difficulty leaning back while sitting on a chair for over ten years now. I had an MRI done of the lumbar four, five, and tailbone today. One of the disturbing things that showed up was a cyst in the tailbone. What is it? Is it sebaceous? How does one deal with it?",
+ "audio_seconds": 23.04,
+ "created_at": "2026-07-06T04:41:17+00:00",
+ "failed": false,
+ "text": "I am 56 years old. My height is 5 to 5 inches. I am female and have been having difficulty leaning back while sitting on a chair for over 10 years now. I had an MRI done of the lumbar 4, 5 and tailbone today. One of the disturbing things that showed up was a cyst in the tailbone. What is it? Is it sebaceous? How does one deal with it?",
+ "seconds": 0.283
+}

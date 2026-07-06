@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24318-0014",
+ "condition": null,
+ "reference": "CRIED HERMON IN GRATEFUL AGITATION BUT SHE WOULD NOT LISTEN TO HIM AND FOLLOWED THE SOLDIER WHOM THE CAPTAIN DETAILED TO GUIDE HER INTO THE PALACE",
+ "audio_seconds": 8.05,
+ "created_at": "2026-07-06T02:30:44+00:00",
+ "failed": false,
+ "text": "Cried Herman in grateful agitation, but she would not listen to him and followed the soldier whom the captain detailed to guide her into the palace.",
+ "seconds": 5.222
+}

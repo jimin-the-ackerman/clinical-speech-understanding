@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__134144_2",
+ "condition": "background_noise_60",
+ "reference": "As your cycles are quite irregular, it is better that you do a urine pregnancy test and check whether it is positive or negative. You can start oral contraceptive pills from the fifth day to make your cycles regular.",
+ "audio_seconds": 11.69,
+ "created_at": "2026-07-06T04:20:53+00:00",
+ "failed": false,
+ "text": "As your cycles are quite irregular, it is better that you do a urine pregnancy test and check whether it is positive or negative. You can start oral contraceptive pills from the fifth day to make your cycles regular.",
+ "seconds": 0.439
+}

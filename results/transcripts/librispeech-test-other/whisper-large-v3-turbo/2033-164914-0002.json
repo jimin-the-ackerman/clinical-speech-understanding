@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164914-0002",
+ "condition": null,
+ "reference": "THEN SAID THE EUNUCH ART THOU HE WHO REPEATED POETRY BUT NOW AND MY LADY HEARD HIM",
+ "audio_seconds": 7.53,
+ "created_at": "2026-07-05T13:09:23+00:00",
+ "failed": false,
+ "text": "then said the eunuch art thou he who repeated poetry but now and my lady heard him",
+ "seconds": 0.125
+}

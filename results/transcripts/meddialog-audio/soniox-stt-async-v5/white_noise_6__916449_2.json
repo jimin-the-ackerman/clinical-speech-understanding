@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__916449_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, your pain appears to be from the kidney region in view of your three+ hemoglobin in urine. Please update us regarding your thyroid nodule as well.",
+ "audio_seconds": 10.33,
+ "created_at": "2026-07-06T03:12:15+00:00",
+ "failed": false,
+ "text": "Hello, your pain appears to be from the kidney region in view of your 3+ hemoglobin in urine; please update us regarding your thyroid nodule as well.",
+ "seconds": 4.564
+}

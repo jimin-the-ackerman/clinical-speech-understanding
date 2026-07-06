@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__387330_2",
+ "condition": "white_noise_2",
+ "reference": "Hi. This can be either cancer or some inflammatory mass. A computed tomography scan or magnetic resonance imaging and fine needle aspiration cytology to start with should help to get a diagnosis. If this is cancer, you may need a laryngectomy. If it is inflammatory, simple repeated aspiration and broad-spectrum antibiotics should help to cure you. Always go for investigations before any surgery.",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T04:33:17+00:00",
+ "failed": false,
+ "text": "Hi! This can be either cancer or some inflammatory mask. A computed tomography scan or a magnetic resonance imaging and fine needle aspiration cytology to start with should help to get a diagnosis. If this is cancer, you may need a laryngectomy. If it is inflammatory, simple repeated aspiration and broad-spectrum antibiotics should help to cure you. Always go for investigations before any surgery.",
+ "seconds": 0.798
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28312-0007",
+ "condition": null,
+ "reference": "CHRIS BLINKED AND LOOKED AGAIN YES THEY WERE STILL THERE",
+ "audio_seconds": 4.11,
+ "created_at": "2026-07-05T13:12:02+00:00",
+ "failed": false,
+ "text": "Chris blinked and looked again. Yes, they were still there.",
+ "seconds": 0.116
+}

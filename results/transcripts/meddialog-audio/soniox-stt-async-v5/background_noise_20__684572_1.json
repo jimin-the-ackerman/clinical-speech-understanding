@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__684572_1",
+ "condition": "background_noise_20",
+ "reference": "My wife and I are going through a difficult situation. We have been living together for eight years now, and I have tested positive for chlamydia while my wife tested negative. Since we have been together, I swear to God that I have not cheated on her, but she does not believe me. Now we are getting closer to a separation or divorce. Can you please help me understand how I could test positive and she could test negative while we even have two children?",
+ "audio_seconds": 29.44,
+ "created_at": "2026-07-06T02:48:28+00:00",
+ "failed": false,
+ "text": "My wife and I are going through a difficult situation. We have been living together for 8 years now, and I have tested positive for chlamydia while my wife tested negative. Since we have been together, I swear to God that I have not cheated on her, but she does not believe me. Now we are getting closer to a separation or divorce. Can you please help me understand how I could test positive and she could test negative while we even have 2 children?",
+ "seconds": 5.834
+}

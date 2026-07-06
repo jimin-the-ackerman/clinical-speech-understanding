@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__685934_1",
+ "condition": "clean",
+ "reference": "My husband and I have been trying to get pregnant since May 1st, and I have still had my period every month. I know we haven't been trying for very long, but we had our first child without trying, and once we thought we were ready to have another one, it seems like we aren't able to. What can we do?",
+ "audio_seconds": 20.31,
+ "created_at": "2026-07-06T05:29:35+00:00",
+ "failed": false,
+ "text": "My husband and I have been trying to get pregnant since May first, and I have still had my period every month. I know we haven't been trying for very long, but we had our first child without trying, and once we thought we were another one, it seems like we aren't able to. What can we do?",
+ "seconds": 0.636
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__427557_1",
+ "condition": "white_noise_2",
+ "reference": "Hello. A couple of days after my second waxing, I experienced an itching sensation on my body, mainly in the chest area. It turned red and now I have small pimples or acne that are a bit reddish in color. They are somewhat itchy when I touch them. How can I get rid of them? Will I have any marks left after the cure if there are any? I did not encounter this after my first waxing. I wax because I do bodybuilding.",
+ "audio_seconds": 26.62,
+ "created_at": "2026-07-06T04:47:10+00:00",
+ "failed": false,
+ "text": "Hello? A couple of days after my second waxing, I experienced an itching sensation on my body, namely in the chest area. It turned red, and now I have small pimples or acne that are a bit reddish in color. They are somewhat itchy when I touch them. How can I get rid of them? Will I have any marks left after the cure, if there are any? I did not encounter this after my first waxing. I wax because I do bodybuilding.",
+ "seconds": 0.283
+}

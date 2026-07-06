@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__171951_2",
+ "condition": "white_noise_10",
+ "reference": "Yes, it is necessary to go to the general practitioner as there are signs of dizziness. You must get a head scan done for any bruising, trauma, inflammation, or blood clot in the brain to rule out anything that may cause problems in the future.",
+ "audio_seconds": 13.31,
+ "created_at": "2026-07-06T05:31:20+00:00",
+ "failed": false,
+ "text": "Yes, it is necessary for your comfort, as there are changes in the weather. You must get ahead of the time, and any breathing, falling, inclination towards what's called the breeze will allow anything that will have problems.",
+ "seconds": 0.454
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__650779_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, this is radiating pain from the lumbosacral region. You are not supposed to do brisk and vigorous exercises. That clicking sound is called crepitus, which is most common with your problem. Please go for an MRI of the lumbosacral spine to know the exact depth of your problem. You can start on methylcobalamin five hundred milligrams tablets twice daily and pregabalin seventy-five milligrams daily at night. You can really see the difference.",
+ "audio_seconds": 25.77,
+ "created_at": "2026-07-06T03:10:59+00:00",
+ "failed": false,
+ "text": "Hi, this is radiating pain from a lumbar sacroiliac joint. You are not supposed to be breastfeeding or exercising. That clicking sound is called crepitus, which is most common with your trauma. Please go for an MRI of the lumbosacral spine to know the exact depth of your problem. You can start on metoclopramide 500 mg tablets twice daily and predabalam 75 mg daily at night. You can reuse either of those.",
+ "seconds": 5.855
+}

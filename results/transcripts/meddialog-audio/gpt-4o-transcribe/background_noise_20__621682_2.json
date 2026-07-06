@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__621682_2",
+ "condition": "background_noise_20",
+ "reference": "Yes, definitely. Kanchanar Guggul and Arogyavardhini Vati taken together will show results in about eight to twelve weeks. Take Kanchanar Guggul twice a day and Arogyavardhini Vati once a day. Avoid sour and heavy foods. Do deep breathing exercises – the Pranayama. Learn about this on International Yoga Day somewhere near you. It's a thirty-five-minute package and free. It's slow and longer but non-toxic. After eight weeks, continue with only Kanchanar Guggul to reach desired levels. It is totally safe and does not counteract with other medications. A lot of warm water is required with these. Write back happily when it starts reducing; it’s my experience. Hope it brings happiness to you – safely.",
+ "audio_seconds": 45.91,
+ "created_at": "2026-07-06T00:42:21+00:00",
+ "failed": false,
+ "text": "Yes, definitely. Kanchenar Google and Arogyavar Nivati taken together will show results in about 8 to 12 weeks. Take Kanchenar Google twice a day and Arogyavar Nivati once a day. Avoid sour and heavy foods. Do deep breathing exercises, pranayama, learn about this on International Yoga Day somewhere near you. It's a 35-minute package and free. It's slow and longer but non-toxic. After 8 weeks, continue with only Kanchenar Google to reach desired levels. It is totally safe and does not counteract with other medications. A lot of warm water is required with these. Write back happily when it starts reducing. It's my experience. Hope it brings happiness to you safely.",
+ "seconds": 2.448
+}

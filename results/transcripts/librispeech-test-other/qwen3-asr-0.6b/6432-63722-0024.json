@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0024",
+ "condition": null,
+ "reference": "TOWARD DARK A MAN WENT IN TO BUY A LAMP",
+ "audio_seconds": 3.44,
+ "created_at": "2026-07-06T03:22:55+00:00",
+ "failed": false,
+ "text": "Toward dark, a man went in to buy a lamp.",
+ "seconds": 0.157
+}

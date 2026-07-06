@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__684646_1",
+ "condition": "background_noise_60",
+ "reference": "My eosinophil levels go up and down; they do not stabilize. I was prescribed to take oral steroids and have been using them for almost one year. My red bump allergy comes on and off. How can this stabilize other than steroids? I appreciate your help. Are there any foods that I need to avoid?",
+ "audio_seconds": 18.69,
+ "created_at": "2026-07-06T04:59:23+00:00",
+ "failed": false,
+ "text": "My eosinophil levels go up and down; they do not stabilize. I was prescribed to take oral steroids and have been using them for one year. My red bump allergy is on and off. How can this stabilize other than steroids? I appreciate your help. Are there any foods that I need to avoid?",
+ "seconds": 0.598
+}

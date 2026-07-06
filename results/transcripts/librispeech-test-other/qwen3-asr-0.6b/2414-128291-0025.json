@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128291-0025",
+ "condition": null,
+ "reference": "FOR THEY ARE THY WARMEST FRIENDS AND PRECEPTORS",
+ "audio_seconds": 4.51,
+ "created_at": "2026-07-06T03:15:44+00:00",
+ "failed": false,
+ "text": "For they are thy warmest friends and perceptors.",
+ "seconds": 0.141
+}

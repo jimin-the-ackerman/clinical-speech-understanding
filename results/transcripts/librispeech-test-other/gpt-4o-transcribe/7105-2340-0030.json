@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2340-0030",
+ "condition": null,
+ "reference": "IT WAS MISSUS PETER WHO ARRIVED FIRST AT AN INSPIRATION HOW DREADFUL TO THINK THERE ARE THIEVES IN THE HOUSE WE KEEP THE DRAWING ROOM LOCKED UP AT NIGHT OF COURSE BUT ANYTHING MIGHT BE CARRIED OFF WHILE WE ARE AT BREAKFAST",
+ "audio_seconds": 15.72,
+ "created_at": "2026-07-05T23:57:46+00:00",
+ "failed": false,
+ "text": "It was Mrs. Peter who arrived first, at an inspiration. \"How dreadful to think there are thieves in the house! We keep the drawing-room locked up at night, of course, but anything might be carried off while we are at breakfast!\"",
+ "seconds": 1.196
+}

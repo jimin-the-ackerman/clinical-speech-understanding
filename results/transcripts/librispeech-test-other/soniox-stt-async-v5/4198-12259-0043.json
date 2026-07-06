@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12259-0043",
+ "condition": null,
+ "reference": "CLEAR OFF NEAT SUPERNACULUM",
+ "audio_seconds": 3.51,
+ "created_at": "2026-07-06T02:24:54+00:00",
+ "failed": false,
+ "text": "Clear off. Neat. Super naculum.",
+ "seconds": 7.854
+}

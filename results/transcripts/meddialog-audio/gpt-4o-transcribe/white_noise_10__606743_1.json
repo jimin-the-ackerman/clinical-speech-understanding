@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__606743_1",
+ "condition": "white_noise_10",
+ "reference": "I had a nerve block on S1 and I believe L4. I have bulging discs that are compressing the nerve. My back seems somewhat better; it still lets me know it's there, but I am experiencing pain, tingling, and burning in the left foot, which is the side I had the blocks on. I had an echocardiogram and ankle-brachial index performed on my legs several months ago because of the foot pain, but nothing was found. Can this be coming from my back, or do I have something else going on?",
+ "audio_seconds": 27.05,
+ "created_at": "2026-07-06T00:45:56+00:00",
+ "failed": false,
+ "text": "The best thing is that you are not in my class.",
+ "seconds": 0.72
+}

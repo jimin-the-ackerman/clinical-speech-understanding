@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__949376_1",
+ "condition": "white_noise_2",
+ "reference": "I am waiting for the results of a biopsy. I have leukoplakia on the roof of my mouth, specifically on the upper back right side. There was also a small open area next to it. Neither the dentist nor the oral surgeon could find an obvious cause; I have had it for six months. What are the statistics on malignancy with the ulcerated area next to the white patch? I am fifty-four years old and female. I quit smoking ten years ago.",
+ "audio_seconds": 27.9,
+ "created_at": "2026-07-06T04:48:04+00:00",
+ "failed": false,
+ "text": "I am waiting for the results of a biopsy. I have leukoplakia on the roof of my mouth, specifically on the upper back right side. There was also a small open area next to it. Neither the dentist nor the oral surgeon could find an obvious cause. I have had it for six months. What if it's statistics on malignancy with the ulcerated area next to the white patch? I am 54 years old and female. I quit smoking 10 years ago.",
+ "seconds": 0.311
+}

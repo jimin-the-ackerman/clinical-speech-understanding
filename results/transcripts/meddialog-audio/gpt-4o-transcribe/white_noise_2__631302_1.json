@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__631302_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, my name is Komal. My sister got a fever five-six days ago and has experienced a lot of weakness. She took medicine for the fever from the family doctor but did not get relief. So we had her blood tested, and the report showed forty-seven pus cells in the blood sample. The doctors directed us to admit her to the hospital, stating that the count should be between sixty-seventy. When we ask them about these cells—what they are and why their count decreases—we do not receive a reply from the doctor. Can you please help us by explaining why these cells decrease in the blood? What do these cells stand for? How can we increase them? Please help and reply soon.",
+ "audio_seconds": 40.7,
+ "created_at": "2026-07-06T00:46:45+00:00",
+ "failed": false,
+ "text": "Hi, my name is Tomo. Let's go down a few replies to this data though, and let's experience a modern weakness. Just pretend as if you're going to bounce to the mushroom. So we have a bullet question, and we'll put should 40, 70 plus thousand the blood vessel. The doctor is right there doing the other hospital. Getting to the couch and the 16th Avenue. We ask them about themselves what they are and why the couch pieces. We do not receive a reply from the doctor. Can you please help us by explaining why we serve to peace and blood? What is so thankful? How can you please come? We hoping we'll pursue.",
+ "seconds": 2.82
+}

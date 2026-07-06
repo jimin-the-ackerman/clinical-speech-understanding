@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280063-0001",
+ "condition": null,
+ "reference": "BOONE MUIR AND MYSELF MET COFFEE AND THE REST BELOW ROSE HILL ON GRAND RIVER",
+ "audio_seconds": 4.46,
+ "created_at": "2026-07-05T13:07:01+00:00",
+ "failed": false,
+ "text": "boom ewer and myself met coffee and the rest below rose hill on grand river",
+ "seconds": 0.197
+}

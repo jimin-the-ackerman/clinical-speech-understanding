@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__614259_2",
+ "condition": "background_noise_60",
+ "reference": "You may be experiencing peptic ulcer disease. Stress can be a significant cause of gastritis as well. You should regularize your routine and take meals at proper times. If necessary, a proton pump inhibitor can be started once daily prior to breakfast. This will alleviate most of your problems, but if they persist, consider undergoing upper gastrointestinal endoscopy. Pregnancy can be confirmed with a simple test at any laboratory.",
+ "audio_seconds": 26.79,
+ "created_at": "2026-07-06T05:25:30+00:00",
+ "failed": false,
+ "text": "You may be experiencing peptic ulcer disease. Stress can be a significant cause of gastritis as well. You should regularize your routine and take meals at proper times. If necessary, a proton pump inhibitor can be started once daily prior to breakfast. This will alleviate most of your problems. But if they persist, consider undergoing upper gastrointestinal endoscopy. Pregnancy can be confirmed with a simple test at any laboratory.",
+ "seconds": 0.782
+}

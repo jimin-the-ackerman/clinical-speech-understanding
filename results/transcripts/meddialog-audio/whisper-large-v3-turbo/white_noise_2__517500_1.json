@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__517500_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, I am twenty-six years old. The doctor suggested a follicular study. The scan on the 10th day reported that the left ovary is normal, but the right ovary has a six millimeter dominant follicle. My question is, is it difficult to conceive with one normal ovary? Also, does the follicle size increase day by day?",
+ "audio_seconds": 19.29,
+ "created_at": "2026-07-06T04:47:20+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I am 26 years old. The doctor suggested a follicular study. The scan on the 10th day reported that the left ovary is normal, but the right ovary has a 6mm dominant follicle. My question is, is it difficult to conceive with one normal ovary? Also, does the follicle size increase day by day?",
+ "seconds": 0.247
+}

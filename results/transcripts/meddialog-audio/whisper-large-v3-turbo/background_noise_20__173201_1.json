@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__173201_1",
+ "condition": "background_noise_20",
+ "reference": "I have severe fibromyalgia symptoms. I know it causes weight gain, which I have struggled with my whole life. I need information on prescribed weight loss pills to assist in reducing my pain. I fired my doctor as she refused to help me with weight loss medication.",
+ "audio_seconds": 15.79,
+ "created_at": "2026-07-06T04:39:35+00:00",
+ "failed": false,
+ "text": "I have severe phagromyalgia symptoms. I know it causes weight gain, which I have struggled with my whole life. I need information on prescribed weight loss pills to assist in reducing my pain. I fired my doctor as she refused to help me with weight loss medication.",
+ "seconds": 0.223
+}

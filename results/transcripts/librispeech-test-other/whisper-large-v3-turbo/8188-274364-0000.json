@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-274364-0000",
+ "condition": null,
+ "reference": "THE COMMONS ALSO VOTED THAT THE NEW CREATED PEERS OUGHT TO HAVE NO VOICE IN THIS TRIAL BECAUSE THE ACCUSATION BEING AGREED TO WHILE THEY WERE COMMONERS THEIR CONSENT TO IT WAS IMPLIED WITH THAT OF ALL THE COMMONS OF ENGLAND",
+ "audio_seconds": 12.57,
+ "created_at": "2026-07-05T13:14:44+00:00",
+ "failed": false,
+ "text": "the commons also voted that the new created peers ought to have no voice in this trial because the accusation being agreed to while they were commoners their consent to it was implied with that of all the commons of england",
+ "seconds": 0.139
+}

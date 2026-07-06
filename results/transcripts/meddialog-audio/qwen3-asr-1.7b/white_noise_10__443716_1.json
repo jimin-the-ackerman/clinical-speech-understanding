@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__443716_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, my wife has developed some white spots and hypopigmented patches in her underarm and breast area. We went to a dermatologist, but the doctor was confused about whether it is vitiligo or a fungal infection. The doctor prescribed fluconazole tablets along with mometasone and terbinafine ointment. She applies the ointment regularly, but there is no improvement. What could it be? Her mother has vitiligo covering her full body.",
+ "audio_seconds": 25.77,
+ "created_at": "2026-07-06T05:32:20+00:00",
+ "failed": false,
+ "text": "Hi, my wife has developed some white spots and hyperpigmented areas in her underarm and breast area. She went to a dermatologist, but the doctor was confused about whether it is vitiligo or a fungal infection. The doctor prescribed zinc nasal tablets along with nimesulide and serginate ointment. She applies the ointment regularly, but there is no improvement. But to the east, her mother has vitiligo covering her full body.",
+ "seconds": 0.896
+}

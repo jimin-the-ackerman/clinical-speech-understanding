@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-10919-0025",
+ "condition": null,
+ "reference": "EXCUSE ME DOCTOR BUT THERE IS REALLY NO OBJECT IN THIS",
+ "audio_seconds": 3.09,
+ "created_at": "2026-07-05T13:01:28+00:00",
+ "failed": false,
+ "text": "excuse me doctor but there is really no object in this",
+ "seconds": 0.178
+}

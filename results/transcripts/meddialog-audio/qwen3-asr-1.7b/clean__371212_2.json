@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__371212_2",
+ "condition": "clean",
+ "reference": "Hello. Please explain the antibiotics that were prescribed for you and how long you used them. Please state whether the lymph nodes in your neck are still swollen. Can you palpate them? Please explain if you have had a fever or any bleeding problems. Were any culture sensitivity tests of the throat swab performed or any other blood investigations conducted?",
+ "audio_seconds": 21.25,
+ "created_at": "2026-07-06T05:28:16+00:00",
+ "failed": false,
+ "text": "Hello, please explain the antibiotics that were prescribed for you and how long you use them. Please state whether the lymph nodes in your neck are still swollen. Can you palpate them? Please explain if you have had a fever or any bleeding problems. Were any culture sensitivity tests of the throat swab performed, or any other blood investigations conducted?",
+ "seconds": 0.678
+}

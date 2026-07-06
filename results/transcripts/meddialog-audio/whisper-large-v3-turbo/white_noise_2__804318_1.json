@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__804318_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, I am twenty-four years old. I have had problems with excessive imagination since I was a child. I imagine that I am a winner and envision what I want and where I want to go. However, I am still facing these problems in my job, education, and personal relationships. I imagine everything I love, but in reality, it is not what I am doing. I feel guilty about what I think. Please help me. How can I stop these issues with excessive imagination?",
+ "audio_seconds": 36.18,
+ "created_at": "2026-07-06T04:47:51+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I am 24 years old. I have had problems with excessive imagination since I was a child. I imagine that I am a winner and envision what I want and where I want to go. However, I am still facing these problems in my job, education, and personal relationships. I imagine everything I love, but in reality, it is not what I am doing. I feel guilty about what I think. Please help me. How can I stop these issues with excessive imagination?",
+ "seconds": 0.331
+}

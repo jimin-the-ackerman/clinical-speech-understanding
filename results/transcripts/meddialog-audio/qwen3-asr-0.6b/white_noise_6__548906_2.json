@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__548906_2",
+ "condition": "white_noise_6",
+ "reference": "A headache can be a result of elevated blood pressure, or even blood pressure can be elevated due to headache itself. Swelling may occur due to the dilation of blood vessels, which can be a response to pain. Just keep your blood pressure under control. Make a blood pressure chart with frequent readings. Also, get your lipid profile checked.",
+ "audio_seconds": 19.88,
+ "created_at": "2026-07-06T05:13:29+00:00",
+ "failed": false,
+ "text": "A headache can be a result of elevated blood pressure, or even blood pressure can be elevated due to headache itself. Swelling may occur due to the dilation of blood vessels, which can be a response to pain. Just keep your blood pressure under control. Make a blood pressure chart with frequent readings. Also, get your lipid profile checked.",
+ "seconds": 0.64
+}

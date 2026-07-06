@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__467544_1",
+ "condition": "background_noise_20",
+ "reference": "Hello Doctor, I am having pain in my back, and I took an MRI scan. The report says that the tissue or a layer between L4 and L5 is swollen. They prescribed Hifenac P, Razo twenty mg, and Chymoral Forte DS tablets and added that I should undergo physiotherapy treatment for ten days. Do these tablets have any side effects or is it better to continue with these tablets?",
+ "audio_seconds": 23.3,
+ "created_at": "2026-07-06T02:47:37+00:00",
+ "failed": false,
+ "text": "Hello, doctor, I am having pain in my back and I took an MRI scan. The report says that the tissue, or a layer between L4 and L5, is swollen. They prescribed Hifenac P-Raso 20 mg and Chimerol Forte DS tablets, and added that I should undergo physiotherapy treatment for 10 days. Do these tablets have any side effects, or is it better to continue with these tablets?",
+ "seconds": 4.623
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__428572_1",
+ "condition": "background_noise_20",
+ "reference": "Hello Doctor, for the three weeks, I have been feeling lethargic. I had a blood test that indicated I have an inflamed liver, high cholesterol, and my iron levels were very high. Three weeks ago, I also gave blood, and I have been drained of energy. Tomorrow, I will go for an ultrasound test, as I have been urinating a lot. I am forty-five years old. What do you think it may be? I also completed a urine test to check for a urine infection, but it came back normal.",
+ "audio_seconds": 29.78,
+ "created_at": "2026-07-06T02:47:29+00:00",
+ "failed": false,
+ "text": "Hello, doctor. For the 3 weeks I have been feeling lethargic. I had a blood test that indicated I have an inflamed liver, high cholesterol, and my iron levels were very high. Three weeks ago I also gave blood, and I have been drained of energy. Tomorrow I will go for an ultrasound test. As I have been urinating a lot, I am 45 years old; what do you think it may be? I also completed a urine test to check for a urine infection, but it came back normal.",
+ "seconds": 5.077
+}

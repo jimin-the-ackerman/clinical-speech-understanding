@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0016",
+ "condition": null,
+ "reference": "THE HALF DOZEN CIGARS WHICH MOST SMOKERS USE A DAY CONTAIN SIX OR SEVEN GRAINS ENOUGH IF CONCENTRATED AND ABSORBED TO KILL THREE MEN AND A POUND OF TOBACCO ACCORDING TO ITS QUALITY CONTAINS FROM ONE QUARTER TO ONE AND A QUARTER OUNCES",
+ "audio_seconds": 16.54,
+ "created_at": "2026-07-06T02:41:31+00:00",
+ "failed": false,
+ "text": "The half-dozen cigars, which most smokers use a day, contain 6 or 7 grains—enough, if concentrated and absorbed—to kill 3 men, and a pounder tobacco, according to its quality, contains from 1/4 to 1 1/4 ounces.",
+ "seconds": 4.818
+}

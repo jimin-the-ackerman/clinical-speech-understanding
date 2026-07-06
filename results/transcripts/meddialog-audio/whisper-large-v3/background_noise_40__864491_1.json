@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__864491_1",
+ "condition": "background_noise_40",
+ "reference": "Hi Doctor, I am an eighteen-year-old girl. It has been quite noticeable for some time that I have had excessive hair loss, especially in my hairline. I am a ballet dancer and have been putting my hair in buns ever since I was little. Two years ago, I started training in a full-time course which meant I needed to put my hair in a bun every day with hairspray, and many times I got home too late to wash it out. Now I am taking more caution, but I have lost a lot of hair and my hairline has receded significantly. Is there anything I can do to reverse or help it?",
+ "audio_seconds": 33.37,
+ "created_at": "2026-07-06T04:20:20+00:00",
+ "failed": false,
+ "text": "Hi, Doctor. I am an 18-year-old girl. It has been quite noticeable for some time that I have had excessive hair loss, especially in my hairline. I am a ballet dancer, and have been putting my hair in buns ever since I was little. Two years ago, I started training in a full-time course, which meant I needed to put on a bun every day with hairspray. Many times, I got home too late to wash it out. Now I am taking more caution, but I have lost a lot of hair, and my hairline has receded significantly. Is there anything I can do to reverse or help it?",
+ "seconds": 1.369
+}

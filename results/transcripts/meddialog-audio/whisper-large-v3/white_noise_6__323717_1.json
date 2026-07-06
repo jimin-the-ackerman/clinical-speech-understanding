@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__323717_1",
+ "condition": "white_noise_6",
+ "reference": "I have low blood sugar; I have had this for at least twenty years. I have been trying to control this by eating every two to three hours, staying away from all spicy and greasy foods, and avoiding coffee, sodas, and sweets. It is pretty boring, but it does work for me. My question is, why does this problem only happen in the mornings when I wake up?",
+ "audio_seconds": 22.61,
+ "created_at": "2026-07-06T04:36:39+00:00",
+ "failed": false,
+ "text": "I have low blood sugar. I have had this for at least 20 years. I have been trying to control this by eating every 2-3 hours, staying away from all spicy and greasy foods, and avoiding coffee, sodas, and sweets. It is pretty boring, but it does work for me. My question is, why does this problem only happen in the mornings when I wake up?",
+ "seconds": 0.699
+}

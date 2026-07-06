@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__480941_2",
+ "condition": "white_noise_6",
+ "reference": "Thank you for your inquiry. Standing suddenly from a sitting position may sometimes cause dizziness, and this could be due to orthostatic hypotension. If you are low in hemoglobin, then this condition will be more pronounced and frequent. The lump you have noticed is likely a solitary lymph node. Such single nodes may sometimes become inflamed without any specific reason and then resolve on their own without treatment. However, if it becomes painful, you can try ibuprofen with acetaminophen three times a day, and you should feel better. There is nothing to worry about; it is not dangerous. Have a nice day.",
+ "audio_seconds": 33.79,
+ "created_at": "2026-07-06T05:40:04+00:00",
+ "failed": false,
+ "text": "Thank you for waiting for it. Standing suddenly in a sitting position may sometimes cause dizziness, and this can be due to overactive pupils. If you are a woman who is older, then this condition will be more pronounced and frequent. The ones who have noticed is likely a solitary one. Such simple nerves may sometimes become inflamed without any specific reason and then resolve on their own without treatment. However, if it becomes painful, you can try an eye drop and use a sediment pen three times a day, and you should feel better. There is nothing to worry about. It is not dangerous. Have a nice day.",
+ "seconds": 1.171
+}

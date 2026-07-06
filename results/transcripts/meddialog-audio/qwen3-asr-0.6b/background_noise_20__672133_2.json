@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__672133_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. The bruise without a history of trauma is more serious and needs to be investigated by blood counts, bleeding time, clotting time, prothrombin time, platelet count, and so on. It may be related to the pain in the abdomen.",
+ "audio_seconds": 15.45,
+ "created_at": "2026-07-06T04:51:58+00:00",
+ "failed": false,
+ "text": "Hello. The bruise without a history of trauma is more serious and needs to be investigated by blood counts, bleeding time, clotting time, prothrombin time, platelet count, and so on. It may be related to the pain in the abdomen.",
+ "seconds": 0.532
+}

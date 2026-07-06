@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__809952_1",
+ "condition": "background_noise_40",
+ "reference": "Thank you. I am curious. I met a young mother who has a little two-year-old son in the hospital for the past two months. He has blood in his stomach. They were traveling by plane home from New York and were met by an ambulance at the airport, which rushed the child to the hospital. The diagnosis was something like clora, but she couldn't remember the exact term. However, they are telling her that they are not sure how long he has.",
+ "audio_seconds": 23.38,
+ "created_at": "2026-07-06T04:42:06+00:00",
+ "failed": false,
+ "text": "Thank you. I am curious. I met a young mother who has a little two-year-old son in the hospital for the past two months. He has blood in his stomach. They were traveling by plane home from New York and were met by an ambulance at the airport, which rushed the child to the hospital. The diagnosis was something like Cora, but she couldn't remember the exact term. However, they are telling her that they are not sure how long he has.",
+ "seconds": 0.295
+}

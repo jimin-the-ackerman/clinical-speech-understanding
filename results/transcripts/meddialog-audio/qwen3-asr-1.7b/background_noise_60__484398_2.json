@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__484398_2",
+ "condition": "background_noise_60",
+ "reference": "As I understand, the baby has a white streak on the fold between the cheek, nose, and ear. This is due to decreased sun exposure of the skin fold and increased salt content in the fold due to sweat. This streak mark will self-resolve as the baby grows and the fold disappears. Using Vitamin D four hundred International Units may help you.",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T05:24:55+00:00",
+ "failed": false,
+ "text": "As I understand, the baby has a white streak on the fold between the cheek, nose, and ear. This is due to decrease sun exposure of the skin fold and increased salt content in the fold due to sweat. This streak mark will self-resolve as the baby grows and the fold disappears. Using vitamin D 400 international units may help.",
+ "seconds": 0.683
+}

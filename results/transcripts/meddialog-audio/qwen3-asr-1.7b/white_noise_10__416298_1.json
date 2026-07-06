@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__416298_1",
+ "condition": "white_noise_10",
+ "reference": "I was hit on the shin, above the ankle, with a softball over a week ago. The bruising seems to finally be improving, but I still have severe pain when walking after moments of rest, although it does improve after the initial steps. There is a knot in the center of the bruising. Is it possible to have a fracture?",
+ "audio_seconds": 19.8,
+ "created_at": "2026-07-06T05:32:15+00:00",
+ "failed": false,
+ "text": "I just hit on the train. I'm driving into Alberta for fall ballabilities today. The bruises seem to finally be improving, but I still have to be extremely careful with the knees above. Although it doesn't seem like it needs to stop, there is a lot missing in the bruises. Is it possible to have a faster?",
+ "seconds": 0.641
+}

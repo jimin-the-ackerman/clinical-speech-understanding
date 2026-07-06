@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__540781_1",
+ "condition": "background_noise_20",
+ "reference": "I had a misplaced epidural during labor three months ago and have had constant bilateral ear ringing twenty-four hours a day since then. I am seeing a neurologist who thinks that eventually this will go away but hasn't even ordered a magnetic resonance imaging scan. Have you ever seen this in your practice? I think I have some nerve damage or something from the epidural.",
+ "audio_seconds": 20.57,
+ "created_at": "2026-07-06T04:15:06+00:00",
+ "failed": false,
+ "text": "I had a misplaced epidural during three months ago and have had constant bilateral ear ringing 24 hours a day since then. I am seeing a neurologist who thinks that eventually this will go away but hasn't even ordered a magnetic resonance imaging scan. Have you ever seen this in your practice? I think I have some nerve damage or something from the epidural.",
+ "seconds": 0.643
+}

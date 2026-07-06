@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__998602_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, I injured my knee six weeks ago playing football. It has been diagnosed as a cruciate injury, and I am waiting for a scan. The knee is still slightly swollen and does not seem to be improving. I am icing and massaging it. Is there anything else I can do to improve the situation? I am forty-four years old, weigh ten stone, and am fairly fit. Thank you.",
+ "audio_seconds": 21.25,
+ "created_at": "2026-07-06T03:04:48+00:00",
+ "failed": false,
+ "text": "Hi, I injured my knee 6 weeks ago playing football. It has been diagnosed as a cruciate injury, and I am waiting for a scan. The knee is still slightly swollen and does not seem to be improving. I am icing and massaging it. Is there anything else I can do to improve the situation? I am 44 years old, day 10 student, and I'm fairly fit. Thank you.",
+ "seconds": 5.482
+}

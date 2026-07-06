@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__688508_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. Has the pain started after the surgery? This can be due to hernia development at the scar. If you are lean and thin, feeling pulsations in the mid-abdomen can be normal. A good ultrasonography with informed history to the sonologist may help you to find the problem.",
+ "audio_seconds": 16.64,
+ "created_at": "2026-07-06T04:15:42+00:00",
+ "failed": false,
+ "text": "Although, as the pain started after the surgery, this can be due to hernia development at the scar. If you are lean and thin, feeling pulsations in the mid-abdominum can be normal. A good ultrasonography with informed history to the sonologist may help you to find the problem.",
+ "seconds": 0.56
+}

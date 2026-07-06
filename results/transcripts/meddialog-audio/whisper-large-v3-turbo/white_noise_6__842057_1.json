@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__842057_1",
+ "condition": "white_noise_6",
+ "reference": "My ten-year-old son fell and banged his leg on Sunday. He has developed a solid lump on his lower leg about an inch away from his shin bone on the outside of his leg. He has no pain except when you press it. It is hard like bone and about one inch long. Should I be concerned?",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T04:49:19+00:00",
+ "failed": false,
+ "text": "My 10-year-old son fell in 90s red once in a while. He has developed a solid long time to learn about an inch of aging shrimp bone on the outside of his bed. He has no pain in the septum effects. It is hard like bone in about one inch long. Should I be concerned?",
+ "seconds": 0.243
+}

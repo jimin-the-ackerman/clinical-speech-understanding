@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__772612_2",
+ "condition": "background_noise_40",
+ "reference": "Hi. Your history indicates that you had pain in the morning and became hungry due to it. This suggests the possibility of an acid-peptic disease, which could be gastritis or duodenitis, among others. The non-response to the food and the medications you took indicate a possibility of a gastric or duodenal ulcer, pancreatitis, or cholecystitis. I would advise you to refrain from oral intake, meaning do not take anything orally, as you need to undergo ultrasonography of the abdomen, upper gastrointestinal endoscopy, and other blood examinations, including liver function tests, lipase, amylase enzymes, blood sugar, and kidney function tests. You should be admitted to the hospital.",
+ "audio_seconds": 40.96,
+ "created_at": "2026-07-06T02:52:20+00:00",
+ "failed": false,
+ "text": "Hi. Your history indicates that you had pain in the morning and became hungry due to it. This suggests the possibility of an acid peptic disease, which could be gastritis or duodenis, among others. The non-response to the food and the medications you took indicate a possibility of a gastric or duodenal ulcer, pancreatitis, or cholecystitis. I would advise you to refrain from oral intake, meaning do not take anything orally, as you need to undergo ultrasonography of the abdomen, upper gastrointestinal endoscopy, and other blood examinations, including liver function tests, lipase, amylase enzymes, blood sugar, and kidney function tests. You should be admitted to the hospital.",
+ "seconds": 8.47
+}

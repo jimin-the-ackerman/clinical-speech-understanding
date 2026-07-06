@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__128624_2",
+ "condition": "white_noise_10",
+ "reference": "Yes, you should be concerned about the hole in the heart. It could be an atrial septal defect, a ventricular septal defect, or a patent ductus arteriosus. A two-dimensional echocardiogram should be performed to determine the size, location, and nature of the hole. Different types of defects are treated differently. A two-dimensional echocardiogram should be done as soon as possible for further planning of action.",
+ "audio_seconds": 22.44,
+ "created_at": "2026-07-06T05:31:10+00:00",
+ "failed": false,
+ "text": "Yes, you should be concerned about the hole in the heart. It could be an atrial septal defect, a ventricular septal defect, or a patent ductus arteriosus. A two-dimensional echocardiogram should be performed to determine the size, location, and nature of the hole. Different types of defects are treated differently. Two-dimensional echocardiograms should be done as soon as possible for further planning of action.",
+ "seconds": 0.862
+}

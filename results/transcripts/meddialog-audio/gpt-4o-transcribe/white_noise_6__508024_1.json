@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__508024_1",
+ "condition": "white_noise_6",
+ "reference": "I have a chronic rash on the inside of my left thigh, crotch, and part of my lower scrotum. It is characterized by reddish bumps at the base of my hair follicles in groups of approximately eight per square inch. I wear a gel liner under a hard plastic prosthetic socket on my upper left leg. There is an obvious association. I have tried antifungal and antibacterial creams to no avail. Could I have a contact dermatitis condition?",
+ "audio_seconds": 29.27,
+ "created_at": "2026-07-06T00:47:21+00:00",
+ "failed": false,
+ "text": "I'm not going to fund the next book.",
+ "seconds": 1.237
+}

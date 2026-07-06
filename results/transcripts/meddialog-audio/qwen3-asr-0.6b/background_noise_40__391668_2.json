@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__391668_2",
+ "condition": "background_noise_40",
+ "reference": "Hi. I need the following details to assist you better: Is your partner infected with HIV or do they have a history of multiple sexual contacts? The chances of transmission of HIV are higher among homosexual individuals. Have you noticed these ulcers frequently, or how long have these ulcers been present on your genitals?",
+ "audio_seconds": 19.8,
+ "created_at": "2026-07-06T04:54:40+00:00",
+ "failed": false,
+ "text": "Hi, I need the following details to assist you better: Is your partner infected with HIV, or do they have a history of multiple sexual contacts? The chances of transmission of HIV are higher among homosexual individuals. Have you noticed these ulcers frequently, or how long have these ulcers been present on your genitals?",
+ "seconds": 0.575
+}

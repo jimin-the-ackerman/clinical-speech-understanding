@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0037",
+ "condition": null,
+ "reference": "NOR WAS IT SUNDAY ON WHICH THEY TOOK A REST AND WASHED THEIR SHIRTS ACCORDING TO MISTER BEALE'S RULE OF LIFE",
+ "audio_seconds": 6.65,
+ "created_at": "2026-07-06T03:27:16+00:00",
+ "failed": false,
+ "text": "Nor was it Sunday, on which they took a rest and washed their shirts, according to Mister Beale's rule of life.",
+ "seconds": 0.272
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__964915_2",
+ "condition": "background_noise_20",
+ "reference": "Your condition seems to be related to your weight. Reducing weight will help you a lot. Start with a regular exercise schedule; back pain can be controlled by these measures. If you fail to follow nature's way, then the road is long.",
+ "audio_seconds": 13.14,
+ "created_at": "2026-07-06T04:53:12+00:00",
+ "failed": false,
+ "text": "Your condition seems to be related to your weight. Reducing weight will help you a lot. Start with a regular exercise schedule. Back pain can be controlled by these measures. If you fail to follow nature's way, then the road is long.",
+ "seconds": 0.485
+}

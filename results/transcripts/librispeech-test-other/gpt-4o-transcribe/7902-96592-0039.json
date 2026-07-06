@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0039",
+ "condition": null,
+ "reference": "I TOLD YOU A FISHER BOY CRIED ARCHY IMPATIENTLY BUT TRYING NOT TO OFFEND HIS VISITOR WHO POSSESSED THE POWER OF CONFERRING FREEDOM BY SPEAKING SHARPLY",
+ "audio_seconds": 7.87,
+ "created_at": "2026-07-05T23:57:54+00:00",
+ "failed": false,
+ "text": "I told you, fisher-boy,\" cried Archie impatiently, but trying not to offend his visitor, who possessed the power of conferring freedom, by speaking sharply.",
+ "seconds": 0.889
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0039",
+ "condition": null,
+ "reference": "MURDOCH SENT ONE OF THE MEN TO PICK UP A SECOND SQUAD OF SIX AND THEN A THIRD",
+ "audio_seconds": 5.54,
+ "created_at": "2026-07-06T02:39:12+00:00",
+ "failed": false,
+ "text": "Murdoch sent one of the men to pick up a second squad of 6, and then a third.",
+ "seconds": 5.265
+}

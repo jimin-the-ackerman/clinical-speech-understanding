@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__365018_1",
+ "condition": "clean",
+ "reference": "Hello Doctor, I have had one-sided throat pain for a week now when swallowing. I usually have a cobblestone appearance on the back of my throat. Now my throat pain is slight and may be more on the side where this lump above my tonsil appeared. What does this look like? Could this be a tonsil stone?",
+ "audio_seconds": 18.35,
+ "created_at": "2026-07-06T04:25:56+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I have had one-sided throat pain for a week now when swallowing. I usually have a cobblestone appearance on the back of my throat. Now my throat pain is slight and may be more on the side where this lump above my tonsil appeared. What does this look like? Could this be a tonsil stone?",
+ "seconds": 0.677
+}

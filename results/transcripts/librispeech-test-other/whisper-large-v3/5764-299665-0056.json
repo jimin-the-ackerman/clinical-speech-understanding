@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "5764-299665-0056",
+ "condition": null,
+ "reference": "THE QUEEN RECEIVED THE BIBLE KISSED IT AND PLEDGED HERSELF TO DILIGENTLY READ THEREIN",
+ "audio_seconds": 8.56,
+ "created_at": "2026-07-05T13:04:01+00:00",
+ "failed": false,
+ "text": "the queen received the bible kissed it and pledged herself to diligently read",
+ "seconds": 0.22
+}

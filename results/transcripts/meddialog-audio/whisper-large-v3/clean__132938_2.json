@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__132938_2",
+ "condition": "clean",
+ "reference": "Are you able to exercise before bedtime? Perhaps eating nutritionally and lightly in the evening may help. Listening to meditation and practicing breathing exercises can help too. Can you purchase a white noise machine that you can play at night? That can offer relief from hyperarousal. Using something like brain synchronization repetitively for several weeks can help as well. Do you have any history of post-traumatic stress disorder? Perhaps the hyperarousal is a symptom of that. Good luck.",
+ "audio_seconds": 29.7,
+ "created_at": "2026-07-06T04:24:56+00:00",
+ "failed": false,
+ "text": "Are you able to exercise before bedtime? Perhaps eating nutritionally and lightly in the evening may help. Listening to meditation and practicing breathing exercises can help too. Can you purchase a white noise machine that you can play at night? That can offer relief from hyperarousal. Using something like brain synchronization repetitively for several weeks can help as well. Do you have any history of post-traumatic stress disorder? Perhaps the hyperarousal is a symptom of that. Good luck!",
+ "seconds": 0.851
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12259-0018",
+ "condition": null,
+ "reference": "AND I TANQUAM SPONSUS",
+ "audio_seconds": 3.03,
+ "created_at": "2026-07-06T02:24:39+00:00",
+ "failed": false,
+ "text": "And I, 10 Quam Sponsors.",
+ "seconds": 4.652
+}

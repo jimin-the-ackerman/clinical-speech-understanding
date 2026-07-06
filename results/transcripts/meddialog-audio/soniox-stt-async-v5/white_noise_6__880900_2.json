@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__880900_2",
+ "condition": "white_noise_6",
+ "reference": "You need to remove your baby tooth. In most cases, orthodontic treatment is required to bring the permanent tooth into proper alignment, but if you cannot afford it, then you can wait for some time after the removal of the baby tooth. Sometimes, the permanent tooth aligns to some extent by the natural forces of occlusion.",
+ "audio_seconds": 20.57,
+ "created_at": "2026-07-06T03:12:06+00:00",
+ "failed": false,
+ "text": "You need to remove your baby tooth; in most cases, orthodontic treatment is required to bring the permanent tooth into proper alignment, but if you cannot afford it, then you can wait for some time after the removal of the baby tooth. Sometimes the permanent tooth aligns to some extent by the natural forces of occlusion.",
+ "seconds": 6.031
+}

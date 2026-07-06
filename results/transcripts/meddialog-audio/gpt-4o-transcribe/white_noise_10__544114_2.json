@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__544114_2",
+ "condition": "white_noise_10",
+ "reference": "Hi and welcome to HCM. I am sorry about your sister-in-law. It is hard to predict, as you know. This is definitely the terminal stage, unfortunately. What about her mental condition, breathing, and heart function? These three signs can tell the most about life expectancy. If she is confused, disoriented, breathes shallow, and has no appetite, these are her final days. If not, she might live for a week or two, not more than a month. I wish you good luck.",
+ "audio_seconds": 31.57,
+ "created_at": "2026-07-06T00:45:54+00:00",
+ "failed": false,
+ "text": "I looked at him and smiled and said, \"Let's go to the movies.\"",
+ "seconds": 0.825
+}

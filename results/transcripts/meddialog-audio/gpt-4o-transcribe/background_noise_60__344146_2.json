@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__344146_2",
+ "condition": "background_noise_60",
+ "reference": "Hello dear, I have gone through your question and understand your concern. You should be worried, but not too much. I suggest: - Dufalac five milliliters daily; - Darolac one capsule daily for one month; - Bepanthen or Pilex cream for the anus; - Diet enriched with beets, gourds, carrots, apple puree, and yogurt. I hope this helps. Wishing your baby good health.",
+ "audio_seconds": 23.13,
+ "created_at": "2026-07-06T00:44:00+00:00",
+ "failed": false,
+ "text": "Hello, dear. I have gone through your question and understand your concern. You should be worried, but not too much. I suggest Dufalac 5 ml daily, Durolac 1 capsule daily for one month, Hamflan or Pylex cream for the anus, diet enriched with beans, gourds, carrots, apple puree, and yogurt. I hope this helps. Wishing your baby good health.",
+ "seconds": 1.392
+}

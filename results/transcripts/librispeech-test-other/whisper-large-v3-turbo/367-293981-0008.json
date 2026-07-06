@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-293981-0008",
+ "condition": null,
+ "reference": "MINE COULD SPEAK TOO SAID DON QUIXOTE BUT THAT IS NOT A SUFFICIENT REASON FOR BELIEVING THAT WHAT WE SEE IS THE ENCHANTED MOOR",
+ "audio_seconds": 6.76,
+ "created_at": "2026-07-05T13:10:58+00:00",
+ "failed": false,
+ "text": "mine could speak too said don quixote but that is not a suspicious reason for believing that what we see is the enchanted moor",
+ "seconds": 0.122
+}

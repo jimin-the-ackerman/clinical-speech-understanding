@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__172274_2",
+ "condition": "background_noise_40",
+ "reference": "Why don't you get basic investigations such as complete blood count, thyroid function tests, and also consider magnetic resonance imaging brain screening? If all reports are normal, consider meeting a neuropsychiatrist.",
+ "audio_seconds": 13.74,
+ "created_at": "2026-07-06T00:42:50+00:00",
+ "failed": false,
+ "text": "Why don't you get basic investigations such as complete blood count, thyroid function tests, and also consider magnetic resonance imaging brain screening? If all reports are normal, consider meeting a neuropsychiatrist.",
+ "seconds": 0.929
+}

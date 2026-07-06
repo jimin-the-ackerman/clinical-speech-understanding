@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-182399-0004",
+ "condition": null,
+ "reference": "PLEASE MISTER BUZZARD PLEASE TELL US THE STORY HE BEGGED",
+ "audio_seconds": 5.3,
+ "created_at": "2026-07-06T02:24:16+00:00",
+ "failed": false,
+ "text": "\"Please, Mr. Buzzard, please tell us the story,\" he begged.",
+ "seconds": 4.613
+}

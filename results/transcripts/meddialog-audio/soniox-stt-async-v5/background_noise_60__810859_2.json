@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__810859_2",
+ "condition": "background_noise_60",
+ "reference": "There is appendicitis, there is also a residual area behind the belly button, and there can be outpouchings in the bowel. All of these can have an infection similar to appendicitis. The pain tends to get worse, and sometimes there are signs of infection like fever, chills, etc. However, it can worsen rapidly. I cannot provide a definitive answer in your particular case without an examination.",
+ "audio_seconds": 25.09,
+ "created_at": "2026-07-06T02:55:54+00:00",
+ "failed": false,
+ "text": "There is appendicitis, there is also a residual area behind the belly button, and there can be outpouchings in the bowel; all of these can have an infection similar to appendicitis. The pain tends to get worse, and sometimes there are signs of infection like fever, chills, etc. However, it can worsen rapidly. I cannot provide a definitive answer in your particular case without an examination.",
+ "seconds": 4.868
+}

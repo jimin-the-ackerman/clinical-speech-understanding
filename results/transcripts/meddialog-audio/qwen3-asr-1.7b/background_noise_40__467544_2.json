@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__467544_2",
+ "condition": "background_noise_40",
+ "reference": "The tablets are temporary relief for pain and spasms but are not a solution. I would go with your doctor's advice to do physiotherapy with the tablets and refer him back if the problem persists. To resolve your problem, you need physical therapy sessions and a good rehabilitation program. Once completed, you will be free from the problem. Continuing tablets for a long time can cause stomach upset, gas, and many other issues.",
+ "audio_seconds": 24.75,
+ "created_at": "2026-07-06T05:21:13+00:00",
+ "failed": false,
+ "text": "The tablets are temporary relief for pain and spasms, but are not a solution. I would go with your doctor's advice to do physiotherapy with the tablets and refer him back if the problem persists. To resolve your problem, you need physical therapy sessions and a good rehabilitation program. Once completed, you will be free from the problem. Continuing tablets for a long time can cause stomach upset, gas, and many other issues.",
+ "seconds": 0.827
+}

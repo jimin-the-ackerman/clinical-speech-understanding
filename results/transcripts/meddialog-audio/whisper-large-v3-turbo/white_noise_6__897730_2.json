@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__897730_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, thank you for reaching out to me. I really understand your problem. You did a good job by stopping the medication. Now you need not worry about your serum glutamic pyruvic transaminase and serum glutamic oxaloacetic transaminase; the values of these are borderline, and they will return to normal without any specific treatment. There is nothing to worry about, and have a nice day.",
+ "audio_seconds": 25.0,
+ "created_at": "2026-07-06T04:49:25+00:00",
+ "failed": false,
+ "text": "Hi, thank you for eating out to me. I really understand your problem. Good job by stopping the medication. Now you need not worry about your serum glutamic pyruvic transaminase and serum glutamic oxaloacetic transaminase. The values of these are borderline and they will return to normal without any specific treatment. Nothing to worry about. And have a nice day.",
+ "seconds": 0.264
+}

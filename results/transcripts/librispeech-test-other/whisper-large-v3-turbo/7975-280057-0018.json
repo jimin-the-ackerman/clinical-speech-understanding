@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280057-0018",
+ "condition": null,
+ "reference": "ONE OF THE CONDITIONS UPON WHICH HER LIFE WAS SPARED WAS THAT SHE WOULD REPORT AT LEXINGTON WEEKLY",
+ "audio_seconds": 5.62,
+ "created_at": "2026-07-05T13:14:06+00:00",
+ "failed": false,
+ "text": "One of the conditions upon which her life was spared was that she would report at Lexington Weekly.",
+ "seconds": 0.121
+}

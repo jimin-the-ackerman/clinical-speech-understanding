@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__464863_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. Certainly, yes, you need to see a doctor. The foul-smelling gas is suggestive of an intestinal infection, and you may have loose bowel movements, nausea, vomiting, and fever. It is better to get proper antibiotic treatment before you develop full-fledged gastroenteritis. See a doctor as soon as possible.",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T05:24:51+00:00",
+ "failed": false,
+ "text": "Hello. Certainly, yes. You need to see a doctor. The foul-smelling gas is suggestive of an intestinal infection, and you may have loose bowel movements, nausea, vomiting, and fever. It is better to get proper antibiotic treatment before you develop full-fledged gastroenteritis. See a doctor as soon as possible.",
+ "seconds": 0.631
+}

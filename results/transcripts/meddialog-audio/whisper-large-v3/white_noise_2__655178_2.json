@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__655178_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, thank you for asking. I really appreciate your concern. Looking at your given history, I could say that during the act of masturbation, the muscles become very tense and stiff because of the force being applied during the act. This may cause the cramps and pain. In my opinion, you have to control the act and lower your libido. Hope this information helps. Have a nice day.",
+ "audio_seconds": 24.23,
+ "created_at": "2026-07-06T04:34:37+00:00",
+ "failed": false,
+ "text": "Hi. Thank you for asking. I really appreciate your concern. Looking at your given history, I could say that during the act of masturbation, the muscles become very tense and stiff because of the force being applied during the act. This may cause the cramps and pain. In my opinion, you have to control the act and lower your libido. Hope this information helps. Have a nice day.",
+ "seconds": 0.656
+}

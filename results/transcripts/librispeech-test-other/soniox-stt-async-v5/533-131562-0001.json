@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131562-0001",
+ "condition": null,
+ "reference": "THE KEYS OF YOUR CABINET DESK DRAWERS AND WHATEVER ELSE YOU POSSESS SAID HE RISING AND HOLDING OUT HIS HAND",
+ "audio_seconds": 8.45,
+ "created_at": "2026-07-06T02:28:59+00:00",
+ "failed": false,
+ "text": "The keys of your cabinet, desk, drawer, and whatever else you possess. Said he, rising and holding out his hand.",
+ "seconds": 5.063
+}

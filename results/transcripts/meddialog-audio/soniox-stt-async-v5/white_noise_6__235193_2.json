@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__235193_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. Stomach pain with diarrhea and foul-smelling gas are suggestive of an infection in the intestine, and you need to take antibiotics to get a cure.",
+ "audio_seconds": 8.45,
+ "created_at": "2026-07-06T03:09:19+00:00",
+ "failed": false,
+ "text": "Hello. Stomach pain with diarrhea and foul-smelling gas are suggestive of an infection in the intestine, and you need to take antibiotics to get it cured.",
+ "seconds": 5.765
+}

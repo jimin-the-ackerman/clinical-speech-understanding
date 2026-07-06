@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__691119_2",
+ "condition": "background_noise_20",
+ "reference": "You have to continue Zerolac for your baby. You should start feeding other than cow's milk or Lactogen. You can start with pulse water, water, tomato soup, and fruit juice. Introduce these foods gradually, meaning start each one for five to six days before adding other foods.",
+ "audio_seconds": 16.38,
+ "created_at": "2026-07-06T05:18:03+00:00",
+ "failed": false,
+ "text": "You have to continue zeralac for your baby. You should start feeding other than cow's milk or lactogen. You can start with pulse water, water, tomato soup, and fruit juice. Introduce these foods gradually, meaning start each one for five to six days before adding other foods.",
+ "seconds": 0.576
+}

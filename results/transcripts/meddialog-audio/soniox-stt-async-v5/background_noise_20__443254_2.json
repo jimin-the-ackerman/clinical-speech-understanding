@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__443254_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, it is not done in our hospital. You can attend Sir Gangaram Hospital in Delhi for the same. They will let you know about the cost and length of stay.",
+ "audio_seconds": 8.02,
+ "created_at": "2026-07-06T02:47:32+00:00",
+ "failed": false,
+ "text": "Low, it is not done in our hospital; you can attend Srungaram Hospital in Delhi for the same. They will let you know about the cost and length of stay.",
+ "seconds": 4.613
+}

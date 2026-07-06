@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__877548_1",
+ "condition": "background_noise_20",
+ "reference": "Okay, I have heard that some molds are safe to eat and kind of doubted this answer would be a yes, but I got a coconut from Whole Foods today, and it had what looked like a small portion of bluish-black, pink, and yellow mold in a small ring around where a cut area was placed for easy opening. I already threw out the milk but was wondering if I could salvage the rest of the coconut or if I shouldn't because I am allergic to mold.",
+ "audio_seconds": 22.02,
+ "created_at": "2026-07-06T00:42:38+00:00",
+ "failed": false,
+ "text": "Okay, I have heard that molds are safe to eat and kind of doubted this answer would be a yes, but I got a coconut from Whole Foods today and it had what looked like a small portion of bluish-black, pink, and yellow mold in a small ring around where a cut area was placed for easy opening. I already threw out the milk, but was wondering if I could salvage the rest of the coconut or if I shouldn't because I am allergic to mold.",
+ "seconds": 2.147
+}

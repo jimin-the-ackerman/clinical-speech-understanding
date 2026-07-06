@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__530074_2",
+ "condition": "background_noise_40",
+ "reference": "I would suggest you visit your doctor. Back pain can be due to many reasons, such as a kidney issue, as you mentioned a small amount of blood in your urine. To rule out the possible causes, it is better to visit your general practitioner as soon as possible rather than wasting time with other therapies.",
+ "audio_seconds": 15.87,
+ "created_at": "2026-07-06T04:55:20+00:00",
+ "failed": false,
+ "text": "I would suggest you visit your doctor. Back pain can be due to many reasons, such as a kidney issue, as you mentioned a small amount of blood in your urine. To rule out the possible causes, it is better to visit your general practitioner as soon as possible rather than wasting time with other therapies.",
+ "seconds": 0.574
+}

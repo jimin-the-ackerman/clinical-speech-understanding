@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__706794_1",
+ "condition": "background_noise_20",
+ "reference": "My baby is seventeen months old, and his stomach is so big. It looks like an inflated balloon. He reminds me of the malnourished children I see on infomercials from third-world countries. He is in the third percentile for weight; his brother was in the 75th percentile at the same age. He has been consistently in the third percentile since birth. My doctor says he is just petite, but his small size and huge belly are concerning to me. He has frequent diarrhea and does not eat a variety of foods: oatmeal every morning, sweet potatoes, and spaghetti; every other food is questionable. Should I be concerned?",
+ "audio_seconds": 36.27,
+ "created_at": "2026-07-06T04:15:49+00:00",
+ "failed": false,
+ "text": "My baby is 17 months old, and his stomach is so big. It looks like an inflated balloon. He reminds me of the malnourished children I see on infomercials from third world countries. He is in the third percentile for weight. His brother was in the 75th percentile at the same age. He has been consistently in the third percentile since birth. My doctor says he is just petite, but his small size and huge belly are concerning to me. He has frequent diarrhea and does not eat a variety of foods. Oatmeal every morning, sweet potatoes and spaghetti. Every other food is questionable. Should I be concerned?",
+ "seconds": 1.12
+}

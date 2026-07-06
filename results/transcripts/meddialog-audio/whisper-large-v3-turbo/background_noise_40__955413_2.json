@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__955413_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, please tell me if you are using any denture adhesives. Sometimes due to this, you may feel an odor. Many times, when wearing dentures for the first time, you may notice a different odor. For that, do regular massages to your gums with toothpaste. Ensure proper denture cleaning with a brush and use mouthwash to prevent that odor. Also, practice tongue cleaning. This will surely help you.",
+ "audio_seconds": 21.85,
+ "created_at": "2026-07-06T04:42:21+00:00",
+ "failed": false,
+ "text": "Hi, please tell me if you are using any denture adhesives. Sometimes due to this, you may feel an odor. Many times when wearing dentures for the first time, you may notice a different odor. For that, do regular massages to your gums with toothpaste. Ensure proper denture cleaning with a brush and use mouthwash to prevent that odor. Also, practice tongue cleaning. This will surely help you.",
+ "seconds": 0.325
+}

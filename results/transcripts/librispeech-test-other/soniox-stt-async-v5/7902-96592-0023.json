@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0023",
+ "condition": null,
+ "reference": "WON'T DO SAID RAM QUICKLY I KNOW YOU",
+ "audio_seconds": 2.7,
+ "created_at": "2026-07-06T02:36:52+00:00",
+ "failed": false,
+ "text": "Won't do, said Rim quickly, \"I know you.\"",
+ "seconds": 4.625
+}

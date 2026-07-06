@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__782591_1",
+ "condition": "clean",
+ "reference": "Hello. My daughter is seven years old, has Attention Deficit Hyperactivity Disorder, thyroid hormone resistance, and was treated for Lyme disease a year ago. For about two months, her teacher and two different substitutes have noticed that when she has been sitting, she is physically unable to get back up without help. Once someone helps her, it takes a few seconds for her legs to relax and unbend or uncross. They said it is more than just her legs falling asleep. It happens about one to five times a day.",
+ "audio_seconds": 31.15,
+ "created_at": "2026-07-06T04:44:55+00:00",
+ "failed": false,
+ "text": "Hello. My daughter is 7 years old, has attention deficit hyperactivity disorder, thyroid hormone resistance, and was treated for Lyme disease a year ago. For about two months, her teacher and two different substitutes have noticed that when she has been sitting, she is physically unable to get back up without help. Once someone helps her, it takes a few seconds for her legs to relax and unbend or uncross. They said it is more than just her legs falling asleep. It happens about one to five times a day.",
+ "seconds": 0.361
+}

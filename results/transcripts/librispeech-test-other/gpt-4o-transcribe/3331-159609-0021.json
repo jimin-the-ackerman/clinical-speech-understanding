@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0021",
+ "condition": null,
+ "reference": "SHE KEPT MUCH AT HOME WHEN THE DAY'S WORK WAS DONE FINDING IT PLEASANTER TO SIT DREAMING OVER BOOK OR SEWING ALONE THAN TO EXERT HERSELF EVEN TO GO TO THE SHAWS",
+ "audio_seconds": 10.37,
+ "created_at": "2026-07-05T23:54:45+00:00",
+ "failed": false,
+ "text": "She kept much at home when the day's work was done, finding it pleasanter to sit dreaming over a book or sewing alone than to exert herself even to go to the Shaws.",
+ "seconds": 1.168
+}

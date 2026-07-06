@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__945372_2",
+ "condition": "white_noise_10",
+ "reference": "This looks like degenerative changes to an arthritic joint. Apply warm packs, avoid squatting, kneeling, and cross-legged sitting. If you have a lot of pain, arthroscopic debridement can be performed to remove any bony debris and injured meniscus.",
+ "audio_seconds": 13.4,
+ "created_at": "2026-07-06T04:46:36+00:00",
+ "failed": false,
+ "text": "This looks like degenerative changes to an arthritic joint. Apply warm pads. Avoid squatting, kneeling, and cross-legged acidity. If you have a lot of pain, arthroscopic debridement can be performed to remove any bony debris and injured mammoths.",
+ "seconds": 0.228
+}

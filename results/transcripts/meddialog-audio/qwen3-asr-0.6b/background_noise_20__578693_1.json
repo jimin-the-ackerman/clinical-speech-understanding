@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__578693_1",
+ "condition": "background_noise_20",
+ "reference": "Hello, I have an ingrown toenail that I have seen a doctor about multiple times. It is extremely painful to the point that I cannot wear socks, and it hurts to wear shoes and walk sometimes. It is leaky and has pus coming out of it. What should I do? I cannot get to the doctor until January.",
+ "audio_seconds": 18.18,
+ "created_at": "2026-07-06T04:51:35+00:00",
+ "failed": false,
+ "text": "Hello, I have an ingrown toenail that I have seen a doctor about multiple times. It is extremely painful to the point that I cannot wear socks, and it hurts to wear shoes and walk sometimes. It is leaky and has pus out of it. What should I do? I cannot get to the doctor until January.",
+ "seconds": 0.612
+}

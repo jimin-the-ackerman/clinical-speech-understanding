@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__114835_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, I have a bad burning sensation on the upper right side of my stomach. It feels like my flesh is burning and it covers an area about the size of a silver dollar. Sometimes, when I bend over to tie my shoes, it goes into a spasm. The burning sensation is constant now, and it gets a lot worse with certain foods.",
+ "audio_seconds": 19.46,
+ "created_at": "2026-07-06T03:00:28+00:00",
+ "failed": false,
+ "text": "Hello. I'm at a guy burning sensation on the upper left side of my stomach. It feels like my flesh is burning when I covered an area about the size of a quarter dollar. Sometimes when I bend over to pan the food, it doesn't take that. The burning sensation is constant, and it gets a lot worse with certain foods.",
+ "seconds": 8.697
+}

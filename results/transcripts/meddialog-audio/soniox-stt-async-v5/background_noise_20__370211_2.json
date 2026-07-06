@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__370211_2",
+ "condition": "background_noise_20",
+ "reference": "This is due to hormonal changes in the body. There is no specific treatment for that. All you can do is relax yourself through meditation and yoga.",
+ "audio_seconds": 9.05,
+ "created_at": "2026-07-06T02:47:15+00:00",
+ "failed": false,
+ "text": "This is due to hormonal changes in the body; there is no specific treatment for that, all you can do is relax yourself through meditation and yoga.",
+ "seconds": 4.634
+}

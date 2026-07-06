@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0024",
+ "condition": null,
+ "reference": "FANNY CAME WALKING IN UPON HER ONE DAY LOOKING AS IF SHE BROUGHT TIDINGS OF SUCH GREAT JOY THAT SHE HARDLY KNEW HOW TO TELL THEM",
+ "audio_seconds": 8.15,
+ "created_at": "2026-07-06T03:29:20+00:00",
+ "failed": false,
+ "text": "Then he came barging in upon her one day, looking as if she brought tidings of such great joy that she hardly knew how to tell them.",
+ "seconds": 0.318
+}

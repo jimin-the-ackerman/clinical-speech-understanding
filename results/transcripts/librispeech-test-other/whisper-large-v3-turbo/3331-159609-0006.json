@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0006",
+ "condition": null,
+ "reference": "FORGIVE ME POLLY BUT I CAN'T HELP SAYING IT FOR IT IS THERE AND I WANT TO BE AS TRUE TO YOU AS YOU WERE TO ME IF I CAN",
+ "audio_seconds": 7.73,
+ "created_at": "2026-07-05T13:10:20+00:00",
+ "failed": false,
+ "text": "forgive me polly but i can't help saying it for it is there and i want to be as true to you as you were to me if i can",
+ "seconds": 0.128
+}

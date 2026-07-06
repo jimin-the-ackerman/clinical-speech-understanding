@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128292-0006",
+ "condition": null,
+ "reference": "NOW DO I HEAR SIX OLD FOOLS LEGS RATTLING BEHIND ONE ANOTHER",
+ "audio_seconds": 6.55,
+ "created_at": "2026-07-06T00:01:55+00:00",
+ "failed": false,
+ "text": "Now do I hear six old fool's legs rattling behind one another?",
+ "seconds": 4.748
+}

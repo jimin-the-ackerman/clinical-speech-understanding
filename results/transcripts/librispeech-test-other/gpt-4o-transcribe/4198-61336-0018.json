@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-61336-0018",
+ "condition": null,
+ "reference": "HE OVERTHREW BUILDINGS DESTROYED ORCHARDS AND TRANSPORTED TO NINEVEH THOSE OF THE INHABITANTS HE HAD NOT PUT TO THE SWORD WITH ALL THE LIVE STOCK HE COULD LAY HANDS ON",
+ "audio_seconds": 12.35,
+ "created_at": "2026-07-05T23:55:47+00:00",
+ "failed": false,
+ "text": "He overthrew buildings, destroyed orchards, and transported to Nineveh those of the inhabitants he had not put to the sword, with all the livestock he could lay hands on.",
+ "seconds": 0.932
+}

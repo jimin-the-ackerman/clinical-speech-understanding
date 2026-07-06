@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__491559_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, welcome to Health Care Management. You need to undergo an X-ray of the cervical spine, both anteroposterior and lateral view, to rule out the possibility of cervical spondylosis, which can cause numbness and hand shivering. Additionally, cervical spondylosis can also lead to vertigo-like symptoms. Once cervical spondylosis is confirmed, try physiotherapy and consider yoga to help ease your tension. Practice relaxation exercises. Do write to me if it is a case of cervical spondylosis, and I will let you know what you need to do next.",
+ "audio_seconds": 32.68,
+ "created_at": "2026-07-06T04:51:12+00:00",
+ "failed": false,
+ "text": "Hi, welcome to healthcare management. You need to undergo an X-ray of the cervical spine, both anterior, posterior, and lateral view, to rule out the possibility of cervical spondylosis, which can cause numbness and hand shivering. Additionally, cervical spondylosis can also lead to vertigo-like symptoms. Once cervical spondylosis is confirmed, try physiotherapy and consider yoga to help easier tension. Practice relaxation exercises. Do write to me if it is a case of cervical spondylosis, and I will let you know what you need to do next.",
+ "seconds": 1.086
+}

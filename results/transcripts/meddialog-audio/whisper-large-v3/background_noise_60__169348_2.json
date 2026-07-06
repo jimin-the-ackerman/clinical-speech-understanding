@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__169348_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, this sounds like either a gonorrhea situation or perhaps chlamydia. You need a culture of the fluid and a course of the appropriate antibiotic.",
+ "audio_seconds": 9.73,
+ "created_at": "2026-07-06T04:21:06+00:00",
+ "failed": false,
+ "text": "Hello? This sounds like either a gonorrhea situation or perhaps chlamydia. You need a culture of the fluid and a course of the appropriate antibiotic.",
+ "seconds": 0.342
+}

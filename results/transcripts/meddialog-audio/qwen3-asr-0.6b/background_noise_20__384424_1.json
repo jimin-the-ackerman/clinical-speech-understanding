@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__384424_1",
+ "condition": "background_noise_20",
+ "reference": "I suffer from bipolar disorder and bipolar depression. I am thirty-nine weeks pregnant and due to deliver any day, but I have not taken any medication for my bipolar condition, and I plan on breastfeeding my child. What can I do to control my bipolar symptoms while not on medication?",
+ "audio_seconds": 17.07,
+ "created_at": "2026-07-06T04:50:46+00:00",
+ "failed": false,
+ "text": "I suffer from bipolar disorder and bipolar depression. I am thirty-nine weeks pregnant and due to deliver any day, but I have not taken any medication for my bipolar condition, and I plan on breastfeeding my child. What can I do to control my bipolar symptoms while not on medication?",
+ "seconds": 0.522
+}

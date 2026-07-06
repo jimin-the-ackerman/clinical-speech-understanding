@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__916232_1",
+ "condition": "white_noise_6",
+ "reference": "I had a case of acute prostatitis with extremely painful urination and a fever of one hundred and three degrees Fahrenheit. I ended up in the emergency room where they diagnosed me and gave me five hundred milligrams of levofloxacin intravenously. They also took my blood to check my white blood cell count, which was slightly elevated. They also discovered that my aspartate aminotransferase was one hundred and sixty-nine and my alanine aminotransferase was one hundred and fifty-nine. I normally run twenty-five and twenty-four. My question is, can prostatitis cause raised liver enzymes? I took the levofloxacin for four weeks and feel fine now.",
+ "audio_seconds": 45.4,
+ "created_at": "2026-07-06T00:47:40+00:00",
+ "failed": false,
+ "text": "I would like to discuss the possibility of starting a new project. I would like to do a writing project. I would like to write a book. I would like to write a book about a subject that I'm interested in. I would like to write a book about a subject that I'm passionate about which is writing.",
+ "seconds": 1.851
+}

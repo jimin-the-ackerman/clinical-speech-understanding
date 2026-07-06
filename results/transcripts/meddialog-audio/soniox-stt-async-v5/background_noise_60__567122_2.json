@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__567122_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, brain swelling is not the meaningful term, but yes, paints or their vapors can definitely cause dizziness and nose irritation. You should wear a face mask, that is, protective equipment; then there will be no need for medical treatment. Something about brain swelling would be very rare.",
+ "audio_seconds": 17.83,
+ "created_at": "2026-07-06T02:55:01+00:00",
+ "failed": false,
+ "text": "Hello, brain swelling is not a meaningful term, but yes, paint or their vapors can definitely cause dizziness and nose irritation. She'd wear a face mask—that is, protective equipment—then there will be no need for medical treatment. Something about brain swelling would be very rare.",
+ "seconds": 4.858
+}

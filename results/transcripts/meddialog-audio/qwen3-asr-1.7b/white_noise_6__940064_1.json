@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__940064_1",
+ "condition": "white_noise_6",
+ "reference": "I am a chronic immune thrombocytopenic purpura patient since birth. I am now fifty-one years old and male, having creatinine level of nine and urea level of two hundred and forty. I do not want to undergo dialysis because of my low platelet count, as complications may increase. I am nervous, though slowly the creatinine level is coming down. Should I avoid dialysis?",
+ "audio_seconds": 25.34,
+ "created_at": "2026-07-06T05:42:23+00:00",
+ "failed": false,
+ "text": "I am a chronic immune thrombocytopenic purpura patient since birth. I am now 51 years old and male, having creatinine level of nine and urea level of 240. I do not want to undergo dialysis because of my low platelet count, as complications may increase. I am nervous, though slowly the creatinine level is coming down. Should I avoid dialysis?",
+ "seconds": 0.804
+}

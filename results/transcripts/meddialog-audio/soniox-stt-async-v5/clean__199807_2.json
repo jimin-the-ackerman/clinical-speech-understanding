@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__199807_2",
+ "condition": "clean",
+ "reference": "Hello, welcome to Health Care Management. I appreciate your concern for your mother's health. If her bladder is distended, it means that either there is some lesion interfering with the free flow of urine from her urinary bladder or there may be some problem with the contraction of the bladder wall muscles. This can occur with urethritis if she had a recent infection or with strictures from old infections. There may be some thickening of the urinary bladder wall from a urinary infection, or it can be due to other lesions, benign or otherwise. A transvaginal ultrasound examination with post micturition volume will help to arrive at a proper diagnosis. I wish her a quick recovery.",
+ "audio_seconds": 38.83,
+ "created_at": "2026-07-06T02:57:16+00:00",
+ "failed": false,
+ "text": "Hello, welcome to HealthCare Management. I appreciate your concern for your mother's health. If her bladder is distended, it means that either there's some lesion interfering with the free flow of urine from her urinary bladder, or there may be some problem with the contraction of the bladder wall muscles. This can occur with urethritis if she had a recent infection, or with strictures from old infections. There may be some thickening of the urinary bladder wall from a urinary infection, or it can be due to other lesions, benign or otherwise. A transvaginal ultrasound exam with post-micturition volume will help to arrive at a proper diagnosis. I wish her a quick recovery.",
+ "seconds": 8.304
+}

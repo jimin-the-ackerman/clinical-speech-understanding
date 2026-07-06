@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__648141_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, I am a forty-eight-year-old male who has been in a few bad car and motorcycle accidents and has also broken bones for years. I have had an artificial knee since one thousand, nine hundred and eighty-nine. I am on thirty milligrams of oxycodone four times a day since two thousand and four. They don't seem to work as well anymore. I'm wondering what I can take along with it to help it.",
+ "audio_seconds": 25.94,
+ "created_at": "2026-07-06T04:40:22+00:00",
+ "failed": false,
+ "text": "Hi, I am a 48-year-old male who has been in a few bad car and motorcycle accidents and has also broken bones. I have had an artificial knee since 1989. I am on 30ml of oxycodone four times a day since 2004. They don't seem to work as well anymore. I'm wondering what I can take along with it to help it.",
+ "seconds": 0.259
+}

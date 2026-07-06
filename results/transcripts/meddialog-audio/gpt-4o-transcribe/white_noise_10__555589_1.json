@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__555589_1",
+ "condition": "white_noise_10",
+ "reference": "My husband was just released from the hospital and was on blood thinners to help what was first diagnosed as a stroke, but the MRI showed it was not a stroke. He is forty-nine years old, in good health, and his blood work was good. He has developed a knot on the inside of his right knee about the size of a marble that appeared suddenly.",
+ "audio_seconds": 17.83,
+ "created_at": "2026-07-06T00:45:55+00:00",
+ "failed": false,
+ "text": "",
+ "seconds": 0.585
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131562-0007",
+ "condition": null,
+ "reference": "MUTTERED HE STARTING BACK SHE'S THE VERY DEVIL FOR SPITE",
+ "audio_seconds": 4.66,
+ "created_at": "2026-07-06T03:21:00+00:00",
+ "failed": false,
+ "text": "Muttered he, starting back, \"She's very devil for spite.\"",
+ "seconds": 0.185
+}

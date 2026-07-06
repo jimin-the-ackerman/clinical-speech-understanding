@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__191537_2",
+ "condition": "white_noise_10",
+ "reference": "Removing the adenoids is indicated as your child is experiencing breathing difficulty. Enlarged adenoids may cause nasal speech, breathing difficulty, snoring, and obstructive sleep apnea. There is nothing contraindicated in removing the adenoids.",
+ "audio_seconds": 14.85,
+ "created_at": "2026-07-06T05:31:26+00:00",
+ "failed": false,
+ "text": "The other animal, if the feet of a reptile is adhering to the wooden surface, the large animal may pull the feet, breathing difficulties, or even interrupted sleep after it. There is nothing concrete indicated in removing the animal.",
+ "seconds": 0.466
+}

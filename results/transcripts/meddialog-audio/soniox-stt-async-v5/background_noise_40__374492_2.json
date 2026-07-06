@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__374492_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, it can be allergic, or it can be a vascular symptom. Until it is checked in person, it is tough to determine whether it is allergic or vascular. Only ankle tightness or blotchy sores alone does not provide enough information to follow. You can do one of two things: first, try doing some hot water fermentation and then some ankle toe movements. If things get better, that will be good. If not, then you can meet a physician and seek further advice regarding which tests to conduct.",
+ "audio_seconds": 29.7,
+ "created_at": "2026-07-06T02:50:47+00:00",
+ "failed": false,
+ "text": "Hello. It can be allergic, or it can be a vascular symptom. Until it is checked in person, it is tough to determine whether it is allergic or vascular. Only ankle tightness or blotchy sores alone does not provide enough information to follow. You can do one of two things: first, try doing some hot water fermentation, and then some ankle toe movements. If things get better, that will be good; if not, then you can meet a physician and seek further advice regarding which tests to conduct.",
+ "seconds": 4.662
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131564-0007",
+ "condition": null,
+ "reference": "NEVER MIND MY PLAIN SPEAKING SAID I IT IS FROM THE BEST OF MOTIVES",
+ "audio_seconds": 6.42,
+ "created_at": "2026-07-06T03:21:04+00:00",
+ "failed": false,
+ "text": "Never mind my plain speaking,\" said I. \"It is from the best of motives.\"",
+ "seconds": 0.203
+}

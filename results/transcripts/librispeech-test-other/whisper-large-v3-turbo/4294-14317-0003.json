@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-14317-0003",
+ "condition": null,
+ "reference": "I IN MY TURN FEEL THE SAME DESIRE AND HOPE TO PLAY MY PART LIKE THEM THEREFORE MY LORD GIVE ME THE LEAVE TO GO",
+ "audio_seconds": 7.44,
+ "created_at": "2026-07-05T13:11:35+00:00",
+ "failed": false,
+ "text": "i in my turn feel the same desire and hope to play my part like them therefore my lord give me the leave to go",
+ "seconds": 0.128
+}

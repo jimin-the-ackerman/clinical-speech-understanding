@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-1066-0001",
+ "condition": null,
+ "reference": "I KNEW WELL ENOUGH THAT HE MIGHT BE CARRIED THOUSANDS OF MILES IN THE BOX CAR LOCKED IN PERHAPS WITHOUT WATER OR FOOD",
+ "audio_seconds": 9.17,
+ "created_at": "2026-07-05T13:12:11+00:00",
+ "failed": false,
+ "text": "i knew well enough that he might be carried thousands of miles in the box car locked in perhaps without water or food",
+ "seconds": 0.117
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__708792_2",
+ "condition": "background_noise_20",
+ "reference": "He is most likely screaming because of the rash around his anal orifice. Please start applying a zinc cream and a dusting powder to allow the rash to heal.",
+ "audio_seconds": 8.87,
+ "created_at": "2026-07-06T00:42:27+00:00",
+ "failed": false,
+ "text": "He is most likely screaming because of the rash in his anal orifice. Please start applying a zinc cream and a dusting powder to allow the rash to heal.",
+ "seconds": 0.762
+}

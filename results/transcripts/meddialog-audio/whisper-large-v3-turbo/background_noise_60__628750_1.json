@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__628750_1",
+ "condition": "background_noise_60",
+ "reference": "Hello. I am a desperate mother! My eleven-week-old has silent reflux. He was on Novalac Hypoallergenic and did very well with the milk. There was no gas, and his tummy functioned daily. Then I put him on Nexium, which made him constipated. My pediatrician said to stop the Nexium and use Novalac Anti-Reflux. Now he is gassy, fussy, and even more constipated. He is suffering, and I am going back to work next week. I need sleep. Will Nestor gel help? Can I put it in the Novalac Anti-Reflux? I heard that it also helps to soften stools. Please help.",
+ "audio_seconds": 36.52,
+ "created_at": "2026-07-06T04:43:13+00:00",
+ "failed": false,
+ "text": "Hello. I am a desperate mother. My 11-week-old has silent reflux. He was on Novolac hypoallergenic and did well with the milk. There was no gas, and his tummy functioned daily. Then I put him on Nexium, which made him constipated. My pediatrician said to stop at Nexium and use Novolac's anti-reflex. Now he is gassy, fussy, and even more constipated. He is suffering, and I am going back to work this week. I need sleep. Will Nestor gel help? Can I put it in the Novolac anti-reflex? I heard that it also helps to solve the symptoms. Please help.",
+ "seconds": 0.365
+}

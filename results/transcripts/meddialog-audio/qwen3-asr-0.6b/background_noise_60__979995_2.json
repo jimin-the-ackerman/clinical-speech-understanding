@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__979995_2",
+ "condition": "background_noise_60",
+ "reference": "Hello and welcome to Health Care Management. I am sorry that this happened; it is not common after such a procedure, but complications are always possible. In these situations, there is a rule: \"all or nothing.\" The first five days after the incident are most important. Acute bleeding always causes more or less significant damage to the kidneys, heart, lungs, and liver. It is called multiple organ failure and is honestly an extremely serious condition that needs to be aggressively treated, which is obviously the case considering what you have said. Prognosis is always unpredictable. Now it is most important to save his heart and circulatory function; after this, everything will be better. I hope everything will be fine. Wish you good health.",
+ "audio_seconds": 42.92,
+ "created_at": "2026-07-06T05:00:42+00:00",
+ "failed": false,
+ "text": "Hello and welcome to healthcare management. I am sorry that this happened. It is not common after such a procedure, but complications are always possible. In these situations, there is a rule: all or nothing. The first five days after the incident are most important. Acute bleeding always causes more or less significant damage to the kidneys, heart, lungs, and liver. It is called whole organ failure and is honestly an extremely serious condition that needs to be aggressively treated, which is obviously the case considering what you have said. Prognosis is always unpredictable. Now it is most important to save his heart and circulatory function. After this, everything will be better. I hope everything will be fine. Wish you good health.",
+ "seconds": 1.28
+}

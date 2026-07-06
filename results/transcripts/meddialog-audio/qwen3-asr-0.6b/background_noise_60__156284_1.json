@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__156284_1",
+ "condition": "background_noise_60",
+ "reference": "I have an underactive thyroid and take two hundred milligrams daily of thyroxine. I found lumps on the left side of my neck, and my thyroid is hurting. I had an ultrasound scan, and they found four lumps on the left side and two on the other. They scanned my thyroid, and the results are due on Thursday. However, I have a burning sensation and a significant swelling on the left side above my collarbone. Since having my scan, the stinging is so painful that I have to take painkillers every day. Could this be cancer?",
+ "audio_seconds": 33.62,
+ "created_at": "2026-07-06T04:57:20+00:00",
+ "failed": false,
+ "text": "I have an undetectable thyroid and take two hundred milligrams daily of thyroid. I found lumps on the left side of my neck, and my thyroid is hurting. I had an ultrasound scan, and they found four lumps on the left side, into one another. They scanned my thyroid, and the results are due on Thursday. However, I have a burning sensation and significant swelling on the left side above my collarbone. Since having my scan, the steaming is so painful that I have to take painkillers every day. Is it cancer?",
+ "seconds": 1.052
+}

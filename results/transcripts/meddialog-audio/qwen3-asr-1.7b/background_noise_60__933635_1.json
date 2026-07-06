@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__933635_1",
+ "condition": "background_noise_60",
+ "reference": "I have had positron emission tomography scans, ultrasound, blood work, and x-rays yesterday. I have been hurting for five months now on the right front that goes around up into my shoulder blades and shoulders. My blood work shows high levels of liver and pancreatic enzymes. There are no calculi present, and the gallbladder wall is not thickened, but my gallbladder is moderately well distended. He has ordered a hepatobiliary iminodiacetic acid scan on Monday. What does moderately well distended mean and what could be causing all these symptoms?",
+ "audio_seconds": 37.72,
+ "created_at": "2026-07-06T05:26:53+00:00",
+ "failed": false,
+ "text": "I have had positron emission tomography scans, ultrasound, blood work, and X-rays yesterday. I have been hurting for five months now on the right brim that goes around up into my shoulder blades and shoulders. My blood work shows high levels of liver and pancreatic enzymes. There are no calculi present, and the gallbladder wall is not thickened. But my gallbladder is moderately well distended. He has ordered a hepatobiliary iminodiacetic acid scan on Monday. What does moderately well distended mean? And what could be causing all these symptoms?",
+ "seconds": 1.083
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__922543_2",
+ "condition": "white_noise_6",
+ "reference": "What is the age of your daughter? There are many causes of seizures. You should get her magnetic resonance imaging of the brain and electroencephalogram done, and she might need to start antiepileptic medication based on her proper history and findings in tests.",
+ "audio_seconds": 16.73,
+ "created_at": "2026-07-06T00:47:40+00:00",
+ "failed": false,
+ "text": "It said, \"Remove the laser beam. You should not be pressing the tube too hard. Let the front section come down, and be like this, basically.\"",
+ "seconds": 0.762
+}

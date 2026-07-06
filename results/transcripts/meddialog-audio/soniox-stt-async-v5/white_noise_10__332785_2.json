@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__332785_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, thank you for asking. The hot fermentation is the only remedy. You can try either with a hot water bag or any other device. Have a good day.",
+ "audio_seconds": 9.3,
+ "created_at": "2026-07-06T03:01:23+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking. I'm not seeing any feed anywhere. You can call in with a hot wire guard or any other device. Have a good day.",
+ "seconds": 46.872
+}

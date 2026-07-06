@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0012",
+ "condition": null,
+ "reference": "SHE SAID HE HAD STRUCK HER MORE THAN ONCE AND SHE COULD STAND IT NO LONGER",
+ "audio_seconds": 4.0,
+ "created_at": "2026-07-06T03:35:12+00:00",
+ "failed": false,
+ "text": "She said he had struck her more than once, and she could stand it no longer.",
+ "seconds": 0.203
+}

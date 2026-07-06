@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0036",
+ "condition": null,
+ "reference": "AH SAID DICKIE AND A FULL SILENCE FELL BETWEEN THEM",
+ "audio_seconds": 4.22,
+ "created_at": "2026-07-06T03:27:05+00:00",
+ "failed": false,
+ "text": "Ah said Diggy, and a full silence fell between them.",
+ "seconds": 0.167
+}

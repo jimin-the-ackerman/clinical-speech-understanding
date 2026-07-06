@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__331251_1",
+ "condition": "background_noise_60",
+ "reference": "My doctor said I have pneumonia and a low white blood cell count. Please read? I hope it's not Human Immunodeficiency Virus? My doctor said I have pneumonia and my white blood cell count is a little low; the range was three point eight to ten point eight for my white blood cells. What could be causing this? The only conditions I have are seizures, asthma, muscle aches, and Herpes Simplex Virus type one. Could it be Human Immunodeficiency Virus? I heard it lowers your white blood cell count.",
+ "audio_seconds": 26.37,
+ "created_at": "2026-07-06T00:43:58+00:00",
+ "failed": false,
+ "text": "A doctor said I have pneumonia and a low white blood cell count. Please read. I hope it's not human immunodeficiency virus. A doctor said I have pneumonia and my white blood cell count is a little low. The range was 3.8 to 10.4 for my white blood cells. What could be causing this? The only conditions I have are seizures, asthma, muscle aches, herpes simplex virus type 1. Could it be human immunodeficiency virus? I heard it lowers your white blood cell count.",
+ "seconds": 1.625
+}

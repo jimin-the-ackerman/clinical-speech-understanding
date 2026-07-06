@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63241-0000",
+ "condition": null,
+ "reference": "POOR RANSOM ANNOUNCED THIS FACT TO HIMSELF AS IF HE HAD MADE A GREAT DISCOVERY BUT IN REALITY HE HAD NEVER BEEN SO BOEOTIAN AS AT THAT MOMENT",
+ "audio_seconds": 10.81,
+ "created_at": "2026-07-06T02:33:03+00:00",
+ "failed": false,
+ "text": "Poor Ransom announced this fact to himself as if he had made a great discovery, but in reality he had never been so \"beotian\" as at that moment.",
+ "seconds": 4.656
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-142836-0017",
+ "condition": null,
+ "reference": "IN ALL THE OPERATIONS FOR PRESERVE MAKING WHEN THE PRESERVING PAN IS USED IT SHOULD NOT BE PLACED ON THE FIRE BUT ON A TRIVET UNLESS THE JAM IS MADE ON A HOT PLATE WHEN THIS IS NOT NECESSARY",
+ "audio_seconds": 10.28,
+ "created_at": "2026-07-05T13:10:42+00:00",
+ "failed": false,
+ "text": "in all the operations for preserve making when the preserving pan is used it should not be placed on the fire but on a trivet unless the jam is made on a hot plate when this is not necessary",
+ "seconds": 0.134
+}

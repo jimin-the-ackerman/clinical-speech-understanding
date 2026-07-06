@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__255544_2",
+ "condition": "white_noise_2",
+ "reference": "Hi. I think there is a definite factor contributing to your stress, and that stress is due to the conflict with your father. They are not allowing you to complete your studies, or they want you to join their business; these are two different issues. You need to clarify in your mind your current academic status and future career related to your studies and compare this with the business. It is important to have a healthy discussion with your father, or you may seek conflict resolution counseling where both you and your father can attend sessions to achieve fruitful results.",
+ "audio_seconds": 32.17,
+ "created_at": "2026-07-06T04:32:52+00:00",
+ "failed": false,
+ "text": "Hi. I think there is a definite factor contributing to your stress, and that stress is due to the conflict with your father. They are not allowing you to complete your studies, or they want you to join their business. These are two different issues. You need to clarify in your mind your current academic status and future career related to your studies and compare this with the business. It is important to have a healthy discussion with your father, or you may seek conflict resolution counseling where both you and your father can attend sessions to achieve fruitful results.",
+ "seconds": 0.88
+}

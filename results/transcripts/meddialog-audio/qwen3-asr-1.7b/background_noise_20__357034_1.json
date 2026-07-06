@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__357034_1",
+ "condition": "background_noise_20",
+ "reference": "A few hours after intercourse, I noticed a lump of what seems to be fluid appearing under the head of my penis. It appears to be mainly on the right side and has now grown quite large. There is only mild discomfort, but I do not know if it will go away on its own or if I need to seek advice.",
+ "audio_seconds": 16.9,
+ "created_at": "2026-07-06T05:16:37+00:00",
+ "failed": false,
+ "text": "A few hours after intercourse, I noticed a lump of what seems to be fluid appearing under the head of my penis. It appears to be mainly on the right side and has now grown quite large. There is only mild discomfort, but I do not know if it will go away on its own or if I need to seek advice.",
+ "seconds": 0.639
+}

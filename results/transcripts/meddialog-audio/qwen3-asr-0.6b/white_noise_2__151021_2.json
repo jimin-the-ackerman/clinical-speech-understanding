@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__151021_2",
+ "condition": "white_noise_2",
+ "reference": "In my opinion, there is nothing to worry about if it is not infected, nor is she experiencing any fever. Good luck.",
+ "audio_seconds": 8.62,
+ "created_at": "2026-07-06T05:08:15+00:00",
+ "failed": false,
+ "text": "In my opinion, there is nothing to worry about if it is not infected, nor is she experiencing any fever. Good luck.",
+ "seconds": 0.288
+}

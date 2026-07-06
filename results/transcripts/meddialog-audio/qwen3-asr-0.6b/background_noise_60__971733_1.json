@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__971733_1",
+ "condition": "background_noise_60",
+ "reference": "I am having a problem with my right hand and arm; the middle two fingers and thumb seem to be numb most of the time. This has been getting worse for the past two years and is now to the point that I do not rest well at night. In addition, I have a torn rotator cuff on my left side from a fall on the ice a couple of years ago. What can I do about the numbness on the right side?",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T05:00:41+00:00",
+ "failed": false,
+ "text": "I am having a problem with my right hand and arm. The middle two fingers and thumb seem to be numb most of the time. This has been getting worse for the past two years and is now to the point that I do not rest well at night. In addition, I have a torn rotator cuff on my left side from a fall on the ice a couple of years ago. What can I do about the numbness on the right side?",
+ "seconds": 0.842
+}

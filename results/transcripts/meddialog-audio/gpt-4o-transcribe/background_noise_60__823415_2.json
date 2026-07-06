@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__823415_2",
+ "condition": "background_noise_60",
+ "reference": "In my opinion, yes, Adderall can cause depression. The best approach would be to start with antidepressants and cognitive behavioral therapy with a therapist.",
+ "audio_seconds": 9.64,
+ "created_at": "2026-07-06T00:44:28+00:00",
+ "failed": false,
+ "text": "In my opinion, yes, Adderall can cause depression. The best approach would be to start with antidepressants and cognitive behavioral therapy with a therapist.",
+ "seconds": 0.751
+}

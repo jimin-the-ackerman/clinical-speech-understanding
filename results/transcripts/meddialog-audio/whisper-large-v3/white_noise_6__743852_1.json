@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__743852_1",
+ "condition": "white_noise_6",
+ "reference": "I have probable multiple sclerosis and recently I have been experiencing thoracic pain. I feel lightheaded and have bloating and a lot of gas, and sometimes I become short of breath during these episodes. I also have gastroesophageal reflux and a hiatal hernia. I had an echocardiogram about two years ago, which only showed slight tricuspid regurgitation. I am on Ranitidine, but lately, I feel it is not working. Any ideas?",
+ "audio_seconds": 29.35,
+ "created_at": "2026-07-06T04:38:26+00:00",
+ "failed": false,
+ "text": "I have probable multiple sclerosis and recently I have been experiencing thoracic pain. I feel lightheaded and have bloating and a lot of gas and sometimes I become short of breath during these episodes. I also have gastroesophageal reflux and a hiatal hernia. I had an echocardiogram about to go, which only showed slight tricuspid regurgitation. I am on it again, but lately I feel it is not working. Any ideas?",
+ "seconds": 0.779
+}

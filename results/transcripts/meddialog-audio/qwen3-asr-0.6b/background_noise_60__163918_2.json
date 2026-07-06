@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__163918_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, I read your question. Your child is recovering from a cold. He has a bad odor coming from his ear, which means your baby may have an ear infection. It is sometimes common after a cold to have an ear infection, so please show a pediatrician as soon as possible.",
+ "audio_seconds": 15.36,
+ "created_at": "2026-07-06T04:57:22+00:00",
+ "failed": false,
+ "text": "Hi, I read your question. Your child is recovering from a cold. He has a bad odor coming from his ear, which means your baby may have an ear infection. It is sometimes common after a cold to have an ear infection. So please show a pediatrician as soon as possible.",
+ "seconds": 0.551
+}

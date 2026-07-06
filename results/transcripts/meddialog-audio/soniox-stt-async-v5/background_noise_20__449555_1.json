@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__449555_1",
+ "condition": "background_noise_20",
+ "reference": "Hi Doctor, I am having yellow, smelly, and sparkly urine. After that, I suffered kidney pain two months ago. I did an ultrasound, and the results indicated that I have twenty-nine mm of sediment inside a bag in the middle of my right kidney, and I urinated some blood during those pains.",
+ "audio_seconds": 18.52,
+ "created_at": "2026-07-06T02:47:34+00:00",
+ "failed": false,
+ "text": "Hi Doctor, I am having yellow, smelly, and sparkly urine. After that, I suffered kidney pain 2 months ago. I did an ultrasound, and the results indicated that I have 29 mm of sediment inside a bag in the middle of my right kidney, and I urinated some blood during those pains.",
+ "seconds": 4.798
+}

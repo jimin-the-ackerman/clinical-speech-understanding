@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__309159_1",
+ "condition": "white_noise_2",
+ "reference": "I am very insecure, can't sleep much, I either eat a lot at once or hardly eat at all. I had my first child seventeen months ago and I am still breastfeeding. I am twenty and I am a single mother. When I am down, I am down, and the same when I am up. I can get stressed in minutes and feel hopeless, etc. I have strange pains in my stomach. I get a lot of hassle from my daughter's father. I have even gone off sex. I feel I have changed.",
+ "audio_seconds": 25.09,
+ "created_at": "2026-07-06T05:35:38+00:00",
+ "failed": false,
+ "text": "I am very insecure. Can't sleep much. I either eat a lot at once or hardly eat at all. I had my first child seventeen months ago, and I am still breastfeeding. I am twenty, and I am a single mother. When I am down, I am done the same. When I am up, I can get stressed in minutes and feel hopeless, etc. I have strange pains in my stomach. I get a lot of hassle from my daughter's father. I have even gone off sex. I feel I have changed.",
+ "seconds": 1.014
+}

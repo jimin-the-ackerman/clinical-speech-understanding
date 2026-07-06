@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117017-0007",
+ "condition": null,
+ "reference": "YOU DAMNED COPS CAN'T O'NEILL WAS BLUBBERING",
+ "audio_seconds": 4.12,
+ "created_at": "2026-07-05T23:58:23+00:00",
+ "failed": false,
+ "text": "You damned cops can't,\" O'Neil was blubbering.",
+ "seconds": 0.628
+}

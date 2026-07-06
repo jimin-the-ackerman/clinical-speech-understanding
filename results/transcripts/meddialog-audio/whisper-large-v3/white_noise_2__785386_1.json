@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__785386_1",
+ "condition": "white_noise_2",
+ "reference": "I have back pain across the waist area of my back. I have had a fever and chills with this. I also have soreness in my left chest, shoulders, arms, and legs. My legs did not want to move like they normally do. It is hard to climb steps, and I can hardly get in and out of the car since this has happened.",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T04:35:07+00:00",
+ "failed": false,
+ "text": "i have back pain across the waist area of my back i have had a fever and chills with this i also have soreness in my left chest shoulders arms and legs my legs did not want to move like they normally do it is hard to climb steps and i can hardly get in and out of the car since this has happened",
+ "seconds": 1.04
+}

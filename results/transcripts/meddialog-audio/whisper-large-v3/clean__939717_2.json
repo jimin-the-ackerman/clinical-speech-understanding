@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__939717_2",
+ "condition": "clean",
+ "reference": "You must visit an emergency room for severe pain. Try taking ibuprofen four hundred milligrams and methocarbamol seven hundred and fifty milligrams also twice daily after meals. This muscle relaxant can relieve stiffness in the back. Avoid sitting on the floor, forward bending, or lifting weights. Do hot fomentation of the back, rest on a hard bed, and use Relaxyl ointment on the affected area. Most likely you have a disc prolapse, for which you may need a magnetic resonance imaging scan of the spine.",
+ "audio_seconds": 31.15,
+ "created_at": "2026-07-06T04:28:19+00:00",
+ "failed": false,
+ "text": "you must visit an emergency room for severe pain try taking ibuprofen 400 milligrams and methylcarbamol 750 milligrams also twice daily after meals this muscle relaxant can relieve stiffness in the back avoid sitting on the floor forward bending or lifting weights do hot fomentation of the back rest on a hard bed and use relaxal ointment on the affected area most likely you have a disc prolapse for which you may need a magnetic resonance imaging scan of the spine",
+ "seconds": 0.866
+}

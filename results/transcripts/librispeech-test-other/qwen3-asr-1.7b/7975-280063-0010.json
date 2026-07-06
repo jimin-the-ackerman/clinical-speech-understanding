@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280063-0010",
+ "condition": null,
+ "reference": "I WAS TOLD BY SOME OF OUR MEN FROM THE WESTERN BORDER OF THE STATE THAT THEY RECOGNIZED THE DARING YOUNG RIDER AS COLE YOUNGER",
+ "audio_seconds": 6.42,
+ "created_at": "2026-07-06T03:36:48+00:00",
+ "failed": false,
+ "text": "I was told by some of our men from the western border of the state that they recognized the daring young rider as Cole Younger.",
+ "seconds": 0.278
+}

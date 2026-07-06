@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__487896_1",
+ "condition": "white_noise_6",
+ "reference": "I have bad sacroiliac joint pain, and my back hurts in the morning for the first five minutes after getting out of bed. I can move around afterwards, but then my back starts hurting where the nerve that runs from my rib to my left side begins to hurt. The left side starts with a really sharp pain that takes my breath away, so I have to start depending on Lortab and Tramadol throughout the day. What can I do to stop this?",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T00:47:19+00:00",
+ "failed": false,
+ "text": "And, of course, the chief among that, the more that you put out there of what the market wants, what people want, the better. And the market does not reward people who just sit there. No, I'm just not just going to work hard and try to offer more for the same.",
+ "seconds": 1.304
+}

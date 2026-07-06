@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__719489_2",
+ "condition": "white_noise_6",
+ "reference": "Take plenty of liquids, rest, and if the dizziness does not subside, take Vertin four milligrams. Do not skip meals.",
+ "audio_seconds": 9.64,
+ "created_at": "2026-07-06T04:49:05+00:00",
+ "failed": false,
+ "text": "take plenty of liquids, rest, and if the zizziness does not subside, take verkin 4 milligrams. Do not skip meals.",
+ "seconds": 0.19
+}

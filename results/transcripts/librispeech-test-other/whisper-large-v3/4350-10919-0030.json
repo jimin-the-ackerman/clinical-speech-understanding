@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-10919-0030",
+ "condition": null,
+ "reference": "AT THE QUESTION SHOULD THEY GO ABROAD THE DOCTOR PLUNGED INTO DEEP MEDITATION AS THOUGH RESOLVING A WEIGHTY PROBLEM",
+ "audio_seconds": 6.34,
+ "created_at": "2026-07-05T13:01:29+00:00",
+ "failed": false,
+ "text": "At the question, should they go abroad, the doctor plunged into deep meditation, as though resolving a weighty problem.",
+ "seconds": 0.257
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5040-0004",
+ "condition": null,
+ "reference": "I NEVER SAW ANY ONE YET THAT DID NOT LOOK SIMPLY AND OUT OF COUNTENANCE NOR EVER KNEW A WEDDING WELL DESIGNED BUT ONE AND THAT WAS OF TWO PERSONS WHO HAD TIME ENOUGH I CONFESS TO CONTRIVE IT AND NOBODY TO PLEASE IN'T BUT THEMSELVES",
+ "audio_seconds": 16.06,
+ "created_at": "2026-07-05T12:57:56+00:00",
+ "failed": false,
+ "text": "i never saw any one yet that did not look simply and out of countenance nor ever knew a wedding well designed but one and that was of two persons who had time enough i confess to contrive it and nobody to please in but themselves",
+ "seconds": 0.398
+}

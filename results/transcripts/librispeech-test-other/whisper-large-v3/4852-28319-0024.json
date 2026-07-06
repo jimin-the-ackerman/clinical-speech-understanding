@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28319-0024",
+ "condition": null,
+ "reference": "WITH INFINITE CAUTION CHRIS CLOSED THE DOOR SILENTLY BEHIND HIM AND RUNNING LIGHTLY FORWARD REACHED THE FIGURE OF THE NEGRO BOY",
+ "audio_seconds": 7.0,
+ "created_at": "2026-07-05T13:02:14+00:00",
+ "failed": false,
+ "text": "with infinite caution chris closed the door silently behind him and running lightly forward reached the figure of the negro boy",
+ "seconds": 0.24
+}

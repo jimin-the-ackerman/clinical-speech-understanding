@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163619-0009",
+ "condition": null,
+ "reference": "ON THE FIRST THURSDAY NIGHT AFTER THIS A BEAUTIFUL MAIDEN CAME INTO THE KITCHEN OF THE PALACE AND BEGGED THE KITCHEN MAID WHO SLEPT THERE TO LEND HER A BRUSH",
+ "audio_seconds": 8.87,
+ "created_at": "2026-07-06T03:17:58+00:00",
+ "failed": false,
+ "text": "On the first Thursday night after this, a beautiful maiden came into the kitchen of the palace and begged the kitchen maid who slept there to lend her a brush.",
+ "seconds": 0.326
+}

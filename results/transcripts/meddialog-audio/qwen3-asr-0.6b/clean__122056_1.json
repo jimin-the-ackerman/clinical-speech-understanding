@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__122056_1",
+ "condition": "clean",
+ "reference": "Hi, I am seven months pregnant, and a few weeks ago I found these lumps by my privates. They are under the skin and on either side of my privates. They do not hurt, but they come and go, and when they are present, sometimes it feels like I am sitting on a tennis ball. Do you know what it is?",
+ "audio_seconds": 19.46,
+ "created_at": "2026-07-06T05:00:50+00:00",
+ "failed": false,
+ "text": "Hi, I am seven months pregnant, and a few weeks ago I found these lumps by my privates. They are under the skin and on either side of my privates. They do not hurt, but they come and go, and when they are present, sometimes it feels like I'm sitting on a tennis ball. Do you know what it is?",
+ "seconds": 0.667
+}

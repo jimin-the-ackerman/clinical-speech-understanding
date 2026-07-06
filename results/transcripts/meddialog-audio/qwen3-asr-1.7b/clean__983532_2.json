@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__983532_2",
+ "condition": "clean",
+ "reference": "Poor circulation to the feet should be improved if he has ischemic pain in his feet or legs, or an ulcer on the feet. If he has neither, then increasing circulation is not necessary since a peripheral angioplasty will become blocked again in about eight months, and peripheral bypass surgery will become blocked again in about eighteen months or so. Firstly, a peripheral magnetic resonance angiogram or computed tomography angiogram is done by the radiologist. After studying the images, the doctor can inform if there are angioplastyable or bypassable blockages. You can then, on his advice, get the revascularization done.",
+ "audio_seconds": 37.21,
+ "created_at": "2026-07-06T05:30:59+00:00",
+ "failed": false,
+ "text": "Poor circulation to the feet should be improved if he has ischemic pain in his feet or legs, or an ulcer on the feet. If he has neither, then increasing circulation is not necessary, since a peripheral angioplasty will become blocked again in about eight months, and peripheral bypass surgery will become blocked again in about eighteen months or so. A peripheral magnetic resonance angiogram or computed tomography angiogram is done by the radiologist. After studying the images, the doctor can inform if there are angioplastiable or bypassable blockages. You can then, on his advice, get the revascularization done.",
+ "seconds": 1.131
+}

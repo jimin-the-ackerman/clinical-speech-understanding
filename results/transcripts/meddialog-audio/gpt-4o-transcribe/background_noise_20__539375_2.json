@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__539375_2",
+ "condition": "background_noise_20",
+ "reference": "Your allergies are affecting other systems, such as the digestive system. Your asthma medications are no longer controlling the symptoms and the allergy is increasing. I suspect it may be a food allergy causing both asthma and digestive system issues. Please get blood tests for specific antibodies to foods such as milk, eggs, wheat, potatoes, chickpeas, rice, and nuts. When you go for an elimination diet for the foods that cause allergies, your asthma and abdominal problems should decrease. Additionally, please get an abdominal ultrasound for your gallbladder to rule out any effects.",
+ "audio_seconds": 35.75,
+ "created_at": "2026-07-06T00:42:17+00:00",
+ "failed": false,
+ "text": "Your allergies are affecting other systems, such as the digestive system. Your asthma medications are no longer controlling the symptoms and the allergy is increasing. I suspect it may be a food allergy causing both asthma and digestive system issues. Please get blood tests for specific antibodies to foods such as milk, eggs, wheat, potatoes, chickpeas, rice, and nuts. When you go for an elimination diet for the foods that cause allergies, your asthma and abdominal problems should decrease. Additionally, please get an abdominal ultrasound for your gallbladder to rule out any effects.",
+ "seconds": 1.807
+}

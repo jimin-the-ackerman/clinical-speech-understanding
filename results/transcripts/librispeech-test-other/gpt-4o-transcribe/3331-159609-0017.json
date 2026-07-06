@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0017",
+ "condition": null,
+ "reference": "SUPPOSE I SAY A WORD TO TOM JUST INQUIRE AFTER HIS HEART IN A GENERAL WAY YOU KNOW AND GIVE HIM A CHANCE TO TELL ME IF THERE IS ANYTHING TO TELL",
+ "audio_seconds": 8.13,
+ "created_at": "2026-07-05T23:54:45+00:00",
+ "failed": false,
+ "text": "Suppose I say a word to Tom, just inquire after his heart in a general way, you know, and give him a chance to tell me if there's anything to tell?",
+ "seconds": 0.759
+}

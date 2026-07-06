@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__238173_1",
+ "condition": "clean",
+ "reference": "I recently came to know that I have a gallbladder stone of six centimeters, a left ovarian functional cyst of two millimeters, and two fibroids in the uterus. I feel heaviness in the lower abdomen and slight pain on the left side and leg. I do not want any surgery but prefer medications. Please help. I am from India. Sona.",
+ "audio_seconds": 22.02,
+ "created_at": "2026-07-06T02:57:23+00:00",
+ "failed": false,
+ "text": "I recently came to know that I have a gallbladder stone of 6 cm, a left ovarian functional cyst of 2 mm, and 2 fibroids in the uterus. I feel heaviness in the lower abdomen and slight pain on the left side and leg. I do not want any surgery, but prefer medications. Please help. I am from India, Sona.",
+ "seconds": 6.078
+}

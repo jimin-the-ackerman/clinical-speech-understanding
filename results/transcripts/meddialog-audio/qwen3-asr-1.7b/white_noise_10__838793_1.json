@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__838793_1",
+ "condition": "white_noise_10",
+ "reference": "I am a fifty-three-year-old female, five feet ten inches, one hundred and fifty-five pounds, in good health. Over the last two months, my second toe on my right foot has been swollen, discolored, and feels like there is a rubber band around it. I have been to the doctor, had X-rays and blood work. There are no fractures and I have ruled out gout. I have been on antibiotics for the last five days, but there have been no changes. Any ideas of what to check for next?",
+ "audio_seconds": 29.95,
+ "created_at": "2026-07-06T05:34:06+00:00",
+ "failed": false,
+ "text": "I am a 63-year-old female, 5 feet 10 inches, 155 pounds, in good health. Over the last two months, my second toe on my right foot has been swollen, discolored, and feels like there is a rubber band around it. I have been to the doctor, had X-rays and blood work. There are no fractures, and I have ruled out gout. I have been on antibiotics for the last five days, but there have been no changes. Any ideas of what to check for next?",
+ "seconds": 1.082
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__748127_2",
+ "condition": "background_noise_40",
+ "reference": "Dear patient, as you mentioned, you have severe neck pain with radiation to your head and back, and there is a history of a car accident. All this is suggestive of musculoskeletal pain with or without some nerve compression. To confirm the diagnosis, we need an MRI of the cervical spine. This will help us identify any bone fractures or nerve root compression, or it may be a simple muscle injury or strain. A bone fracture with a prolapsed disc compressing a nerve is an emergency that must be diagnosed as soon as possible and managed accordingly. If it is just some muscle strain, it can be managed conservatively with some muscle relaxants and painkillers along with physiotherapy. Therefore, at this time, you need to discuss all this with your physician. I hope this will help.",
+ "audio_seconds": 44.71,
+ "created_at": "2026-07-06T04:19:46+00:00",
+ "failed": false,
+ "text": "Dear patient, as you mentioned, you have severe neck pain with radiation to your head and back, and there is a history of a car accident. All this is suggestive of musculoskeletal pain with or without some nerve compression. To confirm the diagnosis, we need an MRI of the cervical spine. This will help us identify any bone fractures or nerve root compression, or it may be a simple muscle injury or strain. A bone fracture with a prolapsed disc compressing the nerve is an emergency that must be diagnosed as soon as possible and managed accordingly. If it is just some muscle strain, it can be managed conservatively with some muscle analysis and painkillers along with physiotherapy. Therefore, at this time, you need to discuss all this with your physician. I hope this will help.",
+ "seconds": 1.363
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__186554_2",
+ "condition": "white_noise_6",
+ "reference": "Unexplained shoulder and arm discomfort with no apparent reason in a diabetic should be investigated. After you are sure the symptoms aren't related to the heart, another possibility is nerve-origin symptoms. Nerves in the neck or in the group of nerves that lie beneath the collarbone can be irritated. When they are, the shoulder and arm may cause discomfort as described. The person who can help clarify this is a neurologist, either by examining the arm and reflexes or sometimes studying nerve function. Start with your primary care physician and ensure that it is not heart-related first.",
+ "audio_seconds": 33.11,
+ "created_at": "2026-07-06T05:38:58+00:00",
+ "failed": false,
+ "text": "Unexplained shoulder and arm discomfort with no apparent reason, and a diabetic should be investigated. After you are sure the symptoms are related to the heart, another possibility is nerve origin symptoms. Nerves in the neck or in the group of nerves that lie beneath the collarbone can be irritated. When they are, the shoulder and arm may cause discomfort as described. A person who can help clarify this is a neurologist, either by examining arm and reflexes or sometimes studying nerve function. Start with your primary care physician and ensure that it is not heart-related first.",
+ "seconds": 1.091
+}

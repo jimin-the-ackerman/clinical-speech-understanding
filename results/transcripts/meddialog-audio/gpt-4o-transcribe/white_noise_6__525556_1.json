@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__525556_1",
+ "condition": "white_noise_6",
+ "reference": "I started out with eighteen days of diarrhea followed by abdominal pains that made me nauseous for sixteen days, along with lower back pain and pain in between my shoulders. I am now experiencing low body temperatures that usually occur in the evening (ninety-six point nine°F in the morning). My body temperature ranges between ninety-seven°F and ninety-eight°F. I have been getting light-headed when looking up and have noticed disorientation and balance issues. Can you help?",
+ "audio_seconds": 30.72,
+ "created_at": "2026-07-06T00:47:22+00:00",
+ "failed": false,
+ "text": "but if any plea was brought, the ideal judge would simply say, \"Go away until you have settled your case.\" Nor would he say to one side or the other, \"I will give you my judgment when you have given me what I want.\" Nor would he say to the plaintiff, \"How do you think you could bring such a charge against the defendant?\" Nor would he say to the defendant, \"How do you think you could bring such a charge against the plaintiff?\"",
+ "seconds": 1.673
+}

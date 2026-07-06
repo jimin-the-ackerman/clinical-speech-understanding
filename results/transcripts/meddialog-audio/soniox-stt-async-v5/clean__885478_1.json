@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__885478_1",
+ "condition": "clean",
+ "reference": "I have a disc bulge; however, it hurts all the time, whether I am sitting, standing, or lying down. I am also losing weight consistently. I am fifty-three years old, my height is five feet four inches, and my current weight is one hundred and five pounds. I used to weigh one hundred and nineteen pounds. I am always tired and have no energy for anything. I took a thyroid test, which came out negative. What do you think?",
+ "audio_seconds": 28.33,
+ "created_at": "2026-07-06T02:59:54+00:00",
+ "failed": false,
+ "text": "I have a disc bulge, however it hurts all the time, whether I am sitting, standing, or lying down. I am also losing weight consistently. I am 53 years old, my height is 5 feet 4 inches, and my current weight is 105 pounds. I used to weigh 119 pounds. I am always tired and have no energy for anything. I took a thyroid test, which came out negative. What do you think?",
+ "seconds": 5.041
+}

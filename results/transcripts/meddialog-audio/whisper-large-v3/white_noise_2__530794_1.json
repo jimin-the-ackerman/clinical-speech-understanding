@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__530794_1",
+ "condition": "white_noise_2",
+ "reference": "My ankles and feet are swollen. I have not been dancing. I am an older woman. My health is fair, but I do take heart medications that I have not taken in about a month. Do you think that might be the reason? Now, does your heart have anything to do with your heart?",
+ "audio_seconds": 16.13,
+ "created_at": "2026-07-06T04:34:02+00:00",
+ "failed": false,
+ "text": "My ankles and feet are swollen. I have not been dancing. I am an older woman. My health is fair, but I do take heart medications that I have not taken in about a month. Do you think that might be the reason? Now, does your heart have anything to do with your heart?",
+ "seconds": 0.496
+}

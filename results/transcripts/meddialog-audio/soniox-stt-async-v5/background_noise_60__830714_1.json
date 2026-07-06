@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__830714_1",
+ "condition": "background_noise_60",
+ "reference": "I have severe back pain on my left side above my hip. It feels like it is spreading throughout my back. I have also noticed black stool, but I have recently started taking iron supplements. It hurts to look up and down, and lying on my back hurts. When I lie on the sore side and breathe, it hurts more. I have not done anything that could cause this, and I only noticed it yesterday morning. It was like I flipped a switch, and I haven’t been able to turn it off. It is very painful.",
+ "audio_seconds": 28.59,
+ "created_at": "2026-07-06T02:56:01+00:00",
+ "failed": false,
+ "text": "I have severe back pain on my left side above my hip; it feels like it is spreading throughout my back. I have also noticed black stool, but I have recently started taking iron supplements. It hurts to look up and down; lying on my back hurts. When I lie on the sore side and breathe, it hurts more. I have not done anything that could cause this, and I only noticed it yesterday morning. It was like I flipped a switch, and I haven't been able to turn it off; it is very painful.",
+ "seconds": 8.52
+}

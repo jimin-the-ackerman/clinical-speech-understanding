@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__823222_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, I am twenty-six years old and I have a tiny movable lump on my lower left abdomen about the size of my fingertip. It doesn't hurt to push on, but I have discomfort very frequently on that side and have had it for three months now. I just gave birth five months ago to my second child. I am very worried this is ovarian cancer due to all I have read online. Does this sound normal for ovarian cancer? There has been no change in my bowel movements, my periods are very regular, but I do experience some hip and back pain occasionally on that same side.",
+ "audio_seconds": 34.9,
+ "created_at": "2026-07-06T04:38:47+00:00",
+ "failed": false,
+ "text": "Hi, I am 26 years old and I have a tiny movable lump on my lower left abdomen, about the size of my fingertip. It doesn't hurt to push on, but I have discomfort frequently on that side and have had it for 3 months now. I just gave birth 5 months ago to my second child. I am very worried this is ovarian cancer due to all I have read online. Does this sound normal for ovarian cancer? There has been no change in my bowel movements. My periods are very regular, but I do experience some hip and back pain occasionally on that same side.",
+ "seconds": 1.08
+}

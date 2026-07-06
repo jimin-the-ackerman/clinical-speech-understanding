@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__516791_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, I found out I had blood clots over the recent months. I still have blood clots right now, but I am on blood thinners, and I am at a therapeutic level. Before this all happened to me, I was a frequent user of cannabis, but the doctors said I need to stop because they said smoking cannabis can kill me. Is this true or not? Because I really want to smoke again.",
+ "audio_seconds": 22.19,
+ "created_at": "2026-07-06T05:25:10+00:00",
+ "failed": false,
+ "text": "Hi, I found out I had blood clots over the recent months. I have blood clots right now, but I am on blood thinners and I am at a therapeutic level. Before this all happened to me, I was a frequent user of cannabis, but the doctors said I need to stop because they said smoking cannabis can kill me. Is this true or not? Because I really want to smoke again.",
+ "seconds": 0.783
+}

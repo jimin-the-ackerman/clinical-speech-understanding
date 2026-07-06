@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__663123_2",
+ "condition": "white_noise_10",
+ "reference": "The problems are likely due to friction caused during masturbation. Use moisturizer, maintain hygiene, and wear cotton and soft underwear.",
+ "audio_seconds": 9.64,
+ "created_at": "2026-07-06T03:02:59+00:00",
+ "failed": false,
+ "text": "The problems are likely due to friction caused during masturbation; use moisturizer, maintain hygiene, and wear cotton and soft underwear.",
+ "seconds": 4.831
+}

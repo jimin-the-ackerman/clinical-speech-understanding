@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__771697_1",
+ "condition": "background_noise_20",
+ "reference": "A five-year-old hit his forehead with another child on the playground. An immediate bump formed on his forehead. I applied ice, which reduced the swelling considerably. He appears to be fine—no nausea, no headache, etc. This happened at seven:zero PM, and he went to bed at nine:zero PM. I keep checking on him, and all seems normal. Is this okay?",
+ "audio_seconds": 21.85,
+ "created_at": "2026-07-06T05:18:29+00:00",
+ "failed": false,
+ "text": "A five-year-old hit his forehead with another child on the playground. An immediate bump formed on his forehead. I applied ice, which reduced the swelling considerably. He appears to be fine. No nausea, no headache, etc. This happened at 7:00 p.m. and he went to bed at 9:00 p.m. I keep checking on him, and all seems normal. Is this okay?",
+ "seconds": 0.8
+}

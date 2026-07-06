@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__883301_2",
+ "condition": "white_noise_10",
+ "reference": "The morning-after pill contains progesterone, which can disturb the normal cycle of menstruation. Therefore, I do not think there is any need to worry unless you had any further unprotected sexual intercourse. If you do not get your period even after one week, please get tested with a urine pregnancy test.",
+ "audio_seconds": 19.37,
+ "created_at": "2026-07-06T00:46:09+00:00",
+ "failed": false,
+ "text": "The rolling stock of the Dublin and Kingstown was made up of four-wheeled passenger coaches and open wagons.",
+ "seconds": 0.793
+}

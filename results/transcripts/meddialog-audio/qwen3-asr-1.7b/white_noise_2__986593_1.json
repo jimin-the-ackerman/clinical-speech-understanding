@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__986593_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor. I woke up today only to find that half of my upper lip is swollen. I looked around for bite or sting marks but found nothing. There is no pain, only a numb and tingly feeling. I didn't eat anything the night before, so it couldn't be an allergic reaction. I applied a frozen bottle of water to it. What could this be, and how can I make the swelling go away as soon as possible?",
+ "audio_seconds": 21.76,
+ "created_at": "2026-07-06T05:38:37+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I woke up today only to find that half of my upper lip is swollen. I looked around for sting marks, but found nothing. There is no pain, only a numb, itchy feeling. I didn't eat anything the night before, so it couldn't be an allergic reaction. I applied a frozen bottle of water to it. What could this be? And how can I make the swelling go away as soon as possible?",
+ "seconds": 0.854
+}

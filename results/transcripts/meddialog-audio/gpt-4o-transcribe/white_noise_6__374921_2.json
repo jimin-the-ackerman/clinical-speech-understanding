@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__374921_2",
+ "condition": "white_noise_6",
+ "reference": "In the blood vessels, the blood does not clot. However, when it extravasates and gets collected somewhere, as in this blister, it is gradually degraded. Depending on the stage, the color varies between blackish, brownish, purplish, bluish, greenish, yellowish, and can eventually disappear. Yellow is the color of bilirubin, a degradation product of hemoglobin, the red pigment that colors our blood. It is normal, and in five to ten days, it should be completely gone without any need to go to a doctor for this.",
+ "audio_seconds": 30.98,
+ "created_at": "2026-07-06T00:47:15+00:00",
+ "failed": false,
+ "text": "You have the beautiful Black Hawk. However, you need to shoot Black Hawk down. You don't know if you will actually get to shoot Black Hawk down.",
+ "seconds": 0.923
+}

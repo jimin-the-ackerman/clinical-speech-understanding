@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28330-0001",
+ "condition": null,
+ "reference": "GUESS MISTER FINNEY WENT TO HIS QUARTERS I DON'T REMEMBER SEEING HIM CROSS THE DECK OR COME OVER THAT WAY AT ALL",
+ "audio_seconds": 6.14,
+ "created_at": "2026-07-05T13:02:21+00:00",
+ "failed": false,
+ "text": "guess mr finney went to his quarters i don't remember seeing him cross the deck or come over that way at all",
+ "seconds": 0.258
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__494900_1",
+ "condition": "white_noise_6",
+ "reference": "Hello, my husband is twenty-eight years old and has been under some stress lately. Today he had a random weird moment where he took a breath and said that when he breathed, his chest developed this tingling pain. He said it has been happening off and on for a couple of years, and I was wondering what it could be.",
+ "audio_seconds": 19.11,
+ "created_at": "2026-07-06T04:48:41+00:00",
+ "failed": false,
+ "text": "hello my husband is 28 years old and has been under some stress lately today he had a random weird moment where he took a breath and said that when his chest developed this tingling pain he said it has been happening off and on for a couple of years and i was wondering what it could be",
+ "seconds": 0.226
+}

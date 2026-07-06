@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__707090_2",
+ "condition": "white_noise_2",
+ "reference": "If you take my opinion, then I would suggest that yes, you can get pregnant. However, this pregnancy can be prevented by using a postcoital contraceptive pill in two doses, apart. Later, you can confirm your pregnancy with a urine pregnancy test or an ultrasound test.",
+ "audio_seconds": 16.64,
+ "created_at": "2026-07-06T03:07:35+00:00",
+ "failed": false,
+ "text": "If you take my opinion, then I would suggest that yes, you can get pregnant; however, this pregnancy can be prevented by using a postcoital contraceptive pill in 2 doses apart. Later, you can confirm your pregnancy with a urine pregnancy test or an ultrasound test.",
+ "seconds": 5.324
+}

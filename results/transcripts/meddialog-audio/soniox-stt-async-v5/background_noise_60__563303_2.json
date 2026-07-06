@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__563303_2",
+ "condition": "background_noise_60",
+ "reference": "It is an infected sebaceous cyst, and surgical removal after a course of antibiotics is the best treatment for it. Get a fine needle aspiration cytology test for confirmation. All the best!",
+ "audio_seconds": 13.48,
+ "created_at": "2026-07-06T02:55:00+00:00",
+ "failed": false,
+ "text": "It is an infected sebaceous cyst, and surgical removal after a course of antibiotics is the best treatment for it. Get a fine-needle aspiration cytology test for confirmation. All the best.",
+ "seconds": 4.574
+}

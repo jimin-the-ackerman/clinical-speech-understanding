@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__992744_1",
+ "condition": "white_noise_10",
+ "reference": "What is the meaning of microfibroids of average size twenty-two x eighteen millimeters, irregular endometrial plates, no pouch of Douglas, no ovarian cyst? The pouch of Douglas is empty.",
+ "audio_seconds": 15.45,
+ "created_at": "2026-07-06T05:08:01+00:00",
+ "failed": false,
+ "text": "What is the meaning of microcytoid of average size twenty-two eighteen millimeters, irregular, indeterminate white, no pouch of Douglas, no ovarian cyst. The pouch of Douglas is empty.",
+ "seconds": 0.387
+}

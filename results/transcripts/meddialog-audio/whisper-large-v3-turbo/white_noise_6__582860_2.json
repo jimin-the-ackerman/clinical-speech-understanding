@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__582860_2",
+ "condition": "white_noise_6",
+ "reference": "All your symptoms indicate that the back muscles need strengthening exercises. Spinal exercises should be learned under the care of physiotherapists. There should be no strenuous efforts; just enough to provide gentle exercises to the muscles of the back. Relaxation from stress is also important, which can be achieved by changing lifestyle, practicing meditation, etc. Hot fomentation is also helpful. Assessment of serum calcium and vitamin D levels is recommended, along with dietary management that includes more fruits, vegetables, and proteins instead of fats.",
+ "audio_seconds": 35.33,
+ "created_at": "2026-07-06T04:48:53+00:00",
+ "failed": false,
+ "text": "All your symptoms indicate that the back muscles need strengthening exercises. Spinal exercises should be learned under the care of physiotherapists. There should be no strenuous efforts, just enough to provide gentle exercises to the muscles of the back. Relaxation from stress is also important, which can be achieved by changing lifestyle, practicing meditation, etc. Hot fermentation is also helpful. Assessment of serum calcium and vitamin D levels is recommended, along with dietary management that includes more fruits, vegetables, and proteins instead of fats.",
+ "seconds": 0.382
+}

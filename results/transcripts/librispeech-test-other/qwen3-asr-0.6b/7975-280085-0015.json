@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280085-0015",
+ "condition": null,
+ "reference": "ONE OF THE FELLOWS IN THE OUTER LINE NOT BRAVE ENOUGH HIMSELF TO JOIN THE VOLUNTEERS WHO HAD COME IN TO BEAT US OUT WAS NOT DISPOSED TO BELIEVE IN THE SURRENDER AND HAD HIS GUN LEVELLED ON BOB IN SPITE OF THE HANDKERCHIEF WHICH WAS WAVING AS A FLAG OF TRUCE",
+ "audio_seconds": 13.36,
+ "created_at": "2026-07-06T03:24:57+00:00",
+ "failed": false,
+ "text": "One of the fellows in the outer line, not brave enough himself to join the volunteers who had come in to beat us out, was not disposed to believe in the surrender, and had his gun leveled on Bob in spite of the handkerchief which was waving as a flag of truce.",
+ "seconds": 0.556
+}

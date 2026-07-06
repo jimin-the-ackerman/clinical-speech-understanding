@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__950916_2",
+ "condition": "background_noise_20",
+ "reference": "Dear Faisal, this is a common occurrence. Sample collection is very important in semen examination. What you might have provided for testing could be pre-ejaculate fluid, not semen. Please, next time collect the sample at home and reach the laboratory within thirty minutes. You can ask them how to handle the sample once collected. Do not worry; a single semen report does not carry much weight. Have abstinence for three days, and then go for the examination again.",
+ "audio_seconds": 28.84,
+ "created_at": "2026-07-06T04:40:52+00:00",
+ "failed": false,
+ "text": "Beephasil, this is a common occurrence. Sample collection is very important in semen examination. What you might have provided for testing could be pre-ejaculate fluid, not semen. Please, next time collect the sample at home and reach the laboratory within 30 minutes. You can ask them how to handle the sample once collected. Do not worry, a single semen report does not carry much weight. Have abstinence for three days and then go for the examination again.",
+ "seconds": 0.301
+}

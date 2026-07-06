@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__791201_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. Oh my gosh! This is a case of juvenile diabetes, and it requires admission to the hospital to undergo proper investigations and treatment with insulin. All the symptoms are classic. He could be in ketoacidosis due to severe insulin-dependent diabetes.",
+ "audio_seconds": 15.7,
+ "created_at": "2026-07-06T04:43:30+00:00",
+ "failed": false,
+ "text": "Hello. Oh my gosh. This is a case of juvenile diabetes, and it requires admission to the hospital to undergo proper investigations and treatment with insulin. All the symptoms are classic. It could be in ketoacidosis due to severe insulin-dependent diabetes.",
+ "seconds": 0.251
+}

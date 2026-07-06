@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__826830_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. The fact that human chorionic gonadotropin levels ruled out pregnancy now, of course, confirms the absence of pregnancy. The lactation, or as we call it, galactorrhea, in the absence of pregnancy, is due to increased serum prolactin levels. Please get her serum prolactin levels checked to rule out hyperprolactinemia. Typhoid can be treated simultaneously with cephalosporins and ornidazole with a treatment duration of ten days. However, hyperprolactinemia will require treatment with dopamine receptor agonists like cabergoline, which may be administered orally at zero point two five milligrams, one tablet twice a week for four weeks. This should help treat galactorrhea. Also, along with the treatment, one should avoid any form of breast stimulation or foreplay practices, which can reciprocally increase the prolactin secretion in feedback. So, please get a serum prolactin level done and follow up with the report before starting dopamine agonists.",
+ "audio_seconds": 56.15,
+ "created_at": "2026-07-06T04:47:54+00:00",
+ "failed": false,
+ "text": "Hello. The fact that human chorionic gonadotropin levels ruled out pregnancy now, of course, confirms the absence of pregnancy. The lactation, or as we call it, galacteria, in the absence of pregnancy is due to increased serocrolactin levels. Please get our serum prolactin levels checked to rule out hyperprolactinemia. Typhoid can be treated simultaneously with cephalosporins and ornidazole with a treatment duration of 10 days. However, hyperprolactinemia will require treatment with dopamine receptor agonists like cabergoline, which may be administered orally at 0.25 mg, one tablet twice a week for four weeks. This should help treat galacteria. Also, along with the treatment, one should avoid any form of breast stimulation or foreplay practices, which can reciprocally increase the prolactin secretion in feedback. So, please get a serum prolactin level done and follow up with a report before starting dopamine agonist.",
+ "seconds": 0.566
+}

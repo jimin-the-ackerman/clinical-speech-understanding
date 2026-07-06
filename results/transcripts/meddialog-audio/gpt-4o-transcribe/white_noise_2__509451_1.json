@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__509451_1",
+ "condition": "white_noise_2",
+ "reference": "While I am resting and just about to doze off, I am awakened by this sinking feeling in my heart as if it is going to stop. When I purposely try to stay awake, the feeling goes away. What causes this? I am a heart patient recovering from stent surgery, and during the daytime, I am doing well. I am fairly active. I don't get this feeling all the time.",
+ "audio_seconds": 23.64,
+ "created_at": "2026-07-06T00:46:37+00:00",
+ "failed": false,
+ "text": "Why not stay and just let me go? You will wait if I just give you a new one heart? That is so? Well, that's what they say. Do you believe them? Your heart is beating. If you're gonna wait for me, you know I am telling ya. You should just feel me all the time.",
+ "seconds": 1.252
+}

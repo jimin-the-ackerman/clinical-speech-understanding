@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__409030_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. I can understand your concern regarding your symptoms. one) Never attempt to manually remove stool. Instead, it is advisable to use a stool softener or laxatives. two) The habit of manually removing stool and constipation can develop an anal fissure, which is a small tear on the inner wall of the lower part of the anal canal. Constipation and manual removal of stool may require a proctoscopy and rectal examination. For an anal fissure, you may consider using a stool softener or laxative, analgesics for anal pain, and anesthetic medication ointment for local application.",
+ "audio_seconds": 34.39,
+ "created_at": "2026-07-06T03:09:58+00:00",
+ "failed": false,
+ "text": "Hello, I can understand you concern regarding your symptoms. One: never attempt to manually remove soil; instead, it is advisable to use a stool softener or laxatives. Two: the habit of manually removing stool and constipation can develop. Fissure, which is a small tear on the inner wall of the lower part of the anal canal. Constipation and manual removal of stool may require a proctoscopy and rectal examination; for an anal fissure, you may consider using a stool softener or laxative, analgesic pain, and anesthetic medication ointment for local application.",
+ "seconds": 5.152
+}

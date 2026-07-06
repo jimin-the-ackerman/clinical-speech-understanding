@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__703727_1",
+ "condition": "white_noise_10",
+ "reference": "I am having pain in my chest and back. I do not have fever, but my body temperature is high. I am experiencing some irritation in my neck, and in the morning, my eyes remain closed as if someone has applied glue. What medications should I use to get relief from my pain?",
+ "audio_seconds": 17.15,
+ "created_at": "2026-07-06T04:30:57+00:00",
+ "failed": false,
+ "text": "I am having pain in my chest and back, I do not have fever but my body temperature is high, I am experiencing some irritation in my neck and in the morning my eyes remain closed as if someone has applied glue. What medication should I use to get relief from my pain?",
+ "seconds": 0.485
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__493124_2",
+ "condition": "background_noise_40",
+ "reference": "The initial cause of the stiffness is neurological; however, the residual effects may be due to soft tissue contracture. You will need a trained physiotherapist to help address this. Muscles are likely to atrophy if they are not given adequate exercise.",
+ "audio_seconds": 14.68,
+ "created_at": "2026-07-06T04:18:55+00:00",
+ "failed": false,
+ "text": "The initial cause of the stiffness is neurological. However, the residual effects may be due to soft tissue contracture. You will need a trained physiotherapist to help address this. Muscles are likely to atrophy if they are not adequate exercise.",
+ "seconds": 0.49
+}

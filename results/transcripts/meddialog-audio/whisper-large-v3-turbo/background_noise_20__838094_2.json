@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__838094_2",
+ "condition": "background_noise_20",
+ "reference": "Hi. I can understand your situation. Premature ejaculation is not a disease of the body, and it is seen in almost all men at some point. It occurs because of your tension and anxiety about performing sexual intercourse or previous negative sexual experiences. Medicines can be taken initially to reduce your anxiety if you are married or engaging in regular sexual activity. Practicing exercises to strengthen the muscles that help in ejaculation and retraining the penis to ejaculate later would be a permanent solution rather than relying on medication. There is no permanent cure with allopathic medicine, Ayurveda, or any other system. It occurs due to many factors, including the following: one. You have been training your penis to ejaculate early all these days. two. You may be very anxious about losing your erection and will hurry up for intercourse. three. The glans of the penis may be very sensitive. four. The desire may be too strong. You can try taking Duralast thirty milligrams two hours before sexual activity, but only until you gain confidence.",
+ "audio_seconds": 62.46,
+ "created_at": "2026-07-06T04:40:42+00:00",
+ "failed": false,
+ "text": "i can understand your situation premature ejaculation is not a disease of the body and it is seen in almost all men at some point it occurs because of your tension and anxiety about performing sexual intercourse or previous negative sexual experiences medicines can be taken initially to reduce your anxiety if you are married or engaging in regular sexual activity practicing exercises to strengthen the muscles that help in ejaculation and retraining the penis to ejaculate later would be a permanent solution rather relying on medication there is no permanent cure with allopathic medicine ayurveda or any other system it occurs due to many factors including the following one you have been training your penis to ejaculate early all these days two you may be very anxious about losing your erection and will hurry up for intercourse three the glands of the penis may be very sensitive four the desire may be too strong you can try taking duralis 30 milligrams two hours before sexual activity but only until you gain confidence",
+ "seconds": 0.628
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63241-0006",
+ "condition": null,
+ "reference": "THE STATE OF MISSISSIPPI SEEMED TO HIM THE STATE OF DESPAIR SO HE SURRENDERED THE REMNANTS OF HIS PATRIMONY TO HIS MOTHER AND SISTERS AND AT NEARLY THIRTY YEARS OF AGE ALIGHTED FOR THE FIRST TIME IN NEW YORK IN THE COSTUME OF HIS PROVINCE WITH FIFTY DOLLARS IN HIS POCKET AND A GNAWING HUNGER IN HIS HEART",
+ "audio_seconds": 21.26,
+ "created_at": "2026-07-05T13:04:45+00:00",
+ "failed": false,
+ "text": "the state of mississippi seemed to him the state of despair so he surrendered the remnants of his patrimony to his mother and sisters and at nearly thirty years of age delighted for the first time in new york in the costume of his province with fifty dollars in his pocket and a gnawing hunger in his heart",
+ "seconds": 0.486
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-61336-0030",
+ "condition": null,
+ "reference": "UKINZER TOOK REFUGE IN HIS CAPITAL SHAPIA WHICH HELD OUT SUCCESSFULLY ALTHOUGH THE SURROUNDING COUNTRY WAS RAVAGED AND DESPOILED",
+ "audio_seconds": 10.84,
+ "created_at": "2026-07-05T23:55:48+00:00",
+ "failed": false,
+ "text": "Ichinger took refuge in his capital, Schärding, which held out successfully although the surrounding country was ravaged and despoiled.",
+ "seconds": 0.819
+}

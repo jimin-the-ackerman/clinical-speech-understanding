@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-86744-0000",
+ "condition": null,
+ "reference": "FRANZ WHO SEEMED ATTRACTED BY SOME INVISIBLE INFLUENCE TOWARDS THE COUNT IN WHICH TERROR WAS STRANGELY MINGLED FELT AN EXTREME RELUCTANCE TO PERMIT HIS FRIEND TO BE EXPOSED ALONE TO THE SINGULAR FASCINATION THAT THIS MYSTERIOUS PERSONAGE SEEMED TO EXERCISE OVER HIM AND THEREFORE MADE NO OBJECTION TO ALBERT'S REQUEST BUT AT ONCE ACCOMPANIED HIM TO THE DESIRED SPOT AND AFTER A SHORT DELAY THE COUNT JOINED THEM IN THE SALON",
+ "audio_seconds": 33.52,
+ "created_at": "2026-07-05T23:57:00+00:00",
+ "failed": false,
+ "text": "Franz, who seemed attracted by some invisible influence towards the count, in which terror was strangely mingled, felt an extreme reluctance to permit his friend to be exposed alone to the singular fascination that this mysterious personage seemed to exercise over him, and therefore made no objection to Albert's request, but at once accompanied him to the desired spot; and, after a short delay, the count joined them in the salon.",
+ "seconds": 1.727
+}

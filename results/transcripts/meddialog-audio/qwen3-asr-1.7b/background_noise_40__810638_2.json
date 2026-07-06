@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__810638_2",
+ "condition": "background_noise_40",
+ "reference": "You have hypothyroidism secondary to radiation therapy to the neck. It requires replacement of thyroid hormones. Both Eltroxin and Thyronorm contain levothyroxine. Eltroxin is more expensive than Thyronorm. If you do not have affordability issues, I would suggest Eltroxin, as I have found it to be very effective in my patients and it is well known to be a quality brand.",
+ "audio_seconds": 41.13,
+ "created_at": "2026-07-06T05:22:36+00:00",
+ "failed": false,
+ "text": "You have hypothyroidism secondary to radiation therapy to the thyroid. It requires replacement of thyroid hormones. Both eltroxin and thyroxin contain level thyroxin. Eltroxin is more expensive than thyroxin. If you do not have affordability issues, I would suggest eltroxin, as I have found it to be very effective in this, and it is well known to be a quality brand. So I tried an at-home facial peel and bees. So I tried an at-home facial peel and bees. So I tried an at-home facial peel and bees. Oh, down, down. We were any facial peel and bees.",
+ "seconds": 1.221
+}

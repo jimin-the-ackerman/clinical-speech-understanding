@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__573858_1",
+ "condition": "clean",
+ "reference": "Hi, sir. I have stones in both of my kidneys measuring around four-six millimeters. For the last two days, I have experienced some pain in my stomach on the lower right side. I have undergone an ultrasound, and it shows a tiny cyst in the parenchyma measuring approximately seven by three point six millimeters. Can you guide me on what the problem is?",
+ "audio_seconds": 23.3,
+ "created_at": "2026-07-06T04:26:39+00:00",
+ "failed": false,
+ "text": "Hi, sir. I have stones in both of my kidneys measuring around 4-6 millimeters. For the last two days, I have experienced some pain in my stomach on the lower right side. I have undergone an ultrasound, and it shows a tiny cyst in the parenchyma measuring approximately 7 by 3.6 millimeters. Can you guide me on what the problem is?",
+ "seconds": 0.623
+}

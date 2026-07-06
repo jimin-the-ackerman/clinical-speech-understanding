@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__917411_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, I had pulmonary embolism thirteen years ago and again in January two thousand and thirteen. I am on Coumadin and monitored closely, and my International Normalized Ratio is consistently between two point eight and three. I also have a vena cava filter. Yesterday, I had a very sharp stabbing pain in my chest that lasted a couple of minutes and then went away. Do you think it is another blood clot?",
+ "audio_seconds": 24.41,
+ "created_at": "2026-07-06T00:46:10+00:00",
+ "failed": false,
+ "text": "So, ask for your temple priest, see if your temple priest can talk to you. And once you get a moderate book, document from one of the temples, which shows proof of your legal name change, that's pretty much it. Then they're good to go.",
+ "seconds": 2.518
+}

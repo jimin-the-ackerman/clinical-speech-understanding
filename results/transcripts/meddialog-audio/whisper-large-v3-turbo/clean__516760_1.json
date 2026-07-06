@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__516760_1",
+ "condition": "clean",
+ "reference": "Hello Doctor, my height is one hundred and sixty-nine centimeters and my weight is ninety-five kilograms. I am fifty years old, male. For the past three months, I have been experiencing stiff finger joints and pain in the outer ridge of my foot in the morning when I get up. My fingers become fine after some time, but the pain stays in my foot. This pain comes and goes, and the frequency is increasing now. My work involves mostly working on the computer and is a sitting job. Please advise me on the future course of action and if any diagnosis is suggested. What could it be?",
+ "audio_seconds": 34.39,
+ "created_at": "2026-07-06T04:44:28+00:00",
+ "failed": false,
+ "text": "Hello, doctor. My height is 169 centimeters, and my weight is 95 kilograms. I am 50 years old, male. For the past three months, I have been experiencing stiff finger joints and pain in the outer ridge of my foot in the morning when I get up. My fingers become fine after some time, but the pain stays in my foot. This pain comes and goes, and the frequency is increasing now. My work involves mostly working on the computer and as a sitting job. Please advise me on the future course of action, and if any diagnosis is suggested, what could it be?",
+ "seconds": 0.365
+}

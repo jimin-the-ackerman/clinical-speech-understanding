@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__349136_1",
+ "condition": "white_noise_6",
+ "reference": "Dear Sir, my son is about six years and five months old. His birth was good and his activities were also good until he was two years and three months. After that, he got meningitis and seizures. He was treated with medications and came back from a coma after eight days. However, he still does not walk or talk, but his eyesight and understanding capacity are good. His body is not balanced and he is unable to walk. Kindly suggest a good medication to stop the seizures and help him with walking balance.",
+ "audio_seconds": 27.73,
+ "created_at": "2026-07-06T05:12:32+00:00",
+ "failed": false,
+ "text": "Here, sir, my son is about six years and five months old. His birth was good, and his activities were also good until he was two years and three months. After that, he got meningitis and seizures. He was treated with medications and came back from a coma after eight days. However, he still does not walk or talk, but his eyesight and understanding capacity are good. His body is not balanced, and he is unable to walk. Kindly suggest a good medication to stop the seizures and help him with walking balance.",
+ "seconds": 0.97
+}

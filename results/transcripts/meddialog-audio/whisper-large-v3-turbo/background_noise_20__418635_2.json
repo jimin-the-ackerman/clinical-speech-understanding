@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__418635_2",
+ "condition": "background_noise_20",
+ "reference": "All of these are allergic effects after a long time of diseases. The skin texture changes, causing this, and chronicity can cause small lymph nodes to enlarge in any area. It is okay to use soap, but also change your oiling pattern. Do not use mustard, coconut, walnut, groundnut, almonds, and soybean oils. Use olive oil for applying and cooking. Use non-toxic shampoos and creams as well. You can use ketoconazole shampoo; you will be relieved further. Take a lot of warm water in the morning.",
+ "audio_seconds": 30.63,
+ "created_at": "2026-07-06T04:39:58+00:00",
+ "failed": false,
+ "text": "all of these are allergic effects after a long time of diseases texture changes causing this and chronicity can cause small lymph nodes to enlarge in any area it is okay to use soap but also change your oiling pattern do not use mustard coconut walnut ground nut almonds and soybean oils use olive oil for applying and cooking use non-toxic shampoos and creams as well you can use ketoconazole shampoo you will be relieved further take a lot of warm water in the morning",
+ "seconds": 0.342
+}

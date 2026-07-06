@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__393418_1",
+ "condition": "white_noise_6",
+ "reference": "Hi Doctor, my dad is eighty-one years old and has been recently diagnosed with an adenoid cystic carcinoma of the left nasal sinus tumor. We have taken two opinions from renowned ear, nose, and throat specialists who have advised total excision as radiation does not work on this cancer. He had a coronary artery bypass graft done in one thousand, nine hundred and ninety-six; otherwise, he is healthy and has no other medical complications. My mother is worried. We understand that this is a slow-growing cancer, but it can be very painful if it affects the nerves, so we thought we should go ahead with surgery, taking into account the heart risks involved. Can you advise if it would be worth taking the risk?",
+ "audio_seconds": 44.46,
+ "created_at": "2026-07-06T04:48:32+00:00",
+ "failed": false,
+ "text": "Hi, doctor. My dad is 81 years old and has been recently diagnosed with an adenoid cystic carcinoma of the left means of sinus tumour. We have taken two opinions from our now and three names include specialists, and we have advised, total excision of radiation does not work on this cancer. He had an IRL coronary artery bypass vaccine in 1996. Otherwise, he is healthy and has more than medical complications. My husband is me. We understand that this is a slow-growing cancer, but it can be really painful if it affects the nerves, so we thought we should go ahead and save it, taking it into account of the heartless syndrome. Can we advise that it would be worth taking this?",
+ "seconds": 0.404
+}

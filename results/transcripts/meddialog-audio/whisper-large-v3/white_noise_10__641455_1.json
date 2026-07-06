@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__641455_1",
+ "condition": "white_noise_10",
+ "reference": "Hello! My mother is sixty-nine years old. She had a stroke, two hip replacements, and arthritis. I give her Instaflex, she goes to physiotherapy and other painkillers. I do not know how to help her; she is always in pain. All her joints are swollen. If you can advise, I would appreciate it. Thank you in advance. Tarana.",
+ "audio_seconds": 21.16,
+ "created_at": "2026-07-06T04:30:41+00:00",
+ "failed": false,
+ "text": "Hello? My mother is 69 years old. She had a stroke, two hip replacements, and arthritis. I give her Instapress. She goes to physiotherapy and other pain schools. I do not know how to help her. She is always in pain. All her joints are swollen. If you can advise, I would appreciate it. Thank you in advance.",
+ "seconds": 0.599
+}

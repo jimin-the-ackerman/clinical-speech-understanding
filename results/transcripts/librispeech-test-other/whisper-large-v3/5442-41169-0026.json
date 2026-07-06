@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41169-0026",
+ "condition": null,
+ "reference": "THE LANDOWNER CHUCKLED UNDER HIS WHITE MUSTACHES",
+ "audio_seconds": 3.48,
+ "created_at": "2026-07-05T13:03:26+00:00",
+ "failed": false,
+ "text": "The landowner chuckled under his white moustaches.",
+ "seconds": 0.175
+}

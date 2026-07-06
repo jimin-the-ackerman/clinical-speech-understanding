@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0003",
+ "condition": null,
+ "reference": "THE STONEWALL GANG NUMBERED PERHAPS FIVE HUNDRED",
+ "audio_seconds": 3.67,
+ "created_at": "2026-07-06T02:38:50+00:00",
+ "failed": false,
+ "text": "The Stonewall Gang numbered perhaps 500.",
+ "seconds": 4.759
+}

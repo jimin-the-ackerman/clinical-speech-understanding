@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96594-0013",
+ "condition": null,
+ "reference": "VERY ILL ADVISED THING TO DO",
+ "audio_seconds": 1.93,
+ "created_at": "2026-07-06T03:24:23+00:00",
+ "failed": false,
+ "text": "Very ill advised thing to do.",
+ "seconds": 0.105
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__525556_1",
+ "condition": "white_noise_6",
+ "reference": "I started out with eighteen days of diarrhea followed by abdominal pains that made me nauseous for sixteen days, along with lower back pain and pain in between my shoulders. I am now experiencing low body temperatures that usually occur in the evening (ninety-six point nine°F in the morning). My body temperature ranges between ninety-seven°F and ninety-eight°F. I have been getting light-headed when looking up and have noticed disorientation and balance issues. Can you help?",
+ "audio_seconds": 30.72,
+ "created_at": "2026-07-06T04:37:29+00:00",
+ "failed": false,
+ "text": "i started out with 18 days of diarrhea followed by abdominal pains that made me nauseous for 16 days along with lower back pain and pain in between my shoulders i am now experiencing low body temperatures really occur in the evening 96.9 of further height in the morning my body temperature ranges between 97 to further high and 98 Fahrenheit i have been getting light-headed when looking up and have noticed disorientation and balance issues can you help",
+ "seconds": 0.772
+}

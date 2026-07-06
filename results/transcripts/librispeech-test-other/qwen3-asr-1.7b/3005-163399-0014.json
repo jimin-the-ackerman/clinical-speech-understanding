@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163399-0014",
+ "condition": null,
+ "reference": "I SEE IT WARN'T A BIT OF USE TO TRY TO GO AHEAD I'D GOT TO THROW UP MY HAND",
+ "audio_seconds": 5.29,
+ "created_at": "2026-07-06T03:28:35+00:00",
+ "failed": false,
+ "text": "I see it warn't a bit of use to try to go ahead. I'd got to throw up my hand.",
+ "seconds": 0.256
+}

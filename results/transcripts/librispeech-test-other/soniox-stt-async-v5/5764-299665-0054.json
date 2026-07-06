@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "5764-299665-0054",
+ "condition": null,
+ "reference": "THE PURITAN BELIEVED THE BIBLE TO BE THE WORD OF GOD AND THIS BELIEF HAS ALWAYS MADE THOSE WHO HELD IT CRUEL AND WRETCHED",
+ "audio_seconds": 10.71,
+ "created_at": "2026-07-06T02:31:37+00:00",
+ "failed": false,
+ "text": "The Puritan believed the Bible to be the Word of God, and this belief has always made those who held it cruel and wretched.",
+ "seconds": 5.224
+}

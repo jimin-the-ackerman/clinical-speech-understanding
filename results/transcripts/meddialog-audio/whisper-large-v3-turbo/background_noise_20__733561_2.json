@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__733561_2",
+ "condition": "background_noise_20",
+ "reference": "Dear parent, this could be due to a Helicobacter pylori infection. Helicobacter pylori infection could be the reason for the inflamed stomach. She should take a breath test to confirm the diagnosis of Helicobacter pylori infection and then start treatment accordingly.",
+ "audio_seconds": 16.13,
+ "created_at": "2026-07-06T04:40:31+00:00",
+ "failed": false,
+ "text": "Dear parent, this could be due to a Helicobacter pylori infection. Helicobacter pylori infection could be the reason for the inflamed stomach. She should take a breath test to confirm the diagnosis of Helicobacter pylori infection, and then start treatment accordingly.",
+ "seconds": 0.228
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12259-0032",
+ "condition": null,
+ "reference": "LET US WIND OUR HORNS BY THE SOUND OF FLAGONS AND BOTTLES AND CRY ALOUD THAT WHOEVER HATH LOST HIS THIRST COME NOT HITHER TO SEEK IT",
+ "audio_seconds": 11.63,
+ "created_at": "2026-07-06T03:19:21+00:00",
+ "failed": false,
+ "text": "Let us wind our horns by the sound of flag guns and bottles, and cry aloud, \"That whoever hath lost his thirst, come nigh hither to seek it.\"",
+ "seconds": 0.35
+}

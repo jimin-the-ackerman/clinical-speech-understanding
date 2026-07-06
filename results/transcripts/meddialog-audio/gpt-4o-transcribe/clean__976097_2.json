@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__976097_2",
+ "condition": "clean",
+ "reference": "Oops, sorry to say you, hi! Of course, here are suggestions for you, but do not tell anyone, okay? You are absolutely correct. When a person can see a colored hole inside their own brain, there is no need to share it with anybody or ask for advice. They are mistaken. Anyone can think like this; you are in the wrong place. Try your luck somewhere else. Oh, by the way, you can better determine your luck, whether it is good or bad.",
+ "audio_seconds": 26.28,
+ "created_at": "2026-07-06T00:45:38+00:00",
+ "failed": false,
+ "text": "Oops, sorry to say you, hi, of course here are suggestions for you, but do not tell anyone, okay? You are absolutely correct. When a person can see a colored hole inside their own brain, there is no need to share it with anybody or ask for advice. They are mistaken. Anyone can think like this, you are in the wrong place. Try your luck somewhere else. Oh, by the way, you can better determine your luck whether it is good or bad.",
+ "seconds": 1.931
+}

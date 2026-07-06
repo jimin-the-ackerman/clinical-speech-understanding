@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__473095_2",
+ "condition": "clean",
+ "reference": "You are probably suffering from severe allergic diathesis, which may have been exacerbated due to some infection. The infection generally affects the airways, which start from the nose up to the lungs, and hence the same infection can cause bleeding through the nose. Another possibility is that you have some sneezing or a runny nose, which can also cause bleeding if you try to clean the nose violently.",
+ "audio_seconds": 22.44,
+ "created_at": "2026-07-06T04:26:19+00:00",
+ "failed": false,
+ "text": "You are probably suffering from severe allergic diaphysis, which may have been exacerbated due to some infection. The infection generally affects the airways, which start from the nose up to the lungs, and hence the same infection can cause bleeding through the nose. Another possibility is that you have some sneezing or a runny nose, which can also cause bleeding if you try to clean the nose violently.",
+ "seconds": 0.638
+}

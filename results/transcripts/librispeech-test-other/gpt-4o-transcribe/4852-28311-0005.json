@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28311-0005",
+ "condition": null,
+ "reference": "MIKE BECAME UNEASY AND FISHED AN ELASTIC BAND OUT OF HIS POCKET MADE A FLICK OF PAPER AND SENT IT SOARING OUT INTO M STREET",
+ "audio_seconds": 7.86,
+ "created_at": "2026-07-05T23:56:08+00:00",
+ "failed": false,
+ "text": "Mike became uneasy and fished an elastic band out of his pocket, made a flick of paper and sent it soaring out into M Street.",
+ "seconds": 1.002
+}

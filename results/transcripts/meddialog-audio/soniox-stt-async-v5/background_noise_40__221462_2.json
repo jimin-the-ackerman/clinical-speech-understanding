@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__221462_2",
+ "condition": "background_noise_40",
+ "reference": "Your symptoms are mostly due to cervical spine disorders. You should have an X-ray of the cervical vertebrae and an MRI if the X-ray is normal. Start with a vitamin B12 injection once every three days.",
+ "audio_seconds": 13.57,
+ "created_at": "2026-07-06T02:50:15+00:00",
+ "failed": false,
+ "text": "Your symptoms are mostly due to cervical spine disorders; you should have an X-ray of the cervical vertebrae and an MRI if the X-ray is normal. Start with a vitamin B12 injection once every 3 days.",
+ "seconds": 4.673
+}

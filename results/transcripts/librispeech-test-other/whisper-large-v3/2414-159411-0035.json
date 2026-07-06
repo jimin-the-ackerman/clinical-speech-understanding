@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-159411-0035",
+ "condition": null,
+ "reference": "YOUR ROAD LIES THAT WAY AND MINE THIS",
+ "audio_seconds": 3.69,
+ "created_at": "2026-07-05T12:57:01+00:00",
+ "failed": false,
+ "text": "Your road lies that way, and mine this.",
+ "seconds": 0.17
+}

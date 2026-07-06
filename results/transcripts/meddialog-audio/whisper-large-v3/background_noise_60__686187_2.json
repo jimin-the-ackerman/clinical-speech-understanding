@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__686187_2",
+ "condition": "background_noise_60",
+ "reference": "Hello! You don't need to worry; I will definitely help you in the best possible way. However, I would like further information for a better assessment of your condition. Do you smoke or consume alcohol? Do you have any relevant medical history? Both sperm count and ejaculation time can be increased with lifestyle modifications and medications. You should take a well-balanced diet with lots of fresh fruits and raw or steamed vegetables, as well as meat, fish, and eggs. Please write back to me with all the relevant information so that I will be able to advise you more precisely. Best wishes.",
+ "audio_seconds": 33.02,
+ "created_at": "2026-07-06T04:23:15+00:00",
+ "failed": false,
+ "text": "hello you don't need to worry i will definitely help you in the best possible way however i would like further information for a better assessment of your condition do you consume alcohol do you have any relevant medical history both sperm count and ejaculation time can be increased with lifestyle modifications and medication you should take a well-balanced diet with lots of fresh fruits and raw or steamed vegetables as well as meat fish and eggs please write back to me with all the relevant information so that i will be able to advise you more precisely best wishes",
+ "seconds": 0.875
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__340860_2",
+ "condition": "background_noise_60",
+ "reference": "Hi. First of all, you have to understand that not all wisdom teeth are functional. What I mean is that most wisdom teeth are removed not to create space, but because they do not serve the purpose of chewing well and can harm the surrounding gums. In orthodontic treatment, the molars cannot be shifted because that will collapse the whole contact between the teeth. There is a rule that the molars have to contact each other at certain points; only then does it help you chew your food efficiently. Hence, there is no harm in pulling out the premolars to gain space because there will not be any gap left behind after the treatment is completed. So, I advise you not to panic because you are losing your premolar tooth, but this is definitely going to help the treatment become a success.",
+ "audio_seconds": 42.75,
+ "created_at": "2026-07-06T02:54:10+00:00",
+ "failed": false,
+ "text": "Hi. First of all, you have to understand that not all wisdom teeth— What I mean is that most wisdom teeth are removed not to create space, but because they do not serve the purpose of chewing well and can harm the surrounding gums. In orthodontic treatment, the molars cannot be shifted, because that will collapse the whole contact between the teeth. There is a rule that the molars have to contact each other at certain points; only then does the patient chew your food efficiently. Hence, there is no harm in pulling out the premolars to gain space, because there will not be any gap left behind after the treatment is completed. So, I advise you not to panic because you are losing your premolar tooth, but this is definitely not how the treatment becomes a success.",
+ "seconds": 8.191
+}

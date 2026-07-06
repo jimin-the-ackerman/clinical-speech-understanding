@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__975505_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, if the coil is in place, you would know by checking the threads through the vagina. If you can find them by palpating with your fingers, it means that the intrauterine device is in place. Spotting after intercourse could be due to an unhealthy cervix with some cervicitis or erosion, vaginitis, a polyp of the cervix or endometrium, or some hormonal imbalance. A local exam should be done to clarify. To know what is causing all these symptoms, you should get a transvaginal sonogram and, if needed, a pelvic magnetic resonance imaging to know the location of the coil. Hope this helps.",
+ "audio_seconds": 39.42,
+ "created_at": "2026-07-06T05:15:22+00:00",
+ "failed": false,
+ "text": "Hello. If the coil was in place, you would know by checking the threads through the vagina. If you can find them by palpating with your fingers, it means that the intrauterine device is in place. Spotting after intercourse could be due to an unhealthy cervix with some cervicitis, or erosion, vaginitis, a polyp of the cervix, or endometrium, or some hormonal imbalance. A local exam should be done to clarify. To know what is causing all these symptoms, you should get a transvaginal sonogram and, if needed, the pelvic magnetic resonance imaging to know the location of the coil. Hope this helps.",
+ "seconds": 1.215
+}

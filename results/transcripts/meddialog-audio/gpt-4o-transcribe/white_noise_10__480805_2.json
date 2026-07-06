@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__480805_2",
+ "condition": "white_noise_10",
+ "reference": "Dear patient, you seem to have hematoma formation on your forehead. If there is no vomiting and dizziness, an internal head injury is less likely, but a computerized tomography scan of the brain should be done to be sure. You should be observant for forty-eight hours after the injury. If nothing happens in forty-eight hours, you should not have a head injury. Apply ice packs on your forehead and take four hundred milligrams of ibuprofen twice a day for pain relief. Take chymoral forte twice a day for swelling.",
+ "audio_seconds": 29.1,
+ "created_at": "2026-07-06T00:45:52+00:00",
+ "failed": false,
+ "text": "But if you're ever feeling under the weather, there is a simple remedy to help you feel better and boost your strength. We often get colds and coughs, and when that happens, you need to boost your strength with a simple remedy. It's very important to take care of your health, and this remedy can help you feel better quickly. Remember to always take good care of yourself.",
+ "seconds": 1.236
+}

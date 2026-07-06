@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__626100_1",
+ "condition": "background_noise_20",
+ "reference": "I am a twenty-four-year-old male. I have shortness of breath, and when I breathe in, my stomach is painful. After eating, I am experiencing heartburn. My left scrotum is painful, but I have had this before in two thousand and five. I am also having bumps on the head of the penis that keep on growing. What could it be?",
+ "audio_seconds": 20.39,
+ "created_at": "2026-07-06T05:17:47+00:00",
+ "failed": false,
+ "text": "I am a 24-year-old male. I have shortness of breath, and when I breathe in, my stomach is painful. After eating, I am experiencing heartburn. My left scrotum is painful, but I have had this before in 2005. I am also having bumps on the head of the penis that keep on growing. What could it be?",
+ "seconds": 0.755
+}

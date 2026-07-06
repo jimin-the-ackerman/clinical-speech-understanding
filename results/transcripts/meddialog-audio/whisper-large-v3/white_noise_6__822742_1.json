@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__822742_1",
+ "condition": "white_noise_6",
+ "reference": "I have a spot in the back of my mouth. It is on the top and looks like a little circle. It is red around it but somewhat yellowish in the middle. I have no pain with it, and my throat is not sore. Sometimes I can feel it with the back of my tongue when I swallow, and sometimes I don't. What could this be?",
+ "audio_seconds": 17.49,
+ "created_at": "2026-07-06T04:38:46+00:00",
+ "failed": false,
+ "text": "I have a spot in the back of my mouth. It is on the top and looks like a little circle. It is red around it, but somewhat yellowish in the middle. I have no pain with it, and my throat is not sore. Sometimes I wet the back of my tongue when I swallow, and sometimes I don't. What could this be?",
+ "seconds": 0.568
+}

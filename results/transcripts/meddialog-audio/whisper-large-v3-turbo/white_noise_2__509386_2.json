@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__509386_2",
+ "condition": "white_noise_2",
+ "reference": "I read your question carefully, and your concern is understandable. While your friend's herniated disc can explain the weakness and numbness in the legs, if the disc in question is in the cervical spine, it does not explain the speech issue. It is not related to the spinal issues; the explanation lies elsewhere, as the brain areas and nerves responsible for speech function are at a higher level than the spinal cord. So your friend needs to have more tests for some other type of involvement, either a brain issue, which should be revealed through a brain magnetic resonance imaging, or a peripheral nerve issue involving the cranial nerves. Tests like lumbar puncture and nerve conduction studies with electromyography might be necessary to investigate that. I hope I have been of help.",
+ "audio_seconds": 46.25,
+ "created_at": "2026-07-06T04:47:18+00:00",
+ "failed": false,
+ "text": "I read your question carefully, and your concern is understandable. While your friend's herniated disc can explain the weakness and numbness in the legs, if the disc in question is in the cervical spine, it does not explain the speech issue. It is not related to the spinal issues. The exclamation lies elsewhere, as the brain areas and nerves responsible for speech function are at a higher level than the spinal cord. So, your friend needs to have more tests for some other type of involvement. Either a brain issue, which should be revealed through a brain magnetic resonance imaging, or a peripheral nerve issue involving the cranial nerves. Tests like lumbar puncture and nerve conduction studies with electromyography might be necessary to investigate that. I hope I have them of help.",
+ "seconds": 0.46
+}

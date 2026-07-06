@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__611559_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. I would suggest that you repeat the pregnancy test immediately, and if it is again positive, then repeat the ultrasound as well to see what is happening. You can start taking folic acid in the meantime. In early pregnancies, sometimes the sac is not seen, and it becomes visible as the pregnancy progresses. So, if the pregnancy test is still positive, then the sac must become visible. If the pregnancy test becomes negative, that means that the previous one could be a false positive.",
+ "audio_seconds": 26.28,
+ "created_at": "2026-07-06T04:15:24+00:00",
+ "failed": false,
+ "text": "Hello, I would suggest that you repeat the pregnancy test immediately, and if it is again positive, then repeat the ultrasound as well to see what is happening. You can start taking folic acid in the meantime. In early pregnancies, sometimes the sac is not seen, and it becomes visible as the pregnancy progresses. So if the pregnancy test is still positive, then the sac become visible. If the pregnancy test becomes negative, that means that the previous one could be a false positive.",
+ "seconds": 0.843
+}

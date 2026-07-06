@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__765046_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, I swallowed a piece of chicken breast. It was probably too big, and when I swallowed it, it hurt and felt like the right side of my throat contracted, which caused me to get scared. I then felt pain in my neck and in my right shoulder. It has never blocked my airway. It has been a week, and I still feel like there is something in my throat down by my collarbone. Could I have scratched something, or could it still be there? The feeling comes and goes. I also have allergies.",
+ "audio_seconds": 30.38,
+ "created_at": "2026-07-06T04:46:17+00:00",
+ "failed": false,
+ "text": "Hi, I swallowed a piece of chicken breast. It was probably too big, and when I swallowed it, it hurt and felt like the right side of my throat contracted, which caused me to get scared. I then felt pain in my neck and in my right shoulder that has never blocked my airway. It has been a week, and I still feel like there is something in my throat down by my collarbone. Could I have scratched something, or could it still be there? The feeling comes and goes. I also have allergies. I also have allergies.",
+ "seconds": 0.793
+}

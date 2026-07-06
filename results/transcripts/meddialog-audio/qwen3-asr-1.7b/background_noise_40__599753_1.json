@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__599753_1",
+ "condition": "background_noise_40",
+ "reference": "Three nights ago, it felt like I swallowed a tiny piece of hamburger in my lung. Later that night, I coughed a lot and vomited a lot. It calmed down after that. I am coughing a little bit, but nothing is coming up. I breathed okay last night and okay today, but I feel like my breathing is funny tonight. I have asthma and had bronchodilator treatment two weeks ago. Should I worry?",
+ "audio_seconds": 23.72,
+ "created_at": "2026-07-06T05:21:46+00:00",
+ "failed": false,
+ "text": "Three nights ago, it felt like I swallowed a tiny piece of hamburger in my lung. Later that night, I coughed a lot and vomited a lot. It calmed down after that. I am coughing a little bit, but not coming up. I breathed okay last night and okay today, but I feel like my breathing is funny tonight. I have asthma and had bronchodilator treatment two weeks ago. Should I worry?",
+ "seconds": 0.84
+}

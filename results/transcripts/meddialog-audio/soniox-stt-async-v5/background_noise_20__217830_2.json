@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__217830_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, I think there is no effect of such substances on sperm. However, one thing that can happen is that it may decrease the chance of pregnancy because of the washing out of sperm. They may not be able to enter the vagina due to the water flow.",
+ "audio_seconds": 13.57,
+ "created_at": "2026-07-06T02:46:43+00:00",
+ "failed": false,
+ "text": "Hi. I think there is no effect of such substances on sperm. However, one thing that can happen is that it may decrease the chance of pregnancy because of the washing out of sperm. They may not be able to enter the vagina due to the water flow.",
+ "seconds": 4.839
+}

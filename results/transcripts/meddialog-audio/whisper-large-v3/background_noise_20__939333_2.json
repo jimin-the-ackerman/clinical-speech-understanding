@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__939333_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, if you have had unprotected intercourse around the fertile period, then you have a very good chance of conception; however, your symptoms are not clearly suggestive of that. Please wait for your next period and take a home pregnancy test with a fresh early morning sample of urine three to seven days later if you miss your period. Otherwise, you can have the serum beta-human chorionic gonadotropin titers tested, coupled with a trans-vaginal ultrasound, and see a specialist for further evaluation of the situation. I hope this helps.",
+ "audio_seconds": 34.9,
+ "created_at": "2026-07-06T04:16:54+00:00",
+ "failed": false,
+ "text": "Hello, if you have had unprotected intercourse around the fertile period, then you have a very good chance of conception. However, your symptoms are not clearly suggestive of that. Please wait for your next period and take a home pregnancy test with a fresh early morning sample of urine of 3-7mg if you miss your period. Otherwise, you can have the serum beta human chorionic gonadotropin titers tested, coupled with a transvaginal ultrasound, and see a specialist for further evaluation of the situation. I hope this helps.",
+ "seconds": 0.958
+}

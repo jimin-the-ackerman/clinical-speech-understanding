@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__157706_2",
+ "condition": "white_noise_2",
+ "reference": "Hello! It might be an infection of your kidneys or urinary tract as a complication of the throat infection from Streptococcus. You have to do a urine analysis and a throat culture, too. Antistreptolysins in the blood show if you have a Streptococcus infection. If yes, you have to take antibiotics. Thank you!",
+ "audio_seconds": 19.46,
+ "created_at": "2026-07-06T04:32:33+00:00",
+ "failed": false,
+ "text": "Hello! It might be an infection of your kidneys or urinary tract as a complication of the throat infection from streptococcus. You have to do a urine analysis and the throat culture too. Anti-streptolysins in the blood show if you have a streptococcus infection. If yes, you have to take antibiotics. Thank you!",
+ "seconds": 0.627
+}

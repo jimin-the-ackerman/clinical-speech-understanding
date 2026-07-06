@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__243693_1",
+ "condition": "background_noise_60",
+ "reference": "Hello Doctor, my daughter went ice skating last month and she fell a few times, but she was able to stand up and skate again. The next day, I saw bruises on her legs, especially in the knee area, but that disappeared after a few days. She mentioned that she still feels some pain, but she can walk, move around, and jump with it, so I thought it was fine. However, recently, I noticed that she cannot stretch it to its maximum. Although she can move around with it, she says there is still pain when she stretches it too much. What do you think is the problem? It is not broken, right? We cannot have it X-rayed due to the lockdown.",
+ "audio_seconds": 43.61,
+ "created_at": "2026-07-06T04:21:22+00:00",
+ "failed": false,
+ "text": "Hello, doctor. My daughter went ice skating last month, and she fell a few times. But she was able to stand up and skate again. The next day, I saw bruises on her legs, especially in the knee area. But that disappeared after a few days. She mentioned that she still feels some pain, but she can walk, move around, and jump with it. So I thought it was fine. However, recently, I noticed that she can't stretch it to its maximum. Although she can move around with it, she says there is still pain when she stretches it too much. What do you think is the problem? It is not broken, right? We cannot have it x-rayed due to the lockdown.",
+ "seconds": 1.292
+}

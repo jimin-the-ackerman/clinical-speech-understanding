@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__743226_2",
+ "condition": "clean",
+ "reference": "You can apply some petroleum jelly or other soothing ointment when his mother wipes his bottom. Even if you do not see a rash, there can be irritation internally, so applying a soothing ointment with a rectal thermometer as if you were taking his temperature may be one way to apply the ointment. However, do your best to apply something soothing to the area, use soft wipes, and be very gentle. If the symptoms do not improve in twenty-four to forty-eight hours, you will need to have him evaluated by a pediatrician. I wish him a speedy recovery!",
+ "audio_seconds": 34.56,
+ "created_at": "2026-07-06T00:45:22+00:00",
+ "failed": false,
+ "text": "You can apply some petroleum jelly or other soothing ointments when his mother wipes his bottom. Even if you do not see a rash, there can be irritation internally, so applying a soothing ointment with a rectal thermometer as if you were taking his temperature may be one way to apply the ointment. However, do your best to apply something soothing to the area. Use soft wipes and be very gentle. If the symptoms do not improve in 24 to 48 hours, you will need to have him evaluated by a paediatrician. I wish him a recovery.",
+ "seconds": 1.911
+}

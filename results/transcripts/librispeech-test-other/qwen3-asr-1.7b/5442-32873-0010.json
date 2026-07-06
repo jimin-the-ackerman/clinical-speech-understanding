@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-32873-0010",
+ "condition": null,
+ "reference": "AND SHE THREW BACK HER VEIL AND GOING HURRIEDLY TO THE TOILET MECHANICALLY SURVEYED HERSELF IN THE GLASS",
+ "audio_seconds": 6.54,
+ "created_at": "2026-07-06T03:33:15+00:00",
+ "failed": false,
+ "text": "And she threw back her veil, and going hurriedly to the toilet, mechanically surveyed herself in the glass.",
+ "seconds": 0.264
+}

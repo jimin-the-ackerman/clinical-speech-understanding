@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__204555_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, I am two months pregnant and my Thyroid Stimulating Hormone level is eight point seven seven. I have my appointment with the gynecologist today evening, but meanwhile, I just want to check if eight point seven seven is concerning. I remember taking a thyroid test some time ago and noticed it was perfectly normal. What made this Thyroid Stimulating Hormone level go high all of a sudden? Please help.",
+ "audio_seconds": 25.0,
+ "created_at": "2026-07-06T04:36:16+00:00",
+ "failed": false,
+ "text": "Hi, I'm Kimo's pregnant, and my thyroid-stimulating hormone level is 8.77. I had my appointment with the gynecologist today evening, but meanwhile, I just want to check if 8.77 is concerning. I remember taking a thyroid test some time ago, and noticed it was perfectly normal. What made this thyroid-stimulating hormone level go high all of a sudden? It was how it...",
+ "seconds": 0.788
+}

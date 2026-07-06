@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131564-0012",
+ "condition": null,
+ "reference": "BUT HANG IT THAT'S NOT MY FAULT",
+ "audio_seconds": 3.15,
+ "created_at": "2026-07-06T03:33:08+00:00",
+ "failed": false,
+ "text": "But hang it, that's not my fault.",
+ "seconds": 0.135
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__583757_2",
+ "condition": "white_noise_6",
+ "reference": "Family history is a risk factor for heart disease, but it does not mean that you are having some heart problem. If you are able to perform all your household work, including some heavy exertion and morning walks, without any symptoms, then you are healthy. Relax and live your healthy life.",
+ "audio_seconds": 16.98,
+ "created_at": "2026-07-06T05:13:41+00:00",
+ "failed": false,
+ "text": "Family history is a risk factor for heart disease, but it does not mean that you are heart problems. If you are able to perform all your household work, including some heavy exertion and long walks, without any symptoms, then you are healthy, relaxed, and live your healthy life.",
+ "seconds": 0.545
+}

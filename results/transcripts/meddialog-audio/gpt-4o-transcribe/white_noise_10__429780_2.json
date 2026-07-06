@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__429780_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. I have been through your question and understand your concern. The situations do not seem related to each other. Loss of consciousness is not uncommon, and most of the causes are benign. The reason could be cardiocirculatory or neurological. If you were having a bath or urinating or defecating before the loss of consciousness, then it could be a vasovagal response, meaning that you should see a cardiologist. Otherwise, you should see a neurologist. I hope this helps. Please feel free to use your medical health care provider again.",
+ "audio_seconds": 31.4,
+ "created_at": "2026-07-06T00:45:51+00:00",
+ "failed": false,
+ "text": "A different way of thinking and shifting their perspective.",
+ "seconds": 0.713
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__227253_1",
+ "condition": "white_noise_10",
+ "reference": "Hello Doctor, my husband was fifty-one years old. In two thousand and seven, he had an unfortunate accident in which his left hand was severed. The doctor was able to reattach it, but he could no longer use it. He developed high blood pressure. When he and I got together in two thousand and ten, his blood pressure was normal, but he was still on medication for it. He had approximately eleven surgeries on that hand. He had a muscle taken from his right thigh and placed on his left hand. My question is, should he have been on blood thinners?",
+ "audio_seconds": 33.54,
+ "created_at": "2026-07-06T03:01:00+00:00",
+ "failed": false,
+ "text": "Hello, doctor, my husband is 51 years old. In 2007 he had an unfortunate accident in which his left hand was severed. The doctor was able to reattach it, but he could no longer use it. He developed high blood pressure. When he and I got together in 2010, his blood pressure was normal, but he was still on medication for it. He had approximately 11 surgeries on that hand. He had a muscle taken from his right thigh and placed on his left hand. My question is, should he have been on blood thinners?",
+ "seconds": 14.504
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__414750_2",
+ "condition": "background_noise_20",
+ "reference": "Seasonal symptoms do suggest an allergic origin.",
+ "audio_seconds": 3.84,
+ "created_at": "2026-07-06T05:16:50+00:00",
+ "failed": false,
+ "text": "Seasonal symptoms do suggest an allergic origin.",
+ "seconds": 0.131
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-156975-0004",
+ "condition": null,
+ "reference": "EVERY ONE WHO IS TURBULENT HAS BEEN FOUND BY KING MERNEPTAH THE TESTIMONY OF THE OLDEST BIBLICAL NARRATIVES REGARDING THE SOJOURN OF THE HEBREWS IN EGYPT IS ALSO IN PERFECT ACCORD WITH THE PICTURE WHICH THE CONTEMPORARY EGYPTIAN INSCRIPTIONS GIVE OF THE PERIOD",
+ "audio_seconds": 18.13,
+ "created_at": "2026-07-06T03:15:59+00:00",
+ "failed": false,
+ "text": "Every one whose servant has been found by Geminus Path. The testimony of the oldest biblical narrative, regarding the sojourn of the Hebrews in Egypt, is also in perfect accord with the picture, which contemporary Egyptian inscriptions, give of the period.",
+ "seconds": 0.509
+}

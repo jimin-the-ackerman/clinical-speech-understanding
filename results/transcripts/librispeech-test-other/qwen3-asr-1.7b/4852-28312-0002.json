@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28312-0002",
+ "condition": null,
+ "reference": "WHAT WITH THE ONE WINDOW AND THE LOWERING DAY OUTSIDE THE LONG NARROW SHOP WAS SOMBER",
+ "audio_seconds": 5.66,
+ "created_at": "2026-07-06T03:32:31+00:00",
+ "failed": false,
+ "text": "What with the one window and the lowering day outside, the long narrow shop was sombre.",
+ "seconds": 0.221
+}

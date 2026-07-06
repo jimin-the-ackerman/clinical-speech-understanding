@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__674251_2",
+ "condition": "clean",
+ "reference": "Like people need to eat food for nutrition, folic acid is one part of the nutrition necessary for blood cells. If folic acid is low, people can develop anemia. In thalassemia minor, there are low levels of folic acid, so patients are supplemented with folic acid from external sources.",
+ "audio_seconds": 19.2,
+ "created_at": "2026-07-06T05:29:33+00:00",
+ "failed": false,
+ "text": "Like people need to eat food for nutrition, folic acid is one part of the nutrition necessary for blood cells. If folic acid is low, people can develop anemia. In thalassemia minor, there are low levels of folic acid, so patients are supplemented with folic acid from external sources.",
+ "seconds": 0.619
+}

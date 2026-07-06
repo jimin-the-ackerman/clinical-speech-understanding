@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96591-0018",
+ "condition": null,
+ "reference": "YES IF OTHER WAYS FAILED HE COULD ESCAPE UP THE CHIMNEY",
+ "audio_seconds": 3.11,
+ "created_at": "2026-07-05T23:57:49+00:00",
+ "failed": false,
+ "text": "Yes, if other ways failed, he could escape up the chimney.",
+ "seconds": 0.6
+}

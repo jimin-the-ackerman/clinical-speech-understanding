@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__273012_1",
+ "condition": "white_noise_2",
+ "reference": "My wife has had pain on her right side below the ribcage for two weeks. It is a constant sharp pain. The emergency room physician said her blood work was good and her ultrasound for the gallbladder was fine. Yet it is still there. I can squeeze her side and feel that it is a small spherical structure that is movable freely. She is an African American female, forty-six years of age, weighing three hundred and twenty-five pounds. Please advise on what this may be.",
+ "audio_seconds": 29.78,
+ "created_at": "2026-07-06T05:08:42+00:00",
+ "failed": false,
+ "text": "My wife has had pain on her right side below the ribcage for two weeks. It is a constant sharp pain. The emergency room physician said her blood work was good and her ultrasound for the gallbladder was fine, yet it is still there. I can squeeze her side and feel that it is a small spherical structure that is movable freely. She is an African American female, forty-six years of age, weighing three hundred and twenty-five pounds. Please advise on what this may be.",
+ "seconds": 0.893
+}

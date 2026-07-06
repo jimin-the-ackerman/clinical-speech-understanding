@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41168-0002",
+ "condition": null,
+ "reference": "HE WAS SHOUTING FOR THE VERY COURSE SERGEY IVANOVITCH HAD PROPOSED BUT IT WAS EVIDENT THAT HE HATED HIM AND ALL HIS PARTY AND THIS FEELING OF HATRED SPREAD THROUGH THE WHOLE PARTY AND ROUSED IN OPPOSITION TO IT THE SAME VINDICTIVENESS THOUGH IN A MORE SEEMLY FORM ON THE OTHER SIDE",
+ "audio_seconds": 19.18,
+ "created_at": "2026-07-06T03:33:19+00:00",
+ "failed": false,
+ "text": "He was shouting for the very course Sergey Ivanovitch had proposed, but it was evident that he hated him and all his party, and this feeling of hatred spread through the whole party, and roused in opposition to it the same vindictiveness, though in a more seemly form on the other side.",
+ "seconds": 0.665
+}

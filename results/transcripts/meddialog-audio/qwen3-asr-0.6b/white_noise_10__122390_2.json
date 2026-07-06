@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__122390_2",
+ "condition": "white_noise_10",
+ "reference": "Dear patient, it seems you have a back sprain, which needs proper rest. Avoid running for a week and take painkillers like diclofenac twice a day. Then start gradually increasing running so that your muscles get adjusted to the strain.",
+ "audio_seconds": 13.74,
+ "created_at": "2026-07-06T05:04:31+00:00",
+ "failed": false,
+ "text": "Be your patient. Seems you have a back strain, which means stop a rest. Avoid running for a week and take painkillers like the first nap twice a day. Then start gradually increasing running so that your muscles get adjusted to strain.",
+ "seconds": 0.467
+}

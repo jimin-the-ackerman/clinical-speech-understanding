@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__777968_1",
+ "condition": "clean",
+ "reference": "I am twenty-seven years old and I have a condition referred to as gynecomastia, commonly known as man-boobs. I am a research student. I am extremely depressed, and because of this, I am unable to focus on my research, which greatly affects my normal social and personal life. I need urgent medical advice to fully resolve this issue. I have been experiencing this for the past five to six years.",
+ "audio_seconds": 27.56,
+ "created_at": "2026-07-06T05:29:58+00:00",
+ "failed": false,
+ "text": "I am 27 years old, and I have a condition referred to as gynecomastia, commonly known as man boobs. I am a research student. I am extremely depressed, and because of this, I am unable to focus on my research, which greatly affects my normal social and personal life. I need urgent medical advice to fully resolve this issue. I have been experience for the past five to six years.",
+ "seconds": 0.807
+}

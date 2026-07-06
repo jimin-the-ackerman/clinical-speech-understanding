@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280057-0004",
+ "condition": null,
+ "reference": "MY BROTHER JAMES WAS BORN JANUARY FIFTEENTH EIGHTEEN FORTY EIGHT JOHN IN EIGHTEEN FIFTY ONE AND ROBERT IN DECEMBER EIGHTEEN FIFTY THREE",
+ "audio_seconds": 7.95,
+ "created_at": "2026-07-05T13:14:04+00:00",
+ "failed": false,
+ "text": "My brother James was born January 15, 1848, John in 1851, and Robert in December 1853.",
+ "seconds": 0.125
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__139448_1",
+ "condition": "background_noise_60",
+ "reference": "I have had a great recovery thus far. I took my twin girls out yesterday afternoon and had to lift the double stroller into my sport utility vehicle. I literally forgot that I even had surgery and just tried to pick it up. It was super heavy and I barely got it in. Last night I woke up to pains in my left abdomen above my scar, and today it is noticeably bigger. Is this something I should be concerned with? I do not go back to the doctor for eleven days and I am afraid it could be something serious.",
+ "audio_seconds": 32.77,
+ "created_at": "2026-07-06T04:57:14+00:00",
+ "failed": false,
+ "text": "I have had a great recovery thus far. I took my twin girls out yesterday afternoon and had to lift the double stroller into my sport utility vehicle. I literally forgot that I even had surgery, and just tried to pick it up. It was super heavy and I barely got it in. Last night I woke up to pains in my left abdomen above my scar, and today it is noticeably bigger. Is this something I should be concerned with? I do not go back to the doctor for eleven days, and I am afraid it could be something serious.",
+ "seconds": 1.032
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__647341_1",
+ "condition": "clean",
+ "reference": "I am experiencing moderate pain on my left side. Upon further examination, I noticed a lump that is very sore when pressed. It is approximately halfway between my hip and underarm area. I am sixty-one years of age and will be sixty-two in December. I had some reconstruction surgery four weeks ago due to breast cancer.",
+ "audio_seconds": 20.57,
+ "created_at": "2026-07-06T02:58:45+00:00",
+ "failed": false,
+ "text": "I am experiencing moderate pain on my left side. Upon first examination, I noticed a lump that is very sore when pressed. It is approximately halfway between my hip and underarm area. I am 61 years of age and will be 62 in December. I had some reconstruction surgery 4 weeks ago due to breast.",
+ "seconds": 4.595
+}

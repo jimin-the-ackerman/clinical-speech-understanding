@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0027",
+ "condition": null,
+ "reference": "AN I ASKS YOU LET ME COME ALONGER YOU GOT THAT",
+ "audio_seconds": 3.75,
+ "created_at": "2026-07-05T12:56:06+00:00",
+ "failed": false,
+ "text": "And I ask you, let me come along with you. Got that?",
+ "seconds": 0.194
+}

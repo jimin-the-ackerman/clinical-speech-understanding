@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__256085_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, I want to know why my mother and now a friend have infections in their legs. What can be done? My mother passed away, and my friend hasn't. Does she need more exercise? She is eighty-three, so she is not very young. She goes out a lot, and I see her rubbing her legs a lot. Does that make it worse? It seems like nothing helped my mother or her with those rubs.",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T04:32:53+00:00",
+ "failed": false,
+ "text": "I want to know why my mother, and now a friend, have infections in their legs. What can be done? My mother passed away, and my friend hasn't. Does she need more exercise? She is 83, so she is not very young. She goes out a lot, and I see her rubbing her legs a lot. Does that make it worse? It seems like nothing helped my mother or her with those rubs.",
+ "seconds": 0.795
+}

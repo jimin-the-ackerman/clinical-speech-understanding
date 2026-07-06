@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180294-0007",
+ "condition": null,
+ "reference": "EDUCATION FAMILY FEELING THE SENSE OF DUTY THE FAMILY ARE STRONG SENTINELS BUT THERE ARE NO SENTINELS SO VIGILANT AS NOT TO BE DECEIVED BY A GIRL OF SIXTEEN TO WHOM NATURE BY THE VOICE OF THE MAN SHE LOVES GIVES THE FIRST COUNSELS OF LOVE ALL THE MORE ARDENT BECAUSE THEY SEEM SO PURE",
+ "audio_seconds": 21.69,
+ "created_at": "2026-07-06T02:23:36+00:00",
+ "failed": false,
+ "text": "Education, family feeling, a sense of duty—the family are strong sentinels, but there are no sentinels so vigilant as not to be deceived by a girl of 16 to whom nature, by the voice of the man she loves, gives the first counsel of love, all the more ardent because they seem so pure.",
+ "seconds": 9.043
+}

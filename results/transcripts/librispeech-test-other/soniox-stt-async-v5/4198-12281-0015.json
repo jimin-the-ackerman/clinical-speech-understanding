@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12281-0015",
+ "condition": null,
+ "reference": "IN THE MEANTIME FRIAR JOHN WITH HIS FORMIDABLE BATON OF THE CROSS GOT TO THE BREACH WHICH THE ENEMIES HAD MADE AND THERE STOOD TO SNATCH UP THOSE THAT ENDEAVOURED TO ESCAPE",
+ "audio_seconds": 15.08,
+ "created_at": "2026-07-06T02:25:06+00:00",
+ "failed": false,
+ "text": "In the meantime, Friar John, with his formidable baton of the cross, got to the breach which the enemies had made, and there stood to snatch up those that endeavored to escape.",
+ "seconds": 4.837
+}

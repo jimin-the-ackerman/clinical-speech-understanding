@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__382271_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, thank you for asking. I am really sorry to say that the removal of basal cell carcinoma will not cause the swelling of the lymph node, but the malignancy itself would be responsible for this swelling. Please consult with your oncologist. I wish you a rapid recovery. Have a good day.",
+ "audio_seconds": 14.17,
+ "created_at": "2026-07-06T05:05:25+00:00",
+ "failed": false,
+ "text": "Hi, thank you, Professor. I am really sorry to say that the removal of basal cell carcinoma will not cause the swelling of the lymph nodes, but the malignancy itself will be responsible for the swelling. Please consult with your oncologist. I wish you a rapid recovery. Have a good day.",
+ "seconds": 0.562
+}

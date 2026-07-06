@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__725078_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, thank you for asking. The burning sensation near the right costal area indicates many pathologies, but you mentioned that the magnetic resonance imaging and computed tomography have detected some lesions. The exact nature of these lesions is not stated here. Your symptoms and the suspicious pathologies do not correlate. Other serological tests are required to confirm the diagnosis. The problem may lie in the stomach or in your stress area, functional condition. Multifocal tachycardia needs further studies. There is nothing here to support that it is multifocal atrial tachycardia. Have a nice day.",
+ "audio_seconds": 39.08,
+ "created_at": "2026-07-06T00:47:31+00:00",
+ "failed": false,
+ "text": "Did you ever think that you would accomplish as much as you have or did you have even greater ambitions?",
+ "seconds": 1.207
+}

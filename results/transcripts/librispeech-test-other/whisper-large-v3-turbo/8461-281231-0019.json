@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0019",
+ "condition": null,
+ "reference": "BUT IN OTHER PARTS THE BESIEGERS PURSUED THE DEFENDERS OF THE CASTLE FROM CHAMBER TO CHAMBER AND SATIATED IN THEIR BLOOD THE VENGEANCE WHICH HAD LONG ANIMATED THEM AGAINST THE SOLDIERS OF THE TYRANT FRONT DE BOEUF",
+ "audio_seconds": 12.71,
+ "created_at": "2026-07-05T13:15:00+00:00",
+ "failed": false,
+ "text": "but in other parts the besiegers pursued the defenders of the castle from chamber to chamber and satiated in their blood the vengeance which had long animated them against the soldiers of the tyrant front above",
+ "seconds": 0.136
+}

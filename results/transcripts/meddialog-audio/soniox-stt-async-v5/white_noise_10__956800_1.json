@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__956800_1",
+ "condition": "white_noise_10",
+ "reference": "Today we went to Burger King and my daughter was in her car seat when the lady at the counter put our fries on the tray. They tipped over into her car seat, flaming hot. She screamed; the fries burned her little neck, skin came off. What should I put on it to help her with the redness?",
+ "audio_seconds": 15.7,
+ "created_at": "2026-07-06T03:04:38+00:00",
+ "failed": false,
+ "text": "Today we went to Burbank, and then my daughter was in a car seat in the lady at the counter. Could I just say, they took over into my car seat's waiting house? She screamed, the fries burned through the lunette, skin came off. They should have put on it to help relieve the redness.",
+ "seconds": 5.218
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__753004_2",
+ "condition": "background_noise_20",
+ "reference": "Usually, the gallbladder contracts after eating, but this is mainly with any type of fat. Therefore, if you want to avoid pain as much as possible after eating, then avoid any sort of fatty meals. Orange juice or any citrus fruits—juices can cause you to experience heartburn or stomach discomfort, but should not trigger a gallbladder attack. If you experience any fever along with the pain, go straight to the emergency room.",
+ "audio_seconds": 26.54,
+ "created_at": "2026-07-06T04:52:22+00:00",
+ "failed": false,
+ "text": "Usually, the gallbladder contracts after eating, but this is mainly with any type of fat. Therefore, if you want to avoid pain as much as possible after eating, then avoid any sort of fatty meals, orange juice, or any citrus fruits. Juices can cause you to experience heartburn or stomach discomfort, but should not trigger a gallbladder attack. If you experience any fever along with, go straight to the emergency room.",
+ "seconds": 0.802
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__140666_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. Please send a few more high-quality photographs. It could be molluscum contagiosum.",
+ "audio_seconds": 6.31,
+ "created_at": "2026-07-06T05:34:58+00:00",
+ "failed": false,
+ "text": "Hello, please send a few more high-quality photographs. It could be molesting, contagious, and.",
+ "seconds": 0.234
+}

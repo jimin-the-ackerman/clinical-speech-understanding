@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__787614_2",
+ "condition": "background_noise_60",
+ "reference": "You can use an ice pack, but do not use it directly. Wrap it in a towel first, then use it, as it will relieve your pain and swelling. You can also do facial exercises. Additionally, you can take physiotherapy to help reduce the symptoms. That will be helpful for you. I wish you good health.",
+ "audio_seconds": 15.19,
+ "created_at": "2026-07-06T04:59:49+00:00",
+ "failed": false,
+ "text": "You can use an ice pack, but do not use it directly. Wrap it in a towel first, then use it, as it will relieve your pain and swelling. You can also do facial exercises. Additionally, you can take physiotherapy to help reduce the symptoms. That will be helpful for you. I wish you good health.",
+ "seconds": 0.62
+}

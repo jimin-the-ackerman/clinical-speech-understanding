@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__227091_1",
+ "condition": "background_noise_40",
+ "reference": "Recently, I have developed puffiness below my eyes and an irregular heartbeat. Since November twenty-nine, I have ceased taking my fifty micrograms of thyroxine, as a blood test showed my Thyroid Stimulating Hormone indicated it was too much at this time. My weight is also creeping up, having gained five kilograms in the past twelve months. I feel quite lethargic, though I guess this is because I sleep badly.",
+ "audio_seconds": 25.77,
+ "created_at": "2026-07-06T04:17:44+00:00",
+ "failed": false,
+ "text": "Recently, I have developed puffiness below my eyes and an irregular heartbeat. Since November 29, I have ceased taking my 50 micrograms of thyroxin as a blood test showed my thyroid-stimulating hormone indicated it was too much at this time. My weight is also creeping up, having 5 kilograms in the past 12 months. I feel quite lethargic, though I guess this is because I sleep badly.",
+ "seconds": 0.693
+}

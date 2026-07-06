@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__214626_1",
+ "condition": "background_noise_20",
+ "reference": "I am forty-six years old and have been diagnosed with cervical cancer. I have had a polyp and a cone biopsy done within the past three weeks. I have been having a foul-smelling discharge from my vagina and am wondering if there is something I can do while I wait for the scans and radiation to begin to help with the smell.",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T00:41:56+00:00",
+ "failed": false,
+ "text": "I am 46 years old and have been diagnosed with cervical cancer. I have had a polyp and a cone biopsy done within the past three weeks. I have been having a foul-smelling discharge from my vagina and am wondering if there is something I can do while I wait for the scans and radiation to begin to help with the smell.",
+ "seconds": 1.173
+}

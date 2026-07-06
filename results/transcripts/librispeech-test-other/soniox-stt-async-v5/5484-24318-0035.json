@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24318-0035",
+ "condition": null,
+ "reference": "SHOUTED HIS FRIEND SOTELES IN JOYFUL SURPRISE IN THE MIDST OF THIS PAINFUL WALK HERMON",
+ "audio_seconds": 5.23,
+ "created_at": "2026-07-06T02:30:59+00:00",
+ "failed": false,
+ "text": "Shouted his friend Sotylus in joyful surprise in the midst of his painful walk. Hermon!",
+ "seconds": 4.619
+}

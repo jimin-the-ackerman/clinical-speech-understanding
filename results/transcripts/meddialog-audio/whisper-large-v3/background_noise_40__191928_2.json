@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__191928_2",
+ "condition": "background_noise_40",
+ "reference": "Your doctor may have performed an echocardiogram. Usually, a bicuspid aortic valve causes problems in cases where the heart is stressed, such as during pregnancy, anemia, infection, etc. Therefore, the precipitating cause will be treated, and you will experience relief. However, the valve may need to be replaced.",
+ "audio_seconds": 20.31,
+ "created_at": "2026-07-06T04:17:29+00:00",
+ "failed": false,
+ "text": "Your doctor may have performed an echocardiogram. Usually, a bicuspid aortic valve causes problems in places where the heart is stressed, such as during pregnancy, anemia, infection, etc. Therefore, the precipitating cause will be treated and you will experience relief. However, the valve may need to be replaced.",
+ "seconds": 0.589
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__236074_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. It could be a normal bony swelling that is usually seen because of a prominent sternum. If she is not experiencing any pain or redness, there is no need to worry.",
+ "audio_seconds": 9.13,
+ "created_at": "2026-07-06T05:05:03+00:00",
+ "failed": false,
+ "text": "Hello. It could be a model boat designer, but it's moving too soon because of a promise turning. If she is not a series, any detail hits, there is no need to worry.",
+ "seconds": 0.392
+}

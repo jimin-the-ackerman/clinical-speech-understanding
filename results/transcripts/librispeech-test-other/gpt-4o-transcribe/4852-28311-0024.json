@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28311-0024",
+ "condition": null,
+ "reference": "HE HAD NEVER SEEN ANYONE GO INTO MISTER WICKER'S SHOP NOW HE THOUGHT OF IT",
+ "audio_seconds": 3.7,
+ "created_at": "2026-07-05T23:56:10+00:00",
+ "failed": false,
+ "text": "He had never seen anyone go into Mr. Hooker's shop, now he thought of it.",
+ "seconds": 0.876
+}

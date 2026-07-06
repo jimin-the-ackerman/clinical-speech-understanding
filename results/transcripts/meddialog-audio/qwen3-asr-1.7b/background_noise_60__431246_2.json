@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__431246_2",
+ "condition": "background_noise_60",
+ "reference": "Ovulation pain may simulate labor pain, but it is not exactly like labor pain. This is due to hormonal changes occurring with age. Your body requires maintenance—do regular exercise and take multivitamins. Additionally, get your hemoglobin level checked and consider taking antispasmodics.",
+ "audio_seconds": 20.14,
+ "created_at": "2026-07-06T05:24:46+00:00",
+ "failed": false,
+ "text": "Ovulation pain may simulate labor pain, but it is not exactly like labor pain. This is due to hormone changes occurring with age. Your body requires maintenance. Do regular exercise and take multivitamins. Additionally, get your hemoglobin level checked and consider taking anti-spasmodics.",
+ "seconds": 0.584
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__840532_1",
+ "condition": "white_noise_6",
+ "reference": "Yes, I was diagnosed with epididymitis on Sunday, and I have been taking Bactrim for the infection, but the swelling doesn't seem to be going away. So, about how long does it take for the swelling to start to go down? The urine and ultrasound came back negative.",
+ "audio_seconds": 16.73,
+ "created_at": "2026-07-06T04:49:19+00:00",
+ "failed": false,
+ "text": "Yes, I was diagnosed with Epididemitis on Sunday, and I have been taking vaccine for the infection, but the swelling doesn't seem to be going. So, about how long does it take for the swelling to start to go down? The urine and ultrasound came back negative.",
+ "seconds": 0.215
+}

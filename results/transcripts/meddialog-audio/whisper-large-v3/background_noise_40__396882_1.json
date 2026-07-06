@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__396882_1",
+ "condition": "background_noise_40",
+ "reference": "My son has liver damage and kidney damage due to an overdose of alcohol and ibuprofen. Additionally, he has used crack cocaine. He claims that crack has nothing to do with his kidneys or his liver being damaged. I know that the doctor told him he needs to stay away from all of those substances. Is this true?",
+ "audio_seconds": 22.53,
+ "created_at": "2026-07-06T04:18:27+00:00",
+ "failed": false,
+ "text": "My son has liver damage and kidney damage due to an overdose of alcohol and ibuprofen. Additionally, he has used crack cocaine. He claims that crack has nothing to do with his kidneys or his liver being damaged. I know that the doctor told him he needs to stay away from all of those substances. Is this true?",
+ "seconds": 0.628
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__855638_1",
+ "condition": "white_noise_10",
+ "reference": "My husband has had a lump appear in front of his right ear, and it is getting larger. He has had two surgeries for skin cancers on his scalp, which required radical surgery. Could the lump be related to the cancers since one has not completely healed? Is this a gland in the area of the ear?",
+ "audio_seconds": 19.03,
+ "created_at": "2026-07-06T04:31:43+00:00",
+ "failed": false,
+ "text": "my husband has had a lump appear in front of his right ear and it is getting larger he has had two surgeries for skin cancers on his scalp which required radical surgery could the lump be related to the cancer since one has not completed here is this a gland in the area of the ear",
+ "seconds": 0.5
+}

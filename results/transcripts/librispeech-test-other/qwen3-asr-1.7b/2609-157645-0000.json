@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-157645-0000",
+ "condition": null,
+ "reference": "EVIDENTLY THE INTENTION WAS TO MAKE THINGS PLEASANT FOR THE ROYAL FOE OF TOBACCO DURING HIS VISIT",
+ "audio_seconds": 6.68,
+ "created_at": "2026-07-06T03:28:04+00:00",
+ "failed": false,
+ "text": "Evidently, the intention was to make things present for the royal folk a tobacco, during his visit.",
+ "seconds": 0.249
+}

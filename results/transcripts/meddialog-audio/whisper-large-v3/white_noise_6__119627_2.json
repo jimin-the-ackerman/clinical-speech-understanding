@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__119627_2",
+ "condition": "white_noise_6",
+ "reference": "Acid reflux is managed both by medications and lifestyle changes in children. Since your child is already taking Prevacid, let me tell you about other things you can do: keep the baby in an upright position after feeds, elevate the head end of the bed, you can use prone position frequently, avoid giving citrus fruits or tomatoes, avoid chocolates, avoid caffeine-containing beverages, and give smaller, more frequent feeds.",
+ "audio_seconds": 28.84,
+ "created_at": "2026-07-06T04:36:02+00:00",
+ "failed": false,
+ "text": "Acid reflux is managed both by medications and lifestyle changes in children. Since your child is already taking Prevacid, let me tell you about other things you can do. Keep the baby in an upright position after feeds. Elevate the head end of the bed. You can use prone position frequently. Avoid giving citrus fruits or tomatoes. Avoid chocolates. Avoid caffeine-containing beverages and give smaller, more frequent feeds.",
+ "seconds": 0.758
+}

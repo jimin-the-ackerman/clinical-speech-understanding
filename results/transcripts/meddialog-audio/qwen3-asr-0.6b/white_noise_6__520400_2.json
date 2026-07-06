@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__520400_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, these are symptoms of a stomach infection, but appendicitis also needs to be ruled out. Kindly get the child examined by a doctor.",
+ "audio_seconds": 10.33,
+ "created_at": "2026-07-06T05:13:20+00:00",
+ "failed": false,
+ "text": "Hello, these are symptoms of a stomach infection, but appendicitis also needs to be ruled out. Kindly get the child examined by a doctor.",
+ "seconds": 0.309
+}

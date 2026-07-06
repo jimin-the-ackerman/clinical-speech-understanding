@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__153190_1",
+ "condition": "background_noise_60",
+ "reference": "My son is twenty-three years old and he was diagnosed as a child with Attention Deficit Hyperactivity Disorder. Now, as an adult, he told me that he still has problems focusing and his former psychologist said that he outgrew Attention Deficit Hyperactivity Disorder. However, I am concerned because he is occasionally depressed, cannot keep a steady job, and he has lost a lot of weight. I don’t know if he may be suffering from Bipolar Disorder. He lives in Orlando, Florida, and I live in Savannah, Georgia. What should I do?",
+ "audio_seconds": 32.94,
+ "created_at": "2026-07-06T04:57:18+00:00",
+ "failed": false,
+ "text": "My son is twenty-three years old and he is diagnosed as a child with attention deficit hyperactivity disorder. Now, as an adult, he told me that he still has problems focusing, and his former psychologist said that he outgrew attention deficit hyperactivity disorder. However, I am concerned because he is occasionally depressed, cannot keep a steady job, and he has lost a lot of weight. I don't know if he may be suffering from bipolar disorder. He lives in Orlando, I am in Savannah, Georgia. I don't know.",
+ "seconds": 0.968
+}

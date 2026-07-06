@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__512842_2",
+ "condition": "white_noise_2",
+ "reference": "Hi. Yes, the treatment advised is correct. Be patient; it can take time in some individuals, and especially if there were no other abnormalities diagnosed during your fertility examination, then you shall soon conceive. Best of luck.",
+ "audio_seconds": 13.74,
+ "created_at": "2026-07-06T04:47:19+00:00",
+ "failed": false,
+ "text": "Hi. Yes, the treatment advised is correct. Be patient. It can take time in some individuals, and especially if there were no other abnormalities diagnosed during your fertility examination, then you shall soon conceive. Best of luck.",
+ "seconds": 0.197
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0113",
+ "condition": null,
+ "reference": "IF YOU WERE EVER TO HAVE ANY OTHER JOBS OF THIS SORT MY BROTHER IS THE STRONG MAN FOR YOU A PERFECT TURK",
+ "audio_seconds": 6.56,
+ "created_at": "2026-07-06T03:29:43+00:00",
+ "failed": false,
+ "text": "If you were ever to have any other jobs of this sort, my brother is the strong man for you—a perfect Turk.",
+ "seconds": 0.261
+}

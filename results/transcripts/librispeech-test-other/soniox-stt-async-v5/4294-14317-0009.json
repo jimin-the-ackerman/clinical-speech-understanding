@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-14317-0009",
+ "condition": null,
+ "reference": "I SAID MY LORD I THANK YOU AND BEG YOU TO CONDESCEND SO FAR AS TO LISTEN TO FOUR WORDS IT IS TRUE THAT HE LENT ME A PAIR OF OLD SCALES TWO ANVILS AND THREE LITTLE HAMMERS WHICH ARTICLES I BEGGED HIS WORKMAN GIORGIO DA CORTONA FIFTEEN DAYS AGO TO FETCH BACK",
+ "audio_seconds": 18.07,
+ "created_at": "2026-07-06T02:25:33+00:00",
+ "failed": false,
+ "text": "I said, \"My Lord, I thank you, and beg you to condescend so far as to listen to four words.\" It is true that he lent me a pair of old scales, two anvils, and three little hammers, which articles I begged his workman, Giorgio da Cortona, fifteen days ago to fetch back.",
+ "seconds": 5.616
+}

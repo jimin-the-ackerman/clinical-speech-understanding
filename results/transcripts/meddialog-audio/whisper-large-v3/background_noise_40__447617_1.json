@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__447617_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, I just had an abortion two weeks ago and I feel really guilty and want to get pregnant again. I heard that the few weeks after an abortion have a high risk of getting pregnant again, so I wanted to know if I am still taking my prenatal vitamins and if having sex now increases the chance of me getting pregnant with pre-ejaculate fluid.",
+ "audio_seconds": 18.43,
+ "created_at": "2026-07-06T04:18:42+00:00",
+ "failed": false,
+ "text": "Hi, I just had an abortion two weeks ago and I feel really guilty and want to get pregnant again. I heard folks after an abortion have a high risk of getting pregnant again, so I wanted to know if I am still taking my prenatal vitamins and if having sex now increases the chance of me getting pregnant with pre-ejaculate fluid.",
+ "seconds": 0.62
+}

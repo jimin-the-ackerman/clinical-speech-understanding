@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-15444-0025",
+ "condition": null,
+ "reference": "TO PURIFY IT ADD A SMALL QUANTITY OF DILUTE SULPHURIC ACID AND AFTER EVAPORATING TO THREE QUARTERS OF ITS BULK ADD A SATURATED SOLUTION OF CARBONATE OF POTASH OR SODA",
+ "audio_seconds": 11.8,
+ "created_at": "2026-07-05T13:09:12+00:00",
+ "failed": false,
+ "text": "to purify it add a small quantity of dilute sulphuric acid and after evaporating to three-quarters of its bulk add a saturated solution of carbonate of potash or soda",
+ "seconds": 0.137
+}

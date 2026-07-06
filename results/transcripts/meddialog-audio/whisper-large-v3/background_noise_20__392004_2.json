@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__392004_2",
+ "condition": "background_noise_20",
+ "reference": "These locally used products are safe for pregnancy with no teratogenic effects noted, so they can be used during pregnancy.",
+ "audio_seconds": 8.36,
+ "created_at": "2026-07-06T04:14:29+00:00",
+ "failed": false,
+ "text": "These local products are safe for pregnancy, with no teratogenic effects noted, so they can be used during pregnancy.",
+ "seconds": 0.309
+}

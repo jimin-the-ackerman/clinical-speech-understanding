@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0082",
+ "condition": null,
+ "reference": "HIS ORDER HAS PRODUCED FORTY POPES TWO HUNDRED CARDINALS FIFTY PATRIARCHS SIXTEEN HUNDRED ARCHBISHOPS FOUR THOUSAND SIX HUNDRED BISHOPS FOUR EMPERORS TWELVE EMPRESSES FORTY SIX KINGS FORTY ONE QUEENS THREE THOUSAND SIX HUNDRED CANONIZED SAINTS AND HAS BEEN IN EXISTENCE FOR FOURTEEN HUNDRED YEARS",
+ "audio_seconds": 21.35,
+ "created_at": "2026-07-05T13:10:34+00:00",
+ "failed": false,
+ "text": "his order has produced forty popes two hundred cardinals fifty patriarchs sixteen hundred archbishops four thousand six hundred bishops four emperors twelve empresses forty-six kings forty-one queens three thousand six hundred canonized saints and has been in existence for fourteen hundred years",
+ "seconds": 0.199
+}

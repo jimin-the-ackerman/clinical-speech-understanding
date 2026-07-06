@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163622-0022",
+ "condition": null,
+ "reference": "NOW THEN SAID THE FOAL DOST THOU NOT SEE ANYTHING NOW",
+ "audio_seconds": 3.63,
+ "created_at": "2026-07-05T23:55:07+00:00",
+ "failed": false,
+ "text": "Now then, said the foal, dost thou not see anything now?",
+ "seconds": 0.731
+}

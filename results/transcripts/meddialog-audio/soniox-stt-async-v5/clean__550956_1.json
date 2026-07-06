@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__550956_1",
+ "condition": "clean",
+ "reference": "I haven't been working for a while now because I am a full-time student. Last week, I worked for three consecutive days standing, moving, and walking around for seven to eight straight hours. Then I slowly realized that my lower back hurts a lot, and now I am at school it still hurts, but not as much as it used to. So why does my lower back hurt?",
+ "audio_seconds": 20.39,
+ "created_at": "2026-07-06T02:58:26+00:00",
+ "failed": false,
+ "text": "I haven't been working for a while now because I am a full-time student. Last week I worked for 3 consecutive days standing, moving, and walking around for 7 to 8 straight hours. Then I slowly realized that my lower back hurts a lot, and now I am at school it still hurts, but not as much as it used to, so why does my lower back hurt.",
+ "seconds": 4.854
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__260097_1",
+ "condition": "white_noise_10",
+ "reference": "I started on a beta blocker about three weeks ago for my blood pressure. It has helped, but I now find that I can't get or maintain an erection. My doctor said this will go away after I stop taking the medication. I have lost seventeen pounds in two weeks by exercising and dieting. How long after taking the medication will I regain my erectile function?",
+ "audio_seconds": 18.43,
+ "created_at": "2026-07-06T04:45:34+00:00",
+ "failed": false,
+ "text": "I started on a beta blocker about three weeks ago for my blood pressure. But I now find that I can't get or maintain an erection. My doctor said this will go away after I stop taking the medication. I have lost 17 pounds in two weeks by exercising and diet. How long after taking the medication will I regain my erectile function?",
+ "seconds": 0.247
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117029-0007",
+ "condition": null,
+ "reference": "FATS PLACE WAS STILL OPEN THOUGH THE CROOKED TABLES HAD BEEN REMOVED GORDON DROPPED TO A STOOL SLIPPING OFF HIS HELMET",
+ "audio_seconds": 9.48,
+ "created_at": "2026-07-06T03:25:17+00:00",
+ "failed": false,
+ "text": "Fat's place was still open, though the crooked tables had been removed. Gordon dropped to a stool, slipping off his helmet.",
+ "seconds": 0.282
+}

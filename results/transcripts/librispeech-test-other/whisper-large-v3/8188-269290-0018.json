@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0018",
+ "condition": null,
+ "reference": "WHAT CAN THIS MEAN SHE SAID TO HERSELF",
+ "audio_seconds": 3.46,
+ "created_at": "2026-07-05T13:08:10+00:00",
+ "failed": false,
+ "text": "\"'What can this mean?' she said to herself.",
+ "seconds": 0.168
+}

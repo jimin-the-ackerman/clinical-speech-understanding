@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117029-0017",
+ "condition": null,
+ "reference": "THERE'S A ROCKET WAITING TO TRANSSHIP YOU TO THE MOON ON THE WAY TO MERCURY RIGHT NOW GORDON SIGHED",
+ "audio_seconds": 6.65,
+ "created_at": "2026-07-06T02:39:56+00:00",
+ "failed": false,
+ "text": "There's a rocket waiting to transship you to the Moon on the way to Mercury right now, Gordon side.",
+ "seconds": 4.623
+}

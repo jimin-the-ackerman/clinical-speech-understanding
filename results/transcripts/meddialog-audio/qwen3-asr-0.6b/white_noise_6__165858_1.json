@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__165858_1",
+ "condition": "white_noise_6",
+ "reference": "Hi Doctor, I have recently started practicing rhythmic breathing for peace of mind. The practice includes proper cycles of fast and slow breathing. I have heard that such a process might lead to hyperventilation and asthma problems. Furthermore, while doing the process, I feel some tingling and vibration in my fist and forehead. I also feel a mild headache at times after the process. However, overall, the process gives me peace of mind. Should I discontinue the process? Are there any harmful effects of the same?",
+ "audio_seconds": 30.72,
+ "created_at": "2026-07-06T05:11:55+00:00",
+ "failed": false,
+ "text": "Hi Doctor, I have recently started practicing with my breathing for peace of mind. The practice includes proper cycles of fast and slow breathing. I have heard of such a process that aids in overcoming relaxation and asthma problems. For a little while during the process, I feel some tingling and vibration in my chest and forehead. I also feel my head a little times after the process. However, overall, the process gives me peace of mind. Should I continue the process? Are there any harmful effects of the thing?",
+ "seconds": 0.922
+}

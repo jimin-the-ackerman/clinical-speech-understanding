@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3080-5040-0026",
+ "condition": null,
+ "reference": "WE GO ABROAD ALL DAY AND PLAY ALL NIGHT AND SAY OUR PRAYERS WHEN WE HAVE TIME",
+ "audio_seconds": 6.23,
+ "created_at": "2026-07-05T23:54:36+00:00",
+ "failed": false,
+ "text": "We go abroad all day and play all night and say our prayers when we have time.",
+ "seconds": 0.723
+}

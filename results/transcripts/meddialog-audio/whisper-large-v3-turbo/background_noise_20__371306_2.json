@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__371306_2",
+ "condition": "background_noise_20",
+ "reference": "There is very little chance that you have developed a new clot while you are on anticoagulants. Additionally, there is no clot on the ultrasound, so there is no need to worry. Continue walking intermittently and use an intermittent compression device or stockings.",
+ "audio_seconds": 15.27,
+ "created_at": "2026-07-06T04:39:54+00:00",
+ "failed": false,
+ "text": "There is very little chance that you have developed a new clot while you are on anticoagulants. Additionally, there is no clot on the ultrasound, so there is no need to worry. Continue walking intermittently and use an intermittent compression device or stockings.",
+ "seconds": 0.212
+}

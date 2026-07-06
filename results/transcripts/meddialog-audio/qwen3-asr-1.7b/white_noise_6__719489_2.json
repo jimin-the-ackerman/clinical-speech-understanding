@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__719489_2",
+ "condition": "white_noise_6",
+ "reference": "Take plenty of liquids, rest, and if the dizziness does not subside, take Vertin four milligrams. Do not skip meals.",
+ "audio_seconds": 9.64,
+ "created_at": "2026-07-06T05:41:17+00:00",
+ "failed": false,
+ "text": "Take plenty of liquids, rest, and if the dizziness does not subside, take verin four milligrams. Do not skip meals.",
+ "seconds": 0.308
+}

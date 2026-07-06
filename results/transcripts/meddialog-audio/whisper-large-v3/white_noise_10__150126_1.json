@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__150126_1",
+ "condition": "white_noise_10",
+ "reference": "I passed a kidney stone four days ago. It was very painful, and I was hospitalized but have since been discharged. Immediately after being discharged, I was constipated for a day, then began having serious lower pelvic cramps. After the first bowel movement, which was tough, I now have cramps and there is mostly blood. I do have some external hemorrhoids from the constipation episode yesterday. The blood is bright red. Is the cramping and blood from the hemorrhoids, or is something else going on?",
+ "audio_seconds": 30.72,
+ "created_at": "2026-07-06T04:28:49+00:00",
+ "failed": false,
+ "text": "I passed the kidney stone four days ago. It was very dangerous and I was possibly on a trip, but since then, it's tough. Immediately after being diagnosed, I was home for 24 days. One day, I'm having a series of pelvic cramps. After the first follow-up engagement with the stent, I now have cramps in my right shoulder. I do have some left in my hand right now, and I had some left in my hand yesterday, but they're already very dry. It's a convenient way for me to help my family.",
+ "seconds": 0.98
+}

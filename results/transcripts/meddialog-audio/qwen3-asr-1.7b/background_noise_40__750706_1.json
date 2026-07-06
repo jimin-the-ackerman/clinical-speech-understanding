@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__750706_1",
+ "condition": "background_noise_40",
+ "reference": "My fifteen-year-old son has abdominal pain and chest pain. He has been diagnosed with panic attacks. He finally had blood work done and had an elevated bilirubin level. The doctor wants to run the test again but still thinks he is just having panic attacks. Could it be his gallbladder?",
+ "audio_seconds": 15.96,
+ "created_at": "2026-07-06T05:22:18+00:00",
+ "failed": false,
+ "text": "My 15-year-old son has abdominal pain and chest pain. He has been diagnosed with panic attacks. He finally had blood work done and had an elevated bilirubin level. The doctor wants to run the test again, but still thinks he is just having panic attacks. Could it be his gallbladder?",
+ "seconds": 0.618
+}

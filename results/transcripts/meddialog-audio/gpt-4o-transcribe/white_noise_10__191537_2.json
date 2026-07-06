@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__191537_2",
+ "condition": "white_noise_10",
+ "reference": "Removing the adenoids is indicated as your child is experiencing breathing difficulty. Enlarged adenoids may cause nasal speech, breathing difficulty, snoring, and obstructive sleep apnea. There is nothing contraindicated in removing the adenoids.",
+ "audio_seconds": 14.85,
+ "created_at": "2026-07-06T00:45:44+00:00",
+ "failed": false,
+ "text": "",
+ "seconds": 0.523
+}

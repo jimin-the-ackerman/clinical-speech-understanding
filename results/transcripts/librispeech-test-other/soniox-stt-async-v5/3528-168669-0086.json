@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0086",
+ "condition": null,
+ "reference": "ONLY FANATICS AND THOSE IN ERROR DENY IT",
+ "audio_seconds": 2.83,
+ "created_at": "2026-07-06T00:06:26+00:00",
+ "failed": false,
+ "text": "Only phonetics, and those in error deny it.",
+ "seconds": 4.106
+}

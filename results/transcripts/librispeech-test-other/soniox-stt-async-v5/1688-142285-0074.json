@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0074",
+ "condition": null,
+ "reference": "I'LL GO TO BED IT'S BEST PLACE BUT CATCHING AT MARGARET'S GOWN YO'LL COME AGAIN I KNOW YO WILL BUT JUST SAY IT",
+ "audio_seconds": 11.13,
+ "created_at": "2026-07-05T23:59:45+00:00",
+ "failed": false,
+ "text": "I'll go to bed; it's best place, but— Catching at Margaret's gown. You'll come again, I know you will, but just say it.",
+ "seconds": 4.708
+}

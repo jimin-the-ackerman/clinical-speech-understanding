@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__482554_2",
+ "condition": "background_noise_20",
+ "reference": "Hi. Protein is digested in the human body but is sometimes excreted when not digested properly or when in excess quantity. The term you are referring to, which is total protein count in blood, urine, and saliva, has totally different meanings in all three mediums. Total protein count in blood changes with increased protein ingestion and the already present muscle protein or any other protein breakdown inside the body, whereas protein in urine or any excretory product is always present when the degradation of protein has increased, which can be possible due to higher intake of protein or increased muscle breakdown due to some pathology inside the body. I hope that I have answered your question. Let me know if you have any other doubts.",
+ "audio_seconds": 47.27,
+ "created_at": "2026-07-06T04:14:50+00:00",
+ "failed": false,
+ "text": "Hi, protein is digested in the human body but is sometimes excreted when not digested properly or when in excess quantity. The term you are referring to, which is total protein count in blood, urine, and saliva, has totally different meanings in all three mediums. Total protein count in blood changes with increased protein and the already present muscle protein or any other protein breakdown inside the body. Whereas protein in urine or any excretory product is always present when the degradation of protein has increased, which can be possible due to higher intake of protein or muscle breakdown due to some pathology inside the body. I hope that I have answered your question. Let me know if you have any other doubts.",
+ "seconds": 1.33
+}

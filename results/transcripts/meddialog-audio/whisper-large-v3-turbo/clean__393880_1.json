@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__393880_1",
+ "condition": "clean",
+ "reference": "Moderate dyskaryosis. I have just been informed from my smear test last week that I have abnormal cells. Six years ago, the same happened, and I had to have three-quarters of my cervix removed. All has been fine, and now it has happened again, and I am now really concerned. Does this mean I could have cervical cancer? Is it true that abnormal cells can be caused by my partner's sperm?",
+ "audio_seconds": 24.41,
+ "created_at": "2026-07-06T04:44:17+00:00",
+ "failed": false,
+ "text": "Moderate dyskaryosis. I have just been informed from my smear test last week that I have abnormal cells. Six years ago, the same happened, and I had to have three quarters of my cervix removed. All has been fine, and now it has happened again, and I am now really concerned. Does this mean I could have cervical cancer? Is it true that abnormal cells can be caused by my partner's sperm?",
+ "seconds": 0.316
+}

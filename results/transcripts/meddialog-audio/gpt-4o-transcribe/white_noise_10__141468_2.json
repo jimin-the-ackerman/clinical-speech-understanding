@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__141468_2",
+ "condition": "white_noise_10",
+ "reference": "Hello Makayla, I really appreciate your concern for your boyfriend, and I will try to help you in the best possible way. Looking at your description, this could be epididymorchitis or torsion of the testis. I would like further information to help him better, such as his age and relevant medical history, like diabetes or other metabolic diseases. Any history of trauma or injury? Is he running a fever? I would advise for a color Doppler study of the testis, and if you have done it, then please upload the reports. You can give him ibuprofen for pain and advise him to wear scrotal support. I hope this answers your question. Please feel free to ask for more clarification. Best wishes.",
+ "audio_seconds": 44.89,
+ "created_at": "2026-07-06T00:45:41+00:00",
+ "failed": false,
+ "text": "I love the way the brushstrokes capture the movement of the water.",
+ "seconds": 1.842
+}

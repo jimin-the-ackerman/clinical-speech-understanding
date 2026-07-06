@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__797229_2",
+ "condition": "white_noise_6",
+ "reference": "If your period is a forty-five-day cycle, the probable day of ovulation and consequently the day when the chances for conception are the highest is two weeks before the day of onset of the period. If intercourse happens to be on the same day or a day or two before or after, the chance of getting pregnant is highest. In your case, the possibility of conception in this cycle is far-fetched. The timing of sexual intercourse is most important for conception to occur.",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T05:41:39+00:00",
+ "failed": false,
+ "text": "If your period is a 45-day cycle, the probable day of ovulation, and consequently the day when the chances for conception are highest, is two weeks before the day of onset of the period. Of course, happening to be on the same day or a day or two before or after, the chance of getting pregnant is highest. In your case, the possibility of conception in the cycle is far less. The time in the sexual intercourse is most important for conception to occur.",
+ "seconds": 0.912
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180297-0019",
+ "condition": null,
+ "reference": "IT MEANS LITTLE ENOUGH TO THEM THAT WE SHOULD HAVE TEN LOVERS EXTRA AS LONG AS THEY GET DRESSES OR A BRACELET OUT OF THEM AND THAT THEY CAN DRIVE IN OUR CARRIAGE FROM TIME TO TIME OR COME TO OUR BOX AT THE THEATRE",
+ "audio_seconds": 14.48,
+ "created_at": "2026-07-06T03:31:07+00:00",
+ "failed": false,
+ "text": "It means little enough to them that we should have ten lovers extra, as long as they get dresses or a bracelet out of them, and that they can drive in our carriage from time to time, or come to our box at the theatre.",
+ "seconds": 0.509
+}

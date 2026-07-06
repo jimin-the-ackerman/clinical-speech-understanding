@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__484774_1",
+ "condition": "background_noise_60",
+ "reference": "It appears that I have an abscessed tooth. I got a bump on my gum four months ago and experienced pain. I then took antibiotics to eliminate the infection, but the small sac on my gum never went away. Now, four months later, pus is coming out when I press on it. I have been gargling with saltwater and I am going to see a dentist tomorrow. Will I lose my tooth because I waited so long?",
+ "audio_seconds": 22.02,
+ "created_at": "2026-07-06T00:44:07+00:00",
+ "failed": false,
+ "text": "I have been gargling with salt water, and I am.",
+ "seconds": 0.699
+}

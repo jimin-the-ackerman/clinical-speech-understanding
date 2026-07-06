@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__909327_2",
+ "condition": "background_noise_60",
+ "reference": "Don't worry. You can take your pill tonight, and the rest of your schedule can continue. There is no need to worry much about the two pills taken together. I hope this helps.",
+ "audio_seconds": 10.33,
+ "created_at": "2026-07-06T04:43:43+00:00",
+ "failed": false,
+ "text": "Don't worry. You can take your pill tonight, and the rest of your schedule can continue. There is no need to worry much about the two pills taken together. I hope this helps.",
+ "seconds": 0.211
+}

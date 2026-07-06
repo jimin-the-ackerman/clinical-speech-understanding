@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__583220_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, I took three Cytotec vaginally a year ago to have an abortion. I did not get it from a doctor; I obtained it from a friend. An hour after taking it, I experienced cramps and started bleeding. A few minutes after the bleeding began, I passed a significant amount of clotted blood. I bled for three weeks after that. It has been a year since using this pill, and I have been trying to get pregnant for six months now, but I have had no positive results. Can I still get pregnant after using Cytotec? Please help!",
+ "audio_seconds": 32.77,
+ "created_at": "2026-07-06T04:15:19+00:00",
+ "failed": false,
+ "text": "Hi. I took 3-Citotec vaginally a year ago to have an abortion. I did not get it from a doctor. I obtained it from a friend. An hour after taking it, I experienced cramps and started bleeding. A few minutes after the bleeding began, I passed a significant amount of clotted blood. I bled for three weeks after that. It has been a year since using this pill, and I have been trying to get pregnant for six months now, but I have had no positive results. Can I still get pregnant after using Cytotec? Please help.",
+ "seconds": 1.153
+}

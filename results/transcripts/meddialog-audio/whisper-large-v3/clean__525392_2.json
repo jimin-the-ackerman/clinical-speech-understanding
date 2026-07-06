@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__525392_2",
+ "condition": "clean",
+ "reference": "I would suggest that there are no specific symptoms indicating whether you are having a boy or a girl baby. For a normal delivery to occur, there will be abdominal pain, reddish discharge, followed by watery discharge and the onset of uterine contractions.",
+ "audio_seconds": 15.53,
+ "created_at": "2026-07-06T04:26:32+00:00",
+ "failed": false,
+ "text": "I would suggest that there are no specific symptoms indicating whether you are having a boy or a girl baby. For a normal delivery to occur, there will be abdominal pain, reddish discharge, followed by watery discharge and the onset of uterine contractions.",
+ "seconds": 0.523
+}

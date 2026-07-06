@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__825916_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, welcome to HC My. You can try other proton pump inhibitors like esomeprazole or pantoprazole, forty mg or eighty mg. If you do not get relief, try to take the tablet twice daily. Also, you can try injection pantoprazole forty mg intravenously by going to the emergency room. Use the tablet Buscopan and domperidone along with those medications. Take soft and bland food. Drink fluids and fruit juices. Thank you.",
+ "audio_seconds": 27.73,
+ "created_at": "2026-07-06T04:38:49+00:00",
+ "failed": false,
+ "text": "Hi, welcome to HC9. You can try other pump inhibitors like Esonaprazole or Pantoprazole 40mg or 80mg. If you do not get relief, try to take the tablets twice daily. Also, you can try injection Pantoprazole 40mg intravenously by going to the emergency room. Use the tablet Buscopan and Zomtrium along with those medications. Take soft and bland food. Drink fluids and fruit juices. Thank you.",
+ "seconds": 0.805
+}

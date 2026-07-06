@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__483588_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. The sensation of discharge could be attributed to pre-ejaculatory fluid if it is associated with sexual stimulation. Other than this, there is no health condition that can explain your symptoms. If the sensation is related to sexual stimulation, there is nothing to worry about; it is normal. Even otherwise, any discharge that is non-pathological does not require treatment. You can reassure yourself. If you are still concerned, I suggest taking silodosin eight milligrams, one tablet at night for fifteen days.",
+ "audio_seconds": 31.49,
+ "created_at": "2026-07-06T00:47:19+00:00",
+ "failed": false,
+ "text": "However, the specific effects are ambiguous and depend on the nature of the activity. Other than that, there is no official explanation of the specific effect this measure will have for the economy.",
+ "seconds": 1.055
+}

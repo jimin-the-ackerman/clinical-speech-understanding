@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__662336_1",
+ "condition": "white_noise_6",
+ "reference": "My child is three and a half years old. He suffers from dysentery very often. The doctor has advised not to give him milk or any other dairy products. He has allergic bronchitis too, so we don't give him any citrus fruits, curd, or chocolate. Can you please suggest a proper nutritious diet for my growing baby?",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T04:38:04+00:00",
+ "failed": false,
+ "text": "my child is three and a half years old he suffers from dysentery very often the doctor has advised not to give him milk or any other dairy products he has allergic bronchitis too so we don't give him any citrus fruits curd or chocolate can you please suggest a proper nutritious diet for my growing baby",
+ "seconds": 0.644
+}

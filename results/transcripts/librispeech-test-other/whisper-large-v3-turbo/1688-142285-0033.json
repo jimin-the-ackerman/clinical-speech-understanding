@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0033",
+ "condition": null,
+ "reference": "SHE LAY AWAKE VERY LONG THIS NIGHT PLANNING HOW TO LESSEN THE EVIL INFLUENCE OF THEIR MILTON LIFE ON HER MOTHER",
+ "audio_seconds": 8.69,
+ "created_at": "2026-07-05T11:47:32+00:00",
+ "failed": false,
+ "text": "she lay awake very long this night planning how to lessen the evil influence of their milton life on her mother",
+ "seconds": 0.128
+}

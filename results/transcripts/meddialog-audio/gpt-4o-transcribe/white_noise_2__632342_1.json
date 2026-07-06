@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__632342_1",
+ "condition": "white_noise_2",
+ "reference": "I am sixteen years old and have had a lump in my right nipple for about a month now. About an hour ago, I was squeezing it, and a small amount of clear fluid discharged from multiple openings in my nipple. I had lung surgery six months ago, and I am currently on acne medication. Is there any reason to worry?",
+ "audio_seconds": 18.52,
+ "created_at": "2026-07-06T00:46:45+00:00",
+ "failed": false,
+ "text": "I'm not sure what to do. Just tell me what you want.",
+ "seconds": 0.55
+}

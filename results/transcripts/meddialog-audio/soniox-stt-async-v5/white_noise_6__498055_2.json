@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__498055_2",
+ "condition": "white_noise_6",
+ "reference": "Hi. All the symptoms you have mentioned may be due to a cervical spine problem. It may be cervical spondylitis or spondylolisthesis with neurological manifestations. The lump on the edge of the right scapula can be a muscle in spasm, a lipoma, or a sebaceous cyst. An MRI of the cervical spine and of the brachial plexus can provide the reason for the pain in the ribs, under the arm, upper arm, and the thumb. You may need to undergo surgery on the spine if the compression of the intervertebral discs is more pronounced and causing symptoms of compression; if not, physiotherapy will help.",
+ "audio_seconds": 34.73,
+ "created_at": "2026-07-06T03:10:19+00:00",
+ "failed": false,
+ "text": "Hi. All the symptoms you have mentioned may be due to a cervical spine problem; it may be cervical spondylitis or spondylolisthesis with neurological manifestations. The lump on the edge of the right scapula can be a muscle in spasm, a lipoma, or a sebaceous cyst. An MRI of the cervical spine and of the brachial plexus can provide the reason for the pain in the ribs, under the arm, upper arm, and the thumb. You may need to undergo surgery on the spine if the compression of the intervertebral discs is more prominent and causing symptoms of compression. If not, physiotherapy will help.",
+ "seconds": 8.279
+}

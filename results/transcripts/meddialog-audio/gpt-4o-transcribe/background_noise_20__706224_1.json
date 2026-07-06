@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__706224_1",
+ "condition": "background_noise_20",
+ "reference": "I have a lot of pimple scars. How can I get rid of them? I have been having many pimples since my teenage years. They used to be large, pus-filled ones. I used to pick at the pimples, and now, as a result, I am left with many scars on my face. I have tried all kinds of creams and lotions. I have used many masks on my face, but the scars are still prominent.",
+ "audio_seconds": 24.83,
+ "created_at": "2026-07-06T00:42:27+00:00",
+ "failed": false,
+ "text": "I have a lot of pimple scars. How can I get rid of them? I have been having many pimples since my teenage years. They used to be large, pus-filled ones. I used to pick at the pimples, and now, as a result, I am left with many scars on my face. I have tried all kinds of creams and lotions. I have used many masks on my face, but the scars are still prominent.",
+ "seconds": 1.566
+}

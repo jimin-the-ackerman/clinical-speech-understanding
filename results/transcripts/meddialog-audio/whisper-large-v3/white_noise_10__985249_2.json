@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__985249_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, welcome to the Health Care Management Association. After chronic kidney disease, patients can develop multiple cysts in the kidneys, and this condition is known as multicystic kidney disease. As far as polycystic kidney disease is concerned, it actually causes chronic kidney disease by itself. Polycystic kidney disease is altogether a different disease and is a cause of kidney failure. There is a difference between multicystic kidney disease and polycystic kidney disease.",
+ "audio_seconds": 28.33,
+ "created_at": "2026-07-06T04:32:11+00:00",
+ "failed": false,
+ "text": "Hello, welcome to the Healthcare Management Association. After chronic kidney disease, patients can develop multiple cysts in the kidneys and this condition is known as multicystic kidney disease. As far as polycystic kidney disease is concerned, it actually causes chronic kidney disease by itself. Polycystic kidney disease is altogether a different disease and it has caused kidney failure. There is a difference between multicystic kidney disease and polycystic kidney disease.",
+ "seconds": 0.808
+}

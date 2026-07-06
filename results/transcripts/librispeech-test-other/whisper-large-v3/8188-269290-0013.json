@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0013",
+ "condition": null,
+ "reference": "HAVE THE GOODNESS TO FIND IT AND PUT IT BACK",
+ "audio_seconds": 2.49,
+ "created_at": "2026-07-05T13:08:09+00:00",
+ "failed": false,
+ "text": "Have the goodness to find it and put it back.",
+ "seconds": 0.184
+}

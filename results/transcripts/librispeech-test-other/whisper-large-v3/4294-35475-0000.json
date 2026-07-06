@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-35475-0000",
+ "condition": null,
+ "reference": "BUT THE MIDDLE SON WAS LITTLE AND LORN HE WAS NEITHER DARK NOR FAIR HE WAS NEITHER HANDSOME NOR STRONG",
+ "audio_seconds": 6.62,
+ "created_at": "2026-07-05T13:01:08+00:00",
+ "failed": false,
+ "text": "But the middle son was little and lorn, He was neither dark nor fair, He was neither handsome nor strong.",
+ "seconds": 0.259
+}

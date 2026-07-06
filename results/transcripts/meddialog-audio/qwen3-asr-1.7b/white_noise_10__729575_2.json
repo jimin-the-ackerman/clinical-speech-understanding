@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__729575_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, it is unlikely that Imodium has affected your kidneys. What is your serum creatinine level, and has it recently increased? Mycophenolate mofetil can produce diarrhea and vomiting. Did you recently start the medication or increase its dose? Systemic lupus erythematosus can affect almost all body organs. What were your involvements at diagnosis, and whether you are in remission or active disease? All this has to be considered to find out the cause of abdominal swelling and vomiting. You can follow up with your nephrologist, and he should be able to sort it out for you.",
+ "audio_seconds": 39.17,
+ "created_at": "2026-07-06T05:33:33+00:00",
+ "failed": false,
+ "text": "Hi, it is unlikely that imodium has affected your kidneys. What is your serum creatinine level, and has it recently increased? Microfemulate multivitale can produce diarrhea and vomiting. Did you recently start the medication or increase its dose? Systemic lupus erythematosus can affect almost all body organs. What were your initial diagnoses, and whether you are in remission or active disease? All this has to be considered to find out the cause of abdominal swelling and vomiting. You can follow up with an nephrologist, and he should be able to sort it out for you.",
+ "seconds": 1.139
+}

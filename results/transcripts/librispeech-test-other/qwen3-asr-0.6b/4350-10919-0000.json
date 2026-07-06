@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-10919-0000",
+ "condition": null,
+ "reference": "HE PERCEIVED THAT IT WAS NO GOOD TALKING TO THE OLD MAN AND THAT THE PRINCIPAL PERSON IN THE HOUSE WAS THE MOTHER",
+ "audio_seconds": 5.15,
+ "created_at": "2026-07-06T03:19:58+00:00",
+ "failed": false,
+ "text": "He perceived that it was no good talking to the old man, and that the principal person in the house was the mother.",
+ "seconds": 0.259
+}

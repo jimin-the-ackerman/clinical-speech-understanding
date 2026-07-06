@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__742917_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, first of all, masturbation is totally normal and does not have any relation to acne. Even if it did, it should decrease acne, in fact, as masturbation temporarily decreases the level of testosterone. So do not worry about that. Regarding your treatment, use adapalene gel one% at night and clindamycin gel during the day. You must continue this for at least three months even when there are no acne lesions present. You might get a long-lasting relief. Thank you.",
+ "audio_seconds": 27.99,
+ "created_at": "2026-07-06T04:38:25+00:00",
+ "failed": false,
+ "text": "Hello. First of all, masturbation is totally normal and does not have any relation to acne. Even if it did, it should decrease acne, in fact, as masturbation temporarily decreases the level of testosterone. So do not worry about that. Regarding your treatment, use Atopelin gel 1% at night and send a mace in gel during the day. You must continue this for at least 3 months, even when there are no acne lesions present. You might get a long-lasting relief. Thank you.",
+ "seconds": 0.838
+}

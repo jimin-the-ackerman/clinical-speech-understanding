@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__993744_1",
+ "condition": "white_noise_2",
+ "reference": "I am thirty-two weeks pregnant, and yesterday during a sonogram, they found a mass behind the baby's heart. What could this be? I have to have another sonogram done next week by a specialist. The heart looked fine and had a good heartbeat, but I am worried because it is clear that it should not be there.",
+ "audio_seconds": 19.54,
+ "created_at": "2026-07-06T00:47:06+00:00",
+ "failed": false,
+ "text": "I am losing track of time.",
+ "seconds": 0.531
+}

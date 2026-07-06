@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-169640-0015",
+ "condition": null,
+ "reference": "KITE WENT AFT AND RETURNED WITH THREE OR FOUR MUSKETS AND AS MANY PIKES",
+ "audio_seconds": 5.88,
+ "created_at": "2026-07-05T12:57:20+00:00",
+ "failed": false,
+ "text": "Kite went out and returned with three or four muskets and as many pikes.",
+ "seconds": 0.222
+}

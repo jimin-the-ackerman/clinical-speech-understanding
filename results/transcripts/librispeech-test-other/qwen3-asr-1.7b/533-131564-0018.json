@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131564-0018",
+ "condition": null,
+ "reference": "THE FORMER WAS FULL OF TROUBLE AND ANGUISH NOT ACCUSING HIM BUT DEEPLY REGRETTING HIS CONNECTION WITH HIS PROFLIGATE COMPANIONS ABUSING MISTER GRIMSBY AND OTHERS INSINUATING BITTER THINGS AGAINST MISTER HUNTINGDON AND MOST INGENIOUSLY THROWING THE BLAME OF HER HUSBAND'S MISCONDUCT ON TO OTHER MEN'S SHOULDERS",
+ "audio_seconds": 20.75,
+ "created_at": "2026-07-06T03:33:09+00:00",
+ "failed": false,
+ "text": "The former was full of trouble and anguish, not accusing him but deeply regretting his connection with his profligate companions, abusing Mister Grimsby and others, insinuating bitter things against Mister Huntingdon, and most ingeniously throwing the blame of her husband's misconduct on the other man's shoulders.",
+ "seconds": 0.604
+}

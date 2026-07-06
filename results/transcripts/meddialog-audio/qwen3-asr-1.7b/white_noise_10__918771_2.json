@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__918771_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, the pill should be effective since it does not pass through the bowel and is digested in the stomach. Even with diarrhea, it is still possible to retain the food for some time in the stomach. The effectiveness of the pill can only be lessened if there is vomiting soon after pill intake. Please take proper treatment for diarrhea. The pill can protect when taken within seventy-two hours of unprotected intercourse, and it is a one-time protection. It cannot cover multiple occasions. Please consider using a regular form of contraception. I hope this helps.",
+ "audio_seconds": 32.34,
+ "created_at": "2026-07-06T05:34:24+00:00",
+ "failed": false,
+ "text": "The case of the affected insects does not last for the longer when they go directly to the stomach. Even with email, it is still possible to return the food to the stomach. The effectiveness of the poison may be lessened if the food is vomited after poisoning. Food may not be eaten for days. Suppose the toxin taken within seventy-two hours of unsuccessful eating, only for one time of detection. If not, everyone else will believe you. Please consider using poisonous animals for the test. I understand.",
+ "seconds": 0.955
+}

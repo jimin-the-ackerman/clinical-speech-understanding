@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117017-0014",
+ "condition": null,
+ "reference": "WHEN GORDON AND JENKINS CAME BACK MURDOCH TOSSED THE MONEY TO THEM SPLIT IT",
+ "audio_seconds": 5.91,
+ "created_at": "2026-07-06T03:37:21+00:00",
+ "failed": false,
+ "text": "When Gordon and Jenkins came back, Murdock tossed the money to them, split it.",
+ "seconds": 0.201
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28330-0019",
+ "condition": null,
+ "reference": "CAMOUFLAGE WAS NOT A WORD THE CAPTAIN OR ANYONE ELSE OF HIS TIME YET UNDERSTOOD",
+ "audio_seconds": 5.54,
+ "created_at": "2026-07-05T23:56:18+00:00",
+ "failed": false,
+ "text": "Camouflage was not a word the captain or anyone else of his time yet understood.",
+ "seconds": 0.859
+}

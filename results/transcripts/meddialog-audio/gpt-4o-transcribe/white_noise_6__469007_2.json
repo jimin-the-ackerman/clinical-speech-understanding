@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__469007_2",
+ "condition": "white_noise_6",
+ "reference": "It looks like you might have passed a small stone from your urinary tract. If the blood in your semen persists, then contact your doctor. Also, if you are over fifty years of age, please contact your doctor, as you will need your prostate examined with a finger and have a blood test called prostate-specific antigen done.",
+ "audio_seconds": 18.69,
+ "created_at": "2026-07-06T00:47:19+00:00",
+ "failed": false,
+ "text": "I love the sound of the rain.",
+ "seconds": 0.509
+}

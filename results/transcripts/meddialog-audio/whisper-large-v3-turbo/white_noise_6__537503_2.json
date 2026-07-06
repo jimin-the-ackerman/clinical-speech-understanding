@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__537503_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, well the fact that she took the emergency contraceptive pill after having sex was a good idea, as it greatly reduces the chances of getting pregnant during unprotected sex or in the event of the breakage of a condom. Now, you must understand this: even though your girlfriend's period is generally regular, there are times when it can be irregular for everyone, which means she can have her period later or earlier than normal. The fact that the home pregnancy test has given a negative result three times in a row is a good sign and, in all likelihood, means that she is not pregnant. However, if you are still having doubts about the results, you can go to a doctor and ask them to perform a blood test on your girlfriend; it is by far one of the most efficient and accurate tests available, but it takes time, as you need to make an appointment and see a doctor. I hope this answers your question.",
+ "audio_seconds": 62.04,
+ "created_at": "2026-07-06T04:48:46+00:00",
+ "failed": false,
+ "text": "Hello, fact that she took the emergency contraceptive pill after having sex was a good idea, as it greatly reduces the chances of getting pregnant during unprotected sex, or in the event of the breaking of a condom. Now, you must understand this. Even though your girlfriend's period is generally regular, there are times when it can be irregular for everyone, which means she can have her period later or earlier than normal. The fact that the home pregnancy test has given a negative result three times in a row is a good sign and, in all likelihood, means that she is not pregnant. However, if you are still having doubts about the results, you can go to a doctor and ask them to perform a blood test on your girlfriend. It is by far one of the most efficient and accurate tests available, but it takes time, as you need to make an appointment and see a doctor. I hope this answers your question.",
+ "seconds": 0.496
+}

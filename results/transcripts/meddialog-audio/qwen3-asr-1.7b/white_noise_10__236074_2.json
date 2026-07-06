@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__236074_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. It could be a normal bony swelling that is usually seen because of a prominent sternum. If she is not experiencing any pain or redness, there is no need to worry.",
+ "audio_seconds": 9.13,
+ "created_at": "2026-07-06T05:31:43+00:00",
+ "failed": false,
+ "text": "Hello, it could be a long and lonely start, but if she is seen because of a promiscuous flirt, if she is not experiencing any kind of history, there is no need to worry.",
+ "seconds": 0.422
+}

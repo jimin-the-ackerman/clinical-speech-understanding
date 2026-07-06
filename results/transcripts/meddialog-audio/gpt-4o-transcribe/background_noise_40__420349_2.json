@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__420349_2",
+ "condition": "background_noise_40",
+ "reference": "These are potential inhalant allergens for you. Avoid exposure in the future and start an antihistamine.",
+ "audio_seconds": 5.8,
+ "created_at": "2026-07-06T00:43:11+00:00",
+ "failed": false,
+ "text": "These are potential inhalant allergens for you. Avoid exposure and start an antihistamine.",
+ "seconds": 1.076
+}

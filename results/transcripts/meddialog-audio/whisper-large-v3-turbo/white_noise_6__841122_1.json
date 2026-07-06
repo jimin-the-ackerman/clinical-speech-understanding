@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__841122_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, I am seven weeks pregnant and I have been experiencing some intermittent spotting. The first time I bled, I went to the hospital, and they told me the baby was fine. I am now having the same issue; however, the bleeding is heavier, although it is still light pink. Am I at risk of losing my baby? I am also experiencing light cramps.",
+ "audio_seconds": 20.31,
+ "created_at": "2026-07-06T04:49:19+00:00",
+ "failed": false,
+ "text": "hi i am seven weeks pregnant and i have been experiencing some intermittent spotting the first time i bled i went to the hospital and they told me the baby was fine and now having the same issue however the bleeding is heavier although it is still light pink am i at risk of losing my baby i am also experiencing light pain",
+ "seconds": 0.242
+}

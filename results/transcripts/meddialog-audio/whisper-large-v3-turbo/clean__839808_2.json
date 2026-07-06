@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__839808_2",
+ "condition": "clean",
+ "reference": "Hello, treatment depends on the staging of the cancer. Since they are performing surgery, there are good chances that it might still be in the early stages. Even after surgery, they may put him on chemotherapy, so just hope for the best. Everything will be fine.",
+ "audio_seconds": 14.17,
+ "created_at": "2026-07-06T04:45:01+00:00",
+ "failed": false,
+ "text": "Hello, treatment depends on the staging of the cancer. Since they are performing surgery, there are good chances that it might still be in the early stages. Even after surgery, they may put them on chemotherapy. So, just hope for the best. Everything will be fine.",
+ "seconds": 0.248
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__630108_2",
+ "condition": "white_noise_2",
+ "reference": "You should try to retest in the morning, but it is not an early sign of pregnancy; it could be a hormonal imbalance.",
+ "audio_seconds": 7.51,
+ "created_at": "2026-07-06T04:47:32+00:00",
+ "failed": false,
+ "text": "You should try to retest in the morning, but it is not an early sign of pregnancy. It could be a hormonal imbalance.",
+ "seconds": 0.176
+}

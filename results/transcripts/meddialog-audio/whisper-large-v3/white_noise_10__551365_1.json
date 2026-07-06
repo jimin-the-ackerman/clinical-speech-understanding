@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__551365_1",
+ "condition": "white_noise_10",
+ "reference": "I had an abortion on March 16th of this year using medical pills, and everything seems to be normal. As expected, I experienced episodes of lower abdominal cramping that are tolerable, and the bleeding is not that heavy. However, for the past four days, the bleeding has changed from bright red to dark brown and has started to emit a foul smell. I have never had a fever or uncontrollable pain. My next doctor appointment is not until next week, and I am very concerned about it. Should I go to the emergency room or wait for a week for my follow-up?",
+ "audio_seconds": 35.07,
+ "created_at": "2026-07-06T04:30:16+00:00",
+ "failed": false,
+ "text": "I had an abortion on March 16th of this year using medical pills, and everything seems to be normal. As expected, I experienced episodes of lower abdominal cramping that are tolerable, and the bleeding is not that heavy. However, for the past four days, the bleeding has changed from bright red to dark brown and has started to emit a foul smell. I have never had a fever or uncontrollable pain. My next doctor appointment is not until next week, and I am very concerned about it. Should I go to the emergency room or wait for a week for my follow-up?",
+ "seconds": 1.056
+}

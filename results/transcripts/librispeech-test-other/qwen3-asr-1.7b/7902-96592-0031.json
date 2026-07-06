@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0031",
+ "condition": null,
+ "reference": "BUT AT THE END OF FIVE MINUTES HE STOPPED AND THRUST BACK THE DIRK INTO ITS SHEATH",
+ "audio_seconds": 4.24,
+ "created_at": "2026-07-06T03:36:24+00:00",
+ "failed": false,
+ "text": "But at the end of five minutes, he stopped and thrust back the dirk into its sheath.",
+ "seconds": 0.226
+}

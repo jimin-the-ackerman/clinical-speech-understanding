@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280085-0005",
+ "condition": null,
+ "reference": "NO SOONER HOWEVER WAS HE RELEASED THAN HE MADE POSTHASTE INTO MANKATO TO ANNOUNCE OUR PRESENCE AND IN A FEW MINUTES ANOTHER POSSE WAS LOOKING FOR US",
+ "audio_seconds": 8.85,
+ "created_at": "2026-07-05T13:07:23+00:00",
+ "failed": false,
+ "text": "no sooner however was he released than he made post haste into mankato to announce our presence and in a few minutes another posse was looking for us",
+ "seconds": 0.304
+}

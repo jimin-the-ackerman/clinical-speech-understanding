@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0014",
+ "condition": null,
+ "reference": "WELL THAT'S WHAT I'M A SAYING ALL KINGS IS MOSTLY RAPSCALLIONS AS FUR AS I CAN MAKE OUT IS DAT SO",
+ "audio_seconds": 7.96,
+ "created_at": "2026-07-06T00:03:36+00:00",
+ "failed": false,
+ "text": "Well, that's what I'm saying. All kings is mostly rapskaggens, as far as I can make out. Is that so?",
+ "seconds": 4.683
+}

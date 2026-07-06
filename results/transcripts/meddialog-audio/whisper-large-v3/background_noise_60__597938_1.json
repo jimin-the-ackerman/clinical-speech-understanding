@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__597938_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, my mother had a chest X-ray results today which have shown an opaque spot on the soft tissue around her lung. Her X-ray was due to continuous coughing. She is asthmatic and has had pleurisy. The doctor wants to see her in a week and has requested a computed tomography scan done. There seemed to be no urgency in terms of when they saw her. My automatic fear is cancer - is this automatically the case?",
+ "audio_seconds": 24.83,
+ "created_at": "2026-07-06T04:22:50+00:00",
+ "failed": false,
+ "text": "Hi. My mother had a chest x-ray results today, which have shown an opaque spot on the soft tissue around her lung. Her x-ray was due to continuous coughing. She is asthmatic and has had pleurisy. The doctor wants to see her in a week and has requested a computed tomogenesis. There seemed to be no urgency in terms of when they saw her. My automatic fear is cancer. Is this automatically the case?",
+ "seconds": 0.776
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__398313_1",
+ "condition": "clean",
+ "reference": "First, about three days ago, I had a very stuffy nose and thought a simple head cold was my problem. A day or so later, my nose cleared up and breathing was no issue. Then, a day later, my throat began to hurt very badly. I have no cough or sneeze, but I am full of multicolored mucus. When it comes from my nasal passage, it is yellow, sometimes with a small amount of redness, and from my throat, it is usually a light brown, sometimes a bit bloody as well. This is only the second day, and it seems to be getting worse. What is wrong with me?",
+ "audio_seconds": 36.69,
+ "created_at": "2026-07-06T05:28:21+00:00",
+ "failed": false,
+ "text": "First, about three days ago, I had a very stuffy nose and thought a simple head cold was my problem. A day or so later, my nose cleared up and breathing was no issue. Then, a day later, my throat began to hurt very badly. I have no cough or sneeze, but I am full of multicolored mucus. When it comes from my nasal passage, it is yellow, sometimes with a small amount of redness, and from my throat, it is usually a light brown, sometimes a bit bloody as well. This is only the second day, and it seems to be getting worse. What is wrong with me?",
+ "seconds": 1.243
+}

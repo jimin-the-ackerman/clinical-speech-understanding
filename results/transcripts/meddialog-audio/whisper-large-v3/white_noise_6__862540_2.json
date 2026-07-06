@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__862540_2",
+ "condition": "white_noise_6",
+ "reference": "Hi. You need to do daily regular exercise and take the medication Zerodol P, half a tablet twice daily for five days.",
+ "audio_seconds": 7.94,
+ "created_at": "2026-07-06T04:38:58+00:00",
+ "failed": false,
+ "text": "Hi, you need to do daily regular exercise and take the medication zero to two, half a tablet, twice daily exercise.",
+ "seconds": 0.285
+}

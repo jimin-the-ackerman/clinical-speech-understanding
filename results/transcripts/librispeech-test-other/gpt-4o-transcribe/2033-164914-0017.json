@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164914-0017",
+ "condition": null,
+ "reference": "THEN HE KISSED THE EUNUCH'S HEAD AND SPAKE HIM FAIR TILL HE WENT AWAY BUT THE CASTRATO FETCHED A ROUND AND RETURNING SECRETLY CAME AND STOOD BEHIND THE FIREMAN FEARING TO GO BACK TO HIS MISTRESS WITHOUT TIDINGS",
+ "audio_seconds": 18.33,
+ "created_at": "2026-07-05T23:53:57+00:00",
+ "failed": false,
+ "text": "Then he kissed the eunuch's head and spake him fair till he went away; but the castrato fetched a round and, returning secretly, came and stood behind the fireman, fearing to go back to his mistress without tidings.",
+ "seconds": 1.306
+}

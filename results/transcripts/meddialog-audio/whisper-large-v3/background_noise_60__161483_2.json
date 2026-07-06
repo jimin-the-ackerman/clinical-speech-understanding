@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__161483_2",
+ "condition": "background_noise_60",
+ "reference": "These pains and redness must be assessed for an autoimmune disorder if they persist for more than three days. Please get an erythrocyte sedimentation rate test done, along with a rheumatoid factor test and a complete blood count.",
+ "audio_seconds": 14.42,
+ "created_at": "2026-07-06T04:21:03+00:00",
+ "failed": false,
+ "text": "These pains and redness must be assessed for an autoimmune disorder. If they persist, the more than three days. Please get an erythrocyte sedimentation test along with a rheumatoid factor test and a complete blood count.",
+ "seconds": 0.537
+}

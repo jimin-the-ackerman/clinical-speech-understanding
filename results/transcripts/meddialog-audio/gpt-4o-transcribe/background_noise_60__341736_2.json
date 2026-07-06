@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__341736_2",
+ "condition": "background_noise_60",
+ "reference": "It is clear that you are not experiencing an infection, and based on your description, I would suggest you visit your doctor for the best treatment since you have had surgery. Kindly visit your doctor. I hope this helps you.",
+ "audio_seconds": 13.31,
+ "created_at": "2026-07-06T00:44:00+00:00",
+ "failed": false,
+ "text": "It is clear that you are not experiencing an infection, and based on your description, I would suggest you visit your doctor for the best treatment since you have had surgery. Kindly visit your doctor. I hope this helps you.",
+ "seconds": 0.904
+}

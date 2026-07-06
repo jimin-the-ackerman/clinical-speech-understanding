@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__484232_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, I have reviewed your question and understand your concerns. It is known today that pre-ejaculate contains only a minor number of sperm, so there are only rare cases where living sperm can be present in the pre-ejaculate, making conception subsequently possible. If you urinated before this, the chances of this happening are negligible. However, the only way to rule it out one hundred% is to take a pregnancy test to ease your mind. But as I can tell you, pregnancy is really not likely under these circumstances. I hope this answers your question. If you have additional questions or follow-up questions, then please do not hesitate to write to us. I will be happy to answer your questions. Wishing you good health.",
+ "audio_seconds": 41.3,
+ "created_at": "2026-07-06T00:45:53+00:00",
+ "failed": false,
+ "text": "Hãy subscribe cho kênh La La School Để không bỏ lỡ những video hấp dẫn",
+ "seconds": 1.37
+}

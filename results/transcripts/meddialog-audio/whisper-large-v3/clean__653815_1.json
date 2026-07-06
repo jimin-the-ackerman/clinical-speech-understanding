@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__653815_1",
+ "condition": "clean",
+ "reference": "Hi, I am on Siphen fifty milligrams from the 3rd to the 7th day. On the 11th day, I had a follicular scan showing three follicles: two from the left ovary and one from the right ovary. I then took Fertygyn five thousand injection on the 11th day and went for a follicular scan on the 13th day, resulting in the left ovary follicle being ruptured and the right ovary follicle measuring eighteen millimeters. I was asked to have intercourse from the 13th to the 15th day. I just wanted to know how long the right ovary follicle of eighteen millimeters would take to rupture and what my chances of getting pregnant are. The doctor has advised me to take Dubagest one hundred milligrams from the 17th day; what does it do? Please clarify my confusions.",
+ "audio_seconds": 49.07,
+ "created_at": "2026-07-06T04:26:59+00:00",
+ "failed": false,
+ "text": "Hi, I am on siphon 50 mg from the 3rd to the 7th day. On the 11th day, I had a follicular scan showing 3 follicles, 2 from the left ovary and 1 from the right ovary. I then took Fertigin 5000 injection on the 11th day and went for a follicular scan on the 13th day, resulting in the left ovary follicle being ruptured and the right ovary follicle measuring 18 mm. I was asked to have intercourse from the 13th to the 15th day. I just wanted to know how long the right ovary follicle of 18 mm would take to rupture and what my chances of getting pregnant are. The doctor has advised me to take Dubagist 100 mg from the 17th day. What does it do? Please clarify my confusions.",
+ "seconds": 1.351
+}

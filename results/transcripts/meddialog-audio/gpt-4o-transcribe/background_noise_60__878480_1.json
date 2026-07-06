@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__878480_1",
+ "condition": "background_noise_60",
+ "reference": "I am having small red bumps appear on my lower arm, from my wrist to my elbow. More of them have appeared over time. Two of them have swollen and are bruising my arm. This has made my entire arm feel like it has a throbbing pain. Do you have any idea of what this could be, or do you need more of a description?",
+ "audio_seconds": 20.22,
+ "created_at": "2026-07-06T00:44:31+00:00",
+ "failed": false,
+ "text": "I am having small red bumps appear on my lower arm, from my wrist to my elbow. More of them have appeared over time. Two of them have swollen and are bruising my arm. This has made my entire arm feel like it has a throbbing pain. Do you have any idea of what this could be or do you need more of a description?",
+ "seconds": 1.303
+}

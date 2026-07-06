@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__915922_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, in my opinion, the problem of the numb patch in the knee is related to the slipped disc at the L3-four level. Start a combination of pregabalin and methylcobalamin, along with painkillers, and get a magnetic resonance imaging of the lower back to confirm the diagnosis and assess the size of the disc prolapse.",
+ "audio_seconds": 19.97,
+ "created_at": "2026-07-06T05:19:03+00:00",
+ "failed": false,
+ "text": "Hello. In my opinion, the problem of the numb patch in the knee is related to the slipped disc at the L3-4 level. Start a combination of pregabalin and methylcobalamin, along with painkillers, and get a magnetic resonance imaging of the lower back to confirm the diagnosis and assess the size of the disc prolapse.",
+ "seconds": 0.675
+}

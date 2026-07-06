@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41169-0021",
+ "condition": null,
+ "reference": "WE WALKED ABOUT THE FIELDS AND THE GARDEN NO SAID HE STEPAN VASSILIEVITCH EVERYTHING'S WELL LOOKED AFTER BUT YOUR GARDEN'S NEGLECTED",
+ "audio_seconds": 9.56,
+ "created_at": "2026-07-05T13:03:25+00:00",
+ "failed": false,
+ "text": "we walked about the fields and the garden no said he stepan vassilievich everything's well looked after but your garden's neglected",
+ "seconds": 0.272
+}

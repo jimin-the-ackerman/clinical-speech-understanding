@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__157152_2",
+ "condition": "white_noise_6",
+ "reference": "Hi Madam, welcome to HCM. I understand your problem. After having surgery, pain is normal. If you feel severe pain, use Tramadol tablets only after dinner and apply Diclofenac gel as well. I hope you are satisfied with my answer. Thank you.",
+ "audio_seconds": 16.9,
+ "created_at": "2026-07-06T03:09:01+00:00",
+ "failed": false,
+ "text": "Hi, madam, welcome to HCN. I understand your problem; after having surgery, pain is normal. If you feel severe pain, use tramadol tablets only after dinner and apply diclofenac gel as well. I hope you are satisfied with my answer. Thank you.",
+ "seconds": 5.648
+}

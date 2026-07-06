@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__338846_1",
+ "condition": "white_noise_10",
+ "reference": "Dear Sir, I have a Labrador in my house. He is around two years old. He was vaccinated today in the afternoon around two:zero PM. He bit me, and there are three red scratches on my right hand, but there is one small scratch from which very little blood came. So, do I need to take an injection? I had taken a tetanus injection around eight:zero PM. Now, do I need to take an injection for the dog bite or not?",
+ "audio_seconds": 28.07,
+ "created_at": "2026-07-06T00:45:48+00:00",
+ "failed": false,
+ "text": "Getting hurt and tired, even being hurt will not keep you out of town. Please take your time.",
+ "seconds": 1.037
+}

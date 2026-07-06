@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__648558_2",
+ "condition": "background_noise_20",
+ "reference": "If the frenular tear persists and is not healing, and is associated with cracking of the foreskin, then you might need a frenuloplasty or even a circumcision. However, this decision cannot be made until you are examined by a urologist. Please visit a urologist or a general surgeon.",
+ "audio_seconds": 17.66,
+ "created_at": "2026-07-06T04:40:23+00:00",
+ "failed": false,
+ "text": "If the frenular tear persists and is not healing, and is associated with cracking of the forespin, then you might need a frenuloplasty or even a circumcision. However, this decision cannot be made until you are examined by a urologist. Please visit a urologist or a general surgeon.",
+ "seconds": 0.24
+}

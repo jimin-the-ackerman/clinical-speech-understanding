@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__317402_2",
+ "condition": "background_noise_40",
+ "reference": "Hi. I can understand the problem. It is called lower jaw insufficiency, and it is an orthodontic problem with crowding in the lower front teeth. The yellow layer is called dental calculus, and it is a calcified debris. I would suggest you undergo orthodontic treatment. The dentist may extract one or two teeth as part of the treatment after a thorough examination. He will align the teeth properly within a year. Additionally, undergo scaling and polishing of your teeth as soon as possible.",
+ "audio_seconds": 30.21,
+ "created_at": "2026-07-06T00:43:01+00:00",
+ "failed": false,
+ "text": "Hi, I can understand the problem. It is called lower jaw insufficiency and it is an orthodontic problem with crowding in the lower front teeth. The yellow layer is called dental calculus and it is a calcified debris. I would suggest you undergo orthodontic treatment. The dentist may extract one or two teeth as part of the treatment after a thorough examination. He will align the teeth properly within a year. Additionally, undergo scaling and polishing of your teeth as soon as possible.",
+ "seconds": 1.492
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__705397_1",
+ "condition": "white_noise_6",
+ "reference": "My toddler has had an intestinal virus for two weeks. She vomits every morning when she wakes. She is also bloated and has had constipation problems in the past. She also takes Miralax for the constipation. Should I still be worried? What can I do about the bloating? It feels like her belly is so tight. Help!",
+ "audio_seconds": 20.31,
+ "created_at": "2026-07-06T05:14:09+00:00",
+ "failed": false,
+ "text": "My toddler has had an intestinal virus for two weeks. She vomits every morning when she wakes. She is also bloated and has had constipation problems in the past. She also takes Miralax for the constipation. Should I still be worried? What can I do about the bloating? It feels like her belly is so tight. Help.",
+ "seconds": 0.673
+}

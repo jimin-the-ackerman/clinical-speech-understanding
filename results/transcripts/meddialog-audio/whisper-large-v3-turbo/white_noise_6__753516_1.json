@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__753516_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, I am a twenty-year-old male, and I have always had a dime-sized pebble under my skin on the lower back of my neck. My friends tell me that if it doesn't hurt or grow in size, then I should not worry about it. However, I do not want this to develop into cancer because so many people pass away from cancer. Please, I need advice; I do not want to have surgery where I am going to be 'out.' What if I do not wake up? It can be scary.",
+ "audio_seconds": 29.53,
+ "created_at": "2026-07-06T04:49:09+00:00",
+ "failed": false,
+ "text": "Hi, I am a 20-year-old male and I have always had a dime-sized pebble under my skin on the lower back of my neck. My friends tell me that if it doesn't hurt or grow in size, then I should not worry about it. However, I do not want this to develop into cancer because so many people pass away from cancer. Please, I need advice. I do not want to have surgery where I am going to be out. What if I do not wake up? It can be scary.",
+ "seconds": 0.284
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__973294_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, you need to know about the contractions. They are called abnormal as there is a disruption in the electrical impulse, which makes the heart skip a beat. one. If your heart is functioning completely normally, which is basically confirmed by tests like electrocardiogram, color Doppler of the heart, and treadmill test. If these tests are normal, then there is no need to worry. two. Some habits like excessive use of caffeine, tobacco, and excessive stress level, anxiety, and heavy exercise can cause the heart to skip a beat. If you keep these problems under control, then you will be fine.",
+ "audio_seconds": 41.98,
+ "created_at": "2026-07-06T00:43:43+00:00",
+ "failed": false,
+ "text": "Hello. You know about the contractions. They are called abnormal as there is a disruption in the electrical impulse, which makes the heart skip a beat. One, if your heart is functioning completely normally, which is basically confirmed by tests like electrocardiogram, color doppler of the heart, and treadmill test, if these tests are normal, then there is no need to worry. Two, some habits like excessive use of caffeine, tobacco, and excessive stress level, anxiety, and heavy exercise can cause the heart to skip a beat. If you keep these problems under control, then you will be fine.",
+ "seconds": 2.602
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__930244_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, from where was the angioplasty performed? If it was done from the groin and you are feeling numbness in your feet afterward, get a Doppler ultrasound of the leg arteries and veins done to rule out any hematoma or arteriovenous fistula.",
+ "audio_seconds": 13.99,
+ "created_at": "2026-07-06T05:34:30+00:00",
+ "failed": false,
+ "text": "Hello from where was the inguinal clasp performed? If it was done from the groin, and you are feeling numbness in your feet afterwards, get a Doppler ultrasound of the leg arteries and veins done to rule out any hematoma or arterial venous fistula.",
+ "seconds": 0.543
+}

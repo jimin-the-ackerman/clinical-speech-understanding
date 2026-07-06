@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__943700_2",
+ "condition": "background_noise_60",
+ "reference": "Supraventricular Tachycardia is very symptomatic. You did not tell me if you are on any medication. You should be on a beta-blocker to help control the heart rate. If you are on beta-blockers, then you may be safe to have sex. Ablation is not that dangerous, and Supraventricular Tachycardia is easily corrected by it. If you are not controlled by medications, then you should definitely consider the ablation; the risk is very low.",
+ "audio_seconds": 25.94,
+ "created_at": "2026-07-06T05:26:55+00:00",
+ "failed": false,
+ "text": "Supraventricular tachycardia is very symptomatic. You did not tell me if you are on any medication. You should be on a beta blocker to help control the heart rate. If you are on beta blockers, then you may be safe to have sex. Ablation is not that dangerous, and supraventricular tachycardia is easily corrected by it. If you are not controlled by medications, then you should definitely consider the ablation. The risk is very low.",
+ "seconds": 0.97
+}

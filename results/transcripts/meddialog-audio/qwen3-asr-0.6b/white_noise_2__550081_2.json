@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__550081_2",
+ "condition": "white_noise_2",
+ "reference": "Right now, just apply ice and a crepe bandage. Keep your foot elevated. Continue doing ankle pumping exercises in the elevated position.",
+ "audio_seconds": 11.09,
+ "created_at": "2026-07-06T05:09:51+00:00",
+ "failed": false,
+ "text": "Right now, just apply ice and a craped bandage. Keep your foot elevated. Continue doing ankle pumping exercises in the elevated position.",
+ "seconds": 0.285
+}

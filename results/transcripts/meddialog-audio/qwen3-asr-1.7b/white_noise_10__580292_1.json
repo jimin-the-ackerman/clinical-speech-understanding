@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__580292_1",
+ "condition": "white_noise_10",
+ "reference": "I experienced pain a week ago in my lower left abdomen. It worsened and then subsided and went away. Today, exactly a week later, it returned but did not subside for hours, developing into a dull, uncomfortable ache. This was coupled with a sharp, shooting pain in my vagina. I occasionally get ovarian cysts; could this be the cause?",
+ "audio_seconds": 20.48,
+ "created_at": "2026-07-06T05:32:59+00:00",
+ "failed": false,
+ "text": "By experience, I knew my lower left abdomen was bursting and most excitable. Today, exactly a week later, it returned but did not subside for hours, developing into a dull, uncomfortable ache. This was coupled with a sharp shooting pain in my vagina. I occasionally get ovarian cysts. Could this be the cause?",
+ "seconds": 0.627
+}

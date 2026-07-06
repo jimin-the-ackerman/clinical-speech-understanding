@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__184891_2",
+ "condition": "white_noise_10",
+ "reference": "Seeing his previous doctor is best as he knows the history well. Seeking a second opinion will not change the way he fares. It will reduce your anxiety.",
+ "audio_seconds": 8.62,
+ "created_at": "2026-07-06T05:31:25+00:00",
+ "failed": false,
+ "text": "Seeing his previous doctor confess as he knows his new one, the second opinion will not be asked. It will be returned.",
+ "seconds": 0.269
+}

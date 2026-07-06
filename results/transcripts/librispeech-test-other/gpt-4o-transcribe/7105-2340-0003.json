@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2340-0003",
+ "condition": null,
+ "reference": "WHEN A MAN IS ABSOLUTELY WEALTHY NOT MERELY WELL TO DO ALL SUSPICION OF SORDID MOTIVE NATURALLY DISAPPEARS THE THING BECOMES MERELY A TIRESOME MALADY",
+ "audio_seconds": 10.86,
+ "created_at": "2026-07-05T23:57:43+00:00",
+ "failed": false,
+ "text": "When a man is absolutely wealthy, not merely well-to-do, all suspicion of sordid motive naturally disappears; the thing becomes merely a tiresome malady.",
+ "seconds": 0.776
+}

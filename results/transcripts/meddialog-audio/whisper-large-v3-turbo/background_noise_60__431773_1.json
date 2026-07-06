@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__431773_1",
+ "condition": "background_noise_60",
+ "reference": "My six-year-old has obvious seasonal allergies and experiences severe cases of hay fever. I have also noticed she shows some symptoms of food allergies, but I haven't narrowed them down to specifics. At night, she complains of vaginal burning, but only during the hay fever episodes. Could this be a reaction to food?",
+ "audio_seconds": 18.09,
+ "created_at": "2026-07-06T04:42:54+00:00",
+ "failed": false,
+ "text": "My six-year-old has obvious seasonal allergies and experiences severe cases of hay fever. I have also noticed she shows some symptoms of food allergies, but I haven't narrowed them down to specifics. She complains of vaginal burning, but only during the hay fever episodes. Could this be a reaction to food?",
+ "seconds": 0.234
+}

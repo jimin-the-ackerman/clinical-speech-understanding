@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__646453_1",
+ "condition": "white_noise_6",
+ "reference": "I am twenty-five years old. I want to avoid my pregnancy. What is the procedure to take the tablet? Will you tell me immediately? I have already taken a single tablet. I read the procedure from the tablet kit; the next tablet should be taken after forty-eight hours. After taking two tablets out of four, the remaining tablets should be taken after twelve hours. After the tablet, should I take a rest? Because I am working, if I need complete rest, please tell me how many days.",
+ "audio_seconds": 27.22,
+ "created_at": "2026-07-06T03:10:58+00:00",
+ "failed": false,
+ "text": "I am 25 years old, I want to avoid my pregnancy. What is the procedure to take the tablet? Will you tell me immediately? I have already taken 1 tablet. I read the procedure from the tablet kit. The next tablet should be taken after 48 hours. After taking 2 tablets out of 4, the remaining tablet should be taken after 12 hours. After the tablet, should I take a rest? Because I am working, if I need complete rest, please tell me how many days.",
+ "seconds": 6.072
+}

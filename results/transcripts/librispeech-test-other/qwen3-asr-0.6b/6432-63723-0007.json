@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0007",
+ "condition": null,
+ "reference": "IT WAS ONE OF WHAT AT FIRST MIGHT BE CALLED REFINED CRUELTY ON HER HUSBAND'S PART DEGENERATING GRADUALLY INTO THAT OF THE BASER SORT",
+ "audio_seconds": 9.12,
+ "created_at": "2026-07-06T03:23:04+00:00",
+ "failed": false,
+ "text": "It was one of what at first might be called refined cruelty on her husband's part, degenerating gradually into that of a baser sort.",
+ "seconds": 0.299
+}

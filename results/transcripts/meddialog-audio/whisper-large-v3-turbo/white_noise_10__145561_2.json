@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__145561_2",
+ "condition": "white_noise_10",
+ "reference": "This could either be a viral or fungal infection, an allergy to the various creams that you are applying, a diaper rash, or something else. Please visit a specialist for this.",
+ "audio_seconds": 9.81,
+ "created_at": "2026-07-06T04:45:21+00:00",
+ "failed": false,
+ "text": "This could either be a viral or fungal infection, an allergy to the various frees that you are applying, a diaper rash, or something else. Please visit a specialist for this.",
+ "seconds": 0.195
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__431570_2",
+ "condition": "white_noise_2",
+ "reference": "Pain in the leg has many causes. Are you also experiencing tingling and numbness in your leg? Are you a smoker? Do you also have pain when coughing or sneezing? These are typical signs of disc disease. Do not be scared; get an MRI of the lumbosacral spine. This will give us a good idea of how much the disc is prolapsed.",
+ "audio_seconds": 20.57,
+ "created_at": "2026-07-06T05:36:06+00:00",
+ "failed": false,
+ "text": "Pain in the leg has many causes. Are you also experiencing tingling and numbness in your leg? Are you a smoker? Do you also have pain when coughing or sneezing? These are typical signs of disc disease. Do not forget an MRI of the lumbar sacral spine. This will give us a good idea of how much the disc is collapsed.",
+ "seconds": 0.714
+}

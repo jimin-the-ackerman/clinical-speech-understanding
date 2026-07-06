@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__617033_2",
+ "condition": "background_noise_20",
+ "reference": "If you have had past bad experiences with Chronic Obstructive Pulmonary Disease, then I think you should stop smoking now. What you currently have is chronic bronchitis, an early stage of Chronic Obstructive Pulmonary Disease, and if you do not quit now, it will be too late. Please do a spirometry to assess the effect on your lungs and consult a chest physician, as you need an inhaler with a bronchodilator and steroids.",
+ "audio_seconds": 22.87,
+ "created_at": "2026-07-06T05:17:44+00:00",
+ "failed": false,
+ "text": "If you have had past bad experiences with chronic obstructive pulmonary disease, then I think you should stop smoking now. What you currently have is chronic bronchitis, an early stage of chronic obstructive pulmonary disease, and if you do not quit now, it will be too late. Please do a spirometry to assess the effect on your lungs and consult a chest physician, as you need an inhaler with a bronchodilator and steroids.",
+ "seconds": 0.845
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163622-0015",
+ "condition": null,
+ "reference": "WHEN THEY HAD GONE THUS FOR A LONG LONG WAY THE FOAL AGAIN ASKED DOST THOU SEE ANYTHING NOW",
+ "audio_seconds": 5.79,
+ "created_at": "2026-07-05T12:59:17+00:00",
+ "failed": false,
+ "text": "when they had gone thus for a long long way the foal again asked dost thou see anything now",
+ "seconds": 0.224
+}

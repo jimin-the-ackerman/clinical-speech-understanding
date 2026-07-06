@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-159411-0034",
+ "condition": null,
+ "reference": "PROCEED ON YOUR JOURNEY FRIEND BRAHMAN",
+ "audio_seconds": 3.02,
+ "created_at": "2026-07-05T12:57:01+00:00",
+ "failed": false,
+ "text": "Proceed on your journey, friend Raman.",
+ "seconds": 0.167
+}

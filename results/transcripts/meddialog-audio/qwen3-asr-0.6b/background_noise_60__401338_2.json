@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__401338_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. Kindly follow this prescription: one. Tablet Azithromycin two hundred and fifty milligrams twice daily for the first three days, then on alternate days for three weeks. two. Apply Clindamycin lotion over lesions twice daily. three. Apply Tretinoin gel plus cold cream at night on the whole face in a small quantity. four. Apply scar care gel twice daily over scars. Use a good sunblock with SPF sixty evenly and frequently from morning till evening.",
+ "audio_seconds": 33.02,
+ "created_at": "2026-07-06T04:58:17+00:00",
+ "failed": false,
+ "text": "Hello. Kindly follow this prescription: one, tablet azithromycin two hundred and fifty milligrams twice daily for the first three days, then on alternate days for three weeks. Two, apply clindamycin lotion over lesions daily. Three, apply tretinoin gel plus cold cream at night on the whole face in a small quantity. Apply scar care gel twice daily over scars. Use a good sunblock with SPF sixty evenly and frequently from morning till evening.",
+ "seconds": 0.879
+}

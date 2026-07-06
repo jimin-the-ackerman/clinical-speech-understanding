@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63244-0014",
+ "condition": null,
+ "reference": "I LOOK AFTER THE DETAILS AS WELL AS THE BIG CURRENTS MISSUS FARRINDER ADDED IN A TONE AS EXPLANATORY AS COULD BE EXPECTED OF SUCH A WOMAN AND WITH A SMILE OF WHICH THE SWEETNESS WAS THRILLING TO HER LISTENER",
+ "audio_seconds": 12.99,
+ "created_at": "2026-07-05T13:13:10+00:00",
+ "failed": false,
+ "text": "a look after the details as well as the big currents mrs farinder added in a tone as explanatory as could be expected of such a woman and with a smile of which the sweetness was thrilling to her listener",
+ "seconds": 0.139
+}

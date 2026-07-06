@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__297503_1",
+ "condition": "white_noise_2",
+ "reference": "I have been experiencing some strange things happening to my body. About two months ago, I discovered I had chlamydia and I treated it. A couple of weeks ago, I started having really bad pain in my abdominal area, and I have had severe cramps ever since. I have gained weight, have been nauseous, and have not gotten my period, so I thought I might be pregnant. However, I took a pregnancy test at home a couple of days ago, and it was negative. Now I am thinking it could be something else, or maybe I have chlamydia again. Do you know what it could be or what I should do? I am only sixteen and I am really scared.",
+ "audio_seconds": 35.75,
+ "created_at": "2026-07-06T05:35:32+00:00",
+ "failed": false,
+ "text": "I have been experiencing some strange things happening to my body. About two months ago, I discovered I had chlamydia, and I treated it. A couple of weeks ago, I started having really bad pain in my abdominal area, and I have had severe cramps ever since. I have gained weight, have gained nauseous, and have not gotten my period. So I thought I might be pregnant. However, I took a pregnancy test at home a couple of days ago, and it was negative. Now I am thinking it could be something else, or maybe I have chlamydia again. Do you know what it could be or what I should do? I am only six, and I am really scared.",
+ "seconds": 1.337
+}

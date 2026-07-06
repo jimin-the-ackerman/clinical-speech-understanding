@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41168-0012",
+ "condition": null,
+ "reference": "HE PARTICULARLY LIKED THE WAY ONE GRAY WHISKERED WAITER WHO SHOWED HIS SCORN FOR THE OTHER YOUNGER ONES AND WAS JEERED AT BY THEM WAS TEACHING THEM HOW TO FOLD UP NAPKINS PROPERLY",
+ "audio_seconds": 11.7,
+ "created_at": "2026-07-05T13:03:10+00:00",
+ "failed": false,
+ "text": "he particularly liked the way one grey-whiskered waiter who showed a scorn for the other younger ones and was jeered at by them was teaching them how to fold up napkins properly I was just about to say, I really did like that. You can actually pick up the sign. Oh, I love that. Thank you. Thank you. I really like that. I love that. I think that's, that's very nice of you to say. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you.",
+ "seconds": 6.741
+}

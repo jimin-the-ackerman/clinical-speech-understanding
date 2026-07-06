@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__925954_2",
+ "condition": "white_noise_10",
+ "reference": "It definitely seems to be an allergic reaction. Anything such as food, pollen, medicines, or fabrics can react with body proteins to cause this. You can use an antihistamine tablet and apply triamcinolone mouth paint on the lips. This will address the current symptoms, and if it recurs, we should investigate the cause, in my opinion.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T04:46:35+00:00",
+ "failed": false,
+ "text": "It definitely seems to be a negative reaction. Any things such as being, pollen, medicine, or fabric, can relate to bodybuilding psychologists. You can even type a histamine fabric in a front, financial, and a mouthpiece in a limb. This will address the current symptoms, and if it requires, must it investigate the cost of minding it.",
+ "seconds": 0.239
+}

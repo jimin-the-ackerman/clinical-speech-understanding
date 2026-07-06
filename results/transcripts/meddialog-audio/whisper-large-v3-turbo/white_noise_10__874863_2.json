@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__874863_2",
+ "condition": "white_noise_10",
+ "reference": "Surgical correction is the next step with a general or plastic surgeon. Please rate this response five stars. I strive to provide you with the best answer possible to your question!",
+ "audio_seconds": 11.61,
+ "created_at": "2026-07-06T04:46:29+00:00",
+ "failed": false,
+ "text": "Surgical correction is the next step with a general or plastic surgeon. Please rate this response five stars. I strive to provide you with the best answer possible to your questions.",
+ "seconds": 0.195
+}

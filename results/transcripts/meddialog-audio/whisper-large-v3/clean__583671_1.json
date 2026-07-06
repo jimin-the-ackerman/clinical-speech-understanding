@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__583671_1",
+ "condition": "clean",
+ "reference": "Years ago, I experienced a popping sensation in my head. Before it happened, I had a dull headache. I bent over, and I heard and felt a popping sensation in the back of my head. I was unable to stand upright without a rushing feeling in my head. I was hospitalized, and for several nights, I would experience a strange rushing sensation when I sat upright. I know this sounds strange, but it has always concerned me. I don’t really speak about it because of how crazy it sounds. I was never diagnosed; I basically diagnosed myself with a transient ischemic attack.",
+ "audio_seconds": 31.23,
+ "created_at": "2026-07-06T04:26:44+00:00",
+ "failed": false,
+ "text": "Years ago, I experienced a popping sensation in my head. Before it happened, I had a dull headache. I bent over and I felt the popping sensation in the back of my head. I was unable to stand upright without a rushing feeling in my head. I was hospitalized and for several nights, I would experience a strange rushing sensation when I sat upright. I know this sounds strange, but it has always concerned me. I don't really speak about it because of how crazy it sounds. I was never diagnosed. I basically diagnosed myself with a transient ischemic attack.",
+ "seconds": 1.022
+}

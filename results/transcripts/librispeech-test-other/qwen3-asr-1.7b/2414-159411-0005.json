@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-159411-0005",
+ "condition": null,
+ "reference": "SO THE BRAHMAN AND THE TIGER WALKED ON TILL THEY CAME TO A BANYAN TREE AND THE BRAHMAN SAID TO IT BANYAN TREE BANYAN TREE HEAR AND GIVE JUDGMENT",
+ "audio_seconds": 13.48,
+ "created_at": "2026-07-06T03:27:47+00:00",
+ "failed": false,
+ "text": "So the Brahmin and the tiger walked on, till they came to a banyan tree, and the Brahmin said to it, \"Banyan tree, banyan tree, hear and give judgment.\"",
+ "seconds": 0.431
+}

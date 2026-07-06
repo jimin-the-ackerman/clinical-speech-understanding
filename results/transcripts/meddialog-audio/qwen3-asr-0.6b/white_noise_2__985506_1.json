@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__985506_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, I am Nityanand. I have been experiencing pain in the upper right side of my abdomen and in the back in the same region for about two months. I have been diagnosed with fatty liver. I have been chewing tobacco with pan masala for quite some time. Is it in any way connected with fatty liver? Please help me.",
+ "audio_seconds": 18.94,
+ "created_at": "2026-07-06T05:11:40+00:00",
+ "failed": false,
+ "text": "Hi, I am Nitinand. I have been experiencing pain in the upper right side of my abdomen and in the back in the same region for about two months. I have been diagnosed with fatty liver. I have been chewing tobacco with Panmussala for quite a while. Is it in any way connected with fatty liver? Please help me.",
+ "seconds": 0.649
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__111949_1",
+ "condition": "clean",
+ "reference": "I have had pain in my pelvic area starting on the left side and going across the front of my body to my right side. I have not had this kind of pain before. I do know that around this time I also had urine with a foul odor and my urine looks like a faded or dull yellow color. I also have pain on my right side above my leg in my abdominal area. What can this be?",
+ "audio_seconds": 21.25,
+ "created_at": "2026-07-06T05:27:15+00:00",
+ "failed": false,
+ "text": "I have had pain in my pelvic area, starting on the left side and going across the front of my body to my right side. I have not had this kind of pain before. I do know that around this time, I also had urine with a foul odor, and my urine looks like a faded or dull yellow color. I also have pain on my right side above my leg in my abdominal area. What can this be?",
+ "seconds": 0.811
+}

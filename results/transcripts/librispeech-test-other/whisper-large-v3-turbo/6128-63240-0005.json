@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63240-0005",
+ "condition": null,
+ "reference": "IN SPITE OF THIS DECORATION THE YOUNG MAN LOOKED POOR AS POOR AS A YOUNG MAN COULD LOOK WHO HAD SUCH A FINE HEAD AND SUCH MAGNIFICENT EYES",
+ "audio_seconds": 9.49,
+ "created_at": "2026-07-05T13:13:04+00:00",
+ "failed": false,
+ "text": "in spite of this decoration the young man looked poor as poor as a young man could look who had such a fine head and such magnificent eyes",
+ "seconds": 0.124
+}

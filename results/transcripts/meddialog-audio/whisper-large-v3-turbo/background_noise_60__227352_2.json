@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__227352_2",
+ "condition": "background_noise_60",
+ "reference": "Hi there. Your symptoms are suggestive of a muscle spasm. The main treatment required is taking adequate rest to relax these muscles. Try taking bed rest for a couple of days. Avoid bending down or lifting heavy weights. Apply topical analgesic ointment over your back, and some short wave diathermy under a physiotherapist might help. This sort of pain can occur when your muscles have been getting fatigued over a long time. Also, check your vitamin D levels, as low vitamin D levels can cause muscle cramps and spasms. Take plenty of fluids.",
+ "audio_seconds": 36.78,
+ "created_at": "2026-07-06T04:42:36+00:00",
+ "failed": false,
+ "text": "Hi there. Your symptoms are suggestive of a muscle spasm. The main treatment required is taking adequate rest to relax these muscles. Try taking bed rest for a couple of days. Avoid bending down or lifting heavy weights. Apply topical analgesic ointment over your back and some shortwave diathermy under a physiotherapist might help. This sort of pain can occur when your muscles have been getting fatigued over a long time. Also, check your vitamin D levels. As low vitamin D levels can cause muscle cramps and spasms, take plenty of fluids.",
+ "seconds": 0.473
+}

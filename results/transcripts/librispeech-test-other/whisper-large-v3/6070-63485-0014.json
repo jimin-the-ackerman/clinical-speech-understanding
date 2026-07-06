@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-63485-0014",
+ "condition": null,
+ "reference": "WELL MY WIFE SHALL BE THERE SAID THE SCHOOLMASTER YOU WILL TELL HER WHAT YOU WANT AND I SHALL SEE",
+ "audio_seconds": 8.04,
+ "created_at": "2026-07-05T13:04:12+00:00",
+ "failed": false,
+ "text": "well my wife shall be there said the schoolmaster you will tell her what you want and i shall see",
+ "seconds": 0.241
+}

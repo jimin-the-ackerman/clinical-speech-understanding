@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__657742_1",
+ "condition": "background_noise_60",
+ "reference": "I had a cold a couple of weeks ago that got a little better, but I found I couldn't get my breath properly. I went to the doctor, who said my chest was clear and gave me an inhaler. It's not really helping after two days of using it, and as it's a reliever, I thought I would feel a difference by now.",
+ "audio_seconds": 17.66,
+ "created_at": "2026-07-06T05:25:37+00:00",
+ "failed": false,
+ "text": "I had a cold a couple of weeks ago that got a little better, but I found I couldn't get my breath properly. I went to the doctor. He said my chest was clear and gave me an inhaler. It's not really helping after two days of using it, and as it's a reliever, I thought I would feel a difference by now.",
+ "seconds": 0.717
+}

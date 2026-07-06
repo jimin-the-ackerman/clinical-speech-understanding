@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__580292_1",
+ "condition": "white_noise_10",
+ "reference": "I experienced pain a week ago in my lower left abdomen. It worsened and then subsided and went away. Today, exactly a week later, it returned but did not subside for hours, developing into a dull, uncomfortable ache. This was coupled with a sharp, shooting pain in my vagina. I occasionally get ovarian cysts; could this be the cause?",
+ "audio_seconds": 20.48,
+ "created_at": "2026-07-06T04:46:01+00:00",
+ "failed": false,
+ "text": "I experienced being in my lower life after, the adversity and then subsiding in my life. Today, exactly a week later, the return that did not subside for hours was developed into a dull, uncomfortable ache. This was coupled with a sharp, shooting glee in my vagina, and I occasionally get a very stiff. Could this be the cost?",
+ "seconds": 0.268
+}

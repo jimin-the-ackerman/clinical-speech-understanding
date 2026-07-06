@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__686252_1",
+ "condition": "white_noise_10",
+ "reference": "I had a Mirena coil fitted two weeks ago. I was hospitalized with low pelvic pain, and a scan showed that the coil was positioned low and there was free fluid in the uterus. I was on intravenous antibiotics overnight and then sent home. I have since been in pain still, but I sneezed and had a popping sensation, and the pain increases. The popping has happened twice this week. The pain is quite bad now, but I have no blood loss.",
+ "audio_seconds": 24.92,
+ "created_at": "2026-07-06T05:06:40+00:00",
+ "failed": false,
+ "text": "I had a marina coil for two weeks ago. I was hospitalized for low pressure breathing, and a scan showed that the coil was positioned below when there was free fluid in the uterus. I was on intravenous antibiotics and then said, \"Well, I have since been in painful, but I see not a puppy sensation, and the pain is brief.\" A puppy is having twice the pain. The pain is quite bad now, but I have no blood loss.",
+ "seconds": 0.853
+}

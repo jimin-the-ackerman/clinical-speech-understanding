@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__707616_1",
+ "condition": "white_noise_6",
+ "reference": "I took a really hot bath; that is how I like them. My sides and back started to ache and feel cramped really badly, so I got out. All of a sudden, I felt overwhelmed. My chest got tight, I became short of breath, and my heart was pounding hard. Was that a panic attack?",
+ "audio_seconds": 18.26,
+ "created_at": "2026-07-06T05:14:12+00:00",
+ "failed": false,
+ "text": "I took a really hot bath. That is how I liked it. My sides and backs started to ache, and Phil cramped really badly. So I got out. All of a sudden, I felt overwhelmed. My chest got tight. I became short of breath, and my heart was pounding hard. Was that a panic attack?",
+ "seconds": 0.615
+}

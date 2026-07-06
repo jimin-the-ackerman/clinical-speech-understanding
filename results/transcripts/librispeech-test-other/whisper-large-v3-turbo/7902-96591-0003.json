@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96591-0003",
+ "condition": null,
+ "reference": "I WISH YOU WOULD BELIEVE ME THAT I AM IN AS GREAT TROUBLE ABOUT IT AS YOU ARE",
+ "audio_seconds": 3.83,
+ "created_at": "2026-07-05T13:13:47+00:00",
+ "failed": false,
+ "text": "i wish you would believe me that i am in as great trouble about it as you are",
+ "seconds": 0.115
+}

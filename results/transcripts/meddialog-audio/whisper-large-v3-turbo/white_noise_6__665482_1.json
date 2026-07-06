@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__665482_1",
+ "condition": "white_noise_6",
+ "reference": "Sir, my mother is about fifty years of age, and she has been suffering from a severe headache behind the left ear and severe neck pain for the past twenty-five days, along with seizures. She fainted for fifteen minutes, and nerve cramps occurred. The computed tomography scan of the brain has shown a calcified granuloma in the left lobe. Please suggest a better diagnosis and treatment.",
+ "audio_seconds": 21.67,
+ "created_at": "2026-07-06T04:49:00+00:00",
+ "failed": false,
+ "text": "Sir went about 50 years of age and she has been suffering from a severe headache behind the left ear and severe neck pain for the past 25 days along with seizures. She fainted for 15 minutes and nerve cramps occurred. The computed tomography scan in the brain has shown a calcified granuloma in the left lobe. Please suggest a better diagnosis and treatment.",
+ "seconds": 0.268
+}

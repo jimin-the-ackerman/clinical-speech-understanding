@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__612438_2",
+ "condition": "clean",
+ "reference": "Hello, I have reviewed your question and understand your concerns. I think you should investigate the cause of this neuropathy and stop taking steroids. I recommend undergoing an electromyography and nerve conduction velocity test for the affected lower limb, an X-ray of the cervical spine and lumbosacral spine, and checking your blood sugar level to exclude diabetes. I prefer prescribing neurotonics and pregabalin.",
+ "audio_seconds": 25.43,
+ "created_at": "2026-07-06T04:26:50+00:00",
+ "failed": false,
+ "text": "Hello, I have reviewed your question and understand your concerns. I think you should investigate the cause of this neuropathy and stop taking steroids. I recommend undergoing an electromyography and nerve conduction velocity test for the affected lower limb, an x-ray of the cervical spine and lumbosacral spine, and checking your blood sugar level to exclude diabetes. I prefer prescribing neurotonics and pregabalin.",
+ "seconds": 0.707
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__449709_2",
+ "condition": "white_noise_10",
+ "reference": "You should not worry at all regarding your white blood cell count of three,eight hundred. It is not always necessary that every parameter falls strictly within the reference range. three,eight hundred is almost normal. It will fall within the range in a short period. Forget about it.",
+ "audio_seconds": 14.85,
+ "created_at": "2026-07-06T05:05:41+00:00",
+ "failed": false,
+ "text": "You should not worry at all regarding your wife's life outcome. Be 800 years. It is not always necessary that every parameter falls within the boundaries. Three eight hundred is almost one. It will fall within the range in four years. Forget about it.",
+ "seconds": 0.5
+}

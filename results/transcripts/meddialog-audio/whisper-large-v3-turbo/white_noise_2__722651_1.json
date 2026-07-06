@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__722651_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, I dislocated my right ankle fourteen years ago and had an operation one year later. Ever since then, I have experienced a sharp, sheer pain that travels up to my Achilles tendon, lasting for twenty seconds. What causes this? Recently, it has been getting worse, and swelling has formed around the tendon, along with pain around the heel and tendon. I am also experiencing pain around the ankle joint. Sometimes, I cannot walk on it. It occasionally feels cold, then very warm, with a tingling sensation. What could this be?",
+ "audio_seconds": 36.1,
+ "created_at": "2026-07-06T04:47:44+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I dislocated my right ankle 14 years ago and had an operation one year later. Ever since then, I have experienced a sharp, sheer pain that travels up to my Achilles tendon, lasting for 20 seconds. What causes this? Recently, it has been getting worse, and swelling has formed around the tendon along with pain around the heel and tendon. I am also experiencing pain around the ankle joint. Sometimes, I cannot walk on it. It occasionally feels cold, then very warm, with a tingling sensation. What could this be?",
+ "seconds": 0.377
+}

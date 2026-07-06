@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__236708_2",
+ "condition": "white_noise_6",
+ "reference": "Do not ignore the symptoms of an acute allergic reaction, as late-onset anaphylaxis is also a possibility. Do see an allergy specialist soon.",
+ "audio_seconds": 8.79,
+ "created_at": "2026-07-06T00:47:12+00:00",
+ "failed": false,
+ "text": "We cannot accept cryptocurrency.",
+ "seconds": 0.925
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__615895_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, do visit a physician. Get correctly diagnosed as to what is causing the pain in your abdomen. The abdomen is a complex area containing many organs. Symptomatically, you can try using the tablet Spasmoproxyvon for three days.",
+ "audio_seconds": 15.62,
+ "created_at": "2026-07-06T05:40:51+00:00",
+ "failed": false,
+ "text": "Hello. Do visit a physician. Get correctly guided notes as to what is causing the pain in your abdomen. The abdomen is a complex area containing many organs. Symptomatically, you can try using the tablet Spasmopoxbon for three days.",
+ "seconds": 0.495
+}

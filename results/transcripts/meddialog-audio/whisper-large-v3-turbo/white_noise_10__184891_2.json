@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__184891_2",
+ "condition": "white_noise_10",
+ "reference": "Seeing his previous doctor is best as he knows the history well. Seeking a second opinion will not change the way he fares. It will reduce your anxiety.",
+ "audio_seconds": 8.62,
+ "created_at": "2026-07-06T04:45:25+00:00",
+ "failed": false,
+ "text": "Seeing his previous doctor is that, as he knows the history of them, the second is coming, but not like his parents, but they reduce their anxiety.",
+ "seconds": 0.174
+}

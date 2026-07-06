@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180297-0022",
+ "condition": null,
+ "reference": "WHAT I LOVED IN YOU WAS NOT THE MAN WHO WAS BUT THE MAN WHO WAS GOING TO BE",
+ "audio_seconds": 5.51,
+ "created_at": "2026-07-05T13:11:20+00:00",
+ "failed": false,
+ "text": "what i loved and knew was not the man who was but the man who was going to be",
+ "seconds": 0.127
+}

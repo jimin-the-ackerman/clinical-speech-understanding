@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__335612_2",
+ "condition": "background_noise_40",
+ "reference": "Doctors are aware that examinations can cause an erection that is not sexual. You do not need to worry. Please rate five stars! I strive to provide the best answers to your questions.",
+ "audio_seconds": 10.07,
+ "created_at": "2026-07-06T00:43:02+00:00",
+ "failed": false,
+ "text": "Doctors are aware that examinations can cause an erection that is not sexual. You do not need to worry. Please rate 5 stars. I strive to provide the best answers to your questions.",
+ "seconds": 1.013
+}

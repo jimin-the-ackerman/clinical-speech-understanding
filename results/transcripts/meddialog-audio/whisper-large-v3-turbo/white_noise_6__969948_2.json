@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__969948_2",
+ "condition": "white_noise_6",
+ "reference": "It would have helped to know the initial stage of your cancer and the time that has elapsed since you completed treatment. That information would have helped me assess the risk of recurrence of your cancer. That is my only concern at the moment. Your weight loss is the concerning feature for recurrence. What the recurrence does not explain is your elevated heart rate. As an oncologist, I would have ordered a positron emission tomography scan rather than a computed tomography scan, as that would have scanned your entire body. Anyway, now that you have had a computed tomography scan done, it is prudent to wait for the results. Normally, the results take one day to one week, depending upon the center.",
+ "audio_seconds": 39.85,
+ "created_at": "2026-07-06T04:49:30+00:00",
+ "failed": false,
+ "text": "It would have helped to know the initial stage of your cancer and the time that has elapsed since you completed treatment. That information would have helped me assess the risk of recurrence of your cancer. That is my only concern at the moment. Your weight loss is the concerning feature for recurrence. What the recurrence does not explain is your elevated heart rate. As an oncologist, I would have ordered a positron emission tomography scan rather than a computed tomography scan, as that would have scanned your entire body. Anyway, now that you have had a computed tomography scan done, it is prudent to wait for the results. Normally, the results take one day to one week, depending upon the center.",
+ "seconds": 0.421
+}

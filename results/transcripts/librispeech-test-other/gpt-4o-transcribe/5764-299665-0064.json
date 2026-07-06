@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "5764-299665-0064",
+ "condition": null,
+ "reference": "CAN WE CURE DISEASE BY SUPPLICATION",
+ "audio_seconds": 3.69,
+ "created_at": "2026-07-05T23:56:55+00:00",
+ "failed": false,
+ "text": "Can we cure disease by supplication?",
+ "seconds": 0.51
+}

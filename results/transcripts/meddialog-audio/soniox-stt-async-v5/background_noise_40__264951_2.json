@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__264951_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, I can advise some methods to control your aggressive behavior. It is advisable to take lithium to control that behavior. I would advise you to discuss this with your doctor.",
+ "audio_seconds": 10.75,
+ "created_at": "2026-07-06T02:50:28+00:00",
+ "failed": false,
+ "text": "Hi, I can advise some methods to control your aggressive behavior. It is advisable to take lithium to control that behavior. I would advise you to discuss this with your doctor.",
+ "seconds": 4.688
+}

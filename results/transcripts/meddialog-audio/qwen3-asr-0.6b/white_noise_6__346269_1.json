@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__346269_1",
+ "condition": "white_noise_6",
+ "reference": "My ten-month-old has had a low-grade fever for the past three days and has been suffering from diaper rash this past week due to teething and diarrhea. I just changed her diaper, and she became very upset when I wiped her. I also noticed a pink hue on her wipe. What should I do?",
+ "audio_seconds": 15.02,
+ "created_at": "2026-07-06T05:12:32+00:00",
+ "failed": false,
+ "text": "My ten-month-old has had a low-grade fever for the past three days and has been suffering from diaper rash this past week due to teething and diarrhea. I just changed her diaper, and she became very upset in the wheelchair. I also noticed a wound on the leg. What should I do?",
+ "seconds": 0.56
+}

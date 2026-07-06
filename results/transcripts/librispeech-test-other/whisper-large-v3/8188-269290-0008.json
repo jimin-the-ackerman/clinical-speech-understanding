@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0008",
+ "condition": null,
+ "reference": "I KNOW YOU DON'T QUITE MEAN WHAT YOU SAY SAID LESLIE BUT OF COURSE IF YOU REALLY WISH ME",
+ "audio_seconds": 6.01,
+ "created_at": "2026-07-05T13:08:08+00:00",
+ "failed": false,
+ "text": "i know you don't quite mean what you say said leslie but of course if you really wish me you",
+ "seconds": 0.33
+}

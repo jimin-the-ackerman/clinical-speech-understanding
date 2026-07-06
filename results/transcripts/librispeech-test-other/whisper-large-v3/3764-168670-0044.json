@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168670-0044",
+ "condition": null,
+ "reference": "WHAT DOES NOT A MAN UNDERGO FOR THE SAKE OF A CURE",
+ "audio_seconds": 3.26,
+ "created_at": "2026-07-05T12:59:54+00:00",
+ "failed": false,
+ "text": "What does not a man undergo for the sake of a cure?",
+ "seconds": 0.179
+}

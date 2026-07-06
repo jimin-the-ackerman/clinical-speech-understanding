@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__498851_1",
+ "condition": "background_noise_60",
+ "reference": "My grandmother is in critical condition right now. She is on dialysis due to end-stage renal failure, has experienced four heart attacks, septicemia, and a hemorrhagic stroke. Today, she is making voluntary movements while on a ventilator. How come the doctor is still administering dialysis to her? Please explain why.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T04:43:00+00:00",
+ "failed": false,
+ "text": "My grandmother is in critical condition right now. She was on dialysis due to the end-stage spinal failure. She has experienced four heart attacks, septicemia, and a hemorrhagic stroke. Today, she is making a role in her immune response while on the rotation. How can the doctor still administering dialysis to her? It is a plain line.",
+ "seconds": 0.286
+}

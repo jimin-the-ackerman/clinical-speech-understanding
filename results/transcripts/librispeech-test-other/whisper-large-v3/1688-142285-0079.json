@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0079",
+ "condition": null,
+ "reference": "NO MAMMA THAT ANNE BUCKLEY WOULD NEVER HAVE DONE",
+ "audio_seconds": 3.83,
+ "created_at": "2026-07-05T12:55:44+00:00",
+ "failed": false,
+ "text": "no mamma that anne buckley would never have done you",
+ "seconds": 0.28
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__149617_2",
+ "condition": "background_noise_40",
+ "reference": "I would like to know first whether you have any symptoms or not. As you mentioned gallbladder wall thickening, I want to know the size of the thickness. If you are having abdominal pain with gallbladder thickness more than four millimeters, it is suggestive of acute cholecystitis, which requires surgery.",
+ "audio_seconds": 15.96,
+ "created_at": "2026-07-06T05:19:39+00:00",
+ "failed": false,
+ "text": "I would like to know first whether you have any symptoms or not. As you mentioned gallbladder wall thickening, I want to know the size of the thickness. If you are having abdominal pain with gallbladder thickness more than four millimeters, it is suggestive of acute cholecystitis, which requires surgery.",
+ "seconds": 0.617
+}

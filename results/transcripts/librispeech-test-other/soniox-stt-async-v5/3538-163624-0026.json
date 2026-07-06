@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163624-0026",
+ "condition": null,
+ "reference": "NOT LONG TO WAIT HE SAID TILL THE BITTER SWORD STANDS FAST IN MY HEART AND THOU WILL NOT LIVE LONG WHEN I AM DEAD",
+ "audio_seconds": 6.38,
+ "created_at": "2026-07-06T00:07:38+00:00",
+ "failed": false,
+ "text": "Not long to wait, he said, till the bitter sword stands fast in my heart, and thou will not live long when I am dead.",
+ "seconds": 4.142
+}

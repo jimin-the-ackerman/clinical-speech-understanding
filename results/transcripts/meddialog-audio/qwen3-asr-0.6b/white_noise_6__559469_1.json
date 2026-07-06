@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__559469_1",
+ "condition": "white_noise_6",
+ "reference": "Yesterday, I started having a very sharp stinging pain on my left side, about three inches from my belly button. Nothing really helps, but nothing really causes a trigger. Stretching may help, but it may also hurt. Bending usually triggers it, but not always. It is a very isolated spot.",
+ "audio_seconds": 18.43,
+ "created_at": "2026-07-06T05:13:31+00:00",
+ "failed": false,
+ "text": "Yesterday, I started having a very sharp, stinging pain on my left side, about three inches from my belly button. Nothing really causes a trigger. Stretching may help, but it may also hurt. Bending usually triggers it, but not always. It is a very isolated spot.",
+ "seconds": 0.546
+}

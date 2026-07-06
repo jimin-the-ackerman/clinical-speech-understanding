@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__745830_2",
+ "condition": "white_noise_10",
+ "reference": "According to me, this is a muscle strain. You do not need to worry; just give it some rest, and heat fermentation will suffice.",
+ "audio_seconds": 7.0,
+ "created_at": "2026-07-06T05:06:57+00:00",
+ "failed": false,
+ "text": "According to me, this is a muscle strain. You do not need to worry. Just give it some rest and a few fermentations will suffice.",
+ "seconds": 0.298
+}

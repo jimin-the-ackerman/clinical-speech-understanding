@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28319-0005",
+ "condition": null,
+ "reference": "HOW YOU HAVE IMPROVED MY BOY HE EXCLAIMED IT IS NOW TIME FOR YOU TO TRY AND THIS IS AS GOOD A CHANGE AS ANY",
+ "audio_seconds": 7.64,
+ "created_at": "2026-07-06T02:27:57+00:00",
+ "failed": false,
+ "text": "\"How have you improved, my boy?\" he had exclaimed. \"It is now time for you to try.\" And this is as good a change as any.",
+ "seconds": 5.206
+}

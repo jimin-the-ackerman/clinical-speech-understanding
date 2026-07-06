@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__406278_1",
+ "condition": "background_noise_60",
+ "reference": "My daughter has just had a baby who is two weeks old. During pregnancy, a lump was found in her breast, which is quite large and was diagnosed as a sticky cyst that is benign. She has been told that it does need to be removed, but since giving birth, it has become very large. Should she be worried? She also has a fibrous cyst in the other breast, which is also benign and will be removed as soon as she can.",
+ "audio_seconds": 23.55,
+ "created_at": "2026-07-06T04:22:02+00:00",
+ "failed": false,
+ "text": "My daughter has just had a baby and is two weeks old. During pregnancy, a lump was found in her breast, which is quite large and was diagnosed as a sticky cyst that is benign. She has been told that it does need to be removed, but since giving birth it has become very large. Should she be worried? She also has a fibrous cyst in the other breast, which is also benign and will be removed as soon as she can.",
+ "seconds": 0.752
+}

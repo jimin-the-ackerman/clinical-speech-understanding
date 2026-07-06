@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0022",
+ "condition": null,
+ "reference": "SOME DAY JANE YOU MUST SEE HER",
+ "audio_seconds": 2.56,
+ "created_at": "2026-07-06T02:40:48+00:00",
+ "failed": false,
+ "text": "Someday, Jane, you must see her.",
+ "seconds": 11.56
+}

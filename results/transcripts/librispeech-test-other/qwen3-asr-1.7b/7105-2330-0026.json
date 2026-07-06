@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2330-0026",
+ "condition": null,
+ "reference": "CAN'T YOU GET A STRIKE PERMIT ASKED THE ORGANISER",
+ "audio_seconds": 3.51,
+ "created_at": "2026-07-06T03:35:56+00:00",
+ "failed": false,
+ "text": "Can't you get a strike permit?\" asked the organizer.",
+ "seconds": 0.149
+}

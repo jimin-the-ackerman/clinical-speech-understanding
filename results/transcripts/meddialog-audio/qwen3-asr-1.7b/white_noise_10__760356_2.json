@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__760356_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. If you are experiencing heavy bleeding, then it is likely that your abortion was not complete. You should immediately get an ultrasound scan to determine if the uterus is empty or not. If the uterus is not empty, then you need to address this by removing the products of conception using instruments. If you neglect this, it may lead to sepsis and adverse effects on your health.",
+ "audio_seconds": 21.33,
+ "created_at": "2026-07-06T05:33:43+00:00",
+ "failed": false,
+ "text": "Hello, if you are experiencing heavy bleeding, then it is likely that your abortion was not complete. You should immediately consult a gynecologist to determine the nature of the symptoms and loss. If the uterus is not empty, then you need to address this by removing the conception device. If you neglect this, it may lead to substance and adverse effects on your health.",
+ "seconds": 0.702
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0037",
+ "condition": null,
+ "reference": "AT HIS FEET WAS PLACED A TABLE OCCUPIED BY TWO SCRIBES WHOSE DUTY IT WAS TO RECORD THE PROCEEDINGS OF THE DAY",
+ "audio_seconds": 7.33,
+ "created_at": "2026-07-05T23:58:59+00:00",
+ "failed": false,
+ "text": "At his feet was placed a table occupied by two scribes whose duty it was to record the proceedings of the day.",
+ "seconds": 0.964
+}

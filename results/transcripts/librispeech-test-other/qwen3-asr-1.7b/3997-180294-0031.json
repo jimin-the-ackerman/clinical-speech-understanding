@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180294-0031",
+ "condition": null,
+ "reference": "YOU STILL LOVE ME CAN YOU ASK",
+ "audio_seconds": 3.19,
+ "created_at": "2026-07-06T03:31:01+00:00",
+ "failed": false,
+ "text": "You still love me? Can you ask?",
+ "seconds": 0.127
+}

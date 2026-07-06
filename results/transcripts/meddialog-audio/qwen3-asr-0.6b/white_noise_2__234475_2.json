@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__234475_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, earlier around one thousand, nine hundred and eighty, open heart surgery had a high risk, but nowadays, with better techniques and equipment, the risk is minimal unless he has multiple other problems. There should not be any issues. Just talk freely with your cardiac surgeon, and he will guide you completely.",
+ "audio_seconds": 21.5,
+ "created_at": "2026-07-06T05:08:32+00:00",
+ "failed": false,
+ "text": "Earlier, around one thousand nine hundred and eighty, open heart surgery had a high risk. But nowadays, with better techniques and equipment, the risk is minimal unless he has multiple other problems. There should not be any issues. Just talk with your cardiac surgeon, and he will guide you completely.",
+ "seconds": 0.552
+}

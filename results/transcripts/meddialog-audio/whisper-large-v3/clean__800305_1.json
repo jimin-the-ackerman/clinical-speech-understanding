@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__800305_1",
+ "condition": "clean",
+ "reference": "I was recently hospitalized in an emergency because I felt like I was choking and couldn't breathe. I coded and they had me on oxygen. They did a chest X-ray and said I had pneumonia. I stayed in the hospital for four days. They also said I had Chronic Obstructive Pulmonary Disease and sleep apnea. During my stay, they said my heart stopped and my lungs filled with fluid. Could this be congestive heart failure?",
+ "audio_seconds": 22.53,
+ "created_at": "2026-07-06T04:27:40+00:00",
+ "failed": false,
+ "text": "I was recently hospitalized in an emergency because I felt like I was choking and couldn't breathe. I coded and they had me on oxygen. They did a chest x-ray and said I had pneumonia. I stayed in the hospital for four days. They also said I had chronic obstructive pulmonary disease and sleep apnea. During my stay, they said my heart stopped and my lungs filled with fluid. Could this be congestive heart failure?",
+ "seconds": 0.752
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-86744-0023",
+ "condition": null,
+ "reference": "CERTAINLY THESE ARE QUESTIONS THAT IN YOUR PLACE I SHOULD LIKE TO HAVE ANSWERED",
+ "audio_seconds": 4.63,
+ "created_at": "2026-07-06T03:22:23+00:00",
+ "failed": false,
+ "text": "Certainly, these are questions that, in your place, I should like to have answered.",
+ "seconds": 0.2
+}

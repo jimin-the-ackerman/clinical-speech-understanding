@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__930605_2",
+ "condition": "white_noise_6",
+ "reference": "Your cycles may be irregular for a few months after stopping the pills, and it may take three to six months to conceive. So, don't worry; relax, everything will be alright.",
+ "audio_seconds": 12.2,
+ "created_at": "2026-07-06T05:42:23+00:00",
+ "failed": false,
+ "text": "Recycles may be regular for a few months after something is killed, and it may take up to six months to conceive. So don't worry. Alas, everything will be all right.",
+ "seconds": 0.388
+}

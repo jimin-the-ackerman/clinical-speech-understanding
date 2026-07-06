@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__711878_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. A blood clot in the aqueous chamber will be absorbed spontaneously; however, if it is larger, it may need to be surgically removed. Membrane formation is also removed surgically. Due to the displaced lens, the vision is poor. It can be corrected by placing an intraocular lens. There is a good chance of restoring vision since there is no retinal injury. However, we need to confirm if everything is normal anterior to the retina. It would have been better if you had attached the reports.",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T05:41:17+00:00",
+ "failed": false,
+ "text": "Hello, a blood clot in the vitreous chamber will be absorbed spontaneously. However, if it is larger, it may need to be surgically removed. There is a good chance of restoring vision since there is no retinal injury. However, we need to confirm if everything is normal anterior to the retina. It would have been better if you had attached the report.",
+ "seconds": 0.711
+}

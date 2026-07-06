@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__840951_1",
+ "condition": "background_noise_20",
+ "reference": "Sir, my brother is mentally ill. For the past few months, he has been acting very aggressively. He is writing about politics, Islam, and regarding the poor and rich, as well as about sports, which has no meaning. He is saying things that are off-topic. He is getting angry with his own relatives and also insisting on doing things once he thinks of doing them. How can this condition be cured?",
+ "audio_seconds": 23.04,
+ "created_at": "2026-07-06T04:52:45+00:00",
+ "failed": false,
+ "text": "Sir, my brother is mentally ill. For the past few months, he has been acting very aggressively. He is writing about politics, Islam, and regarding the poor and rich, as well as about sports, which has no meaning. He is saying things that are off topic. He is getting angry with his own relatives, and also insisting on doing things once he thinks of doing them. How can this condition be cured?",
+ "seconds": 0.766
+}

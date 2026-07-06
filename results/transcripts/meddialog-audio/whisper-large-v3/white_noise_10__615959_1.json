@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__615959_1",
+ "condition": "white_noise_10",
+ "reference": "I do marathons; my body is used to long distances. However, lately, for the last three weeks, after just two or three miles, the lower right portion of my back starts to hurt badly. I have to stop and stretch. This morning I completed four miles, and I can barely sit, stand, or walk right now. What is wrong?",
+ "audio_seconds": 19.11,
+ "created_at": "2026-07-06T04:30:30+00:00",
+ "failed": false,
+ "text": "I do marathons, my body is used to long distances, however, lately, for the last 3 weeks, after just 2 or 3 miles, the lower right portion of my back starts to hurt badly, I have to stop and stretch, this morning I completed 4 miles, and I can barely sit, stand, or walk right now, what is wrong?",
+ "seconds": 0.577
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__783501_2",
+ "condition": "white_noise_10",
+ "reference": "Based on the details, it seems to be due to gastritis, which occurs due to hyperacidity. Restaurant food is generally spicier and hence triggers more gastric acids, which may cause discomfort in the upper central or right side of the abdomen, as in your case. It might have also caused a gastric ulcer, which gets aggravated from time to time, creating problems. Please avoid spicy food. Eat in small amounts but at frequent intervals. Taking an omeprazole capsule once before breakfast for one and a half months will give you relief. It is still advisable to keep in follow-up with a doctor regarding this.",
+ "audio_seconds": 39.51,
+ "created_at": "2026-07-06T00:46:05+00:00",
+ "failed": false,
+ "text": "To the extent that the remedy of the court is equitable, the court must, as a court of equity and as a court of conscience, the court of conscience is a court of equity.",
+ "seconds": 1.236
+}

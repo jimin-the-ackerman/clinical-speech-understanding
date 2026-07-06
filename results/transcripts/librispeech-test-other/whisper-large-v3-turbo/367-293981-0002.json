@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-293981-0002",
+ "condition": null,
+ "reference": "I SAY REPLIED SANCHO THAT I SWEAR TO HOLD MY TONGUE ABOUT IT TILL THE END OF YOUR WORSHIP'S DAYS AND GOD GRANT I MAY BE ABLE TO LET IT OUT TOMORROW",
+ "audio_seconds": 8.2,
+ "created_at": "2026-07-05T13:10:57+00:00",
+ "failed": false,
+ "text": "i say replied sancho that i swear to hold my tongue about it till the end of your worship stays and gongrat i may be able to let it out to-morrow",
+ "seconds": 0.138
+}

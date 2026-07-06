@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63240-0017",
+ "condition": null,
+ "reference": "THIS LAST REMARK HE MADE AT A VENTURE FOR HE HAD NATURALLY NOT DEVOTED ANY SUPPOSITION WHATEVER TO MISSUS LUNA",
+ "audio_seconds": 7.4,
+ "created_at": "2026-07-05T13:13:05+00:00",
+ "failed": false,
+ "text": "This last remark he made at a venture, for he had, naturally, not devoted any supposition whatever to Mrs Luna.",
+ "seconds": 0.123
+}

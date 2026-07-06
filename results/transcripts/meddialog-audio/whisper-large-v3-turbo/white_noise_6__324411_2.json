@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__324411_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, it could be due to an abdominal or spinal cause. Please get an ultrasound of the abdomen and pelvis, a kidney, ureter, and bladder X-ray, a urine examination, and a lumbar spine X-ray as preliminary examinations.",
+ "audio_seconds": 15.79,
+ "created_at": "2026-07-06T04:48:26+00:00",
+ "failed": false,
+ "text": "Hello, it could be due to an abdominal or spinal cause. Please get an ultrasound of the abdomen and pelvis, a kidney, ureter and bladder x-ray, a urine examination and a lumbar spine x-ray as preliminary examinations.",
+ "seconds": 0.206
+}

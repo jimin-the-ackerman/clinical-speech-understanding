@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__814281_2",
+ "condition": "clean",
+ "reference": "This could be due to a concussion injury. It may manifest in a computed tomography scan after a few days. A repeat computed tomography scan needs to be performed.",
+ "audio_seconds": 11.26,
+ "created_at": "2026-07-06T05:30:09+00:00",
+ "failed": false,
+ "text": "This could be due to a concussion injury. It may manifest in a computed tomography scan after a few days. A repeat computed tomography scan needs to be performed.",
+ "seconds": 0.348
+}

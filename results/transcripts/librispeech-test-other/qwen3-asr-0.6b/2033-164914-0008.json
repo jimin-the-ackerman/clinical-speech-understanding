@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164914-0008",
+ "condition": null,
+ "reference": "WHEN NUZHAT AL ZAMAN HEARD THE FIRST IMPROVISATION SHE CALLED TO MIND HER FATHER AND HER MOTHER AND HER BROTHER AND THEIR WHILOME HOME THEN SHE WEPT AND CRIED AT THE EUNUCH AND SAID TO HIM WOE TO THEE",
+ "audio_seconds": 17.26,
+ "created_at": "2026-07-06T03:15:23+00:00",
+ "failed": false,
+ "text": "When Uzad Alzaman heard the first improvisation, she called to mind her father and her mother, and her brother, and their willow home. Then she wept and cried to the eunuch and said to him, \"Woe to thee.\"",
+ "seconds": 0.539
+}

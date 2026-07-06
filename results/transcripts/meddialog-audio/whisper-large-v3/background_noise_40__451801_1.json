@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__451801_1",
+ "condition": "background_noise_40",
+ "reference": "I have a lump on the bottom of my sternum. A chest X-ray and ultrasound showed a lump, but they were unable to see the edges of it. They said I will need a magnetic resonance imaging scan to see exactly what it is. I am concerned because I have had severe pain in that area for months. Please help.",
+ "audio_seconds": 15.87,
+ "created_at": "2026-07-06T04:18:43+00:00",
+ "failed": false,
+ "text": "I have a lump on the bottom of my sternum. A chest x-ray and ultrasound showed a lump, but they were unable to see the edges of it. They said I will need a magnetic resonance imaging scan to see exactly what it is. I am concerned because I have had severe pain in that area for months. Please help.",
+ "seconds": 0.61
+}

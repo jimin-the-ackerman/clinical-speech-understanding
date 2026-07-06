@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0014",
+ "condition": null,
+ "reference": "BUT DON'T LOCK ME OUT PLEASE ANNIE",
+ "audio_seconds": 2.48,
+ "created_at": "2026-07-05T13:08:09+00:00",
+ "failed": false,
+ "text": "But don't lock me out, please, Annie.",
+ "seconds": 0.178
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__493892_1",
+ "condition": "white_noise_10",
+ "reference": "Hi Doctor, I have been a patient of psoriasis for the last ten years. It began on my head and then spots appeared on my body. The condition was cured five years ago, but now the spots have started appearing again on my body, nails, and hair. Is this disease permanently curable?",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T04:45:51+00:00",
+ "failed": false,
+ "text": "How's out there? I don't know if you can't see any of this for the last few minutes. Like the day I'm on my heart, I'm going to talk to you on my body. I can look in these curves on these of their own, but now I'm spot to see that I can use on my body, nails, and hair. Is this disease permanently terrible?",
+ "seconds": 0.25
+}

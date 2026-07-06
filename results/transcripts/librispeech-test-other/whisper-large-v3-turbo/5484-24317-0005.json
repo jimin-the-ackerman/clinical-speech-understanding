@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24317-0005",
+ "condition": null,
+ "reference": "HE LONGED WITH ARDENT YEARNING FOR THE SOUND OF HER VOICE AND STILL MORE TO UNBURDEN HIS SORELY TROUBLED SOUL TO HER",
+ "audio_seconds": 7.92,
+ "created_at": "2026-07-05T13:12:34+00:00",
+ "failed": false,
+ "text": "he longed with ardent yearning for the sound of her voice and still more to unburden his sorely troubled soul to her",
+ "seconds": 0.168
+}

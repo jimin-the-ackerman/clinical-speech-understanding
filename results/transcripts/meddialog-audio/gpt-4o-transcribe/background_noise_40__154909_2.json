@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__154909_2",
+ "condition": "background_noise_40",
+ "reference": "You have provided very little information. However, from the details you have given, it can be inferred that your repetitive and excessive thoughts are interfering with your daily life. You know that all you ruminate on is incorrect, and you may be trying to stop these thoughts. Does it cause anxiety? If so, do you substitute these thoughts with other thoughts, impulses, or images? If yes, then you may be suffering from Obsessive-Compulsive Disorder. Selective Serotonin Reuptake Inhibitors and behavioral therapy will help you a lot.",
+ "audio_seconds": 31.23,
+ "created_at": "2026-07-06T00:42:49+00:00",
+ "failed": false,
+ "text": "You have provided very little information. However, from what you have given, it can be inferred that you are having an obsessive thought or interfering with your daily life. You know that all you need is comfort, and you may be trying to stop this. Does it cause anxiety? If so, do you substitute this thought with other thoughts? If yes, you may be suffering from obsessive-compulsive disorder, or selective serotonin reuptake inhibitors and behavioral therapy will help you.",
+ "seconds": 1.444
+}

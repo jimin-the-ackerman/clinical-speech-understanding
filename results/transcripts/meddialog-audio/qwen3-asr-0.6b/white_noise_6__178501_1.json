@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__178501_1",
+ "condition": "white_noise_6",
+ "reference": "I have sharp pain that shoots from the bottoms of my feet up into my legs. I rate the pain at about eight, with ten being the worst. I also have to stretch my legs and feet out very hard and as far as I can all the time because they, I guess you can say, cramp up. It doesn't really hurt; it just irritates and is uncomfortable. I can't sleep. Can you help?",
+ "audio_seconds": 24.06,
+ "created_at": "2026-07-06T05:11:58+00:00",
+ "failed": false,
+ "text": "I have sharp pain that shoots from the bottoms of my feet up into my legs. I rate the pain at about eight, with ten being the worst. I also have to stretch my legs and feet out hard and as far as I can all the time because they—I guess you can say—cramp up. It doesn't really hurt; it just irritates and is uncomfortable. I can't sleep. Can you help?",
+ "seconds": 0.772
+}

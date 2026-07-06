@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__172222_2",
+ "condition": "white_noise_10",
+ "reference": "This is the description of a throbbing headache with visual disturbances. Rule out any refractive errors in her, which are more common in this age group. A migraine headache can mimic this. She will need a proper workup for the same.",
+ "audio_seconds": 12.29,
+ "created_at": "2026-07-06T03:00:43+00:00",
+ "failed": false,
+ "text": "This is the description of a problem that I received for years ago: rule out any attractive area of a house, which are more common in the ghosthouse. Am I getting headers from the marriage? Do we need a proper lookup for this area?",
+ "seconds": 4.649
+}

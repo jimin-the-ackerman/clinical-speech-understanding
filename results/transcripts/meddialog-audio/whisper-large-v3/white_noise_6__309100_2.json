@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__309100_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, yes, he will require a renal biopsy provided there is recent worsening of kidney function or for confirmation of the diagnosis of multiple myeloma, as sometimes not all blood parameters are conclusive for diagnosis. A kidney biopsy is a safe procedure, and it gives definite insight into the kidney problem, which helps the doctor to manage the disease process better.",
+ "audio_seconds": 20.91,
+ "created_at": "2026-07-06T04:36:35+00:00",
+ "failed": false,
+ "text": "Hello, yes, you will require a renal biopsy provided there is recent worsening of kidney function or for confirmation of the diagnosis of multiple myeloma. And sometimes not all blood tests are conclusive to diagnosis. A kidney biopsy is a safe decision and it gives definite insight into the kidney problem, which helps the doctor to manage the disease process better.",
+ "seconds": 0.588
+}

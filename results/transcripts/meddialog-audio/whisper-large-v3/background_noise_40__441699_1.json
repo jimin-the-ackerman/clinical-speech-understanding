@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__441699_1",
+ "condition": "background_noise_40",
+ "reference": "Hello Doctor, my sister-in-law has typhoid fever and she is experiencing chills right now. All the fans are switched off, and she has a double blanket on top of her, yet she is still shivering suddenly tonight. How can we alleviate this? What are the precautions to avoid shivering while having typhoid?",
+ "audio_seconds": 19.8,
+ "created_at": "2026-07-06T04:18:41+00:00",
+ "failed": false,
+ "text": "Hello, doctor. My sister-in-law has typhoid fever and she is experiencing chills right now. All the fans are switched off and she has a double blanket on top of her, yet she is still shivering suddenly tonight. How can we alleviate this? What are the precautions to avoid shivering while having typhoid?",
+ "seconds": 0.605
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280084-0007",
+ "condition": null,
+ "reference": "CHADWELL WOODS AND JIM RODE UP AND JOINED US SHOUTING TO PEOPLE IN THE STREET TO GET INSIDE AND FIRING THEIR PISTOLS TO EMPHASIZE THEIR COMMANDS",
+ "audio_seconds": 8.04,
+ "created_at": "2026-07-05T13:14:12+00:00",
+ "failed": false,
+ "text": "chadwell woods and jim rode up and joined us shouting to the people in the street to get inside and firing their pistols to emphasize their commands",
+ "seconds": 0.151
+}

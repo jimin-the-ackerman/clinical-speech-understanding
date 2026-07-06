@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168671-0005",
+ "condition": null,
+ "reference": "THESE GATES THEREFORE SWUNG INEXORABLY ON THEIR HINGES AT THE INSTANT WHEN THE SUN DISAPPEARED BEHIND THE DOME OF THE INVALIDES",
+ "audio_seconds": 8.76,
+ "created_at": "2026-07-06T02:23:00+00:00",
+ "failed": false,
+ "text": "These gates, therefore, swung inexorably on their hinges at the instant when the sun disappeared behind the dome of the Invalide.",
+ "seconds": 5.403
+}

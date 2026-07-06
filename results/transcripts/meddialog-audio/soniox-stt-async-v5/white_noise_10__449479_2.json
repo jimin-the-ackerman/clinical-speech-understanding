@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__449479_2",
+ "condition": "white_noise_10",
+ "reference": "There are no treatments for this, and surgery may be necessary. When you pass puberty, the joints in your skull are fused, and there is no more growth. It is likely that you have had this dent your whole life, or the dent you are feeling is actually just a prominent suture that has fused. In any case, if it is not causing any problems, there is no need to do anything about it.",
+ "audio_seconds": 20.48,
+ "created_at": "2026-07-06T03:02:06+00:00",
+ "failed": false,
+ "text": "There are no treatments for this, and surgery may be necessary when you pass puberty, the joints in your skull are fused, and there is no more growth. It is likely that you have had this dent in your whole life, or the dent you are feeling is actually just a prominent supers that has stuck. In any case, if it is not causing any problems, there is no need to do anything about it.",
+ "seconds": 5.586
+}

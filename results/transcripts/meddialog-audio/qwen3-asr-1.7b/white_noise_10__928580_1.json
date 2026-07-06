@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__928580_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, my grandmother has been diagnosed with myelofibrosis, and her blood cell count will now not stay above four, at most five. I am just starting to learn about this disease and am unclear on what the counts really mean. I know that she is in a lot of pain and that we are nearing the end. Could you please clarify what the counts actually mean?",
+ "audio_seconds": 24.06,
+ "created_at": "2026-07-06T05:34:29+00:00",
+ "failed": false,
+ "text": "Hello, my grandmother has been diagnosed with cancer, and I both felt very numb and helpless. I got no reply. I'm just setting the link up for you, and I'm not sure what the connection is. I wanted to use a lot of time, but I don't know why. Could you please clarify what the prompt actually means?",
+ "seconds": 0.69
+}

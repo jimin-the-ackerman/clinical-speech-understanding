@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163391-0000",
+ "condition": null,
+ "reference": "WHICH WAS SOUND ENOUGH JUDGMENT BUT YOU TAKE THE AVERAGE MAN AND HE WOULDN'T WAIT FOR HIM TO HOWL",
+ "audio_seconds": 6.49,
+ "created_at": "2026-07-05T12:57:33+00:00",
+ "failed": false,
+ "text": "which was sound enough judgment but you take the average man and he wouldn't wait for him to howl",
+ "seconds": 0.251
+}

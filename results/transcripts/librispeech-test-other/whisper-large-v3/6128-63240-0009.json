@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63240-0009",
+ "condition": null,
+ "reference": "AND HE TOOK UP HIS HAT VAGUELY A SOFT BLACK HAT WITH A LOW CROWN AND AN IMMENSE STRAIGHT BRIM",
+ "audio_seconds": 7.32,
+ "created_at": "2026-07-05T13:04:39+00:00",
+ "failed": false,
+ "text": "And he took up his hat vaguely, a soft black hat with a low crown and an immense straight brim.",
+ "seconds": 0.246
+}

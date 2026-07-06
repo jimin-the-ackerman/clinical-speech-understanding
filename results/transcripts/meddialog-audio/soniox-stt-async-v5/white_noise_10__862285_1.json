@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__862285_1",
+ "condition": "white_noise_10",
+ "reference": "My boyfriend was diagnosed with stomach cancer almost five years ago. He experiences stomach problems daily, with some days being worse than others. This morning, he woke up with a bruise on his right side above his waistline. He doesn't remember hitting anything. Should we be alarmed? What could cause this?",
+ "audio_seconds": 19.03,
+ "created_at": "2026-07-06T03:04:10+00:00",
+ "failed": false,
+ "text": "My boyfriend was diagnosed with stomach cancer almost 5 years ago. He experiences stomach problems daily, with some days being worse than others. This morning he woke up with a bruise on his right side above his waistline. He doesn't remember hitting anything. Should we be alarmed? What could cause this?",
+ "seconds": 4.663
+}

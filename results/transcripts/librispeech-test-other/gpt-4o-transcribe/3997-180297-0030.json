@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180297-0030",
+ "condition": null,
+ "reference": "ONE HAS TO BUT HE WANTS MORE THAN THAT WHAT THEN",
+ "audio_seconds": 4.75,
+ "created_at": "2026-07-05T23:55:36+00:00",
+ "failed": false,
+ "text": "One has to. But he wants more than that. What then?",
+ "seconds": 0.688
+}

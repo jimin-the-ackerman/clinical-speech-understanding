@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__331444_2",
+ "condition": "background_noise_40",
+ "reference": "Even though the doctors are not here, according to the general condition and age you have mentioned in your question, it is only a matter of weeks, possibly a few months.",
+ "audio_seconds": 9.64,
+ "created_at": "2026-07-06T02:50:40+00:00",
+ "failed": false,
+ "text": "Even though the doctors are not here, according to the general condition and age you have mentioned in your question, it is only a matter of weeks, possibly a few months.",
+ "seconds": 4.618
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "5764-299665-0083",
+ "condition": null,
+ "reference": "FOR THOUSANDS OF YEARS MEN AND WOMEN HAVE BEEN TRYING TO REFORM THE WORLD",
+ "audio_seconds": 5.35,
+ "created_at": "2026-07-06T02:31:53+00:00",
+ "failed": false,
+ "text": "For thousands of years, men and women have been trying to reform the world.",
+ "seconds": 4.964
+}

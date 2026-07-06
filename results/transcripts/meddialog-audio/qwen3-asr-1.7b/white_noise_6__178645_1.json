@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__178645_1",
+ "condition": "white_noise_6",
+ "reference": "I started feeling numbness in my right thumb during my strength training workout yesterday. It hasn’t gone away. What causes this, and should I be concerned? Furthermore, how long might this last? I have been working out with a trainer for the last five weeks and have never experienced this before. However, we did a new exercise yesterday when I did experience this.",
+ "audio_seconds": 23.47,
+ "created_at": "2026-07-06T05:38:56+00:00",
+ "failed": false,
+ "text": "I started feeling numbness in my right thumb during my strength training workout yesterday. It hasn't gone away. What causes this? And should I be concerned? Furthermore, how long will this last? I have been working out with a trainer for the last five weeks and have never experienced this before. However, we exercised yesterday when I did experience this.",
+ "seconds": 0.674
+}

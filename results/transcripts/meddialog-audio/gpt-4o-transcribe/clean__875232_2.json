@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__875232_2",
+ "condition": "clean",
+ "reference": "Yes, sulfamethoxazole/trimethoprim can cause gastrointestinal disturbances and is not a good antibiotic to take if pregnancy is suspected. Please get a urinary pregnancy test done to be sure. Urine culture and sensitivity tests and pregnancy status can certainly help your gynecologist to provide you with the best choice of antibiotic. Also, take plenty of oral fluids.",
+ "audio_seconds": 27.56,
+ "created_at": "2026-07-06T00:45:30+00:00",
+ "failed": false,
+ "text": "Yes, sulfamethoxazole, trimethoprim can cause gastrointestinal disturbances and is not a good antibiotic to take if pregnancy is suspected. Please get a urinary pregnancy test done to be sure. Urine culture and sensitivity tests and pregnancy status can certainly help your gynaecologist to provide you with the best choice of antibiotic. Also, take plenty of oral fluids.",
+ "seconds": 1.571
+}

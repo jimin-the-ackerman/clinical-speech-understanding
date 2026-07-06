@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__717181_2",
+ "condition": "white_noise_10",
+ "reference": "Not to worry much, as it could just be a bursa, lipoma, or a lymph node. It would be best to get examined by a surgeon for the best opinion. All the best!",
+ "audio_seconds": 9.22,
+ "created_at": "2026-07-06T05:06:48+00:00",
+ "failed": false,
+ "text": "Not to worry, as it could be a versa, a colra, or a livery. It would be best if it was a vice versa, the best of two. All the best.",
+ "seconds": 0.39
+}

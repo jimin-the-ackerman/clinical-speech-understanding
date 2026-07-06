@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-35475-0018",
+ "condition": null,
+ "reference": "IN A VERY SHORT TIME THE PRINCE HAD CRAWLED THROUGH THE OPENING",
+ "audio_seconds": 3.77,
+ "created_at": "2026-07-05T13:01:13+00:00",
+ "failed": false,
+ "text": "In a very short time the prince had crawled through the opening.",
+ "seconds": 0.193
+}

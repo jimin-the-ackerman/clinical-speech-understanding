@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__983472_1",
+ "condition": "clean",
+ "reference": "Hello there, I have been suffering from acne for three years since I was sixteen, and recently I have used a product that cleared most of them, but I have been left with scars. I don't want to go to a dermatologist for skin peeling or anything since it would be expensive, so is there another way I could remove these deep scars naturally and inexpensively?",
+ "audio_seconds": 19.29,
+ "created_at": "2026-07-06T00:45:38+00:00",
+ "failed": false,
+ "text": "Hello there! I have been suffering from acne for three years since I was sixteen, and recently I have used a product that cleared most of them, but I have been left with scars. I don't want to go to a dermatologist for skin peeling or anything since it would be expensive, so is there another way I could remove these deep scars naturally and inexpensively?",
+ "seconds": 1.045
+}

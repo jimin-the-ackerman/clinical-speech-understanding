@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__697766_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, thank you for asking. I can understand your concern. The pill that you have taken is a hormonal pill, and it should not be taken for non-medical reasons. Hormonal pills have several side effects, and in my opinion, they should never be taken without proper indication. This could cause anything wrong with the body's system. I hope this information helps you. Have a nice day.",
+ "audio_seconds": 22.36,
+ "created_at": "2026-07-06T03:11:11+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking. I can understand your concern. The pill that you have taken is a hormonal pill, and it should not be taken for non-medical reasons. Hormonal pills have several side effects, and in my opinion they should never be taken without proper indication. This could cause anything wrong with the body's system. I hope this information helps you. Have a nice day.",
+ "seconds": 4.848
+}

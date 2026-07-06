@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__486482_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, how are you? I have read your concern and will respond to the best of my knowledge and understanding. Usually, babies grow and develop at the fastest rate from zero to six months of their age, then their growth slows down between six and twelve months, and slows much more from twelve to eighteen months of age. It is highly likely that your fourteen-month-old daughter is eating less now compared to when she was younger simply because she doesn’t need as many calories. Similarly, you must take a look at what your baby or toddler has consumed that day that isn't conventional food. She may have filled up on juice, milk, or other liquids, so she is just not feeling hungry for pasta, sweet potatoes, or other solid foods. She may just be a little under the weather with a virus and not in the mood to eat anything due to mood changes.",
+ "audio_seconds": 45.82,
+ "created_at": "2026-07-06T00:43:16+00:00",
+ "failed": false,
+ "text": "Hi, how are you? I have read your concern and will respond to the best of my knowledge and understanding. Usually, babies grow and develop at the fastest rate from zero to six months of their age. Then their growth slows down between six and twelve months and slows much more from twelve to eighteen months of age. It is highly likely that your fourteen-month-old daughter is eating less now compared to when she was younger simply because she doesn't need as many calories. Similarly, you must take a look at what your baby or toddler has consumed a day that isn't conventional food. She may have filled up on juice, milk, or other liquids, so she is just not feeling hungry for pasta, sweet potatoes, or other solid foods. She may just be a little under the weather with a virus and not in the mood to eat anything due to mood change.",
+ "seconds": 2.323
+}

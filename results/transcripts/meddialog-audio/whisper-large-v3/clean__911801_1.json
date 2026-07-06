@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__911801_1",
+ "condition": "clean",
+ "reference": "I have a small ganglion cyst on my left pointer finger. It doesn't bother me; however, my primary care physician is suggesting it be removed. Reading the material on your site does not suggest this. I really don’t want it removed because it doesn’t bother me. Please advise.",
+ "audio_seconds": 16.81,
+ "created_at": "2026-07-06T04:28:12+00:00",
+ "failed": false,
+ "text": "I have a small ganglion cyst on my left pointer finger. It doesn't bother me, however, my primary care physician is suggesting it be removed. Reading the material on your site does not suggest this. I really don't want it removed because it doesn't bother me. Please advise.",
+ "seconds": 0.668
+}

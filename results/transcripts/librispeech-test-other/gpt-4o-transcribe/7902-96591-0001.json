@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96591-0001",
+ "condition": null,
+ "reference": "DON'T CRY HE SAID I WAS OBLIGED TO COME",
+ "audio_seconds": 2.51,
+ "created_at": "2026-07-05T23:57:47+00:00",
+ "failed": false,
+ "text": "\"Don't cry,\" he said. \"I was obliged to come.\"",
+ "seconds": 0.616
+}

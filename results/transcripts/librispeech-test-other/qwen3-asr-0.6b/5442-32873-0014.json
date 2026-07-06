@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-32873-0014",
+ "condition": null,
+ "reference": "LUKE TOOK CARE OF MISTER LARKIN'S DOGS AND GROOMED MISTER WYLDER'S HORSE AND CLEANED UP HIS DOG CART FOR MARK BEING CLOSE ABOUT MONEY AND FINDING THAT THE THING WAS TO BE DONE MORE CHEAPLY THAT WAY PUT UP HIS HORSE AND DOG CART IN THE POST OFFICE PREMISES AND SO EVADED THE LIVERY CHARGES OF THE BRANDON ARMS",
+ "audio_seconds": 19.82,
+ "created_at": "2026-07-06T03:21:13+00:00",
+ "failed": false,
+ "text": "Luke took care of Mister Larkin's dogs, and groomed Mister Wilder's horse, and cleaned up his dog cart. For Mark being close about money and finding that the thing was to be done more cheaply that way, put up his horse and dog cart in the post office premises, and so evaded the livery charges of the Brandon Arms.",
+ "seconds": 0.686
+}

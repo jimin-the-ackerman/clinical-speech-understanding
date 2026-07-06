@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__200979_1",
+ "condition": "background_noise_20",
+ "reference": "Recently, I had right upper back pain two months ago. I went through physiotherapy and was normal, but two days ago my back started to hurt again. Additionally, I have something in my underarm that seems swollen, and my right breast doesn't seem to be normal.",
+ "audio_seconds": 15.27,
+ "created_at": "2026-07-06T04:39:39+00:00",
+ "failed": false,
+ "text": "Recently I had right upper back pain two months ago. I went through physiotherapy and was normal but two days ago my back started to hurt again. Additionally I have something in my underarm that seems swollen and my right breast doesn't seem to be normal.",
+ "seconds": 0.221
+}

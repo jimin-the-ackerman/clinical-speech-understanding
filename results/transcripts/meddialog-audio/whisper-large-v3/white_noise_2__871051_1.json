@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__871051_1",
+ "condition": "white_noise_2",
+ "reference": "My son kicked me in the back, and now I am urinating blood. My three-year-old son got mad because he did not want to take a nap. I sat up in the bed with my back facing towards him, and he kicked me on my lower right side where my kidney is. He hit me pretty hard. After it happened, I experienced a really bad dull pain that shot across my lower back, and I felt a little dizzy. After I got him to sleep, I went to urinate, and it turned out to have blood in it. It stopped after a couple of days, but my back still hurts a little bit.",
+ "audio_seconds": 32.68,
+ "created_at": "2026-07-06T04:35:31+00:00",
+ "failed": false,
+ "text": "My son kicked me in the back and now I am urinating blood. My 3 year old son got mad because he did not want to take a nap. I sat up in the bed with my back facing towards him and he kicked me on my lower right side where my kidney is. He hit me pretty hard. After it happened, I experienced a really bad dull pain that shot across my lower back and I felt a little dizzy. After I got into sleep I went to urinate and it turned out to have blood in it. It stopped after a couple of days but my back still hurts a little bit.",
+ "seconds": 1.148
+}

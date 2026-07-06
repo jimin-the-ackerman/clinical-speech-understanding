@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164914-0018",
+ "condition": null,
+ "reference": "I SAY WHAT MADE MY IGNOMY WHATE'ER THE BITTER CUP I DRAIN FAR BE FRO ME THAT LAND TO FLEE NOR WILL I BOW TO THOSE WHO BLAME AND FOR SUCH LOVE WOULD DEAL ME SHAME",
+ "audio_seconds": 14.96,
+ "created_at": "2026-07-05T23:53:57+00:00",
+ "failed": false,
+ "text": "I say, what made my ignominy? Whate'er the bitter cup I drain, Far be from me thy land to flee, Nor will I bow to those who blame And for such love would deal me shame.",
+ "seconds": 0.975
+}

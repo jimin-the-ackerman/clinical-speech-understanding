@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__434168_2",
+ "condition": "background_noise_20",
+ "reference": "No, ciprofloxacin does not interfere with contraceptive pills. It only interferes with warfarin, phenytoin, antacids, iron supplements, calcium supplements, and zinc supplements.",
+ "audio_seconds": 14.34,
+ "created_at": "2026-07-06T05:16:57+00:00",
+ "failed": false,
+ "text": "No, ciprofloxin does not interfere with contraceptive pills. It only interferes with warfarin, phenytoin, antacids, iron supplements, calcium supplements, and zinc supplements.",
+ "seconds": 0.419
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__220294_2",
+ "condition": "white_noise_2",
+ "reference": "No, she cannot get pregnant without having sexual intercourse. Moreover, periods are not delayed, so there is nothing to worry about.",
+ "audio_seconds": 9.22,
+ "created_at": "2026-07-06T05:08:30+00:00",
+ "failed": false,
+ "text": "No, she cannot get pregnant without having sexual intercourse. Moreover, periods are not delayed, so there is nothing to wait.",
+ "seconds": 0.26
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12259-0037",
+ "condition": null,
+ "reference": "O LACHRYMA CHRISTI IT IS OF THE BEST GRAPE",
+ "audio_seconds": 4.72,
+ "created_at": "2026-07-05T23:55:41+00:00",
+ "failed": false,
+ "text": "O lacrima Christi, it is of the best grape.",
+ "seconds": 0.577
+}

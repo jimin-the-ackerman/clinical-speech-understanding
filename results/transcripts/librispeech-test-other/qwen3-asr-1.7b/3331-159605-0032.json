@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0032",
+ "condition": null,
+ "reference": "POLLY DID NOT RETURN TO HER FAVORITE WALK TILL SHE LEARNED FROM MINNIE THAT UNCLE HAD REALLY LEFT TOWN AND THEN SHE FOUND THAT HIS FRIENDLY COMPANY AND CONVERSATION WAS WHAT HAD MADE THE WAY SO PLEASANT AFTER ALL",
+ "audio_seconds": 15.33,
+ "created_at": "2026-07-06T03:29:09+00:00",
+ "failed": false,
+ "text": "Polly did not return to her favorite walk till she learned from Minnie that Uncle had really left town, and then she found that his friendly company and conversation was what had made the way so pleasant after all.",
+ "seconds": 0.426
+}

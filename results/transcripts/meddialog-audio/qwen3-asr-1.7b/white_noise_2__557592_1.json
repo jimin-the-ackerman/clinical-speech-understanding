@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__557592_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, I have cervical spondylosis and low back pain. My work involves sitting for long hours at a stretch. I get relief when I exercise and receive hot fomentation or a massage. Is it okay if I continue with this? I also want to play badminton, which I find to be helpful. My question is, can I continue with hot fomentation, massage, and playing badminton?",
+ "audio_seconds": 24.58,
+ "created_at": "2026-07-06T05:36:44+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I have cervical spondylosis and low back pain. My work involves sitting for long hours at a stretch. I get relief when I exercise and receive hot fomentation or a massage. Is it okay if I continue with this? I also want to play badminton, which I find to be helpful. My question is, can I continue with hot fomentation, massage, and playing badminton?",
+ "seconds": 0.836
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__905635_1",
+ "condition": "background_noise_60",
+ "reference": "There is a slight dull pain on the right side of my head that gets worse the more active I am. It happened to me once last week, but then went away. I feel it again right now, and it is so area-specific I feel like I could trace out the area with a marker where my head is shaved, but it is not a very strong pain. On a scale from one to ten, I would put it at a one point five to two at most, but it can get up to about a six. What do you think?",
+ "audio_seconds": 30.29,
+ "created_at": "2026-07-06T05:00:18+00:00",
+ "failed": false,
+ "text": "There is a slight dull pain on the right side of my head that gets worse the more active I am. It happened to me once last week, but then went away. I feel it again right now, and it is so area specific. I feel like I can trace out the area with a marker where my head is shaved, but it is not a very strong pain. On a scale from one to ten, I would put it at a one point five to two at most, but it can get up to about a six. What do you think?",
+ "seconds": 0.999
+}

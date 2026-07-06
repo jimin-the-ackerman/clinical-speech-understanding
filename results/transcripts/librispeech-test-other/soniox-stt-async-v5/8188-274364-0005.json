@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-274364-0005",
+ "condition": null,
+ "reference": "IT IS NOW FULL TWO HUNDRED AND FORTY YEARS SINCE TREASONS WERE DEFINED AND SO LONG HAS IT BEEN SINCE ANY MAN WAS TOUCHED TO THIS EXTENT UPON THIS CRIME BEFORE MYSELF",
+ "audio_seconds": 10.13,
+ "created_at": "2026-07-06T02:41:15+00:00",
+ "failed": false,
+ "text": "It is now a full 240 years since treasons were defined, and so long has it been since any man was touched to this extent upon this crime before myself.",
+ "seconds": 5.243
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0066",
+ "condition": null,
+ "reference": "BUT THE GIRL ONLY PLEADED THE MORE WITH MARGARET",
+ "audio_seconds": 3.13,
+ "created_at": "2026-07-05T23:59:41+00:00",
+ "failed": false,
+ "text": "But the girl only played at the mall with Margaret.",
+ "seconds": 4.496
+}

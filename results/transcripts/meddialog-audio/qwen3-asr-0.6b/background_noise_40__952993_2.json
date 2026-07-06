@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__952993_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, the wisdom tooth is the third molar tooth that erupts in the oral cavity. These teeth usually erupt between the ages of eighteen and twenty-five years. In some individuals, they do not erupt at all, and in others, they erupt partially, which causes pain and inflammation of the gums around the tooth. This condition is known as pericoronitis. You should perform warm saline gargles four to five times a day for relief. An X-ray will determine the position of the tooth. If the tooth is impacted, it should be surgically removed for permanent relief.",
+ "audio_seconds": 30.29,
+ "created_at": "2026-07-06T04:56:58+00:00",
+ "failed": false,
+ "text": "Hello, the wisdom tooth is the third molar tooth that erupts in an oral cavity. These teeth usually erupt between the ages of eighteen and twenty-five years. Some individuals, they do not erupt at all, and others they erupt partially, which causes pain and inflammation of the gums around the tooth. This condition is known as periodontitis. You should perform warm saline gargles four to five times a day for relief. An X-ray will determine the position of the tooth. If the tooth is impacted, it should be surgically removed for permanent relief.",
+ "seconds": 1.002
+}

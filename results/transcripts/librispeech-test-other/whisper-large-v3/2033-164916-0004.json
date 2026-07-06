@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164916-0004",
+ "condition": null,
+ "reference": "THEN HE ADDED O MY UNCLE HOW SHALL I DO WITH MY BROTHER SHARRKAN",
+ "audio_seconds": 6.79,
+ "created_at": "2026-07-05T12:56:39+00:00",
+ "failed": false,
+ "text": "then he added o my uncle how shall i do with my brother",
+ "seconds": 0.226
+}

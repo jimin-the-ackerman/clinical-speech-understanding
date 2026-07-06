@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__133326_1",
+ "condition": "white_noise_10",
+ "reference": "I am thirty-four years old. I had family planning surgery ten years ago. Is there any chance that I could be pregnant? My period is twenty-five days late this month.",
+ "audio_seconds": 9.47,
+ "created_at": "2026-07-06T00:45:41+00:00",
+ "failed": false,
+ "text": "",
+ "seconds": 0.845
+}

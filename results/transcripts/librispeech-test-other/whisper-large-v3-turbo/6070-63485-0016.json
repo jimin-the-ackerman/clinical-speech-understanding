@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-63485-0016",
+ "condition": null,
+ "reference": "BETWEEN SAINT OUEN AND THE ROAD OF LA REVOLTE AT THE END OF THE ROAD AGREED",
+ "audio_seconds": 5.72,
+ "created_at": "2026-07-05T13:12:56+00:00",
+ "failed": false,
+ "text": "between saint-oin and the road of la revolt at the end of the road agreed",
+ "seconds": 0.138
+}

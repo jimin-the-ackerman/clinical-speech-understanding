@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__420310_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. The pain could be due to many reasons, chiefly being appendicitis, right iliac fossa colitis, torsion of the right fallopian tube, ovarian cyst, or some ureteric calculus. Since you are already diagnosed with diverticulitis, I suggest you get an abdominal ultrasound scan done to rule out the causes.",
+ "audio_seconds": 18.77,
+ "created_at": "2026-07-06T04:37:02+00:00",
+ "failed": false,
+ "text": "Although, the pain could be due to many reasons, chiefly being appendicitis, right iliac phosphatidylitis, torsion of the right fallopian tube, ovarian cysts, or some ureteric cancer. Since you are already diagnosed with diverticulitis, I suggest you get an abdominal ultrasound scanned on you to rule out the cause.",
+ "seconds": 0.641
+}

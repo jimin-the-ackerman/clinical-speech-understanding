@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__499581_2",
+ "condition": "clean",
+ "reference": "Hello, I really appreciate your concern. The only matter of concern is the convulsions. If this is the convulsion, then it is better to get a computed tomography scan of the brain and an electroencephalogram just to rule out the late onset of epileptic seizures. If nothing is detected in the tests, then it could be hysteria or due to general weakness. But it does not seem to be anything serious. In differential diagnosis, anxiety and depression are likely. You have not provided any basic information like age and gender; otherwise, something better could have been discussed. I hope this information helps.",
+ "audio_seconds": 33.79,
+ "created_at": "2026-07-06T04:44:26+00:00",
+ "failed": false,
+ "text": "Hello, I really appreciate your concern. The only matter of concern is the convulsions. If this is the convulsion, then it is better to get a computed tomography scan of the brain and an electroencephalogram just to rule out the late onset of epileptic seizures. If nothing is detected in the test, then it could be hysteria or due to general weakness. But it does not seem to be anything serious. In differential diagnosis, anxiety and depression are likely. You have not provided any basic information like age and gender. Otherwise, something better could have been discussed. I hope this information helps.",
+ "seconds": 0.455
+}

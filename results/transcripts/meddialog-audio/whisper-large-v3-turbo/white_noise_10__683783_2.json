@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__683783_2",
+ "condition": "white_noise_10",
+ "reference": "The first thing you need to do is get a pregnancy test. If it is positive, then you are already pregnant, and the only way to terminate it would be to end the pregnancy. At this point, it is too late to use the seventy-two-hour pill, as it has been more than seventy-two hours since you had unprotected sex. If the result is negative, then you will probably have your period soon. You should talk to your doctor about your options for contraception so you can ensure you do not get into this situation again. There is a significant possibility that you are pregnant, so I strongly suggest that you get a test. Please let me know if you have any more questions; I would be happy to help you.",
+ "audio_seconds": 38.4,
+ "created_at": "2026-07-06T04:46:08+00:00",
+ "failed": false,
+ "text": "The first thing you need to do is get a pregnancy test. If it is positive, then you are already pregnant, and the only way to terminate it would be to end the pregnancy. At this point, it is too late to use the 72-hour pill, as it has been more than 72 hours since you had unprotected sex. If the result is negative, and you would probably have your period seen, you should talk to your doctor about your options for contraception so you can ensure you do not get into this situation again. There is a significant possibility that you are pregnant, so I strongly suggest that you get a test. Please let me know if you have any more questions. I would be happy to help you.",
+ "seconds": 0.412
+}

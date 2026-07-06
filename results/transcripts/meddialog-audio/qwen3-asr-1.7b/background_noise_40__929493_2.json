@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__929493_2",
+ "condition": "background_noise_40",
+ "reference": "You can take it as long as you want; there are no side effects as these contain medicines in micrograms that only enter the lungs.",
+ "audio_seconds": 7.68,
+ "created_at": "2026-07-06T05:23:08+00:00",
+ "failed": false,
+ "text": "You can take it as long as you want. There are no side effects, as these contain medicines in micrograms that only enter the lungs.",
+ "seconds": 0.301
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__495490_2",
+ "condition": "white_noise_6",
+ "reference": "Hello. This is all suggestive of a tubal pregnancy. Please get an urgent ultrasonography done and receive surgical treatment if a tubal pregnancy is found. If there is no pregnancy detected on the ultrasonography, relax and carry on; there is nothing to worry about.",
+ "audio_seconds": 16.55,
+ "created_at": "2026-07-06T00:47:20+00:00",
+ "failed": false,
+ "text": "So, the yoke of the mule matches.",
+ "seconds": 0.946
+}

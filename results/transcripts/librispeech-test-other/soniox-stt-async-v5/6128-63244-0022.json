@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63244-0022",
+ "condition": null,
+ "reference": "IT WAS NOT CLEAR TO THIS INTERESTING GIRL IN WHAT MANNER SUCH A SACRIFICE AS THIS LAST WOULD BE REQUIRED OF HER BUT SHE SAW THE MATTER THROUGH A KIND OF SUNRISE MIST OF EMOTION WHICH MADE DANGER AS ROSY AS SUCCESS",
+ "audio_seconds": 14.38,
+ "created_at": "2026-07-06T02:33:25+00:00",
+ "failed": false,
+ "text": "It was not clear to this interesting girl in what manner such a sacrifice as this last would be required of her, but she saw the matter through a kind of sunrise mist of emotion, which made danger, as rosy, a success.",
+ "seconds": 4.625
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__727354_2",
+ "condition": "background_noise_40",
+ "reference": "Hello. Unwanted seventy-two is an emergency contraception pill. If taken within seventy-two hours, it is effective up to ninety-five% in preventing pregnancy. Also, she got her period on the same day. All factors are against pregnancy occurring. It is very unlikely to become pregnant in your case. Light bleeding is common after taking the pill.",
+ "audio_seconds": 22.78,
+ "created_at": "2026-07-06T02:52:10+00:00",
+ "failed": false,
+ "text": "Hello, Unwanted 72 is an emergency contraception pill; if taken within 72 hours, it is effective up to 95% in preventing pregnancy. Also, she got her period on the same day. All factors are against pregnancy occurring; it is very unlikely to become pregnant in your case. Light bleeding is common after taking a pill.",
+ "seconds": 5.069
+}

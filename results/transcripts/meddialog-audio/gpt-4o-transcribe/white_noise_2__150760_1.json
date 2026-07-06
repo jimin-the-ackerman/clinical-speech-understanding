@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__150760_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, I quit smoking a few years ago. Besides the obvious reasons, I had a pain in my left side that seemed to be related to how much I smoked. I stopped, and the pain went away, but it sometimes returns when I inhale fumes from traffic, etc. I started smoking again a few weeks ago, and the pain is back. If I stop smoking, the pain goes away in a day or two. It is an uncomfortable feeling more than a strong pain. I will stop smoking again, but I would like to know what it is. About six years ago, I had a lung X-ray, and nothing showed up. Any ideas what this is?",
+ "audio_seconds": 37.21,
+ "created_at": "2026-07-06T00:46:17+00:00",
+ "failed": false,
+ "text": "はい、食べ続けるよりも、デザート用やスイーツ専用のフォークサイドスプーンを入れた方がいいでしょうか。あと、円形専用のお皿もしくはトレーがあるといいですか。じゃあソース抜きで、フルーツだけのお皿を用意できますか。分割するのであれば、フルーツ抜きで、フルーツだけのお皿を用意できますか。",
+ "seconds": 2.54
+}

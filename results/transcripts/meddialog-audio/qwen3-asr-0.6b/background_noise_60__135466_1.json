@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__135466_1",
+ "condition": "background_noise_60",
+ "reference": "I have numbness in my legs that has migrated from my arms. I have been to a number of doctors and none of them, not one, has launched an investigation into my symptoms. Is there a reason for this? It's a much longer story, but this is the short version.",
+ "audio_seconds": 14.85,
+ "created_at": "2026-07-06T04:57:12+00:00",
+ "failed": false,
+ "text": "I have memories in my legs that was migrated from my past, and I've been to remember it back years in the memory. Not one was on screen yesterday. Is there a reason for this? It's a much more history of this is the short.",
+ "seconds": 0.503
+}

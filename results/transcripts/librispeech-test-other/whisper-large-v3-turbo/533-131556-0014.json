@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131556-0014",
+ "condition": null,
+ "reference": "I WATCHED HER A FEW MOMENTS WITH A FEELING OF MALEVOLENT GRATIFICATION THEN MOVING TOWARDS THE DOOR I CALMLY ASKED IF SHE HAD ANYTHING MORE TO SAY",
+ "audio_seconds": 9.66,
+ "created_at": "2026-07-05T13:12:16+00:00",
+ "failed": false,
+ "text": "i watched her a few moments to the feeling of malevolent gratification then moving towards the door i calmly asked if she had anything more to say",
+ "seconds": 0.127
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__389913_2",
+ "condition": "background_noise_40",
+ "reference": "Hello. With palpitations, we cannot be completely sure whether they are dangerous or not, but since you have been experiencing them since childhood, they are probably benign for you. However, they can be exhausting and bothersome. I would like to put you on a trial of low-dose beta blockers if you do not have any obstructive airway disease such as asthma, as that can relieve your symptoms. Another option is to undergo an electrophysiological study to determine the focus of origin and cause of the palpitations, and then they can be ablated, providing you complete relief if you are experiencing significant symptoms. Good luck.",
+ "audio_seconds": 44.2,
+ "created_at": "2026-07-06T04:18:24+00:00",
+ "failed": false,
+ "text": "Hello. With palpitations, we cannot be completely sure whether they are dangerous or not, but since you have been experiencing them since childhood, they are probably benign for you. However, they can be exhausting and bothersome. I would like to put you on a trial of low-dose beta blockers if you do not have any obstructive airway disease such as asthma, as that can relieve your symptoms. Another option is to undergo an electrophysiological study to determine the focus of origin and cause of the palpitations, and then they can be ablated, providing you complete relief if you are experiencing significant symptoms. Good luck!",
+ "seconds": 1.029
+}

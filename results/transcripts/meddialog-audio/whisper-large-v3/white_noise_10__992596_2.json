@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__992596_2",
+ "condition": "white_noise_10",
+ "reference": "Since you have a menstrual cycle of thirty-five days, there is a possibility that this spotting could be due to ovulation. So just wait for two-three days. If it does not stop, then you can start Duphaston as prescribed by your doctor. Once you complete the Duphaston treatment, you will get your period within a week and you can start taking medications for the induction of ovulation. It is good to know that your body mass index is normal. This increases your chances of conceiving. What is your age? I presume that necessary preliminary tests like semen analysis, hormone tests, and tubal patency tests have been done. Good luck. You should be regular in your treatment. Do not stop in between. If you have any further queries, I will be happy to answer.",
+ "audio_seconds": 49.58,
+ "created_at": "2026-07-06T04:32:15+00:00",
+ "failed": false,
+ "text": "since you have a menstrual cycle of 35 days there is a possibility that this spotting could be due to ovulation so just wait for two three days if it does not stop then you can start the fasting as prescribed by your doctor once you complete the do face them treatment you will get your period within a week and you can start taking medications for the induction of ovulation it is good to know that your body mass index is normal this increases your chances of conceiving what is your age after zoom that necessary preliminary tests like semen analysis hormone tests and tubal patency tests have been done good luck you should be regular in your treatment do not stop in between if you have any further queries i will be happy to answer",
+ "seconds": 1.216
+}

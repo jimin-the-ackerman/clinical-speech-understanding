@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__867180_1",
+ "condition": "background_noise_20",
+ "reference": "There is a problem with the relationship between my husband and me. My husband, who is a divorcee, has married me. He continues to fight with me without any cause. He starts shouting, hitting himself, and sometimes me as well. He abuses me and behaves in utterly indecent manners, without any rhyme or reason.",
+ "audio_seconds": 24.06,
+ "created_at": "2026-07-06T04:52:50+00:00",
+ "failed": false,
+ "text": "There is a problem with the relationship between my husband and me. My husband, who is a divorcee, has married me. He continues to fight with me without any cause. He starts shouting, hitting him, and sometimes me as well. He abuses me and behaves in utterly indecent manners without any rhyme or reason.",
+ "seconds": 0.599
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5764-299665-0035",
+ "condition": null,
+ "reference": "THEY ARE REGARDED AS GOOD THAT IS TO SAY AS MORAL",
+ "audio_seconds": 5.13,
+ "created_at": "2026-07-06T03:34:05+00:00",
+ "failed": false,
+ "text": "They are regarded as good, that is to say, as moral.",
+ "seconds": 0.167
+}

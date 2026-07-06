@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__171951_2",
+ "condition": "white_noise_10",
+ "reference": "Yes, it is necessary to go to the general practitioner as there are signs of dizziness. You must get a head scan done for any bruising, trauma, inflammation, or blood clot in the brain to rule out anything that may cause problems in the future.",
+ "audio_seconds": 13.31,
+ "created_at": "2026-07-06T04:28:55+00:00",
+ "failed": false,
+ "text": "Yes, it is necessary for the attack to start, as there are kinds of diseases. We must get ahead of the attack, as many breathing, trauma, inflammation, or blood clots are the reason to rule out anything that will cause problems for us.",
+ "seconds": 0.474
+}

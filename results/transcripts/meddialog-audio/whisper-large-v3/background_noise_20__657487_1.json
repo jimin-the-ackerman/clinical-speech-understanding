@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__657487_1",
+ "condition": "background_noise_20",
+ "reference": "Hi! I recently recovered from a severe kidney infection, after which I started to develop hemorrhoids. Occasionally, I get a cut near my tailbone when my hemorrhoids bother me, and recently, I have noticed some bumps in that area. I developed these bumps after wearing a thong for a week, which I typically do not wear. I am unsure if they are due to the hemorrhoids, the rubbing from the thong, or if it could be something else.",
+ "audio_seconds": 25.77,
+ "created_at": "2026-07-06T04:15:35+00:00",
+ "failed": false,
+ "text": "Hi! I recently recovered from a severe kidney infection, after which I started to develop hemorrhoids. Occasionally, I get a cut near my tailbone when my hemorrhoids bother me, and recently I have noticed some bumps in that area. I developed these bumps after wearing a thong for a week, which I typically do not wear. I am unsure if they are due to the hemorrhoids, the rubbing from the thong, or if it could be something else.",
+ "seconds": 0.843
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__877572_2",
+ "condition": "white_noise_6",
+ "reference": "This type of pain usually occurs due to calcium deficiency. Get your general practitioner to write you a calcium test or start the treatment straight away.",
+ "audio_seconds": 8.28,
+ "created_at": "2026-07-06T00:47:38+00:00",
+ "failed": false,
+ "text": "There's nothing to see.",
+ "seconds": 0.759
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__290926_2",
+ "condition": "background_noise_60",
+ "reference": "Puneet, your child suffered from typhoid fever. Do you have any reports of the same? If they are available, please send them. Regarding the stomach ache, please do not worry about it as all reports that have been reviewed are normal; hence, there is no need for concern.",
+ "audio_seconds": 15.79,
+ "created_at": "2026-07-06T05:24:13+00:00",
+ "failed": false,
+ "text": "Hunee, your child suffered from typhoid fever. Do you have any reports of the same? If they are available, please send them. Regarding the stomachache, please do not worry about it as all reports that have been reviewed are normal. Hence, there is no need for concern.",
+ "seconds": 0.588
+}

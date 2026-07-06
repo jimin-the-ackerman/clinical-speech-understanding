@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__360221_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, I am sixty-one. Yesterday, I had three glasses of white wine with ice over a four-hour period during dinner. I went to sleep around nine:thirty PM and woke up at two AM screaming and throwing things. I also experienced double vision, meaning my eyes won’t converge. What happened? They are still that way at five PM. I do not feel headache nor do I have one, just a little scared and a bit dizzy. I do live alone.",
+ "audio_seconds": 26.03,
+ "created_at": "2026-07-06T05:32:00+00:00",
+ "failed": false,
+ "text": "Hello, I am sixty-one. Yesterday, I had three glasses of white wine with ice over a four-hour period of time. I was asleep around 9:30 p.m. and woke up at 2 a.m. screaming and rolling in bed. I also experienced double vision, meaning my eyes won't move. What happened? They are still that way. If I sleep, I do not feel headaches, nor do I have them. Just a little scared and a bit dizzy. I do live alone.",
+ "seconds": 1.017
+}

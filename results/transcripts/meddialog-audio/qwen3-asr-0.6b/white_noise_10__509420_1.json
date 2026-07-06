@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__509420_1",
+ "condition": "white_noise_10",
+ "reference": "I was recently diagnosed with asthma. I am a forty-three-year-old female. About an hour ago, I began having trouble breathing, chest tightness, back pain, and stomach dizziness. Why am I experiencing back pain and dizziness? I took Symbicort this morning as I do every day, twice a day. At five PM, I took a Ventolin inhaler and just took it again at five:fifty PM.",
+ "audio_seconds": 26.71,
+ "created_at": "2026-07-06T05:05:57+00:00",
+ "failed": false,
+ "text": "I was recently diagnosed with autism. I am forty-two years old. About an hour ago, I began having trouble breathing. What came? Back pain and stomachaches. Why am I feeling back pain and dizzy? I took Simbcorp this morning, as I do every day. Yesterday, at five PM, I took a round of pneumonia and took it again at five PM.",
+ "seconds": 0.699
+}

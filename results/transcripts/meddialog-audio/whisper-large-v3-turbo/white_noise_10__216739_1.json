@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__216739_1",
+ "condition": "white_noise_10",
+ "reference": "I am seventy-six years of age. I feel good when I get up in the morning—usually about three:zero AM. Every other day, I work out at Planet Fitness for about an hour and ten minutes. I use the treadmill for twenty-five minutes at four miles per hour and a four% incline. The rest of the time, I exercise my arms, legs, and shoulders. Whether I exercise or not, by noon, I get really tired and my back begins to hurt. I have to sit down and rest a lot. This has been the case for the past six months. I hope there is an exercise that can help me. I do not take any prescription medication. I do take some vitamins.",
+ "audio_seconds": 41.73,
+ "created_at": "2026-07-06T04:45:28+00:00",
+ "failed": false,
+ "text": "I am 76 years of age. I feel good when I get up in the morning, usually about 3, 0am. Every other day, I work out of panic fitness for about an hour and 10 minutes. I use the treadmill for 25 minutes at 4 miles per hour and a 4% in time. The rest of the time, I exercise my arms, legs and shoulders. Whether I exercise or not, by noon, I get really tired and my back begins to hurt. I have to sit down and rest a lot. This has been the case for the past 6 months. I hope there is an exercise that can help me. I do not take any prescription medication. I do take some vitamins.",
+ "seconds": 0.445
+}

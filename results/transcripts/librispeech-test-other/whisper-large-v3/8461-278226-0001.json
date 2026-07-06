@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-278226-0001",
+ "condition": null,
+ "reference": "SHE MEANT TO BE SCRUPULOUSLY CONSCIENTIOUS IN THE ADMINISTRATION OF HER TALENTS AND SOMETIMES AT CHURCH ON A SUNDAY WHEN THE SERMON WAS PARTICULARLY AWAKENING SHE MENTALLY DEBATED THE SERIOUS QUESTION AS TO WHETHER NEW BONNETS AND A PAIR OF JOUVIN'S GLOVES DAILY WERE NOT SINFUL BUT I THINK SHE DECIDED THAT THE NEW BONNETS AND GLOVES WERE ON THE WHOLE A PARDONABLE WEAKNESS AS BEING GOOD FOR TRADE",
+ "audio_seconds": 27.15,
+ "created_at": "2026-07-05T13:08:46+00:00",
+ "failed": false,
+ "text": "she meant to be scrupulously conscientious in the administration of her talents and sometimes at church on a sunday when the sermon was particularly awakening she mentally debated a serious question as to whether new bonnets and a pair of jouvain's gloves daily were not sinful but i think she decided that the new bonnets and gloves were on the whole a pardonable weakness as being good for trade",
+ "seconds": 0.577
+}

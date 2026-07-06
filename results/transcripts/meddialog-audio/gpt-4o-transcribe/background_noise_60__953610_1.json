@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__953610_1",
+ "condition": "background_noise_60",
+ "reference": "At three am, I woke up with severe shaking of my whole body and chills. It went on for thirty minutes. Then I took a pain and sleep medication, and within fifteen minutes it went away. This morning, I had a very slight recurrence. I fell and hit my head about two months ago, and they took me to the emergency room by ambulance. A computed tomography scan showed nothing. I felt like I was going to have a seizure or something. Please help.",
+ "audio_seconds": 27.39,
+ "created_at": "2026-07-06T00:44:38+00:00",
+ "failed": false,
+ "text": "I woke up this morning with a migraine.",
+ "seconds": 1.013
+}

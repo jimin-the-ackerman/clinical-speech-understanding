@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__243901_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. You can keep reducing the sugar content of the milk slowly until you reach a point where there is no sugar in the milk. Additionally, you can check your current milk output to see if there is even a small amount available. If there is even a little, please provide the breast to the child for some time, and if the child suckles, let him suckle. After removing him from the breast, you can give the child some supplemental feeds. This way, the child will not stay hungry, and your milk output will also increase. Gradually, a point will come where your milk output will be sufficient to satisfy the child's hunger, and you will not need supplemental feeds.",
+ "audio_seconds": 33.19,
+ "created_at": "2026-07-06T00:43:53+00:00",
+ "failed": false,
+ "text": "Hello. You can keep reducing the sugar content of the milk slowly until you reach a point where there is no sugar in the milk. Additionally, you can check your current milk output to see if there is even a small amount available. If there is even a little, please provide the breast to the child for some time, and if the child suckles, let him suckle. After removing him from the breast, you can give the child some supplemental feeds. This way, the child will not stay hungry and your milk output will also increase. Gradually, a point will come where your milk output will be sufficient to satisfy the child's hunger, and you will not need supplemental feeds.",
+ "seconds": 2.207
+}

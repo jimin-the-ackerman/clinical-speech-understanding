@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__120700_1",
+ "condition": "clean",
+ "reference": "I have been experiencing low libido. I do get an erection but am unable to maintain it. I feel irritation in the veins of my penis, which has changed color and looks white, as if it has pus inside. Additionally, I feel irritation on the left side of my pelvic bone, giving me the impression that there may be some infection inside. Recently, my wife has also suffered from yeast infections.",
+ "audio_seconds": 26.28,
+ "created_at": "2026-07-06T00:44:42+00:00",
+ "failed": false,
+ "text": "I have been experiencing low libido. I do get an erection but am unable to maintain it. I feel irritation in the veins of my penis, which has changed color and looks white, as if it has pus inside. Additionally, I feel irritation on the left side of my pelvic bone, giving me the impression that there may be some infection inside. Recently, my wife has also suffered from yeast infections.",
+ "seconds": 1.975
+}

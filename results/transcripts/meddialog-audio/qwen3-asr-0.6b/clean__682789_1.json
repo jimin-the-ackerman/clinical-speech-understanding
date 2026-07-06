@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__682789_1",
+ "condition": "clean",
+ "reference": "Hello, I was on the contraceptive injection for one year and three months. I cannot get premenstrual syndrome. I am already in my fourth month after the last injection, and in this fourth month, I had premenstrual syndrome once. Does this mean that I can get pregnant? My husband and I now want to begin a family! Please help.",
+ "audio_seconds": 19.88,
+ "created_at": "2026-07-06T05:03:00+00:00",
+ "failed": false,
+ "text": "Hello. I was on the contraceptive injection for one year and three months. I cannot get premenstrual syndrome. I am already in my fourth month after the last injection, and in this fourth month, I had premenstrual syndrome once. Does this mean that I can get pregnant? My husband and I now want to begin a family. Please help.",
+ "seconds": 0.674
+}

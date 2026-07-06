@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__838315_1",
+ "condition": "white_noise_10",
+ "reference": "Hi there, my grandfather suffered from a massive heart attack sixteen years ago and had a triple bypass. He had another heart procedure a week ago and was told that stents are not an option, with open heart surgery being out of the question. He only has one artery working and has been informed they will change his medications and send him home. What does this mean, and how long does he have left, as no one has asked this question?",
+ "audio_seconds": 24.66,
+ "created_at": "2026-07-06T03:04:02+00:00",
+ "failed": false,
+ "text": "Hi there. My grandfather suffered from a massive heart attack 16 years ago, and he had a triple bypass. He had another heart procedure a week ago, and was told that stents are not an option, with open-heart surgery being out of the question. He only has 1 artery working and has been informed they will change his medications and send him home. What does this mean, and how long does he have left, when no one has asked this question?",
+ "seconds": 8.427
+}

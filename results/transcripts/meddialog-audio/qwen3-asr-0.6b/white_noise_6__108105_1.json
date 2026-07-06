@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__108105_1",
+ "condition": "white_noise_6",
+ "reference": "I have benign prostatic hyperplasia with frequent urination, especially at night. I am fifty-nine years old and have been suffering for the last two years. I have been advised to undergo surgery, but I am not interested. I have been taking allopathic medicine for high blood pressure for the last twenty years. I tried Ayurvedic medicine for benign prostatic hyperplasia with no improvement. My name is Skh Babu, I am from Mysore, I am fifty-nine years old, five point six feet tall, and weigh sixty kilograms.",
+ "audio_seconds": 35.41,
+ "created_at": "2026-07-06T05:11:47+00:00",
+ "failed": false,
+ "text": "I have benign prostatic hyperplasia with frequent urination, especially at night. I am fifty-nine years old and have been suffering for the last two years. I have been advised to undergo surgery, but I am not interested. I have been taking allopatic medicine for high blood pressure for the last twenty years. I tried Iovade medicine for benign prostatic hyperplasia with no improvements. My name is Skarsvadov. I am from Mysoar. I am fifty-nine years old, five point six feet tall, and weigh sixty kilograms.",
+ "seconds": 1.031
+}

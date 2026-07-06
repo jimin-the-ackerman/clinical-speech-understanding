@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0043",
+ "condition": null,
+ "reference": "I KNOW YOU WILL SAID DICKIE WITH ENTHUSIASM I KNOW OW GOOD YOU ARE",
+ "audio_seconds": 5.15,
+ "created_at": "2026-07-05T13:09:18+00:00",
+ "failed": false,
+ "text": "i know you will said dicky with enthusiasm i know how good you are",
+ "seconds": 0.119
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__751517_2",
+ "condition": "background_noise_20",
+ "reference": "It may be one of the complications of recurrent pancreatitis. You should be evaluated with a computed tomography scan of the abdomen. Do not neglect this.",
+ "audio_seconds": 8.36,
+ "created_at": "2026-07-06T04:52:21+00:00",
+ "failed": false,
+ "text": "It may be one of the complications of recurrent pancreatitis. You should be evaluated with a computed tomography scan of the abdomen. Do not neglect this.",
+ "seconds": 0.309
+}

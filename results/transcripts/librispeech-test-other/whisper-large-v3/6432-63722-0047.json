@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0047",
+ "condition": null,
+ "reference": "RATHER A HYPOTHETICAL QUESTION COLONEL BUT I SHOULD SAY IT MIGHT BE A FIFTY FIFTY PROPOSITION",
+ "audio_seconds": 6.49,
+ "created_at": "2026-07-05T13:05:12+00:00",
+ "failed": false,
+ "text": "rather a hypothetical question colonel but i should say it might be a fifty-fifty proposition",
+ "seconds": 0.219
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__445888_1",
+ "condition": "white_noise_10",
+ "reference": "My son was diagnosed with immunoglobulin A nephropathy at age sixteen. He was taking prednisone up until he was seventeen. He is now eighteen and has developed a bald spot on the left side of his head. It started out small but has now grown to about the size of a nickel. Could this be a result of his diagnosis?",
+ "audio_seconds": 18.35,
+ "created_at": "2026-07-06T04:29:52+00:00",
+ "failed": false,
+ "text": "My son had died in a community lobby in the area of Rocketsville at age 16. He was cooking cuttings around 1997. He is now 18 and has developed a bald spot on the left side of his head. He started out small but has now grown to about the size of a midget. But this year is where he's going to be.",
+ "seconds": 0.609
+}

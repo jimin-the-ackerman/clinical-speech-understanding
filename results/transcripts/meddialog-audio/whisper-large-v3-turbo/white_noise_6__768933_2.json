@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__768933_2",
+ "condition": "white_noise_6",
+ "reference": "Hi. Irrespective of the Implanon, pain in the lower abdomen during sexual intercourse is called dyspareunia. The most common causes are: salpingitis, pelvic inflammatory disease, ovarian cancer, cysts, or other problems such as appendicitis, among others. I would advise you to get an ultrasound first, as well as blood, urine, and stool tests. Additionally, consider having an examination by a gynecologist. The diagnosis will help you receive proper treatment.",
+ "audio_seconds": 30.29,
+ "created_at": "2026-07-06T04:49:10+00:00",
+ "failed": false,
+ "text": "Hi. Irrespective of the implanon, pain in the lower abdomen during sexual intercourse is called dysparemia. The most common causes are salpingitis, pelvic inflammatory disease, ovarian cancer, cysts, or other problems such as appendicitis, among others. I would advise you to get an ultrasound first, as well as blood, urine, and stool tests. Additionally, consider having an examination by a gynecologist. The diagnosis will help you receive proper treatment.",
+ "seconds": 0.357
+}

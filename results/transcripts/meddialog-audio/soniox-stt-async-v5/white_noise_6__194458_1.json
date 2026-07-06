@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__194458_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, I am thirty-one years old, and my husband is too. I have normal periods regularly, my sonography looks fine, and I receive positive ovulation predictor kits, with basal body temperature rise every month. My husband's count is around two hundred and ten million. We have been trying to conceive through timed intercourse for the last three to four months without success.",
+ "audio_seconds": 22.78,
+ "created_at": "2026-07-06T03:09:08+00:00",
+ "failed": false,
+ "text": "Hi, I'm 31 years old, and my husband is 2. I have no ovarian delay, my sonography was fine, and I received positive ovulation predictor kits with favorable temperature rise every month. My husband's count is around 210 millions. We have been trying to conceive 3 times intercourse for the last 3 to 4 months without success.",
+ "seconds": 4.919
+}

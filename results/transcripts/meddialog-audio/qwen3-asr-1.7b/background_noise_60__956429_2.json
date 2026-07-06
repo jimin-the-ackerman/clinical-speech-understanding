@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__956429_2",
+ "condition": "background_noise_60",
+ "reference": "Most sore throats are caused by infection with beta-hemolytic streptococci bacteria. Your daughter needs to undergo the following tests: ASO titer and throat culture. This will confirm the strain of bacteria. In the meantime, administer the following medications: Co-amoxiclav six hundred and twenty-five mg three times daily, Pantoprazole forty mg once daily in the morning before breakfast, and Voveran SR one hundred mg two tablets twice daily. Gargle three times a day with warm salt water. This treatment is to be followed for seven days. Thank you, and take care.",
+ "audio_seconds": 42.58,
+ "created_at": "2026-07-06T05:27:03+00:00",
+ "failed": false,
+ "text": "Most sore throats are caused by infection with beta-hemolytic streptococci bacteria. Your daughter needs to undergo the following tests: ASO titer and throat culture. This will confirm the strain of bacteria. In the meantime, administer the following medications: co-amoxiclav 625 milligrams three times daily, pantoprazole 40 milligrams once daily in the morning before breakfast, and voveran SR 100 milligrams two tablets twice daily. Gargle three times a day with warm salt water. This treatment is to be followed for seven days. Thank you and take care.",
+ "seconds": 1.208
+}

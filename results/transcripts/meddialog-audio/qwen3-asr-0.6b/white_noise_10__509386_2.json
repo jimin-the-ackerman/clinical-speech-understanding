@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__509386_2",
+ "condition": "white_noise_10",
+ "reference": "I read your question carefully, and your concern is understandable. While your friend's herniated disc can explain the weakness and numbness in the legs, if the disc in question is in the cervical spine, it does not explain the speech issue. It is not related to the spinal issues; the explanation lies elsewhere, as the brain areas and nerves responsible for speech function are at a higher level than the spinal cord. So your friend needs to have more tests for some other type of involvement, either a brain issue, which should be revealed through a brain magnetic resonance imaging, or a peripheral nerve issue involving the cranial nerves. Tests like lumbar puncture and nerve conduction studies with electromyography might be necessary to investigate that. I hope I have been of help.",
+ "audio_seconds": 46.25,
+ "created_at": "2026-07-06T05:05:56+00:00",
+ "failed": false,
+ "text": "I will discuss them carefully, and his concern about the sample. While we find a limited dose in the brain of leukemia and melanoma, if the wisdom has been in the medical science, it is not a common procedure. It is not related to the final work. The explanation lies elsewhere, as the brain areas and nerves responsible for speech function, are at a higher level than the final work. So your friend needs to have an exam for some other part involved, either a brain issue which could be revealed to a brain that had a problem with anything, or a peripheral nerve will be involved in the same one. As such, lumbar puncture and neuroconduction studies are necessary to investigate that. And if I have an account.",
+ "seconds": 1.302
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__769809_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, thank you for asking. It is nuclear medicine, and much must be known about this field. I think that the concerned nuclear physician is the best person to answer this question. Sometimes the signs and symptoms of cancer patients may not always be related to the disease. Have a nice day.",
+ "audio_seconds": 18.94,
+ "created_at": "2026-07-06T00:42:32+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking. It is nuclear medicine, and much must be known about this field. I think that the concerned nuclear physician is the best person to answer this question. Sometimes the signs and symptoms of cancer patients may not always be related to the disease. Have a nice day.",
+ "seconds": 1.529
+}

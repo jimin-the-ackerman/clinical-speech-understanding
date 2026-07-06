@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__133223_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, in reviewing your case, it seems that you are experiencing issues related to your stomach. Most likely, it is gastritis, so you can take an antacid right now.",
+ "audio_seconds": 11.86,
+ "created_at": "2026-07-06T00:47:08+00:00",
+ "failed": false,
+ "text": "Tuhan memberikan petunjuknya kepada kita. Mari kita bertobat.",
+ "seconds": 0.861
+}

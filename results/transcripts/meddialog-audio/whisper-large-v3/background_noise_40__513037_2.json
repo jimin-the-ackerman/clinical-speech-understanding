@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__513037_2",
+ "condition": "background_noise_40",
+ "reference": "Hepatosplenomegaly with abdominal pain could possibly be due to any chronic infection, anemia, malaria, typhoid, kala-azar, liver problems such as hepatitis or portal hypertension, and many blood disorders. Kindly evaluate with blood tests after your physician's advice.",
+ "audio_seconds": 17.24,
+ "created_at": "2026-07-06T04:19:01+00:00",
+ "failed": false,
+ "text": "Hepatose planomegaly with abdominal pain could possibly be due to any chronic infection, anemia, malaria, typhoid, kala-azar, liver problems such as hepatitis or portal hypertension, and many blood disorders. Kindly evaluate with blood tests after your physician's advice.",
+ "seconds": 0.581
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__660226_1",
+ "condition": "white_noise_6",
+ "reference": "I am nine weeks pregnant. In the past few weeks, I have been experiencing vision problems where I can see, but things are not focused, leaving me feeling off. I don’t know if it matters, but my neck is stiff and sore. When the vision problems start, a little later, I get headaches. Earlier today, when it happened, I went to get something to eat, hoping that would make me feel better. When I was asked if I needed sauces, I could not think of ketchup. I don't like how I feel when this happens and I am scared of what could be the problem.",
+ "audio_seconds": 33.54,
+ "created_at": "2026-07-06T04:48:59+00:00",
+ "failed": false,
+ "text": "I am nine weeks pregnant. In the past few weeks, I have been experiencing vision problems where I can see, but things are not focused, leaving me feeling off. I don't know if it matters, but my neck is stiff and sore. When the vision problems start a little later, I get headaches. Earlier today, when it happened, I went to get something to eat, hoping that would make me feel better. When I was asked if I needed sausage, I could not think of ketchup. I don't like how I feel when this happens, and I am scared of what could be the problem.",
+ "seconds": 0.398
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__672808_1",
+ "condition": "white_noise_2",
+ "reference": "My doctor attempted to fit me with the Mirena coil a couple of days ago and couldn't do it due to it being too painful to complete the fit. Since then, I have been suffering with really bad lower abdominal pain and cramping, but no bleeding, although there is heavier than normal discharge. Will this settle down, or should I seek medical advice?",
+ "audio_seconds": 19.03,
+ "created_at": "2026-07-06T05:37:18+00:00",
+ "failed": false,
+ "text": "My doctor attempted to fit me with the Marina coil a couple of days ago and couldn't do it due to it being too painful to complete the fit. Since then, I have been suffering with really bad lower abdominal pain and cramping, but no bleeding. Although there is heavier than normal discharge, will this settle down, or should I seek medical advice?",
+ "seconds": 0.688
+}

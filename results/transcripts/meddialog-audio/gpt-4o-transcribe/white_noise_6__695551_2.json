@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__695551_2",
+ "condition": "white_noise_6",
+ "reference": "Medication for fever is symptomatic treatment; it is not a cure. Fever is the body's response to protect against further damage and eliminate the cause. Therefore, medication can suppress fever and provide some relief, but you may feel some warmth on her forehead until your baby is well. That is okay.",
+ "audio_seconds": 16.98,
+ "created_at": "2026-07-06T00:47:29+00:00",
+ "failed": false,
+ "text": "That means if the computer is not here, even the body is practically meaningless.",
+ "seconds": 0.6
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__617000_2",
+ "condition": "white_noise_10",
+ "reference": "All you need is to build up your back muscles with back exercises a few times daily along with massage therapy. If you have a sedentary occupation, back stretching exercises will prevent spasms.",
+ "audio_seconds": 12.8,
+ "created_at": "2026-07-06T05:06:20+00:00",
+ "failed": false,
+ "text": "All you need is to build up your back muscles with back exercises, a few times daily, along with massage therapy. If you have a sedentary occupation, back stretching exercises will prevent spasm.",
+ "seconds": 0.393
+}

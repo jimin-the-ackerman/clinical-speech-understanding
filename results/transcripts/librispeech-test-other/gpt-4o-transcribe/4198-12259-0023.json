@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12259-0023",
+ "condition": null,
+ "reference": "BUT IF THERE CAME SUCH LIQUOR FROM MY BALLOCK WOULD YOU NOT WILLINGLY THEREAFTER SUCK THE UDDER WHENCE IT ISSUED",
+ "audio_seconds": 9.06,
+ "created_at": "2026-07-05T23:55:40+00:00",
+ "failed": false,
+ "text": "But if there came such liquor from my ballick, were you not willingly thereafter suck the udder whence it issued?",
+ "seconds": 0.858
+}

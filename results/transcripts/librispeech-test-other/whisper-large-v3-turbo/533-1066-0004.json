@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-1066-0004",
+ "condition": null,
+ "reference": "OUT OF DEFERENCE TO LIDDY THEY WASHED THEIR DISHES ONCE A DAY AND THEY CONCOCTED QUEER MESSES ACCORDING TO THEIR SEVERAL ABILITIES",
+ "audio_seconds": 9.02,
+ "created_at": "2026-07-05T13:12:12+00:00",
+ "failed": false,
+ "text": "out of deference to lydie they washed her dishes once a day and they concoated queer messes according to their several abilities",
+ "seconds": 0.131
+}

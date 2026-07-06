@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__689275_2",
+ "condition": "white_noise_2",
+ "reference": "I am too late to post an answer as I joined this forum recently. I hope you have had the ultrasound done.",
+ "audio_seconds": 6.06,
+ "created_at": "2026-07-06T00:46:49+00:00",
+ "failed": false,
+ "text": "I am too late to postpone my dormitory. I hope you have your own.",
+ "seconds": 0.608
+}

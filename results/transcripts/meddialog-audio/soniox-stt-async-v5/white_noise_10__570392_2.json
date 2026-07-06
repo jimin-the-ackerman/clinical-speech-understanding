@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__570392_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, the center for the regulation of body temperature lies in the brain. The brain senses body temperature and adjusts to keep it at a constant level. There is a possibility that the stroke may have affected that area, and so he is unable to regulate his body temperature. Heavy sedation itself can cause unresponsiveness. Additionally, a large stroke can lead to brain swelling within forty-eight to seventy-two hours, and the increase in pressure due to this swelling can result in unresponsiveness. Since you mentioned it was a massive stroke, let's keep our fingers crossed and hope for the best. Good luck.",
+ "audio_seconds": 32.6,
+ "created_at": "2026-07-06T03:02:39+00:00",
+ "failed": false,
+ "text": "Hello, listen. Regulation of body temperature lies in the brain; the brain senses body temperature and adjusts to keep it at a constant level. There is a possibility that the stroke may have affected that area and so he is unable to regulate his body temperature; heavy sedation itself can cause unresponsiveness. Additionally, a large stroke can lead to brain swelling within 48 to 72 hours, and the increase in pressure due to this swelling can result in unresponsiveness. Since you mentioned it was a massive stroke, let's keep our fingers crossed and hope for the best. Good luck.",
+ "seconds": 8.562
+}

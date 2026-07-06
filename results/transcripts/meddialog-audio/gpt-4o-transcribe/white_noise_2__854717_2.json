@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__854717_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, welcome to Healthcare Magic. Cancer of the cervix is one of the most common cancers in women, which presents as a growth over the cervix. This growth is associated with abdominal pain in cases of blockage of the lower urinary system. Please meet your gynecologist for the diagnosis with biopsy, staging, and further management.",
+ "audio_seconds": 17.49,
+ "created_at": "2026-07-06T00:46:59+00:00",
+ "failed": false,
+ "text": "Hi, Dr. Maher. I remember this is one of the most common questions women, which provides for the growth of the child. This process is very needed in the development, which is the quantity for women in the structure. This means that older should diagnose the supply of food staple needs for the body.",
+ "seconds": 1.062
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6938-70848-0015",
+ "condition": null,
+ "reference": "UPON MY RETURN I VISITED SMOLNY NO SUCH ACCUSATION WAS MADE AGAINST ME THERE AFTER A BRIEF CONVERSATION I LEFT AND THAT'S ALL LET ANY ONE PRESENT MAKE SUCH AN ACCUSATION",
+ "audio_seconds": 11.84,
+ "created_at": "2026-07-06T03:35:25+00:00",
+ "failed": false,
+ "text": "Upon my return, I visited Smallney. No such accusation was made against me there. After a brief conversation, I left, and that's all. Let anyone present make such an accusation.",
+ "seconds": 0.39
+}

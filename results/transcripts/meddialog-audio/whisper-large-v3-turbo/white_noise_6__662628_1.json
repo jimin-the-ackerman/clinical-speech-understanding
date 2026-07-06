@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__662628_1",
+ "condition": "white_noise_6",
+ "reference": "I woke up to unbearable pain that felt like it was coming from between my shoulder blades, and when it gets really intense, I experience a striking pain in my abdominal area. Both pains are currently competing for the most intense feeling.",
+ "audio_seconds": 12.12,
+ "created_at": "2026-07-06T04:49:00+00:00",
+ "failed": false,
+ "text": "I woke up to unbearable pain that felt like it was coming from between my shoulder bites. And when it gets really intense, I experience a striking pain in my abdominal area. Both pains are currently competing for the most intense feeling.",
+ "seconds": 0.207
+}

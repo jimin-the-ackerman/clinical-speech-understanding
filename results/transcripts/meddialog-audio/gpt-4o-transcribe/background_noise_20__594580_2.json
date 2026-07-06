@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__594580_2",
+ "condition": "background_noise_20",
+ "reference": "In my opinion, if there is involvement of the epidural layer of the spinal cord, the disease can spread into the brain, and the seizures will occur. You need to consult with a neurologist who can assess the extent of the condition and treat it accordingly.",
+ "audio_seconds": 12.54,
+ "created_at": "2026-07-06T00:42:20+00:00",
+ "failed": false,
+ "text": "In my opinion, if there is involvement of the epidural layer of the spinal cord, the disease can spread into the brain and the seizures will occur. You need to consult with a neurologist who can assess the extent of the condition and treat it accordingly.",
+ "seconds": 0.988
+}

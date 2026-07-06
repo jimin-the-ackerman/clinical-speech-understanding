@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__454733_1",
+ "condition": "white_noise_2",
+ "reference": "My four point five-year-old daughter is having a high fever of one hundred and two degrees Fahrenheit. She has been taking Septran antibiotic for the last two years related to a urinary infection. One of the doctors prescribed Fepanil two hundred and fifty milligrams, but the fever is not subsiding right now. What should be the medicine to be consumed now?",
+ "audio_seconds": 19.71,
+ "created_at": "2026-07-06T00:46:33+00:00",
+ "failed": false,
+ "text": "I will clean my boat thoroughly, inspect it for any needed repairs, keep it in a designated storage area or secure facility, and ensure it is covered with a tarp or protective covering.",
+ "seconds": 0.844
+}

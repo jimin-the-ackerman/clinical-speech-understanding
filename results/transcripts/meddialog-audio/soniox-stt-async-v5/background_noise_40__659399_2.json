@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__659399_2",
+ "condition": "background_noise_40",
+ "reference": "Hello. There is nothing like mild appendicitis; it either exists or it does not. It is better to undergo surgery when you have no symptoms, as the recovery will be optimal. Get operated on before you have your next attack or develop complications.",
+ "audio_seconds": 18.52,
+ "created_at": "2026-07-06T02:51:58+00:00",
+ "failed": false,
+ "text": "Hello, there is nothing like \"mild\" appendicitis; it either exists or it does not. It is better to undergo surgery without symptoms, as the recovery will be optimal. Get operated on before you have your next attack or develop complications.",
+ "seconds": 6.327
+}

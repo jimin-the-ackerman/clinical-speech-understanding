@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__938095_2",
+ "condition": "background_noise_20",
+ "reference": "You should see your doctor immediately for further evaluation. You may be experiencing a reactivation of your previous tuberculomas and may require another round of treatment. You should not delay, even if the headaches improve, especially if you are inclined to take over-the-counter analgesics, as they may alleviate the headaches but will not address the bacillus infection if it has reactivated. Good luck. I would appreciate your best star rating if I have provided you with useful information.",
+ "audio_seconds": 26.62,
+ "created_at": "2026-07-06T05:19:10+00:00",
+ "failed": false,
+ "text": "You should see your doctor immediately for further evaluation. You may be experiencing a reactivation of your previous tuberculosis and may require another round of treatment. You should not delay, even if the headaches improve, especially if you are inclined to take over-the-counter analgesics, as they may alleviate the headaches but will not address the bacillus infection if it has reactivated. Good luck. I would appreciate your best star rating if I have provided you with useful in.",
+ "seconds": 0.868
+}

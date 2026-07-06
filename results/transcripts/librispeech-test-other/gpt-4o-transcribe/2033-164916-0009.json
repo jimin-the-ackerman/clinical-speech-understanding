@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164916-0009",
+ "condition": null,
+ "reference": "MOREOVER THE SULTAN COMMANDED HIS WAZIR DANDAN CALL A TEN DAYS HALT OF THE ARMY THAT HE MIGHT BE PRIVATE WITH HIM AND LEARN FROM HIM HOW AND WHEREFORE HIS FATHER HAD BEEN SLAIN",
+ "audio_seconds": 16.54,
+ "created_at": "2026-07-05T23:54:01+00:00",
+ "failed": false,
+ "text": "Moreover, the Sultan commanded his Wazir Dandan call a ten days' halt of the army, that he might be private with him and learn from him how and wherefore his father had been slain.",
+ "seconds": 1.041
+}

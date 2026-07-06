@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__684357_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, I have started working out, or should I say walking. Today I ran for two minutes after I warmed up, and I thought my head would explode. It felt like I had severe pressure in my head. Is this normal or could it be something else? It happened about three weeks ago when I went fishing and reeled in a fish that was way out, and my head started hurting really badly. Please help!",
+ "audio_seconds": 26.37,
+ "created_at": "2026-07-06T02:55:25+00:00",
+ "failed": false,
+ "text": "Hi. I started working out, or should I say walking—today I ran for 2 minutes after I warmed up, and I thought my head would explode. It felt like I had severe pressure in my head. Is this normal, or could it be something else? It happened about 3 weeks ago when I went fishing and reeled in a fish that was way out, and my head started hurting really badly. Please help.",
+ "seconds": 4.846
+}

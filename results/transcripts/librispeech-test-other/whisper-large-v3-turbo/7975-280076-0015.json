@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280076-0015",
+ "condition": null,
+ "reference": "I WENT THROUGH INDEPENDENCE AND FROM THERE TO ACE WEBB'S",
+ "audio_seconds": 2.92,
+ "created_at": "2026-07-05T13:14:10+00:00",
+ "failed": false,
+ "text": "I went through independence, and from there to Ace Webb's.",
+ "seconds": 0.106
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__461724_2",
+ "condition": "clean",
+ "reference": "Hi, thank you for asking. I really appreciate your concern. If the lump that you noticed does not hurt, then the chances of it being a lipoma are very likely, at least based on the history provided here. Otherwise, a medical examination would be needed for a final diagnosis. Hope this information helps you. Have a good day.",
+ "audio_seconds": 17.58,
+ "created_at": "2026-07-06T04:44:24+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking. I really appreciate your concern. If the lump that you notice does not hurt, then the chances of it being a lipoma are very likely, at least based on the history provided here. Otherwise, a medical examination would be needed for a final diagnosis. Hope this information helps you. Have a good day.",
+ "seconds": 0.234
+}

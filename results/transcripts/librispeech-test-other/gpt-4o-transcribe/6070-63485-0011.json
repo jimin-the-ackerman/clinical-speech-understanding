@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-63485-0011",
+ "condition": null,
+ "reference": "WRETCH I DO NOT SEEK HIS LIFE REPLIED SARAH TO THE SCHOOLMASTER",
+ "audio_seconds": 4.99,
+ "created_at": "2026-07-05T23:57:00+00:00",
+ "failed": false,
+ "text": "\"Vetch, I do not see his life,\" replied Sarah to the schoolmaster.",
+ "seconds": 0.742
+}

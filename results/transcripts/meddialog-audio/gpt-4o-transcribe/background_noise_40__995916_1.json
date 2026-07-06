@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__995916_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, my thirteen-year-old daughter has a pulling sensation just below her belly button. She has experienced this intermittently for a while, lasting about half an hour each time. Since Sunday, it has returned and remained; the sensation is worsening and has spread up to her chest. Please help.",
+ "audio_seconds": 16.98,
+ "created_at": "2026-07-06T00:43:45+00:00",
+ "failed": false,
+ "text": "Hi, my 13 year old daughter has a pulling sensation just below her belly button. She has experienced this intermittently for a while, lasting about half an hour each time. Since Sunday it has returned and remained, the sensation is worsening and has spread up to her chest. Please help.",
+ "seconds": 1.183
+}

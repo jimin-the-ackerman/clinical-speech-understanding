@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-10919-0023",
+ "condition": null,
+ "reference": "WHEN THE DOCTOR CAME IN SHE FLUSHED CRIMSON AND HER EYES FILLED WITH TEARS",
+ "audio_seconds": 4.18,
+ "created_at": "2026-07-06T03:20:02+00:00",
+ "failed": false,
+ "text": "When the doctor came in, she flushed crimson, and her eyes filled with tears.",
+ "seconds": 0.192
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__416422_1",
+ "condition": "background_noise_60",
+ "reference": "Hello. My ninety-year-old grandmother is in a rest home for care. She has Alzheimer's disease and needs some help with feeding and is incontinent. She still recognizes family, but not always. She appears to have just had a stroke within the last two hours, as her mouth is twisted. She seems comfortable. I have given the family the choice as to whether to go to the hospital. Is there any value in going? Could she be offered any treatment that would be beneficial considering her pre-stroke condition?",
+ "audio_seconds": 29.35,
+ "created_at": "2026-07-06T02:54:24+00:00",
+ "failed": false,
+ "text": "Hello, my 90-year-old grandmother is in a rest home for care. She has Alzheimer's disease and needs some help with feeding and is incontinent. She still recognizes family, but not always. She appears to have just had a stroke within the last 2 hours as her mouth is twisted. She seems comfortable. I have given the family the choice as to whether to go to the hospital. Is there any value in knowing? Could she be offered any treatment that would be beneficial, considering her pre-stroke condition?",
+ "seconds": 4.919
+}

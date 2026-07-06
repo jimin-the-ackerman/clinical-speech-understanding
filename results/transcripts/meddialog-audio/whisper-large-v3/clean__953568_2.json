@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__953568_2",
+ "condition": "clean",
+ "reference": "The black spot could have been present from birth. In that case, it would probably not be a cause for concern. Observe if it is constantly there. It is likely to be unrelated to the cough and flu. Most often, such symptoms are due to respiratory tract infections and are caused by certain viruses. Regardless of the use of medications, such episodes typically take five to seven days to recover. If the child is otherwise playful and active, you need not worry. However, if the child grows lethargic, you will need to take the child to a doctor without delay.",
+ "audio_seconds": 35.75,
+ "created_at": "2026-07-06T04:28:21+00:00",
+ "failed": false,
+ "text": "the black spot could have been present from birth. In that case, it would probably not be a cause for concern. Observe if it is constantly there. It is likely to be unrelated to the cough and flu. Most often, such symptoms are due to respiratory tract infections and are caused by certain diseases. Regardless of the use of medications, such episodes typically take five to seven days to recover. If the child is otherwise playful and active, you need not worry. However, if the child grows lethargic, you will need to take the child to a doctor without delay.",
+ "seconds": 1.035
+}

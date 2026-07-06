@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__498458_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, you are taking vitamin D3. You can take Tyo K or Uprise D tablets daily, or another option is to have Calcirol sachets once a week for six weeks. Along with vitamin D3, take the Shelcal five hundred milligrams tablet daily.",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T04:30:05+00:00",
+ "failed": false,
+ "text": "Hello, you are taking Vitamin B3. You can take Hi-OK or a 2C tablet daily. Or another option is to have Calcruel sachet once a week for 6 weeks. Along with Vitamin B3, take the Shell Cal 500mg tablet daily.",
+ "seconds": 0.53
+}

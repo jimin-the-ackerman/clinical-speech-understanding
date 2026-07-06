@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0032",
+ "condition": null,
+ "reference": "NO I CAN'T PART WITH THAT HA HA HA LAUGHED THE BOY JEERINGLY",
+ "audio_seconds": 4.33,
+ "created_at": "2026-07-06T03:36:24+00:00",
+ "failed": false,
+ "text": "No, I can't part with that. Ha! Ha! Ha! Laughed the boy jeeringly.",
+ "seconds": 0.244
+}

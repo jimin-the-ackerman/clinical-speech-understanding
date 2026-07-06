@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__576535_1",
+ "condition": "white_noise_6",
+ "reference": "A week ago, I fell flat on my face on my left cheekbone. That area did not particularly get black and blue like much of the left side of my face, but it has a significant hard swelling about the size of a ping-pong ball. It does not seem to be going down in size. Do you know what this injury is called? I did go to the emergency room where they performed three computed tomography scans and an x-ray of the left side of my body – nothing is broken.",
+ "audio_seconds": 27.82,
+ "created_at": "2026-07-06T05:40:38+00:00",
+ "failed": false,
+ "text": "A week ago, I fell flat on my face on my left cheekbone. That area did not particularly get black and blue like much of the left side of my face, but it has a significant hard swelling about the size of a ping pong ball. It does not seem to be going down in size. Do you know what this injury is called? I did go to the emergency room, where they performed three computed tomography scans and an X of the left side of my body. Nothing is broken.",
+ "seconds": 0.951
+}

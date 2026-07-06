@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__594241_2",
+ "condition": "background_noise_60",
+ "reference": "Sometimes it is not possible to connect the wire superficially, so the surgery will be performed to put the wire through that route. It is minor surgery only.",
+ "audio_seconds": 10.24,
+ "created_at": "2026-07-06T04:43:11+00:00",
+ "failed": false,
+ "text": "Sometimes it is not possible to connect the wire superficially, so the surgery will be performed to put the wire through that route. It is minor surgery only.",
+ "seconds": 0.184
+}

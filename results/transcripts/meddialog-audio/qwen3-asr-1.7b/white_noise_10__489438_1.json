@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__489438_1",
+ "condition": "white_noise_10",
+ "reference": "I am a forty-three-year-old woman, and I recently found a lump on the side of my left neck the size of a large grape. If I push on it, it is a little painful, but it is somewhat hard, not squishy. I just want to make sure if this is something I need to see a doctor for. Also, I am on Coumadin since I am a Factor V carrier, but I don't know if that would make a difference.",
+ "audio_seconds": 22.27,
+ "created_at": "2026-07-06T05:32:30+00:00",
+ "failed": false,
+ "text": "I am a 43 year old woman, and I recently found a lump on the side of my left neck, the size of a large grape. If I push on it, it is a little painful, but it is somewhat hard, not squishy. I just want to make sure if this is something I need to see a doctor for. Also, I am on Cymbidin since I am a factory worker, but I don't know if that would make a difference.",
+ "seconds": 0.927
+}

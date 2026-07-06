@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__696580_2",
+ "condition": "clean",
+ "reference": "I cannot say in your particular case, but an infection in the kidney can cause pain in the back where the kidneys are located. This can rapidly lead to serious problems and requires immediate medical attention. Other possibilities, such as back spasms or pinched nerves, are far less likely than a serious kidney infection to cause any urinary symptoms.",
+ "audio_seconds": 20.48,
+ "created_at": "2026-07-06T04:27:15+00:00",
+ "failed": false,
+ "text": "I cannot say in your particular case, but an infection in the kidney can cause pain in the back where the kidneys are located. This can rapidly lead to serious problems and requires immediate medical attention. Other possibilities, such as back spasms or pinched nerves, are far less likely than a serious kidney infection to cause any urinary symptoms.",
+ "seconds": 0.577
+}

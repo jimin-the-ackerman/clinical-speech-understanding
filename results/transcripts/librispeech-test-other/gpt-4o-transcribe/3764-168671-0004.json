@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168671-0004",
+ "condition": null,
+ "reference": "THE GRAVE DIGGERS BEING THUS BOUND TO SERVICE IN THE EVENING IN SUMMER AND AT NIGHT IN WINTER IN THIS CEMETERY THEY WERE SUBJECTED TO A SPECIAL DISCIPLINE",
+ "audio_seconds": 9.53,
+ "created_at": "2026-07-05T23:55:23+00:00",
+ "failed": false,
+ "text": "The grave-diggers being thus bound to service in the evening in summer and at night in winter in this cemetery, they were subjected to a special discipline.",
+ "seconds": 0.755
+}

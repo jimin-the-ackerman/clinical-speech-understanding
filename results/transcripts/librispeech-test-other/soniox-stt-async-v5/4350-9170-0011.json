@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-9170-0011",
+ "condition": null,
+ "reference": "ONLY UNDER THOSE CONDITIONS COULD THE SOCIAL ORGANIZATION BE JUSTIFIED",
+ "audio_seconds": 3.75,
+ "created_at": "2026-07-06T02:26:46+00:00",
+ "failed": false,
+ "text": "Only under those conditions could the social organization be justified.",
+ "seconds": 5.035
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__576086_1",
+ "condition": "white_noise_2",
+ "reference": "My mother is seventy-three and has a heart problem, is diabetic, and suffers from high blood pressure. She had a fall two months ago, and luckily nothing was broken. After a month, she started suffering from shoulder pain. We have done an X-ray, and nothing is showing. Can you please suggest some remedies for treatment?",
+ "audio_seconds": 16.64,
+ "created_at": "2026-07-06T04:47:26+00:00",
+ "failed": false,
+ "text": "my mother is 73 and has a heart problem is diabetic and suffers from high blood pressure she had a fall two months ago and luckily nothing was broken after a month she started suffering from shoulder pain we have done an x-ray and nothing is showing can you please suggest some remedies for treatment",
+ "seconds": 0.329
+}

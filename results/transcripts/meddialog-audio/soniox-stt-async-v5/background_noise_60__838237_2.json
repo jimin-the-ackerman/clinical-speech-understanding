@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__838237_2",
+ "condition": "background_noise_60",
+ "reference": "There can be haziness due to radiation-induced lung fibrosis. If the nodule has remained stable in size and there is no evidence of disease anywhere else, I would suggest that the nodule size be followed with a computed tomography scan in three months' time.",
+ "audio_seconds": 16.73,
+ "created_at": "2026-07-06T02:56:03+00:00",
+ "failed": false,
+ "text": "There can be haziness due to radiation-induced lung fibrosis if the nodule has remained stable in size and there is no evidence of disease anywhere else. I would suggest that the nodule size be followed with a computed tomography scan in 3 months' time.",
+ "seconds": 4.824
+}

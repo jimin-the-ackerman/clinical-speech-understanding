@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__563173_1",
+ "condition": "white_noise_6",
+ "reference": "Hello Doctor, I have developed a lazy bowel due to laxatives, and I have developed depression. I have a little cereal in the morning, but I am scared to eat. What can I have? My doctor is ordering a computed tomography scan today. I cannot eat until then, but after, what is the lightest diet?",
+ "audio_seconds": 17.15,
+ "created_at": "2026-07-06T05:13:33+00:00",
+ "failed": false,
+ "text": "Hello doctor, I have developed a lazy bowel syndrome. I have developed depression. I have a little cereal in the morning, but I am scared of it. What can I have? My doctor is ordering a tomography scan today. I cannot eat until then. But after, what is the lightest diet?",
+ "seconds": 0.575
+}

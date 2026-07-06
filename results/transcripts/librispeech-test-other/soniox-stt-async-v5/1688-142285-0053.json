@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0053",
+ "condition": null,
+ "reference": "YO'LL NOT BE DAUNTED IF FATHER'S AT HOME AND SPEAKS A BIT GRUFFISH AT FIRST",
+ "audio_seconds": 5.81,
+ "created_at": "2026-07-05T23:59:32+00:00",
+ "failed": false,
+ "text": "You'll not be daunted if Father's at home and speaks a bit gruffish at first.",
+ "seconds": 4.71
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__479625_1",
+ "condition": "white_noise_6",
+ "reference": "About three weeks ago, I experienced sudden pain in my mid back area, perhaps in the kidney area. I could not get comfortable sitting or lying down. It went away in a few days, but it came back a week later with the same symptoms. It has now lasted ten days. I have not had kidney stones before. I do not have fever, fatigue, or nausea; I feel fine otherwise.",
+ "audio_seconds": 23.81,
+ "created_at": "2026-07-06T03:10:10+00:00",
+ "failed": false,
+ "text": "About 3 weeks ago, I experienced sudden pain in my low back area, perhaps in the kidney area. I could not get comfortable sitting or lying down. It went away in a few days, but it came back a week later with the same symptoms. It has now lasted 10 days. I have not had kidney stones before. I do not have fever, fatigue, or nausea. I feel fine otherwise.",
+ "seconds": 5.044
+}

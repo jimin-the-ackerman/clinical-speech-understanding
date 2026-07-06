@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__179184_1",
+ "condition": "white_noise_6",
+ "reference": "Hello! I think I am pregnant. The pregnancy test showed two lines. After a week or so since the day I was expecting my period, my back started hurting when I move. I want to know if this is normal during pregnancy and what the reason might be for it to hurt. I also have symptoms – I have headaches, sometimes fever. I easily get emotional. My breasts have become extremely sensitive, and I feel pain. However, I do not have nausea. I think I am in the fifth week now, and I read somewhere that nausea is supposed to be the first sign too. Is this true?",
+ "audio_seconds": 32.09,
+ "created_at": "2026-07-06T05:38:57+00:00",
+ "failed": false,
+ "text": "Hello, I think I am pregnant. The pregnancy test showed two lines. After a week or so since the day I was expecting my period, my back started hurting a bit. I want to know if this is normal during pregnancy and what the reason might be for the hurt. I also have symptoms. I have headaches, sometimes fever, I easily get emotional, my breasts have become extremely sensitive, and I feel pain. However, I do not have nausea. I think I am in the fifth week now, and I read somewhere that nausea is supposed to be the first sign too. Is this true?",
+ "seconds": 1.135
+}

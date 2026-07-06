@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__188121_1",
+ "condition": "white_noise_10",
+ "reference": "Hello. I just wanted to ask you something. Well, I have been on the Mirena for about two years, and I have recently had this bloody, mucousy discharge coming out. I do have intercourse. I have also been dealing with back pain lately, and a while ago I started having really bad heartburn, like I couldn't even breathe because it would hurt.",
+ "audio_seconds": 18.86,
+ "created_at": "2026-07-06T04:45:26+00:00",
+ "failed": false,
+ "text": "Hello. I just wanted to ask you something. Well, I have been on the ring for about two years, but I have recently had this bloody UBC disc heart coming out. I do have no fear. I have also been dealing with that pain. But a while ago, I started having really bad heartburns. I guess I couldn't even breathe because it was hurt.",
+ "seconds": 0.223
+}

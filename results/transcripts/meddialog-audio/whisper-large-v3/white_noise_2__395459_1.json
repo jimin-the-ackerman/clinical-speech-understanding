@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__395459_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, my name is Ana. I have been looking for help, and I need to understand my MRI result because the doctor did not explain it to me. The findings are as follows: there is a curvature of the cervical spine convex toward the right on the coronal image. Straightening of the upper cervical lordosis is present, consistent with musculoskeletal strain.",
+ "audio_seconds": 20.74,
+ "created_at": "2026-07-06T04:33:20+00:00",
+ "failed": false,
+ "text": "hi my name is anna i have been looking for help and i need to understand my mri result because the doctor did not explain it to me the findings are as follows there is a curvature of the cervical spine convex toward the right on the coronal image straightening of the upper cervical lordosis is present consistent with musculoskeletal strain",
+ "seconds": 0.59
+}

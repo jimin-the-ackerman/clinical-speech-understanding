@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__322955_2",
+ "condition": "background_noise_60",
+ "reference": "Dear friend, welcome to the Health Care Management. I am sorry, but I am unable to see your hepatitis report. If you have been diagnosed with hepatitis B, then this is likely the cause of your condition. You require evaluation and treatment to determine whether it is acute or chronic hepatitis B. I suggest you provide complete details and not take this lightly. Stay healthy.",
+ "audio_seconds": 25.86,
+ "created_at": "2026-07-06T05:24:16+00:00",
+ "failed": false,
+ "text": "Dear friend, welcome to the healthcare management. I am sorry, but I am unable to see your hepatitis report. If you have been diagnosed with hepatitis B, then this is likely the cause of your condition. You require evaluation and treatment to determine whether it is acute or chronic hepatitis B. I suggest you provide complete details and not take this lightly. Stay healthy.",
+ "seconds": 0.695
+}

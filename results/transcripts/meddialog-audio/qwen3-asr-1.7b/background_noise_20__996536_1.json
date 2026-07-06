@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__996536_1",
+ "condition": "background_noise_20",
+ "reference": "Hello Doctor, I am nineteen years old, male. I have been prone to masturbation since a very young age. I tried to engage in normal masturbation, but I fail to achieve orgasm even though it seems close. I do ejaculate a bit, but I have to follow it up with prone masturbation. I do not currently have erectile dysfunction, though I am unsure about the future. I typically try to engage in normal masturbation for two minutes. one. How long does it normally take to ejaculate and achieve orgasm? two. What possible effects does proceeding with prone masturbation have on me? three. What methods should I follow to stop prone masturbation? I stopped masturbation altogether for sixteen days, and it was really hard, but I still needed to engage in prone masturbation.",
+ "audio_seconds": 49.75,
+ "created_at": "2026-07-06T05:19:24+00:00",
+ "failed": false,
+ "text": "Hello, doctor. I am nineteen years old, male. I have been prone to masturbation since a very young age. I try to engage in normal masturbation, but I fail to achieve orgasm, even though it seems close. I do ejaculate a bit, but I have to follow it up with prone masturbation. I do not currently have erectile dysfunction, though I am unsure about the future. I typically try to engage in normal masturbation for two minutes. One. How long does it normally take to ejaculate and achieve orgasm? Two. What possible effects does proceeding with prone masturbation have on me? Three. What method should I follow to stop prone masturbation? I stopped masturbation altogether for sixteen days, and it was really hard. But I still needed to engage in prone masturbation.",
+ "seconds": 1.428
+}

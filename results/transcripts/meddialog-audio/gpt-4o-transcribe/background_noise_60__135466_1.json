@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__135466_1",
+ "condition": "background_noise_60",
+ "reference": "I have numbness in my legs that has migrated from my arms. I have been to a number of doctors and none of them, not one, has launched an investigation into my symptoms. Is there a reason for this? It's a much longer story, but this is the short version.",
+ "audio_seconds": 14.85,
+ "created_at": "2026-07-06T00:43:46+00:00",
+ "failed": false,
+ "text": "I have numerous emails that was migrated from my apps.",
+ "seconds": 0.541
+}

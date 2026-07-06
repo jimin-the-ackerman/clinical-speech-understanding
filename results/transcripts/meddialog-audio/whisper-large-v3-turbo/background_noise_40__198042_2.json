@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__198042_2",
+ "condition": "background_noise_40",
+ "reference": "Serotonin or five-hydroxytryptophan might be the cause of the increase in your liver enzymes. It is metabolized in the liver, and this could cause an elevation of your liver enzymes. You need to do the following: one. Taper off your dose of five-hydroxytryptophan, lowering five milligrams every week until you completely stop the drug. two. Keep your weight within normal range. three. Wait for three weeks after stopping five-hydroxytryptophan and then retest your liver enzymes. If your liver enzymes are still elevated, you need to go to a gastroenterologist who will conduct a full panel of tests for hepatitis C.",
+ "audio_seconds": 35.67,
+ "created_at": "2026-07-06T04:41:06+00:00",
+ "failed": false,
+ "text": "serotonin or 5-hydroxy tryptophan might be the cause of the increase in your liver enzymes it is metabolized in the liver and this could cause an elevation of your liver enzymes you need to do the following one taper off your dose of 5-hydroxy tryptophan lowering five milligrams every week until you completely stop the drug two keep your weight within normal range three wait for three weeks after stopping 5-hydroxy tryptophan and then retest your liver enzymes if your liver enzymes are still elevated you need to go to a gastroenterologist who will conduct a full panel of tests for hepatitis c",
+ "seconds": 0.378
+}

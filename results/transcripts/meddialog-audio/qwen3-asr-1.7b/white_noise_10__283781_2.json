@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__283781_2",
+ "condition": "white_noise_10",
+ "reference": "It may be Irritable Bowel Syndrome. Try mebeverine or Buscopan or loperamide. Get an ultrasound scan done.",
+ "audio_seconds": 10.67,
+ "created_at": "2026-07-06T05:31:51+00:00",
+ "failed": false,
+ "text": "It's maybe irritable bowel syndrome, hi-midbrain, or bursal pain, or low paramide. Get an ultrasound scan done.",
+ "seconds": 0.314
+}

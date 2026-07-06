@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__612643_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, these symptoms are hormonal. It is too early to know whether you are pregnant or not. Stop stressing yourself. You need to wait another two weeks to take a test. Check your blood sugar and blood pressure. Don't be nervous.",
+ "audio_seconds": 14.08,
+ "created_at": "2026-07-06T02:55:10+00:00",
+ "failed": false,
+ "text": "Hello, these symptoms are hormonal. It is too early to know whether you are pregnant or not; stop stressing yourself. You need to wait another 2 weeks to take a test. Check your blood sugar and blood pressure; don't be nervous.",
+ "seconds": 5.423
+}

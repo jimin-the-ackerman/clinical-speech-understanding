@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-156975-0038",
+ "condition": null,
+ "reference": "THE CONSTANT NECESSITY OF MEETING THE DANGERS OF THE WILDERNESS AND OF DEFENDING THE FLOCKS ENTRUSTED TO MOSES CARE DEVELOPED HIS COURAGE AND POWER OF LEADERSHIP AND ACTION",
+ "audio_seconds": 13.1,
+ "created_at": "2026-07-05T13:09:47+00:00",
+ "failed": false,
+ "text": "the constant necessity of meeting the dangers of the wilderness and of defending the flock entrusted to moses care developed his courage and power of leadership in action",
+ "seconds": 0.128
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280084-0010",
+ "condition": null,
+ "reference": "EVERY TIME I SAW ANY ONE WITH A BEAD ON ME I WOULD DROP OFF MY HORSE AND TRY TO DRIVE THE SHOOTER INSIDE BUT I COULD NOT SEE IN EVERY DIRECTION",
+ "audio_seconds": 7.54,
+ "created_at": "2026-07-06T02:38:30+00:00",
+ "failed": false,
+ "text": "Every time I saw anyone with a bead on me, I would drop off my horse and try to drive the shooter inside, but I could not see in every direction.",
+ "seconds": 4.603
+}

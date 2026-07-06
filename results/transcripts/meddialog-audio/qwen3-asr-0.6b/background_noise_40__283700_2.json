@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__283700_2",
+ "condition": "background_noise_40",
+ "reference": "Hello. I just read through your question. This could be a muscle spasm or a skin infection. Both of these can be treated or cured. There is no need to worry about a diagnosis that hasn't been made yet. The best thing is to relax and see what your doctor says when the examination is done.",
+ "audio_seconds": 14.25,
+ "created_at": "2026-07-06T04:54:15+00:00",
+ "failed": false,
+ "text": "Hello. I just read through your question. This could be a muscle spasm or a skin infection. Both of these can be treated or cured. There is no need to worry about a diagnosis that hasn't been made yet. The best thing is to relax and see what your doctor says when the examination is done.",
+ "seconds": 0.588
+}

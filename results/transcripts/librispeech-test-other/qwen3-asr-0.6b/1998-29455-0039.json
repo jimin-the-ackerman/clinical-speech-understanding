@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0039",
+ "condition": null,
+ "reference": "WHAT'S THAT THERE SAID DICKIE",
+ "audio_seconds": 2.37,
+ "created_at": "2026-07-06T03:15:21+00:00",
+ "failed": false,
+ "text": "What's that? There said Diggy.",
+ "seconds": 0.123
+}

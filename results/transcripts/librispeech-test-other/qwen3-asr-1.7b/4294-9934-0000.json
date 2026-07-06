@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-9934-0000",
+ "condition": null,
+ "reference": "HE FELT WHAT THE EARTH MAY POSSIBLY FEEL AT THE MOMENT WHEN IT IS TORN OPEN WITH THE IRON IN ORDER THAT GRAIN MAY BE DEPOSITED WITHIN IT IT FEELS ONLY THE WOUND THE QUIVER OF THE GERM AND THE JOY OF THE FRUIT ONLY ARRIVE LATER",
+ "audio_seconds": 15.93,
+ "created_at": "2026-07-06T03:31:52+00:00",
+ "failed": false,
+ "text": "He felt what the earth may possibly feel, at the moment when it is torn open with the iron, in order that grain may be deposited within it. It feels only the wound, the quiver of the germ, the joy of the fruit only arrive later.",
+ "seconds": 0.512
+}

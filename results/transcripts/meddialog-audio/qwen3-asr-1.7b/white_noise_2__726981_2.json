@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__726981_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, if you have had bleeding for two days, there is very little chance of pregnancy. What you can do is take a pregnancy test to confirm it if you have any doubts. If it is negative, then you are not pregnant.",
+ "audio_seconds": 12.8,
+ "created_at": "2026-07-06T05:37:34+00:00",
+ "failed": false,
+ "text": "Hi. If you have had bleeding for two days, there is very little chance of pregnancy. What you can do is take a pregnancy test to confirm it. If you have any doubts, if it is negative, then you are not pregnant.",
+ "seconds": 0.488
+}

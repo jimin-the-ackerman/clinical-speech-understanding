@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0002",
+ "condition": null,
+ "reference": "THE REASON SHE ASKED NO ALIMONY INQUIRED KENNETH",
+ "audio_seconds": 3.69,
+ "created_at": "2026-07-05T23:57:21+00:00",
+ "failed": false,
+ "text": "\"The reason she asks no alimony?\" inquired Kenneth.",
+ "seconds": 0.758
+}

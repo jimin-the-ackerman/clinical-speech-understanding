@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__669460_2",
+ "condition": "clean",
+ "reference": "Hello. If your husband has persistent symptoms despite antibiotics, he needs to see a physician for a thorough evaluation. The physician may order further tests to determine the cause of the fever, which may help in further appropriate management. Good luck.",
+ "audio_seconds": 13.48,
+ "created_at": "2026-07-06T04:27:07+00:00",
+ "failed": false,
+ "text": "Hello, if your husband has persistent symptoms despite antibiotics, he needs to see a physician for a thorough evaluation. The physician may order further tests to determine the cause of the fever, which may help in further appropriate management. Good luck!",
+ "seconds": 0.439
+}

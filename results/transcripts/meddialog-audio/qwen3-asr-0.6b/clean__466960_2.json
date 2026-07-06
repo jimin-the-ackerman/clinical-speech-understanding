@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__466960_2",
+ "condition": "clean",
+ "reference": "Fever, abdominal pain, and possible arthralgia are symptoms of streptococcal throat infection. A physical examination is helpful in your child's case. You should take him to his doctor, who will identify the cause and possibly treat him with the appropriate antibiotic. I hope this helps.",
+ "audio_seconds": 16.73,
+ "created_at": "2026-07-06T05:02:06+00:00",
+ "failed": false,
+ "text": "Fever, abdominal pain, and possible arthritis are symptoms of streptococcal throat infection. A physical examination is helpful in your child's case. You should take him to his doctor, who will identify the cause and possibly treat him with the appropriate antibiotic. I hope this helps.",
+ "seconds": 0.54
+}

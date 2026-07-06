@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168671-0054",
+ "condition": null,
+ "reference": "ONE MUST EAT",
+ "audio_seconds": 1.66,
+ "created_at": "2026-07-06T03:30:53+00:00",
+ "failed": false,
+ "text": "One must eat.",
+ "seconds": 0.083
+}

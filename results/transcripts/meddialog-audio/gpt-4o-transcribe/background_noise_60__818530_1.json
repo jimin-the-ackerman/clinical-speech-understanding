@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__818530_1",
+ "condition": "background_noise_60",
+ "reference": "My friend recently took thirty tablets of five hundred milligrams of Crocin Advance with fruit juice. She powdered them and mixed them with the juice and consumed it. However, she tells me this, and she has been in an intensive care unit after three days, and just now slowly recovering after four weeks. What actually happened to her? Did the doctors tell her correctly that she had a serious liver problem, or are they just acting? I do not mean to hurt any doctors here; I know doctors are very precious. The only thing I want to ask is what actually might have happened to her?",
+ "audio_seconds": 35.33,
+ "created_at": "2026-07-06T00:44:27+00:00",
+ "failed": false,
+ "text": "My friend recently took 30 tablets of 500 mg of Prozac and mixed it with juice. She powdered them and mixed them with the juice. However, she tells me this, and she has been in intensive care for the last few days. She's now recovering at home. I actually added to that. I took the doctor's note and told her that she could stay as long as she wanted. I don't know if there are any doctors there. I know doctors are very precious. The only thing I want to ask is what action I can take.",
+ "seconds": 1.728
+}

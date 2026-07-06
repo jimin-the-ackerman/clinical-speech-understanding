@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__268163_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, on average, it takes twelve months for the return of fertility after using oral contraceptive pills. Irregular bleeding is the most common side effect of oral contraceptive pills. Periods will become regular after discontinuing the pills if you do not have any other gynecological problems.",
+ "audio_seconds": 16.64,
+ "created_at": "2026-07-06T05:24:08+00:00",
+ "failed": false,
+ "text": "On average, it takes 12 months for the return of fertility after using oral contraceptive pills. Irregular bleeding is the most common side effect of oral contraceptive pills. Periods will become regular after discontinuing the pills if you do not have any other gynecological problems.",
+ "seconds": 0.544
+}

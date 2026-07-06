@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__204657_1",
+ "condition": "white_noise_10",
+ "reference": "I bumped my shin and at the time didn't think anything of it. Two days later, I noticed it was swollen. Three days later, the swelling has not noticeably gone down and there is some yellow bruising around it. It is not painful to the touch. Should I be concerned?",
+ "audio_seconds": 14.59,
+ "created_at": "2026-07-06T04:45:27+00:00",
+ "failed": false,
+ "text": "I buffed my shirt, and after I did it, I didn't think of it. Two days later, I noticed it was snowing. Three days later, the swelling has not made the blue button again, and there is some yellow blue going around here. It is not painful to get touched. Should I be concerned?",
+ "seconds": 0.297
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__595948_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, I appreciate your concern for your husband. As far as the branching of visible veins is concerned, wherever there is inflammation, this occurs, but constant pain warrants a radiological examination of the spine if the pain persists for more than two weeks, as well as blood investigations to rule out any pathological cause of pain and to get treated appropriately. If you wish, you can contact me again. Until that time, you can ask him to take some anti-inflammatory medications to help resolve the bruise and rest.",
+ "audio_seconds": 35.58,
+ "created_at": "2026-07-06T04:41:48+00:00",
+ "failed": false,
+ "text": "hello i appreciate your concern for your husband as far as the branching of visible veins is concerned wherever there is inflammation this occurs but constant pain warrants a radiological examination of the spine if the pain persists for more than two weeks as well as blood investigations to rule out any pathological cause of pain and to get treated appropriately if you wish you can contact me again until that time you can ask him to take some anti-inflammatory medications to help resolve the bruise and rest",
+ "seconds": 0.345
+}

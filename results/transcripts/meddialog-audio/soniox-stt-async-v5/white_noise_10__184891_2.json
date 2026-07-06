@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__184891_2",
+ "condition": "white_noise_10",
+ "reference": "Seeing his previous doctor is best as he knows the history well. Seeking a second opinion will not change the way he fares. It will reduce your anxiety.",
+ "audio_seconds": 8.62,
+ "created_at": "2026-07-06T03:00:50+00:00",
+ "failed": false,
+ "text": "Seeing his previous doctor's feedback, as he knows the history well, the second opinion will not wait for him; it will reduce your anxiety.",
+ "seconds": 4.683
+}

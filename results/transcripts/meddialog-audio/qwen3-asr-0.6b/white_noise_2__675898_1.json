@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__675898_1",
+ "condition": "white_noise_2",
+ "reference": "My wife is experiencing pain in the abdomen on the left side below the ribs, and a diagnosis of renal colic has already been made. Inj. Voveron and Inj. Tramadol have been given, and after some time, Inj. Fortwin and Phenergan were also administered, but the pain is not subsiding. Additionally, my wife is six months pregnant; kindly advise.",
+ "audio_seconds": 24.49,
+ "created_at": "2026-07-06T05:10:27+00:00",
+ "failed": false,
+ "text": "My wife is experiencing pain in the abdomen on the left side below the ribs, and a diagnosis of renal colic has already been made. In, Vovoran and Inj, Tramadol have been given, and after some time, Inj Fortwin and Fenoggin were also administered, but the pain is not subsiding. Additionally, my wife is six months pregnant. Kindly advise.",
+ "seconds": 0.745
+}

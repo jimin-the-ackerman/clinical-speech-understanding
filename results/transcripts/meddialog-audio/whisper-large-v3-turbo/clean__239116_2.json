@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__239116_2",
+ "condition": "clean",
+ "reference": "That is correct; it is just a muscle spasm around the vertebrae. I suggest you take a painkiller with the tablet Myoril four mg twice a day and apply diclofenac ointment twice a day, along with back physiotherapy and shortwave diathermy.",
+ "audio_seconds": 15.27,
+ "created_at": "2026-07-06T04:44:05+00:00",
+ "failed": false,
+ "text": "That is correct. It is just a muscle spasm around the vertebrae. I suggest you take a painkiller with a tablet Myeril 4 Ennegrams twice a day and apply a diclofonac ointment twice a day, along with back physiotherapy and shortwave diathermy.",
+ "seconds": 0.236
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__759726_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. Eye strain after a change of glasses might be due to overcorrection or undercorrection of glasses or improper spectacle frame placement and centration. So, you need to recheck your refraction and lenses to ensure they are dispensed according to your prescription. If you are having trouble with near vision or near work, then it might be due to presbyopia. Presbyopia usually starts at age forty, but some people might have problems after age thirty-five. Other symptoms like headache, neck tightness, and shoulder pain might be due to other causes like glaucoma. Therefore, you need a complete eye examination and intraocular pressure check along with the retinal examination. Your doctor might suggest a few investigations if required. You are most welcome to ask any queries.",
+ "audio_seconds": 44.46,
+ "created_at": "2026-07-06T00:46:02+00:00",
+ "failed": false,
+ "text": "It is also used to promote a new form of art, which is called the middle ear, the ear that is used to hear the voice of the artist. The audio content is used in many different forms of art. For example, it can be used in the form of a film, a television program, or a radio broadcast. It can also be used in a live performance. In this article, we will focus on the use of audio content in the form of a film.",
+ "seconds": 1.769
+}

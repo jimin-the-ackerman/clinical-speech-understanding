@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__310418_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, I am a thirty-seven-year-old female. In two thousand and six, I had a pulmonary embolism. Over the last five days, I have been experiencing pain in the center of my chest. It feels like a lot of pressure and tightness, almost like I have something stuck in my chest. I have taken Rolaids, Tums, and Prilosec, and nothing is relieving this pain. Should I be concerned?",
+ "audio_seconds": 26.62,
+ "created_at": "2026-07-06T04:39:50+00:00",
+ "failed": false,
+ "text": "Hi, I am a 37-year-old female. In 2006, I had a pulmonary embolism. Over the last five days, I have been experiencing pain in the center of my chest. It feels like a lot of pressure and tightness, almost like I have something stuck in my chest. I have taken Rolads, Tums, and Prilosec, and nothing is relieving this pain. Should I be concerned?",
+ "seconds": 0.294
+}

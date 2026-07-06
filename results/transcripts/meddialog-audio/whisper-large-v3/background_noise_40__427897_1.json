@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__427897_1",
+ "condition": "background_noise_40",
+ "reference": "I am trying to find a doctor or medical doctor that works in neurology. I was in a car accident thirty-five years ago and have recently started having seizures from the head injury. I want to find someone who will work with me to reduce my medication as much as possible through more naturalistic approaches.",
+ "audio_seconds": 16.98,
+ "created_at": "2026-07-06T04:18:36+00:00",
+ "failed": false,
+ "text": "I am trying to find a doctor or medical doctor that works in neurology. I was in a car accident 35 years ago and have recently started having seizures from the head injury. I want to find someone who will work with me to reduce my medication as much as possible through more naturalistic approaches.",
+ "seconds": 0.525
+}

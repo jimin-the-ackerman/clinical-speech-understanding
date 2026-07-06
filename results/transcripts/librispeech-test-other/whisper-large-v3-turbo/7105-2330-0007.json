@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2330-0007",
+ "condition": null,
+ "reference": "THE FOREMAN DELIVERED HIS MESSAGE",
+ "audio_seconds": 3.36,
+ "created_at": "2026-07-05T13:13:38+00:00",
+ "failed": false,
+ "text": "the foreman delivered his message",
+ "seconds": 0.102
+}

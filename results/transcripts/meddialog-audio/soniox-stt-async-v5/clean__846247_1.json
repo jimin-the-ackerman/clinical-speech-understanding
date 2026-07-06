@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__846247_1",
+ "condition": "clean",
+ "reference": "I have been experiencing erectile dysfunction for about three years. Viagra, Cialis, or anything else has not helped. However, one of the symptoms I have experienced has been swollen testicles immediately following a bowel movement, along with some abdominal pain when this occurs. There has also been some minor testicular pain even before a bowel movement. I have had extremely low testosterone as well and think that each of these issues is associated with one another. Please help.",
+ "audio_seconds": 30.72,
+ "created_at": "2026-07-06T02:59:44+00:00",
+ "failed": false,
+ "text": "I have been experiencing erectile dysfunction for about 3 years. Viagra, Cialis, anything else has not helped. However, one of the symptoms I have experienced has been swollen testicles immediately following a bowel movement, along with some abdominal pain when this occurs. There has also been some minor testicular pain even before a bowel movement. I have had extremely low testosterone as well, and think that each of these issues is associated with one another. Please help.",
+ "seconds": 4.904
+}

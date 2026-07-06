@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-9170-0047",
+ "condition": null,
+ "reference": "WE KNOW NOW THAT THREATS AND PUNISHMENTS CANNOT DIMINISH THEIR NUMBER THAT THAT CAN ONLY BE DONE BY CHANGE OF ENVIRONMENT AND MORAL INFLUENCE",
+ "audio_seconds": 7.09,
+ "created_at": "2026-07-06T03:20:19+00:00",
+ "failed": false,
+ "text": "We now know that threats and punishments cannot diminish their number, that that can only be done by change of environment and moral influence.",
+ "seconds": 0.282
+}

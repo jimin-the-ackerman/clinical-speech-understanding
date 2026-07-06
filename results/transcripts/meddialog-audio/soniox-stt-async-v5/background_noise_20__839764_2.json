@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__839764_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. Sometimes, increased discharge is normal and is associated with the menstrual cycle. During mid-cycle, discharge increases and it is clear, watery, and non-odorous. If it is not itchy and does not have a smell like fishy odor, then it can be observed for a few days. Otherwise, you can take metronidazole four hundred milligrams three times a day for five days to get relief. Also, avoid nylon undergarments and ensure good personal hygiene.",
+ "audio_seconds": 28.07,
+ "created_at": "2026-07-06T02:49:12+00:00",
+ "failed": false,
+ "text": "Hello. Sometimes increased discharge is normal and is associated with the menstrual cycle. During mid-cycle, discharge increases and it is clear, watery, and non-odorous. If it is not itchy and does not have a smell like fishy odor, then it can be observed for a few days. Otherwise, you can take metronazole 400 mg 3 times a day for 5 days to get relief. Also, avoid nylon undergarments and ensure good personal hygiene.",
+ "seconds": 4.859
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24318-0004",
+ "condition": null,
+ "reference": "OUGHT HE NOT TO GREET THIS SUDDEN END AS A BOON FROM THE IMMORTALS",
+ "audio_seconds": 3.83,
+ "created_at": "2026-07-05T23:56:44+00:00",
+ "failed": false,
+ "text": "Ought he not to greet his sudden end as a boon from the Immortals?",
+ "seconds": 0.83
+}

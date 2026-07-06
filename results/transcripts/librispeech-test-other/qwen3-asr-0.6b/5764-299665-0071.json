@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5764-299665-0071",
+ "condition": null,
+ "reference": "THE FIRST STONE IS THAT MATTER SUBSTANCE CANNOT BE DESTROYED CANNOT BE ANNIHILATED",
+ "audio_seconds": 8.46,
+ "created_at": "2026-07-06T03:22:06+00:00",
+ "failed": false,
+ "text": "The first stone is that matter, substance cannot be destroyed, cannot be annihilated.",
+ "seconds": 0.194
+}

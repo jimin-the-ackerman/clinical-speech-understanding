@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__537503_1",
+ "condition": "white_noise_2",
+ "reference": "My girlfriend took the emergency contraceptive pill two hours after having sex on April seven. Her periods were due on April twenty-eight. She had some bleeding on April twenty-three for around two hours, and then it was light for another one or two hours. After that, she has not had any bleeding yet. We have taken pregnancy tests three times, each after a gap of one week, since April fifteen, and they all say negative. I am very afraid. Is she pregnant, or is she fine?",
+ "audio_seconds": 31.74,
+ "created_at": "2026-07-06T05:09:50+00:00",
+ "failed": false,
+ "text": "My girlfriend took the emergency contraceptive pill two hours after having sex on April seven. Her period was due on April twenty eight. She had some bleeding on April twenty three for around two hours, and then it was light for another one or two hours. After that, she has not had any bleeding yet. We have taken pregnancy tests three times, each after a gap of one week, since April fifteen, and they all say negative. I am very afraid. Is she pregnant or is she fine?",
+ "seconds": 0.898
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-130732-0006",
+ "condition": null,
+ "reference": "LOBSTER A LA NEWBERG",
+ "audio_seconds": 2.35,
+ "created_at": "2026-07-05T23:55:11+00:00",
+ "failed": false,
+ "text": "Lobster à la Newburg.",
+ "seconds": 0.812
+}

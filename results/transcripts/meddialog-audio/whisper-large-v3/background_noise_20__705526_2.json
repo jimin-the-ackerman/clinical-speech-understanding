@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__705526_2",
+ "condition": "background_noise_20",
+ "reference": "Dear patient, you have muscle spasms due to lifting heavy weights. Avoid forward bending and weight lifting for three days. Start taking the combination of Diclofenac and Thiocolchicoside twice a day for pain relief. Apply hot water fomentation locally to your back. You will be fine within a few days. All the best.",
+ "audio_seconds": 19.11,
+ "created_at": "2026-07-06T04:15:46+00:00",
+ "failed": false,
+ "text": "Dear patient, you have muscle spasms due to lifting heavy weights. Avoid forward bending and weight lifting for three days. Start taking the combination of declofenac and thiocultricoside twice a day for pain relief. Apply hot water fomentation locally to your back. You will be fine within a few days. All the best.",
+ "seconds": 0.659
+}

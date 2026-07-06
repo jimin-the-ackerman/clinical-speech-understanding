@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24318-0033",
+ "condition": null,
+ "reference": "HE WAS APPEARING BEFORE HIS COMPANIONS ONLY TO GIVE TRUTH ITS JUST DUE",
+ "audio_seconds": 4.92,
+ "created_at": "2026-07-05T13:03:48+00:00",
+ "failed": false,
+ "text": "He was appearing before his companions only to give truth, it's just due.",
+ "seconds": 0.198
+}

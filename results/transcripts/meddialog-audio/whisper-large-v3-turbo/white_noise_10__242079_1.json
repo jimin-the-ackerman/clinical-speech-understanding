@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__242079_1",
+ "condition": "white_noise_10",
+ "reference": "I am experiencing an occasional warm sensation in my left thigh. It feels like warm water is spilling over my leg. It lasts for a few seconds and then is gone. The leg does not feel hot to the touch, but the sensation has occurred several times in the last twenty-four hours.",
+ "audio_seconds": 16.73,
+ "created_at": "2026-07-06T04:45:33+00:00",
+ "failed": false,
+ "text": "I am experiencing an extremely warm sensation in my head past. It feels like warm water is stirring over my legs. It lasts for a few seconds, and then it's gone. The leg does not feel hot to the touch, but the sensation has occurred several times in the last 24 hours.",
+ "seconds": 0.235
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__662203_1",
+ "condition": "background_noise_20",
+ "reference": "For the past three days, I have been feeling a bubbly or moving sensation in my lower right abdominal area. I have taken two pregnancy tests, and they both came up negative. I already have two children, and there are no other signs of being pregnant. However, the feeling I am experiencing is reminiscent of a baby moving. I can even place my hand on it and feel it move. I have no discomfort, just a constant movement. I also show no signs of being gassy or having indigestion.",
+ "audio_seconds": 28.67,
+ "created_at": "2026-07-06T02:48:24+00:00",
+ "failed": false,
+ "text": "For the past 3 days I have been feeling a bubbly or moving sensation in my lower right abdominal area. I have taken 2 pregnancy tests, and they both came out negative. I already have 2 children, and there are no other signs of being pregnant. However, the feeling I am experiencing is reminiscent of a baby moving. I can even place my hand on it and feel it move. I have no discomfort, just a constant movement. I also show no signs of being gassy or having indigestion.",
+ "seconds": 5.968
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__724834_1",
+ "condition": "clean",
+ "reference": "My boyfriend has been having severe pain for the past few nights when he is sleeping. He says it is in his upper abdomen and lower back. It hurts more when he takes a deep breath. It only seems to subside after he gets up, walks around, and urinates. What could this be?",
+ "audio_seconds": 17.15,
+ "created_at": "2026-07-06T02:59:11+00:00",
+ "failed": false,
+ "text": "My boyfriend has been having severe pain for the past few nights when he is sleeping; he says it is in his upper abdomen and lower back. It hurts more when he takes a deep breath; it only seems to subside after he gets up, walks around, and urinates. What could this be?",
+ "seconds": 5.865
+}

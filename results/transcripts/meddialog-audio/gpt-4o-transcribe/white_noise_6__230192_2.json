@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__230192_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, thank you for your inquiry. I can understand your concern, but I can assure you that it is not cancer. I advise you to first try an antispasmodic preparation called 'dicyclomine' along with acetaminophen, which should provide good results. If the symptoms persist, then it will need to be examined and investigated. But for now, there is no need to worry. Have a nice day.",
+ "audio_seconds": 21.85,
+ "created_at": "2026-07-06T00:47:11+00:00",
+ "failed": false,
+ "text": "Or fix your time. You gotta do your research, but if you feel you got a job, then how you gonna work five, fifty-five miles away from where you live at? If it doesn't make sense, then you need to invest. But for now, use money tools.",
+ "seconds": 1.321
+}

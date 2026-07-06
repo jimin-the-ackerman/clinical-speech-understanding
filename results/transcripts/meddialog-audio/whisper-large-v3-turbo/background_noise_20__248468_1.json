@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__248468_1",
+ "condition": "background_noise_20",
+ "reference": "I have been very ill lately. I have asthmatic bronchitis with fluid on the lungs and have been vomiting clear fluid. I am on steroids, but lately I have noticed a heavy sensation in my legs from mid-thigh to my feet. For the past two days, it feels like warm bath water going down my legs when I stand up and walk around. There is no burning; it actually feels nice, but I am afraid something more is happening. It is a very noticeable feeling, like it stops me from what I am doing.",
+ "audio_seconds": 29.01,
+ "created_at": "2026-07-06T04:39:44+00:00",
+ "failed": false,
+ "text": "i have been very ill lately i have asthmatic bronchitis with fluid on the lungs and have been vomiting clear fluid i am on steroids but lately i have noticed a heavy sensation in my legs from mid thigh to my feet for the past two days it feels like warm bath water going down my legs when i stand up and walk around there is no burning it actually feels nice but i am afraid something more is happening it is a very noticeable feeling like it stops me from what i am doing",
+ "seconds": 0.292
+}

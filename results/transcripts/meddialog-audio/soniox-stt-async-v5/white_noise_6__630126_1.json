@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__630126_1",
+ "condition": "white_noise_6",
+ "reference": "My husband sneezed a few hours ago and felt very dizzy, as if he was going to pass out. He has been laying down since then, and the lightheadedness was dissipating. He just sneezed again and became dizzy again, although not quite as bad as the first time. What could be causing this?",
+ "audio_seconds": 17.58,
+ "created_at": "2026-07-06T03:10:57+00:00",
+ "failed": false,
+ "text": "My husband sneezed a few hours ago and felt very dizzy, as if he was going to pass out. He has been lying down since then, and the lightheadedness was dissipating. He just sneezed again and became dizzy again, although not quite as bad as the first time. What could be causing this?",
+ "seconds": 4.791
+}

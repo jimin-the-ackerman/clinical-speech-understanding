@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24317-0007",
+ "condition": null,
+ "reference": "THE APPROVAL AS WELL AS THE DOUBTS WHICH IT AROUSED IN OTHERS STRENGTHENED HIS OPINION ALTHOUGH EVEN NOW HE COULD NOT SUCCEED IN BRINGING IT INTO HARMONY WITH THE FACTS",
+ "audio_seconds": 10.79,
+ "created_at": "2026-07-06T03:33:37+00:00",
+ "failed": false,
+ "text": "The approval, as well as the doubts which it aroused in others, strengthened his opinion. Although even now he could not succeed in bringing it into harmony with the facts.",
+ "seconds": 0.369
+}

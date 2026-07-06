@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__253347_1",
+ "condition": "white_noise_2",
+ "reference": "Hello, I am a forty-nine-year-old female who has suffered from a bloated stomach, back pain, and now nausea and dizziness for the past three weeks. Two very small gallstones were found on the ultrasound that I had. Could this be causing me so many symptoms? Oh, and I feel breathless just walking up one flight of stairs.",
+ "audio_seconds": 17.75,
+ "created_at": "2026-07-06T05:35:23+00:00",
+ "failed": false,
+ "text": "Hello, I am a forty-nine-year-old female who has suffered from a bloated stomach, back pain, and now nausea and dizziness for the past three weeks. Two very small gallstones were found on the ultrasound that I had. Could this be causing these so many symptoms? Oh, and I feel breathless just one flight of stairs.",
+ "seconds": 0.661
+}

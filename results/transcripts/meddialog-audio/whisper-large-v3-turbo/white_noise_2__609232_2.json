@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__609232_2",
+ "condition": "white_noise_2",
+ "reference": "Hi dear, I understand your concern. You should be worried, but not too much. It is a natural process. Smegma is concentrated underneath the skin of the penis, and when the glans of the penis opens, it will come out. When you wash your baby, try to gently open the glans slowly and gradually every day. Wishing your baby good health.",
+ "audio_seconds": 21.33,
+ "created_at": "2026-07-06T04:47:28+00:00",
+ "failed": false,
+ "text": "Hi dear, I understand your concern. You should be worried, but not too much. It is a natural process. Smegma is concentrated underneath the skin of the penis, and when the glands of the penis opens, it will come out. When you wash your baby, try to gently open the glands slowly and gradually every day. Wishing your baby good health.",
+ "seconds": 0.26
+}

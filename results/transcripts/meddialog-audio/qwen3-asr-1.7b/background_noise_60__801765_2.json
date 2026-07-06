@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__801765_2",
+ "condition": "background_noise_60",
+ "reference": "In view of your history, you were pregnant, and the ultrasound did not find it. This may indicate a threatened abortion-like condition. For the continuation of your pregnancy, you should go for regular weekly ultrasounds and continue taking the progesterone capsules. You might be at risk of an ectopic pregnancy, so you should have regular follow-ups.",
+ "audio_seconds": 22.53,
+ "created_at": "2026-07-06T05:26:14+00:00",
+ "failed": false,
+ "text": "In view of your history, you are pregnant, and the ultrasound did not find it. This may indicate a threatened abortion-like condition. For the continuation of your pregnancy, you should go for regular weekly ultrasounds and continue taking the progesterone. You might be at risk for a ectopic pregnancy, so you should have regular follow-ups.",
+ "seconds": 0.665
+}

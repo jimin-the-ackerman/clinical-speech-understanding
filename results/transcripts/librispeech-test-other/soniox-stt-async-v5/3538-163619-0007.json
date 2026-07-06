@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163619-0007",
+ "condition": null,
+ "reference": "WELL IF MY BROTHER SAYS SO I MUST DO IT SAID THE MAN'S DAUGHTER AND SHE FLUNG HER CASKET INTO THE SEA",
+ "audio_seconds": 6.85,
+ "created_at": "2026-07-06T00:07:07+00:00",
+ "failed": false,
+ "text": "\"Well, if my brother says so, I must do it,\" said the man's daughter, and she flung her casket into the sea.",
+ "seconds": 4.136
+}

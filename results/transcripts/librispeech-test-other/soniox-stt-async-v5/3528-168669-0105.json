@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0105",
+ "condition": null,
+ "reference": "HAS THE DOCTOR FOR THE DEAD PAID HIS VISIT",
+ "audio_seconds": 2.83,
+ "created_at": "2026-07-06T00:06:35+00:00",
+ "failed": false,
+ "text": "Has the doctor for the dead paid his visit?",
+ "seconds": 4.137
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7018-75789-0004",
+ "condition": null,
+ "reference": "AND I THREW MYSELF DOWN UPON MY FACE ON THE RAFT BY REASON OF THE NARROWNESS OF THE CHANNEL WHILST THE STREAM CEASED NOT TO CARRY ME ALONG KNOWING NOT NIGHT FROM DAY FOR THE EXCESS OF THE GLOOM WHICH ENCOMPASSED ME ABOUT AND MY TERROR AND CONCERN FOR MYSELF LEST I SHOULD PERISH",
+ "audio_seconds": 18.26,
+ "created_at": "2026-07-06T02:35:16+00:00",
+ "failed": false,
+ "text": "And I threw myself down upon my face on the raft, by reason of the narrowness of the channel, whilst the stream ceased not to carry me along, knowing not night from day, for the excess of the gloom which encompassed me, about in my terror and concern for myself lest I should perish.",
+ "seconds": 5.447
+}

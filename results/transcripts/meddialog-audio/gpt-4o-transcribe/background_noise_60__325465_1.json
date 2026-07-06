@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__325465_1",
+ "condition": "background_noise_60",
+ "reference": "Hello, I am a female born on July seven, one thousand, nine hundred and seventy. I have a granular cell carcinoma growing around my esophagus in the middle part behind my larynx and proximal to the trachea. It measures twenty-five x eighteen x sixteen millimeters. The only treatment in the Netherlands is to remove my larynx, esophagus, and vocal cords. Is there any other treatment? Great, Ingrid.",
+ "audio_seconds": 29.53,
+ "created_at": "2026-07-06T00:43:58+00:00",
+ "failed": false,
+ "text": "Hello, I am a female born on July 7, 1970. I have a granular cell carcinoma growing around my esophagus in the middle part, behind my larynx and proximal to the trachea. It measures 25x16x16mm. The only treatment in the Netherlands is to remove my larynx, esophagus, and vocal cords. Is there any other treatment? Great, Ingrid.",
+ "seconds": 1.417
+}

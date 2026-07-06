@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__120478_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, don't worry, this will wean off with time. This is probably the effect of the marijuana that you have consumed. The effects should diminish in twelve to twenty-four hours. Try to calm yourself and stay in a dimly lit room. If the symptoms are not getting controlled, then you can take one tablet of Lorazepam one milligram whenever needed.",
+ "audio_seconds": 18.69,
+ "created_at": "2026-07-06T04:46:44+00:00",
+ "failed": false,
+ "text": "Hi, don't worry, this will lean off with time. This is probably the effect of the marijuana that you have consumed. The effects should diminish in 12 to 24 hours. Try to calm yourself and stay in a dimly lit room. If the symptoms are not getting controlled, then you can take one tablet of lorazepam, one milligram whenever needed.",
+ "seconds": 0.264
+}

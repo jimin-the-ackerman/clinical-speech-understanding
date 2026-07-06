@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__863944_1",
+ "condition": "white_noise_6",
+ "reference": "I left a cutting board on the oven while baking something. It started melting and leaked through the burner plate. I am worried I may have eaten some plastic from the cutting board that melted. I am not sure if I did, but if I did, will I be okay? Could the fumes from the plastic have gotten into the food and caused problems? I really have paranoia about household chemicals and can’t believe this happened as I am usually so careful!",
+ "audio_seconds": 24.32,
+ "created_at": "2026-07-06T04:49:21+00:00",
+ "failed": false,
+ "text": "I like the cutting board on the oven while baking center. It's part of my pain when you eat food growing food. I am ready and can fast up on the cutting board that melted. I am not sure if I did, but if I did, will I be okay? Could the fumes from the plastic have gotten into the food and cause problems? I really have paranoia about how short pain is and can't believe this happened because I'm usually so careful.",
+ "seconds": 0.284
+}

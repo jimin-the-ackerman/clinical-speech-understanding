@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__806848_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, my name is Helen. I have been suffering from severe bloating and discomfort in the left side of my neck, as well as feeling like throwing up because something is stuck in my throat. I also experience tightness in my chest. I take Omeprazole twenty milligrams for a stomach ulcer, but this is happening more regularly after eating or just at any time while resting or doing things.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T04:56:19+00:00",
+ "failed": false,
+ "text": "Hi, my name is Helen. I have been suffering from severe bloating and discomfort in the left side of my neck, as well as feeling like throwing up because something is stuck in my throat. I also experience tightness in my chest. I take Omeprazole twenty milligrams for a stomach ulcer, but this is happening more regularly after eating, or just at any time while resting or doing things.",
+ "seconds": 0.748
+}

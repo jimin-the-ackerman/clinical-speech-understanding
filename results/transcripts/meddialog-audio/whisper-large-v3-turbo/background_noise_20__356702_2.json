@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__356702_2",
+ "condition": "background_noise_20",
+ "reference": "Dear patient, I suggest you take Myoril four milligrams twice a day with Tramadol and Pantoff D twice a day, along with Neurobion Forte once a day. You should also consider back physiotherapy, hot fomentation, and shortwave diathermy.",
+ "audio_seconds": 16.98,
+ "created_at": "2026-07-06T04:39:53+00:00",
+ "failed": false,
+ "text": "Dear Patients, I suggest you take Myril 4mg twice a day with Tramadol and Pantof-D twice a day, along with Neurobiome Forte once a day. You should also consider back physiotherapy, hot fomentation and shortwave diatherming.",
+ "seconds": 0.229
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__943146_1",
+ "condition": "background_noise_60",
+ "reference": "I am a thirty-three-year-old woman. I have a constant dull pain in my upper right abdomen; it has lasted about twenty-four hours now. The pain is just below my ribcage and radiates into my back. It worsens when I stand up straight or twist my abdomen. There is a slight burning sensation and stabbing pain every now and then, and the pain is much worse when I cough or sneeze.",
+ "audio_seconds": 21.67,
+ "created_at": "2026-07-06T05:26:55+00:00",
+ "failed": false,
+ "text": "There is a slight bird succession in the sky every now. The trees and bushes are quite distinct.",
+ "seconds": 0.232
+}

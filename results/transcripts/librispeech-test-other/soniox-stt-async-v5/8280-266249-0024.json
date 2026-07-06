@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0024",
+ "condition": null,
+ "reference": "FOR YE ARE BOUGHT WITH A PRICE THEREFORE GLORIFY GOD IN YOUR BODY AND IN YOUR SPIRIT WHICH ARE GOD'S",
+ "audio_seconds": 6.55,
+ "created_at": "2026-07-06T02:41:36+00:00",
+ "failed": false,
+ "text": "For you are bought with a price; therefore glorify God in your body and in your spirit, which are God's.",
+ "seconds": 4.678
+}

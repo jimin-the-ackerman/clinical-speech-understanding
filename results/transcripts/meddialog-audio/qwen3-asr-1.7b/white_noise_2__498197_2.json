@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__498197_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, a heavy period usually does not happen with an intact pregnancy. There can be slight variations in the menstrual cycle occasionally due to transient hormone imbalances, which often settle down in a couple of cycles. These can be due to sudden weight fluctuations, stress, certain medications, and infections. If you are still in doubt about the possibility of a pregnancy, please get an assessment of the serum beta-human chorionic gonadotropin titers and a transvaginal sonogram. I hope this helps.",
+ "audio_seconds": 32.85,
+ "created_at": "2026-07-06T05:36:21+00:00",
+ "failed": false,
+ "text": "Hello, a heavy period usually does not happen with an intact pregnancy. There can be slight variations in the menstrual cycle occasionally due to transient hormone imbalances, which often settle down in a couple of cycles. These can be due to sudden weight fluctuations, stress, certain medications, and infections. If you are still in doubt about the possibility of a pregnancy, please get an assessment of the serum beta-human chorionic gonadotropin titers and a transvaginal sonogram. I hope this helps.",
+ "seconds": 0.958
+}

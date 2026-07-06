@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__472541_1",
+ "condition": "white_noise_2",
+ "reference": "An adult male has a fever, shaking chills, and then experiences very tight chest with congestion. After not improving in four weeks, he was prescribed two courses of antibiotics but still did not get better. He was then put on cefotaxime and seemed to improve, but then developed an erythematous rash on the lower back, chest, and neck. Antibiotics were discontinued after one course, but the rash seems to be worsening. The doctor did not seem to worry, but I am concerned about what to do and what it is. Do you have any answers?",
+ "audio_seconds": 36.01,
+ "created_at": "2026-07-06T00:46:35+00:00",
+ "failed": false,
+ "text": "An adult male has a fever, shaking chills, and then experiences very tight chest with congestion. After not improving in four weeks, he was prescribed two courses of antibiotics, but still did not get better. He was then put on cefotaxime and seemed to improve, but then developed an erythematous rash on the lower back, chest, and neck. Antivirals were discontinued after one course, but the rash seems to be worsening. The doctor did not seem to worry, but I am concerned about what to do and what it is. Do you have any answers?",
+ "seconds": 1.787
+}

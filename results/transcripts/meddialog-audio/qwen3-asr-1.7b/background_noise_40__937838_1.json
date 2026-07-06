@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__937838_1",
+ "condition": "background_noise_40",
+ "reference": "My son was diagnosed with childhood asthma at the age of seven. We obtained Mangilal asthma medicine from Vijayawada and used it for two years, which yielded very good results. The medicine was discontinued, and my son is now sixteen years old. Can I get the medicine from Mangilal Cancer Medicine, Biaora, Madhya Pradesh, by sending money and receiving it by post?",
+ "audio_seconds": 25.26,
+ "created_at": "2026-07-06T05:23:10+00:00",
+ "failed": false,
+ "text": "My son was diagnosed with childhood asthma at the age of seven. We obtained Mangalore asthma medicine from Vijayawada and used it for two years, which yielded very good results. The medicine was discontinued, and my son is now 16 years old. Can I get the medicine from Mangalore Cancer Medicine, Biara, Madhya Pradesh, by sending money and receiving it by post?",
+ "seconds": 0.772
+}

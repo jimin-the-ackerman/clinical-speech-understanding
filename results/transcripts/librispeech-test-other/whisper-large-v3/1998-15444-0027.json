@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-15444-0027",
+ "condition": null,
+ "reference": "THE RESIDUE OF THE MATERIAL AFTER DIGESTION WITH HYDROCHLORIC ACID AND POTASSIUM CHLORATE MAY HAVE TO BE EXAMINED FOR SILVER LEAD AND BARIUM",
+ "audio_seconds": 9.21,
+ "created_at": "2026-07-05T12:56:00+00:00",
+ "failed": false,
+ "text": "the residue of the material after digestion with hydrochloric acid and potassium chlorate may have to be examined for silver lead and barium",
+ "seconds": 0.28
+}

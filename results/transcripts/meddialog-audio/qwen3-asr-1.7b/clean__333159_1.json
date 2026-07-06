@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__333159_1",
+ "condition": "clean",
+ "reference": "Hi, I awoke two nights ago with a sharp, throbbing pain just below my navel, on the right-hand side. The pain was not too severe; however, I thought nothing of it. Since this morning, I am now feeling a vibration in my scrotum. It occurs every few minutes or seconds and usually only lasts about two seconds.",
+ "audio_seconds": 18.86,
+ "created_at": "2026-07-06T05:28:06+00:00",
+ "failed": false,
+ "text": "Hi. I awoke two nights ago with a sharp, throbbing pain just below my navel, on the right hand side. The pain was not too severe. However, I thought nothing of it. Since this morning, I am now feeling a vibration in my scrotum. It occurs every few minutes or seconds, and usually only lasts about two seconds.",
+ "seconds": 0.696
+}

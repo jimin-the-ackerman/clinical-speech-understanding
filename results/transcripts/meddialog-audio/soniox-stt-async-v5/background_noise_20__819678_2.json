@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__819678_2",
+ "condition": "background_noise_20",
+ "reference": "If you have a confirmed allergy, it should be removed, as the body does not accept foreign bodies easily. Since it is both a foreign body and you are also allergic to it, it is better to remove it to prevent complications.",
+ "audio_seconds": 13.4,
+ "created_at": "2026-07-06T02:49:07+00:00",
+ "failed": false,
+ "text": "If you have a confirmed allergy, it should be removed, as the body does not accept foreign bodies easily. Since it is both a foreign body and you are also allergic to it, it is better to remove it to prevent complications.",
+ "seconds": 4.799
+}

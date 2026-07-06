@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__873199_1",
+ "condition": "background_noise_60",
+ "reference": "A couple of years ago, I had severe knee problems. My left outer knee would experience sharp, shooting pain that would take me to the floor. I read about megadoses of vitamin D3, and the pain went away instantly; I have not fallen again. Lately, symptoms are back, and I can't remember how much I took. I am currently taking ten,zero units, and it is not working.",
+ "audio_seconds": 26.54,
+ "created_at": "2026-07-06T00:44:31+00:00",
+ "failed": false,
+ "text": "A couple of years ago I had severe knee problems. My left outer knee would experience sharp, shooting pain that would take me to the floor. I read about mega doses of vitamin D3 and the pain went away instantly. I have not fallen again. Lately, symptoms are back and I can't remember how much I took. I am currently taking ten zero units and it is not working.",
+ "seconds": 1.38
+}

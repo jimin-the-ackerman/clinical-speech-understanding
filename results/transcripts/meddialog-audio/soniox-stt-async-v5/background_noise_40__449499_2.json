@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__449499_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, it would be the sole decision of the operating surgeon to decide about the type of anesthesia and the type of surgery planned for you. I suggest you meet with a plastic surgeon and take the appropriate advice according to the type of surgery planned. All the best.",
+ "audio_seconds": 16.38,
+ "created_at": "2026-07-06T02:51:13+00:00",
+ "failed": false,
+ "text": "Hi, it would be the sole decision of the operating surgeon to decide about the type of anesthesia and the type of surgery planned for you. I suggest you meet with a plastic surgeon and take the appropriate advice according to the type of surgery planned. All the best.",
+ "seconds": 5.251
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__489102_1",
+ "condition": "background_noise_20",
+ "reference": "I had an extraction of my wisdom teeth on the top left side three days ago, and yesterday I checked my mouth with a mirror just to see how it looked. I noticed that there is white tissue stuck between my gum and cheek, more like on my inner cheek. Is that normal? Isn't that supposed to be inside the hole that the extraction left?",
+ "audio_seconds": 20.48,
+ "created_at": "2026-07-06T00:42:13+00:00",
+ "failed": false,
+ "text": "I had an extraction wisdom teeth on the top left side three days ago, and yesterday I checked my mouth with a mirror just to see how it looked. I noticed that there is white tissue stuck between my gum and cheek, more like on my inner cheek. Is that normal? Isn't that supposed to be inside the hole that the extraction left?",
+ "seconds": 1.097
+}

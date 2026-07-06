@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__378428_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, welcome to the health care management clinic. The history suggests that the chances of conception are almost nil, so taking an emergency contraceptive is not advisable. By the way, taking such hormonal preparations is not good for health. I hope this helps.",
+ "audio_seconds": 17.07,
+ "created_at": "2026-07-06T00:45:49+00:00",
+ "failed": false,
+ "text": "I saw my dog chasing a cat.",
+ "seconds": 1.066
+}

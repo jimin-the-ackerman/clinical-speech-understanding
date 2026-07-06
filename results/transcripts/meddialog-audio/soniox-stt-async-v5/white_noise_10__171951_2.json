@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__171951_2",
+ "condition": "white_noise_10",
+ "reference": "Yes, it is necessary to go to the general practitioner as there are signs of dizziness. You must get a head scan done for any bruising, trauma, inflammation, or blood clot in the brain to rule out anything that may cause problems in the future.",
+ "audio_seconds": 13.31,
+ "created_at": "2026-07-06T03:00:42+00:00",
+ "failed": false,
+ "text": "Yes, there's the International Blood Workup System, as there are signs of bleeding. We must get ahead of things on: a ready bruising, proverb inspiration, or blood clot in the brain, to rule out anything that they've had problems with.",
+ "seconds": 8.098
+}

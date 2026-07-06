@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__737517_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, on Sunday I was eating soup with fish and I accidentally swallowed a fish scale. It pricked my throat on the way down, but I thought it had passed. After some time, I had a feeling like it was stuck in my throat; every time I swallow, I can feel it. Today, it moved lower down my throat. I think since it is so small and flat, it is just stuck in my throat. What should I do? Is it dangerous? I am very worried; please help.",
+ "audio_seconds": 30.12,
+ "created_at": "2026-07-06T05:33:36+00:00",
+ "failed": false,
+ "text": "Hello. On Sunday, I was eating soup with fish, and I accidentally swallowed a fish scale. It pricked my throat on the way down, but I thought it had passed. After some time, I had a feeling like a stuck in my throat. Every time I swallow, I can feel it. Today, it moves lower down my throat. I think since it is so small and flat, it is stuck in my throat. What should I do? Is it dangerous? I am very worried. Please help.",
+ "seconds": 0.979
+}

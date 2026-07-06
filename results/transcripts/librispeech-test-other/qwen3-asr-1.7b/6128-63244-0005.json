@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63244-0005",
+ "condition": null,
+ "reference": "ALL SORTS OF INFERIOR PEOPLE LIVED THERE AND SO BRILLIANT A WOMAN AS MISSUS FARRINDER WHO LIVED AT ROXBURY OUGHT NOT TO MIX THINGS UP",
+ "audio_seconds": 8.62,
+ "created_at": "2026-07-06T03:34:50+00:00",
+ "failed": false,
+ "text": "All sorts of inferior people lived there, and so brilliant a woman as Mrs. Farinder, who lived at Bruxbury, ought not to mix things up.",
+ "seconds": 0.334
+}

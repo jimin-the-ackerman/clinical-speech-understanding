@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__275409_1",
+ "condition": "background_noise_60",
+ "reference": "Seven weeks ago, I crushed my thumb with enough force to squeeze my nail out from the root in one complete piece. Since then, the thumb has shown a slight fracture, but I feel there is some more serious damage as it remains quite enlarged, with no joint movement and still painful. I wear a finger splint and wonder what could be the cause of these symptoms. The pad of my thumb has become rather hardened, and a small bump is present.",
+ "audio_seconds": 27.22,
+ "created_at": "2026-07-06T04:42:40+00:00",
+ "failed": false,
+ "text": "Seven weeks ago, I crushed my thumb with enough force to squeeze my nail out from the root in one complete piece. Since then, the thumb has shown a slight fracture, but I feel there is some more serious damage as it remains quite enlarged, with no joint movement, and still painful. I wear a fingersplint and wonder what could be the cause of these symptoms. The pad of my thumb has become rather hardened, and a small bump is present.",
+ "seconds": 0.282
+}

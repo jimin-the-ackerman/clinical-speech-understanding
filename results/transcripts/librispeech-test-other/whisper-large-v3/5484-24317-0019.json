@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24317-0019",
+ "condition": null,
+ "reference": "LET US HOPE THAT YOU WILL MAKE THIS THREE LEAVED CLOVER THE LUCK PROMISING FOUR LEAVED ONE",
+ "audio_seconds": 6.06,
+ "created_at": "2026-07-05T13:03:33+00:00",
+ "failed": false,
+ "text": "Let us hope that you will make this three-leaved clover the luck-promising four-leaved one.",
+ "seconds": 0.251
+}

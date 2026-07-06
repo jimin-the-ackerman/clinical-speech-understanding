@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-169640-0005",
+ "condition": null,
+ "reference": "AT THAT MOMENT I HEARD A NOISE ONE FAMILIAR TO SEAMEN THAT OF AN OAR FALLING IN A BOAT",
+ "audio_seconds": 7.02,
+ "created_at": "2026-07-06T00:03:08+00:00",
+ "failed": false,
+ "text": "At that moment, I heard a noise—unfamiliar to Seaman—that of an oar fowling in the boat.",
+ "seconds": 4.549
+}

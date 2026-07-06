@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__219490_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, I am Gravida three, Para two at twenty-seven weeks and five days. In my first trimester, the doctor noted that my placenta was posterior and low-lying. However, during the second trimester, I had at least another two ultrasound scans, and the doctors have said that the placenta was posterior and not low-lying anymore. Apparently, I have another scan today, and the doctor told me that I have Type three placenta previa. I am shocked and worried. Is it possible that this is a wrong diagnosis?",
+ "audio_seconds": 39.68,
+ "created_at": "2026-07-06T04:29:09+00:00",
+ "failed": false,
+ "text": "Hi, I'm Vervita 3, pair of 2 at 27 weeks and 5 days. In my first trimester, the doctor noted that my placenta was posterior and low-lying. However, during the second trimester, I had at least another 2 ultrasound scans, and the doctors have said that the placenta was posterior and not lying anymore. Apparently, I have another scan today, and the doctor told me that I have type 3 placenta cravia. I am shocked and worried. Is it possible that this is a wrong diagnosis?",
+ "seconds": 0.946
+}

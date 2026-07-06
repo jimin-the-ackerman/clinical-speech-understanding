@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168671-0036",
+ "condition": null,
+ "reference": "FAUCHELEVENT PASSED THE UNEXPECTED GRIBIER ONCE MORE IN REVIEW",
+ "audio_seconds": 4.25,
+ "created_at": "2026-07-06T02:23:20+00:00",
+ "failed": false,
+ "text": "Thorshill have one passed the unexpected Klibia once more in review.",
+ "seconds": 5.021
+}

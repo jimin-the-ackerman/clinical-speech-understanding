@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__575682_2",
+ "condition": "white_noise_6",
+ "reference": "Chest pain per se is not a concern in children as an isolated symptom unless they develop breathlessness and become tired. If she is playing around with no complaints, then you can ignore it, as you mentioned that it only occurs while laughing and not during any other vigorous activity.",
+ "audio_seconds": 15.62,
+ "created_at": "2026-07-06T04:48:51+00:00",
+ "failed": false,
+ "text": "Chest pain, per se, is not a concern in children as an isolated symptom, unless they develop breathlessness and become tired. If she is playing around with no complaints, then you can ignore it, as you mentioned, that it only occurs while laughing, and not during any other vigorous activity.",
+ "seconds": 0.218
+}

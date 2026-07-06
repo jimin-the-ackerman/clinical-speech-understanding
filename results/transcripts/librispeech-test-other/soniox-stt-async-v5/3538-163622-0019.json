@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163622-0019",
+ "condition": null,
+ "reference": "FOR WE ARE BROTHERS OF THE PRINCESS WHOM THOU ART TO HAVE WHEN THOU CANST TELL THE KING WHAT WE EAT AND DRINK BUT THERE IS A MIGHTY TROLL WHO HAS CAST A SPELL OVER US",
+ "audio_seconds": 8.82,
+ "created_at": "2026-07-06T00:07:22+00:00",
+ "failed": false,
+ "text": "For we are brothers of the princess, whom thou art to have, when thou canst tell the king what we eat and drink; but there is a mighty troll who has cast a spell over us.",
+ "seconds": 4.531
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__446663_1",
+ "condition": "background_noise_40",
+ "reference": "My husband has Parkinson's disease and cervical dystonia. He has memory loss and cognitive changes in executive functioning as well. The MRI shows mild chronic white matter microangiopathic changes and moderate ventriculomegaly, likely reflecting central parenchymal volume loss. Is this Parkinson's disease dementia, Lewy body dementia, Alzheimer's disease, or none of the above?",
+ "audio_seconds": 23.38,
+ "created_at": "2026-07-06T05:21:07+00:00",
+ "failed": false,
+ "text": "My husband has Parkinson's disease and cervical dystonia. He has memory loss and cognitive changes in executive functioning as well. The MRI shows mild chronic white matter microangiopathic changes and moderate ventricular megaly, likely reflecting central parenchymal volume loss. Is this Parkinson's disease dementia, Lewy body dementia, Alzheimer's disease, or none of the above?",
+ "seconds": 0.706
+}

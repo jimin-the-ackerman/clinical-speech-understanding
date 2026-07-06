@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__769191_2",
+ "condition": "white_noise_2",
+ "reference": "Dear, in such cases, the chances of survival are reduced, and even if one survives, a perfectly healthy life cannot be guaranteed. Maintaining vital signs and prayers aid in recovery.",
+ "audio_seconds": 12.03,
+ "created_at": "2026-07-06T04:47:48+00:00",
+ "failed": false,
+ "text": "Dear, in such cases, the chances of survival are reduced, and even if one survives, a perfectly healthy life cannot be guaranteed, maintaining vital signs and prayers aid in recovery.",
+ "seconds": 0.184
+}

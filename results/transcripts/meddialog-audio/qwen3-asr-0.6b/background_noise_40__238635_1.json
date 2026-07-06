@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__238635_1",
+ "condition": "background_noise_40",
+ "reference": "My baby is four months old. She poops about ten to twelve times daily. After every hiccup or cough, she leaves a small amount of liquid stool. This is causing her diaper rash. Is it common to poop a small amount after coughing? She gets hiccups two to three times daily still after burping her. How do I stop it?",
+ "audio_seconds": 18.69,
+ "created_at": "2026-07-06T04:53:59+00:00",
+ "failed": false,
+ "text": "My baby is four months old. She poops about ten to twelve times daily. After every hiccup or cough, she leaves a small amount of liquid stool. This is causing her diaper rash. Is it common to pull out after coughing? She gets hicups two to three times daily. Still after burping her, how do I stop it?",
+ "seconds": 0.654
+}

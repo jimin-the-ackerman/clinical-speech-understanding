@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__748458_1",
+ "condition": "white_noise_6",
+ "reference": "I had a blackhead that did not open, and over time it became larger and appeared swollen. The doctor used a laser to open the blackhead and remove the debris. It has been more than a year since that procedure, and the hole created by the laser incision has not healed. I now have a hole in my face where debris gets in all the time. Please help.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T00:47:31+00:00",
+ "failed": false,
+ "text": "The hot spot at the combustion chamber is the larger piece of metal. The hot piece of metal goes back underneath the smoke. The hot piece of metal makes the smoke hot and therefore makes the smoke hot.",
+ "seconds": 0.899
+}

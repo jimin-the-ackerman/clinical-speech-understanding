@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__653306_2",
+ "condition": "white_noise_10",
+ "reference": "Hi. If possible, please forward a few pictures of the affected area of the lips to help me assist you.",
+ "audio_seconds": 4.95,
+ "created_at": "2026-07-06T04:46:06+00:00",
+ "failed": false,
+ "text": "If possible, please pull out a few pictures of the affected area of the lips to help me",
+ "seconds": 0.16
+}

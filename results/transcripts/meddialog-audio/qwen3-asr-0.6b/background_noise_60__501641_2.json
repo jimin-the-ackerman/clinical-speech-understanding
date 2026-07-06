@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__501641_2",
+ "condition": "background_noise_60",
+ "reference": "Hi, thank you for asking to visit me. I really appreciate your concern. Based on the history provided, I would say that the chances of an intestinal infection are likely and that may be causing such symptoms. In my opinion, this condition needs to be treated with Metronidazole four hundred milligrams twice a day for five days and Omeprazole forty milligrams once a day for three weeks. Have a nice day.",
+ "audio_seconds": 26.54,
+ "created_at": "2026-07-06T04:58:39+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking to visit me. I really appreciate your concern. Based on the history provided, I would say that the chances of an intestinal infection are likely, and that may be causing such symptoms. In my opinion, this condition needs to be treated with metronidazole four hundred milligrams twice a day for five days, and a metronidazole forty milligrams once a day for three weeks. Have a nice day.",
+ "seconds": 0.807
+}

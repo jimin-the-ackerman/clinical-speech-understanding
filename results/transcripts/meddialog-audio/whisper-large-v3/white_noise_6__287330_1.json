@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__287330_1",
+ "condition": "white_noise_6",
+ "reference": "Hello Doctor, my father has been diagnosed with gallstones and a tumor in the gallbladder. He has been advised to undergo major surgery to remove the gallbladder, but I am very concerned because he is a heart patient. In two thousand and six, he underwent angioplasty, and in two thousand and twelve, he suffered a second heart attack. Additionally, he is sixty-four years old. Is there any alternative to this surgery? Considering his physical condition, I am unwilling to have him operated on. Could you please suggest the best options?",
+ "audio_seconds": 32.94,
+ "created_at": "2026-07-06T04:36:31+00:00",
+ "failed": false,
+ "text": "Hello, doctor. My father has been diagnosed with gallstones and a tumor in the gallbladder. He has been advised to undergo major surgery to remove the gallbladder, but I am very concerned because he is a heart attack. In 2006, he underwent angioplasmy, and in 2012, he suffered a second heart attack. Additionally, he is 64 years old. Is there any alternative to this surgery? Considering his physical condition, I am unwilling to have him operated on. Could you please suggest the best option?",
+ "seconds": 0.916
+}

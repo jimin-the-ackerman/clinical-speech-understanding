@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-86745-0011",
+ "condition": null,
+ "reference": "IT IS FOR THAT REASON YOU SEE ME SO EARLY",
+ "audio_seconds": 3.38,
+ "created_at": "2026-07-06T03:22:28+00:00",
+ "failed": false,
+ "text": "It is for that reason you see me so early.",
+ "seconds": 0.142
+}

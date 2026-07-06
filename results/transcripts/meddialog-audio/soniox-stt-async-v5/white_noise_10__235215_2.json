@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__235215_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, it seems like a developmental delay due to an infection affecting the growing brain during the newborn period. He needs to undergo investigations, including imaging of the brain and some basic blood tests. He will also require regular medications for his seizures.",
+ "audio_seconds": 15.19,
+ "created_at": "2026-07-06T03:01:06+00:00",
+ "failed": false,
+ "text": "Hi, I think I could develop multiple layers due to manufacturing effects on the growing variants in the ongoing flavor. I need to undergo an investigation, including imaging, degrading, and temporary suppression. It will also require regimen medications and an EGD.",
+ "seconds": 5.67
+}

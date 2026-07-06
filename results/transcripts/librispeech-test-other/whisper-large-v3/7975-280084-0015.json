@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280084-0015",
+ "condition": null,
+ "reference": "WHERE'S THE MONEY OUTSIDE THE SAFE BOB ASKED",
+ "audio_seconds": 2.81,
+ "created_at": "2026-07-05T13:07:21+00:00",
+ "failed": false,
+ "text": "Where's the money outside the safe, Bob asked.",
+ "seconds": 0.178
+}

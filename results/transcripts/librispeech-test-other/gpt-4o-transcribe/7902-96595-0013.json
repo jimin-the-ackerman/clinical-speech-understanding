@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96595-0013",
+ "condition": null,
+ "reference": "THE MAN SHOOK HIS HEAD AND STARED AS IF HE DIDN'T HALF UNDERSTAND THE DRIFT OF WHAT WAS SAID",
+ "audio_seconds": 4.21,
+ "created_at": "2026-07-05T23:58:01+00:00",
+ "failed": false,
+ "text": "The man shook his head, and stared as if he didn't half understand the drift of what was said.",
+ "seconds": 1.328
+}

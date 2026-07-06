@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__812296_2",
+ "condition": "background_noise_20",
+ "reference": "The Implanon is only designed to work for three years, so you really need to see your doctor and have it removed. You may be having spotting because the medication in the Implanon is wearing off and you are experiencing breakthrough bleeding. Please see your doctor to discuss removing the Implanon and replacing it with a new one, or switching to some other form of birth control.",
+ "audio_seconds": 19.8,
+ "created_at": "2026-07-06T04:16:18+00:00",
+ "failed": false,
+ "text": "The implantant is only designed to work for three years, so you really need to see your doctor and have it removed. You may be having spotting because the medication in the implantant is wearing off and you are experiencing breakthrough bleeding. Please see your doctor to discuss removing the implantant and replacing with a new one, or switching to some other form of birth control.",
+ "seconds": 0.616
+}

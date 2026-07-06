@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__475351_1",
+ "condition": "background_noise_40",
+ "reference": "My father is stating that he feels like his whole system has been poisoned. He claims to have a bad taste in his mouth accompanied by slight kidney pain as well as chest pain. Yesterday is when it started, and he also had small red blotches on his face, looking like an allergic reaction. Any idea what could be causing this?",
+ "audio_seconds": 21.16,
+ "created_at": "2026-07-06T02:51:18+00:00",
+ "failed": false,
+ "text": "My father is stating that he feels like his whole system has been poisoned. He claims to have a bad taste in his mouth, accompanied by slight kidney pain as well as chest pain. Yesterday is when it started, and he also had small red blotches on his face, looking like an allergic reaction. Any idea what could be causing this?",
+ "seconds": 5.024
+}

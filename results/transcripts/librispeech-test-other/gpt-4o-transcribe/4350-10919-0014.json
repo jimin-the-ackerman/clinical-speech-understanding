@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-10919-0014",
+ "condition": null,
+ "reference": "WHAT IS WANTED IS MEANS OF IMPROVING NUTRITION AND NOT FOR LOWERING IT",
+ "audio_seconds": 3.38,
+ "created_at": "2026-07-05T23:55:59+00:00",
+ "failed": false,
+ "text": "What is wanted is the means of improving nutrition, and not for lowering it.",
+ "seconds": 0.716
+}

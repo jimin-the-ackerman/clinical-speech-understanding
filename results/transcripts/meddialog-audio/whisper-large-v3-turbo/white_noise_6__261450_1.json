@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__261450_1",
+ "condition": "white_noise_6",
+ "reference": "I have a sore or small ulcer on the right underside of my tongue. It has a small white spot. Also, about a month ago, I had a cold sore in the right corner of my mouth, which appears to be gone. What is the best way to treat this? I am currently taking Daktarin, which appears to lessen the soreness that was not very strong.",
+ "audio_seconds": 17.66,
+ "created_at": "2026-07-06T04:48:21+00:00",
+ "failed": false,
+ "text": "I have a sore or small ulcer on the right underside of my tongue. It has a small white spot. Also, about a month ago, I had a cold sore in the right corner of my mouth, which appears to be gone. What is the best way to treat it? I am currently taking doctorate, which appears to lessen the soreness that was not very strong.",
+ "seconds": 0.252
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-142836-0023",
+ "condition": null,
+ "reference": "ICES",
+ "audio_seconds": 1.55,
+ "created_at": "2026-07-05T13:10:43+00:00",
+ "failed": false,
+ "text": "ices.",
+ "seconds": 0.099
+}

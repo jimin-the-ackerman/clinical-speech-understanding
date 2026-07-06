@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4350-10919-0026",
+ "condition": null,
+ "reference": "THIS IS THE THIRD TIME YOU'VE ASKED ME THE SAME THING",
+ "audio_seconds": 2.75,
+ "created_at": "2026-07-06T03:32:04+00:00",
+ "failed": false,
+ "text": "This is the third time you've asked me the same thing.",
+ "seconds": 0.158
+}

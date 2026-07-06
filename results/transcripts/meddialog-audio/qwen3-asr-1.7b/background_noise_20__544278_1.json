@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__544278_1",
+ "condition": "background_noise_20",
+ "reference": "I am in trouble, Doctor. My problem is that when I look at any woman, I automatically see her breast area. I do not like to see this and I cannot control myself. What can I do? This problem has left me completely disappointed. Please share your valuable information.",
+ "audio_seconds": 19.97,
+ "created_at": "2026-07-06T05:17:25+00:00",
+ "failed": false,
+ "text": "I am in trouble, doctor. My problem is that when I look at any woman, I automatically see her breast area. I do not like to see this, and I cannot control myself. What can I do? This problem has left me completely disappointed. Please share your valuable information.",
+ "seconds": 0.576
+}

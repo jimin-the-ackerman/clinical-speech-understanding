@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__191537_2",
+ "condition": "white_noise_10",
+ "reference": "Removing the adenoids is indicated as your child is experiencing breathing difficulty. Enlarged adenoids may cause nasal speech, breathing difficulty, snoring, and obstructive sleep apnea. There is nothing contraindicated in removing the adenoids.",
+ "audio_seconds": 14.85,
+ "created_at": "2026-07-06T04:45:26+00:00",
+ "failed": false,
+ "text": "Nothing in the attic is indicated as your child is experiencing breathing difficulties. The marked attic is made by the latest sleep, breathing difficulties, snoring, and a proper sleep atmosphere. There is nothing contraindicated in removing the attic.",
+ "seconds": 0.208
+}

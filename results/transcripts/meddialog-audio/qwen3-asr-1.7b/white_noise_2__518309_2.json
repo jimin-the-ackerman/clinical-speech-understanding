@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__518309_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, thank you for asking. Your daughter may have some genetic disorders. Long-term medical management may be required in such cases. The prognosis almost depends upon the future medical management. If everything goes uneventfully, then the patient can reach a normal life expectancy, but the chances of this are very minimal. Have a nice day.",
+ "audio_seconds": 19.03,
+ "created_at": "2026-07-06T05:36:30+00:00",
+ "failed": false,
+ "text": "Hi, thank you for asking. Your daughter may have some genetic disorders. Long-term medical management may be required in such cases. The prognosis almost depends upon the future medical management. If everything goes uneventfully, then the patient can reach a normal life expectancy, but the chances of this are very minimal. Have a nice day.",
+ "seconds": 0.648
+}

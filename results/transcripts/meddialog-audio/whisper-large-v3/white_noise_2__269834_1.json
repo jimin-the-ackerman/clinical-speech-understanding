@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__269834_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, my name is Beverly. My question is, when a narcissist is not empathetic toward others, does that mean they are also this way toward their mothers and fathers too, when the parents express their hurt verbally to their daughter? Or does this lack of empathy only happen with other people who are not parents?",
+ "audio_seconds": 17.83,
+ "created_at": "2026-07-06T04:32:55+00:00",
+ "failed": false,
+ "text": "hi my name is beverly my question is when a narcissist is not empathetic toward others does that mean they are also this way toward their mothers and fathers too when the parents express their hurt verbally to their daughter or does this lack of empathy only happen with other people who are not parents you",
+ "seconds": 0.577
+}

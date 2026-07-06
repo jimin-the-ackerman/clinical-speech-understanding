@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__808640_2",
+ "condition": "background_noise_40",
+ "reference": "Thank you for your question. The history itself suggests trauma; the changes in the knee joint could be due to the trauma itself and not because of aging. The knee joint is very fragile, particularly the meniscus, which is very vulnerable to injury. It is better to have an opinion from the orthopedic surgeon. Have a nice day.",
+ "audio_seconds": 17.49,
+ "created_at": "2026-07-06T04:20:02+00:00",
+ "failed": false,
+ "text": "Thank you for your question. The history itself suggests trauma. The changes in the knee joint could be due to the trauma itself and not because of aging. The knee joint is very fragile, particularly the meniscus, which is very vulnerable to injury. It is better to have an opinion from the orthopedic surgeon. Have a nice day!",
+ "seconds": 0.582
+}

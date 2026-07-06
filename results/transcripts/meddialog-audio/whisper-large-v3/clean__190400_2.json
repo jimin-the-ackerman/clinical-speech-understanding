@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__190400_2",
+ "condition": "clean",
+ "reference": "Firstly, ovarian or cervical cancer rarely, if ever, presents with blood in stools. Secondly, itching or irritation is not mandatory in the case of hemorrhoids. So, please do not jump to conclusions. The best course of action will be to show yourself to a general surgeon who will take a proper history and examine your anus and rectum. If there are any hemorrhoids, he will see them and treat them; otherwise, he will advise you on further investigations to ascertain the cause of your bleeding. He will probably then order a colonoscopy.",
+ "audio_seconds": 32.09,
+ "created_at": "2026-07-06T04:25:10+00:00",
+ "failed": false,
+ "text": "firstly ovarian or cervical cancer rarely if ever presents with blood in stools secondly itching or irritation is not mandatory in the case of hemorrhoids so please do not jump to conclusions the best course of action will be to show yourself to a general surgeon who will take a proper history and examine your anus and rectum if there are any hemorrhoids he will see them and treat them otherwise he will advise you on further investigations to ascertain the cause of your bleeding he will probably then order a colonoscopy",
+ "seconds": 0.967
+}

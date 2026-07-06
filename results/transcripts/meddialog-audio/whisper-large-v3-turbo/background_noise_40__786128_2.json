@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__786128_2",
+ "condition": "background_noise_40",
+ "reference": "Hi. This isn't from your infection or your lymph nodes. You may have a pulled neck muscle, but you may also have a disk problem in your neck, so you need to have this evaluated to see if you need a magnetic resonance imaging scan of your neck.",
+ "audio_seconds": 13.65,
+ "created_at": "2026-07-06T04:42:04+00:00",
+ "failed": false,
+ "text": "Hi. This isn't from your infection or your lymph nodes. You may have a pulled neck muscle, but you may also have a disc problem in your neck. So, you need to have this evaluated to see if you need a magnetic resonance imaging scan of your neck.",
+ "seconds": 0.22
+}

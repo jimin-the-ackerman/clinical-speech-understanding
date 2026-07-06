@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24317-0013",
+ "condition": null,
+ "reference": "A STRANGER OUT OF HIS OWN SPHERE HE FELT CHILLED AMONG THESE CLOSELY UNITED MEN AND WOMEN TO WHOM NO TIE BOUND HIM SAVE THE PRESENCE OF THE SAME HOST",
+ "audio_seconds": 10.44,
+ "created_at": "2026-07-05T23:56:40+00:00",
+ "failed": false,
+ "text": "A stranger, out of his own sphere, he felt chilled among these closely united men and women, to whom no tie bound him save the presence of the same host.",
+ "seconds": 0.846
+}

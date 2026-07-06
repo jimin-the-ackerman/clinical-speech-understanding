@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__551860_1",
+ "condition": "white_noise_2",
+ "reference": "Hello, my son has been complaining about pins and needles in his chest today. He has asthma and takes Flovent on a daily basis as a preventative measure. He mentioned that he experienced it at school for only a few short instances, and now this evening he said he had it again. It moved from one side of his chest to the other. Do you think this is related to his asthma? What could this be a sign of? I have read a few things online that it may have to do with his heart?",
+ "audio_seconds": 26.71,
+ "created_at": "2026-07-06T05:36:42+00:00",
+ "failed": false,
+ "text": "Hello, my son has been complaining about pins and needles in his chest today. He has asthma and takes Flovent on a daily basis as a preventative measure. He mentioned that he experienced it at school for only a few short instances, and now this evening he said he had it again. It moved from one side of his chest to the other. Do you think this is related to his asthma? What could this be a sign of? I have read a few things online that it may have to do with his heart.",
+ "seconds": 0.978
+}

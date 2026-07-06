@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-180297-0024",
+ "condition": null,
+ "reference": "MARGUERITE DO WITH ME AS YOU WILL I AM YOUR SLAVE YOUR DOG BUT IN THE NAME OF HEAVEN TEAR UP THE LETTER WHICH I WROTE TO YOU AND DO NOT MAKE ME LEAVE YOU TO MORROW IT WOULD KILL ME",
+ "audio_seconds": 12.62,
+ "created_at": "2026-07-06T03:19:09+00:00",
+ "failed": false,
+ "text": "Marguerite, do with me as you will. I am your slave, your dog. But in the name of heaven, tear up the letter which I wrote to you, and do not make me leave you tomorrow. It would kill me.",
+ "seconds": 0.501
+}

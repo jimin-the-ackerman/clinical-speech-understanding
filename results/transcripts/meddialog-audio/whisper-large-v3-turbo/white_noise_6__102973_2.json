@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__102973_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, thank you for your inquiry. I really appreciate your concern. You have been misinformed. In fact, you will not find this skin during the erection phase of the penis, so the question of pain may not be an issue. Just disregard this incorrect information. This is not true, and there is no need to worry about it. I hope this information helps you. Have a nice day.",
+ "audio_seconds": 19.03,
+ "created_at": "2026-07-06T04:48:09+00:00",
+ "failed": false,
+ "text": "hi thank you for your inquiry i really appreciate your concern you have been misinformed in fact you will not find this skin during the erection phase of the penis so the question of pain may not be an issue just disregard this incorrect information this is not true and there is no need to worry about it i hope this information helps you have a nice day",
+ "seconds": 0.289
+}

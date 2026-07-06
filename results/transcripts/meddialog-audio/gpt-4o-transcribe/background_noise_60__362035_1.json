@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__362035_1",
+ "condition": "background_noise_60",
+ "reference": "I have developed a cough after I get hot. I start sweating and begin coughing. My lungs also feel inflamed and I begin wheezing when I inhale and exhale. It normally lasts until I take some cough medicine and go to sleep. It has only occurred within the last week after I exercise or cut the grass, and it is around eighty-five to ninety degrees Fahrenheit outside. Any thoughts?",
+ "audio_seconds": 22.27,
+ "created_at": "2026-07-06T00:44:01+00:00",
+ "failed": false,
+ "text": "I have developed a cough after I get hot. I start sweating and coughing. My lungs also feel inflamed and I inhale and exhale. It normally lasts until I take some cough medicine. It has only occurred in the last week after I exercised on the grass and it was around 85-90 degrees Fahrenheit outside.",
+ "seconds": 2.258
+}

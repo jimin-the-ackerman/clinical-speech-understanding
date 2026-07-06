@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__566843_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, I have two knots on my neck, one on my left side and one on my right side. They get really sore and large most of the time. I have asked doctors about this before, and they say they are just lymph nodes. If that is true, shouldn't they have gone away by now? I have had them for about five years now. I have also noticed a lump on the back of my skull. It is hard, does not hurt at all, and does not move. I cannot tell if it is anything I should be worried about.",
+ "audio_seconds": 25.51,
+ "created_at": "2026-07-06T04:34:12+00:00",
+ "failed": false,
+ "text": "hi i have two knots on my neck one on my left side and one on my right side they get really sore and large most of the time i have asked doctors about this before and they say they are just lymph nodes if that is true shouldn't they have gone away by now i have had them for about five years now i have also noticed a lump on the back of my skull it is hard does not hurt at all and does not move i cannot tell if it is anything i should be worried about",
+ "seconds": 0.822
+}

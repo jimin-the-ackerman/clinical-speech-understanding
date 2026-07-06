@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__730343_1",
+ "condition": "white_noise_6",
+ "reference": "I had an abscessed tooth that was very infected and pulled on Tuesday. I have been having diarrhea that is very yellow and watery every time I eat, even the lightest foods. I am on Amoxicillin five hundred milligrams; it has been five days. I am feeling very weak. Is this from the bacteria coming out of my system? Should I let it come out, or should I take something to try to stop the diarrhea? I find that Imodium does not help. Do you have any suggestions for something I should take? Thank you.",
+ "audio_seconds": 28.76,
+ "created_at": "2026-07-06T05:41:20+00:00",
+ "failed": false,
+ "text": "I had an abscess tooth that was very infected and pulled on Tuesday. I have been having diarrhea that is very yellow and watery every time I eat, even the lightest food. I am on a moxifloxin 500 milligrams. It has been five days. I am feeling very weak. Is the bacteria coming out of my system? Should I let it come out, or should I take something to try to stop the diarrhea? I find that emodium does not help. Do you have any suggestions for something I should take? Thank you.",
+ "seconds": 1.077
+}

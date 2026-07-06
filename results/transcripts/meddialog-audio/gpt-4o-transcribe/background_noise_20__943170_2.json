@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__943170_2",
+ "condition": "background_noise_20",
+ "reference": "If your child is complaining of pain only at night and there are no abnormalities during daytime, it is growth pain, which is usual in this age group. Massage of the muscles will provide relief. Syrup paracetamol can be used if the pain is severe.",
+ "audio_seconds": 13.99,
+ "created_at": "2026-07-06T00:42:42+00:00",
+ "failed": false,
+ "text": "If your child is complaining of pain only at night, and there are no abnormalities during daytime, it is growth which is usual in this age group. Massage of the muscles will provide relief. Syrup paracetamol can be used if the pain is severe.",
+ "seconds": 0.863
+}

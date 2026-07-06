@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__489033_1",
+ "condition": "clean",
+ "reference": "I have had burning in the balls of my feet on and off for a year. It seemed to go away for about four months and is now back. I sit and elevate my feet and use ice. I am a fifty-five-year-old woman, five feet six inches tall, one hundred and forty pounds. I have had both hips replaced and I have fibromyalgia, along with chronic acid reflux, chronic cystitis, degenerative disc disease, and chronic migraines. I take gabapentin, Celebrex, and Dexilant, along with an omega-three supplement. I started Botox in February for my shoulders and head. What do I need to do? Is this something I should check with my doctor?",
+ "audio_seconds": 41.47,
+ "created_at": "2026-07-06T00:45:04+00:00",
+ "failed": false,
+ "text": "I have had burning in the balls of my feet on and off for a year. It seemed to go away for about four months and is now back. I sit and elevate my feet and use ice. I am a 55-year-old woman, five feet six inches tall, 140 pounds. I have had both hips replaced and I have fibromyalgia, along with chronic acid reflux, chronic cystitis, degenerative disc disease, and chronic migraines. I take gabapentin, Celebrex, and Excellent, along with an omega-3 supplement. I started Botox in February for my shoulders and head. What do I need to do? Is this something I should check with my doctor?",
+ "seconds": 2.209
+}

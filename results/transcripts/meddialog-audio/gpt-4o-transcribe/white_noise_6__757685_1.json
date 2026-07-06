@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__757685_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, I have been suffering from acne vulgaris for many days, and it reduced after using some medications. However, somehow it has started again. The main thing is that I have my marriage in twenty days, and I am using Azithromycin five hundred milligrams as suggested by my doctor. I hope this will work well in a few days. Do you have any suggestions regarding this?",
+ "audio_seconds": 22.7,
+ "created_at": "2026-07-06T00:47:32+00:00",
+ "failed": false,
+ "text": "How can you talk to your neighbor if you really suspect he cannot listen?",
+ "seconds": 0.801
+}

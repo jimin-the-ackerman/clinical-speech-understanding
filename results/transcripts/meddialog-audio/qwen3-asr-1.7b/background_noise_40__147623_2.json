@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__147623_2",
+ "condition": "background_noise_40",
+ "reference": "These spots are likely to be small purpuric spots. As the child is otherwise well, this may be idiopathic thrombocytopenic purpura or some clotting factor deficiency. Investigate with a complete blood count, prothrombin time, and activated partial thromboplastin time. There is spontaneous painful bleeding in these conditions.",
+ "audio_seconds": 20.91,
+ "created_at": "2026-07-06T05:19:39+00:00",
+ "failed": false,
+ "text": "These spots are likely to be small purpuric spots. As the child is otherwise well, this may be idiopathic thrombocytopenic purpura or some clotting factor deficiency. Investigate with a complete blood count, prothrombin time, and activated partial thromboplastin time. There is spontaneous painful bleeding in these conditions.",
+ "seconds": 0.703
+}

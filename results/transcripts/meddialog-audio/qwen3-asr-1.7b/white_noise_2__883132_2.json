@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__883132_2",
+ "condition": "white_noise_2",
+ "reference": "This is probably viral, but with stomach pain, she should be evaluated right away for possible appendicitis.",
+ "audio_seconds": 7.77,
+ "created_at": "2026-07-06T05:38:16+00:00",
+ "failed": false,
+ "text": "This is probably, but with stomach pain, she should be evaluated right away for possible appendicitis.",
+ "seconds": 0.236
+}

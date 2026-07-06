@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0076",
+ "condition": null,
+ "reference": "CHONODEMAIRE ONE OF THE SEVEN GERMAN KINGS WHO ENTERED AMONG THE GAULS UNDER THE EMPIRE OF CONSTANTIUS EXPRESSLY RECOGNIZED THE RIGHT OF NUNS TO BE BURIED IN RELIGION THAT IS TO SAY BENEATH THE ALTAR",
+ "audio_seconds": 13.13,
+ "created_at": "2026-07-05T13:10:34+00:00",
+ "failed": false,
+ "text": "chaunodemer one of the seven german kings who entered among the gauls under the empire of constantius expressly recognized the right of nuns to be buried in religion that is to say beneath the altar",
+ "seconds": 0.14
+}

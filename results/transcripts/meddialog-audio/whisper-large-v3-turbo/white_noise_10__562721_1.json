@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__562721_1",
+ "condition": "white_noise_10",
+ "reference": "My daughter is experiencing stomach pain, is not feeling hungry, and has missed her menstrual periods. The doctor suggested blood tests for fasting blood sugar and hemoglobin, as well as a stomach scan. The fasting blood sugar and hemoglobin levels came back normal. However, the scan showed some bubbles in her ovaries, indicating the presence of cysts. The doctor has now suggested taking Glyciphage SR five hundred milligrams in the dosage of zero point five+zero+zero point five for one week, then zero point five+zero point five+zero point five the following week, and one+zero point five+one for the week after that. Finally, for three months, the dosage will be one+one+one. Why is this happening? She is now seventeen years old. What is her problem?",
+ "audio_seconds": 47.87,
+ "created_at": "2026-07-06T04:45:58+00:00",
+ "failed": false,
+ "text": "My daughter, as experienced in 20 years, did not fail in 20 years in a week for a few years. The doctor says that their pets were costing their children in the building were lower than 20 years. The cost of their children in the building numbers came back now. However, the insurance for mothers in her ovaries was the more present at 6. The doctor has now suggested taking DICAPE SR 500 in events and doses of 0.5 plus 0 plus 0.5 for one week, then 0.5 plus 0.5 plus 0.5 for one week, and one more 0.5 plus one for the week after that. Finally, for three months, it was supposed to be 1 plus 1. Why is this happening? It was 9, 7, 7, 8 weeks. What is this happening?",
+ "seconds": 0.454
+}

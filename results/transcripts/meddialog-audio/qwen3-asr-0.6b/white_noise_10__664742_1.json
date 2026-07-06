@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__664742_1",
+ "condition": "white_noise_10",
+ "reference": "I was hit by a car in two thousand and twelve and sustained a tibial plateau fracture in my left knee. Atrophy set in my quadriceps, and I have slowly increased from a knot-like pain in my back to my upper left thigh. It is mostly on the left side, but sometimes on the right. Is it a nerve causing this? I use muscle pain relief rub every day.",
+ "audio_seconds": 20.48,
+ "created_at": "2026-07-06T05:06:35+00:00",
+ "failed": false,
+ "text": "I was put by a car in two thousand and twelve and sustained a tibial plateau fracture in my left knee. After being set in my quad reflex, and I have slowly increased from a knot-like pain in my back to my upper left side. It is mostly on the left side, but sometimes on the right. Is it a nerve causing this? I use muscle pain relief rub every day.",
+ "seconds": 0.732
+}

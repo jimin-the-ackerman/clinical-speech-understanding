@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-156975-0006",
+ "condition": null,
+ "reference": "IT SEEMS PROBABLE THAT NOT ALL BUT ONLY PART OF THE TRIBES WHICH ULTIMATELY COALESCED INTO THE HEBREW NATION FOUND THEIR WAY TO EGYPT",
+ "audio_seconds": 10.55,
+ "created_at": "2026-07-05T12:57:03+00:00",
+ "failed": false,
+ "text": "it seems probable that not all but only part of the tribes which ultimately call us into the hebrew nation found their way to egypt you",
+ "seconds": 0.375
+}

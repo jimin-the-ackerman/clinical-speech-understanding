@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__818605_1",
+ "condition": "background_noise_60",
+ "reference": "I have a bone-like lump below my right kneecap. It is extremely painful to touch. I have had it for what I believe is over a year. Previously, it would have to have been hit hard to hurt badly, but now it is much easier to aggravate. Several times I played a contact sport and was hit there, and I could not walk for a while. What could this be?",
+ "audio_seconds": 22.53,
+ "created_at": "2026-07-06T05:26:17+00:00",
+ "failed": false,
+ "text": "I have a lump below my right kneecap. It is extremely painful to touch. I have had it for what is over a year. Previously, it would have to have been hit hard to hurt badly, but now it is much easier to aggravate. Several times I did a contact sport and was hit there, and I could not walk for a while. What could this be?",
+ "seconds": 0.773
+}

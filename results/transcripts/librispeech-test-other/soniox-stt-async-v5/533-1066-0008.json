@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-1066-0008",
+ "condition": null,
+ "reference": "THE MOST UNUSUAL THING I CAN THINK OF WOULD BE A PEACEFUL NIGHT",
+ "audio_seconds": 5.05,
+ "created_at": "2026-07-06T02:28:32+00:00",
+ "failed": false,
+ "text": "The most unusual thing I can think of would be a peaceful night.",
+ "seconds": 5.215
+}

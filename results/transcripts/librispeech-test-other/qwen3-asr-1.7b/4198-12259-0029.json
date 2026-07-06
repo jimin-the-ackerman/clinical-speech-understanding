@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12259-0029",
+ "condition": null,
+ "reference": "SPARROWS WILL NOT EAT UNLESS YOU BOB THEM ON THE TAIL NOR CAN I DRINK IF I BE NOT FAIRLY SPOKE TO",
+ "audio_seconds": 8.54,
+ "created_at": "2026-07-06T03:31:20+00:00",
+ "failed": false,
+ "text": "Sparrows will not eat, unless you bob them on the tail. Nor can I drink if I be not fairly spoke to.",
+ "seconds": 0.282
+}

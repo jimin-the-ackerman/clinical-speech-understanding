@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__251074_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, I did a pregnancy test which turned out positive. I further did an ultrasound, and my report stated the following: pelvic ultrasound shows an anteverted uterus with a thickened endometrium. The left adnexal region showed a thick-walled cystic lesion with a ring of fire around an embryo and evidence of significant fluid in the cul-de-sac. Number of embryos: single. Location: left adnexal region. Gestational sac: eight point four one mm. Gestational age: four weeks. Comments: single left ectopic gestation at four weeks. What does this mean? I am really worried about my pregnancy being ectopic. What should I do?",
+ "audio_seconds": 43.09,
+ "created_at": "2026-07-06T04:57:45+00:00",
+ "failed": false,
+ "text": "Hi, I've been having some problems turning out as well. Further than an ultrason, in my report state of fine, the boat itself shows an antiferromagnetism with big and. The left adnexal region showed a big wall of systemation with a ring of fire on every other evidence of systemic fluid in the corpus. Number of emitters single. Location left adnexal region. Stational SAX eight point four one hundred. Stational eight point four base. Comments single left at top of station eight point four base. I am really worried about my pregnancy. I'm talking. Try to move.",
+ "seconds": 1.122
+}

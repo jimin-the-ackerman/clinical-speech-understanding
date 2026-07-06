@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__599401_1",
+ "condition": "clean",
+ "reference": "Hi, fifteen days after in vitro fertilization frozen embryo transfer, the blood test result is seven. Two days after the blood test, it is only two. I am feeling tired, have back pain, slight cramping in the left abdomen, vomit sometimes, and have a loss of appetite. Now, three days after the second blood test, I have brown discharge and feel chilled and sleepy. Is this a sign of my period, or am I pregnant?",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T00:45:12+00:00",
+ "failed": false,
+ "text": "Hi, 15 days after in vitro fertilization frozen embryo transfer, the blood test result is 7. Two days after the blood test, it is only 2. I am feeling tired, have back pain, slight cramping in the left abdomen, vomit sometimes, and have a loss of appetite. Now, three days after the second blood test, I have brown discharge and feel chilled and sleepy. Is this a sign of my period or am I pregnant?",
+ "seconds": 1.719
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0039",
+ "condition": null,
+ "reference": "TRULY TRULY FAN",
+ "audio_seconds": 2.88,
+ "created_at": "2026-07-06T03:29:10+00:00",
+ "failed": false,
+ "text": "Julie, Julie Fan.",
+ "seconds": 0.101
+}

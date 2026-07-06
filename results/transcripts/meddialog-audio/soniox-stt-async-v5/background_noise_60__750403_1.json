@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__750403_1",
+ "condition": "background_noise_60",
+ "reference": "I have fibromyalgia and fell in the bathtub last September on my left side. I had an X-ray done of my ribs, which came back negative for fracture. I didn’t bruise in this area, just on my hip. Since then, that side of my ribs is sore most of the time. I’m wondering if the fibromyalgia has something to do with it?",
+ "audio_seconds": 21.42,
+ "created_at": "2026-07-06T02:55:37+00:00",
+ "failed": false,
+ "text": "I have fibromyalgia and fell in the bathtub last September on my left side. I had an X-ray done of my ribs, which came back negative for fracture. I didn't bruise in this area, just on my hip. Since then, that side of my ribs is sore most of the time. I'm wondering if the fibromyalgia has something to do with it.",
+ "seconds": 4.887
+}

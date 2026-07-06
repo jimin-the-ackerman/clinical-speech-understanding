@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__953085_1",
+ "condition": "white_noise_10",
+ "reference": "I have a vascular disease called LCV, which is a rather rare condition. Recently, I had a couple of very bad coughing episodes, one of which took place at work—a school, as I am a teacher. A nurse was brought in, and he took my blood pressure, which was very high. He said I was hypertensive. Was this just due to the chest cold, or could it be due to the LCV?",
+ "audio_seconds": 28.25,
+ "created_at": "2026-07-06T04:46:38+00:00",
+ "failed": false,
+ "text": "I have a vascular disease called LCD, which is a rather rare condition. Recently, I had a couple of very bad coughing episodes, one of which took place at work, at school, as I am a teacher. A nurse was brought in and she took my blood pressure, which was very high. She said I was hypertensive. Was this just due to the chest cold, or could it be due to the LCD?",
+ "seconds": 0.269
+}

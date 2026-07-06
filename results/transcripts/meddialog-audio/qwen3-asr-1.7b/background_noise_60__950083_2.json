@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__950083_2",
+ "condition": "background_noise_60",
+ "reference": "The medications you took for the flu have caused this. It can take three weeks to subside. Drink two to three glasses of warm water in the morning and evening. Take the antihistamine Fexofenadine one hundred and twenty milligrams twice daily for three weeks. Add antacid syrup, apply sensorial oil to the area affected by pain, and take Tramadol as needed. Three weeks will be adequate for recovery.",
+ "audio_seconds": 21.67,
+ "created_at": "2026-07-06T05:26:58+00:00",
+ "failed": false,
+ "text": "Medications you took for the flu have caused this. It can take three weeks to subside. Drink two to three glasses of warm water in the morning and evening. Take the antihistamine fexofenadine, 120 milligrams twice daily for three weeks. Add an aspirin syrup. Apply sensorial oil to the area affected by pain. Take tramadol as needed. Three weeks will be adequate for recovery.",
+ "seconds": 0.843
+}

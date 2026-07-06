@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280076-0018",
+ "condition": null,
+ "reference": "WE CROSSED ON THE BRIDGE STAYED IN THE CITY ALL NIGHT AND THE NEXT MORNING WE RODE UP THROUGH THE CITY",
+ "audio_seconds": 4.88,
+ "created_at": "2026-07-05T13:14:10+00:00",
+ "failed": false,
+ "text": "We crossed on the bridge, stayed in the city all night, and the next morning we rode up through the city.",
+ "seconds": 0.124
+}

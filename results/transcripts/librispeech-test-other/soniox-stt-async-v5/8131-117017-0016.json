@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117017-0016",
+ "condition": null,
+ "reference": "LIKE THIS SOCIAL CALL GORDON ASKED HIM",
+ "audio_seconds": 3.39,
+ "created_at": "2026-07-06T02:39:35+00:00",
+ "failed": false,
+ "text": "Like the social call Gordon asked him?",
+ "seconds": 4.633
+}

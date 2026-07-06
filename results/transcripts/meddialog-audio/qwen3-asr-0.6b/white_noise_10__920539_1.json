@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__920539_1",
+ "condition": "white_noise_10",
+ "reference": "My daughter had an ultrasound today, and the nephrologist found a dark spot on her left kidney. The doctor ordered a scan to be done right away. The doctor said it could be kidney stones, but something tells me that he was somewhat concerned. What else could it be?",
+ "audio_seconds": 13.99,
+ "created_at": "2026-07-06T05:07:41+00:00",
+ "failed": false,
+ "text": "My daughter had an ultrasound today, and the mammologist found a dark spot on her left kidney. The doctor ordered a scan to be done right away. The doctor said it could be kidney stones. The company tells me that he was somewhat concerned. What else could it be?",
+ "seconds": 0.517
+}

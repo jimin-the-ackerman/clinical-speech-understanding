@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__174870_1",
+ "condition": "background_noise_60",
+ "reference": "My upper right arm feels like it has been punched. There are no lumps in my arms that I can feel. Movement is also limited. I experience stabbing pain when I use my right arm to reach across to touch my left shoulder. I have nightly charley horses in that area. I also feel stabbing pains when lifting anything more than the remote. This has been going on for three months. I am right-handed, so is it possible I have re-injured myself?",
+ "audio_seconds": 27.14,
+ "created_at": "2026-07-06T02:53:31+00:00",
+ "failed": false,
+ "text": "My upper right arm feels like it has been punched. There are no lumps in my arms that I can feel. Movement is also limited. I experience stabbing pain when I use my right arm to reach across to touch my left shoulder. I have nightly charley horses in that area. I also feel stabbing pains when lifting anything more than the remote. This has been going on for 3 months. I am right-handed, so is it possible I have re-injured myself?",
+ "seconds": 5.979
+}

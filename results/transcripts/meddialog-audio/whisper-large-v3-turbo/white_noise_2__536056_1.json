@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__536056_1",
+ "condition": "white_noise_2",
+ "reference": "My father has stage IV prostate cancer. He had a colostomy and ileostomy performed two months ago. He is at the end of his life and is very weak. We found that he has a urinary tract infection, and he is being given antibiotics. In his condition, he is passing blood in his stools. The stools are very dark, almost black, with blood mixed in. What do I need to know about this development? Does it indicate that his condition has taken a turn for the worse?",
+ "audio_seconds": 26.54,
+ "created_at": "2026-07-06T04:47:23+00:00",
+ "failed": false,
+ "text": "My father has stage IV prostate cancer. He had a colostomy and ileostomy performed two months ago. He is at the end of his life and is very weak. We found that he has a urinary tract infection and he is being given antibiotics. In his condition, he is passing blood in his stools. The stools are very dark, almost black, with blood mixed in. What do I need to know about this development? Does it indicate that his condition has taken a turn for the worse?",
+ "seconds": 0.314
+}

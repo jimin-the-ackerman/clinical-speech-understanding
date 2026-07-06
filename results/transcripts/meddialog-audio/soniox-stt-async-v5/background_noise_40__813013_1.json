@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__813013_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, I am Jacky. I am really concerned and worried. In June two thousand and eleven, I had a miscarriage; if I am not mistaken, I was four to five months pregnant. My current boyfriend and I are trying to have a baby. We have been having unprotected sexual intercourse since May of last year, but without any success; I am not getting pregnant. Does this mean I will not have children? Recently, this month I had my period twice, very close together, but the second one was not heavy. What does this mean?",
+ "audio_seconds": 32.34,
+ "created_at": "2026-07-06T02:52:34+00:00",
+ "failed": false,
+ "text": "Hi, I am Jackie. I am really concerned and worried. In June 2011 I had a miscarriage. If I am not mistaken, I was 4 to 5 months pregnant. My current boyfriend and I are trying to have a baby. We have been having unprotected sexual intercourse since May of last year, but without any success. I am not getting pregnant. Does this mean I will not have children? Recently, this month I had my period twice, very close together, but the second one was not heavy. What does this mean?",
+ "seconds": 5.016
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__736130_2",
+ "condition": "white_noise_2",
+ "reference": "It is unlikely to be Parkinson's disease. Most neurodegenerative disorders are characterized by a loss of smell, not alterations in smell. There are many things that can cause alterations in smell. If it concerns you, then you should get it checked out.",
+ "audio_seconds": 15.27,
+ "created_at": "2026-07-06T04:47:45+00:00",
+ "failed": false,
+ "text": "It is unlikely to be Parkinson's disease. Most neurodegenerative disorders are characterized by a loss of smell, not alterations in smell. There are many things that can cause alterations in smell. If it concerns you, then you should get it checked out.",
+ "seconds": 0.237
+}

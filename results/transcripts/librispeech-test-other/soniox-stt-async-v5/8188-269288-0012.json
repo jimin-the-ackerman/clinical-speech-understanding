@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0012",
+ "condition": null,
+ "reference": "LESLIE OPENED THE DOOR",
+ "audio_seconds": 2.17,
+ "created_at": "2026-07-06T02:40:07+00:00",
+ "failed": false,
+ "text": "Lizzy, open the door.",
+ "seconds": 4.58
+}

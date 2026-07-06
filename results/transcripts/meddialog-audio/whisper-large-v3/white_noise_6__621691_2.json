@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__621691_2",
+ "condition": "white_noise_6",
+ "reference": "First of all, you need to determine the cause of that. A high eosinophil count may be due to many reasons, such as allergy, asthma, hypersensitivity, parasitic infection, idiopathic causes, etc. We have to find out why the eosinophil count is high and then take treatment accordingly. You will definitely benefit from it.",
+ "audio_seconds": 18.77,
+ "created_at": "2026-07-06T04:37:55+00:00",
+ "failed": false,
+ "text": "you need to determine the cause of that. A high eosinophil count may be due to many reasons such as allergies, asthma, hypersensitivity, parasitic infections, idiopathic causes, etc. You have to find out why the eosinophil count is high and then take treatment accordingly. You will definitely benefit from it.",
+ "seconds": 0.633
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163391-0010",
+ "condition": null,
+ "reference": "NO MY NAME'S BLODGETT ELEXANDER BLODGETT REVEREND ELEXANDER BLODGETT I S'POSE I MUST SAY AS I'M ONE O THE LORD'S POOR SERVANTS",
+ "audio_seconds": 10.7,
+ "created_at": "2026-07-05T23:54:26+00:00",
+ "failed": false,
+ "text": "No, my name's Blodgett, Alexander Blodgett. Reverend Alexander Blodgett, I s'pose I must say, as I'm one of the Lord's poor servants",
+ "seconds": 0.902
+}

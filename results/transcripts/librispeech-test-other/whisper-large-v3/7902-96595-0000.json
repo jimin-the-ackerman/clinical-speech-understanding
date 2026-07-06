@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96595-0000",
+ "condition": null,
+ "reference": "SAY MESTER GURR SAID DICK AFTER ONE OF THESE SEARCHES HE WOULDN'T RUN AWAY WHAT",
+ "audio_seconds": 5.09,
+ "created_at": "2026-07-05T13:06:50+00:00",
+ "failed": false,
+ "text": "say mr girk said dick after one of these searches he wouldn't run away what",
+ "seconds": 0.261
+}

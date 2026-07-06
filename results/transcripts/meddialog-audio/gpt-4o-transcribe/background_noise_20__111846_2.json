@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__111846_2",
+ "condition": "background_noise_20",
+ "reference": "Dear user, unfortunately, it is impossible to say what this might be without the benefit of actually seeing it.",
+ "audio_seconds": 6.91,
+ "created_at": "2026-07-06T00:41:50+00:00",
+ "failed": false,
+ "text": "Dear user, unfortunately, it is impossible to say what this might be without the benefit of actually seeing it.",
+ "seconds": 0.572
+}

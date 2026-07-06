@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__529088_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. I just read through your question. You can safely use Ibuprofen for the symptoms you describe. I would, however, consider having him seen by his doctor if the symptoms persist beyond another one-two days.",
+ "audio_seconds": 11.86,
+ "created_at": "2026-07-06T00:46:38+00:00",
+ "failed": false,
+ "text": "Hello, I just read through your question. You can safely use ibuprofen for the symptoms you described. I would, however, consider having him seen by his doctor if the symptoms persist beyond another one to two days.",
+ "seconds": 0.829
+}

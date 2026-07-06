@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96591-0015",
+ "condition": null,
+ "reference": "TO DO THIS HE MUST SCHEME LIE HID TILL MORNING THEN MAKE FOR THE NEAREST POINT AND SIGNAL FOR HELP UNLESS A BOAT'S CREW WERE ALREADY SEARCHING FOR HIM HOW TO ESCAPE",
+ "audio_seconds": 9.61,
+ "created_at": "2026-07-06T03:36:13+00:00",
+ "failed": false,
+ "text": "To do this, he must scheme, lie hid till morning, then make for the nearest point and signal for help, unless a boat's crew were already searching for him. How to escape?",
+ "seconds": 0.384
+}

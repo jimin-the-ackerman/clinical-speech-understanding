@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__830316_2",
+ "condition": "white_noise_6",
+ "reference": "It is normal for the capsule of the joint to be sore after the injury. The popping is due to ligament laxity and muscle weakness. Physiotherapy is essential for you, including muscle strengthening and stretching.",
+ "audio_seconds": 12.03,
+ "created_at": "2026-07-06T04:49:18+00:00",
+ "failed": false,
+ "text": "It is normal for the capsule of the joint to be sore after the injury. The popping is due to ligament laxity and muscle weakness. Physiotherapy is essential for you, including muscle strengthening and stretching.",
+ "seconds": 0.196
+}

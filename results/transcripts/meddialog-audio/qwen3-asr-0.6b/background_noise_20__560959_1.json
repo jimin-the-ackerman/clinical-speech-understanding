@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__560959_1",
+ "condition": "background_noise_20",
+ "reference": "Today I noticed irritation around my panty line while walking, and when I went to the bathroom, it hurt when I wiped. I felt the area that hurt, and there is a large red bump on the left side of my labia. It is swollen around the bump and sensitive to touch. I haven't shaved in a week, and this is the first time I have noticed it at all. I am also a day short of thirty-six weeks pregnant. What is this?",
+ "audio_seconds": 25.43,
+ "created_at": "2026-07-06T04:51:30+00:00",
+ "failed": false,
+ "text": "Today I noticed irritation around my pantline while walking, and when I went to the bathroom, it hurt. Wiped. I felt the area that hurt, and there is a large red bump on the left side of my labia. It is swollen around the bump and sensitive to touch. I haven't shaved in a week, and this is the first time I have noticed it at all. I am also a day short of thirty-six weeks pregnant. What is this?",
+ "seconds": 0.856
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__890973_1",
+ "condition": "background_noise_60",
+ "reference": "I had an occipital nerve block on the right side of my head on Wednesday of this week. I am still experiencing tenderness, pain, and, worst of all, migraines. I have never had this type of reaction before and was wondering if this is a normal response or something I need to have checked?",
+ "audio_seconds": 17.58,
+ "created_at": "2026-07-06T00:44:32+00:00",
+ "failed": false,
+ "text": "I had an occipital nerve block on the right side of my head on Wednesday of this week. I am still experiencing tenderness, pain, and worst of all, migraines. I have never had this type of reaction before and was wondering if this is a normal response or something I need to have checked.",
+ "seconds": 1.064
+}

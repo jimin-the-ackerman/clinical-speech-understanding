@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__556112_1",
+ "condition": "white_noise_6",
+ "reference": "For the past six weeks, I have been feeling a burning sensation at the end of my right shoulder near my spine, and the skin feels numb to the touch and itchy. I keep stretching it out, but it does not help. I am a builder, and I have started bodybuilding over the past seven months. I am used to experiencing pain between my shoulder blades from excessive work and repetitive movements, but this is a different pain. I feel it more when I am rested.",
+ "audio_seconds": 24.83,
+ "created_at": "2026-07-06T05:13:30+00:00",
+ "failed": false,
+ "text": "For the past few months, I have been feeling a burning sensation at the end of my right shoulder and my spine, and the symptoms have been to the point of extreme itch. I keep checking it out, but it does not help. I am older and in dire need of a bodybuilding event in a month. I am used to experiencing pain between my shoulder blades from excessive work and repetitive movements, but this is a different pain. I feel it more when I am resting.",
+ "seconds": 0.866
+}

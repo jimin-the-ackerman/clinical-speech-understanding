@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-156975-0022",
+ "condition": null,
+ "reference": "THESE SAND WANDERERS SENT HIM ON FROM TRIBE TO TRIBE UNTIL HE REACHED THE LAND OF KEDEM EAST OF THE DEAD SEA WHERE HE REMAINED FOR A YEAR AND A HALF",
+ "audio_seconds": 13.51,
+ "created_at": "2026-07-06T03:16:03+00:00",
+ "failed": false,
+ "text": "These sand wanderers sent him on from tribe to tribe until he reached the land of Kedum, east of the Dead Sea, where he remained for a year and a half.",
+ "seconds": 0.375
+}

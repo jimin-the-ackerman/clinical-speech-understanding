@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__921945_2",
+ "condition": "white_noise_2",
+ "reference": "Hello, fibromyalgia is a bit difficult to diagnose since there are no scans or blood tests for it. It really is a diagnosis of exclusion, made when all other possibilities are ruled out. It does require paired areas of trigger points throughout the body. If most of your joints are involved, that is more likely an autoimmune disorder like rheumatoid arthritis.",
+ "audio_seconds": 22.61,
+ "created_at": "2026-07-06T04:48:02+00:00",
+ "failed": false,
+ "text": "Hello, fibromyalgia is a bit difficult to diagnose since there are no scans or blood tests for it. It really is a diagnosis of exclusion, made when all other possibilities are ruled out. It does require paired areas of trigger points throughout the body. If most of your joints are involved, that is more likely an autoimmune disorder like rheumatoid arthritis.",
+ "seconds": 0.239
+}

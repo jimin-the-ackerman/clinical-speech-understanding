@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__158104_1",
+ "condition": "clean",
+ "reference": "My five-year-old son fell a few weeks ago and grazed his knee quite badly. It started to heal nicely, except he keeps falling on the same spot and has opened up the scab a few times, and now it seems a little pus-filled. We have been treating it with Betadine, but he seems to have developed red spots going up his leg and one or two on the other leg. What would you suggest? Should I take him to the general practitioner?",
+ "audio_seconds": 22.78,
+ "created_at": "2026-07-06T05:27:24+00:00",
+ "failed": false,
+ "text": "My five-year-old son fell a few weeks ago and grazed his knee quite badly. It started to heal nicely, except he keeps falling on the same spot and has opened up the scab a few times, and now it seems a little pus-filled. We have been treating it with betadine, but he seems to have developed red spots going up his leg and one or two on the other leg. What would you suggest? Should I take him to the general practitioner?",
+ "seconds": 0.903
+}

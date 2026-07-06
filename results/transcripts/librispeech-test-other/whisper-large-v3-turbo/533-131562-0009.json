@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131562-0009",
+ "condition": null,
+ "reference": "I SHALL PUT YOU UPON A SMALL MONTHLY ALLOWANCE IN FUTURE FOR YOUR OWN PRIVATE EXPENSES AND YOU NEEDN'T TROUBLE YOURSELF ANY MORE ABOUT MY CONCERNS I SHALL LOOK OUT FOR A STEWARD MY DEAR I WON'T EXPOSE YOU TO THE TEMPTATION",
+ "audio_seconds": 14.8,
+ "created_at": "2026-07-05T13:12:18+00:00",
+ "failed": false,
+ "text": "i shall put you up in a small monthly allowance in future for your own private expenses and you needn't trouble yourself any more about my concerns i shall look out for a steward my dear i won't expose you to the temptation",
+ "seconds": 0.141
+}

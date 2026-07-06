@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0029",
+ "condition": null,
+ "reference": "THEN IT WAS SAID OF LARCH THAT SOON AFTER THE ECHOES OF THE WEDDING CHIMES HAD DIED AWAY HE HAD BEGUN TO TREAT HIS WIFE WITH REFINED CRUELTY THAT HIDDEN AWAY FROM THE PUBLIC UNDERNEATH HIS HABITUAL MANNER THERE WAS THE RAWNESS OF THE BRUTE",
+ "audio_seconds": 14.98,
+ "created_at": "2026-07-06T02:34:24+00:00",
+ "failed": false,
+ "text": "Then it was said of large that, soon after the echoes of the wedding chimes had died away, he had begun to treat his wife with a refined cruelty. That hidden away from the public, underneath his habitual manner, there was the rawness of the brute.",
+ "seconds": 5.445
+}

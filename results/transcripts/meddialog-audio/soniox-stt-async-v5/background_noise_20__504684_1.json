@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__504684_1",
+ "condition": "background_noise_20",
+ "reference": "I had an acute kidney infection on my right side and was hospitalized for six days. I was released from the hospital ten days ago and have been taking Augmentin since then. I keep getting a tingling feeling in my left arm and my left hand seems to go numb a little, especially my pinkie. Could this be related to my kidney issue?",
+ "audio_seconds": 20.14,
+ "created_at": "2026-07-06T02:47:47+00:00",
+ "failed": false,
+ "text": "I had an acute kidney infection on my right side and was hospitalized for 6 days. I was released from the hospital 10 days ago and have been taking Augmentin since then. I keep getting a tingling feeling in my left arm and my left hand seems to go numb a little, especially my pinky. Could this be related to my kidney issue?",
+ "seconds": 9.053
+}

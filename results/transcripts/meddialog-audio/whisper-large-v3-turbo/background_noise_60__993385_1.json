@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__993385_1",
+ "condition": "background_noise_60",
+ "reference": "My fifteen-year-old daughter has severe learning problems and has petit mal seizures. She is taking six hundred milligrams of Epilim Chronosphere twice a day and has been taking this for about three months. She was on Epilim liquid before that. Her seizures have stopped, but she is losing her hair. Is this a temporary issue or permanent? What can I do to help her? Is there any shampoo that will stop it?",
+ "audio_seconds": 26.62,
+ "created_at": "2026-07-06T04:43:52+00:00",
+ "failed": false,
+ "text": "My 15-year-old daughter has severe learning problems and has petty seizures. She is taking 600 milligrams of epilim chronosphere twice a day and has been taking this for about three months. She was on epilim liquid before that. Her seizures have stopped, but she is losing her hair. Is this a temporary issue or permanent? What can I do to help her? Is there any shampoo that will stop it?",
+ "seconds": 0.29
+}

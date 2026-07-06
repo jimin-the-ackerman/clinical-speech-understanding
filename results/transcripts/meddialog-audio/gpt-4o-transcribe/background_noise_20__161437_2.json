@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__161437_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, sometimes during stitching an operative wound, there is involvement of tiny nerve fibers which give this type of sensation. If there is no other problem, don't worry; neglect it. It will disappear in the future.",
+ "audio_seconds": 11.86,
+ "created_at": "2026-07-06T00:41:51+00:00",
+ "failed": false,
+ "text": "Hi, sometimes during stitching an operative wound, there is involvement of tiny nerve fibers which give this type of sensation. If there is no other problem, don't worry, neglect it. It will disappear in the future.",
+ "seconds": 0.937
+}

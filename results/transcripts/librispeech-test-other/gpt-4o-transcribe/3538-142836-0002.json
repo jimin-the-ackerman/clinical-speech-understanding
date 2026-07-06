@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-142836-0002",
+ "condition": null,
+ "reference": "FRUIT GATHERED IN WET OR FOGGY WEATHER WILL SOON BE MILDEWED AND BE OF NO SERVICE FOR PRESERVES",
+ "audio_seconds": 5.64,
+ "created_at": "2026-07-05T23:55:00+00:00",
+ "failed": false,
+ "text": "Fruit gathered in wet or foggy weather will soon be mildewed, and be of no service for preserves.",
+ "seconds": 1.028
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163391-0018",
+ "condition": null,
+ "reference": "BLAMED IF HE DIDN'T INQUIRE ABOUT EVERYBODY AND EVERYTHING IN THAT BLESSED TOWN AND ALL ABOUT THE WILKSES AND ABOUT PETER'S BUSINESSWHICH WAS A TANNER AND ABOUT GEORGE'SWHICH WAS A CARPENTER AND ABOUT HARVEY'SWHICH WAS A DISSENTERING MINISTER AND SO ON AND SO ON THEN HE SAYS",
+ "audio_seconds": 18.11,
+ "created_at": "2026-07-06T03:28:30+00:00",
+ "failed": false,
+ "text": "Blamed if he didn't inquire about everybody and everything in that blessed town, and all about the Wilkeses, and about Peter's business, which was a tanner, and about George's, which was a carpenter, and about Harvey's, which was a dissenting minister, and so on and so on. Then he says.",
+ "seconds": 0.673
+}

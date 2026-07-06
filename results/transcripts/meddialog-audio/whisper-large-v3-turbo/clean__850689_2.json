@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__850689_2",
+ "condition": "clean",
+ "reference": "Hi. Is it a fishy smell? Is the discharge thin and milky or cottage cheese-like? If yes, you seem to be suffering from bacterial vaginosis along with a yeast infection. Does your partner have any symptoms too? Please stop douching; it tends to wash away the good protective bacterial flora of the vagina and does more harm than good. Increase the probiotic portion in your food. You need to take clotrimazole and clindamycin vaginal pessaries every night before going to bed for six nights. If your partner has symptoms, tell him to take a two-gram single dose of secnidazole. Avoid sex for the six nights. Try to use condoms; it greatly reduces the episodes of vaginal infections and sexually transmitted infections.",
+ "audio_seconds": 42.24,
+ "created_at": "2026-07-06T04:45:03+00:00",
+ "failed": false,
+ "text": "Hi, is it a fail? Is the discharge thin and milky or cottage cheese-like? If yes, you seem to be suffering from bacterial vaginosis along with a yeast infection. Does your partner have any symptoms too? Please stop douching. It tends to wash away the good protective bacterial flora of the vagina and does more harm than good. Increase the probiotic portion in your food. You need to take clot tremazole and clindamycin vaginal pessaries every night before going to bed for six nights. If your partner has symptoms, tell him to take a two gram single dose of secnidazole. Avoid sex for the six nights. Try to use condoms. It greatly reduces the episodes of vaginal infections and sexually transmitted infections.",
+ "seconds": 0.431
+}

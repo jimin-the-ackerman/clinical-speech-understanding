@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__800674_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, I think you should get yourself evaluated first. Please do a thyroid profile, check your prolactin levels, and have an ultrasound for your ovaries. A semen analysis of your husband should also be done. In vitro fertilization injections will increase the chance of pregnancy, but I think you may need to expedite the process by undergoing intrauterine insemination or in vitro fertilization. Please talk to your doctor regarding this.",
+ "audio_seconds": 25.17,
+ "created_at": "2026-07-06T04:40:39+00:00",
+ "failed": false,
+ "text": "Hi, I think you should get yourself evaluated first. Please do a thyroid profile, check your prolactin levels, and have an ultrasound for your ovaries. A semen analysis of your husband should also be done. In vitro fertilization injections will increase the chance of pregnancy, but I think you may need to expedite the process by undergoing intrauterine insemination or in vitro fertilization. Please talk to your doctor regarding this.",
+ "seconds": 0.287
+}

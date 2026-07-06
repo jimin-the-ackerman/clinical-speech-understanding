@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__729575_1",
+ "condition": "white_noise_10",
+ "reference": "I am female, twenty-eight years old. I have lupus nephritis stage four. I am on CellCept three thousand. I took one pill of Imodium a few days ago to stop diarrhea since I was traveling by plane. I was throwing up on the plane. Since then, I have some abdominal swelling and constipation. Could the Imodium have affected my kidneys? What should I do?",
+ "audio_seconds": 22.61,
+ "created_at": "2026-07-06T00:46:01+00:00",
+ "failed": false,
+ "text": "I can't just keep going.",
+ "seconds": 0.595
+}

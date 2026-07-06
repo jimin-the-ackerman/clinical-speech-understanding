@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__303974_1",
+ "condition": "white_noise_2",
+ "reference": "I had a zit-like pimple between my right testicle and my perineum, kind of in the scrotal area. It acted like a normal zit, releasing a mixture of pus and blood, and it emptied out practically when I popped it. However, it released an awful odor for a long time. I have had it for two days now. I woke up this morning and found the skin on my inner thigh near my genitals peeling off. What is going on?",
+ "audio_seconds": 26.2,
+ "created_at": "2026-07-06T03:05:44+00:00",
+ "failed": false,
+ "text": "I had a zit-like pimple between my right testicle and my perineum, kind of in the scrotal area. It acted like a normal zit, really. Mixture of pus and blood, and it emptied out practically when I popped it. However, it released an awful odor for a long time. I have had it for 2 days now. I woke up this morning and found the skin on my inner thigh near my genitals peeling off. What is going on?",
+ "seconds": 4.999
+}

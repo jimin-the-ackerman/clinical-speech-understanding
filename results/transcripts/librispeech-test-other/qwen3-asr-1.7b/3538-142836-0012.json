@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-142836-0012",
+ "condition": null,
+ "reference": "THEY SHOULD BE DRIED IN THE STOVE OR OVEN ON A SIEVE AND TURNED EVERY SIX OR EIGHT HOURS FRESH POWDERED SUGAR BEING SIFTED OVER THEM EVERY TIME THEY ARE TURNED",
+ "audio_seconds": 9.54,
+ "created_at": "2026-07-06T03:29:49+00:00",
+ "failed": false,
+ "text": "They should be dried in the stove or oven on a sieve, and turned every six or eight hours. Fresh powdered sugar being sifted over them every time they are turned.",
+ "seconds": 0.351
+}

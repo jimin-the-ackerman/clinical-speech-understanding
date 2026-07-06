@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0004",
+ "condition": null,
+ "reference": "HOWEVER DON'T THINK I'M NOT INTERESTED IN YOUR CASE I'VE FISHED ENOUGH FOR TO DAY",
+ "audio_seconds": 5.42,
+ "created_at": "2026-07-06T02:34:07+00:00",
+ "failed": false,
+ "text": "However. Don't think I'm not interested in your case; I've finished enough for today.",
+ "seconds": 4.598
+}

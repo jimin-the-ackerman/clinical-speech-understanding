@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__787326_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, this is about my daughter. She has a lump at the back of her head on the left side, near her neck, and I want to know if it can be treated with medication and what I can give her. I am worried because she is eight years old. Please, Doctor, help me. She does not have any pain, but it does hurt if you press it. There are no additional symptoms, just like a lump.",
+ "audio_seconds": 23.13,
+ "created_at": "2026-07-06T05:10:53+00:00",
+ "failed": false,
+ "text": "Hello doctor, this is about my daughter. She has a lump at the back of her head on the left side, near her neck, and I want to know if it can be treated with medication and what I can give her. I am worried because she is eight years old. Please doctor, help me. She does not have any pain, but it does hurt if you press it. There are no additional symptoms, just like a lump.",
+ "seconds": 0.807
+}

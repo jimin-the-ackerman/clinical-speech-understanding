@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__970357_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, I am twenty years old. I had an unplanned pregnancy. My partner and I decided to have an abortion. I was not sure whether I was pregnant or not because I did not take a pregnancy test. Without taking the pregnancy test, I took an abortion kit, which is similar to the Mifegest kit, in the third week. On the second day, I experienced heavy bleeding and I saw a piece of flesh. I wanted to confirm whether I was pregnant or not. It has been a week since taking the abortion pills, and I am still experiencing bleeding.",
+ "audio_seconds": 32.26,
+ "created_at": "2026-07-06T05:11:37+00:00",
+ "failed": false,
+ "text": "Hello doctor, I am twenty years old. I had an unplanned pregnancy. My partner and I decided to have an abortion. I was not sure whether I was pregnant or not because I did not take a pregnancy test. Without taking the pregnancy test, I took an abortion kit, which is similar to the MyFED Just kit. In the third week, on the second day, I experienced heavy bleeding and I saw a piece of flesh. I wanted to confirm whether I was pregnant or not. It has been a week since taking the abortion pills, and I am still experiencing bleeding.",
+ "seconds": 1.057
+}

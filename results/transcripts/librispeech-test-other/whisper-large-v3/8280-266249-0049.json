@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0049",
+ "condition": null,
+ "reference": "THEN MISTER LILBURN WAKING FROM HIS FIRST SLEEP IN A STATEROOM NEAR BY THOUGHT HE WOULD BREAK IT UP ONCE MORE",
+ "audio_seconds": 6.68,
+ "created_at": "2026-07-05T13:08:37+00:00",
+ "failed": false,
+ "text": "then mr lilborn waking from his first sleep in a state-room near by thought he would break it up once more",
+ "seconds": 0.252
+}

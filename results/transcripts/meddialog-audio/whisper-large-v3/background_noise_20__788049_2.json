@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__788049_2",
+ "condition": "background_noise_20",
+ "reference": "Hello, I really appreciate your concern. There are several conditions that could be causing the symptoms you have described. The first is a stone condition of the urethra, urethritis, an infection, or referred pain. For the right diagnosis, it needs to be differentiated. Until then, diclofenac can be tried. I hope this information helps.",
+ "audio_seconds": 20.31,
+ "created_at": "2026-07-06T04:16:12+00:00",
+ "failed": false,
+ "text": "Hello. I really appreciate your concern. There are several conditions that could be causing the symptoms you have described. The first is a stone condition of the urethra, urethrus, an infection, or referred pain. For the right diagnosis, it needs to be differentiated. Until then, diclofenac can be tried. I hope this information helps.",
+ "seconds": 0.634
+}

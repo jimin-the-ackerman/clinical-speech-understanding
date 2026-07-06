@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__786385_2",
+ "condition": "background_noise_20",
+ "reference": "Well, there are only three modalities of treatment: chemotherapy, radiation, and monoclonal antibody therapy. Now, after receiving a transplant, you definitely need to be visiting your doctor as compliance has to be checked. So trust the treatment.",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T00:42:32+00:00",
+ "failed": false,
+ "text": "Well, there are only three modalities of treatment: chemotherapy, radiation, and monoclonal antibody therapy. Now, after receiving a transplant, you definitely need to be visiting your doctor as compliance has to be checked. So trust the treatment.",
+ "seconds": 0.857
+}

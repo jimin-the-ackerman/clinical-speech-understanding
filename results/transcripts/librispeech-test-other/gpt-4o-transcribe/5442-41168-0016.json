@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41168-0016",
+ "condition": null,
+ "reference": "HAVING PUT IT IN HE RECOLLECTED THAT HE OUGHT TO HAVE THRUST HIS LEFT HAND TOO AND SO HE THRUST IT IN THOUGH TOO LATE AND STILL MORE OVERCOME WITH CONFUSION HE BEAT A HASTY RETREAT INTO THE BACKGROUND",
+ "audio_seconds": 13.22,
+ "created_at": "2026-07-05T23:56:33+00:00",
+ "failed": false,
+ "text": "Having put it in, he recollected that he ought to have thrust his left hand too, and so he thrust it in, though too late, and still more overcome with confusion, he beat a hasty retreat into the background.",
+ "seconds": 1.03
+}

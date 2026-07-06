@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__797860_2",
+ "condition": "white_noise_6",
+ "reference": "Hello, I would be happy to help you with your question. The Depo-Provera shot is associated with more irregular cycles for the first few months after it has worn off. It actually lasts longer than three months, so it is probably not completely out of your system. Your chance of pregnancy within six to twelve months is slightly less than average because of this cycle irregularity, but this should resolve over the year. I hope that this helps, and good luck!",
+ "audio_seconds": 25.26,
+ "created_at": "2026-07-06T00:47:34+00:00",
+ "failed": false,
+ "text": "You have to take care of them.",
+ "seconds": 0.788
+}

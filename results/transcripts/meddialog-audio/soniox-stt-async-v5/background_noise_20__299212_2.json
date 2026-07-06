@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__299212_2",
+ "condition": "background_noise_20",
+ "reference": "Your immune system is low. When you have allergies, your immune system goes down, and it cannot tolerate external temperature changes. This sensitivity increases with age. Keep your external temperature between twenty-five to thirty-five degrees Celsius. Even if you are allergic to pollen and foods, the body reacts to cold and very hot temperatures. Therefore, get your allergies diagnosed through allergy tests and seek treatment to improve your immunity.",
+ "audio_seconds": 27.82,
+ "created_at": "2026-07-06T02:47:04+00:00",
+ "failed": false,
+ "text": "Your immune system is low; when you have allergies, your immune system goes down, and it cannot tolerate external temperature changes. This sensitivity increases with age. Keep your external temperature between 25-35°C, even if you are allergic to pollen and foods; the body reacts to cold and very hot temperatures. Therefore, get your allergies diagnosed through allergy tests and seek treatment to improve your immunity.",
+ "seconds": 8.083
+}

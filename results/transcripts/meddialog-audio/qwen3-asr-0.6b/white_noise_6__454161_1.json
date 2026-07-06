@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__454161_1",
+ "condition": "white_noise_6",
+ "reference": "Hello! My doctor says I am having too much tension and I should relax more. He has given me Rinifol capsules, Medley O2H, and Zeegut capsules. In the past, I had a stone in my right kidney, though it was not that big. What does he mean? What are the capsules for? I could have asked him, but he won't tell me as I am not that old.",
+ "audio_seconds": 20.74,
+ "created_at": "2026-07-06T05:12:59+00:00",
+ "failed": false,
+ "text": "Hello, my doctor says I am having too much tension and I should relax more. He has given me ring of capsules, medley of O T H, and even a capsule from the past. I had a stone in my right kidney. Go it was not that big. What does he need? What are the capsules for? I could have asked him, but he will tell me as I am not that old.",
+ "seconds": 0.765
+}

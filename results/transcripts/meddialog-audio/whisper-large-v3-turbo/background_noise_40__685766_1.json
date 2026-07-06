@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__685766_1",
+ "condition": "background_noise_40",
+ "reference": "Hello :) I have had what I thought was thrush since Christmas. I went to the doctor and was given two weeks of pediatric medicine for thrush and then some stronger pills. I am not sure if they were antibiotics, and it is still not cleared up. I typed in some of my symptoms and Candida came up, and I have almost all of the symptoms. :( I smoke marijuana most days. Do you think this is causing it?",
+ "audio_seconds": 26.28,
+ "created_at": "2026-07-06T04:41:56+00:00",
+ "failed": false,
+ "text": "Hello. I have had what I thought was thrush since Christmas. I went to the doctor and was given two weeks of pediatric medicine for thrush and then some stronger pills. I am not sure if they were antibiotics and it is still not cleared up. I typed in some of my symptoms and candida came up and I have almost all of the symptoms. I smoke on them most days. Do you think this is causing it?",
+ "seconds": 0.272
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7105-2340-0034",
+ "condition": null,
+ "reference": "MISSUS PETER TURNED TO HER GUEST WITH CONFIDENTIAL COYNESS",
+ "audio_seconds": 4.08,
+ "created_at": "2026-07-06T03:24:02+00:00",
+ "failed": false,
+ "text": "Missus Peter turned to her guest with confidential kindness.",
+ "seconds": 0.148
+}

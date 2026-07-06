@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__706005_2",
+ "condition": "clean",
+ "reference": "Hello. I just read through your question. Although I don't believe there is anything you need to do right now, pay close attention to the increase in head circumference over the next few visits to the doctor. If it remains normal, there is no need to worry.",
+ "audio_seconds": 14.34,
+ "created_at": "2026-07-06T05:03:07+00:00",
+ "failed": false,
+ "text": "Hello, I just read through your question. Although I don't believe there is anything to do right now, pay close attention to the increase in head circumference over the next few visits to the doctor. If it remains normal, there is no need to worry.",
+ "seconds": 0.487
+}

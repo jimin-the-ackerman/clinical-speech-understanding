@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__197736_1",
+ "condition": "white_noise_10",
+ "reference": "My boyfriend and I were treated for chlamydia on Monday, and we did not vomit the antibiotics. It is Wednesday now, and we had sex using a condom. Is this okay? I am really nervous that we could get re-infected. I will contact the health unit, but will we be okay?",
+ "audio_seconds": 18.09,
+ "created_at": "2026-07-06T05:04:49+00:00",
+ "failed": false,
+ "text": "My boyfriend and I received a call from the on number, and he did not want to be notified. It is one second on, and the next second we must call it. Is it okay? I'm really nervous though to get the information. I will contact the hospital, but the radio.",
+ "seconds": 0.563
+}

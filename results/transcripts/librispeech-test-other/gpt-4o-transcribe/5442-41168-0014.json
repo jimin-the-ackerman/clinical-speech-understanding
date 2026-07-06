@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41168-0014",
+ "condition": null,
+ "reference": "SERGEY IVANOVITCH FROWNED",
+ "audio_seconds": 2.29,
+ "created_at": "2026-07-05T23:56:32+00:00",
+ "failed": false,
+ "text": "Sozi Iwanewicz Kraund.",
+ "seconds": 2.297
+}

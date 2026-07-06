@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__415344_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, I have a small, pea-sized lump under the skin on the pad of my left thumb. It does not hurt, but it is very hard. I think it may be a calcium deposit because I had one of those about a year ago, and I cut it out of my arm. How do I get rid of it or find out what it is?",
+ "audio_seconds": 19.37,
+ "created_at": "2026-07-06T04:39:58+00:00",
+ "failed": false,
+ "text": "Hi, I have a small pea-sized lump under the skin on the pad of my left thumb. It does not hurt, but it is very hard. I think it may be a calcium deposit because I had one of those about a year ago and I cut it out of my arm. How do I get rid of it or find out what it is?",
+ "seconds": 0.264
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__689964_1",
+ "condition": "white_noise_10",
+ "reference": "Hello, I am a service holder, age twenty-eight. My wife is a banker, age twenty-six. Several years have passed, and there has been a mental conflict between my wife and my family that is still ongoing. In every situation, I feel I have nothing to do. I always want peace, but now my wife does not like my family, and my family does not like her. I am also disliked by everyone. I am trying to understand her, but I could not. What type of activities can I engage in to address this problem?",
+ "audio_seconds": 33.88,
+ "created_at": "2026-07-06T00:45:59+00:00",
+ "failed": false,
+ "text": "The same as that of the fish, but not for long.",
+ "seconds": 0.876
+}

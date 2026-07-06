@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__918213_1",
+ "condition": "white_noise_10",
+ "reference": "When I masturbate, my penis becomes erect properly, but during sexual intercourse, it loses its hardness in a couple of minutes and then it just comes out. I recently started having sex but still managed to maintain hardness for a minute or two before it becomes softer and starts to come out. Please help.",
+ "audio_seconds": 15.87,
+ "created_at": "2026-07-06T00:46:10+00:00",
+ "failed": false,
+ "text": "The next day, the same workstation hosted a different meeting.",
+ "seconds": 0.929
+}

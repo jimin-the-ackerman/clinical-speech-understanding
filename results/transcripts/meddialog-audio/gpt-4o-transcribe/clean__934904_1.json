@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__934904_1",
+ "condition": "clean",
+ "reference": "I was diagnosed with a respiratory virus and shortly after with restrictive airway disease. My upper throat and the area between my ears is very sore with no visible redness. My coughing was pretty intense. Could there be an infection in my throat that is not visible? My glands are swollen.",
+ "audio_seconds": 18.09,
+ "created_at": "2026-07-06T00:45:35+00:00",
+ "failed": false,
+ "text": "I was diagnosed with a respiratory virus and shortly after with restrictive airway disease. My upper throat and the area between my ears is very sore with no visible redness. My coughing was pretty intense. Could there be an infection in my throat that is not visible? My glands are swollen.",
+ "seconds": 1.326
+}

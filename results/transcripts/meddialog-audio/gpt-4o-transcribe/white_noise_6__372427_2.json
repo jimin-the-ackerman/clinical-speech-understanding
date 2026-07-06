@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__372427_2",
+ "condition": "white_noise_6",
+ "reference": "Back pain is most probably due to back muscle weakness. If the magnetic resonance imaging is normal, that means there is no nerve compression. I would suggest starting her on calcium and vitamin B12 therapy. She should also take a muscle relaxant and apply diclofenac ointment. Additionally, warm water on her back during showers will also help.",
+ "audio_seconds": 22.53,
+ "created_at": "2026-07-06T00:47:15+00:00",
+ "failed": false,
+ "text": "The next morning a rocket landed in the house.",
+ "seconds": 0.763
+}

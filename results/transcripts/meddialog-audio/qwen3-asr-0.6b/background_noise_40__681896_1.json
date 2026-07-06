@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__681896_1",
+ "condition": "background_noise_40",
+ "reference": "I have a calcified granuloma in one of my right lower pelvic iliac chain lymph nodes. I have been experiencing a lot of pain in my lower right back and lower abdomen. I went to the doctor, and they ordered a computed tomography scan, which showed that there is more calcification appearing in the lymph node. The doctor has prescribed six hundred to eight hundred milligrams of ibuprofen three times a day. Is there anything else that I could do for the pain? It seems like a lot of Motrin, and could this be causing so much pain?",
+ "audio_seconds": 29.01,
+ "created_at": "2026-07-06T04:55:51+00:00",
+ "failed": false,
+ "text": "I have a calcified granuloma in one of my right lower pelvic iliac lymph nodes. I have been experiencing a lot of pain in my lower right back and lower abdomen. I went to the doctor, and they ordered a computed tomography scan, which showed that there is more calcium appearing in one node. The doctor has prescribed six hundred to eight hundred milligrams of ibuprofen three times a day. Is there anything else that I could do for the pain? It seems like a lot of motrin, and could this be causing so much pain?",
+ "seconds": 1.012
+}

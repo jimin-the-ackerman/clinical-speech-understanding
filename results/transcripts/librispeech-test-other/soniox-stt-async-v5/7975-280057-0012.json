@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280057-0012",
+ "condition": null,
+ "reference": "NOW OLD LADY CALL ON YOUR PROTECTORS WHY DON'T YOU CALL ON COLE YOUNGER NOW",
+ "audio_seconds": 4.81,
+ "created_at": "2026-07-06T02:37:52+00:00",
+ "failed": false,
+ "text": "Now, lady, call on your protectors; why don't you call on Cole Younger now?",
+ "seconds": 4.856
+}

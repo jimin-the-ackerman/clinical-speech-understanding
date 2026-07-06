@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__162823_2",
+ "condition": "white_noise_6",
+ "reference": "High temperature above forty degrees Celsius affects brain function and can lead to seizures. Once the temperature cools down, the seizures will go away and are unlikely to return unless the temperature rises significantly again. As for high liver enzymes, this indicates hepatitis, which is inflammation of the liver. This is probably what caused the fever in the first place. You need a blood test to determine which type of hepatitis your child has.",
+ "audio_seconds": 24.49,
+ "created_at": "2026-07-06T04:48:13+00:00",
+ "failed": false,
+ "text": "High temperature above 40 degrees celsius affects brain function and human diseases. Once the temperature cools down the seizures will go away and are unlikely to return unless the temperature rises significantly again. As for high liver enzymes, this indicates hepatitis, which is inflammation of the liver. This is probably what caused the seizure in the first case. You need a blood test to determine which hydropatitis is piled up.",
+ "seconds": 0.266
+}

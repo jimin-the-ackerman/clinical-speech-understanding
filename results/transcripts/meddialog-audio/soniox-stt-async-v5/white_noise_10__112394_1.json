@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__112394_1",
+ "condition": "white_noise_10",
+ "reference": "Hello Doctor, for the last week, I have been having issues with my erection at bedtime. I am thirty-five years old. Please suggest some medicines to be taken at bedtime to have a relationship with my wife without any problems. I am feeling very bad at bedtime. I used an oil one week ago, and since then, I have been having erection problems. Please suggest some curable medicines right now.",
+ "audio_seconds": 24.49,
+ "created_at": "2026-07-06T03:00:28+00:00",
+ "failed": false,
+ "text": "Hello, doctor. For the last week I have been having issues with my erection at bedtime. I am 35 years old; please suggest some medicines to be taken at bedtime, to have a relationship with my wife without any problems. I am feeling very bad at bedtime. I used an oil one week ago, and since then I have been having erection problems. Please suggest some durable medicines right now.",
+ "seconds": 4.825
+}

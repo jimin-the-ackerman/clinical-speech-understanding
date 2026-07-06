@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__753534_1",
+ "condition": "white_noise_10",
+ "reference": "I am a thirty-four-year-old woman. I don't know if this matters, but I just got back from a trip a few days ago. While I was there, I got what seemed to be a couple of bug bites. Over the past two days, more of what I thought were bites appeared. They start out whitish with a red ring, but within an hour, they fade to red and are very itchy. I have also had diarrhea. Are these two symptoms related? What could this be?",
+ "audio_seconds": 28.93,
+ "created_at": "2026-07-06T00:46:02+00:00",
+ "failed": false,
+ "text": "What if I don't like myself when I get older? I want someone to hold me and tell me everything's gonna be okay. And if they can't, or don't, can I?",
+ "seconds": 0.901
+}

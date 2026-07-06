@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__628027_2",
+ "condition": "white_noise_2",
+ "reference": "This is commonly seen in diabetic neuropathy, so you should have his diabetic status checked.",
+ "audio_seconds": 5.38,
+ "created_at": "2026-07-06T05:10:10+00:00",
+ "failed": false,
+ "text": "This is commonly seen in diabetic neuropathy, so you should have his diabetic status checked.",
+ "seconds": 0.2
+}

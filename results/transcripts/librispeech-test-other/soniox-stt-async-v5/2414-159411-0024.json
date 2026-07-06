@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-159411-0024",
+ "condition": null,
+ "reference": "WHEN THEY GOT THERE THE JACKAL SAID NOW BRAHMAN SHOW ME EXACTLY WHERE YOU STOOD",
+ "audio_seconds": 6.36,
+ "created_at": "2026-07-06T00:02:23+00:00",
+ "failed": false,
+ "text": "And the guard there— The jackal said, \"Now Brahmin, show me exactly where you stood.\"",
+ "seconds": 4.696
+}

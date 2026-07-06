@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163390-0016",
+ "condition": null,
+ "reference": "MY YOU OUGHT TO SEEN OLD HENRY THE EIGHT WHEN HE WAS IN BLOOM HE WAS A BLOSSOM",
+ "audio_seconds": 6.33,
+ "created_at": "2026-07-05T23:54:23+00:00",
+ "failed": false,
+ "text": "My, you ought to seen old Henry the Eight when he was in bloom. He was a blossom.",
+ "seconds": 0.969
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164915-0015",
+ "condition": null,
+ "reference": "THEN HE BADE HIM BE SEATED AND QUESTIONED HIM AND HE REPLIED THAT HE WAS CHAMBERLAIN TO THE EMIR OF DAMASCUS AND WAS BOUND TO KING OMAR WITH PRESENTS AND THE TRIBUTE OF SYRIA",
+ "audio_seconds": 14.05,
+ "created_at": "2026-07-05T13:09:28+00:00",
+ "failed": false,
+ "text": "then he bade him be seated and questioned him and he replied that he was chamberlain to the emir of damascus and was bound to king omar with presents and the tribute of syria",
+ "seconds": 0.146
+}

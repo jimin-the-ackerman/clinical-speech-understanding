@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63244-0013",
+ "condition": null,
+ "reference": "RAISE THE STANDARD AMONG THEM AND BRING ME A THOUSAND NAMES",
+ "audio_seconds": 4.14,
+ "created_at": "2026-07-05T23:57:12+00:00",
+ "failed": false,
+ "text": "Raise the standard among them, and bring me a thousand names.",
+ "seconds": 0.692
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__631815_2",
+ "condition": "white_noise_2",
+ "reference": "I have had shingles, so I know how awful it can be. He should also be on an oral antiviral medication such as acyclovir or valacyclovir at least at the beginning of the outbreak. If he cannot sleep even with the acetaminophen with codeine, consider talking with his doctor for nerve pain management, such as with gabapentin or amitriptyline. The latter is also quite sedating. Usually, gabapentin or amitriptyline is used after the rash has gone if there is residual pain.",
+ "audio_seconds": 28.33,
+ "created_at": "2026-07-06T04:47:32+00:00",
+ "failed": false,
+ "text": "I have had shingles, so I know how awful it can be. He should also be on an oral antiviral medication such as aciclovir or valaciclovir, at least at the beginning of the outbreak. If he cannot sleep even with the acetaminophen with codeine, consider talking with his doctor for nerve pain management, such as with gabapentin or amitriptyline. The latter is also quite sedating. Usually, gabapentin or amitriptyline is used after the rash is gone if there is residual pain.",
+ "seconds": 0.382
+}

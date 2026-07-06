@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28312-0003",
+ "condition": null,
+ "reference": "HEAVY HAND HEWN BEAMS CROSSED IT FROM ONE SIDE TO THE OTHER",
+ "audio_seconds": 4.05,
+ "created_at": "2026-07-05T13:12:01+00:00",
+ "failed": false,
+ "text": "heavy hand-hewn beams crossed it from one side to the other",
+ "seconds": 0.111
+}

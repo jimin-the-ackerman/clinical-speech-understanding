@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163624-0001",
+ "condition": null,
+ "reference": "THE OLD KING WENT OUT AND FOUGHT BRAVELY BUT AT LAST HIS SWORD BROKE AND HE WAS WOUNDED AND HIS MEN FLED",
+ "audio_seconds": 6.16,
+ "created_at": "2026-07-05T13:10:49+00:00",
+ "failed": false,
+ "text": "the old king went out and fought bravely but at last his sword broke and he was wounded and his men fled",
+ "seconds": 0.117
+}

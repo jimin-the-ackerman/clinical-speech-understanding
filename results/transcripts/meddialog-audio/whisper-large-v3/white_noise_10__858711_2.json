@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__858711_2",
+ "condition": "white_noise_10",
+ "reference": "If you have any doubt, you can get your electrocardiogram and stress echocardiogram done. Have you tried any muscle relaxants? Try to avoid the posture that causes you pain.",
+ "audio_seconds": 10.92,
+ "created_at": "2026-07-06T04:31:44+00:00",
+ "failed": false,
+ "text": "If you have any doubt, you can get your electrocardiogram and stress echocardiogram done. Have you tried any muscle relaxants? Try to avoid the posture that causes you pain.",
+ "seconds": 0.405
+}

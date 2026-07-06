@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__245584_2",
+ "condition": "white_noise_2",
+ "reference": "Well, Chronic Obstructive Pulmonary Disease is a possibility, but it is a remote one, especially a rare variety called Alpha-one Antitrypsin Deficiency. However, I am considering a more probable cause, something related to the heart, as the symptoms you have been experiencing may be paroxysmal nocturnal dyspnea. Given your age, heart disease is still a possibility. You might also be having some breathing difficulty due to excess weight, which may be related to obesity. At the same time, it is possible that you may have some depressive illness, sleep-related problems, or a panic attack. At home, you can measure your Body Mass Index and try to normalize it by reducing your weight, minimize mental or physical stressors, and if the difficulty breathing continues, contact a physician nearby.",
+ "audio_seconds": 50.26,
+ "created_at": "2026-07-06T05:08:35+00:00",
+ "failed": false,
+ "text": "Well, chronic obstructive pulmonary disease is a possibility, but it is a remote one, especially a rare variety called alpha one antitrypsin deficiency. However, I am considering a more probable cause, something related to the heart, as the symptoms you have been experiencing may be paroxysmal nocturnal dyspnea. Given your age, heart disease is still a possibility. You might also be having some breathing difficulty due to excess weight, which may be related to obesity. At the same time, it is possible that you may have some depressive illness, sleep-related problems, or a panic attack. At home, you can measure your body mass index and try to normalize it by reducing your weight, minimize mental or physical stressors, and if the difficulty breathing continues, contact a physician nearby.",
+ "seconds": 1.471
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "367-130732-0033",
+ "condition": null,
+ "reference": "THIS BUTTER IS MADE AS FOLLOWS PLACE THE SHELLS ON A BAKING SHEET IN THE OVEN TO DRY LET THE SHELLS COOL AND THEN POUND THEM IN A MORTAR WITH A LITTLE LOBSTER CORAL AND FOUR OUNCES OF FRESH BUTTER THOROUGHLY BRUISING THE WHOLE TOGETHER SO AS TO MAKE A FINE PASTE",
+ "audio_seconds": 15.91,
+ "created_at": "2026-07-05T23:55:14+00:00",
+ "failed": false,
+ "text": "This butter is made as follows: Place the shells on a baking sheet in the oven to dry, let the shells cool and then pound them in a mortar with a little lobster coral and four ounces of fresh butter, thoroughly bruising the whole together so as to make a fine paste.",
+ "seconds": 1.093
+}

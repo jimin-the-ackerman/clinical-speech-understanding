@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117029-0012",
+ "condition": null,
+ "reference": "THERE WAS A GRIN ON THE OTHER'S FACE",
+ "audio_seconds": 2.68,
+ "created_at": "2026-07-05T23:58:27+00:00",
+ "failed": false,
+ "text": "There was a grin on the other's face.",
+ "seconds": 0.597
+}

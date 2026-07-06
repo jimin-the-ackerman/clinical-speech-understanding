@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24318-0009",
+ "condition": null,
+ "reference": "THE POWER WHICH DELIVERED HIM OVER TO DEATH JUST AT THAT MOMENT WAS NOT NEMESIS NO IT WAS A KINDLY DEITY",
+ "audio_seconds": 7.25,
+ "created_at": "2026-07-06T03:21:44+00:00",
+ "failed": false,
+ "text": "The power which delivered him over to death just at that moment was not Nemesis. No, it was a kindly deity.",
+ "seconds": 0.262
+}

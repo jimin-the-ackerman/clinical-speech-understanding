@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__436454_1",
+ "condition": "white_noise_2",
+ "reference": "I am six months pregnant, and my husband is experiencing symptoms that seem to be prostatitis. He is also having some mild sweating at night. I have been diagnosed with a urinary tract infection by my obstetrician-gynecologist, and I am on antibiotics. Is sex putting the baby at risk? He cannot ejaculate right now. He says it itches really badly when he tries.",
+ "audio_seconds": 24.49,
+ "created_at": "2026-07-06T05:09:19+00:00",
+ "failed": false,
+ "text": "I am six months pregnant, and my husband is experiencing symptoms that seem to be croup or titties. He is also having some mild sweating at night. I have been diagnosed with a urinary tract infection by my obstetrician-dermatologist, and I am on antibiotics. Is sex putting a baby at risk? He cannot ejaculate right now. He says it itch is really badly waydries.",
+ "seconds": 0.758
+}

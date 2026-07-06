@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__302127_1",
+ "condition": "clean",
+ "reference": "My treatment for infertility is ongoing and I have polycystic ovary syndrome problem. Recently, the doctor gave me human chorionic gonadotropin injection and suggested that I take Duphaston for the first fifteen days and Metformin until I confirm my pregnancy. Can this help me achieve pregnancy? When should I check or diagnose my pregnancy?",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T05:01:25+00:00",
+ "failed": false,
+ "text": "My treatment for infertility is ongoing, and I have polycystic ovary syndrome problem. Recently, the doctor gave me human chorionic gonadotropin injection and suggested that I take dofastin for the first fifteen days and metformin until I confirm my pregnancy. Can this help me achieve pregnancy? When should I diagnose my pregnancy?",
+ "seconds": 0.646
+}

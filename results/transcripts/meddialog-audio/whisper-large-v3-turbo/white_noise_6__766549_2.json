@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__766549_2",
+ "condition": "white_noise_6",
+ "reference": "First, check your Thyroid Stimulating Hormone level and Serum Prolactin. Take medication if the values are abnormal. Reduce weight. On the day of your period, start with Clomiphene or Letrozole, then proceed for follicular study along with your husband's semen analysis.",
+ "audio_seconds": 16.81,
+ "created_at": "2026-07-06T04:49:10+00:00",
+ "failed": false,
+ "text": "First, check your thyroid-stimulating hormone level and serum prolactin. Take medication if the values are abnormal. Reduce weight. On the day of your period, start with clomiphene or letrozol, then proceed for follicular study along with your husband's semen analysis.",
+ "seconds": 0.253
+}

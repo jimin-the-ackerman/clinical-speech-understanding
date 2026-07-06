@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__251195_2",
+ "condition": "clean",
+ "reference": "Muscle ache and weakness are known side effects of the vaccine. Anemia can be due to various reasons, though. Usually, such side effects go away with time, but it has been two months now. I would suggest you see your family doctor and get yourself examined and tested first. Alternative therapy, such as homeopathy, can help you with these symptoms.",
+ "audio_seconds": 22.95,
+ "created_at": "2026-07-06T04:44:05+00:00",
+ "failed": false,
+ "text": "Muscle ache and weakness are known side effects of the vaccine. Anemia can be due to various reasons, though. Usually, such side effects go away with time, but it has been two months now. I would suggest you see your family doctor and get yourself examined and tested first. Alternative therapy, such as homeopathy, can help you with these symptoms.",
+ "seconds": 0.258
+}

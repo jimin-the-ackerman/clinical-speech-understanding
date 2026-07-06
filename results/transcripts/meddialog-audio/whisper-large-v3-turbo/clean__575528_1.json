@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__575528_1",
+ "condition": "clean",
+ "reference": "Hello doctor, I have had a delayed period by three days. For the last few days, I have been experiencing a high temperature at certain times of the day, which eventually subsides. I feel a heaviness inside and have been getting headaches. I am unable to sit in certain positions, and I have food cravings. Am I pregnant?",
+ "audio_seconds": 19.29,
+ "created_at": "2026-07-06T04:44:33+00:00",
+ "failed": false,
+ "text": "Hello doctor. I have had a delayed period by three days. For the last few days, I have been experiencing a high temperature at certain times of the day, which eventually subsides. I feel a heaviness inside and have been getting headaches. I am unable to sit in certain positions and I have food cravings. Am I pregnant?",
+ "seconds": 0.215
+}

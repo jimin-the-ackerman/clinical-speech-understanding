@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269290-0023",
+ "condition": null,
+ "reference": "IF YOU ARE IN LONDON DURING THE SUMMER YOU MUST COME AND PAY US A VISIT WILL YOU",
+ "audio_seconds": 4.56,
+ "created_at": "2026-07-06T02:40:48+00:00",
+ "failed": false,
+ "text": "If you're in London during the summer, you must come in pairs to visit. Will you?",
+ "seconds": 11.97
+}

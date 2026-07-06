@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__992562_2",
+ "condition": "white_noise_10",
+ "reference": "Okay, if the itching is restricted to the head area, you should probably think about lice. You may see them, but if they are too small, you won't. Anti-lice shampoos, such as Tic Tac, or sprays are available. If the itching is all over her body and you did not notice any skin rashes or redness before the scratching began, it is advisable to do liver enzyme tests just to make sure it is not something serious. Give her Zyrtec to ease her discomfort. I hope this helps.",
+ "audio_seconds": 32.09,
+ "created_at": "2026-07-06T05:34:44+00:00",
+ "failed": false,
+ "text": "Okay, if the itching is restricted to the head area, you should probably think about lice. You may see them, but if they are too small, you won't. Anti-lice shampoos such as Ticksat sprays are available. If the itching is all over her body and you did not notice any skin rashes or redness before the scratching began, it is advisable to do liver enzyme tests just to make sure it is not something serious. Give Perziter to ease her discomfort. I hope this helps.",
+ "seconds": 1.018
+}

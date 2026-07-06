@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "6070-86744-0004",
+ "condition": null,
+ "reference": "THEN IT IS SETTLED SAID THE COUNT AND I GIVE YOU MY SOLEMN ASSURANCE THAT I ONLY WAITED AN OPPORTUNITY LIKE THE PRESENT TO REALIZE PLANS THAT I HAVE LONG MEDITATED",
+ "audio_seconds": 10.65,
+ "created_at": "2026-07-06T03:34:22+00:00",
+ "failed": false,
+ "text": "Then it is settled,\" said the Count, \"and I give you my solemn assurance that I only waited an opportunity like the present to realize plans that I have long meditated.\"",
+ "seconds": 0.362
+}

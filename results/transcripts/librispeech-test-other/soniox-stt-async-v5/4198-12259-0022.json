@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4198-12259-0022",
+ "condition": null,
+ "reference": "A LITTLE RAIN ALLAYS A GREAT DEAL OF WIND LONG TIPPLING BREAKS THE THUNDER",
+ "audio_seconds": 6.15,
+ "created_at": "2026-07-06T02:24:41+00:00",
+ "failed": false,
+ "text": "It little rain and lays a great deal of wind; long tippling breaks the thunder.",
+ "seconds": 5.19
+}

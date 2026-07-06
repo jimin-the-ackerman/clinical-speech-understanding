@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "5442-41168-0003",
+ "condition": null,
+ "reference": "SHOUTS WERE RAISED AND FOR A MOMENT ALL WAS CONFUSION SO THAT THE MARSHAL OF THE PROVINCE HAD TO CALL FOR ORDER A BALLOT",
+ "audio_seconds": 9.97,
+ "created_at": "2026-07-05T23:56:31+00:00",
+ "failed": false,
+ "text": "Shouts were raised and for a moment all was confusion, so that the marshal of the province had to call for order. A ballot!",
+ "seconds": 0.78
+}

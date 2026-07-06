@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__414313_2",
+ "condition": "white_noise_2",
+ "reference": "Eating is one of the most pleasurable events in life, but it should remain within our reach so that complications are prevented. Please have a glass of water before each meal, and add one full cucumber before each major meal so that satiety is achieved early. You can try Ayurslim, two capsules twice a day for six months.",
+ "audio_seconds": 21.76,
+ "created_at": "2026-07-06T00:46:31+00:00",
+ "failed": false,
+ "text": "Reading is wonderful, but more than that, a good human being cannot reach the foundations of life. We ourselves are born human, but at one point we become for each major meal, but society is a stupid ruin. You think by arson, you thus will spoil today or tomorrow.",
+ "seconds": 0.977
+}

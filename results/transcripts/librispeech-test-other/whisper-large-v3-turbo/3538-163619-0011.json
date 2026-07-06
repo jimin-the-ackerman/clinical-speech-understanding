@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3538-163619-0011",
+ "condition": null,
+ "reference": "OUT ON THEE UGLY BUSHY BRIDE SLEEPING SO SOFT BY THE YOUNG KING'S SIDE ON SAND AND STONES MY BED I MAKE AND MY BROTHER SLEEPS WITH THE COLD SNAKE UNPITIED AND UNWEPT",
+ "audio_seconds": 13.03,
+ "created_at": "2026-07-05T13:10:45+00:00",
+ "failed": false,
+ "text": "out on thee ugly bushy bride sleeping so soft by the young king's side on sand and stones my bed i make and my brother sleeps with the cold snake unpityed and unwept",
+ "seconds": 0.135
+}

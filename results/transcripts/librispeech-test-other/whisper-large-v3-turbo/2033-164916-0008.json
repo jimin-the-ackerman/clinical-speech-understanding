@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164916-0008",
+ "condition": null,
+ "reference": "LASTLY THE MINISTER WENT IN AND KISSED THE GROUND BEFORE ZAU AL MAKAN WHO ROSE TO MEET HIM SAYING WELCOME O WAZIR AND SIRE SANS PEER",
+ "audio_seconds": 14.57,
+ "created_at": "2026-07-05T13:09:30+00:00",
+ "failed": false,
+ "text": "Lastly, the minister went in, and kissed the ground before Zaw al-Makhan, Who rose to meet him, saying, Welcome, O wazir, and sire's son's peer.",
+ "seconds": 0.166
+}

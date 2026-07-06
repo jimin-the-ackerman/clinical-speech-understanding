@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__871411_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, I have a large scar on my right thigh that has led to a contracture with limited flexion in my knee joint for over ten years. I have recently undergone a corrective Z-plasty release but achieved only minimal gains in flexion. The doctor said the contracture has developed fibrosis that needs to be removed. Is there any non-surgical method for releasing fibrotic contracture?",
+ "audio_seconds": 22.36,
+ "created_at": "2026-07-06T00:47:01+00:00",
+ "failed": false,
+ "text": "No es fácil ni barato para que no se nos borre el nombre de la lista en la que están, es decir, no se puede permitir que se nos borre el nombre de la lista en la que están.",
+ "seconds": 0.953
+}

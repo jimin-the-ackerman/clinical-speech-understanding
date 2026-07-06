@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__509660_2",
+ "condition": "background_noise_40",
+ "reference": "Dear Ms. Jacob, it is essential to understand that we need to treat the symptoms and identify the cause. Your concern regarding the fever is very understandable, but it is important to identify the cause through further tests such as a urine examination. In elderly patients, urinary infections are very common and can only be confirmed by a urine examination. The variation in the platelet readings is not worrisome and could just be a normal fluctuation or a change primarily due to an infection elsewhere in the body. For now, I would suggest that you get a urine test done and also obtain a complete blood count. In cases of infection, the white blood cell count would be more helpful in guiding the treatment. I wish your patient good health.",
+ "audio_seconds": 40.11,
+ "created_at": "2026-07-06T02:51:26+00:00",
+ "failed": false,
+ "text": "Dear Ms. Jacob, it is essential to understand that we need to treat the symptoms and identify the cause. Your concern regarding the fever is very understandable, but it is important to identify the cause through further tests such as a urine examination. In elderly patients, urinary infections are very common and can only be confirmed by a urine examination. The variation in the platelet readings is not worrisome and could just be a normal fluctuation or a change primarily due to an infection elsewhere in the body. For now, I would suggest that you get a urine test done and also obtain a complete blood count. In cases of infection, the white blood cell count would be more helpful in guiding the treatment. I wish your patient good health.",
+ "seconds": 6.202
+}

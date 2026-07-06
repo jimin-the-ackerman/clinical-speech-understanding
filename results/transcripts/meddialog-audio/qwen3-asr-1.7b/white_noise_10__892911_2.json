@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__892911_2",
+ "condition": "white_noise_10",
+ "reference": "Hello, this is obviously a whiplash injury. If there is only minor pain and muscle spasm, that should resolve in a few days with some ibuprofen and rest. That said, since I cannot examine you, it would be a good idea to have a doctor check you out.",
+ "audio_seconds": 15.7,
+ "created_at": "2026-07-06T05:34:19+00:00",
+ "failed": false,
+ "text": "Hello, this is obviously a whiplash injury, but there is only minor pain and muscle spasms. That should resolve in a few days with some ibuprofen and rest. That said, since I cannot examine you, it would be a good idea to have a doctor check you out.",
+ "seconds": 0.577
+}

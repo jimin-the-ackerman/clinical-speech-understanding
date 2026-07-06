@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__432270_1",
+ "condition": "white_noise_6",
+ "reference": "Hi! My husband and I have been trying for a baby for nine months. His semen analysis is normal and my hormone levels came back normal except for Thyroid-Stimulating Hormone at five point four seven. I am ovulating every cycle, but it seems that we can't get pregnant. Could high Thyroid-Stimulating Hormone cause problems with conception?",
+ "audio_seconds": 18.77,
+ "created_at": "2026-07-06T04:37:03+00:00",
+ "failed": false,
+ "text": "Hi. My husband and I have been trying for a baby for nine months. His semen analysis is normal, and my hormone feedback's normal, except for thyroid stimulating hormone at 5.47. I am ovulating every cycle, but it seems that we take a break. Can high thyroid stimulating hormone cause problems with conception?",
+ "seconds": 0.631
+}

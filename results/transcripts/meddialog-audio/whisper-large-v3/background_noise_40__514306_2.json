@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__514306_2",
+ "condition": "background_noise_40",
+ "reference": "Hi, it is not an emergency as the right ovarian cyst is not more than five centimeters. You should have a regular ultrasound to measure the cyst size. If it grows larger than five centimeters, then we will need to operate. There is no relationship between this condition and your relationship or virginity.",
+ "audio_seconds": 15.79,
+ "created_at": "2026-07-06T04:19:01+00:00",
+ "failed": false,
+ "text": "Hi, it is not an emergency as the right ovarian cyst is not more than 5 centimeters. You should have a regular ultrasound to measure the cyst size. If it grows larger than 5 centimeters, then we will need to operate. There is no relationship between this condition and your relationship or virginity.",
+ "seconds": 0.56
+}

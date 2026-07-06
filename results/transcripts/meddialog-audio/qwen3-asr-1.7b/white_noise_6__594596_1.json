@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__594596_1",
+ "condition": "white_noise_6",
+ "reference": "Hi Doctor, this problem is about my sister. She is mentally ill in the initial stages of schizophrenia. She is not ready to meet doctors or take medications. She keeps going away from home or expresses a wish to die. She is quite intelligent in other ways. Can you give me a solution for that?",
+ "audio_seconds": 18.52,
+ "created_at": "2026-07-06T05:40:44+00:00",
+ "failed": false,
+ "text": "Hi, doctor. This problem is about my sister. She is mentally ill in the initial stages of schizophrenia. She is not ready to meet doctors or take medication. She keeps going away from home or expresses a wish to die. She is quite intelligent in other ways. Can you give me a solution for that?",
+ "seconds": 0.607
+}

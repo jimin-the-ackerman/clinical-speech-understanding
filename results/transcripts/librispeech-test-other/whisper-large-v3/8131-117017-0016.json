@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117017-0016",
+ "condition": null,
+ "reference": "LIKE THIS SOCIAL CALL GORDON ASKED HIM",
+ "audio_seconds": 3.39,
+ "created_at": "2026-07-05T13:07:43+00:00",
+ "failed": false,
+ "text": "Like this social call, Gordon asked him.",
+ "seconds": 0.165
+}

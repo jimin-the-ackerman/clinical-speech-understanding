@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__284019_2",
+ "condition": "background_noise_60",
+ "reference": "In the early stage of bile duct cancer, surgery is the treatment of choice. If the surgeon is advising this, he may be confident in his ability to completely remove the affected area. Therefore, I recommend proceeding with the surgery. Your doctor is correct that the survival rate is low for these types of cancers. There is no specific diet.",
+ "audio_seconds": 19.88,
+ "created_at": "2026-07-06T05:24:11+00:00",
+ "failed": false,
+ "text": "In the early stage of bile duct injury, surgery is the treatment of choice. If the surgeon is advising this, you may be confident of the ability to completely remove the area. Therefore, I recommend surgery. It often is correct that the survival rate is low for these types of injuries. There is no specific.",
+ "seconds": 0.606
+}

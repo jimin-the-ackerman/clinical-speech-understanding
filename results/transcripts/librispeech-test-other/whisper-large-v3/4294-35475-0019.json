@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4294-35475-0019",
+ "condition": null,
+ "reference": "WHILE HE STOOD LOOKING AROUND HIM IN BEWILDERMENT A FIREFLY ALIGHTED ON HIS ARM FLASHING ITS LITTLE LANTERN IN THE PRINCE'S FACE IT CRIED THIS WAY MY FRIEND THE FLY SENT ME TO GUIDE YOU TO A PLACE OF SAFETY",
+ "audio_seconds": 14.06,
+ "created_at": "2026-07-05T13:01:13+00:00",
+ "failed": false,
+ "text": "while he stood looking around him in bewilderment a firefly alighted on his arm flashing its little lantern in the prince's face it cried this way my friend the fly sent me to guide you to a place of safety",
+ "seconds": 0.378
+}

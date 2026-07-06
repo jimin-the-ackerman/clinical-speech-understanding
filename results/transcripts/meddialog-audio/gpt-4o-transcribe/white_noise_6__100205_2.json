@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__100205_2",
+ "condition": "white_noise_6",
+ "reference": "Before asking a question, you must put forward the facts. one. Is Janumet being taken once or twice a day? two. Is the blood sugar level of one hundred and ninety-three measured while fasting or after meals? If it is after meals, the timing is important.",
+ "audio_seconds": 17.58,
+ "created_at": "2026-07-06T00:47:07+00:00",
+ "failed": false,
+ "text": "The blood actually does not flow with the pump.",
+ "seconds": 0.722
+}

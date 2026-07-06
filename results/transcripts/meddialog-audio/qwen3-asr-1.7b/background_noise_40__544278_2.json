@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__544278_2",
+ "condition": "background_noise_40",
+ "reference": "It is a very difficult situation, and I can understand. I think you are suffering from obsessive thoughts or, more likely, obsessive-compulsive disorder. Therefore, I recommend that you visit a psychiatrist for a detailed evaluation. You may need to start Fluoxetine or another selective serotonin reuptake inhibitor for treatment.",
+ "audio_seconds": 20.82,
+ "created_at": "2026-07-06T05:21:34+00:00",
+ "failed": false,
+ "text": "It is a very difficult situation, and I can understand. I think he is suffering from obsessive thoughts, or more likely, obsessive compulsive disorder. Therefore, I recommend that you visit a psychiatrist for a detailed evaluation. You may need to start fluoxetine or another selective serotonin reuptake inhibitor for treatment.",
+ "seconds": 0.598
+}

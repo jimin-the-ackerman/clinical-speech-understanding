@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0037",
+ "condition": null,
+ "reference": "NOW DON'T BE AFFECTED POLLY BUT JUST TELL ME LIKE A DEAR HAS N'T HE PROPOSED",
+ "audio_seconds": 5.68,
+ "created_at": "2026-07-05T13:10:18+00:00",
+ "failed": false,
+ "text": "now don't be affected polly but just tell me like a dear hasn't he proposed",
+ "seconds": 0.113
+}

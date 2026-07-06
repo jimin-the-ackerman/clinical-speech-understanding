@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__907189_1",
+ "condition": "clean",
+ "reference": "Yesterday, the doctor told me that my nephew has a prominent venous channel in the left frontal region of his brain after analyzing the Magnetic Resonance Imaging report and mentioned it is a case of venous angioma. He is around twenty-two years old and is having his final semester in engineering on the 26th of April two thousand and twelve. He is very much depressed. Please suggest what to do for the treatment.",
+ "audio_seconds": 27.14,
+ "created_at": "2026-07-06T03:00:00+00:00",
+ "failed": false,
+ "text": "Yesterday the doctor told me that my nephew has a prominent venous channel in the left frontal region of his brain after analyzing the MRI report, and mentioned it is a case of venous angioma. He is around 22 years old, and he is having his final semester in engineering on 26 April 2012. He is very much depressed. Please suggest what to do for the treatment.",
+ "seconds": 5.107
+}

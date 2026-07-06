@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__352249_2",
+ "condition": "background_noise_40",
+ "reference": "If your child has been suffering for a long time, the chest infection can be due to atypical organisms. Give him Syrup Claribid five milliliters twice daily. This will provide him relief. If there is a family history of asthma or allergies in your family, then your child will be more prone to getting infections. Giving the annual influenza vaccine will be very helpful. For cough, Ambrolite-S will suffice; use it four times daily.",
+ "audio_seconds": 26.62,
+ "created_at": "2026-07-06T04:41:23+00:00",
+ "failed": false,
+ "text": "If your child has been suffering for a long time, the chest infection can be due to atypical organisms. Give him syrup clarabid 5 milliliters twice daily. This will provide him relief. If there is a family history of asthma or allergies in your family, then your child will be more prone to getting infections. Giving the annual influenza vaccine will be very helpful. For cough, Ambralite S will suffice. Use it four times daily.",
+ "seconds": 0.312
+}

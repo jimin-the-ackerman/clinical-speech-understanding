@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0032",
+ "condition": null,
+ "reference": "BUT THOUGH SHE RECEIVED CARESSES AND FOND WORDS BACK AGAIN IN SUCH PROFUSION AS WOULD HAVE GLADDENED HER FORMERLY YET SHE FELT THAT THERE WAS A SECRET WITHHELD FROM HER AND SHE BELIEVED IT BORE SERIOUS REFERENCE TO HER MOTHER'S HEALTH",
+ "audio_seconds": 16.85,
+ "created_at": "2026-07-05T11:47:32+00:00",
+ "failed": false,
+ "text": "but though she received caresses and fond words back again in such profusion as would have gladdened her formerly yet she felt that there was a secret withheld from her and she believed it bore serious reference to her mother's health",
+ "seconds": 0.153
+}

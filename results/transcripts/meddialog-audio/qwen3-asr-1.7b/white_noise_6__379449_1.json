@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__379449_1",
+ "condition": "white_noise_6",
+ "reference": "Hi, I am Kulsum. I am twenty-two years old and I am eight weeks pregnant. After four years of marriage, I got pregnant. Today, I was not aware that during pregnancy we should not eat sabudana, so is it safe? I am very worried after eating that because everyone says that we should only eat sabudana after eight months. Please suggest me.",
+ "audio_seconds": 24.15,
+ "created_at": "2026-07-06T05:39:40+00:00",
+ "failed": false,
+ "text": "Hi, I am. I am 22 years old and I am eight weeks pregnant. After four years of marriage, I got pregnant. Today, I was not aware that during pregnancy we should not eat sabudana. So, is it safe? I am very worried after eating that because everyone says that we should only eat sabudana after eight months. Please suggest me.",
+ "seconds": 0.738
+}

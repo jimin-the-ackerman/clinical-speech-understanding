@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__498591_2",
+ "condition": "white_noise_2",
+ "reference": "Hello. Check for cervical spondylitis. Your neck pain could be due to some acute compression on the nerves caused by spondylitis. Check your blood pressure. You can go for an MRI of the neck. Please meet with a neurology physician. Simply taking painkillers will not help.",
+ "audio_seconds": 16.47,
+ "created_at": "2026-07-06T04:47:17+00:00",
+ "failed": false,
+ "text": "Hello. Check for cervical spondylitis. Your neck pain could be due to some acute compression on the nerves caused by spondylitis. Check your blood pressure. You can go for an MRI of the neck. Please meet with a neurology physician. Simply taking painkillers will not help.",
+ "seconds": 0.224
+}

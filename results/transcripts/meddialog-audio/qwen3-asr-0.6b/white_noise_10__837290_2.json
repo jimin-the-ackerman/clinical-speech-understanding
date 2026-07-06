@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__837290_2",
+ "condition": "white_noise_10",
+ "reference": "Your symptoms suggest a meniscal tear. You need to see an orthopedic surgeon who would perform an magnetic resonance imaging scan to confirm the diagnosis. Based on the grading and location of the tear, it can be treated conservatively or by surgery!",
+ "audio_seconds": 14.68,
+ "created_at": "2026-07-06T05:07:22+00:00",
+ "failed": false,
+ "text": "Your symptoms suggest a meniscus tear. You need to see an orthopedic surgeon, who will perform a magnetic resonance imaging scan to confirm the diagnosis. Based on the grading and location of the tear, it can be treated conservatively or by surgery.",
+ "seconds": 0.493
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-156975-0030",
+ "condition": null,
+ "reference": "MANY MODERN SCHOLARS DRAW THE CONCLUSION FROM THE BIBLICAL NARRATIVE THAT IT WAS FROM THE KENITES THAT MOSES FIRST LEARNED OF YAHWEH OR AS THE DISTINCTIVE NAME OF ISRAEL'S GOD WAS TRANSLATED BY LATER JEWISH SCRIBES JEHOVAH",
+ "audio_seconds": 18.45,
+ "created_at": "2026-07-06T00:02:47+00:00",
+ "failed": false,
+ "text": "Many modern scholars draw the conclusion from the biblical narrative that it was from the Kenites that Moses first learned of Yahweh, or as the distinctive name of Israel's God was translated by later Jewish scribes, Jehovah.",
+ "seconds": 4.885
+}

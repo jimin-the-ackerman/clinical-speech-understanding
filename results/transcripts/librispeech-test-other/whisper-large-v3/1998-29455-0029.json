@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29455-0029",
+ "condition": null,
+ "reference": "CLEVER AS A TRAINDAWG E IS AN ALL OUTER IS OWN EAD",
+ "audio_seconds": 3.86,
+ "created_at": "2026-07-05T12:56:17+00:00",
+ "failed": false,
+ "text": "clever as a train-dog is and all outer his own head",
+ "seconds": 0.185
+}

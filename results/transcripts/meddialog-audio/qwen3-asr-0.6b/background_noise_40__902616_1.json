@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__902616_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, I twisted my knee four days ago. I attended the emergency department and had the knee X-rayed. Apparently, there is no fracture. There was no follow-up advised. I was offered codeine, which I declined because of the side effects. I am struggling to bear weight through the limb even with crutches. The pain is radiating from the knee down the leg toward the ankle and up the leg toward the hip. The pain is so severe that it has brought me to tears today. I am wondering whether I need a second opinion now. I am fifty-four years old, work, and find myself unable to do anything unaided!",
+ "audio_seconds": 38.49,
+ "created_at": "2026-07-06T04:56:47+00:00",
+ "failed": false,
+ "text": "Hi, I twisted my knee four days ago. I attended the emergency department and had the knee X-ray. Apparently, there is no fracture. There was no follow-up advised. I was offered codeine, which I declined because of the side effects. I am struggling to bear weight through the limb even with crutches. The pain is radiating from the knee down the leg toward the ankle and up the leg toward the hip. The pain is so severe that it has brought me to tears today. I am wondering whether a second opinion now. I am fifty-four years old. Work and find myself unable to do anything unaided.",
+ "seconds": 1.147
+}

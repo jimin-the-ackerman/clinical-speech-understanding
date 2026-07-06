@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28330-0006",
+ "condition": null,
+ "reference": "CHRIS LOST NO TIME AS SOON AS HE COULD DO IT WITHOUT BEING NOTICED IN HURRYING DOWN TO HIS CABIN",
+ "audio_seconds": 6.01,
+ "created_at": "2026-07-06T02:28:15+00:00",
+ "failed": false,
+ "text": "Chris lost no time; as soon as he could, do it without being noticed and hurrying down to his cabin.",
+ "seconds": 4.634
+}

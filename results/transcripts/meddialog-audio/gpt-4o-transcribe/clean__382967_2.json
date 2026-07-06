@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__382967_2",
+ "condition": "clean",
+ "reference": "Your baby's lip may be blue due to injury. Once the clotted blood is resorbed, that cyanosis will be gone. However, if not, you may need to take her to a doctor for a cardiovascular check-up.",
+ "audio_seconds": 13.4,
+ "created_at": "2026-07-06T00:44:58+00:00",
+ "failed": false,
+ "text": "Your baby's lip may be blue due to injury. Once the clotted blood is resorbed, that cyanosis will be gone. However, if not, you may need to take her to a doctor for a cardiovascular checkup.",
+ "seconds": 0.852
+}

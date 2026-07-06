@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__841071_1",
+ "condition": "clean",
+ "reference": "Hello sir, I am Deepak, twenty-five years old. Due to the mistakes of my childhood with masturbation, I have lost my bodily power, ability for sexual activity, my penis has become short and bent, my muscles are too weak, and the semen mixes with urine. I feel very lazy. Because of this, sometimes I think about suicide. Please suggest to me which therapy can solve my problem economically.",
+ "audio_seconds": 22.7,
+ "created_at": "2026-07-06T05:30:19+00:00",
+ "failed": false,
+ "text": "Hello, sir. I am Deepak, twenty-five years old. Due to the mistakes of my childhood with masturbation, I have lost my bodily power, ability for sexual activity. My penis has become short and bent. My muscles are too weak, and the semen mixes with urine. I feel very lazy. Yes, sometimes I think about suicide. Please suggest to me which therapy can solve my problem economically.",
+ "seconds": 0.77
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__970357_1",
+ "condition": "white_noise_2",
+ "reference": "Hello Doctor, I am twenty years old. I had an unplanned pregnancy. My partner and I decided to have an abortion. I was not sure whether I was pregnant or not because I did not take a pregnancy test. Without taking the pregnancy test, I took an abortion kit, which is similar to the Mifegest kit, in the third week. On the second day, I experienced heavy bleeding and I saw a piece of flesh. I wanted to confirm whether I was pregnant or not. It has been a week since taking the abortion pills, and I am still experiencing bleeding.",
+ "audio_seconds": 32.26,
+ "created_at": "2026-07-06T00:47:05+00:00",
+ "failed": false,
+ "text": "Hello doctor, I'm 20 years old. I had an unplanned pregnancy and a partner and I decided to have an abortion. I was not sure whether I was pregnant or not because I did not take a pregnancy test. Without taking a pregnancy test, we took an abortion pill which is similar to mifepristone, but 30 minutes after starting, I experienced heavy bleeding that lasted 12 hours. I want to confirm whether I was pregnant or not. Is it too late to take a pregnancy test?",
+ "seconds": 1.598
+}

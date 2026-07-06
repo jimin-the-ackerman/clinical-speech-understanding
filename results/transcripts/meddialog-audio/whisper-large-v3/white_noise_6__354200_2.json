@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__354200_2",
+ "condition": "white_noise_6",
+ "reference": "Hello! This is not cancer and is not related to your periods. This is an infected sebaceous cyst or a boil. A few days of antibiotics will resolve it.",
+ "audio_seconds": 9.3,
+ "created_at": "2026-07-06T04:36:44+00:00",
+ "failed": false,
+ "text": "Hello, this is not cancer and is not related to your period. This is an infected sebaceous cyst or a boil. A few days of antibiotics will resolve it.",
+ "seconds": 0.431
+}

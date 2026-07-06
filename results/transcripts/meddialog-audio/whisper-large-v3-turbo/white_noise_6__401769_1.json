@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__401769_1",
+ "condition": "white_noise_6",
+ "reference": "I am Ved, twenty-nine years old in the software field. I have back pain when I bend forward towards my knees. It does not radiate anywhere. Actually, it started when I tried lifting a weight, and it has gotten worse since then. I applied Volini and Moov, but it did not help. Although I have taken rest for two months, it is not improving. What can I do? Please help.",
+ "audio_seconds": 24.41,
+ "created_at": "2026-07-06T04:48:33+00:00",
+ "failed": false,
+ "text": "I am VED, 29 years old in the software field. I have back pain when I bend forward towards my knees. It does not radiate anywhere. Actually, it started when I tried lifting a weight, and it has gotten worse since then. I applied for leaner and move, but it did not help. Although I have taken rest for two months, it is not improving. What can I do? Please help.",
+ "seconds": 0.291
+}

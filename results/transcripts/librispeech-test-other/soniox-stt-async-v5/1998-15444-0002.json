@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-15444-0002",
+ "condition": null,
+ "reference": "HE SHOULD NOTICE THE POSITION AND TEMPERATURE OF THE BODY THE CONDITION OF RIGOR MORTIS MARKS OF VIOLENCE APPEARANCE OF LIPS AND MOUTH",
+ "audio_seconds": 9.11,
+ "created_at": "2026-07-05T23:59:59+00:00",
+ "failed": false,
+ "text": "He should notice the position and temperature of the body, the condition of rigor mortis, marks of violence, appearance of lips and mouth.",
+ "seconds": 4.758
+}

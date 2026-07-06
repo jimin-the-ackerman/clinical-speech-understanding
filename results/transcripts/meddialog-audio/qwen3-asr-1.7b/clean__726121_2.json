@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__726121_2",
+ "condition": "clean",
+ "reference": "Wisdom tooth extraction can only be a cause if your son was already susceptible to experiencing the episodes. Extraction of teeth creates a certain level of stress that the body must deal with, which may also be triggered by factors like heavy exercise or swimming. It is just that the underlying cause would have already existed, and dental extraction may have made it manifest. You need not worry, though; just ensure proper follow-ups for the seizures with the medical practitioner and report to the dentist during any subsequent visits so that the necessary protocol can be followed.",
+ "audio_seconds": 32.94,
+ "created_at": "2026-07-06T05:29:47+00:00",
+ "failed": false,
+ "text": "Wisdom tooth extraction can only be a cause if your son was already susceptible to experiencing the episodes. Extraction of teeth creates a certain level of stress that the body must deal with, which may also be triggered by factors like heavy exercise or swimming. It is just that the underlying cause would have already existed, and dental extraction may have made it manifest. You need not worry, though. Just ensure proper follow-ups for the seizures with the medical practitioner, and report to the dentist during any subsequent visit so that the necessary protocol can be followed.",
+ "seconds": 1.0
+}

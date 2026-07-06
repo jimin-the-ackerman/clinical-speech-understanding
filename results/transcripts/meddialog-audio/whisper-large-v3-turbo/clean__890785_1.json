@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__890785_1",
+ "condition": "clean",
+ "reference": "A man I know was ejected fifty feet from his car. The doctor said that he needs neck surgery because there are some broken bones in his neck. Today the doctor said that there are unforeseen complications. Do you know what the complications may be? They said if he does not get the surgery he may be wheelchair bound.",
+ "audio_seconds": 17.07,
+ "created_at": "2026-07-06T04:45:06+00:00",
+ "failed": false,
+ "text": "A man I know was ejected 50 feet from his car. The doctor said that he needs neck surgery because there are some broken bones in his neck. Today, the doctor said that there are unforeseen complications. Do you know what the complications may be? They said if he does not get the surgery, he may be wheelchair bound.",
+ "seconds": 0.257
+}

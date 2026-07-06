@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "7975-280076-0027",
+ "condition": null,
+ "reference": "I HAD NOT HEARD OF THAT WHEN I WROTE THE LETTER OF EIGHTEEN SEVENTY FOUR AND TO CORRECT ANY MISAPPREHENSION THAT MIGHT BE CREATED BY OMITTING IT I WILL SAY THAT AT THAT TIME I WAS AT NEOSHO KANSAS WITH A DROVE OF CATTLE WHICH I SOLD TO MAJOR RAY",
+ "audio_seconds": 14.06,
+ "created_at": "2026-07-05T23:58:11+00:00",
+ "failed": false,
+ "text": "I had not heard of that when I wrote the letter of 1874, and to correct any misapprehension that might be created by omitting it, I will say that at the time I was at Neosho, Kansas, with a drove of cattle, which I sold to Major Rey.",
+ "seconds": 1.312
+}

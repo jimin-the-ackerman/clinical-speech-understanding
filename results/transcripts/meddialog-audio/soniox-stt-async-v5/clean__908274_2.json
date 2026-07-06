@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__908274_2",
+ "condition": "clean",
+ "reference": "Hello. This is likely related to acidity and gastroesophageal reflux disease. Also, see if this feeling of pressure worsens when applying pressure over the area; if it does, then it may indicate an associated musculoskeletal cause. Therefore, it does not appear to be a worrisome issue. You should maintain a healthy lifestyle by avoiding fatty, oily, and spicy foods. Avoid heavy meals; instead, have multiple small meals. Do not immediately sit or rest after meals; take a walk for ten to fifteen minutes. Avoid smoking and alcohol, if applicable. Additionally, the sleep pattern should be as normal as possible. You should get prescribed a combination of antacid and probiotics, such as Cyra D or Pan DSR, before breakfast for seven days.",
+ "audio_seconds": 51.63,
+ "created_at": "2026-07-06T03:00:01+00:00",
+ "failed": false,
+ "text": "Hello, this is likely related to acidity and gastroesophageal reflux disease. Also, see if this feeling of pressure worsens when applying pressure over the area. If it does, then it may indicate an associated musculoskeletal cause; therefore, it does not appear to be a worrisome issue. You should maintain a healthy lifestyle by avoiding fatty, oily, and spicy foods. Avoid heavy meals; instead, have multiple small meals. Do not immediately sit or rest after meals. Take a walk for 10 to 15 minutes. Avoid smoking and alcohol if applicable. Additionally, the sleep pattern should be as normal as possible. You should get prescribed a combination of antacid and probiotics, such as CYRA-D or Pan-DSR, before breakfast for 7 days.",
+ "seconds": 5.356
+}

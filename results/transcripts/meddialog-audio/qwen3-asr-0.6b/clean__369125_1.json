@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__369125_1",
+ "condition": "clean",
+ "reference": "I just had an electrocardiogram as a preoperative test. It shows that I have a probable left atrial abnormality. I have been diagnosed in years past with mitral valve prolapse and possible premature ventricular contraction issues. Could today's test be a reflection of those problems, or do you think it may be another problem?",
+ "audio_seconds": 15.87,
+ "created_at": "2026-07-06T05:01:45+00:00",
+ "failed": false,
+ "text": "I just had an electrocardiogram as a preoperative test. It shows that I have a probable left atrial abnormality. I have been diagnosed in years past with mitral valve prolapse and possible premature ventricular contraction issues.",
+ "seconds": 0.454
+}

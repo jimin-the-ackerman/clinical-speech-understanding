@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__882186_1",
+ "condition": "background_noise_60",
+ "reference": "Last week, I had strange small red marks under my skin on my fingers, toes, and heels. They were painful to the touch and affected my grip in my hands and hurt to walk; it was like I had been burned. They faded away, but yesterday, blisters popped up in the places where the marks had been last week. I never had a fever, and these blisters are not painful, but it's like I've been mysteriously burned from the inside out.",
+ "audio_seconds": 24.32,
+ "created_at": "2026-07-06T05:00:11+00:00",
+ "failed": false,
+ "text": "Last week, I had strange small red marks under my skin on my fingers, toes, and heels. They were painful to the touch and affected my grip in my hands and hurt to walk. It was like I had been burned. They faded away, but yesterday blisters popped up in the places where the marks had been last week. I never had a fever, and these blisters are not painful. But it's like I've been mysteriously burned from the inside out.",
+ "seconds": 0.895
+}

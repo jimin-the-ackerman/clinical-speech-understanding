@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__657783_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, recently I have been feeling pain in my heart, so I went to the doctor. They did an endoscopy and confirmed it is a hiatus hernia. Now I am using Happi-D tablets in the early morning and Cinesta before lunch and dinner. Do I need to do any tests? Is it serious? How long will it take to reduce my heart pain? Please tell me, I am worried a lot. I am just twenty-two years old, female, and I have been working in a wireless company for the last year.",
+ "audio_seconds": 29.35,
+ "created_at": "2026-07-06T04:23:07+00:00",
+ "failed": false,
+ "text": "Hi. Recently I have been given a pain in my heart, so I went to the doctor. They did an endoscopy and confirmed it is a hiatus hernia. Now I am using Happy D tablets in the early morning and Sinesta before lunch and dinner. Do I need to do any tests? Is it serious? How long will it take to reduce my heart rate? Please tell me. I am worried a lot. I am just 22 years old, female, and I have been working in a wireless company for the last year.",
+ "seconds": 0.876
+}

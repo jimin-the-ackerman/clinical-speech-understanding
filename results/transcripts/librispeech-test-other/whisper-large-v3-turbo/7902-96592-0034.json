@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0034",
+ "condition": null,
+ "reference": "GUINEA SAID THE BOY THINK I'D DO IT FOR A GUINEA WELL THEN TWO",
+ "audio_seconds": 3.97,
+ "created_at": "2026-07-05T13:13:54+00:00",
+ "failed": false,
+ "text": "guinea said the boy think i'll do it for her guinea well then too",
+ "seconds": 0.111
+}

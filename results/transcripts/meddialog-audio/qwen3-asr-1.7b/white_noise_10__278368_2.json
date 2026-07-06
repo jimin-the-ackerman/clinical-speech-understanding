@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__278368_2",
+ "condition": "white_noise_10",
+ "reference": "Low hemoglobin levels can cause blurred vision and dizziness. However, now that your hemoglobin has increased to twelve, this should no longer be the cause. Please get a computed tomography scan done.",
+ "audio_seconds": 11.78,
+ "created_at": "2026-07-06T05:31:50+00:00",
+ "failed": false,
+ "text": "Low hemoglobin levels can cause blurred vision and dizziness. However, now that your hemoglobin has increased twelve, this can no longer be a cause. Please get a computed tomography scan done.",
+ "seconds": 0.402
+}

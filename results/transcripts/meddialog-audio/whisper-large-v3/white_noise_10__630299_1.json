@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__630299_1",
+ "condition": "white_noise_10",
+ "reference": "I have had pain in my feet for some time now. It started with the sensation of walking on stones, especially under the big toe joint. My right heel clicks, I have burning pain on the top of my feet, and the middle toe of my left foot is painful. Walking is becoming quite traumatic, and I can hardly get downstairs in the mornings.",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T04:30:40+00:00",
+ "failed": false,
+ "text": "I have had pain in my feet for some time now. It started with the sensation of walking on stone, especially under the big toe joints. My right heel clicked, I have burning pain on the top of my feet, and the middle toe of my left foot is painful. Walking has become quite traumatic, and I can hardly get down stairs anymore.",
+ "seconds": 0.592
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__797883_2",
+ "condition": "white_noise_6",
+ "reference": "Hi, thank you for asking. I really appreciate your concern. Based on the history provided, I can say that pregnancy is more a natural phenomenon than a physiological one and does not necessarily require medication to occur. Certain conditions need to be met, such as the presence of an egg and sperm at the time of intercourse during ovulation. I hope this information helps you. Have a nice day.",
+ "audio_seconds": 23.89,
+ "created_at": "2026-07-06T04:38:40+00:00",
+ "failed": false,
+ "text": "hi thank you for asking i really appreciate your concern based on the history provided i can say that pregnancy is more a natural phenomenon than a physio one and does not necessarily require medication to occur certain conditions need to be met such as the presence of an egg and sperm at the time of intercourse during ovulation i hope this information helps you have a nice day",
+ "seconds": 0.783
+}

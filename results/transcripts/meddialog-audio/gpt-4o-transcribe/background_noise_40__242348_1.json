@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__242348_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, I was diagnosed with a kidney infection today and am taking antibiotics. I was told to go to the emergency room if I developed a fever or nausea. My temperature is bouncing between one hundred point six and ninety-nine point eight degrees Fahrenheit, after taking acetaminophen. Do I need to go to the hospital?",
+ "audio_seconds": 18.52,
+ "created_at": "2026-07-06T00:42:56+00:00",
+ "failed": false,
+ "text": "I was diagnosed with a kidney infection today and am taking antibiotics. I was told to go to the emergency room if I developed a fever or nausea. My temperature is bouncing between 100.6 and 99.8 degrees Fahrenheit. After taking acetaminophen, do I need to go to the hospital?",
+ "seconds": 1.323
+}

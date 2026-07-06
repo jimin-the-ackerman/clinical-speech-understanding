@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__428487_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, I had a miscarriage almost three months ago. I had a hemorrhage; that is the reason I lost my baby. Well, my husband and I had sexual intercourse yesterday during my fertile days. Usually, we wear a condom, but this time we did not. He ejaculated on my vulva, close to my vagina. Can I still get pregnant?",
+ "audio_seconds": 22.27,
+ "created_at": "2026-07-06T02:54:30+00:00",
+ "failed": false,
+ "text": "Hi. I had a miscarriage almost 3 months ago. I had a hemorrhage, and that is the reason I lost my baby—well, my husband and I had sexual intercourse yesterday during my fertile days. Usually we wear a condom, but this time we did not. He ejaculated on my vulva, close to my vagina. Can I still get pregnant?",
+ "seconds": 5.94
+}

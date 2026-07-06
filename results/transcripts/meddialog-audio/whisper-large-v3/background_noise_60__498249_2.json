@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__498249_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. You have three options: In Vitro Fertilization, sperm washing, and using Pre-Exposure Prophylaxis. The first two options are safe but very costly, given your situation. The last option is less expensive but carries some risks and requires compliance from your wife. She will need to take medication regularly, and you should be on treatment to reduce your viral load. If your viral load is undetectable and your wife is on Pre-Exposure Prophylaxis, then there is a very good chance of pregnancy without transmission of the virus.",
+ "audio_seconds": 28.84,
+ "created_at": "2026-07-06T04:22:23+00:00",
+ "failed": false,
+ "text": "Hello. You have three options. In vitro fertilization, sperm washing, and using pre-exposure prophylaxis. The first two options are safe but very costly, given your situation. The last option is less expensive but carries some risks and requires compliance from your wife. She will need to take medication regularly, and you should be on treatment to reduce your viral load. If your viral load is undetectable and your wife is on pre-exposure prophylaxis, then there is a very good chance of pregnancy without transmission of the virus.",
+ "seconds": 0.895
+}

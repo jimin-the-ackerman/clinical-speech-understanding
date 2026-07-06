@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__424398_1",
+ "condition": "background_noise_40",
+ "reference": "I was trying to refill one of those weed killer containers because it had pressure in it, and it was difficult to unscrew. I felt a pop on the right side under my breast. It hurts to bend over, and I have a little trouble breathing. I want to know if I pulled a muscle, fractured a rib, or something.",
+ "audio_seconds": 16.04,
+ "created_at": "2026-07-06T04:18:36+00:00",
+ "failed": false,
+ "text": "I was trying to refill one of those weed killer containers because it had pressure in it and it was difficult to unscrew. I felt a pop on the right side under my breast. It hurts to bend over and I have a little trouble breathing. I want to know if I pulled a muscle, fractured a rib, or something.",
+ "seconds": 0.563
+}

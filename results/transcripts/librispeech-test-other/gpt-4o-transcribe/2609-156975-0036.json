@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-156975-0036",
+ "condition": null,
+ "reference": "THE WILDERNESS WITH ITS LURKING FOES AND THE EVER PRESENT DREAD OF HUNGER AND THIRST DEEPENED HIS SENSE OF NEED AND OF DEPENDENCE UPON A POWER ABLE TO GUIDE THE DESTINIES OF MEN",
+ "audio_seconds": 13.43,
+ "created_at": "2026-07-05T23:54:15+00:00",
+ "failed": false,
+ "text": "The wilderness with its lurking foes and the ever-present dread of hunger and thirst deepens his sense of need and of dependence upon the power able to guide the destiny of man.",
+ "seconds": 0.952
+}

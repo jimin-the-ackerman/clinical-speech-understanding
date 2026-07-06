@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__551860_2",
+ "condition": "clean",
+ "reference": "Sometimes the preventers are not able to prevent the symptoms. You can add an antihistamine; you can safely add montelukast five milligrams three times a day for two to three weeks. You can add liquid antacid, such as Ulgel, two teaspoons three times a day to counter any effects of reflux, which can also present with this kind of symptoms.",
+ "audio_seconds": 21.25,
+ "created_at": "2026-07-06T04:44:31+00:00",
+ "failed": false,
+ "text": "Sometimes the preventers are not able to prevent the symptoms. You can add an antihistamine. You can safely add Montelukast 5 mg three times a day for two to three weeks. You can add liquid antacid, such as olgel, two teaspoons three times a day to counter any effects of reflux, which can also present with this kind of symptoms.",
+ "seconds": 0.253
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0003",
+ "condition": null,
+ "reference": "REVEREND MOTHER DO YOU KNOW THE CHAPEL",
+ "audio_seconds": 3.52,
+ "created_at": "2026-07-05T23:54:48+00:00",
+ "failed": false,
+ "text": "Reverend Mother, do you know the chapel?",
+ "seconds": 0.582
+}

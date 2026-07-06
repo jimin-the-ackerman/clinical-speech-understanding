@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__437758_2",
+ "condition": "white_noise_2",
+ "reference": "The most common cause of pain at the back of the knee is injury. The injury may be very trivial and may not be noticed. Please give a painkiller like ibuprofen two hundred milligrams three times a day for two days and inform me about the condition.",
+ "audio_seconds": 14.08,
+ "created_at": "2026-07-06T03:06:19+00:00",
+ "failed": false,
+ "text": "The most common cause of pain at the back of the knee is injury. The injury may be very trivial and may not be noticed. Please give a painkiller like ibuprofen 200 mg 3 times a day for 2 days, and inform me about the condition.",
+ "seconds": 4.772
+}

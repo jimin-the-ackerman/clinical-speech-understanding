@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__520245_2",
+ "condition": "white_noise_2",
+ "reference": "Yes, she can get pregnant if you have ejaculated inside. If semen entered inside, she will get pregnant, provided you had sexual intercourse during the unsafe period, which is between day eleven and day eighteen of a regular twenty-eight-day cycle.",
+ "audio_seconds": 13.65,
+ "created_at": "2026-07-06T00:46:38+00:00",
+ "failed": false,
+ "text": "Yes, she can get pregnant if you have ejaculated inside. If semen entered inside, she will get pregnant, provided you had sexual intercourse during the unsafe period, which is between day 11 and day 18 of a regular 28-day cycle.",
+ "seconds": 1.487
+}

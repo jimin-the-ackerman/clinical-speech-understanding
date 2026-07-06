@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__941566_1",
+ "condition": "background_noise_60",
+ "reference": "My aunt was diabetic for years; it was serious enough that she was taken to the hospital. The doctor found out that one of her kidneys was bad. An operation was done to remove it, and presently she has been living with one kidney since two thousand and six. She is fifty-six years old now and weighs sixty-two kilograms. Doctor, how long can she live with the remaining kidney?",
+ "audio_seconds": 24.32,
+ "created_at": "2026-07-06T05:00:29+00:00",
+ "failed": false,
+ "text": "My aunt was diabetic for years. It was serious enough that she was taken to the hospital. The doctor found out that one of her kidneys was bad, an operation was done to remove it, and presently she has been living with one kidney since two thousand and six. She is fifty six years old now and weighs sixty two kilograms. Doctor, how long can she live with the remaining kidney?",
+ "seconds": 0.718
+}

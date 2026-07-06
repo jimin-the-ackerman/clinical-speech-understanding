@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-1066-0012",
+ "condition": null,
+ "reference": "THEY WERE TALKING CONFIDENTIALLY TOGETHER BUT WHEN I CAME DOWN THEY CEASED",
+ "audio_seconds": 5.21,
+ "created_at": "2026-07-06T03:20:50+00:00",
+ "failed": false,
+ "text": "They were talking coquettishly together, but when I came down, they ceased.",
+ "seconds": 0.211
+}

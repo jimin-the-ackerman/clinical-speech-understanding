@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2033-164915-0017",
+ "condition": null,
+ "reference": "AND AMONGST THEM WERE SOME WHO WOULD HAVE CHOSEN THE CADET ZAU AL MAKAN FOR QUOTH THEY HIS NAME BE LIGHT OF THE PLACE AND HE HATH A SISTER NUZHAT AL ZAMAN HIGHS THE DELIGHT OF THE TIME BUT THEY SET OUT FIVE YEARS AGO FOR AL HIJAZ AND NONE WOTTETH WHAT IS BECOME OF THEM",
+ "audio_seconds": 22.92,
+ "created_at": "2026-07-06T03:27:30+00:00",
+ "failed": false,
+ "text": "And amongst them were some who would have chosen the cadet Zawal Makan, for quoth they, his name be light of the place, and he hath a sister Nuzhat Al Zaman Hays, the delight of the time. But they set out five years ago for Al Hijaz, and none wotteth what is become of them.",
+ "seconds": 0.699
+}

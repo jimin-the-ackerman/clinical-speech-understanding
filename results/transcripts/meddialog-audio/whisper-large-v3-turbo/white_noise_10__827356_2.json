@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__827356_2",
+ "condition": "white_noise_10",
+ "reference": "Hello. Yes, the kidney stones or stones anywhere in the urinary tract can cause bleeding, and an infection can also cause that. To understand your present state, I would advise you to undergo ultrasonography and intravenous pyelography tests along with routine blood and urine tests. This possibly cannot cause weight gain.",
+ "audio_seconds": 22.78,
+ "created_at": "2026-07-06T04:46:24+00:00",
+ "failed": false,
+ "text": "Hello, yes, the kidney stones or stones anywhere in the urinary tract can cause bleeding, and an infection can also cause that. To understand your present state, I would advise you to undergo ultrasonography and intravenous biolography tests, along with routine blood and urine tests. This possibly cannot cause weight damage.",
+ "seconds": 0.242
+}

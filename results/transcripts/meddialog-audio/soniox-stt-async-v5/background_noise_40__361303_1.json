@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__361303_1",
+ "condition": "background_noise_40",
+ "reference": "Hi. I am experiencing discomfort in my chest and also in my upper back around the shoulder blade area. It also radiates into my shoulder and arm on the left, and sometimes it feels like it is under my armpit at the side of my breast. This discomfort is happening intermittently. How do I know if this is just anxiety or if it is something more serious, like a heart attack?",
+ "audio_seconds": 20.74,
+ "created_at": "2026-07-06T02:50:46+00:00",
+ "failed": false,
+ "text": "Hi. I'm experiencing discomfort in my chest and also in my upper back around the shoulder blade area. It also radiates into my shoulder and arm on the left, and sometimes it feels like it is under my armpit at the side of my breast. This discomfort is happening intermittently. How do I know if this is just anxiety or if it is something more serious, like a heart attack?",
+ "seconds": 5.471
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0046",
+ "condition": null,
+ "reference": "THERE WERE THREE OF THEM THE CENTER FIGURE BEING THAT OF HARRY KING AND HE WAS VERY MUCH INTOXICATED",
+ "audio_seconds": 6.52,
+ "created_at": "2026-07-05T13:05:32+00:00",
+ "failed": false,
+ "text": "there were three of them the centre figure being that of harry king and he was very much intoxicated",
+ "seconds": 0.242
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__203919_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, my eleven-month-old son had a febrile convulsion. He also has chickenpox. I have now noticed that on his skull, under his skin, he has two smooth lumps, one bigger than the other. He has been very tired and has had a temperature, but I have put this down to the chickenpox. Should I be worried about these lumps?",
+ "audio_seconds": 19.8,
+ "created_at": "2026-07-06T04:41:07+00:00",
+ "failed": false,
+ "text": "Hi, my 11-month-old son had a febrile convulsion. He also has chicken pox. I have now noticed that on his skull, under his skin, he has two smooth lumps, one bigger than the other. He has been very tired and has had a temperature, but I have put this down to the chicken pox. Should I be worried about these lumps?",
+ "seconds": 0.29
+}

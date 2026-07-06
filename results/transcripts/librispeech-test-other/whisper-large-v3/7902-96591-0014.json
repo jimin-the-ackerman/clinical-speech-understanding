@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96591-0014",
+ "condition": null,
+ "reference": "THE KICK HE HAD RECEIVED WAS A FORETASTE OF WHAT HE MIGHT EXPECT AND AFTER A LITTLE CONSIDERATION HE CAME TO THE CONCLUSION THAT HIS DUTY WAS TO ESCAPE AND GET BACK TO THE CUTTER AS QUICKLY AS HE COULD",
+ "audio_seconds": 9.71,
+ "created_at": "2026-07-05T13:06:26+00:00",
+ "failed": false,
+ "text": "the kick he had received was a foretaste of what he might expect and after a little consideration he came to the conclusion that his duty was to escape and get back to the cutter as quickly as he could",
+ "seconds": 0.35
+}

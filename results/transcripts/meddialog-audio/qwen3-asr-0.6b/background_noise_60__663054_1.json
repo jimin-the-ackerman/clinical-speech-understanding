@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__663054_1",
+ "condition": "background_noise_60",
+ "reference": "My daughter has red bumps that appear in different places on her face each day. The bump from the previous day starts to go away. These are slightly itchy. Is it an allergic reaction? She did get play makeup for Christmas, but she hasn't used it in four days after the first red bump appeared.",
+ "audio_seconds": 16.81,
+ "created_at": "2026-07-06T04:59:16+00:00",
+ "failed": false,
+ "text": "My daughter has red bumps that appear in different places on her face each day. The bump from the previous day start away. These are slightly itchy. Is it an allergic reaction? She did get play makeup for Christmas, but she hasn't used it in four days after the first red bump appeared.",
+ "seconds": 0.559
+}

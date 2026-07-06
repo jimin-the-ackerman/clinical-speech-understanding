@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8188-269288-0042",
+ "condition": null,
+ "reference": "DON'T SAID ANNIE",
+ "audio_seconds": 1.93,
+ "created_at": "2026-07-05T13:14:35+00:00",
+ "failed": false,
+ "text": "Doot! See Danny!",
+ "seconds": 0.112
+}

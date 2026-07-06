@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__662728_1",
+ "condition": "background_noise_40",
+ "reference": "My father is sixty-six years old and he has had kidney problems for the last three months. He is on hemodialysis and he is also diabetic; he is taking insulin before eating. His bowel movements are regular, but urine output is not regular; it only comes after taking laxatives. Please guide me.",
+ "audio_seconds": 16.55,
+ "created_at": "2026-07-06T04:41:54+00:00",
+ "failed": false,
+ "text": "my father is 66 years old and he has had kidney problems for the last three months he is on hemodialysis and he's also diabetic he is taking insulin before his bowel movements are regular but urine output is not regular it only comes after taking laxatives please guide me",
+ "seconds": 0.222
+}

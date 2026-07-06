@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63722-0012",
+ "condition": null,
+ "reference": "I'M WORKING IN THE INTERESTS OF THE YOUNG MAN",
+ "audio_seconds": 2.54,
+ "created_at": "2026-07-05T13:13:13+00:00",
+ "failed": false,
+ "text": "I'm working in the interest of the young man.",
+ "seconds": 0.096
+}

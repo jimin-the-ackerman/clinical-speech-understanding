@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159609-0022",
+ "condition": null,
+ "reference": "POLLY WAS NOT AT ALL LIKE HERSELF THAT WINTER AND THOSE NEAREST TO HER SAW AND WONDERED AT IT MOST",
+ "audio_seconds": 6.52,
+ "created_at": "2026-07-06T03:29:19+00:00",
+ "failed": false,
+ "text": "Polly was not at all like herself that winter, and those new to her saw and wondered at it most.",
+ "seconds": 0.247
+}

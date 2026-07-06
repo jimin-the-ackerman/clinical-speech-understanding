@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__432918_2",
+ "condition": "white_noise_2",
+ "reference": "Hi, the treatment is on the right track. You can continue the same. Just look for any allergens and aggravating factors for the blocked nose, if any.",
+ "audio_seconds": 9.3,
+ "created_at": "2026-07-06T05:36:07+00:00",
+ "failed": false,
+ "text": "Hi. The treatment is on the right track. You can continue the same. Just look for any allergens and aggravating factors for the blocked nose.",
+ "seconds": 0.318
+}

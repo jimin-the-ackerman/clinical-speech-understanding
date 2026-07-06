@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8131-117016-0034",
+ "condition": null,
+ "reference": "I WANT THE NAME OF EVERY MAN IN THE GANG YOU CAN REMEMBER HE TOLD THE MAN",
+ "audio_seconds": 4.89,
+ "created_at": "2026-07-06T03:25:05+00:00",
+ "failed": false,
+ "text": "I want the name of every man in the gang you can remember. He told the man.",
+ "seconds": 0.211
+}

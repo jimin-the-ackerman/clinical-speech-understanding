@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__174299_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, my question is that I have pain in my back. I do tree work for a living and have fallen from a few trees. Doctors cannot find anything broken, but the pain is still present even when I am relaxed, lying down, sitting, etc. What should I do about this ongoing pain?",
+ "audio_seconds": 19.2,
+ "created_at": "2026-07-06T03:00:44+00:00",
+ "failed": false,
+ "text": "Hi, my question is that I have pain in my back. I do tree work for a living and have fallen from a few trees; doctors cannot find anything broken, but the pain is still present even when I am relaxed, lying down, sitting, etc. What should I do about this ongoing pain?",
+ "seconds": 4.857
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63241-0013",
+ "condition": null,
+ "reference": "OF ALL THINGS IN THE WORLD CONTENTION WAS MOST SWEET TO HER THOUGH WHY IT IS HARD TO IMAGINE FOR IT ALWAYS COST HER TEARS HEADACHES A DAY OR TWO IN BED ACUTE EMOTION AND IT WAS VERY POSSIBLE BASIL RANSOM WOULD NOT CARE TO CONTEND",
+ "audio_seconds": 16.45,
+ "created_at": "2026-07-05T13:13:08+00:00",
+ "failed": false,
+ "text": "of all things in the world contention was most sweet to her the why it is hard to imagine for it always cost her tears headaches a day or two in bed acute emotion and it was very possible basil ransom would not care to contend",
+ "seconds": 0.148
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0083",
+ "condition": null,
+ "reference": "ON ONE SIDE SAINT BERNARD ON THE OTHER THE AGENT OF THE SANITARY DEPARTMENT",
+ "audio_seconds": 4.85,
+ "created_at": "2026-07-05T23:54:55+00:00",
+ "failed": false,
+ "text": "On one side St. Bernard, on the other the agent of the Sanitary Department.",
+ "seconds": 0.633
+}

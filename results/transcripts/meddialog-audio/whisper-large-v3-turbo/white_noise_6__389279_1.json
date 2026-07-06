@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__389279_1",
+ "condition": "white_noise_6",
+ "reference": "Hi. I am thirty-two years old, with a Bachelor of Medicine, Bachelor of Surgery. I had two lower segment cesarean sections, the last one being a year and a half ago. I have severe pain in my back and abdomen. I was diagnosed with gallstones in February two thousand and fourteen when there was a single stone measuring nine point two millimeters. I have had repeated episodes of pain, approximately ten times since February, with the last episode on August thirteen. The pain always occurs around three:zero AM. I had a repeated scan on August fourteen, which showed two stones measuring eight millimeters and nine millimeters. I started taking Udiliv yesterday. Will it be effective? I want to delay surgery. Is surgery the only treatment? If yes, can it be delayed? Please help.",
+ "audio_seconds": 52.65,
+ "created_at": "2026-07-06T04:48:31+00:00",
+ "failed": false,
+ "text": "Hi, I am 33 years old with a Bachelor of Medicine, Bachelor of Surgery, and I have two lower seven caesarean septums, the last one being a year and a half ago. I have severe pain in my back in the afternoon. I was diagnosed with gallstones in February 2014, when there was a single stone measuring 9.2 million. I have had repeated episodes of pain, approximately 10 times in February, with the last episode on August 13th. The pain always occurs around 3.0am. I had a repeated scan on August 14th, which showed two stones measuring 18 millimeters and 9 millimeters. I started typing a day yesterday. Would it be a pressure? One for your surgery. Is surgery the only treatment? S. Can it be delayed? Two pounds.",
+ "seconds": 0.501
+}

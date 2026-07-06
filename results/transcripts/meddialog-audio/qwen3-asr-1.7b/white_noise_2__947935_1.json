@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__947935_1",
+ "condition": "white_noise_2",
+ "reference": "Hi, I have a four-month-old breastfed son who only has a bowel movement once a week. When he does finally have one, it is really smelly and dark green in color. My pediatrician says it is normal for him. Does that sound right to you? It really bothers me, but maybe that is just how his system works. Should I give him a laxative?",
+ "audio_seconds": 21.76,
+ "created_at": "2026-07-06T05:38:27+00:00",
+ "failed": false,
+ "text": "Hi, I have a four-month-old breastfed son who only has a bowel movement once a week. When he does finally have one, it is really smelly and dark green in color. My pediatrician says it is normal for him. Does that sound right to you? It really bothers me, but maybe that is just how his system works. Should I give him a laxative?",
+ "seconds": 0.74
+}

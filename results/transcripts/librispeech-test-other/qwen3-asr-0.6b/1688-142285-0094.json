@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0094",
+ "condition": null,
+ "reference": "I DON'T KNOW POSITIVELY THAT IT IS HERS EITHER BUT FROM LITTLE THINGS I HAVE GATHERED FROM HIM I FANCY SO",
+ "audio_seconds": 7.38,
+ "created_at": "2026-07-06T03:14:56+00:00",
+ "failed": false,
+ "text": "I don't know positively that it is hers either, but from little things I have gathered from him, I fancy so.",
+ "seconds": 0.261
+}

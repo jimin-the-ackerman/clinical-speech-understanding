@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__507517_2",
+ "condition": "background_noise_20",
+ "reference": "Hi, welcome to Health Care Management. The fact that your child's fever is still not subsiding despite taking Augmentin for so long means that the infection is not responding to this medication. The good thing is that the urinalysis and basic blood tests are normal. Such prolonged fever can be seen in typhoid, malaria, etc. Therefore, I would suggest that you have an evaluation done to rule out typhoid and malaria, and if there are any positive results, specific treatment for the same would control all problems. However, it would be better for you to have your child admitted to the hospital for intravenous antibiotics after sending blood for investigations, including blood culture. I hope your child gets well soon. I am happy to clarify any further doubts.",
+ "audio_seconds": 48.47,
+ "created_at": "2026-07-06T02:47:47+00:00",
+ "failed": false,
+ "text": "Hi. Welcome to healthcare management. The fact that your child's fever is still not subsiding despite taking Augmentin for so long means that the infection is not responding to this medication. The good thing is that the urinalysis and basic blood tests are normal; such prolonged fever can be seen in typhoid, malaria, etc. Therefore, I would suggest that you have an evaluation done to rule out typhoid and malaria, and if there are any positive results, specific treatment for the same would control all problems. However, it would be better for you to have your child admitted to the hospital for intravenous antibiotics after send for investigations, including blood culture. I hope your child gets well soon. I am happy to clarify any further doubts.",
+ "seconds": 5.036
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__665427_1",
+ "condition": "white_noise_10",
+ "reference": "I have pain in my left arm. I am a twenty-three-year-old healthy man. I worked out three days ago, including lifting weights. A day after, I noticed my left arm hurting and I am unable to extend my arm straight out. When I try to straighten my arm, a sharp pain shoots all the way to my fingertips. Do you have any idea what I did and if it will go away soon?",
+ "audio_seconds": 19.8,
+ "created_at": "2026-07-06T05:33:17+00:00",
+ "failed": false,
+ "text": "I have pain in my left arm. I am a 23-year-old healthy man. I worked out three days ago, including lifting weights. The day after, I noticed my left arm hurting, and I am unable to extend my arm straight out. When I try to straighten my arm, sharp pain shoots all the way to my thumb. Do you have any idea what I did, and if it will go away?",
+ "seconds": 0.814
+}

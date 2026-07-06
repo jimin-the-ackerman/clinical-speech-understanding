@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__477017_2",
+ "condition": "background_noise_40",
+ "reference": "Hello. A hiatus hernia predisposes a person to reflux of food back, which leads to aspiration of gastric contents into the airway, resulting in choking and coughing. Omeprazole alone will not help you in this situation. You will need surgery for hiatal hernia repair. Until you prepare yourself for the surgery, please follow these instructions: one. Eat small and frequent meals. Avoid heavy meals. two. Drink water half an hour before meals; do not drink water with the food. three. Keep yourself in a sitting or standing position for at least half an hour after meals. four. Avoid any products that cause constipation. five. No tea, coffee, or chocolate. If you follow these instructions, the chances of aspiration will decrease.",
+ "audio_seconds": 48.04,
+ "created_at": "2026-07-06T04:41:37+00:00",
+ "failed": false,
+ "text": "Hello. Hiatus hernia predisposes a person to reflux of feedback, which leads to aspiration of gastric contents into the airway, resulting in choking and coughing. Alnafraisal alone will not help you in this situation. You will need surgery for hiatal hernia repair. Until you prepare yourself for the surgery, please follow these instructions. 1. Eat small and frequent meals. Avoid heavy meals. 2. Drink water half an hour before meals. Do not drink water with the food. 3. Keep yourself in a sitting or standing position for at least half an hour after meals. 4. Avoid any products that cause constipation. 5. No tea, coffee or chocolate. If you follow these instructions, the chances of aspiration will decrease.",
+ "seconds": 0.458
+}

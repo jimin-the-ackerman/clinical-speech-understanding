@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0033",
+ "condition": null,
+ "reference": "BUT I'LL YES I'LL GIVE YOU A GUINEA IF YOU WILL LET ME OUT",
+ "audio_seconds": 3.83,
+ "created_at": "2026-07-06T03:36:24+00:00",
+ "failed": false,
+ "text": "But I'll, yes, I'll give you a guinea if you will let me out.",
+ "seconds": 0.218
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__818530_1",
+ "condition": "background_noise_60",
+ "reference": "My friend recently took thirty tablets of five hundred milligrams of Crocin Advance with fruit juice. She powdered them and mixed them with the juice and consumed it. However, she tells me this, and she has been in an intensive care unit after three days, and just now slowly recovering after four weeks. What actually happened to her? Did the doctors tell her correctly that she had a serious liver problem, or are they just acting? I do not mean to hurt any doctors here; I know doctors are very precious. The only thing I want to ask is what actually might have happened to her?",
+ "audio_seconds": 35.33,
+ "created_at": "2026-07-06T04:23:47+00:00",
+ "failed": false,
+ "text": "Then, Glenn recently took 30 tablets of 5-girly Willow Gans Frog and Nance with fruit juice. She powdered them and mixed them with the juice and used them. However, she tells me this, and she has been in an intensive period of about three days, and just now she's probably about four weeks. It actually happened to her. Did the doctors tell you how it went? Or I was just acting? I don't think I've heard any doctors here. I'm just saying, I'm not sure. I'm not sure. I'm just saying, I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm just saying, I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I know doctors are very precious. The only thing I want to ask is what actually happened to my mom?",
+ "seconds": 10.286
+}

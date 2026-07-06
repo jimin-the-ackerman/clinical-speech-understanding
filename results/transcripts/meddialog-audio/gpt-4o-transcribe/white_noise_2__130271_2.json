@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__130271_2",
+ "condition": "white_noise_2",
+ "reference": "Hello there, in my opinion, you should get an electrocardiogram, chest X-ray, and two-dimensional echocardiogram of your heart done. I cannot say if it is serious, but please have these tests done to rule out everything.",
+ "audio_seconds": 12.54,
+ "created_at": "2026-07-06T00:46:16+00:00",
+ "failed": false,
+ "text": "Hello there, in my opinion, you should get an electrocardiogram, chest x-ray, and two-dimensional echocardiogram of your heart done. I cannot say if it is serious, but please have these tests done to rule out everything.",
+ "seconds": 0.874
+}

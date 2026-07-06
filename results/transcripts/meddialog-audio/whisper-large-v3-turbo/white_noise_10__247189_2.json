@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__247189_2",
+ "condition": "white_noise_10",
+ "reference": "Hi, as you narrated, head trauma caused by a heavy object or protruding part may lead to a localized depressed fracture of the skull bone, and such a defect may not produce many symptoms. This type of defect may only be present as a dent upon palpation. However, such a fracture usually does not require any treatment or surgery. If you are very concerned, then you may undergo a plain computed tomography scan of the head with a bone window to look for any fracture. I hope you find my advice useful. Wishing you good health.",
+ "audio_seconds": 32.6,
+ "created_at": "2026-07-06T04:45:33+00:00",
+ "failed": false,
+ "text": "High, heavy airing, heads on the paws by a heavy outlet of the protruding part may lead to a localized, depressed, fracture, and disturbed weapon. Inceptive defects may not be obtained as symptoms. This type of defect may only be present at the rate of heart calcution. However, such a fracture usually may not require any treatment or surgery. If you are very concerned, then you may undergo a plain, concluded, small record scan of the head with a bone window to look for any fracture. I hope you find my advice useful, wishing you a good house.",
+ "seconds": 0.385
+}

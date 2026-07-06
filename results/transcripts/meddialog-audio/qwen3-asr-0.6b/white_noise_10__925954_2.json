@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__925954_2",
+ "condition": "white_noise_10",
+ "reference": "It definitely seems to be an allergic reaction. Anything such as food, pollen, medicines, or fabrics can react with body proteins to cause this. You can use an antihistamine tablet and apply triamcinolone mouth paint on the lips. This will address the current symptoms, and if it recurs, we should investigate the cause, in my opinion.",
+ "audio_seconds": 20.65,
+ "created_at": "2026-07-06T05:07:44+00:00",
+ "failed": false,
+ "text": "It definitely seems to be an event that reacts. Anything that is being power and metaphorical is fabulous, and we want to body partings to cause. We can even find the history of power and find philanthropy and now culture and life. This will affect the current generation, and if it returns, we should investigate the past and modern.",
+ "seconds": 0.633
+}

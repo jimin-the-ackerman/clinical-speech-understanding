@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__689593_2",
+ "condition": "white_noise_2",
+ "reference": "Firstly, I appreciate your compliance with inhalers over the last seven years. The Foracort inhaler contains a bronchodilator, which can cause these symptoms if you are taking an overdose. You need to regulate your dosage according to the severity of your asthma, which your doctor will assist you with. Additionally, take puffs with the help of a spacer, which will give you maximum efficacy with a minimum dosage. You also need to gargle every time you use the inhaler to wash away any oro-pharyngeal deposition.",
+ "audio_seconds": 30.38,
+ "created_at": "2026-07-06T05:37:21+00:00",
+ "failed": false,
+ "text": "Firstly, I appreciate your compliance with inhalers over the last seven years. The Foricord inhaler contains a bronchodilator, which can cause these symptoms if you are taking an overdose. You need to regulate your dosage according to the severity of your asthma, which your doctor will assist you with. Additionally, take puffs with the help of a spacer, which will give you maximum efficacy with a minimum dosage. You also need to gargle every time you use the inhaler to wash away any oropharyngeal deposition.",
+ "seconds": 1.052
+}

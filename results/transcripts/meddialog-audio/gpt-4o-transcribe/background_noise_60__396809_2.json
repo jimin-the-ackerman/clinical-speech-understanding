@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__396809_2",
+ "condition": "background_noise_60",
+ "reference": "Go swimming and maintain good strength in your lumbar muscles. When you have inflammation, take non-steroidal anti-inflammatory drugs or corticosteroids for a period, as your family doctor will suggest. A lumbar orthosis will aid in the acute phase.",
+ "audio_seconds": 18.35,
+ "created_at": "2026-07-06T00:44:03+00:00",
+ "failed": false,
+ "text": "Go swimming and maintain good strength in your lumbar muscles. When you have inflammation, take non-steroidal anti-inflammatory drugs or corticosteroids for a period, as your family doctor will suggest. A lumbar orthosis will aid in the acute phase.",
+ "seconds": 1.15
+}

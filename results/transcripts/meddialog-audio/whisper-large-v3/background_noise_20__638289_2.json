@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__638289_2",
+ "condition": "background_noise_20",
+ "reference": "Hello. Your symptom complex is a bit non-specific. Nevertheless, the most important point you have mentioned is regarding the acute kidney infection. What was the exact diagnosis of the kidney infection? Your present symptoms may be a consequence of the kidney infection.",
+ "audio_seconds": 16.64,
+ "created_at": "2026-07-06T04:15:32+00:00",
+ "failed": false,
+ "text": "Hello. Your symptom complex is a bit nonspecific. Nevertheless, the most important point you have mentioned is regarding the acute kidney infection. What was the exact diagnosis of the kidney infection? Your present symptoms may be a consequence of the kidney infection.",
+ "seconds": 0.49
+}

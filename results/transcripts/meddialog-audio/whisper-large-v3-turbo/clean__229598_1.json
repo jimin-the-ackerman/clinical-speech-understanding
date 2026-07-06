@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__229598_1",
+ "condition": "clean",
+ "reference": "Hi, my three-year-old daughter has been ill for some time now. She has had a persistent cough since October two thousand and ten and has been ill since January two thousand and eleven with a high temperature, a cold, and the cough. She is so worn out and has lost weight. An X-ray showed a small shadow on her right lung. Now I am really worried as I have to wait to be referred to a specialist, and I am not sure how long that will take. I just feel she is being dosed up with medicine constantly, but with no effect. She has been prescribed another antibiotic as of yesterday, but I am now struggling to get her to take it because it is making her feel sick, and I think she has had enough of taking them. Please help.",
+ "audio_seconds": 46.17,
+ "created_at": "2026-07-06T04:44:03+00:00",
+ "failed": false,
+ "text": "Hi. My three-year-old daughter has been ill for some time now. She has had a persistent cough since October 2010 and has been ill since January 2011, with a high temperature, a cold, and a cough. She is so worn out and has lost weight. An x-ray showed a small shadow on her right lung. Now, I am really worried as I have to wait to be referred to a specialist, and I'm not sure how long that will take. I just feel she is being dosed up with medicine constantly, but with no effect. She has been prescribed another antibiotic as of yesterday, but I am now struggling to get her to take it because it is making her feel sick, and I think she has had enough of taking them. Please help.",
+ "seconds": 0.472
+}

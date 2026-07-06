@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__404694_1",
+ "condition": "background_noise_60",
+ "reference": "An area of my gums on the left part of my mouth on the inside has been hurting for the past few days. I have tried looking, but I cannot see that area at all. It feels like there is an open cut, like a wound, and if I move my mouth around or touch my tongue to it, even just a little, it hurts quite a bit. What could that be?",
+ "audio_seconds": 19.54,
+ "created_at": "2026-07-06T02:54:23+00:00",
+ "failed": false,
+ "text": "An area of my gums on the left part of my mouth on the inside has been hurting for the past few days. I have tried looking, but I cannot see that area at all. It feels like there's an open cut, like a wound, and if I move my mouth around or touch my tongue to it, even just a little, it hurts quite a bit. What could that be?",
+ "seconds": 8.287
+}

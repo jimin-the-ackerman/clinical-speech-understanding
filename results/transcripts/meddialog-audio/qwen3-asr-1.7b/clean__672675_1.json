@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__672675_1",
+ "condition": "clean",
+ "reference": "I have abdominal pain, lower back pain, and a very little amount of white, watery discharge for the past two days. I am trying for pregnancy. Today is the 24th day of my cycle. My expected period date is on the 25th of July. My last period date was on the 26th of June. Can you advise me on why these pains occur?",
+ "audio_seconds": 22.27,
+ "created_at": "2026-07-06T05:29:31+00:00",
+ "failed": false,
+ "text": "I have abdominal pain, lower back pain, and a very little amount of white, watery discharge for the past two days. I am trying for pregnancy. Today is the 24th day of my cycle. My expected period is on the 25th of July. My last period date was on the 26th of June. Can you advise me on why these pains occur?",
+ "seconds": 0.758
+}

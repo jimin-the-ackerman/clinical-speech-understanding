@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__706174_2",
+ "condition": "background_noise_20",
+ "reference": "Brief answer: gastritis or stomach hyperacidity. Detailed answer: Based on your history, abdominal pain with burping is more consistent with stomach hyperacidity. In my opinion, you should take one tablet of pantoprazole forty milligrams half an hour before breakfast with antacids three times daily. Have plenty of fluids and avoid fatty and spicy food. I recommend going for an ultrasound to check for liver and gallbladder issues; it could be due to a stone in the gallbladder. I hope I have answered your question. I wish you good health. Have a nice day.",
+ "audio_seconds": 36.18,
+ "created_at": "2026-07-06T05:18:07+00:00",
+ "failed": false,
+ "text": "Brief answer: gastritis or stomach hyperacidity. Detailed answer: Based on your history, abdominal pain with burping is more consistent with stomach hyperacidity. In my opinion, you should take one tablet of Pantoprazole, 40 milligrams, half an hour before breakfast, with antacids three times daily. Have plenty of fluids and avoid fatty and spicy food. I recommend going for an ultrasound to check for liver and gallbladder issues. It could be due to a stone in the gallbladder. I hope I have answered your question. I wish you good health. Have a nice day.",
+ "seconds": 1.208
+}

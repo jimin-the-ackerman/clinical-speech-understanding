@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__540038_1",
+ "condition": "white_noise_10",
+ "reference": "I have been having pain in my abdomen that radiates to my back in the area of my gallbladder for about six months now. I have had several attacks that were so painful that I went to the emergency room. They never found anything to suggest a problem. While the symptoms are becoming more frequent, I do not want to waste more time and money if they cannot seem to find what exactly is wrong. Is there something specific I should ask the doctors to check? I just want to find out what it is. It is accompanied by nausea, vomiting, and diarrhea. Any advice?",
+ "audio_seconds": 33.45,
+ "created_at": "2026-07-06T00:45:54+00:00",
+ "failed": false,
+ "text": "I don't know. I don't know.",
+ "seconds": 0.936
+}

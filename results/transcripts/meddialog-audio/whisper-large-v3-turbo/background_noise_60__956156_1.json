@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__956156_1",
+ "condition": "background_noise_60",
+ "reference": "I just had an Magnetic Resonance Imaging on my lower back because I have had hip and knee pain for a year, and all X-rays showed nothing. The results came back and I have mild disk protrusion, and there may be a tear on the sac surrounding the spinal column. My doctor's advice is to see a neurologist. Is this serious? Do I need to see a doctor immediately? Should I be limited in my physical activities?",
+ "audio_seconds": 26.54,
+ "created_at": "2026-07-06T04:43:49+00:00",
+ "failed": false,
+ "text": "I just had a magnetic resonance imaging on my lower back because I have had hip and knee pain for a year, and all x-rays showed nothing. The results came back, and I have mild disc protrusion, and there may be a tear on the stomach surrounding this phone. My doctor's advice is to see a neurologist. Is this serious? Do I need to see a doctor immediately? Should I be limited in my physical activities?",
+ "seconds": 0.307
+}

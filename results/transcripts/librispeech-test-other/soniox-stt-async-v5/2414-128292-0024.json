@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128292-0024",
+ "condition": null,
+ "reference": "THOU ART MY SHADOW",
+ "audio_seconds": 2.45,
+ "created_at": "2026-07-06T00:02:04+00:00",
+ "failed": false,
+ "text": "DAO Art My Shadow.",
+ "seconds": 4.508
+}

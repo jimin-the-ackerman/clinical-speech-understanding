@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3764-168671-0002",
+ "condition": null,
+ "reference": "A MOURNING COACH IN WHICH COULD BE SEEN A PRIEST IN HIS SURPLICE AND A CHOIR BOY IN HIS RED CAP FOLLOWED",
+ "audio_seconds": 7.67,
+ "created_at": "2026-07-05T12:59:58+00:00",
+ "failed": false,
+ "text": "a mourning coach in which could be seen a priest in his surplice and a choir boy in his red cap followed",
+ "seconds": 0.267
+}

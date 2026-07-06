@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__251074_1",
+ "condition": "background_noise_60",
+ "reference": "Hi, I did a pregnancy test which turned out positive. I further did an ultrasound, and my report stated the following: pelvic ultrasound shows an anteverted uterus with a thickened endometrium. The left adnexal region showed a thick-walled cystic lesion with a ring of fire around an embryo and evidence of significant fluid in the cul-de-sac. Number of embryos: single. Location: left adnexal region. Gestational sac: eight point four one mm. Gestational age: four weeks. Comments: single left ectopic gestation at four weeks. What does this mean? I am really worried about my pregnancy being ectopic. What should I do?",
+ "audio_seconds": 43.09,
+ "created_at": "2026-07-06T02:53:48+00:00",
+ "failed": false,
+ "text": "Hi, I have a dependency test which turned out to be abnormal. I further did an ultrasound, and my report stated the following: further ultrasound shows an anteverted uterus with a thickened endothelium. The left adnexal region showed a thick-walled cystic lesion with a ring of fire around the embryo and evidence of significant fluid in the cul-de-sac. Number of embryos: 1. Location: left adnexal region. Gestational sac: 8.41 mm2, gestational in 4 weeks. Comments: 1 left ectopic gestation at 4 weeks. What does this mean? I am really worried about my pregnancy being ectopic. Which would I do?",
+ "seconds": 8.521
+}

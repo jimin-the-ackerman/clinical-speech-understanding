@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__530728_2",
+ "condition": "background_noise_60",
+ "reference": "First of all, you have not mentioned your age, which is very important in the case of back pain. For the treatment of severe lower back pain, you can take some painkillers like Biozobid-Plus or Osteonac-TH only when the pain is worse or disturbing your daily activities, along with some calcium supplements like Shalcal-D or Toscal-Gem once daily. Do some physiotherapy exercises after receiving an expert opinion from a physiotherapist. I will also advise you to sleep on a plain surface.",
+ "audio_seconds": 31.74,
+ "created_at": "2026-07-06T05:25:13+00:00",
+ "failed": false,
+ "text": "First of all, you have not mentioned your age, which is very important in the case of back pain. For the treatment of severe lower back pain, you can take some painkillers like Biozobid Plus or Osteonac PH, only when the pain is worse or disturbing your daily activities. Along with some calcium supplements like Shoukal D or Toscal Gem once daily, do some physiotherapy exercises after receiving an expert opinion from a physiotherapist. I will also advise you to sleep on a plain surface.",
+ "seconds": 1.022
+}

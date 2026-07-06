@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__529660_1",
+ "condition": "background_noise_20",
+ "reference": "I have had a recurrent yeast infection lately each time I have been intimate with my husband. I have never had a yeast infection in my forty-seven years of life, so I am very concerned about what is going on. Although we are separated, I know that I have not been with anyone else, and he says that he has not, and I believe him. So if multiple partners are not the case, what else could it be?",
+ "audio_seconds": 23.38,
+ "created_at": "2026-07-06T02:47:53+00:00",
+ "failed": false,
+ "text": "I have had a recurrent yeast infection lately, each time I have been intimate with my husband. I have never had a yeast infection in my 47 years of life, so I am very concerned about what is going on. Although we are separated, I know that I have not been with anyone else, and he says that he has not, and I believe him. So if multiple partners are not the case, what else could it be?",
+ "seconds": 6.106
+}

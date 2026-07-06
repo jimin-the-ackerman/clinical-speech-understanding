@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163389-0005",
+ "condition": null,
+ "reference": "BECAUSE THEY'RE AFRAID THE MAN'S FRIENDS WILL SHOOT THEM IN THE BACK IN THE DARKAND IT'S JUST WHAT THEY WOULD DO",
+ "audio_seconds": 7.92,
+ "created_at": "2026-07-06T03:16:18+00:00",
+ "failed": false,
+ "text": "Because they're afraid the man's friends will shoot them in the back in the dark, and it's just what they would do.",
+ "seconds": 0.289
+}

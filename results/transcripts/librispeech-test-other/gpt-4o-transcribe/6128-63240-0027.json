@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "6128-63240-0027",
+ "condition": null,
+ "reference": "MISSUS LUNA'S FAMILIARITY EXTENDED EVEN TO HER SISTER SHE REMARKED TO MISS CHANCELLOR THAT SHE LOOKED AS IF SHE WERE GOT UP FOR A SEA VOYAGE",
+ "audio_seconds": 8.55,
+ "created_at": "2026-07-05T23:57:09+00:00",
+ "failed": false,
+ "text": "Mrs. Loo's familiarity extended even to her sister. She remarked to Miss Chunsloe that she looked as if she were got up for a sea-voyage.",
+ "seconds": 1.109
+}

@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__871041_2",
+ "condition": "background_noise_40",
+ "reference": "Hello, thank you for choosing Health Care Management Institute. If your blood test and scanning results are negative, then there is a strong possibility of ulcerative colitis, and the colonoscopy is the only way to confirm it. If it turns negative, then proceed with a stool examination; this will clarify the situation, or consider a barium meal study. If every test shows no abnormality, then this could be related to anxiety or depression. Have a nice day.",
+ "audio_seconds": 30.12,
+ "created_at": "2026-07-06T00:43:38+00:00",
+ "failed": false,
+ "text": "Hello, thank you for choosing Healthcare Management Institute. If your blood test and scanning results are negative, then there is a strong possibility of ulcerative colitis, and the colonoscopy is the only way to confirm it. If it turns negative, then proceed with a stool examination. This will clarify the situation, or consider a barium meal study. If every test shows no abnormality, then this could be due to anxiety or depression. Have a nice day.",
+ "seconds": 1.505
+}

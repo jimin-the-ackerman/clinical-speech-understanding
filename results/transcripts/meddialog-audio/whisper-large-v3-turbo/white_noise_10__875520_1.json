@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__875520_1",
+ "condition": "white_noise_10",
+ "reference": "I have pain in my lower back that radiates down to my buttocks. I think it started when I was jumping on stacks in the gym. I have had the pain on and off for a couple of months. I thought it might be coming from an old mattress, which I replaced, but the pain is still present. It seems to get worse when I sit for long periods or when I first get up in the morning.",
+ "audio_seconds": 18.6,
+ "created_at": "2026-07-06T04:46:29+00:00",
+ "failed": false,
+ "text": "I have pain in my lower back, I think it started when I was jumping on stacks in the gym. I have had the pain on and off for a couple of months. I thought it might be coming from an old muscle, which I replaced, but the pain is still present. It seems to get worse in a quick moment period, or when I first look at it, you know.",
+ "seconds": 0.245
+}

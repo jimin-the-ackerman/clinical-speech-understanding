@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__907141_2",
+ "condition": "clean",
+ "reference": "Hello. The pain in the region you described could be related to your ovaries, which have also been diagnosed with polycystic ovary syndrome. Therefore, the pain could be related to the condition you have or possibly due to what we suspect could be ovulation pain. Please talk to your doctor about the same, and also get an ultrasound of your reproductive system. Best wishes.",
+ "audio_seconds": 20.14,
+ "created_at": "2026-07-06T04:45:08+00:00",
+ "failed": false,
+ "text": "Hello. The pain in the region you described could be related to your ovaries, which have also been diagnosed with polycystic ovary syndrome. Therefore, the pain could be related to the condition you have or possibly due to what we suspect could be ovulation pain. Please talk to your doctor about the same and also get an ultrasound of your reproductive system. Best wishes.",
+ "seconds": 0.26
+}

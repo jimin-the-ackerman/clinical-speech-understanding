@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__446290_2",
+ "condition": "clean",
+ "reference": "Here, if you have itchy and scaly skin, the application of Mahamarichadi Taila over the affected area would help, according to my opinion. Internally, a combination of Patol Patra Churna, Sariva Churna, Nagermotha Churna, Patha Churna, and Neem Patra Churna combined in the right proportion and given in proper divided doses three times a day is advised.",
+ "audio_seconds": 21.08,
+ "created_at": "2026-07-06T04:26:13+00:00",
+ "failed": false,
+ "text": "Here, if you have itchy and scaly skin, the application of Mahamara Chedi Tela over the affected area would help, according to my opinion. Internally, a combination of Patulpatrachurna, Sarivachurna, Nabimothachurna, Pathachurna, and Neempatrachurna combined in the right proportion and given in proper divided doses three times a day is advised.",
+ "seconds": 0.782
+}

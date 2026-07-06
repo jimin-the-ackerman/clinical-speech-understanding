@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__883301_2",
+ "condition": "white_noise_10",
+ "reference": "The morning-after pill contains progesterone, which can disturb the normal cycle of menstruation. Therefore, I do not think there is any need to worry unless you had any further unprotected sexual intercourse. If you do not get your period even after one week, please get tested with a urine pregnancy test.",
+ "audio_seconds": 19.37,
+ "created_at": "2026-07-06T05:34:16+00:00",
+ "failed": false,
+ "text": "The morning after pill contains progestin, which can disturb the normal cycle of menstruation. Therefore, I do not think there is any need to worry unless he had any further unprotected sexual intercourse. If you do not get your period even after one week, please get tested with a urine pregnancy test.",
+ "seconds": 0.585
+}

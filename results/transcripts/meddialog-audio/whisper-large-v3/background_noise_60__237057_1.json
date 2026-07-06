@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__237057_1",
+ "condition": "background_noise_60",
+ "reference": "I have had Lyme disease for seven years and am presently experiencing a bad flare-up of symptoms. I have been taking two different antibiotics since last Thursday. I have read that an infrared sauna will help patients with Lyme disease. Is it okay to use a sauna while taking antibiotics, or does it matter?",
+ "audio_seconds": 17.41,
+ "created_at": "2026-07-06T04:21:21+00:00",
+ "failed": false,
+ "text": "I have had Lyme disease for seven years and am presently experiencing a bad flare-up of symptoms. I have been taking two different antibiotics since last Thursday. I've read that an infrared sauna will help patients with Lyme disease. Is it okay to use a sauna while taking antibiotics, or does it matter?",
+ "seconds": 0.592
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__501320_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, my Thyroid Stimulating Hormone level is six point six, and I have been prescribed by my doctor to take the tablet 'Thyronorm twenty-five micrograms' daily on an empty stomach for three months. I have been experiencing irregular periods for the last six months, and that is why I underwent the thyroid test. I am getting married in another two months. By any chance, does consuming these tablets affect a woman getting pregnant, and are there any other side effects? Also, does consuming the tablet 'Deviry' to get my periods affect my uterus?",
+ "audio_seconds": 34.56,
+ "created_at": "2026-07-06T04:45:53+00:00",
+ "failed": false,
+ "text": "Hi, my thyroid-stimulating hormone level is 6.6, and I have been prescribed by my doctor to take the tablet Thyronorm 25 micrograms daily on an empty stomach for two months. I have been experiencing irregular periods for the last six months, and that is why I underwent a thyroid test. I am getting married in another two months. Are there any chance that consuming these tablets affects the women getting pregnant, and are there any other side effects? Also, they're consuming the tablets of dairy to get my food to affect my leader.",
+ "seconds": 0.371
+}

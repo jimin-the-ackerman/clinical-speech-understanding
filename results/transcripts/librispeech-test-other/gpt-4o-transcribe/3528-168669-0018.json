@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168669-0018",
+ "condition": null,
+ "reference": "GIVE ME YOUR ORDERS VERY REVEREND MOTHER",
+ "audio_seconds": 2.91,
+ "created_at": "2026-07-05T23:54:49+00:00",
+ "failed": false,
+ "text": "Give me your orders, very Reverend Mother.",
+ "seconds": 0.671
+}

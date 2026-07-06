@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131556-0011",
+ "condition": null,
+ "reference": "IF I WERE SUSPICIOUS I REPLIED I SHOULD HAVE DISCOVERED YOUR INFAMY LONG BEFORE",
+ "audio_seconds": 6.56,
+ "created_at": "2026-07-06T03:32:58+00:00",
+ "failed": false,
+ "text": "If I were suspicious, I replied, I should have discovered your infamy long before.",
+ "seconds": 0.212
+}

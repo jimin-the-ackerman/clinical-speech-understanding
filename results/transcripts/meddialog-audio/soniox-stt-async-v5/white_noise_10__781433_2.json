@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__781433_2",
+ "condition": "white_noise_10",
+ "reference": "Hi. The follicular study would have been cancelled as either your follicle would have already ruptured or that particular cycle would not have produced a good enough egg to be studied. Please be patient and work with your doctor to improve your follicle health. Best wishes.",
+ "audio_seconds": 15.53,
+ "created_at": "2026-07-06T03:03:45+00:00",
+ "failed": false,
+ "text": "Hi, the follicular study would have been canceled as either your follicle would have already ruptured or that the cycle would not have produced a good enough egg to be studied. Please be patient and work with your doctor to improve your follicle health. Best wishes.",
+ "seconds": 7.86
+}

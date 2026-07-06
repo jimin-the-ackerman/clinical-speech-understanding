@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "8461-281231-0001",
+ "condition": null,
+ "reference": "IT WAS ON THEIR JOURNEY TO THAT TOWN THAT THEY WERE OVERTAKEN ON THE ROAD BY CEDRIC AND HIS PARTY IN WHOSE COMPANY THEY WERE AFTERWARDS CARRIED CAPTIVE TO THE CASTLE OF TORQUILSTONE",
+ "audio_seconds": 10.48,
+ "created_at": "2026-07-05T13:08:50+00:00",
+ "failed": false,
+ "text": "it was on their journey to that town that they were overtaken on the road by cedric and his party in whose company they were afterwards carried captive to the castle of torkilstone",
+ "seconds": 0.327
+}

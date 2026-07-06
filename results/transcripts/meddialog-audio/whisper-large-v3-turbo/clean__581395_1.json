@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__581395_1",
+ "condition": "clean",
+ "reference": "I have a two-and-a-half-month-old baby. He cries a lot before passing stool. His stool color is reddish-brown, and he is passing mucus as well. I am not getting enough breast milk, so I have started giving him fresh cow's milk. I am concerned as he cries a lot. My doctor thinks he has amoebiasis.",
+ "audio_seconds": 17.58,
+ "created_at": "2026-07-06T04:44:34+00:00",
+ "failed": false,
+ "text": "I have a two and a half month old baby. He cries a lot before passing stool. His stool color is reddish brown and he is passing mucus as well. I am not getting enough breast milk, so I have started giving him fresh cow's milk. I am concerned as he cries a lot. My doctor thinks he has amoebiasis.",
+ "seconds": 0.239
+}

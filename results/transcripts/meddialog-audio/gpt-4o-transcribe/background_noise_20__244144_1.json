@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__244144_1",
+ "condition": "background_noise_20",
+ "reference": "Hello, I am concerned that I may have obsessive-compulsive disorder or another obsessive disorder. I have a need to clean and to have a clean house all the time. Everything in my house has to have a specific spot, and if something is misplaced, I get really anxious and have to put it back in the correct spot immediately. My house is always clean and spotless. I get anxious a lot and randomly start moving things around.",
+ "audio_seconds": 26.62,
+ "created_at": "2026-07-06T00:41:58+00:00",
+ "failed": false,
+ "text": "Hello, I am concerned that I may have obsessive-compulsive disorder or another obsessive disorder. I have a need to clean and to have a clean house all the time. Everything in my house has to have a specific spot, and if something is misplaced, I get really anxious and have to put it back in the correct spot immediately. My house is always clean and spotless. I get anxious a lot and randomly start moving things around.",
+ "seconds": 1.827
+}

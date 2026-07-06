@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__370211_2",
+ "condition": "white_noise_10",
+ "reference": "This is due to hormonal changes in the body. There is no specific treatment for that. All you can do is relax yourself through meditation and yoga.",
+ "audio_seconds": 9.05,
+ "created_at": "2026-07-06T04:45:41+00:00",
+ "failed": false,
+ "text": "This is due to hormonal changes in the body. There is no specific treatment for that. All you can do is relax yourself through meditation and yoga.",
+ "seconds": 0.186
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__518098_1",
+ "condition": "clean",
+ "reference": "Hello, I am twenty-eight and my husband is thirty-one. My height is five feet three inches and my weight is sixty-nine kilograms. I want to ask that I had avoided my previous pregnancy by the doctor through pills, which caused heavy bleeding for fifteen days in September two thousand and ten. Now it is six months without using any protection, and I am still unable to get pregnant. I want to conceive a baby, and after the pills, my menstrual cycle is now thirty-five days, with my periods always being five days later than the previous period date. Please tell me what to do. The doctor said those pills do not have any side effects at all.",
+ "audio_seconds": 40.45,
+ "created_at": "2026-07-06T05:28:50+00:00",
+ "failed": false,
+ "text": "Hello, I am 28 and my husband is 31. My height is five feet three inches and my weight is 69 kilograms. I want to ask that I had avoided my previous pregnancy by the doctor through pills, which caused heavy bleeding for 15 days in September 2010. Now it is six months without any protection, and I am still unable to get pregnant. I want to conceive a baby, and after the pills, my menstrual cycle is now 35 days, with my periods always being five days later than the previous period. Please tell me what to do. The doctor said those pills do not have any side effects at all.",
+ "seconds": 1.276
+}

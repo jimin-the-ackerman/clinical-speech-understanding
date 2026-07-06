@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__542828_2",
+ "condition": "clean",
+ "reference": "You should pay a follow-up visit to your doctor. It may be due to incomplete eradication of the causative agent or due to some new infection.",
+ "audio_seconds": 7.85,
+ "created_at": "2026-07-06T04:26:34+00:00",
+ "failed": false,
+ "text": "You should pay a follow-up visit to your doctor. It may be due to incomplete eradication of the causative agent or due to some new infection.",
+ "seconds": 0.352
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__748564_2",
+ "condition": "white_noise_2",
+ "reference": "Your problem of sensitive teeth may not be caused by Metoclopramide. However, the sensitivity may be due to gastric problems. Consider changing the medication, and take advice from your gastroenterologist.",
+ "audio_seconds": 11.78,
+ "created_at": "2026-07-06T04:35:00+00:00",
+ "failed": false,
+ "text": "The problem of sensitive teeth may not be caused by metoclopramide. However, the sensitivity may be due to gastric problems. Consider changing the medication and take advice from your gastroenterologist.",
+ "seconds": 0.417
+}

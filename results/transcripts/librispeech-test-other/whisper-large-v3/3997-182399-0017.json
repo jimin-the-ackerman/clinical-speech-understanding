@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3997-182399-0017",
+ "condition": null,
+ "reference": "THEY LIKE TO CHOKE THAT NO COUNT BUZZARD TO DEATH",
+ "audio_seconds": 3.44,
+ "created_at": "2026-07-05T13:00:30+00:00",
+ "failed": false,
+ "text": "They'd like to choke that no-count buzzard to death.",
+ "seconds": 0.198
+}

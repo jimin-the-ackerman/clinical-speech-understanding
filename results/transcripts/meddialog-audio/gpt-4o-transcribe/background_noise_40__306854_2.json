@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__306854_2",
+ "condition": "background_noise_40",
+ "reference": "Yes, you should see a doctor. It is most likely a hematoma on the bone, but an X-ray should be done to rule out any fracture. Ibuprofen tablets may be advisable three times a day after meals, along with hot fomentation and the application of Thrombophob gel, which your doctor may suggest if necessary. Best wishes.",
+ "audio_seconds": 19.29,
+ "created_at": "2026-07-06T00:43:01+00:00",
+ "failed": false,
+ "text": "Yes, you should see a doctor. It is most likely a hematoma on the bone, but an X-ray should be done to rule out any fracture. Ibuprofen tablets may be advisable three times a day after meals, along with hot fomentation and the application of Thrombophob gel. Your doctor may suggest if necessary. Best wishes!",
+ "seconds": 1.37
+}

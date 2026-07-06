@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163399-0017",
+ "condition": null,
+ "reference": "CHILDREN DON'T YOU SAY A WORD",
+ "audio_seconds": 2.4,
+ "created_at": "2026-07-06T03:28:36+00:00",
+ "failed": false,
+ "text": "Children, don't you say a word.",
+ "seconds": 0.123
+}

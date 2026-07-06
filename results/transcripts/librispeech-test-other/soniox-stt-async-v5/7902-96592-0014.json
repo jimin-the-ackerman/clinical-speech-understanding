@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "7902-96592-0014",
+ "condition": null,
+ "reference": "OH THOSE BARS HE MENTALLY EXCLAIMED AND HE WAS ADVANCING TOWARD THEM WHEN JUST AS HE DREW NEAR THERE WAS A RUSTLING NOISE UNDER THE WINDOW A COUPLE OF HANDS SEIZED THE BARS THERE WAS A SCRATCHING OF BOOT TOES AGAINST STONE WORK AND RAM'S FACE APPEARED TO GAZE INTO THE ROOM BY INTENTION BUT INTO THE ASTONISHED COUNTENANCE OF THE YOUNG MIDSHIPMAN INSTEAD",
+ "audio_seconds": 18.91,
+ "created_at": "2026-07-06T02:36:47+00:00",
+ "failed": false,
+ "text": "\"Oh, those bars!\" he mentally exclaimed, and he was advancing toward them. Well, just as he drew near, there was a rustling noise under the window. A couple of hands seized the bars; there was a scratching of boot toes against stonework, and Ram's face appeared to gaze into the room by intention, but into the astonished countenance of the young midshipman instead.",
+ "seconds": 5.03
+}

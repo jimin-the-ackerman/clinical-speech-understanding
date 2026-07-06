@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__643899_1",
+ "condition": "white_noise_6",
+ "reference": "A male patient, thirty years old, presented with nausea, vomiting, blurred vision, and elevated liver enzymes: alanine aminotransferase one hundred and twenty and aspartate aminotransferase one hundred and twelve. Total bilirubin is two point five, mainly direct. Complete blood count was unremarkable. Electrolytes are normal. Computed tomography of the brain angiography is unremarkable. Fundus examination shows bilateral papilledema. Viral screening is negative except for Epstein-Barr virus immunoglobulin G titer, which is high. What is the differential diagnosis? How should I approach this case? Cerebrospinal fluid tapping was done with normal examination.",
+ "audio_seconds": 51.03,
+ "created_at": "2026-07-06T00:47:27+00:00",
+ "failed": false,
+ "text": "I can be good, but it could move from what is good to let's be fair. I'd rather be good at something. I don't need to practice love. One hundred percent of me is present. One hundred percent of me is perfect. Perfectly original. People have eyes. If they felt that, they're moving. If people see something, it's going to be visible. If people see, they're moving. The spirit is our medicine. How do I touch this flesh? To regenerate spirit is good. You've got to be more than imagination.",
+ "seconds": 2.346
+}

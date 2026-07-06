@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0070",
+ "condition": null,
+ "reference": "BUT YOU WILL BE THERE FATHER YOU SHALL OH MY HEART",
+ "audio_seconds": 4.13,
+ "created_at": "2026-07-05T13:09:06+00:00",
+ "failed": false,
+ "text": "but you will be there father you shall oh my heart",
+ "seconds": 0.108
+}

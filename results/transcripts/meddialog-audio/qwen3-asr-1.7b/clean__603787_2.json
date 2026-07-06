@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__603787_2",
+ "condition": "clean",
+ "reference": "Hello, you are experiencing lichen urticatus. Take a short course of steroids in tapering doses. Take antihistamines until you find relief from the itching. If you feel the lesions are infected, take a short course of antibiotics. Apply calamine lotion. This condition is due to hypersensitivity to insect bites. Therefore, keep your bed clean and stay away from insects, such as bed bugs. Avoid stress and refrain from using soap baths. Instead, take baths with Dettol. I hope you will be fine.",
+ "audio_seconds": 35.5,
+ "created_at": "2026-07-06T05:29:11+00:00",
+ "failed": false,
+ "text": "Hello. You are experiencing lichen urticatus. Take a short course of steroids in tapering doses. Take antihistamines until you find relief from the itching. If you feel the lesions are infected, take a short course of antibiotics. Apply calamine lotion. This condition is due to hypersensitivity to insect bites. Therefore, keep your bed clean and stay away from insects such as bed bugs. Avoid stress and refrain from using soap baths. Instead, take baths with Dettol. I hope you will be fine.",
+ "seconds": 0.988
+}

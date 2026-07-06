@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__860480_1",
+ "condition": "clean",
+ "reference": "My son has a fever of thirty-seven point five degrees Celsius, his eyes are sensitive to light, he has a mild headache, and mild abdominal pain. He also has a sore throat, which was worse this morning, but he can still feel it when he swallows. Is there something specific I should be watching for?",
+ "audio_seconds": 20.22,
+ "created_at": "2026-07-06T02:59:48+00:00",
+ "failed": false,
+ "text": "My son has a fever of 37.5°C, his eyes are sensitive to light, he has a mild headache and mild abdominal pain. He also has a sore throat, which was worse this morning, but he can still feel it when he swallows. Is there something specific I should be watching for?",
+ "seconds": 7.937
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__726111_1",
+ "condition": "background_noise_20",
+ "reference": "Hello Doctor, my period was due on the 22nd of this month. The last period was on the 22nd of last month. Usually, I have a twenty-eight to thirty-day cycle. I was on antibiotics for a cold and cough infection. I had unprotected intercourse on the 24th of this month and took an emergency contraceptive pill within four hours. I have yet to get my period. Do you think there is anything to worry about? Please advise.",
+ "audio_seconds": 27.31,
+ "created_at": "2026-07-06T04:52:13+00:00",
+ "failed": false,
+ "text": "Hello doctor, my period was due on the twenty second of this month. The last period was on the twenty second of last month. Usually I have a twenty eight to thirty day cycle. I was on antibiotics for a cold and cough infection. I had unprotected intercourse on the twenty fourth of this month, and took an emergency contraceptive pill within four hours. I have yet to get my period. Do you think there is anything to worry about? Please advise.",
+ "seconds": 0.852
+}

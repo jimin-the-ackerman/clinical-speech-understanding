@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24318-0018",
+ "condition": null,
+ "reference": "IN SPITE OF HIS DEEP MENTAL DISTRESS HE COULD HAVE SHOUTED ALOUD IN HIS DELIGHT AND GRATITUDE",
+ "audio_seconds": 5.03,
+ "created_at": "2026-07-06T02:30:47+00:00",
+ "failed": false,
+ "text": "In spite of his deep mental distress, he could have shouted aloud in his delight and gratitude.",
+ "seconds": 4.62
+}

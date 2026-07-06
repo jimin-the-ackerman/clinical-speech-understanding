@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24318-0016",
+ "condition": null,
+ "reference": "DAPHNE AGAIN PLEADED FOR THE LIBERATION OF THE PRISONERS BUT PHILIPPUS SILENCED HER WITH THE GRAVE EXCLAMATION THE ORDER OF THE KING",
+ "audio_seconds": 8.15,
+ "created_at": "2026-07-06T03:33:51+00:00",
+ "failed": false,
+ "text": "Daphne again pleaded for the liberation of the prisoners, but Philippa silenced her with the grave exclamation, \"The order of the king.\"",
+ "seconds": 0.331
+}

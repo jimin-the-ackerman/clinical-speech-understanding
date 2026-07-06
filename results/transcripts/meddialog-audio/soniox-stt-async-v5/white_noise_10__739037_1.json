@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__739037_1",
+ "condition": "white_noise_10",
+ "reference": "Hi, when I was showering today, I noticed three small red dots on my breasts. I watched them get bigger in a matter of a minute; they are about the size of a dime and have stopped growing. They look like blood blisters, kind of. They are itchy. I had this happen to me a few years ago. They went away in a few days. Is it something to be concerned about?",
+ "audio_seconds": 24.06,
+ "created_at": "2026-07-06T03:03:28+00:00",
+ "failed": false,
+ "text": "Hi, can I— Sorry—today I noticed three small red dots on my blade. I watched them get bigger in the middle of the night, they're about the size of a diamond when you stop crying. They look like blood blisters on them. They're itchy. I had this happen to me a few years ago. I was away a few days. Is it something to be concerned about?",
+ "seconds": 8.146
+}

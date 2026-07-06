@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "533-131556-0023",
+ "condition": null,
+ "reference": "I WOULD NOT FOR MUCH THAT SHE SHOULD KNOW THE INFAMY AND DISGRACE OF HER RELATION",
+ "audio_seconds": 4.72,
+ "created_at": "2026-07-05T23:56:23+00:00",
+ "failed": false,
+ "text": "I would not, for much that you should know the infamy and disgrace of our relation.",
+ "seconds": 0.642
+}

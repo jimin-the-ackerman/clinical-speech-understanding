@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__375754_2",
+ "condition": "white_noise_6",
+ "reference": "In my opinion, you have allergic bronchitis. Avoid such sprays. You can take Montair-LC ten milligrams once daily at bedtime for one month.",
+ "audio_seconds": 9.81,
+ "created_at": "2026-07-06T00:47:16+00:00",
+ "failed": false,
+ "text": "Stop playing with your food, boy.",
+ "seconds": 0.594
+}

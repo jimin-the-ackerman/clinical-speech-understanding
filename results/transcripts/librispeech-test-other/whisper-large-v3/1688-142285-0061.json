@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "1688-142285-0061",
+ "condition": null,
+ "reference": "I BELIEVE WHAT I SEE AND NO MORE",
+ "audio_seconds": 3.13,
+ "created_at": "2026-07-05T12:55:41+00:00",
+ "failed": false,
+ "text": "I believe what I see, and no more.",
+ "seconds": 0.165
+}

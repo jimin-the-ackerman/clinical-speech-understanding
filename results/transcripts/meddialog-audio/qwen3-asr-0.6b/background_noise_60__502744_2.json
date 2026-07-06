@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__502744_2",
+ "condition": "background_noise_60",
+ "reference": "Hello, Shane2779. You mentioned abdominal cramping which is getting worse. If this is associated with any diarrhea, that could be viral. Usually, you would have fever and chills as well. The location of the pain, mid and lower left, could be in the area of the pancreas. If you are having an attack of acute pancreatitis, the pain could be severe. There is a sign called 'Cullen's sign' which is seen in acute pancreatitis. This is a small area of blue and black skin change around the belly button. If this fits the description, you do need to be examined by a medical professional. I wish you well.",
+ "audio_seconds": 44.63,
+ "created_at": "2026-07-06T04:58:42+00:00",
+ "failed": false,
+ "text": "Hello, Shane. Two seven seven nine. You mentioned abdominal cramping, which is getting worse. If this is associated with any diarrhea, that could be viral. Usually, you would have fever and chills as well. The location of the pain, mid and lower left, could be in the area of the pancreas. If you are having an attack of acute pancreatitis, the pain could be severe. There is a sign called colon sign, which is seen in acute pancreatitis. This is a small area of blue and black skin change around the belly button. If this fits the description, you do need to be examined by a medical professional. I wish you well.",
+ "seconds": 1.198
+}

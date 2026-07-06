@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__345884_2",
+ "condition": "background_noise_60",
+ "reference": "This type of pain usually occurs due to a fractured rib or a bruise on the rib, and it usually takes a while before going away even if you take regular analgesics. It may take even up to six months. If it becomes too troublesome, get a nerve block from a pain specialist after you get an X-ray of the chest.",
+ "audio_seconds": 20.74,
+ "created_at": "2026-07-06T05:24:27+00:00",
+ "failed": false,
+ "text": "This type of pain usually occurs due to a fractured rib or a bruise on the rib, and it usually takes a while before going away. Even if you take regular analgesics, it may take even up to six months. If it becomes too troublesome, get a nerve block from a pain specialist after you get an X-ray of the chest.",
+ "seconds": 0.676
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-159411-0012",
+ "condition": null,
+ "reference": "IS IT FAIR THAT HE SHOULD DO SO OR NOT",
+ "audio_seconds": 3.51,
+ "created_at": "2026-07-06T00:02:14+00:00",
+ "failed": false,
+ "text": "Is it fair that he should do so, or not?",
+ "seconds": 4.115
+}

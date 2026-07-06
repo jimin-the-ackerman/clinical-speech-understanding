@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "3331-159605-0033",
+ "condition": null,
+ "reference": "WAGGING TO AND FRO AS USUAL WHAT'S THE NEWS WITH YOU",
+ "audio_seconds": 4.21,
+ "created_at": "2026-07-05T12:58:14+00:00",
+ "failed": false,
+ "text": "Viking 2 and 4 as usual, what's the news with you?",
+ "seconds": 0.208
+}

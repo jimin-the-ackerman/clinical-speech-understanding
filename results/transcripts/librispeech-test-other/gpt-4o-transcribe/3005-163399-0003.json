@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "3005-163399-0003",
+ "condition": null,
+ "reference": "SO THEN SHE STARTED FOR THE HOUSE LEADING ME BY THE HAND AND THE CHILDREN TAGGING AFTER",
+ "audio_seconds": 5.41,
+ "created_at": "2026-07-05T23:54:28+00:00",
+ "failed": false,
+ "text": "So then she started for the house, leading me by the hand, and the children tagging after.",
+ "seconds": 0.638
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "2609-169640-0000",
+ "condition": null,
+ "reference": "PROAS IN THAT QUARTER WERE USUALLY DISTRUSTED BY SHIPS IT IS TRUE BUT THE SEA IS FULL OF THEM AND FAR MORE ARE INNOCENT THAN ARE GUILTY OF ANY ACTS OF VIOLENCE",
+ "audio_seconds": 12.07,
+ "created_at": "2026-07-06T03:28:08+00:00",
+ "failed": false,
+ "text": "Pirats in that quarter were usually distracted by the ships. It is true, but the sea has fooled them, and far more are innocent than are guilty of any acts of violence.",
+ "seconds": 0.397
+}

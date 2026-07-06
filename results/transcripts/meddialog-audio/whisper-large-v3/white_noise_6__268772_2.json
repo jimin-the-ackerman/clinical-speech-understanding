@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__268772_2",
+ "condition": "white_noise_6",
+ "reference": "Perform an ultrasound of the abdomen and a full blood count for Helicobacter pylori infection. Also, conduct a chest X-ray and an electrocardiogram. You should take omeprazole forty milligrams once a day before breakfast.",
+ "audio_seconds": 15.02,
+ "created_at": "2026-07-06T04:36:29+00:00",
+ "failed": false,
+ "text": "Perform an ultrasound of the abdomen and a full blood count for helicobacter pylori infection. Also, conduct a chest x-ray and an electrocardiogram. You should take Omeprazole 40 mg once a day before breakfast.",
+ "seconds": 0.468
+}

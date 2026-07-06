@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__957915_1",
+ "condition": "white_noise_6",
+ "reference": "I have had pain on my right side, near the lower abdomen or appendix area. The pain for the last three or four weeks has come and gone, but for the past few days, it has been constant. My abdominal area is constantly gurgling, but I am not hungry, and I feel pressure on that same side. Sometimes the pain is a little higher, just between my rib cages, and every now and then, I experience extreme sharp pains. I have also been quite tired lately and have experienced a loss of appetite. What could this be, if anything? Also, my stool has been a seaweed green color, and it has never done that before; it has only been this way for the past few days, coinciding with the pain.",
+ "audio_seconds": 43.61,
+ "created_at": "2026-07-06T04:49:29+00:00",
+ "failed": false,
+ "text": "I have had pain on my right side, near the lower abdomen or appendix area. The pain for the last two or four weeks has come and gone, but for the past few days, it has been constant. My abdominal area is constantly gurgling, but I am not hungry, and I feel pressure on that same side. Sometimes the pain is really hard, just to bring a little bit, and every now and then, as there is extreme, hard pain. I have also been felt tired lately, and I have experienced the loss of appetite. I keep it coming from anything. Also, my school is going to see you green-colored, and it has never done that before. It has only been this way for the past few days, coinciding with the parents.",
+ "seconds": 0.439
+}

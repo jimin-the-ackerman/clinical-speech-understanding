@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__283785_2",
+ "condition": "background_noise_60",
+ "reference": "She might benefit from hormone therapy, such as Tamoxifen or an aromatase inhibitor. You can discuss it with your oncologist.",
+ "audio_seconds": 6.83,
+ "created_at": "2026-07-06T05:24:11+00:00",
+ "failed": false,
+ "text": "She might benefit from hormone therapy, such as tamoxifen or an aromatase inhibitor. You can discuss it with your oncologist.",
+ "seconds": 0.307
+}

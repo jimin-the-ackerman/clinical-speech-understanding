@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0024",
+ "condition": null,
+ "reference": "FOR YE ARE BOUGHT WITH A PRICE THEREFORE GLORIFY GOD IN YOUR BODY AND IN YOUR SPIRIT WHICH ARE GOD'S",
+ "audio_seconds": 6.55,
+ "created_at": "2026-07-05T13:14:48+00:00",
+ "failed": false,
+ "text": "for you are bought with a price therefore glorify god in your body and in your spirit which are god's",
+ "seconds": 0.131
+}

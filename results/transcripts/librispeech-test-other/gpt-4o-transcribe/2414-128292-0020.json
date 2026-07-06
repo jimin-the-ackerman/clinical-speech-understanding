@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "librispeech-test-other",
+ "file_id": "2414-128292-0020",
+ "condition": null,
+ "reference": "HAVE I STILL A GOAL",
+ "audio_seconds": 2.21,
+ "created_at": "2026-07-05T23:54:06+00:00",
+ "failed": false,
+ "text": "Have I still a goal?",
+ "seconds": 0.48
+}

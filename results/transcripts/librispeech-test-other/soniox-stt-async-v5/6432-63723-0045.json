@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "librispeech-test-other",
+ "file_id": "6432-63723-0045",
+ "condition": null,
+ "reference": "THE STOPPED CLOCKS FOR INSTANCE HAVE YOU ANY THEORY",
+ "audio_seconds": 3.94,
+ "created_at": "2026-07-06T02:34:34+00:00",
+ "failed": false,
+ "text": "The stopped clocks, for instance. Have you any theory?",
+ "seconds": 4.659
+}

@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__827117_1",
+ "condition": "white_noise_6",
+ "reference": "Hello, two point five weeks ago I was hit in the shin with a baseball. There is quite a large lump on my shin and still a lot of bruising. My leg aches and there is still swelling in the evenings. I had an X-ray and was told there is no break. Is it possible to have a hairline fracture that was not detected in the X-ray? I will be traveling in a couple of weeks and am worried about the amount of walking I will be doing.",
+ "audio_seconds": 25.69,
+ "created_at": "2026-07-06T04:38:50+00:00",
+ "failed": false,
+ "text": "2.5 weeks ago I was hit in the head with a baseball. There is quite a large lump on my chin and still a lot of bruising. My leg aches and there is still swelling in the evening. I had an x-ray and was told there is no break. Is it possible to have a hairline fracture that was not detected in the x-ray? I will be traveling in a couple of weeks and am worried about the amount of walking I will be doing.",
+ "seconds": 0.817
+}

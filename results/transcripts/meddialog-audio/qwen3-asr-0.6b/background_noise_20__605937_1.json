@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__605937_1",
+ "condition": "background_noise_20",
+ "reference": "Hello Doctor, most of the time, I have sneezing and a runny nose with clear mucus for the past two to three years. I took cetirizine for it, but sometimes I feel better. However, I face the same problem again. Presently, I am not taking any medication. I am twenty-five years old and I am a male. I do not have a past medical history or reports. During this period, I am also sometimes facing inhalation problems.",
+ "audio_seconds": 26.37,
+ "created_at": "2026-07-06T04:51:42+00:00",
+ "failed": false,
+ "text": "Hello doctor. Most of the time, I have sneezing and a runny nose with clear mucus for the past two to three years. I took sitrazine for it, but sometimes I feel better. However, I face the same problem again. Presently, I am not taking any medication. I am twenty-five years old and I am a male. I do not have a past medical history or reports. During this period, I am also sometimes facing inhalation problems.",
+ "seconds": 0.89
+}

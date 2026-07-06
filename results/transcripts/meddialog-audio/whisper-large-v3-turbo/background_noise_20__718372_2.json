@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__718372_2",
+ "condition": "background_noise_20",
+ "reference": "Mr. Basir, well, to begin with, sperm is produced and stored, and when the storage is full, it automatically comes out as a white discharge. Releasing it through masturbation is also normal. It is definitely not harmful by any means. Excessive masturbation, if a person is overly involved in it to the extent that it affects their routine functioning, can indicate hypersexual behavior and indeed requires help. If you could provide more details about your behavior, I will be in a position to tell you whether you need help at this point in time.",
+ "audio_seconds": 29.1,
+ "created_at": "2026-07-06T04:40:29+00:00",
+ "failed": false,
+ "text": "Mr. Basir, well, to begin with, sperm is produced and stored, and when the storage is full, it automatically comes out as a light discharge. Releasing it through masturbation is also normal. It is definitely not harmful by any means. Except masturbation, if a person is overly involved in it to the extent that it affects their routine functioning, can indicate hypersexual behavior and indeed requires help. If you could provide more details about your behavior, I will be in a position to tell you whether you need help at this point in time.",
+ "seconds": 0.298
+}

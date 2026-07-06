@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__649787_1",
+ "condition": "clean",
+ "reference": "Hi, I have noticed a lump right under my right jawline. It is hard, maybe one inch in length, and does not move. It is painful yet uncomfortable when touched. I do not think it is a lymph node, but it seems to be what I have researched as a submandibular pleomorphic adenoma. Can you enlighten me more on this?",
+ "audio_seconds": 22.61,
+ "created_at": "2026-07-06T05:29:19+00:00",
+ "failed": false,
+ "text": "Hi, I have noticed a lump right under my right jawline. It is hard, maybe one inch in length, and does not move. It is painful yet uncomfortable when touched. I do not think it is a lymph node, but it seems to be what I have researched as a submandibular pleomorphic adenoma. Can you enlighten me more on this?",
+ "seconds": 0.723
+}

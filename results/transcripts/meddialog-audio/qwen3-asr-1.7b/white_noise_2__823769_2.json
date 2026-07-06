@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__823769_2",
+ "condition": "white_noise_2",
+ "reference": "You need to understand that any surgery slows down your physiological movements. Slowly start doing small free exercises and Joint Range of Motion exercises under the guidance of a physical therapist, which will help improve muscle tone, and you will be fine soon. Multiple joint pains can be due to lack of use rather than the surgery you have undergone. Kindly meet a nearby physical therapist and work out on a daily basis. Slow and steady wins the race.",
+ "audio_seconds": 26.71,
+ "created_at": "2026-07-06T05:37:57+00:00",
+ "failed": false,
+ "text": "You need to understand that any surgery slows down your physiological movements. Slowly start doing small free exercises and joint range of motion exercises under the guidance of a physical therapist, which will help improve muscle tone, and you will be fine soon. Multiple joint pains can be due to lack of use rather than the surgery you have undergone. Kindly meet a nearby physical therapist and work out on a daily basis. Slow and steady wins the race.",
+ "seconds": 0.841
+}

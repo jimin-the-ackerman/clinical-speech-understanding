@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "5484-24318-0032",
+ "condition": null,
+ "reference": "EVEN DAPHNE'S IMAGE AND WHAT THREATENED HER FATHER AND HER WITH HIM RECEDED FAR INTO THE BACKGROUND",
+ "audio_seconds": 6.76,
+ "created_at": "2026-07-06T03:21:51+00:00",
+ "failed": false,
+ "text": "Even Daphne's image, and what threatened her father and her with him, receded far into the background.",
+ "seconds": 0.251
+}

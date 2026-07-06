@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "librispeech-test-other",
+ "file_id": "3528-168656-0002",
+ "condition": null,
+ "reference": "EVERY YEAR SHE SOLEMNLY RENEWED HER VOWS AND AT THE MOMENT OF TAKING THE OATH SHE SAID TO THE PRIEST MONSEIGNEUR SAINT FRANCOIS GAVE IT TO MONSEIGNEUR SAINT JULIEN MONSEIGNEUR SAINT JULIEN GAVE IT TO MONSEIGNEUR SAINT EUSEBIUS MONSEIGNEUR SAINT EUSEBIUS GAVE IT TO MONSEIGNEUR SAINT PROCOPIUS ET CETERA ET CETERA",
+ "audio_seconds": 20.3,
+ "created_at": "2026-07-06T03:17:23+00:00",
+ "failed": false,
+ "text": "Every year she solemnly renewed her vows, and at the moment of taking the oath, she said to the priest, \"Monsignor Saint Francois gave it to Monsignor Saint Julian, Monsignor Saint Julian gave it to Monsignor Saint Eucubius, Monsignor Saint Eucubius gave it to Monsignor Saint Procopius, etc., etc.\"",
+ "seconds": 0.752
+}

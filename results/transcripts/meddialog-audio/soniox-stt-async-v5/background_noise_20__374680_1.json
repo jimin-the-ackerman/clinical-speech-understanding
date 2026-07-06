@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_20__374680_1",
+ "condition": "background_noise_20",
+ "reference": "Hi, I was married four years ago, but I am not pregnant because I am suffering from irregular periods. For four years, I have been using tablets for pregnancy, but my periods remain irregular. I am currently using Gestafine one hundred milligrams, but for the past fifteen days, I have been having my period, and sometimes it does not stop for five days. It can last for fifteen to twenty continuous days. What can I do? Please advise me.",
+ "audio_seconds": 27.65,
+ "created_at": "2026-07-06T02:47:17+00:00",
+ "failed": false,
+ "text": "Hi, I was married 4 years ago, but I am not pregnant because I am suffering from irregular periods. For 4 years I have been using tablets for pregnancy, but my period is irregular. I am currently using Gestifine 100 mg, but for the past 15 days I have been having my period, and sometimes it does not stop for 5 days. It can last for 15 to 20 continuous days. What can I do? Please advise me.",
+ "seconds": 5.051
+}

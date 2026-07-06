@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__315173_1",
+ "condition": "background_noise_40",
+ "reference": "I am twenty-one weeks pregnant with my second child. I have noticed that for the past week, I have been getting a lump on my inner lower breasts. I would rub them to break up the lumps, but they come back a couple of hours later. What is going on, and is there something I should do about it?",
+ "audio_seconds": 17.92,
+ "created_at": "2026-07-06T02:50:35+00:00",
+ "failed": false,
+ "text": "I am totally mixed with my second child. I have noticed that, for the past week, I have been getting a lump on my inner lower breast. I would rub them to break up the lumps, but they come back a couple of hours later. What is going on, and is there something I should do about it?",
+ "seconds": 4.828
+}

@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0007",
+ "condition": null,
+ "reference": "AND WHAT A DEAR LITTLE FELLOW HE IS JUST ABOUT THE AGE OF OUR HAROLD I SHOULD JUDGE",
+ "audio_seconds": 5.08,
+ "created_at": "2026-07-06T03:37:56+00:00",
+ "failed": false,
+ "text": "And what a dear little fellow he is! Just about the age of our Harold, I should judge.",
+ "seconds": 0.229
+}

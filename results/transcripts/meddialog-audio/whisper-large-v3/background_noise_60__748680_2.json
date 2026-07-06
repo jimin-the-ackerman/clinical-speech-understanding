@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__748680_2",
+ "condition": "background_noise_60",
+ "reference": "Hello. The symptoms are suggestive of an intestinal obstruction, as you are experiencing distension and pain. Please get an X-ray of the abdomen in a standing position and undergo enteroclysis. Once diagnosed, you may need surgery to release the causative agent.",
+ "audio_seconds": 15.36,
+ "created_at": "2026-07-06T04:23:25+00:00",
+ "failed": false,
+ "text": "Hello, the symptoms are suggestive of an intestinal obstruction. As you are experiencing distension, please get an x-ray of the abdomen in a standing position and undergo enteroplysis. Once diagnosed, you may need surgery to release the causative agent.",
+ "seconds": 0.566
+}

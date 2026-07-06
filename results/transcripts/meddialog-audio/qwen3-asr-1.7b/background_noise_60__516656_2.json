@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__516656_2",
+ "condition": "background_noise_60",
+ "reference": "Hi. The burning pain in your knee could be due to bursa irritation or inflammation of the tendons around the knee. If I were you, I would ice my knee frequently for fifteen minutes every two hours, keep it supported with a compression bandage, and avoid any strenuous activities involving the knee. You can have some anti-inflammatory medication prescribed earlier by your general practitioner for three days. Gently stretch your front thigh muscle by getting your heel close to your buttocks, and stretch your hamstring and calf by reaching for your toes. I hope this is helpful for you. Kindly get back in case you need further clarification.",
+ "audio_seconds": 33.71,
+ "created_at": "2026-07-06T05:25:09+00:00",
+ "failed": false,
+ "text": "The burning pain in your knee is due to muscle irritation or inflammation of the tendons around. If I were you, I would ice my knee frequently for 15 minutes every two hours. Keep it supported with a compression bandage and avoid any strenuous activities involving the knee. You can have some anti-inflammatory medication prescribed earlier by your general practitioner for three days. Gently stretch your thigh muscles by putting your heel close to your buttocks, and stretch your hamstring calf by reaching for your toes. I think this is helpful for you. Kindly get back in touch with me for the clarification.",
+ "seconds": 1.109
+}

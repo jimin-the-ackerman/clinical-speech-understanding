@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "librispeech-test-other",
+ "file_id": "4852-28319-0007",
+ "condition": null,
+ "reference": "MISTER WICKER WAITED PATIENTLY BESIDE HIM FOR A FEW MOMENTS FOR CHRIS TO GET UP HIS COURAGE",
+ "audio_seconds": 4.49,
+ "created_at": "2026-07-05T13:02:08+00:00",
+ "failed": false,
+ "text": "mr worker waited patiently beside him for a few moments for chris to get up his courage",
+ "seconds": 0.214
+}

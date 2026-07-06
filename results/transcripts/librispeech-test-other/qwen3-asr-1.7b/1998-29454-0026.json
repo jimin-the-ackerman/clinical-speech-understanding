@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-1.7b",
+ "dataset": "librispeech-test-other",
+ "file_id": "1998-29454-0026",
+ "condition": null,
+ "reference": "HE TOOK OUT OF HIS POCKET A NEW ENVELOPE A NEW SHEET OF PAPER AND A NEW PENCIL READY SHARPENED BY MACHINERY",
+ "audio_seconds": 6.66,
+ "created_at": "2026-07-06T03:27:04+00:00",
+ "failed": false,
+ "text": "He took out of his pocket a new envelope, a new sheet of paper, and a new pencil, ready sharpened by machinery.",
+ "seconds": 0.28
+}

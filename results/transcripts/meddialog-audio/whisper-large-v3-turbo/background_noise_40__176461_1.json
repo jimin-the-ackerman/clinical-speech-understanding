@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_40__176461_1",
+ "condition": "background_noise_40",
+ "reference": "Hi, I got kicked in football a week and two days ago to the back of my calf and was in a lot of pain. I thought I would be alright by now, but I still have pain at the front of my leg and I think my ankle is a little swollen. It also feels very tight when I move my foot.",
+ "audio_seconds": 16.64,
+ "created_at": "2026-07-06T04:41:05+00:00",
+ "failed": false,
+ "text": "Hi, I got kicked in football a week and two days ago to the back of my calf and was in a lot of pain. I thought I would be alright by now, but I still have pain at the front of my leg and I think my ankle is a little swollen. It also feels very tight when I move my foot.",
+ "seconds": 0.228
+}

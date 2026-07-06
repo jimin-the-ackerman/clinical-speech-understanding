@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_2__377932_2",
+ "condition": "white_noise_2",
+ "reference": "Your wife could have had a premarital relationship to some extent. However, if you extend your understanding and love towards her, she may return to you. It is better to take her for counseling.",
+ "audio_seconds": 10.41,
+ "created_at": "2026-07-06T05:08:58+00:00",
+ "failed": false,
+ "text": "Your wife could have had a premarital relationship to some extent. However, if you extend your understanding and love towards her, she may return to you. It is better to take her for counseling.",
+ "seconds": 0.394
+}

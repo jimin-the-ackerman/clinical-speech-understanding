@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__497700_1",
+ "condition": "white_noise_6",
+ "reference": "I am having a lot of pain in the groin area. It feels like large knots on both sides that run from the groin down into my thighs. This has been getting worse over the last several months. It sometimes hurts to walk, and I can feel the pain all the way through my buttock area. I have looked online but do not see anything that it could possibly be. I have to sleep with a pillow between my legs. Do you have any ideas?",
+ "audio_seconds": 25.34,
+ "created_at": "2026-07-06T04:37:20+00:00",
+ "failed": false,
+ "text": "i am having a lot of pain in the groin area it feels like large knots on both sides that run from the groin down into my thighs this has been getting worse over the last several months it sometimes hurts to walk and i can feel the pain all the way through my buttock area i have looked online but do not see anything that it could possibly be i have to sleep with a pillow between my legs do you have any ideas",
+ "seconds": 0.87
+}

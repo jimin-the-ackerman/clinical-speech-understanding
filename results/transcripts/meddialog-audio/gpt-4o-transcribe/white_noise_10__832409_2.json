@@ -1,0 +1,12 @@
+{
+ "model": "gpt-4o-transcribe",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_10__832409_2",
+ "condition": "white_noise_10",
+ "reference": "You have three main possibilities: one. heart condition, two. shoulder impingement, three. cervical disorder. I suggest performing an MRI on your shoulder and neck along with a quick electrocardiogram. Good luck.",
+ "audio_seconds": 12.2,
+ "created_at": "2026-07-06T00:46:07+00:00",
+ "failed": false,
+ "text": "Your guidance is so useful to me.",
+ "seconds": 0.52
+}

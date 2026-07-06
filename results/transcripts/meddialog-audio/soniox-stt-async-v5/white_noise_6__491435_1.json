@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__491435_1",
+ "condition": "white_noise_6",
+ "reference": "Okay, I am a male, fourteen years old. I have a yellow spot above my right nipple. Do you know the cause? I have not fought, and I have not been poked. I noticed it today. It does not hurt at all; I am just worried because it popped up out of nowhere. I have a small white lump above it. Please help; I am scared.",
+ "audio_seconds": 20.91,
+ "created_at": "2026-07-06T03:10:14+00:00",
+ "failed": false,
+ "text": "Okay. I am a male, 14 years old. I have a yellow spot above my right nipple. Do you know the cause? I have not fallen, and I have not been posed. I noticed it today. It does not hurt at all. I am just worried because it popped up out of nowhere. I have a small white lump above it. Please help. I am scared.",
+ "seconds": 4.884
+}

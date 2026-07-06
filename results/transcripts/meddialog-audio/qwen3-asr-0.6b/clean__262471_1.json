@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__262471_1",
+ "condition": "clean",
+ "reference": "I have five small smooth white spots ringed in red on the roof of my mouth. They started out as bumps that you could not see but could feel. On the 13th of March, they will perform a biopsy, and I wanted to see what this might be. I am scared because my mother had stage four oral cancer at forty-seven, and my sister had stage one oral cancer at thirty-seven. I am a female, age twenty-eight.",
+ "audio_seconds": 23.13,
+ "created_at": "2026-07-06T05:01:20+00:00",
+ "failed": false,
+ "text": "I have five small, smooth white spots ringed in red on the roof of my mouth. They started out as bumps that you could not see but could feel. On the thirteenth of March, they will perform a biopsy, and I wanted to see what this might be. I am scared because my mother had stage four oral cancer at forty-seven, and my sister had stage one oral cancer at thirty-seven. I have a female, age twenty-eight.",
+ "seconds": 0.837
+}

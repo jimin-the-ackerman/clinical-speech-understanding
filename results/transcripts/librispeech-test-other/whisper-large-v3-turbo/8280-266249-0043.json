@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3-turbo",
+ "dataset": "librispeech-test-other",
+ "file_id": "8280-266249-0043",
+ "condition": null,
+ "reference": "LET ME GO YELLED WARD MAKING A DESPERATE EFFORT TO FREE HIS ARMS",
+ "audio_seconds": 5.09,
+ "created_at": "2026-07-05T13:14:51+00:00",
+ "failed": false,
+ "text": "let me go yelled ward making a desperate effort to free his arms",
+ "seconds": 0.117
+}

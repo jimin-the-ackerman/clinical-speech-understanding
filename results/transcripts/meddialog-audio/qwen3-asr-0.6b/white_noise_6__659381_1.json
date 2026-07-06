@@ -1,0 +1,12 @@
+{
+ "model": "qwen3-asr-0.6b",
+ "dataset": "meddialog-audio",
+ "file_id": "white_noise_6__659381_1",
+ "condition": "white_noise_6",
+ "reference": "I just discovered a tiny black mole on my six-month-old's lower back. About one month after he was born, I was diagnosed with malignant melanoma, only stage one. I had surgery to remove the cancer, but I am now fearful it could have spread to him during my pregnancy.",
+ "audio_seconds": 15.53,
+ "created_at": "2026-07-06T05:13:56+00:00",
+ "failed": false,
+ "text": "I just discovered a tiny black mole on my six-month-old lower back. About one month after he was born, I was diagnosed with malignant melanoma, only stage one. I had surgery to remove the cancer, but I am now fearful it entered him during my pregnancy.",
+ "seconds": 0.51
+}

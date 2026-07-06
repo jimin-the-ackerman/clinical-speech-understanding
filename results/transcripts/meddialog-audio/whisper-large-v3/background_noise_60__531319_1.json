@@ -1,0 +1,12 @@
+{
+ "model": "whisper-large-v3",
+ "dataset": "meddialog-audio",
+ "file_id": "background_noise_60__531319_1",
+ "condition": "background_noise_60",
+ "reference": "While brushing my teeth a week ago, I slipped and jammed my toothbrush into my left lower gum, on the tongue side, just below my back two teeth. It has gotten worse, and I cannot chew on that side. Yesterday, it hurt from my eye down to my throat. What have I done? How do I fix it?",
+ "audio_seconds": 19.46,
+ "created_at": "2026-07-06T04:22:36+00:00",
+ "failed": false,
+ "text": "While brushing my teeth a week ago, I slipped a damn bunch of brushes on my left ear and mouth. All the time I sat, I just couldn't find them. It's gotten worse, and I can't see my mask anymore. Yesterday, it worked out and I don't have to worry about it anymore. I'm excited.",
+ "seconds": 0.639
+}

@@ -1,0 +1,12 @@
+{
+ "model": "soniox-stt-async-v5",
+ "dataset": "meddialog-audio",
+ "file_id": "clean__643341_2",
+ "condition": "clean",
+ "reference": "If I were you, I would go to the hospital. There can be a minor fracture which can only be ruled out after an X-ray for detailed examination. Even if there is a sprain in the ankle, he needs immediate medical attention. Do not delay in a trial-and-error procedure which can lead to further complications. Just to rule out the problem, visit your general practitioner or hospital as soon as possible.",
+ "audio_seconds": 23.55,
+ "created_at": "2026-07-06T02:58:44+00:00",
+ "failed": false,
+ "text": "If I were you, I would go to the hospital. There can be a minor fracture, which can only be ruled out after an X-ray for detailed examination. Even if there is a sprain in the ankle, he needs immediate medical attention; do not delay in a trial-and-error procedure which can lead to further complications. Just to rule out the problem, visit your general practitioner or hospital as soon as possible.",
+ "seconds": 4.85
+}
