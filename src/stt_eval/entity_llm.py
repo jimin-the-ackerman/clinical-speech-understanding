@@ -78,3 +78,32 @@ def openrouter_extractor(model_id: str, client=None):
 
     extract.parallel_safe = True
     return extract
+
+
+# --- MedGemma route: local, medical-specialized, single-GPU ----------------
+
+def medgemma_extractor(model_id: str = "google/medgemma-27b-text-it"):
+    """Local, medical-specialized. Gated HF repo: needs HF_TOKEN + license accept.
+    27B loads in 4-bit to fit 24 GB; fall back to google/medgemma-4b-it bf16 on OOM
+    (that variant is multimodal -> AutoModelForImageTextToText/AutoProcessor)."""
+    import torch
+    from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+
+    tok = AutoTokenizer.from_pretrained(model_id)
+    quant = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_quant_type="nf4",
+                               bnb_4bit_compute_dtype=torch.bfloat16,
+                               bnb_4bit_use_double_quant=True)
+    model = AutoModelForCausalLM.from_pretrained(
+        model_id, quantization_config=quant, device_map="auto", dtype=torch.bfloat16)
+
+    def extract(reference: str) -> list[str]:
+        msgs = [{"role": "system", "content": _SYSTEM},
+                {"role": "user", "content": _user(reference)}]
+        inputs = tok.apply_chat_template(msgs, add_generation_prompt=True,
+                                         return_tensors="pt").to(model.device)
+        out = model.generate(inputs, max_new_tokens=512, do_sample=False)
+        text = tok.decode(out[0, inputs.shape[1]:], skip_special_tokens=True)
+        return _parse_entity_list(text)
+
+    extract.parallel_safe = False
+    return extract

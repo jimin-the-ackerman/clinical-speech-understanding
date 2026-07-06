@@ -163,6 +163,9 @@ def extractor_for(method: str, results_root: Path | None = None, model: str | No
         if not model:
             raise SystemExit("--model required (e.g. anthropic/claude-opus-4.8)")
         return openrouter_extractor(model)
+    if method == "medgemma":
+        from stt_eval.entity_llm import medgemma_extractor
+        return medgemma_extractor(model or "google/medgemma-27b-text-it")
     raise SystemExit(f"entity method {method!r} is not implemented yet")
 
 

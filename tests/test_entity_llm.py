@@ -1,7 +1,24 @@
+import sys
+
 import httpx
 import pytest
 
 from stt_eval.entity_llm import _parse_entity_list, openrouter_extractor
+
+
+def test_import_entity_llm_pulls_no_heavy_deps():
+    for mod in ("torch", "transformers", "bitsandbytes"):
+        sys.modules.pop(mod, None)
+    import importlib
+
+    import stt_eval.entity_llm as m
+    importlib.reload(m)
+    assert not any(x in sys.modules for x in ("torch", "transformers", "bitsandbytes"))
+
+
+def test_medgemma_extractor_is_registered():
+    from stt_eval.entity_llm import medgemma_extractor
+    assert callable(medgemma_extractor)  # loading the model needs GPU+HF token; smoke-tested e2e
 
 
 def _client(handler):
