@@ -77,8 +77,13 @@ def test_soniox_upload_then_poll(monkeypatch, wav):
     monkeypatch.setenv("SONIOX_API_KEY", "sx-test")
     monkeypatch.setattr("time.sleep", lambda s: None)
 
+    deleted = []
+
     def handler(request):
         assert request.headers["authorization"] == "Bearer sx-test"
+        if request.method == "DELETE":
+            deleted.append(request.url.path)
+            return httpx.Response(204)
         if request.url.path == "/v1/files":
             return httpx.Response(201, json={"id": "file1"})
         if request.url.path == "/v1/transcriptions" and request.method == "POST":
@@ -91,3 +96,5 @@ def test_soniox_upload_then_poll(monkeypatch, wav):
 
     t = Soniox(client=_client(handler))
     assert t.transcribe(wav) == "hi from soniox"
+    # stored files/transcriptions count against account limits; both must be cleaned up
+    assert deleted == ["/v1/transcriptions/tx1", "/v1/files/file1"]

@@ -28,19 +28,30 @@ class Soniox:
             up = self._client.post(f"{BASE}/files", headers=self._headers,
                                    files={"file": (audio_path.name, f)})
         up.raise_for_status()
-        tx = self._client.post(f"{BASE}/transcriptions", headers=self._headers,
-                               json={"file_id": up.json()["id"], "model": MODEL})
-        tx.raise_for_status()
-        tx_id = tx.json()["id"]
+        file_id = up.json()["id"]
+        tx_id = None
+        try:
+            tx = self._client.post(f"{BASE}/transcriptions", headers=self._headers,
+                                   json={"file_id": file_id, "model": MODEL})
+            tx.raise_for_status()
+            tx_id = tx.json()["id"]
 
-        def fetch() -> dict:
-            r = self._client.get(f"{BASE}/transcriptions/{tx_id}", headers=self._headers)
+            def fetch() -> dict:
+                r = self._client.get(f"{BASE}/transcriptions/{tx_id}", headers=self._headers)
+                r.raise_for_status()
+                return r.json()
+
+            state = poll_until(fetch, lambda d: d["status"] in ("completed", "error"))
+            if state["status"] == "error":
+                raise RuntimeError(f"soniox job failed: {state.get('error_message')}")
+            r = self._client.get(f"{BASE}/transcriptions/{tx_id}/transcript", headers=self._headers)
             r.raise_for_status()
-            return r.json()
-
-        state = poll_until(fetch, lambda d: d["status"] in ("completed", "error"))
-        if state["status"] == "error":
-            raise RuntimeError(f"soniox job failed: {state.get('error_message')}")
-        r = self._client.get(f"{BASE}/transcriptions/{tx_id}/transcript", headers=self._headers)
-        r.raise_for_status()
-        return r.json()["text"]
+            return r.json()["text"]
+        finally:
+            # stored files/transcriptions count against account limits (uploads
+            # start 429ing once full); the local JSON cache is our copy anyway
+            for url in ([f"{BASE}/transcriptions/{tx_id}"] if tx_id else []) + [f"{BASE}/files/{file_id}"]:
+                try:
+                    self._client.delete(url, headers=self._headers)
+                except httpx.HTTPError:
+                    pass  # cleanup is best-effort; never mask the real result

@@ -219,3 +219,9 @@ __marimo__/
 
 # stt-eval
 data/
+
+# agent tooling (installed skills, per-machine)
+.agents/
+.claude/
+.hermes/
+skills-lock.json
