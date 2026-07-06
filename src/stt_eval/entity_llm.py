@@ -107,3 +107,20 @@ def medgemma_extractor(model_id: str = "google/medgemma-27b-text-it"):
 
     extract.parallel_safe = False
     return extract
+
+
+# --- bake-off: side-by-side entity sets for a human pick -------------------
+
+def run_bakeoff(results_root, specs: str, limit: int):
+    """Print each spec's entity set per reference for a human pick. spec =
+    "method" or "method:model_id"."""
+    from stt_eval.entity_score import _unique_references, extractor_for
+    refs = _unique_references(results_root, limit)
+    extractors = []
+    for spec in specs.split(","):
+        method, _, model = spec.partition(":")
+        extractors.append((spec, extractor_for(method, results_root, model or None)))
+    for d, f, ref in refs:
+        print(f"\n=== {d}/{f} ===\n{ref[:200]}")
+        for name, ext in extractors:
+            print(f"  [{name}] {ext(ref)}")

@@ -21,3 +21,9 @@ def test_entity_build_accepts_model_workers_limit():
          "--workers", "8", "--limit", "15"])
     assert args.method == "openrouter" and args.model == "anthropic/claude-opus-4.8"
     assert args.workers == 8 and args.limit == 15
+
+
+def test_entity_bakeoff_parses_specs():
+    args = build_parser().parse_args(
+        ["entity-bakeoff", "--specs", "medgemma,openrouter:google/gemini-2.5-flash", "--limit", "15"])
+    assert args.specs == "medgemma,openrouter:google/gemini-2.5-flash" and args.limit == 15

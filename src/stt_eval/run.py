@@ -27,6 +27,10 @@ def build_parser() -> argparse.ArgumentParser:
     es = sub.add_parser("entity-score", help="medical-term recall from an entity manifest")
     es.add_argument("--manifest", type=Path, required=True, help="entity manifest to score")
 
+    bk = sub.add_parser("entity-bakeoff", help="compare entity methods on N references")
+    bk.add_argument("--specs", required=True, help="comma list of method[:model]")
+    bk.add_argument("--limit", type=int, default=15)
+
     for q in (prep, tr):
         q.add_argument("--data-dir", type=Path, default=Path("data"))
     p.add_argument("--results-dir", type=Path, default=Path("results"))
@@ -91,4 +95,9 @@ def main() -> None:
         write_outputs(summary, args.results_dir, name)
         for row in summary:
             print(row)
+        return
+    if args.cmd == "entity-bakeoff":
+        from stt_eval.entity_llm import run_bakeoff
+
+        run_bakeoff(args.results_dir, args.specs, args.limit)
         return
