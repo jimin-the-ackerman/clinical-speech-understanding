@@ -26,7 +26,7 @@ hold, demonstrating stability across methods is the deliverable.
 | `bc5cdr` | scispaCy disease+chemical (narrow) | DONE | `uv run --with scispacy --with "https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_bc5cdr_md-0.5.4.tar.gz" stt-eval entity-build --method bc5cdr` |
 | `ner-union` | Med7 (drug/dose) + Stanza i2b2 (problem/test/treatment) | DONE | `uv run --with "en-core-med7-lg @ https://huggingface.co/kormilitzin/en_core_med7_lg/resolve/main/en_core_med7_lg-1.1.0-py3-none-any.whl" --with stanza stt-eval entity-build --method ner-union` |
 | `dictionary` | 7419-term gazetteer seeded from bc5cdr∪ner-union clinical entities, greedy longest-match; fully offline | DONE | gazetteer at `results/entity_dictionaries/medical_terms.txt`; then `uv run stt-eval entity-build --method dictionary` |
-| `llm` | LLM zero-shot over references, frozen to manifest | NOT STARTED — see below | — |
+| `llm` | LLM zero-shot over references, frozen to manifest | HARNESS DONE, runs pending keys — see below | `stt-eval entity-build --method openrouter --model <id>` / `--method medgemma` |
 
 Scoring any manifest: `uv run stt-eval entity-score --manifest results/entity_manifests/<method>.json`
 
@@ -54,7 +54,24 @@ Takeaways:
 3. Overall recall correlates strongly with WER (Pearson ~-0.97) — a complement, not a
    replacement. LibriSpeech entity columns are noise (all-caps refs break NER); ignore them.
 
-## Method 4 (LLM) — decisions made, awaiting a key
+## Method 4 (LLM) — harness built (2026-07-07), runs awaiting keys
+
+**Code is done and committed** (plan `docs/superpowers/plans/2026-07-07-llm-entity-method.md`):
+`src/stt_eval/entity_llm.py` holds `openrouter_extractor` (parallel-safe, keyed) and
+`medgemma_extractor` (local, 4-bit). `build_manifest` is now resumable/parallel with a
+per-reference cache under `results/entity_cache/<method>/` (gitignored scratch; a crashed
+or expensive run resumes and never re-bills). CLI: `entity-build --method openrouter|medgemma
+[--model ID] [--workers N] [--limit N]` and `entity-bakeoff --specs method[:model],... --limit N`.
+87 offline tests green. What's left is purely the runtime, which needs keys in `.env`:
+
+1. Bake-off (pick the OpenRouter model), needs `OPENROUTER_API_KEY` (+ `HF_TOKEN` if MedGemma is in the specs):
+   `uv run --extra local --with bitsandbytes --env-file .env stt-eval entity-bakeoff --specs "medgemma,openrouter:anthropic/claude-opus-4.8,openrouter:google/gemini-2.5-flash" --limit 15`
+2. MedGemma smoke then full build (needs `HF_TOKEN` + license accept):
+   `uv run --extra local --with bitsandbytes --env-file .env stt-eval entity-build --method medgemma --limit 5` then drop `--limit`.
+3. OpenRouter full build (winning model): `uv run --env-file .env stt-eval entity-build --method openrouter --model <winner> --workers 8`
+4. Score both: `uv run stt-eval entity-score --manifest results/entity_manifests/<name>.json`, then rank
+   PriMock57 across all 4 methods and answer: does the selective LLM set side with the NER methods
+   (Soniox #1) or the dictionary (qwen-1.7b #1)? Does MedGemma (specialized) differ from OpenRouter (general)?
 
 Two routes, ideally BOTH for a specialized-vs-general comparison (user leaned toward both):
 - **Medical-specialized, local (no key, runs now on the 4090):** MedGemma — open weights on
