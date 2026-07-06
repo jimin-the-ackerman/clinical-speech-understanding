@@ -1,5 +1,7 @@
 from stt_eval import store
-from stt_eval.entity_score import entity_hit, file_recall, score, write_outputs
+from stt_eval.entity_score import (
+    build_manifest, entity_hit, file_recall, load_manifest, score, write_manifest, write_outputs,
+)
 
 
 def _put(root, dataset, model, file_id, reference, text, **kw):
@@ -35,21 +37,41 @@ def _drug_disease_stub(ref):
     return [t for t in known if t in ref.lower()]
 
 
+def test_build_manifest_dedups_by_file(tmp_path):
+    # same (dataset, file_id) transcribed by two models -> one manifest entry
+    _put(tmp_path, "ds", "m1", "f1", reference="Asthma and amoxicillin", text="x")
+    _put(tmp_path, "ds", "m2", "f1", reference="Asthma and amoxicillin", text="y")
+    _put(tmp_path, "ds", "m1", "f2", reference="Eczema only", text="z")
+    entries = build_manifest(tmp_path, _drug_disease_stub)
+    assert len(entries) == 2
+    by_id = {e["file_id"]: e["entities"] for e in entries}
+    assert by_id["f1"] == ["asthma", "amoxicillin"]
+    assert by_id["f2"] == ["eczema"]
+
+
+def test_manifest_roundtrip(tmp_path):
+    entries = [{"dataset": "ds", "file_id": "f1", "entities": ["asthma"]}]
+    write_manifest(entries, tmp_path / "m.json")
+    assert load_manifest(tmp_path / "m.json") == {("ds", "f1"): ["asthma"]}
+
+
 def test_score_pools_recall_per_group(tmp_path):
     _put(tmp_path, "ds", "m1", "f1", reference="Asthma and amoxicillin", text="asthma and amoxicillin")
-    _put(tmp_path, "ds", "m1", "f2", reference="Pneumonia here", text="unrelated words")  # 0/1
-    summary = score(tmp_path, _drug_disease_stub)
+    _put(tmp_path, "ds", "m1", "f2", reference="Pneumonia here", text="unrelated words")
+    ents = {("ds", "f1"): ["asthma", "amoxicillin"], ("ds", "f2"): ["pneumonia"]}
+    summary = score(tmp_path, ents)
     assert len(summary) == 1
     row = summary[0]
-    assert (row["n_entities"], row["n_hits"]) == (3, 2)  # asthma+amoxicillin hit, pneumonia missed
+    assert (row["n_entities"], row["n_hits"]) == (3, 2)  # pneumonia missed
     assert row["entity_recall"] == round(2 / 3, 4)
 
 
-def test_score_skips_failed_and_entity_free_refs(tmp_path):
-    _put(tmp_path, "ds", "m1", "f1", reference="Asthma", text="x", failed=True)  # excluded
-    _put(tmp_path, "ds", "m1", "f2", reference="no clinical terms here", text="whatever")  # 0 entities
-    _put(tmp_path, "ds", "m1", "f3", reference="Eczema", text="eczema")  # 1/1
-    summary = score(tmp_path, _drug_disease_stub)
+def test_score_skips_failed_and_files_absent_from_manifest(tmp_path):
+    _put(tmp_path, "ds", "m1", "f1", reference="Asthma", text="x", failed=True)   # excluded
+    _put(tmp_path, "ds", "m1", "f2", reference="no clinical terms", text="whatever")  # not in manifest
+    _put(tmp_path, "ds", "m1", "f3", reference="Eczema", text="eczema")
+    ents = {("ds", "f1"): ["asthma"], ("ds", "f3"): ["eczema"]}  # f2 absent
+    summary = score(tmp_path, ents)
     assert len(summary) == 1
     assert (summary[0]["n_entities"], summary[0]["n_hits"]) == (1, 1)
 
@@ -57,14 +79,14 @@ def test_score_skips_failed_and_entity_free_refs(tmp_path):
 def test_score_groups_by_condition(tmp_path):
     _put(tmp_path, "ds", "m1", "a", condition="clean", reference="Asthma", text="asthma")
     _put(tmp_path, "ds", "m1", "b", condition="noisy", reference="Asthma", text="nothing")
-    summary = score(tmp_path, _drug_disease_stub)
-    by_cond = {r["condition"]: r["entity_recall"] for r in summary}
+    ents = {("ds", "a"): ["asthma"], ("ds", "b"): ["asthma"]}
+    by_cond = {r["condition"]: r["entity_recall"] for r in score(tmp_path, ents)}
     assert by_cond == {"clean": 1.0, "noisy": 0.0}
 
 
-def test_write_outputs(tmp_path):
+def test_write_outputs_names_by_method(tmp_path):
     _put(tmp_path, "ds", "m1", "f1", reference="Asthma", text="asthma")
-    write_outputs(score(tmp_path, _drug_disease_stub), tmp_path)
-    assert (tmp_path / "entity_recall.csv").exists()
-    md = (tmp_path / "entity_recall.md").read_text()
+    write_outputs(score(tmp_path, {("ds", "f1"): ["asthma"]}), tmp_path, "entity_recall_bc5cdr")
+    assert (tmp_path / "entity_recall_bc5cdr.csv").exists()
+    md = (tmp_path / "entity_recall_bc5cdr.md").read_text()
     assert "| model |" in md and "m1" in md
