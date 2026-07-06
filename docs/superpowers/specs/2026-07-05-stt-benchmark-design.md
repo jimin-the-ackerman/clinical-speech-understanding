@@ -157,6 +157,20 @@ results/
 - End-to-end smoke test with a fake transcriber over bundled tiny fixtures.
 - Real model runs are the integration test; no network calls in the test suite.
 
+## Backlog (English-phase follow-ups)
+
+- **Fareez et al. 2022 simulated patient-physician interviews** as a 4th dataset
+  (candidate name: `fareez-interviews`). 272 OSCE-style interviews, ~55 h, avg ~12 min,
+  speaker-tagged manually corrected transcripts, CC-BY 4.0. Source the Figshare original
+  (DOI `10.6084/m9.figshare.c.5545842.v1`, paper `10.1038/s41597-022-01423-1`), not the
+  Kaggle re-upload. Value: ~5x PriMock57's reference mass for the long-form
+  clinical-dialogue condition. Caveats: Teams-recorded clean MP3 audio, so it
+  complements PriMock57's room-mic condition rather than replacing it; 78.7%
+  respiratory cases. Gate before trusting WER: verify transcripts are verbatim
+  (spot-check for disfluencies like "um"/"uh") -- grammar-corrected references would
+  unfairly penalize verbatim models. Effort: loader in the existing pattern (simpler
+  than PriMock57: plain-text D:/P: turns), ~$20 of API spend per API model.
+
 ## Korean Phase (forward look — not built now)
 
 - Datasets: AI Hub Korean medical/conversation speech corpora (require application;
