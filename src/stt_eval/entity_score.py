@@ -160,8 +160,10 @@ def extractor_for(method: str, results_root: Path | None = None, model: str | No
     heavy deps are imported only when that method is chosen."""
     if method == "bc5cdr":
         return _scispacy_extractor("en_ner_bc5cdr_md")
-    if method == "ner-union":
-        return _ner_union_extractor()
+    if method == "med7":
+        return _med7_extractor()
+    if method == "stanza-i2b2":
+        return _stanza_i2b2_extractor()
     if method in ("llm", "openrouter"):
         from stt_eval.entity_llm import openrouter_extractor
         if not model:
@@ -193,15 +195,24 @@ def _strip_determiner(s: str) -> str:
     return _LEADING_DET.sub("", s).strip()
 
 
-def _ner_union_extractor():
-    """Med7 (drug / dosage / route / frequency) plus Stanza i2b2 (problem / test /
-    treatment). i2b2 supersets bc5cdr's disease+chemical and is the only model that
-    catches procedures and tests (ECG, thyroid profile, X-ray); Med7 alone gets the
-    numeric dosages. bc5cdr pins spacy<3.8 and Med7 pins spacy>=3.8, so they cannot
-    share an env — bc5cdr stays a separate baseline manifest."""
+def _med7_extractor():
+    """Med7 (en_core_med7_lg): drug / dosage / route / frequency / strength / form.
+    spaCy model pinning spacy>=3.8 — its own overlay (cannot share bc5cdr's spacy<3.8)."""
     import spacy
 
     med7 = spacy.load("en_core_med7_lg")
+
+    def extract(text: str) -> list[str]:
+        return _dedupe_ci([e.text for e in med7(text).ents])
+
+    return extract
+
+
+def _stanza_i2b2_extractor():
+    """Stanza i2b2 NER: problem / test / treatment. Supersets bc5cdr's disease+chemical
+    and is the only model that catches procedures/tests (ECG, thyroid profile, X-ray).
+    i2b2 spans include leading determiners ('your electrocardiogram') — strip so recall
+    matches the medical term, not the article. Pure Stanza (no spaCy)."""
     import stanza
 
     procs = {"tokenize": "mimic", "ner": "i2b2"}
@@ -209,11 +220,7 @@ def _ner_union_extractor():
     i2b2 = stanza.Pipeline("en", processors=procs, download_method=None, verbose=False)
 
     def extract(text: str) -> list[str]:
-        ents = [e.text for e in med7(text).ents]
-        # i2b2 spans include leading determiners ("your electrocardiogram"); strip
-        # so recall matches the medical term, not the article
-        ents += [_strip_determiner(e.text) for e in i2b2(text).ents]
-        return _dedupe_ci(ents)
+        return _dedupe_ci([_strip_determiner(e.text) for e in i2b2(text).ents])
 
     return extract
 

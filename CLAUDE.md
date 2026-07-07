@@ -9,8 +9,8 @@ Spec: `docs/superpowers/specs/2026-07-05-stt-benchmark-design.md`.
 Plan: `docs/superpowers/plans/2026-07-05-stt-benchmark-harness.md`.
 
 **Current work (2026-07-07): `docs/entity-metric-comparison.md`** — live status of the
-medical-term-recall exercise. Three entity methods done and agreeing (Soniox #1 on
-PriMock57): `bc5cdr`, `ner-union`, `medgemma`. Optional remaining: an OpenRouter
+medical-term-recall exercise. Four entity methods done and agreeing (Soniox #1 on
+PriMock57): `bc5cdr`, `med7`, `stanza-i2b2`, `medgemma`. Optional remaining: an OpenRouter
 general-LLM foil (awaits `OPENROUTER_API_KEY`). Also the OSCE/Fareez dataset (loader
 done, data downloaded, transcription is a pending paid checkpoint). Read it before
 resuming that work.

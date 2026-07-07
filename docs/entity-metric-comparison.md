@@ -15,7 +15,7 @@ Two-stage design (`src/stt_eval/entity_score.py`):
 - `entity-score --manifest P` → offline recall table `results/entity_recall_<X>.{csv,md}`
   (deterministic, no NER/keys; comparing methods = scoring different manifests).
 
-## The exercise: 3 entity-identification methods
+## The exercise: 5 entity-identification methods
 
 Goal (user's framing): try typed-NER models and an LLM, to show whether the ranking
 is robust to how "medical term" is defined. Even where rankings hold, demonstrating
@@ -24,30 +24,37 @@ stability across methods is the deliverable.
 | Method | What | Status | Reproduce (build) |
 |---|---|---|---|
 | `bc5cdr` | scispaCy disease+chemical (narrow) | DONE | `uv run --with scispacy --with "https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_bc5cdr_md-0.5.4.tar.gz" stt-eval entity-build --method bc5cdr --datasets primock57,meddialog-audio` |
-| `ner-union` | Med7 (drug/dose) + Stanza i2b2 (problem/test/treatment) | DONE | `uv run --with "en-core-med7-lg @ https://huggingface.co/kormilitzin/en_core_med7_lg/resolve/main/en_core_med7_lg-1.1.0-py3-none-any.whl" --with stanza stt-eval entity-build --method ner-union --datasets primock57,meddialog-audio` |
+| `med7` | Med7 (`en_core_med7_lg`): drug/dosage/route/frequency; sparse (~0.9 ent/file) | **DONE** — soniox #1 | `uv run --with "en-core-med7-lg @ https://huggingface.co/kormilitzin/en_core_med7_lg/resolve/main/en_core_med7_lg-1.1.0-py3-none-any.whl" stt-eval entity-build --method med7 --datasets primock57,meddialog-audio` |
+| `stanza-i2b2` | Stanza i2b2: problem/test/treatment; dense (~6 ent/file, most of the old union's mass) | **DONE** — soniox #1 | `uv run --with stanza stt-eval entity-build --method stanza-i2b2 --datasets primock57,meddialog-audio` |
 | `medgemma` | MedGemma-27B (4-bit, local) zero-shot, PriMock57 only | **DONE** — sides with NER (soniox #1) | `uv run --extra local --env-file .env stt-eval entity-build --method medgemma --datasets primock57` |
 | `openrouter` | general frontier LLM (specialized-vs-general foil) | pending `OPENROUTER_API_KEY` | `stt-eval entity-build --method openrouter --model <id>` |
 
 Scoring any manifest: `uv run stt-eval entity-score --manifest results/entity_manifests/<method>.json`
 
-Env notes: bc5cdr pins spacy<3.8, Med7 pins spacy>=3.8 — they CANNOT share one env,
-so `ner-union` is Med7+Stanza only and bc5cdr stays a separate baseline. All entity
-runs use ephemeral `uv run --with` overlays (never touch the project env). Med7 wheel
-must be the versioned `-1.1.0-py3-none-any.whl` (the `-any-` URL is not PEP 440).
+Env notes: each NER method runs in its own ephemeral `uv run --with` overlay (never
+touches the project env), so their conflicting deps never meet — `med7` needs only spaCy
+(`en_core_med7_lg`, spacy>=3.8) + the model wheel; `stanza-i2b2` needs only Stanza (no
+spaCy); `bc5cdr` needs scispaCy (spacy<3.8). The Med7 wheel must be the versioned
+`-1.1.0-py3-none-any.whl` (the `-any-` URL is not PEP 440).
 
 ## The finding so far (PriMock57, the clinical target)
 
 Model ranking (best→worst medical-term fidelity), by method:
 - WER:        qwen3-asr-1.7b > soniox > qwen-0.6b > turbo > whisper-v3 > gpt-4o
-- bc5cdr:     **soniox** > qwen-1.7b > whisper-v3 > turbo > qwen-0.6b > gpt-4o
-- ner-union:  **soniox** > qwen-1.7b > whisper-v3 > qwen-0.6b > turbo > gpt-4o
-- medgemma:   **soniox** > qwen-1.7b > whisper-v3 > turbo > qwen-0.6b > gpt-4o  (identical to bc5cdr)
+- bc5cdr:      **soniox** > qwen-1.7b > whisper-v3 > turbo > qwen-0.6b > gpt-4o
+- med7:        **soniox** > qwen-1.7b > whisper-v3 > gpt-4o > qwen-0.6b > turbo  (sparse ⇒ noisy tail)
+- stanza-i2b2: **soniox** > qwen-1.7b > whisper-v3 > qwen-0.6b > turbo > gpt-4o
+- medgemma:    **soniox** > qwen-1.7b > whisper-v3 > turbo > qwen-0.6b > gpt-4o  (identical to bc5cdr)
 
 Takeaways:
-1. **All 3 methods agree: Soniox #1** on clinical medical terms (WER ranks it #2) — bc5cdr,
-   ner-union, AND the MedGemma LLM. whisper-v3 ranks #3 vs its #5 WER rank — its errors hit
-   function words, not clinical content. Robust across narrow NER, broad NER, and a
-   medical-specialized LLM.
+1. **All 4 methods agree: Soniox #1**, with an identical top-3 (soniox > qwen-1.7b > whisper-v3)
+   on clinical medical terms (WER ranks Soniox #2) — across bc5cdr (disease+chemical), med7
+   (drugs), stanza-i2b2 (problem/test/treatment), AND the MedGemma LLM. Splitting the old
+   Med7+Stanza union showed the two NER schemas **independently** concur — neither drove it
+   (i2b2 carries ~13,100 of the union's 14,231 spans; med7 only ~1,973, yet still ranks Soniox
+   #1). whisper-v3 ranks #3 vs its #5 WER rank — its errors hit function words, not clinical
+   content. Only the bottom ranks wiggle (notably med7, whose ~0.9 terms/file give a small,
+   noisier denominator).
 2. Overall recall correlates strongly with WER (Pearson ~-0.97) — a complement, not a
    replacement. **LibriSpeech is excluded from every manifest** (all-caps read-speech with no
    clinical content — NER produces only noise there): the NER manifests are built with
