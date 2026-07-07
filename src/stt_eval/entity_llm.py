@@ -108,7 +108,9 @@ def medgemma_extractor(model_id: str = "google/medgemma-27b-text-it"):
         inputs = tok.apply_chat_template(msgs, add_generation_prompt=True,
                                          return_tensors="pt", return_dict=True).to(model.device)
         prompt_len = inputs["input_ids"].shape[1]
-        out = model.generate(**inputs, max_new_tokens=512, do_sample=False)
+        # 1024, not 512: long consults over-extract (~80 terms) and a list cut off
+        # mid-array is unterminated JSON that parses to [] — silently dropping the file.
+        out = model.generate(**inputs, max_new_tokens=1024, do_sample=False)
         text = tok.decode(out[0, prompt_len:], skip_special_tokens=True)
         return _parse_entity_list(text)
 

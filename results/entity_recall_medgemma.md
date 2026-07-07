@@ -1,8 +1,8 @@
 | model | dataset | condition | n_entities | n_hits | entity_recall |
 | --- | --- | --- | --- | --- | --- |
-| gpt-4o-transcribe | primock57 |  | 2310 | 2044 | 0.8848 |
-| qwen3-asr-0.6b | primock57 |  | 2310 | 2122 | 0.9186 |
-| qwen3-asr-1.7b | primock57 |  | 2310 | 2163 | 0.9364 |
-| soniox-stt-async-v5 | primock57 |  | 2310 | 2186 | 0.9463 |
-| whisper-large-v3 | primock57 |  | 2310 | 2147 | 0.9294 |
-| whisper-large-v3-turbo | primock57 |  | 2310 | 2131 | 0.9225 |
+| gpt-4o-transcribe | primock57 |  | 2505 | 2203 | 0.8794 |
+| qwen3-asr-0.6b | primock57 |  | 2505 | 2306 | 0.9206 |
+| qwen3-asr-1.7b | primock57 |  | 2505 | 2349 | 0.9377 |
+| soniox-stt-async-v5 | primock57 |  | 2505 | 2371 | 0.9465 |
+| whisper-large-v3 | primock57 |  | 2505 | 2331 | 0.9305 |
+| whisper-large-v3-turbo | primock57 |  | 2505 | 2317 | 0.925 |

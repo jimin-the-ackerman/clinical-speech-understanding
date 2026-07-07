@@ -62,9 +62,9 @@ Takeaways:
 
 ## Method 4 (LLM) — MedGemma DONE (2026-07-07); OpenRouter pending key
 
-**MedGemma-27B (4-bit, local) results on PriMock57:** 57 files, 2,310 entities, mean 40.5/file,
-3 empty (`day1_consultation02`, `day3_consultation09`, `day4_consultation10` — likely JSON
-parse misses; empties are dropped from scoring, not scored as 0). Manifest
+**MedGemma-27B (4-bit, local) results on PriMock57:** 57 files, 2,505 entities, mean 44/file,
+0 empty (3 long consults first truncated at `max_new_tokens=512` → unterminated JSON parsed to
+`[]`; fixed by raising the cap to 1024, ranking unchanged). Manifest
 `results/entity_manifests/medgemma.json`, recall `results/entity_recall_medgemma.{csv,md}`.
 Verdict: **sides with the NER methods (Soniox #1), ranking identical to bc5cdr** despite
 over-extracting. Run cost: ~5 s model load (warm page cache) + ~4 s/ref. Gotchas fixed en
@@ -73,8 +73,7 @@ the `local` extra); `apply_chat_template` returns a BatchEncoding in transformer
 (→ `return_dict=True` + `generate(**inputs)`); `device_map={"":0}` avoids CPU-offload stalls.
 
 Still open: (a) MedGemma on MedDialog (2,100 refs, ~2.5 h) if the noise-robustness cut is
-wanted; (b) the 3 empties (re-run to characterize parse misses); (c) the OpenRouter general
-model, below.
+wanted; (b) the OpenRouter general model, below.
 
 **Code is done and committed** (plan `docs/superpowers/plans/2026-07-07-llm-entity-method.md`):
 `src/stt_eval/entity_llm.py` holds `openrouter_extractor` (parallel-safe, keyed) and
