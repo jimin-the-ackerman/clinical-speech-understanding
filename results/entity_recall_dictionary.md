@@ -1,6 +1,5 @@
 | model | dataset | condition | n_entities | n_hits | entity_recall |
 | --- | --- | --- | --- | --- | --- |
-| gpt-4o-transcribe | librispeech-test-other |  | 3762 | 3666 | 0.9745 |
 | gpt-4o-transcribe | meddialog-audio | background_noise_20 | 3560 | 3452 | 0.9697 |
 | gpt-4o-transcribe | meddialog-audio | background_noise_40 | 3616 | 3480 | 0.9624 |
 | gpt-4o-transcribe | meddialog-audio | background_noise_60 | 3550 | 3221 | 0.9073 |
@@ -9,7 +8,6 @@
 | gpt-4o-transcribe | meddialog-audio | white_noise_2 | 3561 | 2160 | 0.6066 |
 | gpt-4o-transcribe | meddialog-audio | white_noise_6 | 3545 | 220 | 0.0621 |
 | gpt-4o-transcribe | primock57 |  | 14668 | 11915 | 0.8123 |
-| qwen3-asr-0.6b | librispeech-test-other |  | 3762 | 3666 | 0.9745 |
 | qwen3-asr-0.6b | meddialog-audio | background_noise_20 | 3560 | 3401 | 0.9553 |
 | qwen3-asr-0.6b | meddialog-audio | background_noise_40 | 3616 | 3397 | 0.9394 |
 | qwen3-asr-0.6b | meddialog-audio | background_noise_60 | 3550 | 3170 | 0.893 |
@@ -18,7 +16,6 @@
 | qwen3-asr-0.6b | meddialog-audio | white_noise_2 | 3561 | 3385 | 0.9506 |
 | qwen3-asr-0.6b | meddialog-audio | white_noise_6 | 3545 | 3137 | 0.8849 |
 | qwen3-asr-0.6b | primock57 |  | 14668 | 12251 | 0.8352 |
-| qwen3-asr-1.7b | librispeech-test-other |  | 3762 | 3693 | 0.9817 |
 | qwen3-asr-1.7b | meddialog-audio | background_noise_20 | 3560 | 3455 | 0.9705 |
 | qwen3-asr-1.7b | meddialog-audio | background_noise_40 | 3616 | 3458 | 0.9563 |
 | qwen3-asr-1.7b | meddialog-audio | background_noise_60 | 3550 | 3256 | 0.9172 |
@@ -27,7 +24,6 @@
 | qwen3-asr-1.7b | meddialog-audio | white_noise_2 | 3561 | 3449 | 0.9685 |
 | qwen3-asr-1.7b | meddialog-audio | white_noise_6 | 3545 | 3266 | 0.9213 |
 | qwen3-asr-1.7b | primock57 |  | 14668 | 12324 | 0.8402 |
-| soniox-stt-async-v5 | librispeech-test-other |  | 3762 | 3644 | 0.9686 |
 | soniox-stt-async-v5 | meddialog-audio | background_noise_20 | 3560 | 3425 | 0.9621 |
 | soniox-stt-async-v5 | meddialog-audio | background_noise_40 | 3616 | 3436 | 0.9502 |
 | soniox-stt-async-v5 | meddialog-audio | background_noise_60 | 3550 | 3293 | 0.9276 |
@@ -36,7 +32,6 @@
 | soniox-stt-async-v5 | meddialog-audio | white_noise_2 | 3561 | 3430 | 0.9632 |
 | soniox-stt-async-v5 | meddialog-audio | white_noise_6 | 3545 | 3319 | 0.9362 |
 | soniox-stt-async-v5 | primock57 |  | 14668 | 12314 | 0.8395 |
-| whisper-large-v3 | librispeech-test-other |  | 3762 | 3692 | 0.9814 |
 | whisper-large-v3 | meddialog-audio | background_noise_20 | 3560 | 3420 | 0.9607 |
 | whisper-large-v3 | meddialog-audio | background_noise_40 | 3616 | 3419 | 0.9455 |
 | whisper-large-v3 | meddialog-audio | background_noise_60 | 3550 | 3235 | 0.9113 |
@@ -45,7 +40,6 @@
 | whisper-large-v3 | meddialog-audio | white_noise_2 | 3561 | 3431 | 0.9635 |
 | whisper-large-v3 | meddialog-audio | white_noise_6 | 3545 | 3236 | 0.9128 |
 | whisper-large-v3 | primock57 |  | 14668 | 12260 | 0.8358 |
-| whisper-large-v3-turbo | librispeech-test-other |  | 3762 | 3683 | 0.979 |
 | whisper-large-v3-turbo | meddialog-audio | background_noise_20 | 3560 | 3392 | 0.9528 |
 | whisper-large-v3-turbo | meddialog-audio | background_noise_40 | 3616 | 3383 | 0.9356 |
 | whisper-large-v3-turbo | meddialog-audio | background_noise_60 | 3550 | 3162 | 0.8907 |
