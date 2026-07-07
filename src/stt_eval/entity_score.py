@@ -50,11 +50,16 @@ def file_recall(entities: list[str], hyp: str) -> tuple[int, int]:
 
 # --- build: method-specific, run once, frozen to a manifest ---------------
 
-def _unique_references(results_root: Path, limit: int | None = None) -> list[tuple]:
+def _unique_references(results_root: Path, limit: int | None = None,
+                       datasets: set | None = None) -> list[tuple]:
     """(dataset, file_id, reference) for each unique file, sorted. The same
-    reference recurs across every model in the cache; keep the first seen."""
+    reference recurs across every model in the cache; keep the first seen.
+    `datasets` (a set of names) restricts to those datasets — used to skip
+    non-clinical LibriSpeech on the expensive LLM route."""
     seen: dict[tuple, str] = {}
     for r in store.read_results(results_root):
+        if datasets and r["dataset"] not in datasets:
+            continue
         seen.setdefault((r["dataset"], r["file_id"]), r["reference"])
     keys = sorted(seen)
     if limit:
@@ -62,12 +67,14 @@ def _unique_references(results_root: Path, limit: int | None = None) -> list[tup
     return [(d, f, seen[(d, f)]) for d, f in keys]
 
 
-def build_manifest(results_root, extract, cache_dir=None, workers=1, limit=None) -> list[dict]:
+def build_manifest(results_root, extract, cache_dir=None, workers=1, limit=None,
+                   datasets=None) -> list[dict]:
     """Run extract(reference)->[surface forms] over each unique (dataset,file_id).
     With cache_dir set, results are cached per reference (skip-if-exists) and
     extraction is parallelized — a crashed/expensive LLM run resumes and never
-    re-bills. cache_dir=None is the original serial in-memory path."""
-    refs = _unique_references(results_root, limit)
+    re-bills. cache_dir=None is the original serial in-memory path. `datasets`
+    restricts to a set of dataset names."""
+    refs = _unique_references(results_root, limit, datasets)
     if cache_dir is None:
         return [{"dataset": d, "file_id": f, "entities": extract(ref)} for d, f, ref in refs]
 

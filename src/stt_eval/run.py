@@ -23,6 +23,9 @@ def build_parser() -> argparse.ArgumentParser:
     eb.add_argument("--model", default=None, help="model id for llm/openrouter/medgemma")
     eb.add_argument("--workers", type=int, default=8, help="parallel workers for API extractors")
     eb.add_argument("--limit", type=int, default=None, help="only first N unique references")
+    eb.add_argument("--datasets", default=None,
+                    help="restrict to these datasets (comma-sep); default all. Use to skip "
+                         "non-clinical librispeech on the expensive LLM route")
 
     es = sub.add_parser("entity-score", help="medical-term recall from an entity manifest")
     es.add_argument("--manifest", type=Path, required=True, help="entity manifest to score")
@@ -81,8 +84,9 @@ def main() -> None:
         workers = args.workers if getattr(extract, "parallel_safe", False) else 1
         slug = args.method + (f"_{store.safe_id(args.model)}" if args.model else "")
         out = args.out or args.results_dir / "entity_manifests" / f"{slug}.json"
+        ds_filter = set(args.datasets.split(",")) if args.datasets else None
         entries = build_manifest(args.results_dir, extract, cache_dir=cache_dir,
-                                 workers=workers, limit=args.limit)
+                                 workers=workers, limit=args.limit, datasets=ds_filter)
         write_manifest(entries, out)
         print(f"wrote {len(entries)} files, "
               f"{sum(len(e['entities']) for e in entries)} entities to {out}")

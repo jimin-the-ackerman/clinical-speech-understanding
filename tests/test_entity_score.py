@@ -98,6 +98,13 @@ def test_build_manifest_limit(tmp_path):
     assert len(entries) == 1
 
 
+def test_build_manifest_dataset_filter(tmp_path):
+    _put(tmp_path, "primock57", "m1", "f1", reference="asthma", text="x")
+    _put(tmp_path, "librispeech-test-other", "m1", "l1", reference="THE KING", text="y")
+    entries = build_manifest(tmp_path, lambda r: [r], datasets={"primock57"})
+    assert [e["file_id"] for e in entries] == ["f1"]  # librispeech skipped
+
+
 def test_manifest_roundtrip(tmp_path):
     entries = [{"dataset": "ds", "file_id": "f1", "entities": ["asthma"]}]
     write_manifest(entries, tmp_path / "m.json")
