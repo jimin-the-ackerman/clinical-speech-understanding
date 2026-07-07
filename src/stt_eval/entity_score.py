@@ -3,7 +3,7 @@ surface form survives into the hypothesis. Complements WER, which weighs every
 token equally — see docs/research/2026-07-06-medical-entity-asr-metrics.md.
 
 Two deliberately separate stages so we can compare entity-identification methods
-(dictionary / typed NER / LLM) on equal footing:
+(typed NER / LLM) on equal footing:
 
 - build_manifest(): run an entity extractor over the unique references and freeze
   the result to results/entity_manifests/<method>.json. The *method* lives here,
@@ -162,9 +162,6 @@ def extractor_for(method: str, results_root: Path | None = None, model: str | No
         return _scispacy_extractor("en_ner_bc5cdr_md")
     if method == "ner-union":
         return _ner_union_extractor()
-    if method == "dictionary":
-        path = (results_root or Path("results")) / "entity_dictionaries" / "medical_terms.txt"
-        return dictionary_extractor(load_dictionary(path))
     if method in ("llm", "openrouter"):
         from stt_eval.entity_llm import openrouter_extractor
         if not model:
@@ -174,52 +171,6 @@ def extractor_for(method: str, results_root: Path | None = None, model: str | No
         from stt_eval.entity_llm import medgemma_extractor
         return medgemma_extractor(model or "google/medgemma-27b-text-it")
     raise SystemExit(f"entity method {method!r} is not implemented yet")
-
-
-# --- dictionary method: frozen gazetteer, offline string matching ----------
-
-def build_dictionary(manifest_paths: list[Path], datasets, min_chars: int = 2) -> list[str]:
-    """Seed a medical-term gazetteer from NER manifests: collect entity surface
-    forms from the given (clinical) datasets, normalize, drop single-char and
-    pure-numeric noise, dedupe. The output is inspectable and hand-editable;
-    deeper curation (pruning dose strings, LLM-proposed additions) is a follow-up."""
-    terms: set[str] = set()
-    for p in manifest_paths:
-        for e in json.loads(Path(p).read_text(encoding="utf-8")):
-            if e["dataset"] not in datasets:
-                continue
-            for surface in e["entities"]:
-                t = " ".join(_norm_tokens(_strip_determiner(surface)))
-                if len(t) >= min_chars and not t.isdigit():
-                    terms.add(t)
-    return sorted(terms)
-
-
-def load_dictionary(path: Path) -> set[tuple]:
-    lines = [ln for ln in Path(path).read_text(encoding="utf-8").splitlines() if ln.strip()]
-    return {tuple(ln.split()) for ln in lines}
-
-
-def dictionary_extractor(grams: set[tuple]):
-    """extract(text) -> gazetteer terms present in text, by greedy non-overlapping
-    longest match (so "chest pain" counts once, not also "chest" + "pain"), keeping
-    per-occurrence counts like the NER span methods."""
-    maxn = max((len(g) for g in grams), default=1)
-
-    def extract(text: str) -> list[str]:
-        toks = _norm_tokens(text)
-        found, i = [], 0
-        while i < len(toks):
-            for n in range(min(maxn, len(toks) - i), 0, -1):
-                if tuple(toks[i : i + n]) in grams:
-                    found.append(" ".join(toks[i : i + n]))
-                    i += n
-                    break
-            else:
-                i += 1
-        return found
-
-    return extract
 
 
 def _dedupe_ci(items: list[str]) -> list[str]:

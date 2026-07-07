@@ -15,17 +15,16 @@ Two-stage design (`src/stt_eval/entity_score.py`):
 - `entity-score --manifest P` → offline recall table `results/entity_recall_<X>.{csv,md}`
   (deterministic, no NER/keys; comparing methods = scoring different manifests).
 
-## The exercise: 4 entity-identification methods
+## The exercise: 3 entity-identification methods
 
-Goal (user's framing): try a dictionary, a typed-NER model, and an LLM, to show
-whether the ranking is robust to how "medical term" is defined. Even where rankings
-hold, demonstrating stability across methods is the deliverable.
+Goal (user's framing): try typed-NER models and an LLM, to show whether the ranking
+is robust to how "medical term" is defined. Even where rankings hold, demonstrating
+stability across methods is the deliverable.
 
 | Method | What | Status | Reproduce (build) |
 |---|---|---|---|
 | `bc5cdr` | scispaCy disease+chemical (narrow) | DONE | `uv run --with scispacy --with "https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_bc5cdr_md-0.5.4.tar.gz" stt-eval entity-build --method bc5cdr --datasets primock57,meddialog-audio` |
 | `ner-union` | Med7 (drug/dose) + Stanza i2b2 (problem/test/treatment) | DONE | `uv run --with "en-core-med7-lg @ https://huggingface.co/kormilitzin/en_core_med7_lg/resolve/main/en_core_med7_lg-1.1.0-py3-none-any.whl" --with stanza stt-eval entity-build --method ner-union --datasets primock57,meddialog-audio` |
-| `dictionary` | 7419-term gazetteer seeded from bc5cdr∪ner-union clinical entities, greedy longest-match; fully offline | DONE | gazetteer at `results/entity_dictionaries/medical_terms.txt`; then `uv run stt-eval entity-build --method dictionary --datasets primock57,meddialog-audio` |
 | `medgemma` | MedGemma-27B (4-bit, local) zero-shot, PriMock57 only | **DONE** — sides with NER (soniox #1) | `uv run --extra local --env-file .env stt-eval entity-build --method medgemma --datasets primock57` |
 | `openrouter` | general frontier LLM (specialized-vs-general foil) | pending `OPENROUTER_API_KEY` | `stt-eval entity-build --method openrouter --model <id>` |
 
@@ -42,26 +41,18 @@ Model ranking (best→worst medical-term fidelity), by method:
 - WER:        qwen3-asr-1.7b > soniox > qwen-0.6b > turbo > whisper-v3 > gpt-4o
 - bc5cdr:     **soniox** > qwen-1.7b > whisper-v3 > turbo > qwen-0.6b > gpt-4o
 - ner-union:  **soniox** > qwen-1.7b > whisper-v3 > qwen-0.6b > turbo > gpt-4o
-- dictionary: qwen-1.7b > soniox > turbo > whisper-v3 > qwen-0.6b > gpt-4o
 - medgemma:   **soniox** > qwen-1.7b > whisper-v3 > turbo > qwen-0.6b > gpt-4o  (identical to bc5cdr)
 
 Takeaways:
-1. **3 of 4 methods agree: Soniox #1** on clinical medical terms (WER ranks it #2) — bc5cdr,
+1. **All 3 methods agree: Soniox #1** on clinical medical terms (WER ranks it #2) — bc5cdr,
    ner-union, AND the MedGemma LLM. whisper-v3 ranks #3 vs its #5 WER rank — its errors hit
    function words, not clinical content. Robust across narrow NER, broad NER, and a
    medical-specialized LLM.
-2. The **dictionary is the lone dissenter** (tracks WER, qwen-1.7b #1). Cause is mechanical:
-   uncurated, it matches every occurrence of every gazetteer term (PriMock57: 14,668 matches
-   vs ner-union's 2,670), so frequent generic terms dilute it toward WER. Note this is NOT
-   just "breadth" — MedGemma also over-extracts (~40 terms/file, incl. lifestyle context) yet
-   still ranks with the NER methods. The dictionary's dissent is specifically over-matching
-   *frequent generic* terms, not selectivity per se. → entity-ID method matters at the top,
-   but a *selective* extractor (NER or LLM) is stable; only the blunt gazetteer flips.
-3. Overall recall correlates strongly with WER (Pearson ~-0.97) — a complement, not a
-   replacement. **LibriSpeech is now excluded from every manifest** (all-caps read-speech
-   with no clinical content — NER produces only noise there); all four methods are built with
-   `--datasets primock57,meddialog-audio`, so the manifests hold 2,157 entries (57 PriMock57 +
-   2,100 MedDialog), not 5,096.
+2. Overall recall correlates strongly with WER (Pearson ~-0.97) — a complement, not a
+   replacement. **LibriSpeech is excluded from every manifest** (all-caps read-speech with no
+   clinical content — NER produces only noise there): the NER manifests are built with
+   `--datasets primock57,meddialog-audio` (2,157 entries = 57 PriMock57 + 2,100 MedDialog);
+   MedGemma is PriMock57-only (57 entries).
 
 ## Method 4 (LLM) — MedGemma DONE (2026-07-07); OpenRouter pending key
 
@@ -92,8 +83,8 @@ or expensive run resumes and never re-bills). CLI: `entity-build --method openro
    `uv run --extra local --with bitsandbytes --env-file .env stt-eval entity-build --method medgemma --limit 5` then drop `--limit`.
 3. OpenRouter full build (winning model): `uv run --env-file .env stt-eval entity-build --method openrouter --model <winner> --workers 8`
 4. Score both: `uv run stt-eval entity-score --manifest results/entity_manifests/<name>.json`, then rank
-   PriMock57 across all 4 methods and answer: does the selective LLM set side with the NER methods
-   (Soniox #1) or the dictionary (qwen-1.7b #1)? Does MedGemma (specialized) differ from OpenRouter (general)?
+   PriMock57 across all methods and answer: does a general OpenRouter LLM also side with the NER
+   methods (Soniox #1), as MedGemma did? Does specialization (MedGemma) differ from general (OpenRouter)?
 
 Two routes, ideally BOTH for a specialized-vs-general comparison (user leaned toward both):
 - **Medical-specialized, local (no key, runs now on the 4090):** MedGemma — open weights on
@@ -107,8 +98,8 @@ Two routes, ideally BOTH for a specialized-vs-general comparison (user leaned to
   of the scored ASR systems). Full extraction is ~$2–5 total (cost is not the constraint;
   pick for quality). No medical-specialized model exists on OpenRouter (verified).
 
-Open question the LLM method answers: does a selective LLM entity set land with the NER
-methods (Soniox #1) or the dictionary (qwen-1.7b #1)?
+Open question, now answered for MedGemma: a selective LLM entity set lands with the NER
+methods (Soniox #1). Remaining for the OpenRouter route: does a *general* LLM do the same?
 
 ## OSCE / Fareez dataset (task 2) — data ready, NOT transcribed
 
