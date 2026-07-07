@@ -93,16 +93,23 @@ def medgemma_extractor(model_id: str = "google/medgemma-27b-text-it"):
     quant = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_quant_type="nf4",
                                bnb_4bit_compute_dtype=torch.bfloat16,
                                bnb_4bit_use_double_quant=True)
+    # device_map={"":0}, not "auto": a ~15 GB 4-bit 27B fits one 24 GB GPU, and
+    # accelerate's "auto" can silently offload a layer to CPU and deadlock the load.
     model = AutoModelForCausalLM.from_pretrained(
-        model_id, quantization_config=quant, device_map="auto", dtype=torch.bfloat16)
+        model_id, quantization_config=quant, device_map={"": 0}, dtype=torch.bfloat16)
 
     def extract(reference: str) -> list[str]:
         msgs = [{"role": "system", "content": _SYSTEM},
                 {"role": "user", "content": _user(reference)}]
+        # return_dict=True → BatchEncoding (input_ids + attention_mask). A bare
+        # tensor has no .shape via BatchEncoding.__getattr__, which raised a
+        # message-less AttributeError; pass the dict to generate and slice the
+        # new tokens off input_ids' length.
         inputs = tok.apply_chat_template(msgs, add_generation_prompt=True,
-                                         return_tensors="pt").to(model.device)
-        out = model.generate(inputs, max_new_tokens=512, do_sample=False)
-        text = tok.decode(out[0, inputs.shape[1]:], skip_special_tokens=True)
+                                         return_tensors="pt", return_dict=True).to(model.device)
+        prompt_len = inputs["input_ids"].shape[1]
+        out = model.generate(**inputs, max_new_tokens=512, do_sample=False)
+        text = tok.decode(out[0, prompt_len:], skip_special_tokens=True)
         return _parse_entity_list(text)
 
     extract.parallel_safe = False
