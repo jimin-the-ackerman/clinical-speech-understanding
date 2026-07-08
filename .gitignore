@@ -230,6 +230,8 @@ results/entity_cache/
 !.agents/skills/
 .agents/skills/*
 !.agents/skills/okf-summary/
+!.agents/skills/okf-validate/
+!.agents/skills/okf-visualize/
 .claude/
 .hermes/
 skills-lock.json
