@@ -12,7 +12,7 @@ Requires Python ≥3.10, [uv](https://docs.astral.sh/uv/), `ffmpeg`, and `git` o
 uv sync                      # core (scoring, API transcribers)
 uv sync --extra data         # + HF datasets (MedDialog-Audio prepare)
 uv sync --extra local        # + faster-whisper, transformers, torch (GPU models)
-uv sync --extra entities     # + scispaCy (medical-term recall; see entity-score)
+uv sync --extra entities     # + scispaCy for the bc5cdr entity method (see entity-build)
 ```
 
 New to uv? See [Working with uv](#working-with-uv) below.
@@ -31,13 +31,18 @@ uv run stt-eval score       # -> results/wer_summary.{csv,md}, results/wer_per_f
 ```
 
 Medical-term recall (a clinical-entity metric alongside WER — see
-`docs/research/2026-07-06-medical-entity-asr-metrics.md`) needs scispaCy plus a
-NER model. Run it without a permanent install via a `uv run --with` overlay:
+`docs/entity-metric-comparison.md`) is two-stage: `entity-build --method X` freezes the
+reference entities to a manifest (the heavy, method-specific step — run in a `uv run --with`
+overlay so nothing permanent is installed), then `entity-score --manifest P` computes the
+recall table offline. Methods: `bc5cdr`, `med7`, `stanza-i2b2` (NER) and `medgemma` (local LLM).
 
 ```bash
+# build one method's manifest (bc5cdr shown; see the comparison doc for med7/stanza-i2b2/medgemma)
 uv run --with scispacy \
   --with "https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_bc5cdr_md-0.5.4.tar.gz" \
-  stt-eval entity-score       # -> results/entity_recall.{csv,md}
+  stt-eval entity-build --method bc5cdr --datasets primock57,meddialog-audio
+# score any manifest (offline, no NER/keys) -> results/entity_recall_bc5cdr.{csv,md}
+uv run stt-eval entity-score --manifest results/entity_manifests/bc5cdr.json
 ```
 
 `--results-dir` is a top-level flag (default `results/`), e.g.
@@ -76,7 +81,7 @@ Everyday commands:
 | `uv sync [--extra X]` | Make `.venv` match `uv.lock`. Extras (`data`, `local`, `entities`) are optional and off by default — that keeps the core install light and the test suite offline. |
 | `uv run <cmd>` | Run inside the env, syncing first. `uv run pytest`, `uv run stt-eval score`, `uv run python -c ...`. Why you never `activate`. |
 | `uv run --env-file .env <cmd>` | Load env vars (API keys) from `.env` first — how the transcribe runs get their keys without exporting them to your shell. |
-| `uv run --with <pkg> <cmd>` | Run in a throwaway overlay with extra packages, without touching `.venv` or the lockfile (see the `entity-score` example above). |
+| `uv run --with <pkg> <cmd>` | Run in a throwaway overlay with extra packages, without touching `.venv` or the lockfile (see the `entity-build` example above). |
 | `uv pip show <pkg>` / `uv pip tree` | Inspect what's installed (escape hatch; use sparingly). |
 
 You edit `pyproject.toml`; uv regenerates `uv.lock` on the next sync — rarely touch

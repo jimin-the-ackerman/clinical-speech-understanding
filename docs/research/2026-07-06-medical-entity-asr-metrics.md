@@ -133,9 +133,13 @@ scoring. Published entity-ASR metrics ship as paper code, not maintained librari
 
 ## Validation on our results (2026-07-06)
 
-Design A (`stt-eval entity-score`, scispaCy `en_ner_bc5cdr_md`, exact contiguous
-token match) run over the 6-model English round. Does entity recall reveal
-anything WER does not?
+> Update (2026-07-08): this was the initial single-method validation. The exercise later
+> expanded to four entity-identification methods — `bc5cdr`, `med7`, `stanza-i2b2`, `medgemma`
+> — all agreeing (Soniox #1 on PriMock57); see `docs/entity-metric-comparison.md`.
+
+Design A (bc5cdr, scispaCy `en_ner_bc5cdr_md`, exact contiguous token match — now via the
+two-stage `entity-build --method bc5cdr` + `entity-score`) run over the 6-model English
+round. Does entity recall reveal anything WER does not?
 
 - **It mostly tracks WER**, as PriMock57 warned: Pearson(WER, recall) = **-0.969**
   across all 54 rows. Do not treat recall as an independent signal.

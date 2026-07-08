@@ -1,6 +1,6 @@
 # Medical-entity metric: method comparison (working status)
 
-Status as of 2026-07-07, branch `stt-dev`. This is the live working state of the
+Status as of 2026-07-08, branch `stt-dev`. This is the live working state of the
 medical-term-recall exercise and the OSCE dataset, so work can resume after a
 context compaction. Background: `docs/research/2026-07-06-medical-entity-asr-metrics.md`
 (literature + design), `docs/tutorials/evaluation-workflow.md` (how scoring works).
@@ -61,52 +61,33 @@ Takeaways:
    `--datasets primock57,meddialog-audio` (2,157 entries = 57 PriMock57 + 2,100 MedDialog);
    MedGemma is PriMock57-only (57 entries).
 
-## Method 4 (LLM) — MedGemma DONE (2026-07-07); OpenRouter pending key
+## LLM methods — MedGemma done, OpenRouter pending
 
-**MedGemma-27B (4-bit, local) results on PriMock57:** 57 files, 2,505 entities, mean 44/file,
-0 empty (3 long consults first truncated at `max_new_tokens=512` → unterminated JSON parsed to
-`[]`; fixed by raising the cap to 1024, ranking unchanged). Manifest
-`results/entity_manifests/medgemma.json`, recall `results/entity_recall_medgemma.{csv,md}`.
-Verdict: **sides with the NER methods (Soniox #1), ranking identical to bc5cdr** despite
-over-extracting. Run cost: ~5 s model load (warm page cache) + ~4 s/ref. Gotchas fixed en
-route: `uv run --with bitsandbytes` pulls cu130 torch and breaks CUDA (→ bitsandbytes now in
-the `local` extra); `apply_chat_template` returns a BatchEncoding in transformers v5
-(→ `return_dict=True` + `generate(**inputs)`); `device_map={"":0}` avoids CPU-offload stalls.
+**MedGemma-27B (4-bit, local) — DONE on PriMock57:** 57 files, 2,505 entities, mean 44/file,
+0 empty. Manifest `results/entity_manifests/medgemma.json`, recall
+`results/entity_recall_medgemma.{csv,md}`. Verdict: **sides with the NER methods (Soniox #1),
+ranking identical to bc5cdr.** Run cost: ~5 s model load (warm page cache) + ~4 s/ref.
+Reproducibility gotchas (all fixed in code): `bitsandbytes` must live in the `local` extra —
+a `uv run --with bitsandbytes` overlay pulls cu130 torch and disables CUDA on driver <580;
+`apply_chat_template` returns a BatchEncoding in transformers v5 (use `return_dict=True` +
+`generate(**inputs)`); `device_map={"":0}` avoids CPU-offload stalls; `max_new_tokens=1024`
+(512 truncated the longest consults' term lists into unterminated JSON → `[]`). Optional
+extension: MedGemma on MedDialog (2,100 refs, ~2.5 h) for the noise-robustness cut.
 
-Still open: (a) MedGemma on MedDialog (2,100 refs, ~2.5 h) if the noise-robustness cut is
-wanted; (b) the OpenRouter general model, below.
+**OpenRouter general model — PENDING `OPENROUTER_API_KEY`** (the one remaining method: the
+specialized-vs-general foil). Code done: `entity_llm.openrouter_extractor` (parallel-safe,
+keyed), `build_manifest` resumable/parallel with a per-ref cache under `results/entity_cache/`
+(gitignored; a stall never re-bills). Once the key is in `.env`:
+1. Bake-off to pick the model (~15 refs):
+   `uv run --env-file .env stt-eval entity-bakeoff --specs "openrouter:anthropic/claude-opus-4.8,openrouter:google/gemini-2.5-flash" --limit 15`
+2. Full build: `uv run --env-file .env stt-eval entity-build --method openrouter --model <winner> --workers 8 --datasets primock57`
+3. Score + compare: does a *general* LLM also land Soniox #1, as MedGemma (specialized) did?
 
-**Code is done and committed** (plan `docs/superpowers/plans/2026-07-07-llm-entity-method.md`):
-`src/stt_eval/entity_llm.py` holds `openrouter_extractor` (parallel-safe, keyed) and
-`medgemma_extractor` (local, 4-bit). `build_manifest` is now resumable/parallel with a
-per-reference cache under `results/entity_cache/<method>/` (gitignored scratch; a crashed
-or expensive run resumes and never re-bills). CLI: `entity-build --method openrouter|medgemma
-[--model ID] [--workers N] [--limit N]` and `entity-bakeoff --specs method[:model],... --limit N`.
-87 offline tests green. What's left is purely the runtime, which needs keys in `.env`:
-
-1. Bake-off (pick the OpenRouter model), needs `OPENROUTER_API_KEY` (+ `HF_TOKEN` if MedGemma is in the specs):
-   `uv run --extra local --with bitsandbytes --env-file .env stt-eval entity-bakeoff --specs "medgemma,openrouter:anthropic/claude-opus-4.8,openrouter:google/gemini-2.5-flash" --limit 15`
-2. MedGemma smoke then full build (needs `HF_TOKEN` + license accept):
-   `uv run --extra local --with bitsandbytes --env-file .env stt-eval entity-build --method medgemma --limit 5` then drop `--limit`.
-3. OpenRouter full build (winning model): `uv run --env-file .env stt-eval entity-build --method openrouter --model <winner> --workers 8`
-4. Score both: `uv run stt-eval entity-score --manifest results/entity_manifests/<name>.json`, then rank
-   PriMock57 across all methods and answer: does a general OpenRouter LLM also side with the NER
-   methods (Soniox #1), as MedGemma did? Does specialization (MedGemma) differ from general (OpenRouter)?
-
-Two routes, ideally BOTH for a specialized-vs-general comparison (user leaned toward both):
-- **Medical-specialized, local (no key, runs now on the 4090):** MedGemma — open weights on
-  HF (`google/medgemma-27b-text-it` for text; 27B needs 4-bit to fit 24 GB, or `medgemma-4b-it`
-  bf16 for speed). This is the closest thing to the "MedPaLM-like" model the user wanted.
-  Med-PaLM 2 is NOT usable (Google MedLM API, healthcare-approval-gated, not on OpenRouter).
-- **General frontier, via OpenRouter (needs `OPENROUTER_API_KEY` in `.env`):** bake off on
-  ~15 clinical refs, then extract with the winner. Real catalog IDs + input $/M:
-  `anthropic/claude-opus-4.8` ($5), `google/gemini-3.1-pro-preview` ($2),
-  `google/gemini-2.5-flash` ($0.30). Deliberately NO OpenAI model (gpt-4o-transcribe is one
-  of the scored ASR systems). Full extraction is ~$2–5 total (cost is not the constraint;
-  pick for quality). No medical-specialized model exists on OpenRouter (verified).
-
-Open question, now answered for MedGemma: a selective LLM entity set lands with the NER
-methods (Soniox #1). Remaining for the OpenRouter route: does a *general* LLM do the same?
+Candidate IDs + input $/M: `anthropic/claude-opus-4.8` ($5), `google/gemini-3.1-pro-preview`
+($2), `google/gemini-2.5-flash` ($0.30). Deliberately NO OpenAI model (gpt-4o-transcribe is a
+scored ASR system). Full extraction ~$2–5 (pick for quality). No medical-specialized model
+exists on OpenRouter (verified) — MedGemma is the specialized route; Med-PaLM 2 is MedLM-API,
+gated, unusable.
 
 ## OSCE / Fareez dataset (task 2) — data ready, NOT transcribed
 
@@ -121,8 +102,11 @@ methods (Soniox #1). Remaining for the OpenRouter route: does a *general* LLM do
 
 ## Immediate next actions (pending user input)
 
-1. LLM method: run MedGemma locally now (no key), and/or the OpenRouter bake-off once
-   `OPENROUTER_API_KEY` is added. User leaned "both".
-2. OSCE transcription: the paid checkpoint above — confirm scope before spending.
+1. OpenRouter general-LLM foil: add `OPENROUTER_API_KEY`, then the bake-off + build above —
+   the last method (MedGemma already answered the specialized side).
+2. OSCE transcription: the paid checkpoint above — confirm scope before spending. Once
+   transcribed, rebuild every entity manifest to include OSCE.
 3. Deferred: fuzzy entity matching (current match is exact contiguous tokens; `ponytail:`
-   note in entity_score.py). Deepgram + AssemblyAI ASR models still skipped (no keys).
+   note in entity_score.py) — would recover reference-spelling/abbreviation misses that hit
+   all models equally (e.g. "flem"→phlegm, "a and e"→A&E). Deepgram + AssemblyAI ASR models
+   still skipped (no keys).

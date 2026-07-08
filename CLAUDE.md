@@ -21,6 +21,8 @@ resuming that work.
 - `uv run pytest` — test suite (no network/GPU/keys; keep it that way)
 - `uv run pytest tests/test_score.py::test_score_groups_and_pools -v` — single test
 - `uv run stt-eval prepare|transcribe|score` — the benchmark pipeline (see README)
+- `uv run stt-eval entity-build --method X` + `entity-score --manifest P` — medical-term
+  recall (bc5cdr/med7/stanza-i2b2/medgemma; see docs/entity-metric-comparison.md)
 
 ## Architecture
 
