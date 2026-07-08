@@ -17,8 +17,9 @@ a reference's clinical entities whose surface form survives into the hypothesis,
 
 1. **build** — `entity-build --method X` runs an entity extractor over each unique **raw**
    reference (clinical NER needs the casing/punctuation the normalizer strips) and freezes the
-   result to `results/entity_manifests/X.json`. The method-specific cost/nondeterminism lives
-   here; LLM methods get a resumable per-reference cache.
+   result to `results/entity_manifests/<method>.json` (or `<method>_<model>.json` when `--model`
+   is set, e.g. the LLM methods). The method-specific cost/nondeterminism lives here; LLM methods
+   get a resumable per-reference cache.
 2. **score** — `entity-score --manifest P` aggregates recall offline (deterministic, no
    NER/keys) to `results/entity_recall_<X>.{csv,md}`. Comparing methods = scoring different
    manifests.

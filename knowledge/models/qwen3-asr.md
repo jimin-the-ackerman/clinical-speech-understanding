@@ -8,9 +8,9 @@ timestamp: 2026-07-08
 
 # Qwen3-ASR — local
 
-`qwen3-asr-0.6b` and `qwen3-asr-1.7b` (`Qwen/Qwen3-ASR-*-hf`), a dedicated open ASR family
-(30 languages incl. Korean → reusable in phase 2). `transcribers/qwen3_asr.py`,
-`parallel_safe = False`.
+`qwen3-asr-0.6b` and `qwen3-asr-1.7b`, a dedicated open ASR family (30 languages incl. Korean →
+reusable in phase 2). The registry passes the bare `Qwen/Qwen3-ASR-*` id; `transcribers/qwen3_asr.py`
+normalizes it to the transformers-native `-hf` checkpoint before loading. `parallel_safe = False`.
 
 - Loads `AutoProcessor` + `AutoModelForMultimodalLM` (bfloat16, `device_map="auto"`).
 - `transcribe()` scales `max_new_tokens = max(512, duration*12)` (from `soundfile` duration) so

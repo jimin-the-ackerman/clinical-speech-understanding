@@ -11,14 +11,15 @@ timestamp: 2026-07-08
 `build_parser()` defines the subcommands; every backend import is lazy inside `main()` so
 unused extras never load. Top-level `--results-dir` (default `results/`).
 
-- **`prepare --datasets`** — download/preprocess [datasets](../datasets/record-model.md).
-- **`transcribe --models --datasets [--workers 8] [--limit N]`** — run models; a model whose
+- **`prepare --datasets [--data-dir data]`** — download/preprocess [datasets](../datasets/record-model.md).
+- **`transcribe --models --datasets [--data-dir data] [--workers 8] [--limit N]`** — run models; a model whose
   API key is missing is **skipped with a warning** (`MissingKeyError`), not an error. Drives
   [orchestration](orchestration.md).
 - **`score`** — [WER](../metrics/wer.md) tables from the cache.
-- **`entity-build --method X [--model ID] [--workers N] [--limit N] [--datasets ...]`** — freeze
-  reference entities to a manifest (LLM methods get a resumable per-ref `cache_dir`); see
-  [medical-term recall](../metrics/medical-term-recall.md).
+- **`entity-build --method X [--out P] [--model ID] [--workers N] [--limit N] [--datasets ...]`** —
+  freeze reference entities to a manifest (default `results/entity_manifests/<method>.json`, or
+  `<method>_<model>.json` when `--model` is set; LLM methods get a resumable per-ref `cache_dir`);
+  see [medical-term recall](../metrics/medical-term-recall.md).
 - **`entity-score --manifest P`** — offline recall table.
 - **`entity-bakeoff --specs method[:model],... [--limit 15]`** — side-by-side entity sets for a
   human pick.

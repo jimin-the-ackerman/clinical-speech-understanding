@@ -2,6 +2,12 @@
 
 Chronological history of this knowledge bundle (OKF reserved file).
 
+- **2026-07-08** — Fixed bundle drift an `okf-freshness` audit surfaced: corrected the `Record`
+  module path (`records.py`, not `datasets/records.py`); documented the missing `--data-dir` /
+  `--out` CLI flags in `components/cli.md`; noted the model-suffixed manifest name
+  (`<method>_<model>.json`) in `metrics/medical-term-recall.md` and `components/cli.md`; and
+  clarified that the Qwen registry passes bare ids normalized to `-hf` at load time.
+
 - **2026-07-08** — Added `project/research-plan.md` (research questions, design in brief, phased
   roadmap) as a first-class plan concept; linked from `index.md`. Fills the gap where the plan was
   only implicit — scattered across the overview, the finding, and status.

@@ -8,8 +8,8 @@ timestamp: 2026-07-08
 
 # Record model & dataset registry
 
-Every dataset loader yields a list of **`Record`** (`datasets/records.py`,
-`@dataclass(frozen=True)`):
+Every dataset loader yields a list of **`Record`** (`records.py`, the package root — not under
+`datasets/`; `@dataclass(frozen=True)`):
 
 - `file_id: str` — stable id (also the [cache](../components/transcript-cache.md) key)
 - `audio_path: Path` — 16 kHz mono audio on disk
