@@ -19,6 +19,33 @@ uv sync --extra entities     # + scispaCy for the bc5cdr entity method (see enti
 
 New to uv? See [Working with uv](#working-with-uv) below.
 
+## Get a plain-language brief
+
+Handing this to a colleague, or want to get re-oriented fast? Point your coding agent at the
+`okf-summary` skill (`.agents/skills/okf-summary/`). It reads the `knowledge/` bundle and
+writes a one-page, plain-language story of the research — the question, what we found, what's left —
+generated fresh each time, so it never goes stale. Any AGENTS.md-aware agent (Claude Code, Codex, …)
+can run it.
+
+For the cleanest, least-AI-sounding output, also install the de-slop pass:
+`npx skills add conorbronsdon/avoid-ai-writing`
+([MIT](https://github.com/conorbronsdon/avoid-ai-writing)). `okf-summary` writes the friendly draft,
+then hands it to that skill for a deterministic AI-tell sweep; without it, the skill falls back to a
+lighter self-review.
+
+**Claude Code** (it's a slash command):
+
+```
+/okf-summary
+```
+
+**Codex** (or any agent without slash-command skills — just point it at the file):
+
+```
+Read .agents/skills/okf-summary/SKILL.md and follow it to give me a
+plain-language summary of this project's research.
+```
+
 API keys (a missing key skips that model with a warning):
 `OPENAI_API_KEY`, `DEEPGRAM_API_KEY`, `ASSEMBLYAI_API_KEY`, `SONIOX_API_KEY`.
 

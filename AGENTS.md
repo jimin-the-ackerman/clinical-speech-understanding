@@ -13,6 +13,8 @@ Plan: `docs/superpowers/plans/2026-07-05-stt-benchmark-harness.md`.
 bundle (datasets, models, metrics, entity methods, components, runbooks, findings). Start there;
 live status + open todos live in `knowledge/status.md`. New knowledge → add a concept file under
 `knowledge/` (markdown + YAML frontmatter, relative links) and update `index.md` / `log.md`.
+**Keep it current:** when you change behavior the bundle documents, update the matching concept
+file (and add a `log.md` line) in the same change — nothing syncs the bundle automatically.
 
 **Current work (2026-07-08):** medical-term-recall exercise — four entity methods done and
 agreeing (Soniox #1 on PriMock57): `bc5cdr`, `med7`, `stanza-i2b2`, `medgemma`. Optional

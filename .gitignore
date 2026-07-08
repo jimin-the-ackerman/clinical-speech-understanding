@@ -222,8 +222,14 @@ data/
 # per-reference LLM entity cache (scratch; frozen manifests are the committed record)
 results/entity_cache/
 
-# agent tooling (installed skills, per-machine)
-.agents/
+# scratch (on-the-fly summaries, ad-hoc notes — never committed)
+.tmp/
+
+# agent tooling (installed skills, per-machine) — but track authored skills
+.agents/*
+!.agents/skills/
+.agents/skills/*
+!.agents/skills/okf-summary/
 .claude/
 .hermes/
 skills-lock.json
