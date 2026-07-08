@@ -1,6 +1,8 @@
 ---
 name: okf-summary
 description: Read an OKF knowledge bundle and tell the story of what it documents — the question, what was learned, and what's left — in plain, human language. Use when someone wants to get up to speed on a project without reading the whole codebase.
+user-invocable: true
+argument-hint: "[bundle-dir=knowledge] [-o out-dir]"
 ---
 
 You are briefing a smart colleague who has never seen this project. They want the story, not a
@@ -8,9 +10,10 @@ file dump. Read the knowledge bundle, then write one page a busy person actually
 
 ## Find your way around the bundle
 
-This is an [OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog) v0.1 bundle — a
-directory of markdown files, each with YAML frontmatter. Two things navigate it, so you never
-have to know the filenames in advance:
+The bundle is the directory the user names, or `knowledge/` by default. It is an
+[OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog) v0.1 bundle — a directory of
+markdown files, each with YAML frontmatter. Two things navigate it, so you never have to know the
+filenames in advance:
 
 - **`index.md`** is the reserved map of the bundle. Start there; it links everything.
 - Every concept file declares a **`type`** in its frontmatter (and a title). Use those to find
@@ -35,10 +38,9 @@ label like "Summary" or "OKF Summary".
 
 One page, ~400–600 words. Structure it as a story, not an outline:
 
-1. **The hook** — open with the single most surprising or counterintuitive thing. Make the very
-   first sentence short and blunt: one plain claim, no clauses stacked on it. (In this bundle, for
-   example: a cheaper, plainer model beats the fancy one at the thing that actually matters.) Lead
-   with that, not with methodology.
+1. **The hook** — open with the single most surprising or counterintuitive thing the bundle
+   documents. Make the very first sentence short and blunt: one plain claim, no clauses stacked on
+   it. Lead with that, not with methodology.
 2. **The question** — why the project is worth doing, in a sentence a non-specialist gets.
 3. **What was done** — the shortest possible sketch. Names of the datasets and methods, not their
    internals.
@@ -47,10 +49,10 @@ One page, ~400–600 words. Structure it as a story, not an outline:
 5. **The honest limits** — one short paragraph. Don't oversell.
 6. **What's next** — the open todos, as a short list someone could act on.
 
-**Link as you go.** The first time you name a bundle concept — a dataset, a metric, an entity
-method, the finding, the plan — link it to its file, using a path relative to where the summary is
-saved. From `.tmp/` that means `../knowledge/…`, e.g. `[PriMock57](../knowledge/datasets/primock57.md)`.
-First mention only; don't turn the prose into link soup.
+**Link as you go.** The first time you name a bundle concept — a dataset, a metric, a method, the
+finding, the plan — link it to its file, using a path relative from where the summary is saved to
+the bundle directory. (With the defaults, a summary in `.tmp/` linking a bundle in `knowledge/`
+gives `../knowledge/<group>/<file>.md`.) First mention only; don't turn the prose into link soup.
 
 ## Voice — friendly and human
 
@@ -83,12 +85,12 @@ anything that reads like a report.
 ## Deliver
 
 Print the summary in the reply, and also save a copy so runs accumulate as a history you can
-compare. Save only to the gitignored scratch dir — `.tmp/` — never a tracked file (create `.tmp/`
-if it doesn't exist).
+compare. Save to a gitignored scratch dir — `.tmp/` by default, or the `-o` dir the user gives —
+never a tracked file (create the dir if it doesn't exist, and make sure it's gitignored).
 
-Filename: `.tmp/okf-summary-v{N}.md`. Pick `N` by listing what's already there
-(`ls .tmp/okf-summary-v*.md`) and adding one — start at `v0` if none exist. Never overwrite an
-existing version.
+Filename: `<out-dir>/okf-summary-v{N}.md` (default `.tmp/okf-summary-v{N}.md`). Pick `N` by listing
+what's already there (`ls <out-dir>/okf-summary-v*.md`) and adding one — start at `v0` if none
+exist. Never overwrite an existing version.
 
 Begin the file with a short meta header as an HTML comment. **Get the timestamp and commit by
 running the commands below — never write them from memory; a made-up date makes the history
