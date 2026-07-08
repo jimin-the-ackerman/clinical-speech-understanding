@@ -1,7 +1,8 @@
 # clinical-speech-understanding
 
 Benchmarking STT models for a Korean healthcare "AI scribe". Phase 1: English
-medical audio. **Knowledge bundle (start here): `knowledge/index.md`.** Design:
+medical audio. **Knowledge bundle (start here): `knowledge/index.md`.** Working with an AI
+agent? See `AGENTS.md`. Design:
 `docs/superpowers/specs/2026-07-05-stt-benchmark-design.md`. Full benchmark on a GPU machine:
 `knowledge/runbooks/gpu-benchmark.md`.
 
@@ -12,7 +13,7 @@ Requires Python ≥3.10, [uv](https://docs.astral.sh/uv/), `ffmpeg`, and `git` o
 ```bash
 uv sync                      # core (scoring, API transcribers)
 uv sync --extra data         # + HF datasets (MedDialog-Audio prepare)
-uv sync --extra local        # + faster-whisper, transformers, torch (GPU models)
+uv sync --extra local        # + faster-whisper, transformers, torch, bitsandbytes (GPU + 4-bit MedGemma)
 uv sync --extra entities     # + scispaCy for the bc5cdr entity method (see entity-build)
 ```
 
