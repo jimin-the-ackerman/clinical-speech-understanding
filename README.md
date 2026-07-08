@@ -1,8 +1,8 @@
 # clinical-speech-understanding
 
 Benchmarking STT models for a Korean healthcare "AI scribe". Phase 1: English
-medical audio. **Knowledge bundle (start here): `knowledge/index.md`.** Working with an AI
-agent? See `AGENTS.md`. Design:
+medical audio. **Knowledge bundle (start here): `knowledge/index.md`.** Coding agents: see
+`AGENTS.md`. Design:
 `docs/superpowers/specs/2026-07-05-stt-benchmark-design.md`. Full benchmark on a GPU machine:
 `knowledge/runbooks/gpu-benchmark.md`.
 
@@ -21,9 +21,9 @@ New to uv? See [Working with uv](#working-with-uv) below.
 
 ## Get a plain-language brief
 
-Handing this to a colleague, or want to get re-oriented fast? Point your coding agent at the
+To brief a colleague or get re-oriented fast, point your coding agent at the
 `okf-summary` skill (`.agents/skills/okf-summary/`). It reads the `knowledge/` bundle and
-writes a one-page, plain-language story of the research — the question, what we found, what's left —
+writes a one-page, plain-language story of the research (the question, what we found, what's left),
 generated fresh each time, so it never goes stale. Any AGENTS.md-aware agent (Claude Code, Codex, …)
 can run it.
 
@@ -52,22 +52,41 @@ Read .agents/skills/okf-summary/SKILL.md and follow it to give me a
 plain-language summary of this project's research.
 ```
 
-API keys (a missing key skips that model with a warning):
-`OPENAI_API_KEY`, `DEEPGRAM_API_KEY`, `ASSEMBLYAI_API_KEY`, `SONIOX_API_KEY`.
+### API keys
+
+Transcriber and entity-method credentials live in a gitignored `.env`. Copy the template and fill
+in whichever you have. A missing key just skips the model or step that needs it, with a warning:
+
+```bash
+cp .env.example .env      # then edit .env
+```
+
+Runs load it explicitly with `--env-file` (e.g. `uv run --env-file .env stt-eval transcribe …`):
+
+| Variable | Unlocks |
+|---|---|
+| `OPENAI_API_KEY` | `gpt-4o-transcribe` |
+| `SONIOX_API_KEY` | `soniox-stt-async-v5` |
+| `HF_TOKEN` | `prepare` (MedDialog-Audio download) + the gated `medgemma` entity method |
+| `OPENROUTER_API_KEY` | `entity-build --method openrouter` |
+
+`DEEPGRAM_API_KEY` and `ASSEMBLYAI_API_KEY` are omitted above: those two models aren't part of the
+current round, so leave them blank until you add the models back. Local Whisper / Qwen3-ASR models
+and offline scoring (`score`, `entity-score`) need no keys.
 
 ## Usage
 
 ```bash
-uv run stt-eval prepare --datasets librispeech-test-other,primock57,meddialog-audio
-uv run stt-eval transcribe \
+uv run --env-file .env stt-eval prepare --datasets librispeech-test-other,primock57,meddialog-audio
+uv run --env-file .env stt-eval transcribe \
   --models whisper-large-v3-turbo,gpt-4o-transcribe \
   --datasets primock57 --workers 8
-uv run stt-eval score       # -> results/wer_summary.{csv,md}, results/wer_per_file.csv
+uv run stt-eval score       # -> results/wer_summary.{csv,md}, results/wer_per_file.csv  (offline, no keys)
 ```
 
-Medical-term recall (a clinical-entity metric alongside WER — see
+Medical-term recall (a clinical-entity metric alongside WER; see
 `knowledge/metrics/medical-term-recall.md`) is two-stage: `entity-build --method X` freezes the
-reference entities to a manifest (the heavy, method-specific step — run in a `uv run --with`
+reference entities to a manifest (the heavy, method-specific step; run it in a `uv run --with`
 overlay so nothing permanent is installed), then `entity-score --manifest P` computes the
 recall table offline. Methods: `bc5cdr`, `med7`, `stanza-i2b2` (NER) and `medgemma` (local LLM).
 
@@ -83,9 +102,12 @@ uv run stt-eval entity-score --manifest results/entity_manifests/bc5cdr.json
 `--results-dir` is a top-level flag (default `results/`), e.g.
 `uv run stt-eval --results-dir X score`; normal usage needs nothing.
 
-Models: `whisper-large-v3`, `whisper-large-v3-turbo`, `qwen3-asr-0.6b`,
-`qwen3-asr-1.7b`, `gpt-4o-transcribe`, `deepgram-nova-3-medical`,
-`assemblyai-universal-3-5-pro`, `soniox-stt-async-v5`.
+The current round runs six models; Deepgram and AssemblyAI are wired into the harness but not
+run yet (no keys):
+
+- **Run:** `whisper-large-v3`, `whisper-large-v3-turbo`, `qwen3-asr-0.6b`, `qwen3-asr-1.7b`,
+  `gpt-4o-transcribe`, `soniox-stt-async-v5`
+- **Configured, not yet run:** `deepgram-nova-3-medical`, `assemblyai-universal-3-5-pro`
 
 Transcripts are cached per file under `results/transcripts/` (committed);
 re-runs skip cached files, so interrupted runs resume and APIs are never
@@ -100,27 +122,27 @@ uv run pytest        # no network, no GPU, no API keys needed
 ## Working with uv
 
 [uv](https://docs.astral.sh/uv/) manages one virtual environment per project. You
-never activate it — every `uv run` syncs the env first, then runs. Three files
+never activate it; every `uv run` syncs the env first, then runs. Three files
 define it:
 
-- **`pyproject.toml`** — what you want (dependencies, optional `[extra]` groups,
+- **`pyproject.toml`**: what you want (dependencies, optional `[extra]` groups,
   the `stt-eval` command). Hand-edited.
-- **`uv.lock`** — exact resolved versions of everything, transitive deps included.
+- **`uv.lock`**: exact resolved versions of everything, transitive deps included.
   Generated by uv; committed so every machine installs identically.
-- **`.venv/`** — the installed environment. Disposable; rebuilt from the two above.
+- **`.venv/`**: the installed environment. Disposable; rebuilt from the two above.
 
 Everyday commands:
 
 | Command | What it does |
 |---|---|
-| `uv sync [--extra X]` | Make `.venv` match `uv.lock`. Extras (`data`, `local`, `entities`) are optional and off by default — that keeps the core install light and the test suite offline. |
+| `uv sync [--extra X]` | Make `.venv` match `uv.lock`. Extras (`data`, `local`, `entities`) are optional and off by default. That keeps the core install light and the test suite offline. |
 | `uv run <cmd>` | Run inside the env, syncing first. `uv run pytest`, `uv run stt-eval score`, `uv run python -c ...`. Why you never `activate`. |
-| `uv run --env-file .env <cmd>` | Load env vars (API keys) from `.env` first — how the transcribe runs get their keys without exporting them to your shell. |
+| `uv run --env-file .env <cmd>` | Load env vars (API keys) from `.env` first, so the transcribe runs get their keys without exporting them to your shell. |
 | `uv run --with <pkg> <cmd>` | Run in a throwaway overlay with extra packages, without touching `.venv` or the lockfile (see the `entity-build` example above). |
 | `uv pip show <pkg>` / `uv pip tree` | Inspect what's installed (escape hatch; use sparingly). |
 
-You edit `pyproject.toml`; uv regenerates `uv.lock` on the next sync — rarely touch
+You edit `pyproject.toml`; uv regenerates `uv.lock` on the next sync, so you rarely touch
 the lock by hand. **This repo's one non-obvious bit:** the `[tool.uv.sources]` and
 `[[tool.uv.index]]` blocks in `pyproject.toml` pin `torch`/`torchcodec` to the
-CUDA 12.6 wheel index instead of default PyPI — that is what makes the local GPU
+CUDA 12.6 wheel index instead of default PyPI. That is what makes the local GPU
 models work on a CUDA-12 driver machine (see `knowledge/runbooks/gpu-benchmark.md`).
