@@ -19,6 +19,19 @@ uv sync --extra entities     # + scispaCy for the bc5cdr entity method (see enti
 
 New to uv? See [Working with uv](#working-with-uv) below.
 
+### Pre-commit hook (recommended)
+
+A hook validates the `knowledge/` OKF bundle (broken links, missing `type` frontmatter) on any
+commit that touches it. One-time setup per clone:
+
+```bash
+uv tool install pre-commit    # or: pipx install pre-commit
+pre-commit install
+```
+
+It fires only when a commit changes `knowledge/`, so code-only commits are untouched. Bypass once
+with `git commit --no-verify`. Config: `.pre-commit-config.yaml`.
+
 ## Get a plain-language brief
 
 To brief a colleague or get re-oriented fast, point your coding agent at the

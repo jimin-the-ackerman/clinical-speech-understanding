@@ -1,0 +1,18 @@
+# Pre-commit hooks for this repo. One-time setup per clone:
+#   uv tool install pre-commit    # or: pipx install pre-commit
+#   pre-commit install
+# After that, hooks run automatically on `git commit`.
+# Bypass once (emergencies) with:  git commit --no-verify
+#
+# Requires `uv` on PATH (already a repo prerequisite). The okf-validate hook only
+# fires when a knowledge/ file is staged, so normal code commits are untouched.
+repos:
+  - repo: local
+    hooks:
+      - id: okf-validate
+        name: okf-validate (knowledge bundle conformance)
+        description: OKF v0.1 §9 conformance check on the knowledge/ bundle.
+        entry: uv run .agents/skills/okf-validate/scripts/okf_validate.py knowledge --strict
+        language: system
+        files: ^knowledge/
+        pass_filenames: false

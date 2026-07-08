@@ -13,8 +13,24 @@ Plan: `docs/superpowers/plans/2026-07-05-stt-benchmark-harness.md`.
 bundle (datasets, models, metrics, entity methods, components, runbooks, findings). Start there;
 live status + open todos live in `knowledge/status.md`. New knowledge → add a concept file under
 `knowledge/` (markdown + YAML frontmatter, relative links) and update `index.md` / `log.md`.
-**Keep it current:** when you change behavior the bundle documents, update the matching concept
-file (and add a `log.md` line) in the same change — nothing syncs the bundle automatically.
+**Keep it current; nothing syncs the bundle automatically.** When a change alters behavior the
+bundle documents, update the matching concept file (and add a `log.md` line) in the *same* change.
+Which code maps to which concept (paths under `knowledge/`):
+
+| You changed… | Check / update… |
+|---|---|
+| `transcribers/` (a backend, the registry) | `models/` + `models/transcriber-protocol.md` |
+| `datasets/` (a loader, the `Record` shape) | `datasets/` |
+| `score.py` / `metrics.py` (WER, normalization) | `metrics/wer.md` + `metrics/text-normalization.md` |
+| `entity_score.py` / `entity_llm.py` (a method) | `entity-methods/` + `metrics/medical-term-recall.md` |
+| caching / orchestration / CLI | `components/` |
+| `pyproject.toml` (deps, extras, the torch pin) | `project/environment.md` |
+| new benchmark numbers or a result | `findings/` + `status.md` |
+| scope / roadmap / a new open todo | `project/research-plan.md` + `status.md` |
+
+Freshness is a judgment only the change's author can make; conformance is mechanical, so run
+`okf-validate` before committing bundle changes to catch broken links and missing `type`
+frontmatter.
 
 **Current work (2026-07-08):** medical-term-recall exercise — four entity methods done and
 agreeing (Soniox #1 on PriMock57): `bc5cdr`, `med7`, `stanza-i2b2`, `medgemma`. Optional
