@@ -47,6 +47,11 @@ One page, ~400–600 words. Structure it as a story, not an outline:
 5. **The honest limits** — one short paragraph. Don't oversell.
 6. **What's next** — the open todos, as a short list someone could act on.
 
+**Link as you go.** The first time you name a bundle concept — a dataset, a metric, an entity
+method, the finding, the plan — link it to its file, using a path relative to where the summary is
+saved. From `.tmp/` that means `../knowledge/…`, e.g. `[PriMock57](../knowledge/datasets/primock57.md)`.
+First mention only; don't turn the prose into link soup.
+
 ## Voice — friendly and human
 
 Write like a sharp person explaining their work to a friend over coffee, not like a model
@@ -77,6 +82,23 @@ anything that reads like a report.
 
 ## Deliver
 
-Print the summary in the reply by default — the point is a fresh brief on the fly, and a file
-that's never written can't go stale or clutter anything. Only if the person asks to keep it, save
-it to a gitignored scratch dir (in this repo, `.tmp/okf-summary.md`); never create a tracked file.
+Print the summary in the reply, and also save a copy so runs accumulate as a history you can
+compare. Save only to the gitignored scratch dir — `.tmp/` — never a tracked file (create `.tmp/`
+if it doesn't exist).
+
+Filename: `.tmp/okf-summary-v{N}.md`. Pick `N` by listing what's already there
+(`ls .tmp/okf-summary-v*.md`) and adding one — start at `v0` if none exist. Never overwrite an
+existing version.
+
+Begin the file with a short meta header as an HTML comment. **Get the timestamp and commit by
+running the commands below — never write them from memory; a made-up date makes the history
+worthless:**
+
+    <!--
+    okf-summary v{N}
+    generated: <run: date '+%Y-%m-%d %H:%M %Z'>
+    bundle:    <run: git rev-parse --short HEAD> on <run: git branch --show-current>
+    agent:     <which agent you are — e.g. claude-code / codex>
+    -->
+
+The titled summary follows the header.
