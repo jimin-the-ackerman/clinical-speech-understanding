@@ -6,6 +6,7 @@ frontmatter; links are relative so they resolve on GitHub. Start here, then foll
 
 ## Project
 - [Overview](project/overview.md) — goal, scope, phase 1
+- [Research plan](project/research-plan.md) — the questions, the design, the phased roadmap
 - [Architecture](project/architecture.md) — the prepare → transcribe → score pipeline
 - [Environment & packaging](project/environment.md) — uv, extras, the CUDA-12.6 torch pin
 

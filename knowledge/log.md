@@ -2,6 +2,10 @@
 
 Chronological history of this knowledge bundle (OKF reserved file).
 
+- **2026-07-08** — Added `project/research-plan.md` (research questions, design in brief, phased
+  roadmap) as a first-class plan concept; linked from `index.md`. Fills the gap where the plan was
+  only implicit — scattered across the overview, the finding, and status.
+
 - **2026-07-08** — Bundle created. Adopted **OKF v0.1** as the repo's knowledge protocol and
   cataloged the codebase (project, datasets, models, metrics, entity methods, components,
   runbooks, findings, status). Migrated the reproducible/pedagogical content out of four

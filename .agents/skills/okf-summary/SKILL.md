@@ -30,11 +30,15 @@ bundle and a raw results file disagree, trust the raw results and say so.
 
 ## Write it like this
 
+Give it a title that states the finding itself — a plain sentence a reader could repeat — not a
+label like "Summary" or "OKF Summary".
+
 One page, ~400–600 words. Structure it as a story, not an outline:
 
-1. **The hook** — the single most surprising or counterintuitive thing, up front. (In this
-   bundle, for example: a cheaper, plainer model beats the fancy one at the thing that actually
-   matters.) Lead with that, not with methodology.
+1. **The hook** — open with the single most surprising or counterintuitive thing. Make the very
+   first sentence short and blunt: one plain claim, no clauses stacked on it. (In this bundle, for
+   example: a cheaper, plainer model beats the fancy one at the thing that actually matters.) Lead
+   with that, not with methodology.
 2. **The question** — why the project is worth doing, in a sentence a non-specialist gets.
 3. **What was done** — the shortest possible sketch. Names of the datasets and methods, not their
    internals.

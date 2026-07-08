@@ -39,7 +39,13 @@ lighter self-review.
 /okf-summary
 ```
 
-**Codex** (or any agent without slash-command skills — just point it at the file):
+**Codex** (it uses `$` instead of `/`):
+
+```
+$okf-summary
+```
+
+Or, for any agent without a skill-command syntax, just point it at the file:
 
 ```
 Read .agents/skills/okf-summary/SKILL.md and follow it to give me a
