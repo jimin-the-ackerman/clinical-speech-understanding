@@ -1,5 +1,11 @@
 # LLM Entity-Identification Method Implementation Plan
 
+> **Historical record (completed 2026-07-07).** Kept as an implementation-history artifact; do
+> not follow its paths verbatim. What was `docs/entity-metric-comparison.md` here has been
+> consolidated into the `knowledge/` OKF bundle (references below now point at
+> `knowledge/metrics/medical-term-recall.md`); see also `knowledge/findings/medical-term-recall.md`
+> and `knowledge/status.md`. The `dictionary` method mentioned below was later removed.
+
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 > **On execution, copy this plan to `docs/superpowers/plans/2026-07-07-llm-entity-method.md`** (repo convention; plan mode only allowed the scratch plan file).
 
@@ -69,7 +75,7 @@ Expected: FAIL — `ModuleNotFoundError: stt_eval.entity_llm`.
 """LLM entity extractors (method 4): MedGemma local + OpenRouter general model.
 Both satisfy extract(reference)->[surface forms] and are dispatched by
 entity_score.extractor_for. Heavy deps (transformers/torch/bitsandbytes) import
-lazily; httpx is a core dep. See docs/entity-metric-comparison.md."""
+lazily; httpx is a core dep. See knowledge/metrics/medical-term-recall.md."""
 
 import json
 import re
@@ -579,7 +585,7 @@ git commit -m "feat: entity-bakeoff subcommand for side-by-side model comparison
 
 **Files:**
 - Modify: `pyproject.toml` (comment noting the MedGemma overlay; optional `bitsandbytes` pin)
-- Modify: `docs/entity-metric-comparison.md` (LLM results + verdict)
+- Modify: `knowledge/metrics/medical-term-recall.md` (LLM results + verdict)
 - Create: `results/entity_manifests/medgemma.json`, `results/entity_manifests/openrouter_<slug>.json`, `results/entity_recall_*.{csv,md}`
 
 - [ ] **Step 1: Note the MedGemma overlay in pyproject** (no resolver change; `bitsandbytes` via overlay)
@@ -607,14 +613,14 @@ Expected: resumable; a stall never re-bills completed refs (per-ref cache under 
 
 - [ ] **Step 5: Score both + compare**
 
-Run: `uv run stt-eval entity-score --manifest results/entity_manifests/medgemma.json` and same for the openrouter manifest. Then rank models on PriMock57 across all methods (reuse the comparison snippet in `docs/entity-metric-comparison.md`). Answer: does the LLM set side with the NER methods (Soniox #1) or the dictionary (qwen-1.7b #1)? Does medical-specialized (MedGemma) differ from general (OpenRouter)?
+Run: `uv run stt-eval entity-score --manifest results/entity_manifests/medgemma.json` and same for the openrouter manifest. Then rank models on PriMock57 across all methods (reuse the comparison snippet in `knowledge/metrics/medical-term-recall.md`). Answer: does the LLM set side with the NER methods (Soniox #1) or the dictionary (qwen-1.7b #1)? Does medical-specialized (MedGemma) differ from general (OpenRouter)?
 
 - [ ] **Step 6: Update docs + commit**
 
-Update `docs/entity-metric-comparison.md` (method 4 status → done; the specialized-vs-general finding). Commit manifests, recall tables, and the doc:
+Update `knowledge/metrics/medical-term-recall.md` (method 4 status → done; the specialized-vs-general finding). Commit manifests, recall tables, and the doc:
 
 ```bash
-git add results/entity_manifests/ results/entity_recall_*.{csv,md} pyproject.toml docs/entity-metric-comparison.md
+git add results/entity_manifests/ results/entity_recall_*.{csv,md} pyproject.toml knowledge/metrics/medical-term-recall.md
 git commit -m "results: LLM entity method (MedGemma + OpenRouter) + 4-method synthesis"
 ```
 
