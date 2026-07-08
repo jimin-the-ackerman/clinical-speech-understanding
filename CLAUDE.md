@@ -8,12 +8,14 @@ STT benchmarking for a Korean healthcare "AI scribe" (phase 1: English).
 Spec: `docs/superpowers/specs/2026-07-05-stt-benchmark-design.md`.
 Plan: `docs/superpowers/plans/2026-07-05-stt-benchmark-harness.md`.
 
-**Current work (2026-07-07): `docs/entity-metric-comparison.md`** — live status of the
-medical-term-recall exercise. Four entity methods done and agreeing (Soniox #1 on
-PriMock57): `bc5cdr`, `med7`, `stanza-i2b2`, `medgemma`. Optional remaining: an OpenRouter
-general-LLM foil (awaits `OPENROUTER_API_KEY`). Also the OSCE/Fareez dataset (loader
-done, data downloaded, transcription is a pending paid checkpoint). Read it before
-resuming that work.
+**Knowledge bundle: `knowledge/index.md`** — this repo's knowledge is cataloged as an OKF v0.1
+bundle (datasets, models, metrics, entity methods, components, runbooks, findings). Start there;
+live status + open todos live in `knowledge/status.md`.
+
+**Current work (2026-07-08):** medical-term-recall exercise — four entity methods done and
+agreeing (Soniox #1 on PriMock57): `bc5cdr`, `med7`, `stanza-i2b2`, `medgemma`. Optional
+remaining: an OpenRouter general-LLM foil (awaits `OPENROUTER_API_KEY`). Also the OSCE/Fareez
+dataset (loader done, transcription a pending paid checkpoint). See `knowledge/status.md`.
 
 ## Commands
 
@@ -22,7 +24,7 @@ resuming that work.
 - `uv run pytest tests/test_score.py::test_score_groups_and_pools -v` — single test
 - `uv run stt-eval prepare|transcribe|score` — the benchmark pipeline (see README)
 - `uv run stt-eval entity-build --method X` + `entity-score --manifest P` — medical-term
-  recall (bc5cdr/med7/stanza-i2b2/medgemma; see docs/entity-metric-comparison.md)
+  recall (bc5cdr/med7/stanza-i2b2/medgemma; see knowledge/metrics/medical-term-recall.md)
 
 ## Architecture
 

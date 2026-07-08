@@ -1,8 +1,9 @@
 # clinical-speech-understanding
 
 Benchmarking STT models for a Korean healthcare "AI scribe". Phase 1: English
-medical audio. Design: `docs/superpowers/specs/2026-07-05-stt-benchmark-design.md`.
-Running the full benchmark on a GPU machine: `docs/gpu-runbook.md`.
+medical audio. **Knowledge bundle (start here): `knowledge/index.md`.** Design:
+`docs/superpowers/specs/2026-07-05-stt-benchmark-design.md`. Full benchmark on a GPU machine:
+`knowledge/runbooks/gpu-benchmark.md`.
 
 ## Setup
 
@@ -31,13 +32,13 @@ uv run stt-eval score       # -> results/wer_summary.{csv,md}, results/wer_per_f
 ```
 
 Medical-term recall (a clinical-entity metric alongside WER — see
-`docs/entity-metric-comparison.md`) is two-stage: `entity-build --method X` freezes the
+`knowledge/metrics/medical-term-recall.md`) is two-stage: `entity-build --method X` freezes the
 reference entities to a manifest (the heavy, method-specific step — run in a `uv run --with`
 overlay so nothing permanent is installed), then `entity-score --manifest P` computes the
 recall table offline. Methods: `bc5cdr`, `med7`, `stanza-i2b2` (NER) and `medgemma` (local LLM).
 
 ```bash
-# build one method's manifest (bc5cdr shown; see the comparison doc for med7/stanza-i2b2/medgemma)
+# build one method's manifest (bc5cdr shown; see knowledge/entity-methods/ for med7/stanza-i2b2/medgemma)
 uv run --with scispacy \
   --with "https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_bc5cdr_md-0.5.4.tar.gz" \
   stt-eval entity-build --method bc5cdr --datasets primock57,meddialog-audio
@@ -88,4 +89,4 @@ You edit `pyproject.toml`; uv regenerates `uv.lock` on the next sync — rarely 
 the lock by hand. **This repo's one non-obvious bit:** the `[tool.uv.sources]` and
 `[[tool.uv.index]]` blocks in `pyproject.toml` pin `torch`/`torchcodec` to the
 CUDA 12.6 wheel index instead of default PyPI — that is what makes the local GPU
-models work on a CUDA-12 driver machine (see `docs/gpu-runbook.md`).
+models work on a CUDA-12 driver machine (see `knowledge/runbooks/gpu-benchmark.md`).

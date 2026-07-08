@@ -1,7 +1,7 @@
 """LLM entity extractors (method 4): MedGemma local + OpenRouter general model.
 Both satisfy extract(reference)->[surface forms] and are dispatched by
 entity_score.extractor_for. Heavy deps (transformers/torch/bitsandbytes) import
-lazily; httpx is a core dep. See docs/entity-metric-comparison.md."""
+lazily; httpx is a core dep. See knowledge/metrics/medical-term-recall.md."""
 
 import json
 import re

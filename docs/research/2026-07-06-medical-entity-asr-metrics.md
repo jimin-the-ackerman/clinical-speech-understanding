@@ -135,7 +135,7 @@ scoring. Published entity-ASR metrics ship as paper code, not maintained librari
 
 > Update (2026-07-08): this was the initial single-method validation. The exercise later
 > expanded to four entity-identification methods — `bc5cdr`, `med7`, `stanza-i2b2`, `medgemma`
-> — all agreeing (Soniox #1 on PriMock57); see `docs/entity-metric-comparison.md`.
+> — all agreeing (Soniox #1 on PriMock57); see `knowledge/findings/medical-term-recall.md`.
 
 Design A (bc5cdr, scispaCy `en_ner_bc5cdr_md`, exact contiguous token match — now via the
 two-stage `entity-build --method bc5cdr` + `entity-score`) run over the 6-model English
