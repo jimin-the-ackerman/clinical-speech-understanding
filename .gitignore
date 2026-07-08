@@ -224,6 +224,7 @@ results/entity_cache/
 
 # scratch (on-the-fly summaries, ad-hoc notes — never committed)
 .tmp/
+*.local.md
 
 # agent tooling (installed skills, per-machine) — but track authored skills
 .agents/*
