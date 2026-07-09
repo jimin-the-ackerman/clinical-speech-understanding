@@ -6,7 +6,7 @@ tags: [status, todos, live]
 timestamp: 2026-07-08
 ---
 
-# Project status (2026-07-08)
+# Project status (2026-07-09)
 
 ## Done
 - **English WER round** — 6 models × 3 datasets (LibriSpeech, MedDialog-Audio, PriMock57), zero
@@ -15,13 +15,17 @@ timestamp: 2026-07-08
   [bc5cdr](entity-methods/bc5cdr.md), [med7](entity-methods/med7.md),
   [stanza-i2b2](entity-methods/stanza-i2b2.md), [medgemma](entity-methods/medgemma.md). See the
   [finding](findings/medical-term-recall.md).
+- **OSCE / Fareez (local models)** — the four local models transcribed and scored on 272 OSCE
+  consultations; WER + all four entity manifests now include OSCE, and the recall rerank
+  [reproduces](findings/medical-term-recall.md) (qwen3-asr-1.7b #1 on every method). A UTF-16
+  loader bug (2 mis-decoded transcripts, `RES0002`/`RES0054`) was found and fixed along the way.
 
 ## Open todos
 1. **[openrouter](entity-methods/openrouter.md) general-LLM foil** — add `OPENROUTER_API_KEY`,
    then bake-off + build. The last method (MedGemma already answered the specialized side).
-2. **[Fareez/OSCE](datasets/fareez-interviews.md) transcription** — loaded and ready; a paid
-   checkpoint (~$30–50 API + GPU). Confirm scope before spending. Once transcribed, rebuild every
-   entity manifest to include OSCE.
+2. **[Fareez/OSCE](datasets/fareez-interviews.md) — metered APIs** — local models done and scored.
+   Still pending: Soniox + gpt-4o on OSCE (then rebuild the manifests once more) to turn the
+   local-only replication into a full cross-family comparison.
 3. **Fuzzy entity matching** — current match is exact contiguous tokens (`ponytail:` note in
    `entity_score.py`); would recover reference-spelling/abbreviation misses that hit all models
    equally ("flem"→phlegm, "a and e"→A&E).

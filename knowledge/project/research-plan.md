@@ -68,8 +68,9 @@ ways, all agreeing. See [status](../status.md) and the [finding](../findings/med
 **Next (English round).**
 - General-LLM foil via [openrouter](../entity-methods/openrouter.md) — does a *general* frontier
   model also rank Soniox #1, as the medical-specialized MedGemma did? Blocked on `OPENROUTER_API_KEY`.
-- [OSCE / Fareez](../datasets/fareez-interviews.md) transcription — a paid checkpoint (~$30–50 + GPU)
-  before it joins the comparison.
+- [OSCE / Fareez](../datasets/fareez-interviews.md) — local models transcribed and scored, and the
+  rerank reproduces (see the [finding](../findings/medical-term-recall.md)); the metered APIs
+  (Soniox, gpt-4o) on OSCE are the remaining step for a full cross-family comparison.
 - Fuzzy entity matching — to recover spelling/abbreviation variants exact matching undercounts.
 - Deepgram + AssemblyAI runs, once keys are available.
 

@@ -80,11 +80,21 @@ def prepare(data_dir: Path) -> None:
     zip_path.unlink()
 
 
+def _read_transcript(path: Path) -> str:
+    """Decode a transcript by its BOM. Most Fareez files are ASCII/UTF-8, but a
+    few (e.g. RES0002, RES0054) ship as UTF-16 — reading those as UTF-8 yields
+    null-byte mojibake that poisons WER and entity extraction, so detect the BOM."""
+    raw = path.read_bytes()
+    if raw[:2] in (b"\xff\xfe", b"\xfe\xff"):
+        return raw.decode("utf-16")  # codec strips the BOM and picks LE/BE
+    return raw.decode("utf-8-sig", errors="replace")
+
+
 def load(data_dir: Path) -> list[Record]:
     root = data_dir / "fareez-interviews" / "Data"
     recs = []
     for mp3 in sorted((root / "Audio Recordings").glob("*.mp3")):
         txt = root / "Clean Transcripts" / f"{mp3.stem}.txt"
-        reference = parse_transcript(txt.read_text(encoding="utf-8", errors="replace"))
+        reference = parse_transcript(_read_transcript(txt))
         recs.append(Record(mp3.stem, mp3, reference))  # condition=None, pooled like PriMock57
     return recs

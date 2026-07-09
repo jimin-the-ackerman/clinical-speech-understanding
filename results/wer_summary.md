@@ -9,6 +9,7 @@
 | gpt-4o-transcribe | meddialog-audio | white_noise_2 | 300 | 0 | 0 | 0.4096 | 0.0608 |
 | gpt-4o-transcribe | meddialog-audio | white_noise_6 | 300 | 0 | 0 | 0.9609 | 0.0412 |
 | gpt-4o-transcribe | primock57 |  | 57 | 0 | 0 | 0.2168 | 0.0396 |
+| qwen3-asr-0.6b | fareez-interviews |  | 272 | 0 | 0 | 0.0968 | 0.021 |
 | qwen3-asr-0.6b | librispeech-test-other |  | 2939 | 0 | 0 | 0.0452 | 0.0369 |
 | qwen3-asr-0.6b | meddialog-audio | background_noise_20 | 300 | 0 | 0 | 0.0251 | 0.0321 |
 | qwen3-asr-0.6b | meddialog-audio | background_noise_40 | 300 | 0 | 0 | 0.0403 | 0.0318 |
@@ -18,6 +19,7 @@
 | qwen3-asr-0.6b | meddialog-audio | white_noise_2 | 300 | 0 | 0 | 0.0257 | 0.032 |
 | qwen3-asr-0.6b | meddialog-audio | white_noise_6 | 300 | 0 | 0 | 0.0783 | 0.0318 |
 | qwen3-asr-0.6b | primock57 |  | 57 | 0 | 0 | 0.1251 | 0.0279 |
+| qwen3-asr-1.7b | fareez-interviews |  | 272 | 0 | 0 | 0.1115 | 0.0281 |
 | qwen3-asr-1.7b | librispeech-test-other |  | 2939 | 0 | 0 | 0.034 | 0.0375 |
 | qwen3-asr-1.7b | meddialog-audio | background_noise_20 | 300 | 0 | 0 | 0.0192 | 0.0337 |
 | qwen3-asr-1.7b | meddialog-audio | background_noise_40 | 300 | 0 | 0 | 0.0325 | 0.0335 |
@@ -36,6 +38,7 @@
 | soniox-stt-async-v5 | meddialog-audio | white_noise_2 | 300 | 0 | 0 | 0.0217 | 0.278 |
 | soniox-stt-async-v5 | meddialog-audio | white_noise_6 | 300 | 0 | 0 | 0.0497 | 0.2498 |
 | soniox-stt-async-v5 | primock57 |  | 57 | 0 | 0 | 0.1229 | 0.0442 |
+| whisper-large-v3 | fareez-interviews |  | 272 | 0 | 0 | 0.1433 | 0.0439 |
 | whisper-large-v3 | librispeech-test-other |  | 2939 | 0 | 0 | 0.0506 | 0.0423 |
 | whisper-large-v3 | meddialog-audio | background_noise_20 | 300 | 0 | 0 | 0.022 | 0.0342 |
 | whisper-large-v3 | meddialog-audio | background_noise_40 | 300 | 0 | 0 | 0.0346 | 0.031 |
@@ -45,6 +48,7 @@
 | whisper-large-v3 | meddialog-audio | white_noise_2 | 300 | 0 | 0 | 0.0256 | 0.0317 |
 | whisper-large-v3 | meddialog-audio | white_noise_6 | 300 | 0 | 0 | 0.0606 | 0.0302 |
 | whisper-large-v3 | primock57 |  | 57 | 0 | 0 | 0.1681 | 0.0468 |
+| whisper-large-v3-turbo | fareez-interviews |  | 272 | 0 | 0 | 0.0984 | 0.0084 |
 | whisper-large-v3-turbo | librispeech-test-other |  | 2939 | 0 | 0 | 0.039 | 0.0218 |
 | whisper-large-v3-turbo | meddialog-audio | background_noise_20 | 300 | 0 | 0 | 0.0239 | 0.0126 |
 | whisper-large-v3-turbo | meddialog-audio | background_noise_40 | 300 | 0 | 0 | 0.0397 | 0.0122 |

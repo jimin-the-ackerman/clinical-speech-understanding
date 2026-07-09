@@ -1,9 +1,9 @@
 ---
 type: Dataset
 title: Fareez OSCE interviews
-description: 272 verbatim patient-physician OSCE interviews (~51 h); loaded, transcription pending.
-tags: [dataset, fareez, osce, long-form, pending]
-timestamp: 2026-07-08
+description: 272 verbatim patient-physician OSCE interviews (~51 h); local models transcribed, metered APIs pending.
+tags: [dataset, fareez, osce, long-form, local-transcribed]
+timestamp: 2026-07-09
 ---
 
 # Fareez OSCE interviews (`fareez-interviews`)
@@ -15,7 +15,12 @@ CC0; Figshare DOI `10.6084/m9.figshare.c.5545842.v1` (paper `10.1038/s41597-022-
 
 - **Prep** (`datasets/fareez.py`): download `Data.zip` (retry/backoff — figshare rate-limits),
   **MD5-verify**, extract via temp dir + atomic rename. `parse_transcript` strips the `D:`/`P:`
-  tags to one reference; `condition = None` (pooled like PriMock57).
-- **Status**: loader done, data downloaded and verified loadable (272 records; disfluencies
-  present → verbatim, WER-trustworthy). **Not transcribed** — a paid checkpoint (~$30–50 API +
-  GPU). See [status](../status.md).
+  tags to one reference; `condition = None` (pooled like PriMock57). Transcripts are decoded
+  BOM-aware (`_read_transcript`): 2 of the 272 (`RES0002`, `RES0054`) ship as **UTF-16**, which the
+  original UTF-8-only read turned into null-byte garbage — poisoning their WER and entity extraction
+  until fixed (2026-07-09).
+- **Status**: transcribed by the four **local** models (whisper-large-v3 / -turbo,
+  qwen3-asr-0.6b / -1.7b) and scored — WER + all four entity manifests now include OSCE, and the
+  medical-term-recall rerank [reproduces](../findings/medical-term-recall.md) (qwen3-asr-1.7b #1 on
+  every method). The metered APIs (Soniox, gpt-4o) are still pending for a full cross-family
+  comparison. See [status](../status.md).

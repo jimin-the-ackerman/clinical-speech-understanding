@@ -1,5 +1,2499 @@
 [
  {
+  "dataset": "fareez-interviews",
+  "file_id": "CAR0001",
+  "entities": [
+   "1 to 10",
+   "opioids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "CAR0002",
+  "entities": [
+   "Rosuvastatin",
+   "Lisinopril",
+   "multi vitamin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "CAR0003",
+  "entities": [
+   "aspirin",
+   "ramipril",
+   "simvastatin",
+   "lasix"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "CAR0004",
+  "entities": [
+   "1 to 10",
+   "pain felt",
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "CAR0005",
+  "entities": [
+   "2 weeks",
+   "Advil",
+   "Tylenol",
+   "Tums",
+   "Advil I"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "DER0001",
+  "entities": [
+   "Tylenol Advil",
+   "rosuvastatin",
+   "Metformin",
+   "one",
+   "Sidas",
+   "insulin",
+   "Penicillin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "GAS0001",
+  "entities": [
+   "every hour"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "GAS0002",
+  "entities": [
+   "1 to 10",
+   "Advil",
+   "Tylenol",
+   "antacids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "GAS0003",
+  "entities": [
+   "1 to 10",
+   "Tylenol",
+   "metformin",
+   "2 hours"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "GAS0004",
+  "entities": [
+   "puffers"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "GAS0005",
+  "entities": [
+   "two days"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "GAS0007",
+  "entities": [
+   "Metformin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "GEN0001",
+  "entities": [
+   "antibiotics",
+   "Botox",
+   "injections"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0001",
+  "entities": [
+   "1 to 10",
+   "insulin",
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0003",
+  "entities": [
+   "Tylenol",
+   "Advil",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0004",
+  "entities": [
+   "fluoroquinolone",
+   "antibiotic",
+   "Vitamin D",
+   "vitamins",
+   "Vitamin A",
+   "NSAIDS",
+   "Advil"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0005",
+  "entities": [
+   "ibuprofen",
+   "Tylenol",
+   "Advil",
+   "NSAIDs"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0006",
+  "entities": [
+   "Advil",
+   "Tylenol",
+   "ueah",
+   "amlodipine",
+   "statin",
+   "multivitamin",
+   "NSAIDs",
+   "steroids",
+   "steroid",
+   "injections"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0007",
+  "entities": [
+   "NSAIDs",
+   "I.",
+   "1 to 10",
+   "multivitamins",
+   "Advil",
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0008",
+  "entities": [
+   "NSAIDs"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0009",
+  "entities": [
+   "1 to 10",
+   "Advil",
+   "Crestor medication",
+   "Ramipril"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0010",
+  "entities": [
+   "1 to 10",
+   "Advil"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0011",
+  "entities": [
+   "daily",
+   "Multi vitamin",
+   "vitamin D"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0012",
+  "entities": [
+   "painkillers",
+   "ibuprofen",
+   "calcium",
+   "vitamin D",
+   "multi vitamins"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0013",
+  "entities": [
+   "insulin",
+   "Ramipril",
+   "Atorvastatin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0014",
+  "entities": [
+   "painkillers",
+   "Advil",
+   "steroid",
+   "injection",
+   "Furosemide",
+   "Ramipril",
+   "penicillin",
+   "aspirin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0015",
+  "entities": [
+   "ibuprofen"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0016",
+  "entities": [
+   "Advil",
+   "Tylenol",
+   "Synthroid",
+   "NSAIDs",
+   "corticosteroids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0017",
+  "entities": [
+   "NSAIDs"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0018",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0019",
+  "entities": [
+   "Advil",
+   "ibuprofen"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0020",
+  "entities": [
+   "Advil",
+   "Telmisartan",
+   "metformin",
+   "cholesterol I",
+   "Atorvastatin",
+   "ibuprofen",
+   "acetaminophen",
+   "steroid",
+   "injections"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0021",
+  "entities": [
+   "ibuprofen"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0022",
+  "entities": [
+   "acetaminophen",
+   "anti-inflammatories",
+   "ibuprofen",
+   "Advil",
+   "thyroid medication",
+   "Synthroid",
+   "ACE inhibitor"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0023",
+  "entities": [
+   "few days"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0024",
+  "entities": [
+   "topical",
+   "analgesics",
+   "Ramipril",
+   "anti-inflammatory medication"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0025",
+  "entities": [
+   "1 to 10",
+   "ibuprofen",
+   "topical",
+   "analgesics",
+   "Synthroid",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0026",
+  "entities": [
+   "Ramipril",
+   "ibuprofen",
+   "NSAIDS"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0027",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0028",
+  "entities": [
+   "Advil",
+   "10 to 1"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0029",
+  "entities": [
+   "Advil",
+   "multi vitamin",
+   "pain medications",
+   "Ibuprofen",
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0031",
+  "entities": [
+   "Ramipril",
+   "vitamins",
+   "vitamin D",
+   "calcium",
+   "multivitamins",
+   "ibuprofen",
+   "pain medications"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0032",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0033",
+  "entities": [
+   "Tylenol",
+   "Advil",
+   "NSAIDs"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0034",
+  "entities": [
+   "ibuprofen"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0035",
+  "entities": [
+   "ibuprofen",
+   "1 to 10",
+   "Gardasil"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0036",
+  "entities": [
+   "1 to 10",
+   "Advil",
+   "Tylenol",
+   "Tinel",
+   "NSAIDs",
+   "ibuprofen"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0037",
+  "entities": [
+   "statin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0038",
+  "entities": [
+   "multivitamin",
+   "ibuprofen"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0039",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0040",
+  "entities": [
+   "ibuprofen",
+   "10 to one"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0041",
+  "entities": [
+   "every time I",
+   "ibuprofen",
+   "ramipril",
+   "high blood",
+   "insulin",
+   "high dose",
+   "high doses",
+   "colchicine"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0042",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0043",
+  "entities": [
+   "metformin",
+   "opioids",
+   "dilaudid"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0044",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0045",
+  "entities": [
+   "ibuprofen",
+   "metformin",
+   "corticosteroid",
+   "injections"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0046",
+  "entities": [
+   "Tylenol",
+   "Advil",
+   "corticosteroids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0049",
+  "entities": [
+   "insulin",
+   "Ramipril",
+   "high blood pressure and I",
+   "statin",
+   "Tylenol",
+   "ibuprofen",
+   "NSAIDs",
+   "long term basis",
+   "Voltaren",
+   "steroid",
+   "injection"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "MSK0050",
+  "entities": [
+   "Tinel's"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0001",
+  "entities": [
+   "Tylenol",
+   "Advil"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0002",
+  "entities": [
+   "2 litres",
+   "oxygen",
+   "puffers"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0003",
+  "entities": [
+   "Tylenol",
+   "Centor"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0004",
+  "entities": [
+   "antibiotics",
+   "Ventolin",
+   "as needed",
+   "Flovent",
+   "daily",
+   "Reactine",
+   "Tylenol",
+   "Advil",
+   "monospot"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0005",
+  "entities": [
+   "Tylenol",
+   "Rosuvastatin",
+   "opioids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0006",
+  "entities": [
+   "antibiotics",
+   "Tylenol",
+   "salbutamol",
+   "steroid",
+   "one",
+   "salbutamol I"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0007",
+  "entities": [
+   "steroid medications",
+   "steroid"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0008",
+  "entities": [
+   "Tylenol",
+   "Advil",
+   "Metformin",
+   "2 inhibitor",
+   "insulin",
+   "amlodipine",
+   "multivitamin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0009",
+  "entities": [
+   "Tylenol",
+   "Advil",
+   "Tylenol I"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0010",
+  "entities": [
+   "for one night"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0011",
+  "entities": [
+   "ramipril",
+   "Metformin",
+   "insulin",
+   "tam",
+   "tamsulosin",
+   "fluids",
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0012",
+  "entities": [
+   "insulin",
+   "statin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0013",
+  "entities": [
+   "Tylenol",
+   "1 to 10",
+   "oxygen"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0014",
+  "entities": [
+   "Tylenol",
+   "bronchodilators"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0015",
+  "entities": [
+   "Canada",
+   "India",
+   "antibiotics",
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0016",
+  "entities": [
+   "oxygen"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0017",
+  "entities": [
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0018",
+  "entities": [
+   "Tylenol",
+   "opioids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0019",
+  "entities": [
+   "seven days",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0020",
+  "entities": [
+   "insulin",
+   "sliding scale",
+   "vitamin D",
+   "calcium",
+   "penicillin",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0021",
+  "entities": [
+   "DMARD",
+   "iron",
+   "vitamin D",
+   "biotin",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0022",
+  "entities": [
+   "every day"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0023",
+  "entities": [
+   "Ramipril",
+   "Metformin",
+   "for 14 days"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0024",
+  "entities": [
+   "steroid",
+   "one",
+   "EpiPen"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0025",
+  "entities": [
+   "hydromorphone",
+   "Escitalopram",
+   "penicillin",
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0026",
+  "entities": [
+   "statin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0027",
+  "entities": [
+   "Synthroid",
+   "multi vitamin. I"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0028",
+  "entities": [
+   "daily",
+   "vitamin",
+   "fatty foods"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0029",
+  "entities": [
+   "steroids",
+   "antihistamines I"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0030",
+  "entities": [
+   "Lisinopril"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0031",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0032",
+  "entities": [
+   "beta agonist",
+   "inhaler",
+   "inhaled",
+   "corticosteroid"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0033",
+  "entities": [
+   "hydrocortisone",
+   "cream"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0034",
+  "entities": [
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0035",
+  "entities": [
+   "vitamin D"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0036",
+  "entities": [
+   "Tylenol",
+   "1 being the least amount",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0037",
+  "entities": [
+   "antibiotics",
+   "azithromycin",
+   "Rosuvastatin",
+   "penicillin",
+   "India"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0038",
+  "entities": [
+   "bronchodilators"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0039",
+  "entities": [
+   "Septra",
+   "quitting",
+   "antibiotic"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0042",
+  "entities": [
+   "hydrocortisone",
+   "cream",
+   "every other weekend",
+   "48 hours"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0043",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0044",
+  "entities": [
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0045",
+  "entities": [
+   "cough syrups",
+   "multivitamin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0046",
+  "entities": [
+   "two days"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0047",
+  "entities": [
+   "vitamin D",
+   "amlodipine",
+   "Spiriva",
+   "steroids",
+   "beta agonist",
+   "oxygen",
+   "bronchodilators"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0048",
+  "entities": [
+   "metformin",
+   "ramipril",
+   "Ontario"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0049",
+  "entities": [
+   "lunch and dinner",
+   "Tylenol",
+   "puffers"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0050",
+  "entities": [
+   "beta blocker",
+   "metformin",
+   "calcium",
+   "vitamin",
+   "Ontario"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0051",
+  "entities": [
+   "penicillin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0052",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0053",
+  "entities": [
+   "steroids",
+   "epinephrine",
+   "five days"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0054",
+  "entities": [
+   "two",
+   "blood pressure medications",
+   "one",
+   "pneumovax vaccine",
+   "beta agonist"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0055",
+  "entities": [
+   "antibiotics",
+   "one",
+   "metoprolol",
+   "multivitamins",
+   "ventolin",
+   "Spiriva",
+   "beta agonist",
+   "inhaled",
+   "corticosteroids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0056",
+  "entities": [
+   "tylenol",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0057",
+  "entities": [
+   "Advil",
+   "Zantac",
+   "Tums"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0058",
+  "entities": [
+   "for lunch",
+   "two days",
+   "three days",
+   "nicotine",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0059",
+  "entities": [
+   "two days",
+   "Tylenol",
+   "antipyretics",
+   "multivitamin",
+   "Ibuprofen",
+   "Advil I",
+   "Reactine",
+   "Claritin",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0060",
+  "entities": [
+   "Advil",
+   "Rosuvastatin",
+   "multi vitamin",
+   "Penicillin",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0061",
+  "entities": [
+   "statin",
+   "Amlodipine",
+   "vitamin D",
+   "multivitamin",
+   "injected",
+   "IV",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0062",
+  "entities": [
+   "Metoprolol",
+   "beta blocker",
+   "for three years",
+   "statin",
+   "baby",
+   "aspirin",
+   "sulfa allergy. I received an",
+   "antibiotics",
+   "2.5 milligrams"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0063",
+  "entities": [
+   "Ramipril",
+   "Metformin",
+   "cholesterol I",
+   "Crestor",
+   "vitamin D",
+   "multi vitamins",
+   "Shingrix",
+   "Pneumovax",
+   "Tylenol",
+   "pneumococcal vaccine"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0064",
+  "entities": [
+   "Tylenol",
+   "antibiotics",
+   "penicillin",
+   "amoxicillin",
+   "for 10 days",
+   "48 hours"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0065",
+  "entities": [
+   "Sulfasalazine"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0066",
+  "entities": [
+   "antibiotics",
+   "multivitamins",
+   "calcium",
+   "vitamin D",
+   "Synthroid",
+   "IV",
+   "antibiotic",
+   "remaining",
+   "pills"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0067",
+  "entities": [
+   "Tylenol",
+   "antibiotics",
+   "for one day",
+   "IV"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0068",
+  "entities": [
+   "multivitamins",
+   "antihistamines",
+   "antibiotics",
+   "Amoxicillin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0069",
+  "entities": [
+   "Advil"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0070",
+  "entities": [
+   "Tylenol",
+   "Advil"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0071",
+  "entities": [
+   "for a week",
+   "Advil",
+   "at night",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0072",
+  "entities": [
+   "Tylenol",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0073",
+  "entities": [
+   "for five days",
+   "Statin medication",
+   "multivitamins",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0074",
+  "entities": [
+   "Crestor",
+   "Ramipril"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0075",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0076",
+  "entities": [
+   "Multi-vitamins",
+   "Multi vitamins",
+   "nicotine",
+   "Champix"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0077",
+  "entities": [
+   "Advil"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0078",
+  "entities": [
+   "Amlodipine"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0079",
+  "entities": [
+   "multi-vitamin",
+   "SSRI",
+   "Citalopram"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0080",
+  "entities": [
+   "puffers",
+   "antibiotics",
+   "inhaled",
+   "steroid"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0081",
+  "entities": [
+   "puffers",
+   "steroid",
+   "Ventolin",
+   "antibiotics",
+   "oxygen"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0082",
+  "entities": [
+   "Advil",
+   "400 milligrams"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0083",
+  "entities": [
+   "Tylenol or Acetaminophen",
+   "Tylenol",
+   "at night",
+   "statin",
+   "penicillin",
+   "magnesium",
+   "vitamin D",
+   "multi vitamin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0084",
+  "entities": [
+   "Tylenol",
+   "Advil",
+   "statin medication",
+   "cholesterol",
+   "metformin",
+   "48 hours"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0085",
+  "entities": [
+   "oxygen",
+   "antibiotics",
+   "IV",
+   "hydration"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0086",
+  "entities": [
+   "puffers",
+   "one",
+   "steroid creams",
+   "beta agonist",
+   "inhaled",
+   "cortico steroid",
+   "steroid",
+   "Cromolyn"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0087",
+  "entities": [
+   "antibiotics",
+   "10 days",
+   "Amoxicillin",
+   "penicillins",
+   "Cefuroxime",
+   "for 10 days"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0088",
+  "entities": [
+   "multi vitamins",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0089",
+  "entities": [
+   "ACE inhibitor",
+   "Spironolactone",
+   "beta agonist",
+   "puffers",
+   "antibiotics",
+   "Ventolin",
+   "steroid medication"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0090",
+  "entities": [
+   "India",
+   "antibiotic"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0091",
+  "entities": [
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0092",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0093",
+  "entities": [
+   "ACE inhibitor",
+   "statin",
+   "Pantoprazole",
+   "PPI",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0094",
+  "entities": [
+   "Reactine",
+   "Claritin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0095",
+  "entities": [
+   "antibiotics",
+   "aspirin",
+   "beta blocker",
+   "ACE inhibitor",
+   "statin",
+   "Furosemide"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0096",
+  "entities": [
+   "Lipitor",
+   "puffers"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0097",
+  "entities": [
+   "antibiotic",
+   "Sulfa drugs",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0098",
+  "entities": [
+   "couple hours",
+   "at night",
+   "Ventolin",
+   "ventil",
+   "steroid",
+   "cream",
+   "puffers"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0099",
+  "entities": [
+   "Tylenol",
+   "Metformin",
+   "insulin",
+   "multi vitamins",
+   "opioids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0100",
+  "entities": [
+   "monospot"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0101",
+  "entities": [
+   "Ramipril",
+   "Metformin",
+   "insulin",
+   "multivitamins"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0102",
+  "entities": [
+   "insulin",
+   "ACE inhibitor",
+   "Ramipril",
+   "metformin",
+   "citalopram",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0103",
+  "entities": [
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0104",
+  "entities": [
+   "Botulinum",
+   "injections",
+   "metformin",
+   "insulin",
+   "aspirin",
+   "multivitamin",
+   "vitamin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0105",
+  "entities": [
+   "antibiotics",
+   "oxygen",
+   "puffers",
+   "Spiriva",
+   "ACE inhibitor",
+   "Metformin",
+   "inhibitor",
+   "ventil",
+   "steroids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0106",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0107",
+  "entities": [
+   "Reactine",
+   "anti allergy medications",
+   "intranasal",
+   "corticosteroid",
+   "antihistamines",
+   "leukotriene",
+   "inhaled",
+   "corticosteroids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0108",
+  "entities": [
+   "metformin",
+   "2",
+   "pills",
+   "penicillin",
+   "ramipril",
+   "ACE inhibitor",
+   "one"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0109",
+  "entities": [
+   "antitussive pills",
+   "Prozac",
+   "Tylenol",
+   "Advil"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0110",
+  "entities": [
+   "insulin",
+   "I",
+   "Synthroid",
+   "aspirin",
+   "calcium",
+   "vitamin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0111",
+  "entities": [
+   "for four days",
+   "multivitamins"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0112",
+  "entities": [
+   "mashed",
+   "antibiotics",
+   "IV"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0113",
+  "entities": [
+   "Tylenol",
+   "multivitamins"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0114",
+  "entities": [
+   "lisinopril",
+   "Ventolin puffer",
+   "Spiriva",
+   "puffers",
+   "Ventolin",
+   "amoxicillin",
+   "penicillin",
+   "antibiotics",
+   "pneumococcal vaccine",
+   "beta agonist",
+   "inhaled",
+   "corticosteroids",
+   "oxygen",
+   "macrolide",
+   "azithromycin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0116",
+  "entities": [
+   "antibiotics",
+   "Tylenol",
+   "for 10 days",
+   "amoxicillin",
+   "penicillin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0117",
+  "entities": [
+   "India",
+   "for two months"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0118",
+  "entities": [
+   "antihistamines"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0119",
+  "entities": [
+   "beta agonist",
+   "puffer",
+   "inhaled",
+   "corticosteroid"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0120",
+  "entities": [
+   "insulin",
+   "ramipril",
+   "rosuvastatin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0121",
+  "entities": [
+   "48 hours",
+   "14 days"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0122",
+  "entities": [
+   "Tylenol",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0123",
+  "entities": [
+   "Tylenol",
+   "vitamins"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0124",
+  "entities": [
+   "puffers",
+   "inhaled"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0125",
+  "entities": [
+   "three days",
+   "penicillin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0126",
+  "entities": [
+   "oxygen",
+   "antibiotics",
+   "puffers",
+   "ventolin",
+   "steroid"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0127",
+  "entities": [
+   "two days",
+   "Reactin",
+   "antihistamine medications"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0128",
+  "entities": [
+   "Reactin",
+   "Claritin",
+   "bronchodilators",
+   "beta agonist",
+   "inhaled",
+   "corticosteroid"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0129",
+  "entities": [
+   "10 day",
+   "antibiotics",
+   "10 days",
+   "antibiotic",
+   "amoxicillin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0130",
+  "entities": [
+   "Advil",
+   "Tylenol",
+   "amlodipine",
+   "Shingrix",
+   "pneumococcal vaccine"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0131",
+  "entities": [
+   "two days",
+   "Tylenol",
+   "Advil",
+   "Ventolin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0132",
+  "entities": [
+   "ramipril",
+   "high blood pressure,",
+   "rosuvastatin",
+   "cholesterol",
+   "insulin",
+   "oxygen",
+   "antibiotics",
+   "steroids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0133",
+  "entities": [
+   "multivitamins"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0134",
+  "entities": [
+   "Tylenol",
+   "calcium",
+   "vitamin D",
+   "alendronate",
+   "bisphosphonate",
+   "quitting",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0135",
+  "entities": [
+   "oxygen",
+   "fluids",
+   "steroids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0136",
+  "entities": [
+   "pain meds",
+   "morphine",
+   "Advil",
+   "48 hours",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0137",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0138",
+  "entities": [
+   "aspirin",
+   "rosuvastatin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0139",
+  "entities": [
+   "ramipril",
+   "penicillin",
+   "antibiotics",
+   "multivitamin",
+   "48 hours",
+   "two"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0140",
+  "entities": [
+   "lisinopril",
+   "pain medications",
+   "hydromorphone medication",
+   "Tylenol",
+   "opioids",
+   "blood thinners",
+   "oxygen",
+   "anti"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0141",
+  "entities": [
+   "Tylenol",
+   "Advil",
+   "metformin",
+   "naproxen"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0142",
+  "entities": [
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0143",
+  "entities": [
+   "Ontario",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0144",
+  "entities": [
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0145",
+  "entities": [
+   "antibiotics",
+   "amoxicillin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0146",
+  "entities": [
+   "Tylenol",
+   "statin medication",
+   "vitamin D",
+   "multivitamin",
+   "48 hours"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0147",
+  "entities": [
+   "statin medication",
+   "oxygen",
+   "carts",
+   "antibiotic",
+   "steroid",
+   "ventolin",
+   "Spiriva"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0148",
+  "entities": [
+   "quetiapine",
+   "Advil",
+   "couple of days"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0149",
+  "entities": [
+   "India"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0150",
+  "entities": [
+   "insulin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0151",
+  "entities": [
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0152",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0153",
+  "entities": [
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0154",
+  "entities": [
+   "vitamin D"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0155",
+  "entities": [
+   "antibiotics",
+   "Ventolin",
+   "Symbicort",
+   "daily",
+   "steroid",
+   "ACE inhibitor",
+   "Tums",
+   "puffers"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0156",
+  "entities": [
+   "Reactine"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0158",
+  "entities": [
+   "multi vitamin",
+   "48 hours"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0159",
+  "entities": [
+   "Lisinopril",
+   "pain medications",
+   "Advil",
+   "every day",
+   "Tamsulosin",
+   "5 to six months ago"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0160",
+  "entities": [
+   "Tylenol",
+   "Lipitor",
+   "Ramipril"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0161",
+  "entities": [
+   "thiazide diuretic",
+   "Atorvastatin",
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0162",
+  "entities": [
+   "Reactine"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0163",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0164",
+  "entities": [
+   "48 hours"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0165",
+  "entities": [
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0166",
+  "entities": [
+   "pain medications"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0167",
+  "entities": [
+   "Rabeprazole",
+   "pneumovax vaccine",
+   "shingrix"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0168",
+  "entities": [
+   "Saline",
+   "nasal",
+   "steroid",
+   "spray",
+   "Advil",
+   "antibiotics",
+   "amoxicillin",
+   "inhaled",
+   "corticosteroids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0169",
+  "entities": [
+   "penicillin",
+   "Tylenol",
+   "Advil"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0170",
+  "entities": [
+   "daily",
+   "puffers"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0171",
+  "entities": [
+   "insulin",
+   "metformin",
+   "SSRI",
+   "quitting"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0172",
+  "entities": [
+   "Tylenol",
+   "14 days"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0173",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0174",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0175",
+  "entities": [
+   "Flomax",
+   "tamsulosin",
+   "quitting"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0176",
+  "entities": [
+   "puffers"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0177",
+  "entities": [
+   "antibiotics",
+   "amoxicillin populate",
+   "cefuroxime",
+   "for five days"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0178",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0179",
+  "entities": [
+   "one",
+   "beta blocker"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0180",
+  "entities": [
+   "Tylenol",
+   "statin",
+   "ACE inhibitor",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0181",
+  "entities": [
+   "insulin",
+   "pump"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0182",
+  "entities": [
+   "antibiotics",
+   "antibiotic"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0183",
+  "entities": [
+   "penicillin",
+   "steroids",
+   "oxygen"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0184",
+  "entities": [
+   "Tylenol",
+   "opioids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0185",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0186",
+  "entities": [
+   "metformin",
+   "ACE inhibitor"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0187",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0188",
+  "entities": [
+   "oxygen",
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0189",
+  "entities": [
+   "Ventolin",
+   "Spiriva",
+   "sulfa drugs",
+   "antibiotics",
+   "steroids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0190",
+  "entities": [
+   "antibiotics"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0191",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0192",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0193",
+  "entities": [
+   "inhaler",
+   "daily",
+   "Ventilin",
+   "inhaled",
+   "steroid"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0194",
+  "entities": [
+   "Tylenol",
+   "Advil",
+   "multi vitamin",
+   "vitamin",
+   "48 hours",
+   "alongside"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0195",
+  "entities": [
+   "ibuprofen",
+   "steroid"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0196",
+  "entities": [
+   "antibiotics",
+   "multivitamins",
+   "pain medications"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0197",
+  "entities": [
+   "puffers",
+   "inhaled",
+   "cortico steroid",
+   "ventilin",
+   "multi vitamins",
+   "steroids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0198",
+  "entities": [
+   "insulin medication",
+   "insulin",
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0199",
+  "entities": [
+   "Tylenol",
+   "opioids"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0200",
+  "entities": [
+   "puffers",
+   "one",
+   "Ventilin",
+   "blood pressure medications",
+   "oxygen",
+   "bronchodilators",
+   "steroids",
+   "antibiotics",
+   "48 hours"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0201",
+  "entities": [
+   "beta agonist"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0202",
+  "entities": [
+   "swaps"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0203",
+  "entities": [
+   "for two days"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0204",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0205",
+  "entities": [
+   "three days"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0206",
+  "entities": [
+   "oxygen",
+   "puffers"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0207",
+  "entities": [
+   "Keppra"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0208",
+  "entities": [
+   "avodart",
+   "tums",
+   "48 hours"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0209",
+  "entities": [
+   "bronchodilator"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0210",
+  "entities": [
+   "Sunday, Sunday",
+   "Tylenol",
+   "Lipitor"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0211",
+  "entities": [
+   "Claritin"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0212",
+  "entities": []
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0213",
+  "entities": [
+   "Tylenol",
+   "Advil"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0214",
+  "entities": [
+   "Penicillin",
+   "multivitamins"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0215",
+  "entities": [
+   "antibiotics",
+   "Reactine",
+   "one"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0216",
+  "entities": [
+   "puffers",
+   "morning and night",
+   "Ramipril",
+   "Tylenol"
+  ]
+ },
+ {
+  "dataset": "fareez-interviews",
+  "file_id": "RES0217",
+  "entities": [
+   "antibiotics",
+   "Ontario",
+   "statin"
+  ]
+ },
+ {
   "dataset": "meddialog-audio",
   "file_id": "background_noise_20__104548_1",
   "entities": []

@@ -7,6 +7,7 @@ gpt-4o-transcribe,meddialog-audio,white_noise_10,230,0,0.0
 gpt-4o-transcribe,meddialog-audio,white_noise_2,262,159,0.6069
 gpt-4o-transcribe,meddialog-audio,white_noise_6,248,1,0.004
 gpt-4o-transcribe,primock57,,261,219,0.8391
+qwen3-asr-0.6b,fareez-interviews,,886,748,0.8442
 qwen3-asr-0.6b,meddialog-audio,background_noise_20,257,195,0.7588
 qwen3-asr-0.6b,meddialog-audio,background_noise_40,246,201,0.8171
 qwen3-asr-0.6b,meddialog-audio,background_noise_60,269,195,0.7249
@@ -15,6 +16,7 @@ qwen3-asr-0.6b,meddialog-audio,white_noise_10,230,128,0.5565
 qwen3-asr-0.6b,meddialog-audio,white_noise_2,262,216,0.8244
 qwen3-asr-0.6b,meddialog-audio,white_noise_6,248,166,0.6694
 qwen3-asr-0.6b,primock57,,261,216,0.8276
+qwen3-asr-1.7b,fareez-interviews,,886,768,0.8668
 qwen3-asr-1.7b,meddialog-audio,background_noise_20,257,215,0.8366
 qwen3-asr-1.7b,meddialog-audio,background_noise_40,246,213,0.8659
 qwen3-asr-1.7b,meddialog-audio,background_noise_60,269,217,0.8067
@@ -31,6 +33,7 @@ soniox-stt-async-v5,meddialog-audio,white_noise_10,230,167,0.7261
 soniox-stt-async-v5,meddialog-audio,white_noise_2,262,218,0.8321
 soniox-stt-async-v5,meddialog-audio,white_noise_6,248,187,0.754
 soniox-stt-async-v5,primock57,,261,239,0.9157
+whisper-large-v3,fareez-interviews,,886,764,0.8623
 whisper-large-v3,meddialog-audio,background_noise_20,257,195,0.7588
 whisper-large-v3,meddialog-audio,background_noise_40,246,195,0.7927
 whisper-large-v3,meddialog-audio,background_noise_60,269,203,0.7546
@@ -39,6 +42,7 @@ whisper-large-v3,meddialog-audio,white_noise_10,230,143,0.6217
 whisper-large-v3,meddialog-audio,white_noise_2,262,221,0.8435
 whisper-large-v3,meddialog-audio,white_noise_6,248,164,0.6613
 whisper-large-v3,primock57,,261,225,0.8621
+whisper-large-v3-turbo,fareez-interviews,,886,754,0.851
 whisper-large-v3-turbo,meddialog-audio,background_noise_20,257,189,0.7354
 whisper-large-v3-turbo,meddialog-audio,background_noise_40,246,187,0.7602
 whisper-large-v3-turbo,meddialog-audio,background_noise_60,269,195,0.7249
