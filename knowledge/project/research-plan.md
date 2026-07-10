@@ -3,7 +3,7 @@ type: Plan
 title: Research plan — clinical STT benchmark, English proving ground then Korean
 description: The questions this benchmark answers, the design that answers them, and the phased roadmap from the English round to the Korean scribe.
 tags: [plan, research-agenda, roadmap, asr, evaluation]
-timestamp: 2026-07-08
+timestamp: 2026-07-10
 ---
 
 # Research plan
@@ -15,8 +15,11 @@ an "AI scribe"). **Phase 1 benchmarks existing STT models on English medical aud
 harness, the scoring conventions, and a model shortlist before the Korean phase — where paid data
 and API costs make it expensive to still be figuring out method. English is the proving ground.
 
-In scope: transcription accuracy. Out of scope (for now): speaker diarization, clinical-note
-generation, streaming latency. See [overview](overview.md) for scope detail.
+In scope: transcription accuracy. Out of scope (for now): speaker diarization as a benchmark
+metric, clinical-note generation, streaming latency — though a throwaway **cpWER probe** has
+answered the attribution-cost question on PriMock57 (Soniox: attribution ≈ free; see
+[status](../status.md) and the spec `docs/superpowers/specs/2026-07-09-diarization-cpwer-probe.md`).
+See [overview](overview.md) for scope detail.
 
 ## Questions we're answering
 
@@ -70,7 +73,10 @@ ways, all agreeing. See [status](../status.md) and the [finding](../findings/med
   model also rank Soniox #1, as the medical-specialized MedGemma did? Blocked on `OPENROUTER_API_KEY`.
 - [OSCE / Fareez](../datasets/fareez-interviews.md) — local models transcribed and scored, and the
   rerank reproduces (see the [finding](../findings/medical-term-recall.md)); the metered APIs
-  (Soniox, gpt-4o) on OSCE are the remaining step for a full cross-family comparison.
+  (Soniox, gpt-4o) on OSCE are the remaining step for a full cross-family comparison. The Soniox
+  pass should run with diarization enabled: the cpWER probe passed its PriMock gate, and the
+  `D:`/`P:` tags make the Fareez extension near-free (decision input for the scribe architecture,
+  flat-transcript-in vs speaker-tagged-turns-in).
 - Fuzzy entity matching — to recover spelling/abbreviation variants exact matching undercounts.
 - Deepgram + AssemblyAI runs, once keys are available.
 

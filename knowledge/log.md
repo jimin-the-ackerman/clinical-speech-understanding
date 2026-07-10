@@ -2,6 +2,15 @@
 
 Chronological history of this knowledge bundle (OKF reserved file).
 
+- **2026-07-10** — Documented the **speaker-attribution (cpWER) probe**. New code: `cpwer` /
+  `cpwer_align` in `metrics.py` (documented in `metrics/wer.md`), `speaker_reference` in the
+  PriMock57 loader (`datasets/primock57.md`), and the throwaway `scripts/diarize_probe.py`
+  (Soniox, `enable_speaker_diarization`). Result on full n=57: flat WER 0.1224 vs cpWER 0.1164 —
+  attribution ≈ free, gate GO (`status.md` Done + Fareez todo updated; `project/research-plan.md`
+  scope line qualified). Raw per-file transcript dumps committed under `results/diarize-probe/`
+  (the spec's no-commit rule was relaxed for sharing; diarization is nondeterministic per file, so
+  dumps record one run's draw).
+
 - **2026-07-10** — Hardened and validated the `medgemma` extractor (no change to the finding).
   Greedy decoding could loop on a token and truncate its JSON list, dropping 2 OSCE refs
   (`GAS0003`, `MSK0027`) to empty; `_parse_entity_list` now salvages the pre-loop terms (with unit

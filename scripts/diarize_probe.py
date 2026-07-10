@@ -24,7 +24,7 @@ from stt_eval.normalize import normalize_en
 from stt_eval.transcribers.base import poll_until, require_env
 
 DATA_DIR = Path("data")
-OUT_DIR = Path("results/diarize-probe")  # raw transcript dumps, NOT committed (throwaway probe)
+OUT_DIR = Path("results/diarize-probe")  # raw transcript dumps, committed for sharing (see spec)
 SONIOX = "https://api.soniox.com/v1"
 
 

@@ -3,7 +3,7 @@ type: Metric
 title: Word Error Rate (WER)
 description: Corpus WER via jiwer after the Whisper normalizer, grouped by (model, dataset, condition).
 tags: [metric, wer, jiwer, scoring]
-timestamp: 2026-07-08
+timestamp: 2026-07-10
 ---
 
 # Word Error Rate (WER)
@@ -40,3 +40,17 @@ condition): `n_scored, n_failed, n_empty_ref, wer` (corpus), `rtf` (compute-sec 
 Every reference word counts the same — `the` weighs as much as `amoxicillin`. For a clinical
 scribe that's the wrong weighting, which is what [medical-term recall](medical-term-recall.md)
 addresses. The Korean phase swaps WER → CER (a contained change in `score.py`).
+
+## cpWER (speaker attribution, probe-only)
+
+`metrics.py` also implements **cpWER** (concatenated minimum-permutation WER): `cpwer_align`
+pairs hypothesis speakers to reference speakers by whichever permutation minimizes WER over the
+per-speaker concatenated text, and `cpwer` scores one file; pooling the aligned strings through
+`corpus_wer` micro-averages it across files, matching the CHiME-6/MeetEval convention. The
+permutation search is O(n!) over speakers — fine for 2-party clinical audio. With one speaker it
+collapses to plain corpus WER. Currently exercised only by the standalone probe
+`scripts/diarize_probe.py` (see the [PriMock57 probe spec][spec]), **not** wired into
+`stt-eval score`. Caveat: the probe normalizes with `normalize_en` so its cpWER is comparable to
+*our* flat WER, while published cpWER applies no linguistic normalization.
+
+[spec]: ../../docs/superpowers/specs/2026-07-09-diarization-cpwer-probe.md
