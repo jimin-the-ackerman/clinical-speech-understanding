@@ -9,11 +9,33 @@ import re
 from stt_eval.entity_score import _dedupe_ci
 
 _ARRAY = re.compile(r"\[.*\]", re.DOTALL)
+_STRING = re.compile(r'"(?:[^"\\]|\\.)*"')  # one complete JSON string literal
+
+
+def _salvage_strings(text: str) -> list[str]:
+    """Recover the complete quoted strings from a truncated/unterminated JSON
+    array. A degenerate-repetition run (greedy decoding loops on one token) blows
+    max_new_tokens and leaves `["a", "b", "c` with no closing `]`, which the
+    parsers above drop to [] — silently dropping the whole reference. Salvage the
+    strings that closed before the cutoff so it contributes its pre-loop entities
+    instead of vanishing. Only fires when an array was opened (a leading `[`), so
+    a genuine prose refusal still yields []."""
+    start = text.find("[")
+    if start == -1:
+        return []
+    out = []
+    for m in _STRING.finditer(text[start:]):
+        try:
+            out.append(json.loads(m.group(0)))
+        except Exception:
+            pass
+    return out
 
 
 def _parse_entity_list(raw: str) -> list[str]:
     """Best-effort: strip fences/prose, pull a JSON array, coerce to a deduped
-    list of non-empty strings. Any failure (refusal, empty, malformed) -> []."""
+    list of non-empty strings. A truncated/unterminated array is salvaged to its
+    complete elements; a genuine refusal/empty -> []."""
     if not raw:
         return []
     text = raw.strip()
@@ -33,7 +55,7 @@ def _parse_entity_list(raw: str) -> list[str]:
             except Exception:
                 items = None
     if not isinstance(items, list):
-        return []
+        items = _salvage_strings(text)  # truncated/unterminated array -> recover the head
     return _dedupe_ci([s.strip() for s in items if isinstance(s, str) and s.strip()])
 
 

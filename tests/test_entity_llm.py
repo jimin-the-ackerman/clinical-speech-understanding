@@ -3,7 +3,7 @@ import sys
 import httpx
 import pytest
 
-from stt_eval.entity_llm import _parse_entity_list, openrouter_extractor
+from stt_eval.entity_llm import _parse_entity_list, _salvage_strings, openrouter_extractor
 
 
 def test_import_entity_llm_pulls_no_heavy_deps():
@@ -72,3 +72,24 @@ def test_parse_refusal_or_garbage_returns_empty():
     assert _parse_entity_list("I cannot help with that.") == []
     assert _parse_entity_list("") == []
     assert _parse_entity_list("[not valid json") == []
+
+
+def test_parse_salvages_truncated_array():
+    # unterminated array (no closing ]) — the loop-truncation failure
+    assert _parse_entity_list('```json\n[\n  "elbow",\n  "pain",\n  "arm"') == ["elbow", "pain", "arm"]
+
+
+def test_parse_salvages_degenerate_repetition():
+    # what greedy actually produced: a few real terms then a token loop, truncated
+    # with no closing ]. Salvage the head; dedup collapses the loop tail.
+    raw = '[\n  "elbow",\n  "pain",\n  "arm",\n  "arm",\n  "arm",\n  "arm'
+    assert _parse_entity_list(raw) == ["elbow", "pain", "arm"]
+
+
+def test_parse_salvage_handles_escaped_quotes():
+    assert _parse_entity_list(r'["a \"quoted\" term", "next"') == ['a "quoted" term', "next"]
+
+
+def test_salvage_needs_an_opened_array():
+    # quoted words in prose that never opened an array must not be salvaged
+    assert _salvage_strings('the term "cough" was mentioned') == []

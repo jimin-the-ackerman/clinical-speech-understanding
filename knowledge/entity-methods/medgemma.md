@@ -17,9 +17,14 @@ clinical terms open-endedly (no fixed label set). `medgemma_extractor` in `entit
 - **Gotchas (all fixed in code)**: `device_map={"":0}`, not `"auto"` (avoids a CPU-offload
   deadlock); `apply_chat_template(return_dict=True)` + `generate(**inputs)` (transformers v5
   returns a BatchEncoding, so `.shape` on it raised a bare `AttributeError`); `max_new_tokens=1024`
-  (512 truncated the longest consults into unterminated JSON → silent `[]`); `bitsandbytes` in
-  the `local` extra (a `--with` overlay pulls cu130 torch and disables CUDA). See
-  [environment](../project/environment.md).
+  (512 truncated the longest consults into unterminated JSON → silent `[]`; greedy can still loop
+  on a token and truncate, so `_parse_entity_list` now **salvages** the complete terms before the
+  cutoff rather than dropping the whole reference to `[]`); `bitsandbytes` in the `local` extra
+  (a `--with` overlay pulls cu130 torch and disables CUDA). See [environment](../project/environment.md).
+- **Faithfulness & decoding**: ~99% of extracted terms are present in the reference (token match),
+  on par with the extractive NER methods, so it is not inventing entities. Absolute recall is
+  decoding-sensitive (a `repetition_penalty` sweep shifted the numbers ~1 pt) but the model
+  **ranking is invariant** — see the [log](../log.md).
 - **Build**:
   ```
   uv run --extra local --env-file .env stt-eval entity-build --method medgemma --datasets primock57

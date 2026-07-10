@@ -89,9 +89,9 @@ The finding **reproduces**: `qwen3-asr-1.7b` is #1 on every one of the four meth
 winner is again the recall loser — `qwen3-asr-0.6b` has the best WER (.097) but ranks **last on all
 four** recall metrics. The same rerank appearing on a corpus with different speakers, acoustics, and
 length is evidence the effect is a property of clinical transcription, not of PriMock57. (Data
-notes: med7 leaves 24/272 OSCE refs empty — legitimate, med7 is sparse; medgemma leaves 2, a
-model-output quirk, so its OSCE recall is over 270. Two references shipped as UTF-16 and were
-mis-decoded until the loader was fixed — see [Fareez](../datasets/fareez-interviews.md).)
+notes: med7 leaves 24/272 OSCE refs empty — legitimate, since med7 is sparse; the other three
+methods cover all 272. Two references shipped as UTF-16 and were mis-decoded until the loader
+was fixed — see [Fareez](../datasets/fareez-interviews.md).)
 
 ## Caveats (honest limits)
 

@@ -1,12 +1,12 @@
 | model | dataset | condition | n_entities | n_hits | entity_recall |
 | --- | --- | --- | --- | --- | --- |
 | gpt-4o-transcribe | primock57 |  | 2505 | 2203 | 0.8794 |
-| qwen3-asr-0.6b | fareez-interviews |  | 16414 | 15460 | 0.9419 |
+| qwen3-asr-0.6b | fareez-interviews |  | 16423 | 15469 | 0.9419 |
 | qwen3-asr-0.6b | primock57 |  | 2505 | 2306 | 0.9206 |
-| qwen3-asr-1.7b | fareez-interviews |  | 16414 | 15725 | 0.958 |
+| qwen3-asr-1.7b | fareez-interviews |  | 16423 | 15734 | 0.958 |
 | qwen3-asr-1.7b | primock57 |  | 2505 | 2349 | 0.9377 |
 | soniox-stt-async-v5 | primock57 |  | 2505 | 2371 | 0.9465 |
-| whisper-large-v3 | fareez-interviews |  | 16414 | 15628 | 0.9521 |
+| whisper-large-v3 | fareez-interviews |  | 16423 | 15637 | 0.9521 |
 | whisper-large-v3 | primock57 |  | 2505 | 2331 | 0.9305 |
-| whisper-large-v3-turbo | fareez-interviews |  | 16414 | 15693 | 0.9561 |
+| whisper-large-v3-turbo | fareez-interviews |  | 16423 | 15702 | 0.9561 |
 | whisper-large-v3-turbo | primock57 |  | 2505 | 2317 | 0.925 |

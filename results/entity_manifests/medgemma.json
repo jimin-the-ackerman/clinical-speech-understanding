@@ -350,7 +350,14 @@
  {
   "dataset": "fareez-interviews",
   "file_id": "GAS0003",
-  "entities": []
+  "entities": [
+   "pain",
+   "belly",
+   "right side",
+   "aching pain",
+   "right area",
+   "8 hours ago"
+  ]
  },
  {
   "dataset": "fareez-interviews",
@@ -2785,7 +2792,11 @@
  {
   "dataset": "fareez-interviews",
   "file_id": "MSK0027",
-  "entities": []
+  "entities": [
+   "elbow",
+   "pain",
+   "arm"
+  ]
  },
  {
   "dataset": "fareez-interviews",

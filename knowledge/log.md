@@ -2,6 +2,17 @@
 
 Chronological history of this knowledge bundle (OKF reserved file).
 
+- **2026-07-10** — Hardened and validated the `medgemma` extractor (no change to the finding).
+  Greedy decoding could loop on a token and truncate its JSON list, dropping 2 OSCE refs
+  (`GAS0003`, `MSK0027`) to empty; `_parse_entity_list` now salvages the pre-loop terms (with unit
+  tests in `tests/test_entity_llm.py`), so they recover to 6 and 3 terms and no reference is
+  silently dropped. Checked two properties: the extractor is **~99% faithful** (extracted terms are
+  present in the reference, on par with the NER methods), and its ranking is **invariant to
+  decoding** — a full rebuild at `repetition_penalty=1.3` (the most divergent setting, ~32%
+  entity-set churn) gave an identical model order on both datasets (qwen3-asr-1.7b #1 on OSCE,
+  Soniox #1 on PriMock57), with absolute recall shifting ~1 pt. The rep-1.3 manifest was scratch and
+  discarded; the committed `medgemma` manifest stays greedy.
+
 - **2026-07-09** — OSCE / Fareez joined the comparison for the four **local** models. Transcribed
   all 272 consults with whisper-large-v3 / -turbo and qwen3-asr-0.6b / -1.7b; re-scored WER and
   rebuilt all four entity manifests to include OSCE. The medical-term-recall rerank **reproduces**
