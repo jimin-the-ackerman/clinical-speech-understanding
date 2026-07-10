@@ -22,17 +22,30 @@ def _clean(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def merge_reference(doctor_tg: Path, patient_tg: Path) -> str:
+def _utts(tg_path: Path) -> list[tuple[float, str]]:
     utts: list[tuple[float, str]] = []
-    for path in (doctor_tg, patient_tg):
-        tg = textgrid.TextGrid.fromFile(str(path))
-        for tier in tg.tiers:
-            for iv in tier:
-                t = _clean(iv.mark or "")
-                if t:
-                    utts.append((iv.minTime, t))
+    tg = textgrid.TextGrid.fromFile(str(tg_path))
+    for tier in tg.tiers:
+        for iv in tier:
+            t = _clean(iv.mark or "")
+            if t:
+                utts.append((iv.minTime, t))
+    return utts
+
+
+def merge_reference(doctor_tg: Path, patient_tg: Path) -> str:
+    utts = _utts(doctor_tg) + _utts(patient_tg)
     utts.sort(key=lambda x: x[0])
     return " ".join(t for _, t in utts)
+
+
+def speaker_reference(doctor_tg: Path, patient_tg: Path) -> dict[str, str]:
+    """Per-speaker reference for cpWER: the same utterances as merge_reference,
+    kept split by speaker (in-speaker time order) instead of time-merged."""
+    return {
+        speaker: " ".join(t for _, t in sorted(_utts(path)))
+        for speaker, path in (("doctor", doctor_tg), ("patient", patient_tg))
+    }
 
 
 def prepare(data_dir: Path) -> None:
