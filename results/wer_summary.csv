@@ -28,6 +28,7 @@ qwen3-asr-1.7b,meddialog-audio,white_noise_10,300,0,0,0.1357,0.0332
 qwen3-asr-1.7b,meddialog-audio,white_noise_2,300,0,0,0.0182,0.0337
 qwen3-asr-1.7b,meddialog-audio,white_noise_6,300,0,0,0.0552,0.0334
 qwen3-asr-1.7b,primock57,,57,0,0,0.1186,0.0384
+soniox-stt-async-v5,fareez-interviews,,272,0,0,0.0971,0.0478
 soniox-stt-async-v5,librispeech-test-other,,2939,0,0,0.0635,0.7372
 soniox-stt-async-v5,meddialog-audio,background_noise_20,300,0,0,0.0213,0.2419
 soniox-stt-async-v5,meddialog-audio,background_noise_40,300,0,0,0.0343,0.2325
