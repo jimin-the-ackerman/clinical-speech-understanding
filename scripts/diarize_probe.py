@@ -123,7 +123,7 @@ def main() -> None:
             file_cp = cpwer(ref, _norm_speakers(hyp))
             # dump RAW (un-normalized) text so any run can be re-scored later without
             # re-paying the API; diarization is nondeterministic, so each run's dump matters
-            out = OUT_DIR / model / f"{wav.stem}.json"
+            out = OUT_DIR / "primock57" / model / f"{wav.stem}.json"
             out.parent.mkdir(parents=True, exist_ok=True)
             out.write_text(json.dumps({
                 "model": model, "file": wav.stem,
