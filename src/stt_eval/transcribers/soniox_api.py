@@ -1,3 +1,4 @@
+from collections import defaultdict
 from pathlib import Path
 
 import httpx
@@ -17,6 +18,7 @@ MODEL = "stt-async-v5"
 
 class Soniox:
     parallel_safe = True
+    diarize = False  # set True (stt-eval transcribe --diarize) to also return speaker buckets
 
     def __init__(self, client: httpx.Client | None = None):
         self.name = f"soniox-{MODEL}"
@@ -31,8 +33,10 @@ class Soniox:
         file_id = up.json()["id"]
         tx_id = None
         try:
-            tx = self._client.post(f"{BASE}/transcriptions", headers=self._headers,
-                                   json={"file_id": file_id, "model": MODEL})
+            req = {"file_id": file_id, "model": MODEL}
+            if self.diarize:
+                req["enable_speaker_diarization"] = True
+            tx = self._client.post(f"{BASE}/transcriptions", headers=self._headers, json=req)
             tx.raise_for_status()
             tx_id = tx.json()["id"]
 
@@ -46,7 +50,14 @@ class Soniox:
                 raise RuntimeError(f"soniox job failed: {state.get('error_message')}")
             r = self._client.get(f"{BASE}/transcriptions/{tx_id}/transcript", headers=self._headers)
             r.raise_for_status()
-            return r.json()["text"]
+            body = r.json()
+            if not self.diarize:
+                return body["text"]
+            by_speaker: dict[str, str] = defaultdict(str)
+            for tok in body.get("tokens", []):
+                if tok.get("speaker") is not None:  # skip endpoint/non-speech tokens
+                    by_speaker[str(tok["speaker"])] += tok["text"]
+            return body["text"], {"by_speaker": dict(by_speaker)}
         finally:
             # stored files/transcriptions count against account limits (uploads
             # start 429ing once full); the local JSON cache is our copy anyway

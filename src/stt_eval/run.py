@@ -14,6 +14,8 @@ def build_parser() -> argparse.ArgumentParser:
     tr.add_argument("--datasets", required=True, help="comma-separated dataset names")
     tr.add_argument("--workers", type=int, default=8, help="parallel workers for API models")
     tr.add_argument("--limit", type=int, default=None, help="only first N records per dataset")
+    tr.add_argument("--diarize", action="store_true",
+                    help="also request speaker labels (Soniox only); cached as 'by_speaker'")
 
     sub.add_parser("score", help="compute WER tables from cached transcripts")
 
@@ -64,6 +66,11 @@ def main() -> None:
                 except MissingKeyError as e:
                     print(f"[skip] {model_name}: {e}")
                     continue
+                if args.diarize:
+                    if hasattr(type(t), "diarize"):
+                        t.diarize = True
+                    else:
+                        print(f"[no-diarize] {model_name}: no diarization support, flat pass only")
                 runner.transcribe_dataset(t, records, ds_name, args.results_dir, args.workers)
         return
     if args.cmd == "score":

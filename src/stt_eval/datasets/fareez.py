@@ -35,6 +35,22 @@ def parse_transcript(text: str) -> str:
     return re.sub(r"\s+", " ", body).strip()
 
 
+def speaker_reference(text: str) -> dict[str, str]:
+    """Per-speaker reference for cpWER: the same turns as parse_transcript
+    (continuation lines included), bucketed by speaker instead of joined flat."""
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    parts: dict[str, list[str]] = {"doctor": [], "patient": []}
+    speaker = None
+    for line in text.split("\n"):
+        m = re.match(r"\s*([DP]):\s*(.*)", line)
+        if m:
+            speaker = "doctor" if m.group(1) == "D" else "patient"
+            line = m.group(2)
+        if speaker is not None and line.strip():
+            parts[speaker].append(line.strip())
+    return {spk: re.sub(r"\s+", " ", " ".join(chunks)) for spk, chunks in parts.items()}
+
+
 def _download(url: str, dest: Path, attempts: int = 5) -> None:
     tmp = dest.with_suffix(".part")
     for i in range(attempts):

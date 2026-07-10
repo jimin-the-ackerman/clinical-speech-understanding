@@ -27,6 +27,9 @@ def transcribe_record(t: Transcriber, rec: Record, dataset: str, results_root: P
     try:
         payload["audio_seconds"] = round(sf.info(str(rec.audio_path)).duration, 2)
         text = with_retries(lambda: t.transcribe(rec.audio_path))
+        if isinstance(text, tuple):  # (text, extras), e.g. Soniox --diarize -> {"by_speaker": ...}
+            text, extras = text
+            payload.update(extras)
         payload.update(failed=False, text=text)
     except Exception as e:  # failure is data here, not a crash
         payload.update(failed=True, text="", error=repr(e))

@@ -98,3 +98,36 @@ def test_soniox_upload_then_poll(monkeypatch, wav):
     assert t.transcribe(wav) == "hi from soniox"
     # stored files/transcriptions count against account limits; both must be cleaned up
     assert deleted == ["/v1/transcriptions/tx1", "/v1/files/file1"]
+
+
+def test_soniox_diarize_returns_speaker_buckets(monkeypatch, wav):
+    from stt_eval.transcribers.soniox_api import Soniox
+
+    monkeypatch.setenv("SONIOX_API_KEY", "sx-test")
+    monkeypatch.setattr("time.sleep", lambda s: None)
+
+    def handler(request):
+        if request.method == "DELETE":
+            return httpx.Response(204)
+        if request.url.path == "/v1/files":
+            return httpx.Response(201, json={"id": "file1"})
+        if request.url.path == "/v1/transcriptions" and request.method == "POST":
+            assert b"enable_speaker_diarization" in request.content
+            return httpx.Response(201, json={"id": "tx1", "status": "queued"})
+        if request.url.path == "/v1/transcriptions/tx1":
+            return httpx.Response(200, json={"id": "tx1", "status": "completed"})
+        return httpx.Response(200, json={
+            "text": "Hi. Hello. Thanks.",
+            "tokens": [
+                {"text": "Hi.", "speaker": 1},
+                {"text": " Hello.", "speaker": 2},
+                {"text": " Thanks.", "speaker": 1},
+                {"text": "<end>", "speaker": None},  # endpoint token: no speaker, dropped
+            ],
+        })
+
+    t = Soniox(client=_client(handler))
+    t.diarize = True
+    text, extras = t.transcribe(wav)
+    assert text == "Hi. Hello. Thanks."
+    assert extras == {"by_speaker": {"1": "Hi. Thanks.", "2": " Hello."}}
