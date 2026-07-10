@@ -235,6 +235,7 @@ results/entity_cache/
 !.agents/skills/okf-visualize/
 !.agents/skills/okf-freshness/
 !.agents/skills/okf-build/
+!.agents/skills/cut-to-the-chase/
 .claude/
 .hermes/
 skills-lock.json
