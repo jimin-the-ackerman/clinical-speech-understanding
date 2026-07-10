@@ -1,0 +1,618 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WER and cpWER, a hands-on tutorial</title>
+<style>
+  :root{
+    --bg:#FCFCFB; --panel:#F4F5F3; --ink:#16191C; --ink-soft:#4C555C; --ink-faint:#8A939A;
+    --rule:#DEE1DE; --rule-hard:#B9BEBA;
+    --doctor:#0B6E67; --patient:#B24413; --error:#B92534; --good:#2C7C4C;
+    --mono:ui-monospace,"SF Mono","Cascadia Code","JetBrains Mono",Menlo,Consolas,monospace;
+    --sans:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{
+      --bg:#0B0E10; --panel:#12171A; --ink:#E4E9EA; --ink-soft:#9BA6AC; --ink-faint:#626D73;
+      --rule:#222A2E; --rule-hard:#33403F;
+      --doctor:#40C6B8; --patient:#EE8A4A; --error:#F0616F; --good:#5CBD82;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#0B0E10; --panel:#12171A; --ink:#E4E9EA; --ink-soft:#9BA6AC; --ink-faint:#626D73;
+    --rule:#222A2E; --rule-hard:#33403F;
+    --doctor:#40C6B8; --patient:#EE8A4A; --error:#F0616F; --good:#5CBD82;
+  }
+  :root[data-theme="light"]{
+    --bg:#FCFCFB; --panel:#F4F5F3; --ink:#16191C; --ink-soft:#4C555C; --ink-faint:#8A939A;
+    --rule:#DEE1DE; --rule-hard:#B9BEBA;
+    --doctor:#0B6E67; --patient:#B24413; --error:#B92534; --good:#2C7C4C;
+  }
+
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);
+    font-size:16.5px;line-height:1.6;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:720px;margin:0 auto;padding:56px 22px 96px}
+  p{margin:0 0 15px;max-width:64ch;color:var(--ink-soft)}
+  p b,p strong{color:var(--ink);font-weight:600}
+  em{font-style:italic}
+  a{color:var(--doctor);text-underline-offset:2px}
+
+  .mast h1{font-family:var(--sans);font-weight:700;font-size:clamp(28px,5.4vw,42px);
+    letter-spacing:-.02em;line-height:1.05;margin:0 0 16px}
+  .mast .sub{font-size:18px;color:var(--ink-soft);max-width:60ch;margin:0 0 24px}
+  .objbox{border-top:1px solid var(--rule-hard);border-bottom:1px solid var(--rule-hard);
+    background:var(--panel);padding:16px 18px;margin:0 0 20px}
+  .objbox .h{font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;
+    color:var(--ink-faint);margin-bottom:10px}
+  .objbox ol{margin:0;padding-left:20px}
+  .objbox li{margin:5px 0;color:var(--ink-soft)}
+  .objbox li b{color:var(--ink)}
+  .meta{font-family:var(--mono);font-size:12.5px;color:var(--ink-faint);
+    display:flex;flex-wrap:wrap;gap:4px 26px;padding:12px 0;border-bottom:1px solid var(--rule)}
+  .meta b{color:var(--ink-soft);font-weight:500}
+
+  section{margin-top:50px}
+  .sh{font-family:var(--mono);font-size:13px;letter-spacing:.03em;margin:0 0 6px;
+    color:var(--ink-faint);text-transform:uppercase}
+  h2{font-family:var(--sans);font-weight:650;font-size:22px;letter-spacing:-.01em;
+    margin:0 0 6px;line-height:1.2}
+  h2 .lo{color:var(--good)}
+  .obj{font-size:14.5px;color:var(--ink-faint);margin:0 0 16px}
+  .obj b{color:var(--ink-soft)}
+  .exlabel{font-family:var(--mono);font-size:12.5px;color:var(--ink-faint);
+    text-transform:uppercase;letter-spacing:.03em;margin:24px 0 6px}
+
+  /* readout block */
+  .readout{font-family:var(--mono);font-size:13.5px;line-height:1.85;background:var(--panel);
+    border-top:1px solid var(--rule-hard);border-bottom:1px solid var(--rule-hard);
+    padding:14px 2px 14px;margin:14px 0}
+  .readout .ln{display:flex;gap:14px;padding:0 4px;align-items:flex-start}
+  .gut{flex:0 0 62px;color:var(--ink-faint);text-align:right;user-select:none}
+  .gut.d{color:var(--doctor)} .gut.p{color:var(--patient)}
+  .seq{display:flex;gap:11px;flex-wrap:wrap;min-width:0}
+  .w.d{color:var(--doctor)} .w.p{color:var(--patient)}
+  .w.del{color:var(--error);text-decoration:line-through}
+  .w.ins{color:var(--error)}
+  .w.sub{color:var(--error);background:color-mix(in srgb,var(--error) 14%,transparent);
+    padding:0 3px;margin:0 -3px}
+  .rule{border:0;border-top:1px dashed var(--rule);margin:11px 6px}
+  .verdict{padding:2px 6px 0;color:var(--ink-soft)}
+  .verdict .eq{color:var(--ink);font-weight:600} .verdict .hi{color:var(--error);font-weight:600}
+  .verdict .go{color:var(--good);font-weight:600}
+  .caption{font-size:14.5px;line-height:1.55;margin:12px 0 0}
+  .caption .m{font-family:var(--mono);font-size:13px;color:var(--ink)} .fade{color:var(--ink-faint)}
+
+  .score{font-family:var(--mono);font-size:14px;display:flex;flex-wrap:wrap;gap:8px 30px;
+    align-items:baseline;margin:18px 0 2px;padding-bottom:12px;border-bottom:1px solid var(--rule)}
+  .score .item{display:flex;gap:9px;align-items:baseline}
+  .score .k{color:var(--ink-faint)}
+  .score .v{font-size:19px;font-weight:600;font-variant-numeric:tabular-nums}
+  .score .v.hi{color:var(--error)} .score .v.lo{color:var(--good)}
+
+  .legend{font-family:var(--mono);font-size:12.5px;color:var(--ink-soft);
+    display:flex;flex-wrap:wrap;gap:6px 22px;margin:12px 0 0}
+  .legend b{font-weight:400}
+  .legend .d{color:var(--doctor)} .legend .p{color:var(--patient)} .legend .e{color:var(--error)}
+  .legend .del{color:var(--error);text-decoration:line-through}
+  .legend .sub{color:var(--error);background:color-mix(in srgb,var(--error) 14%,transparent);padding:0 3px}
+
+  /* editable fields + calculator */
+  .field{display:flex;flex-direction:column;gap:5px;margin:10px 0}
+  .field label{font-family:var(--mono);font-size:11.5px;letter-spacing:.03em;
+    text-transform:uppercase;color:var(--ink-faint)}
+  .field input{font-family:var(--mono);font-size:14px;padding:9px 11px;border:1px solid var(--rule-hard);
+    background:var(--bg);color:var(--ink);border-radius:0;width:100%}
+  .field input:focus{outline:2px solid var(--ink);outline-offset:1px;border-color:var(--ink)}
+  .tally{font-family:var(--mono);font-size:13px;color:var(--ink-soft);margin:10px 2px 0}
+  .tally b{color:var(--ink)} .tally .eq{color:var(--ink);font-weight:600}
+
+  /* DP matrix */
+  .movekey{display:flex;flex-wrap:wrap;gap:8px 20px;font-family:var(--mono);font-size:12.5px;
+    color:var(--ink-soft);margin:12px 0 6px}
+  .movekey .mvk{display:inline-flex;gap:7px;align-items:baseline}
+  .movekey .ar{color:var(--ink-faint)}
+  .lab.match{color:var(--good)} .lab.sub{color:var(--error)}
+  .lab.del{color:var(--patient)} .lab.ins{color:var(--doctor)}
+  .dp{margin:14px 0 4px}
+  .dp table{border-collapse:collapse;table-layout:fixed;width:100%;font-family:var(--mono);font-size:12.5px}
+  .dp th,.dp td{border:1px solid var(--rule);text-align:center;padding:7px 2px;
+    font-variant-numeric:tabular-nums;position:relative;overflow:hidden}
+  .dp thead th,.dp tbody th{color:var(--ink-faint);font-weight:500;background:var(--panel)}
+  .dp thead th:first-child{background:transparent;border:0}
+  .dp td{color:var(--ink-faint);background:var(--bg)}
+  .dp td.on{color:var(--ink)}
+  .dp td.op-match{background:color-mix(in srgb,var(--good) 15%,transparent);color:var(--good)}
+  .dp td.op-sub{background:color-mix(in srgb,var(--error) 17%,transparent);color:var(--error)}
+  .dp td.op-del{background:color-mix(in srgb,var(--patient) 17%,transparent);color:var(--patient)}
+  .dp td.op-ins{background:color-mix(in srgb,var(--doctor) 17%,transparent);color:var(--doctor)}
+  .dp td.cur{outline:2px solid var(--ink);outline-offset:-2px;font-weight:700}
+  .dp td .ar{position:absolute;top:0;left:3px;font-size:9.5px;line-height:1;opacity:.85}
+  @media (prefers-reduced-motion:no-preference){.dp td{transition:background-color .18s ease}}
+
+  .ctrl{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:12px 0}
+  .ctrl button{font-family:var(--mono);font-size:12.5px;padding:6px 12px;border:1px solid var(--rule-hard);
+    background:var(--panel);color:var(--ink);cursor:pointer}
+  .ctrl button:hover{border-color:var(--ink)}
+  .ctrl button:disabled{opacity:.38;cursor:default}
+  .ctrl button:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+  .ctrl .step{font-family:var(--mono);font-size:12.5px;color:var(--ink-faint)}
+
+  /* cpWER speaker-flip */
+  .flip{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+  .flip button{font-family:var(--mono);font-size:13.5px;padding:7px 11px;border:1px solid var(--rule);
+    background:var(--bg);color:var(--ink);cursor:pointer;display:flex;flex-direction:column;
+    align-items:center;gap:3px;line-height:1.1}
+  .flip button:hover{border-color:var(--ink)}
+  .flip button .spk{font-size:9.5px;letter-spacing:.05em;text-transform:uppercase}
+  .flip button.d{box-shadow:inset 0 -3px 0 var(--doctor)} .flip button.d .spk{color:var(--doctor)}
+  .flip button.p{box-shadow:inset 0 -3px 0 var(--patient)} .flip button.p .spk{color:var(--patient)}
+
+  /* checkpoint quiz */
+  .quiz{border-top:1px solid var(--rule-hard);border-bottom:1px solid var(--rule-hard);
+    background:var(--panel);padding:16px 16px;margin:22px 0}
+  .quiz .tag{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;
+    color:var(--ink-faint);margin-bottom:8px}
+  .quiz .q{font-weight:600;color:var(--ink);margin-bottom:12px}
+  .quiz .q .m{font-family:var(--mono);font-size:13.5px;font-weight:400}
+  .quiz .opts{display:flex;flex-wrap:wrap;gap:8px}
+  .quiz .opts button{font-family:var(--mono);font-size:13px;padding:8px 13px;border:1px solid var(--rule-hard);
+    background:var(--bg);color:var(--ink);cursor:pointer}
+  .quiz .opts button:hover{border-color:var(--ink)}
+  .quiz .opts button:disabled{cursor:default}
+  .quiz .opts button.correct{background:color-mix(in srgb,var(--good) 18%,transparent);
+    border-color:var(--good);color:var(--good)}
+  .quiz .opts button.wrong{background:color-mix(in srgb,var(--error) 16%,transparent);
+    border-color:var(--error);color:var(--error)}
+  .quiz .fb{display:none;margin-top:13px;font-size:14.5px;line-height:1.55;color:var(--ink-soft)}
+  .quiz .fb.show{display:block}
+  .quiz .fb b{color:var(--ink)} .quiz .fb .m{font-family:var(--mono);font-size:13px;color:var(--ink)}
+
+  .dir{font-family:var(--mono);font-size:14px;border-top:1px solid var(--rule-hard);
+    border-bottom:1px solid var(--rule-hard);margin:16px 0}
+  .dir .r{display:flex;gap:16px;align-items:baseline;padding:12px 4px;flex-wrap:wrap}
+  .dir .r + .r{border-top:1px solid var(--rule)}
+  .dir .cmp{flex:0 0 118px;font-weight:600}
+  .dir .cmp.up{color:var(--error)} .dir .cmp.dn{color:var(--good)}
+  .dir .txt{color:var(--ink-soft);font-family:var(--sans);font-size:14.5px} .dir .txt b{color:var(--ink)}
+  .dir .tagr{margin-left:auto;color:var(--ink-faint);font-size:12px}
+
+  table{width:100%;border-collapse:collapse;font-family:var(--mono);font-size:13.5px;margin:14px 0}
+  th,td{padding:9px 12px;text-align:right;font-variant-numeric:tabular-nums}
+  th:first-child,td:first-child{text-align:left}
+  thead th{color:var(--ink-faint);font-weight:500;font-size:11.5px;letter-spacing:.03em;
+    text-transform:uppercase;border-bottom:1px solid var(--rule-hard)}
+  tbody td{border-bottom:1px solid var(--rule)}
+  tbody tr.tiny td{color:var(--patient)}
+  tfoot td{padding-top:12px;font-weight:600} tfoot tr:first-child td{border-top:1px solid var(--rule-hard)}
+  .macro{color:var(--error)} .micro{color:var(--good)}
+
+  footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--rule);
+    font-family:var(--mono);font-size:12.5px;line-height:1.75;color:var(--ink-faint);max-width:70ch}
+  footer .k{color:var(--ink-soft)}
+  .recap{border-top:1px solid var(--rule-hard);border-bottom:1px solid var(--rule-hard);
+    background:var(--panel);padding:16px 18px;margin:16px 0}
+  .recap .h{font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;
+    color:var(--ink-faint);margin-bottom:10px}
+  .recap ul{margin:0;padding-left:20px} .recap li{margin:5px 0;color:var(--ink-soft)}
+  .recap li b{color:var(--ink)}
+
+  @media (max-width:540px){
+    body{font-size:15.5px}
+    .gut{flex-basis:44px} .dir .cmp{flex-basis:100%}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="mast">
+    <h1>WER and cpWER, hands on</h1>
+    <p class="sub">A short tutorial. You will compute both metrics yourself: type transcripts and
+      watch the score, step the alignment algorithm, and reassign speakers to see attribution cost.
+      Each lesson ends with a quick check.</p>
+    <div class="objbox">
+      <div class="h">by the end you can</div>
+      <ol>
+        <li>compute <b>WER</b> from an alignment, and name each edit</li>
+        <li>explain how the aligner <b>decides</b> which edit is which</li>
+        <li>compute <b>cpWER</b> and say why it moves above or below WER</li>
+        <li>pick <b>micro</b> over macro averaging, and know the trade</li>
+      </ol>
+    </div>
+    <div class="meta">
+      <span><b>domain</b> clinical STT</span>
+      <span><b>prereq</b> none</span>
+      <span><b>time</b> ~10 min</span>
+    </div>
+  </div>
+
+  <!-- LESSON 1 -->
+  <section>
+    <div class="sh">Lesson 1</div>
+    <h2>Compute a WER</h2>
+    <p class="obj"><b>Goal:</b> read a word alignment and turn it into a number.</p>
+    <p>Word Error Rate lines the hypothesis up against the reference and counts three kinds of edit,
+      over the number of reference words:</p>
+    <div class="readout" aria-hidden="true">
+      <div class="ln"><span class="gut">WER</span><span class="seq">= (S + D + I) / N<sub>ref</sub>&nbsp;&nbsp;<span class="fade"># substitutions, deletions, insertions / reference words</span></span></div>
+    </div>
+    <div class="legend">
+      <span><b class="sub">word</b> substitution</span>
+      <span><b class="e">+word</b> insertion</span>
+      <span><b class="del">word</b> deletion</span>
+    </div>
+
+    <p class="exlabel">Try it / live WER</p>
+    <p>Edit either line. The alignment and score recompute as you type. (Whitespace-tokenized and
+      lowercased here; real WER also normalizes numbers and spelling, a separate step.)</p>
+    <div class="field"><label for="wer-ref">reference</label><input id="wer-ref" value="i have a sharp pain today" spellcheck="false" autocapitalize="off"></div>
+    <div class="field"><label for="wer-hyp">hypothesis</label><input id="wer-hyp" value="i had a pain today here" spellcheck="false" autocapitalize="off"></div>
+    <div class="readout" id="wer-out"></div>
+    <div class="tally" id="wer-tally"></div>
+
+    <div class="quiz" data-answer="0">
+      <div class="tag">check yourself</div>
+      <div class="q">Reference <span class="m">the pain is worse today</span>, hypothesis
+        <span class="m">the pain worse today</span>. What is the WER?</div>
+      <div class="opts">
+        <button type="button" data-i="0">0.20</button>
+        <button type="button" data-i="1">0.25</button>
+        <button type="button" data-i="2">0.33</button>
+        <button type="button" data-i="3">0.50</button>
+      </div>
+      <div class="fb"><b>0.20.</b> Only <span class="m">is</span> is dropped, a single deletion, over
+        five reference words: <span class="m">1/5 = 0.20</span>. Paste it into the calculator above to
+        confirm.</div>
+    </div>
+  </section>
+
+  <!-- LESSON 2 -->
+  <section>
+    <div class="sh">Lesson 2</div>
+    <h2>How the aligner decides</h2>
+    <p class="obj"><b>Goal:</b> see where S, D, and I actually come from.</p>
+    <p>The aligner does not "recognize" a substitution. It finds the <b>minimum-cost alignment</b>
+      between the two word sequences by dynamic programming, then reads the edit types off the path.
+      Ref words label the rows, hypothesis words the columns; each cell is the cheapest edit cost to
+      reach it. Step the backtrace from the bottom-right corner. The <em>direction</em> of each move
+      is the edit it records.</p>
+    <div class="movekey" aria-hidden="true">
+      <span class="mvk"><span class="ar">&#8598;</span> <span class="lab match">match</span></span>
+      <span class="mvk"><span class="ar">&#8598;</span> <span class="lab sub">substitution</span></span>
+      <span class="mvk"><span class="ar">&#8593;</span> <span class="lab del">deletion</span></span>
+      <span class="mvk"><span class="ar">&#8592;</span> <span class="lab ins">insertion</span></span>
+    </div>
+    <div class="dp"><div id="dp-matrix"></div></div>
+    <div class="ctrl">
+      <button id="dp-reset" type="button">Reset</button>
+      <button id="dp-prev" type="button">&#9666; Back</button>
+      <button id="dp-next" type="button">Step &#9656;</button>
+      <button id="dp-play" type="button">Play</button>
+      <span class="step" id="dp-step"></span>
+    </div>
+    <div class="readout" id="dp-ops"></div>
+    <div class="tally" id="dp-tally"></div>
+    <p class="caption fade">When several paths tie for the minimum cost, the split of S vs D+I is not
+      unique (a substitution costs the same as a deletion plus an insertion). The total, and so the
+      WER, is always well defined. This example was chosen to have a single optimal alignment.</p>
+  </section>
+
+  <!-- LESSON 3 -->
+  <section>
+    <div class="sh">Lesson 3</div>
+    <h2>Add the speakers: cpWER</h2>
+    <p class="obj"><b>Goal:</b> compute cpWER and feel where its extra cost comes from.</p>
+    <p>WER is speaker-blind. <b>c</b>oncatenated <b>p</b>ermutation WER concatenates each speaker's
+      words into one string per speaker, tries every permutation pairing the model's speaker clusters
+      to the reference speakers, keeps the lowest-WER pairing, then scores those streams as one pool.
+      A word in the wrong mouth costs twice: deleted from the right stream, inserted into the wrong
+      one.</p>
+
+    <p class="exlabel">Try it / attribution cost</p>
+    <p>The doctor said <span style="color:var(--doctor);font-family:var(--mono);font-size:13.5px">take two tablets</span>,
+      the patient said <span style="color:var(--patient);font-family:var(--mono);font-size:13.5px">okay thanks</span>.
+      The model got every word right. Click a word to change which speaker it is attributed to, and
+      watch cpWER.</p>
+    <div class="flip" id="cp-flip"></div>
+    <div class="readout" id="cp-out"></div>
+    <div class="tally" id="cp-tally"></div>
+
+    <div class="quiz" data-answer="1">
+      <div class="tag">check yourself</div>
+      <div class="q">The model transcribes every word correctly but tags two of the doctor's words as
+        the patient's. What happens to the scores?</div>
+      <div class="opts">
+        <button type="button" data-i="0">WER rises</button>
+        <button type="button" data-i="1">cpWER rises, WER unchanged</button>
+        <button type="button" data-i="2">both rise</button>
+        <button type="button" data-i="3">neither changes</button>
+      </div>
+      <div class="fb"><b>cpWER rises, WER unchanged.</b> WER never reads speaker labels, so perfect
+        words score 0. cpWER charges the misattribution: the two words are deleted from the doctor
+        stream and inserted into the patient stream.</div>
+    </div>
+  </section>
+
+  <!-- LESSON 4 -->
+  <section>
+    <div class="sh">Lesson 4</div>
+    <h2>The twist: cpWER can go <span class="lo">lower</span></h2>
+    <p class="obj"><b>Goal:</b> read the sign of the WER-to-cpWER gap as a diagnostic.</p>
+    <p>From real PriMock57 audio. When two people talk at once the reference orders overlapping words
+      by start time, but the model linearizes them however it likes. Plain WER punishes every
+      cross-speaker reordering. cpWER splits the speakers apart <em>before</em> comparing, so it never
+      has to match the interleaving, and forgives the reordering.</p>
+
+    <p class="exlabel">Example / perfect words and speakers, overlapping turns</p>
+    <div class="score">
+      <span class="item"><span class="k">plain WER</span><span class="v hi">0.50</span></span>
+      <span class="item"><span class="k">cpWER</span><span class="v lo">0.00</span></span>
+    </div>
+    <div class="readout">
+      <div class="ln"><span class="gut">ref</span><span class="seq"><span class="w d">any</span><span class="w p">right</span><span class="w d">pain</span><span class="w p">here</span></span></div>
+      <div class="ln"><span class="gut">hyp</span><span class="seq"><span class="w d">any</span><span class="w sub">pain</span><span class="w sub">right</span><span class="w p">here</span></span></div>
+      <hr class="rule">
+      <div class="verdict">reference interleaves by time, model groups by speaker &nbsp; <span class="hi">WER = 2/4 = 0.50</span></div>
+    </div>
+    <div class="readout">
+      <div class="ln"><span class="gut d">Dr ref</span><span class="seq"><span class="w d">any</span><span class="w d">pain</span></span></div>
+      <div class="ln"><span class="gut d">Dr hyp</span><span class="seq"><span class="w d">any</span><span class="w d">pain</span></span></div>
+      <div class="ln"><span class="gut p">Pt ref</span><span class="seq"><span class="w p">right</span><span class="w p">here</span></span></div>
+      <div class="ln"><span class="gut p">Pt hyp</span><span class="seq"><span class="w p">right</span><span class="w p">here</span></span></div>
+      <hr class="rule">
+      <div class="verdict">each stream is internally ordered &nbsp; <span class="go">cpWER = 0/4 = 0.00</span></div>
+    </div>
+    <p class="caption">So the gap has a sign, and the sign is a diagnostic:</p>
+    <div class="dir">
+      <div class="r"><span class="cmp up">cpWER &gt; WER</span><span class="txt">the diarizer is
+        <b>confusing speakers</b>; attribution errors stack on recognition errors</span><span class="tagr">bad</span></div>
+      <div class="r"><span class="cmp dn">cpWER &lt; WER</span><span class="txt">the diarizer is
+        <b>solid</b>; the extra WER was mostly overlap reordering, which cpWER forgives</span><span class="tagr">good</span></div>
+    </div>
+    <p>Our n=3 Soniox probe landed <b>cpWER 0.12 against flat 0.14</b>, the lower-cpWER case. That
+      quietly suggests attribution is working. It is <em>not</em> a claim that diarization improved
+      transcription.</p>
+
+    <div class="quiz" data-answer="1">
+      <div class="tag">check yourself</div>
+      <div class="q">Two people talk over each other and the diarizer separates them well. Compared
+        with flat WER, cpWER is usually...</div>
+      <div class="opts">
+        <button type="button" data-i="0">higher</button>
+        <button type="button" data-i="1">lower</button>
+        <button type="button" data-i="2">exactly equal</button>
+        <button type="button" data-i="3">unpredictable</button>
+      </div>
+      <div class="fb"><b>Lower.</b> Flat WER penalizes the cross-speaker word order the model cannot
+        match on overlaps. cpWER splits speakers first and forgives it, so good attribution plus
+        overlap lands cpWER below WER.</div>
+    </div>
+  </section>
+
+  <!-- LESSON 5 -->
+  <section>
+    <div class="sh">Lesson 5</div>
+    <h2>Averaging across files: micro vs macro</h2>
+    <p class="obj"><b>Goal:</b> combine per-file scores without letting a short file lie to you.</p>
+    <p>The permutation is chosen per file. The only question is how you average across a dataset, and
+      the two ways can diverge sharply.</p>
+    <div class="readout" aria-hidden="true">
+      <div class="ln"><span class="gut macro">macro</span><span class="seq">= (1/N) &middot; &Sigma; ( err<sub>i</sub> / words<sub>i</sub> )&nbsp;&nbsp;<span class="fade"># divide each file, average the rates</span></span></div>
+      <div class="ln"><span class="gut micro">micro</span><span class="seq">= &Sigma; err<sub>i</sub> / &Sigma; words<sub>i</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="fade"># pool everything, divide once</span></span></div>
+    </div>
+    <p>Three consultations, one of them tiny and noisy:</p>
+    <table>
+      <thead><tr><th>consultation</th><th>errors</th><th>ref words</th><th>cpWER</th></tr></thead>
+      <tbody>
+        <tr><td>day1_consult01</td><td>2</td><td>100</td><td>0.020</td></tr>
+        <tr><td>day1_consult02</td><td>3</td><td>150</td><td>0.020</td></tr>
+        <tr class="tiny"><td>day1_consult03 (tiny)</td><td>4</td><td>10</td><td>0.400</td></tr>
+      </tbody>
+      <tfoot>
+        <tr><td>macro, mean of rates</td><td></td><td></td><td class="macro">0.147</td></tr>
+        <tr><td>micro, pooled 9/260</td><td>9</td><td>260</td><td class="micro">0.035</td></tr>
+      </tfoot>
+    </table>
+    <p><b class="macro">Macro (0.147)</b> lets the 10-word file count as much as the 150-word one.
+      <b class="micro">Micro (0.035)</b> weights every file by its words, so the tiny file barely
+      registers. <b>Micro is the standard</b> (CHiME-6, MeetEval) and matches how the leaderboard
+      already pools flat WER, so cpWER and WER stay comparable.</p>
+
+    <div class="quiz" data-answer="0">
+      <div class="tag">check yourself</div>
+      <div class="q">A dataset is mostly long clean consultations plus one tiny noisy clip. Which
+        average does the clip swing most?</div>
+      <div class="opts">
+        <button type="button" data-i="0">macro, mean of rates</button>
+        <button type="button" data-i="1">micro, pooled</button>
+        <button type="button" data-i="2">both equally</button>
+        <button type="button" data-i="3">neither</button>
+      </div>
+      <div class="fb"><b>Macro.</b> It weights every file the same, so a 10-word clip counts as much
+        as a 2,000-word consultation. Micro weights by words, so the clip barely moves it. That is
+        why micro is standard.</div>
+    </div>
+  </section>
+
+  <section>
+    <div class="recap">
+      <div class="h">you can now</div>
+      <ul>
+        <li>compute <b>WER</b> from an alignment and name each edit</li>
+        <li>trace the <b>DP backtrace</b> that assigns S, D, I</li>
+        <li>compute <b>cpWER</b> and read the sign of its gap with WER</li>
+        <li>choose <b>micro</b> averaging and explain the trade</li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <span class="k">run it for real</span> from stt_eval.metrics import corpus_wer, cpwer, cpwer_align.
+    cpwer_align() picks the best permutation per file; diarize_probe.py pools the aligned streams and
+    calls corpus_wer() once for micro cpWER.<br>
+    <span class="k">caveat</span> the repo uses the whisper/open-asr normalizer, so its numbers compare
+    to our own flat WER, not to a published CHiME-6 cpWER. All figures here are toy examples.
+  </footer>
+</div>
+
+<script>
+(function(){
+  // ---- shared alignment engine ----
+  function tok(s){ s=s.toLowerCase().replace(/[^a-z0-9\s']/g," "); return s.trim()?s.trim().split(/\s+/):[]; }
+  function dp(ref,hyp){
+    var m=ref.length,n=hyp.length,D=[];
+    for(var i=0;i<=m;i++){D[i]=[];for(var j=0;j<=n;j++)D[i][j]=(i===0?j:(j===0?i:0));}
+    for(i=1;i<=m;i++)for(j=1;j<=n;j++){
+      var s=D[i-1][j-1]+(ref[i-1]===hyp[j-1]?0:1), d=D[i-1][j]+1, ins=D[i][j-1]+1;
+      D[i][j]=Math.min(s,d,ins);
+    }
+    return D;
+  }
+  function backtrace(ref,hyp,D){
+    var i=ref.length,j=hyp.length,rev=[];
+    while(i>0||j>0){
+      if(i>0&&j>0&&D[i][j]===D[i-1][j-1]+(ref[i-1]===hyp[j-1]?0:1)){
+        rev.push({op:ref[i-1]===hyp[j-1]?"match":"sub",ref:ref[i-1],hyp:hyp[j-1],ar:"↖",i:i,j:j}); i--; j--;
+      } else if(i>0&&D[i][j]===D[i-1][j]+1){
+        rev.push({op:"del",ref:ref[i-1],ar:"↑",i:i,j:j}); i--;
+      } else {
+        rev.push({op:"ins",hyp:hyp[j-1],ar:"←",i:i,j:j}); j--;
+      }
+    }
+    return rev.reverse();
+  }
+  function align(ref,hyp){ var D=dp(ref,hyp); return {dist:D[ref.length][hyp.length],path:backtrace(ref,hyp,D),D:D}; }
+  function tally(path){ var S=0,D=0,I=0; path.forEach(function(p){ if(p.op==="sub")S++; else if(p.op==="del")D++; else if(p.op==="ins")I++; }); return {S:S,D:D,I:I}; }
+  function renderHyp(path){
+    var out=""; path.forEach(function(p){
+      if(p.op==="match") out+='<span class="w">'+p.hyp+'</span>';
+      else if(p.op==="sub") out+='<span class="w sub">'+p.hyp+'</span>';
+      else if(p.op==="del") out+='<span class="w del">'+p.ref+'</span>';
+      else out+='<span class="w ins">+'+p.hyp+'</span>';
+    });
+    return out;
+  }
+  function line(gut,inner,cls){ return '<div class="ln"><span class="gut'+(cls?" "+cls:"")+'">'+gut+'</span><span class="seq">'+inner+'</span></div>'; }
+
+  // ---- Lesson 1: live WER calculator ----
+  (function(){
+    var refIn=document.getElementById("wer-ref"), hypIn=document.getElementById("wer-hyp");
+    var out=document.getElementById("wer-out"), tal=document.getElementById("wer-tally");
+    function upd(){
+      var r=tok(refIn.value), h=tok(hypIn.value);
+      if(!r.length){ out.innerHTML=line("ref",'<span class="fade">type a reference</span>'); tal.innerHTML=""; return; }
+      var a=align(r,h), t=tally(a.path), e=t.S+t.D+t.I, N=r.length;
+      var refInner=""; r.forEach(function(w){refInner+='<span class="w">'+w+'</span>';});
+      out.innerHTML=line("ref",refInner)+line("hyp",renderHyp(a.path));
+      tal.innerHTML='S <b>'+t.S+'</b>&nbsp;&nbsp; D <b>'+t.D+'</b>&nbsp;&nbsp; I <b>'+t.I+'</b>&nbsp;&nbsp;&nbsp; <span class="eq">WER = '+e+'/'+N+' = '+(e/N).toFixed(3)+'</span>';
+    }
+    refIn.addEventListener("input",upd); hypIn.addEventListener("input",upd); upd();
+  })();
+
+  // ---- Lesson 2: DP matrix stepper ----
+  (function(){
+    var ref=["i","have","a","sharp","pain","today"], hyp=["i","had","a","pain","today","here"];
+    var D=dp(ref,hyp), path=backtrace(ref,hyp,D), L=path.length, m=ref.length, n=hyp.length, N=m;
+    var mEl=document.getElementById("dp-matrix"), opsEl=document.getElementById("dp-ops"),
+        talEl=document.getElementById("dp-tally"), stepEl=document.getElementById("dp-step");
+    var nextB=document.getElementById("dp-next"), prevB=document.getElementById("dp-prev"),
+        resetB=document.getElementById("dp-reset"), playB=document.getElementById("dp-play");
+    var html='<table><thead><tr><th></th><th>ε</th>';
+    for(var c=0;c<n;c++) html+='<th>'+hyp[c]+'</th>';
+    html+='</tr></thead><tbody>';
+    for(var i=0;i<=m;i++){ html+='<tr><th>'+(i===0?'ε':ref[i-1])+'</th>';
+      for(var j=0;j<=n;j++) html+='<td data-i="'+i+'" data-j="'+j+'">'+D[i][j]+'</td>'; html+='</tr>'; }
+    mEl.innerHTML=html+'</tbody></table>';
+    function cell(a,b){ return mEl.querySelector('td[data-i="'+a+'"][data-j="'+b+'"]'); }
+    var opCls={match:"op-match",sub:"op-sub",del:"op-del",ins:"op-ins"}, step=0, timer=null;
+    function render(){
+      var tds=mEl.querySelectorAll("td");
+      for(var t=0;t<tds.length;t++){ tds[t].className=""; var o=tds[t].querySelector(".ar"); if(o)o.remove(); }
+      var toks="",S=0,Dc=0,I=0,k,p;
+      for(k=0;k<step;k++){ p=path[k]; var td=cell(p.i,p.j);
+        td.classList.add("on",opCls[p.op]);
+        var a=document.createElement("span"); a.className="ar"; a.textContent=p.ar; td.appendChild(a);
+        if(p.op==="match") toks+='<span class="w">'+p.hyp+'</span>';
+        else if(p.op==="sub"){ toks+='<span class="w sub">'+p.hyp+'</span>'; S++; }
+        else if(p.op==="del"){ toks+='<span class="w del">'+p.ref+'</span>'; Dc++; }
+        else { toks+='<span class="w ins">+'+p.hyp+'</span>'; I++; }
+      }
+      if(step>0) cell(path[step-1].i,path[step-1].j).classList.add("cur");
+      opsEl.innerHTML = step ? line("hyp",toks) : "";
+      opsEl.style.display = step ? "" : "none";
+      var e=S+Dc+I;
+      talEl.innerHTML = step
+        ? 'S <b>'+S+'</b>&nbsp;&nbsp; D <b>'+Dc+'</b>&nbsp;&nbsp; I <b>'+I+'</b>&nbsp;&nbsp;&nbsp; <span class="eq">WER = '+e+'/'+N+' = '+(e/N).toFixed(3)+'</span>'
+        : '<span class="fade">press Step to walk the backtrace</span>';
+      stepEl.textContent="step "+step+" / "+L;
+      prevB.disabled=step<=0; nextB.disabled=step>=L;
+    }
+    function stopPlay(){ if(timer){clearInterval(timer);timer=null;playB.textContent="Play";} }
+    nextB.onclick=function(){ if(step<L){step++;render();} };
+    prevB.onclick=function(){ stopPlay(); if(step>0){step--;render();} };
+    resetB.onclick=function(){ stopPlay(); step=0; render(); };
+    playB.onclick=function(){ if(timer){stopPlay();return;} if(step>=L)step=0; playB.textContent="Pause";
+      timer=setInterval(function(){ if(step>=L){stopPlay();return;} step++; render(); },750); };
+    render();
+  })();
+
+  // ---- Lesson 3: cpWER speaker-flip ----
+  (function(){
+    var refDr=["take","two","tablets"], refPt=["okay","thanks"];
+    var words=[{w:"take",s:"d"},{w:"two",s:"d"},{w:"tablets",s:"d"},{w:"okay",s:"p"},{w:"thanks",s:"p"}];
+    var flipEl=document.getElementById("cp-flip"), outEl=document.getElementById("cp-out"), talEl=document.getElementById("cp-tally");
+    function cpwerFull(hD,hP){
+      var a1=align(refDr,hD), a2=align(refPt,hP), e1=a1.dist+a2.dist;
+      var b1=align(refDr,hP), b2=align(refPt,hD), e2=b1.dist+b2.dist;
+      var N=refDr.length+refPt.length;
+      if(e1<=e2) return {cpwer:e1/N,e:e1,N:N,dr:{ref:refDr,path:a1.path},pt:{ref:refPt,path:a2.path}};
+      return {cpwer:e2/N,e:e2,N:N,swap:true,dr:{ref:refDr,path:b1.path},pt:{ref:refPt,path:b2.path}};
+    }
+    function draw(){
+      flipEl.innerHTML="";
+      words.forEach(function(o,idx){
+        var b=document.createElement("button"); b.type="button"; b.className=o.s;
+        b.innerHTML=o.w+'<span class="spk">'+(o.s==="d"?"doctor":"patient")+'</span>';
+        b.onclick=function(){ o.s=(o.s==="d"?"p":"d"); draw(); };
+        flipEl.appendChild(b);
+      });
+      var hD=words.filter(function(o){return o.s==="d";}).map(function(o){return o.w;});
+      var hP=words.filter(function(o){return o.s==="p";}).map(function(o){return o.w;});
+      var r=cpwerFull(hD,hP);
+      var refDrInner=""; refDr.forEach(function(w){refDrInner+='<span class="w d">'+w+'</span>';});
+      var refPtInner=""; refPt.forEach(function(w){refPtInner+='<span class="w p">'+w+'</span>';});
+      outEl.innerHTML =
+        line("Dr ref",refDrInner,"d") + line("Dr hyp",renderHyp(r.dr.path)) +
+        line("Pt ref",refPtInner,"p") + line("Pt hyp",renderHyp(r.pt.path)) +
+        '<hr class="rule"><div class="verdict">'+(r.e===0
+          ? '<span class="go">cpWER = 0/'+r.N+' = 0.000</span> &nbsp; every word with the right speaker'
+          : '<span class="hi">cpWER = '+r.e+'/'+r.N+' = '+r.cpwer.toFixed(3)+'</span> &nbsp; a word in the wrong stream costs a deletion and an insertion')+'</div>';
+      talEl.innerHTML='<span class="fade">click a word above to reassign its speaker</span>';
+    }
+    draw();
+  })();
+
+  // ---- checkpoint quizzes (generic) ----
+  var quizzes=document.querySelectorAll(".quiz");
+  for(var q=0;q<quizzes.length;q++){
+    (function(quiz){
+      var ans=parseInt(quiz.getAttribute("data-answer"),10);
+      var btns=quiz.querySelectorAll(".opts button"), fb=quiz.querySelector(".fb");
+      for(var b=0;b<btns.length;b++){
+        btns[b].onclick=function(){
+          var chosen=parseInt(this.getAttribute("data-i"),10);
+          for(var k=0;k<btns.length;k++){
+            btns[k].disabled=true;
+            if(k===ans) btns[k].classList.add("correct");
+          }
+          if(chosen!==ans) this.classList.add("wrong");
+          fb.classList.add("show");
+        };
+      }
+    })(quizzes[q]);
+  }
+})();
+</script>
+</body>
+</html>
