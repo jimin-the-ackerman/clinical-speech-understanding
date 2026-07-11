@@ -5,6 +5,7 @@
 | qwen3-asr-0.6b | primock57 |  | 2505 | 2306 | 0.9206 |
 | qwen3-asr-1.7b | fareez-interviews |  | 16423 | 15734 | 0.958 |
 | qwen3-asr-1.7b | primock57 |  | 2505 | 2349 | 0.9377 |
+| soniox-stt-async-v5 | fareez-interviews |  | 16423 | 15922 | 0.9695 |
 | soniox-stt-async-v5 | primock57 |  | 2505 | 2371 | 0.9465 |
 | whisper-large-v3 | fareez-interviews |  | 16423 | 15637 | 0.9521 |
 | whisper-large-v3 | primock57 |  | 2505 | 2331 | 0.9305 |

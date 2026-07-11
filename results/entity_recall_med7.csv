@@ -25,6 +25,7 @@ qwen3-asr-1.7b,meddialog-audio,white_noise_10,230,155,0.6739
 qwen3-asr-1.7b,meddialog-audio,white_noise_2,262,230,0.8779
 qwen3-asr-1.7b,meddialog-audio,white_noise_6,248,179,0.7218
 qwen3-asr-1.7b,primock57,,261,228,0.8736
+soniox-stt-async-v5,fareez-interviews,,886,828,0.9345
 soniox-stt-async-v5,meddialog-audio,background_noise_20,257,201,0.7821
 soniox-stt-async-v5,meddialog-audio,background_noise_40,246,199,0.8089
 soniox-stt-async-v5,meddialog-audio,background_noise_60,269,219,0.8141

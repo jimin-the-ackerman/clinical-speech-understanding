@@ -26,6 +26,7 @@
 | qwen3-asr-1.7b | meddialog-audio | white_noise_2 | 702 | 672 | 0.9573 |
 | qwen3-asr-1.7b | meddialog-audio | white_noise_6 | 710 | 622 | 0.8761 |
 | qwen3-asr-1.7b | primock57 |  | 2056 | 1905 | 0.9266 |
+| soniox-stt-async-v5 | fareez-interviews |  | 12626 | 12171 | 0.964 |
 | soniox-stt-async-v5 | meddialog-audio | background_noise_20 | 681 | 650 | 0.9545 |
 | soniox-stt-async-v5 | meddialog-audio | background_noise_40 | 744 | 705 | 0.9476 |
 | soniox-stt-async-v5 | meddialog-audio | background_noise_60 | 732 | 666 | 0.9098 |
