@@ -3,10 +3,10 @@ type: Status
 title: Project status
 description: Live progress and open todos for the STT benchmark and the medical-term-recall exercise.
 tags: [status, todos, live]
-timestamp: 2026-07-10
+timestamp: 2026-07-11
 ---
 
-# Project status (2026-07-10)
+# Project status (2026-07-11)
 
 ## Done
 - **English WER round** — 6 models × 3 datasets (LibriSpeech, MedDialog-Audio, PriMock57), zero
@@ -27,15 +27,21 @@ timestamp: 2026-07-10
   committed under `results/diarize-probe/` for sharing. Feeds the undecided scribe-architecture
   choice (flat-transcript-in vs speaker-tagged-turns-in).
 
+- **Soniox on OSCE, with diarization (Gate B)** — 272/272 in one pass (`stt-eval transcribe
+  --diarize` caches `by_speaker` beside the flat text). Flat WER **0.0971**, tied with
+  qwen3-asr-0.6b (0.0968) for #1. cpWER **0.1016** — attribution costs **+0.45 pt** here, the
+  *opposite* sign of PriMock57 (−0.6 pt): clean turn-taking audio leaves no interleaving for
+  cpWER to forgive, so occasional clustering confusion is all that's left (cpWER ≤ flat on
+  148/272; the corpus delta sits in a small outlier tail, e.g. RES0086 0.091→0.182). Verdict:
+  soft GO — attribution stays cheap on both datasets.
+
 ## Open todos
 1. **[openrouter](entity-methods/openrouter.md) general-LLM foil** — add `OPENROUTER_API_KEY`,
    then bake-off + build. The last method (MedGemma already answered the specialized side).
-2. **[Fareez/OSCE](datasets/fareez-interviews.md) — metered APIs** — local models done and scored.
-   Still pending: Soniox + gpt-4o on OSCE (then rebuild the manifests once more) to turn the
-   local-only replication into a full cross-family comparison. When the Soniox pass runs, enable
-   diarization on it — the cpWER probe's PriMock gate passed, and Fareez's `D:`/`P:` tags give
-   per-speaker references for near-zero marginal cost (one flag, one `speaker_reference`-style
-   sibling in `fareez.py`).
+2. **[Fareez/OSCE](datasets/fareez-interviews.md) — rebuild entity manifests** with the Soniox
+   transcripts (all four methods), completing the cross-family comparison on OSCE. gpt-4o on
+   OSCE is **skipped for now on cost** (~$19: 51.9 h × $0.006/min); revisit if a second API
+   family becomes worth the spend.
 3. **Fuzzy entity matching** — current match is exact contiguous tokens (`ponytail:` note in
    `entity_score.py`); would recover reference-spelling/abbreviation misses that hit all models
    equally ("flem"→phlegm, "a and e"→A&E).

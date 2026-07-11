@@ -2,6 +2,15 @@
 
 Chronological history of this knowledge bundle (OKF reserved file).
 
+- **2026-07-11** — **Soniox on OSCE with diarization; Gate B answered.** `speaker_reference` in
+  `datasets/fareez.py` (D:/P: split, the cpWER oracle) and `stt-eval transcribe --diarize`
+  (Soniox-only flag; runner caches `by_speaker` next to the flat text, so one paid pass feeds
+  WER and cpWER). Full 272-consult run: flat WER 0.0971 (ties qwen3-asr-0.6b for #1), cpWER
+  0.1016 → attribution +0.45 pt, sign flipped vs PriMock57 (status.md Done has the reading).
+  gpt-4o on OSCE skipped on cost (~$19 = 51.9 h × $0.006/min); todo #2 rewritten to the manifest
+  rebuild. Also rescoped the probe dumps to `results/diarize-probe/<dataset>/<model>/` with a
+  README (dumps: layout + nondeterminism caveat).
+
 - **2026-07-10** — Documented the **speaker-attribution (cpWER) probe**. New code: `cpwer` /
   `cpwer_align` in `metrics.py` (documented in `metrics/wer.md`), `speaker_reference` in the
   PriMock57 loader (`datasets/primock57.md`), and the throwaway `scripts/diarize_probe.py`

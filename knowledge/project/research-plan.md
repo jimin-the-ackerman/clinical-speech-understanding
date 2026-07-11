@@ -3,7 +3,7 @@ type: Plan
 title: Research plan — clinical STT benchmark, English proving ground then Korean
 description: The questions this benchmark answers, the design that answers them, and the phased roadmap from the English round to the Korean scribe.
 tags: [plan, research-agenda, roadmap, asr, evaluation]
-timestamp: 2026-07-10
+timestamp: 2026-07-11
 ---
 
 # Research plan
@@ -71,12 +71,11 @@ ways, all agreeing. See [status](../status.md) and the [finding](../findings/med
 **Next (English round).**
 - General-LLM foil via [openrouter](../entity-methods/openrouter.md) — does a *general* frontier
   model also rank Soniox #1, as the medical-specialized MedGemma did? Blocked on `OPENROUTER_API_KEY`.
-- [OSCE / Fareez](../datasets/fareez-interviews.md) — local models transcribed and scored, and the
-  rerank reproduces (see the [finding](../findings/medical-term-recall.md)); the metered APIs
-  (Soniox, gpt-4o) on OSCE are the remaining step for a full cross-family comparison. The Soniox
-  pass should run with diarization enabled: the cpWER probe passed its PriMock gate, and the
-  `D:`/`P:` tags make the Fareez extension near-free (decision input for the scribe architecture,
-  flat-transcript-in vs speaker-tagged-turns-in).
+- [OSCE / Fareez](../datasets/fareez-interviews.md) — local models and Soniox (with diarization)
+  transcribed and scored; the rerank reproduces (see the
+  [finding](../findings/medical-term-recall.md)) and Gate B is a soft GO (attribution +0.45 pt,
+  see [status](../status.md)). Remaining: rebuild the entity manifests with the Soniox
+  transcripts. gpt-4o on OSCE skipped for now on cost (~$19 for 51.9 h).
 - Fuzzy entity matching — to recover spelling/abbreviation variants exact matching undercounts.
 - Deepgram + AssemblyAI runs, once keys are available.
 
