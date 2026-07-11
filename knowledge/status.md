@@ -34,17 +34,18 @@ timestamp: 2026-07-11
   cpWER to forgive, so occasional clustering confusion is all that's left (cpWER ≤ flat on
   148/272; the corpus delta sits in a small outlier tail, e.g. RES0086 0.091→0.182). Verdict:
   soft GO — attribution stays cheap on both datasets.
+- **Cross-family rerank on OSCE** — `entity-score` folded the Soniox transcripts into all four
+  manifests (no rebuild needed; manifests freeze *reference* entities): **Soniox #1 on OSCE on
+  every method**, WER co-winner qwen3-asr-0.6b last on all four. The
+  [finding](findings/medical-term-recall.md) is updated — the rerank now reproduces
+  cross-family on both clinical corpora.
 
 ## Open todos
 1. **[openrouter](entity-methods/openrouter.md) general-LLM foil** — add `OPENROUTER_API_KEY`,
    then bake-off + build. The last method (MedGemma already answered the specialized side).
-2. **[Fareez/OSCE](datasets/fareez-interviews.md) — fold the cross-family result into the
-   [finding](findings/medical-term-recall.md)** — no manifest rebuild was needed (manifests
-   freeze *reference* entities; Soniox only added hypotheses): `entity-score` on all four
-   manifests puts **Soniox #1 on OSCE on every method**, with WER co-winner qwen3-asr-0.6b
-   last — the rerank now reproduces cross-family. The finding's "qwen3-asr-1.7b #1 on OSCE
-   (local models)" is superseded. gpt-4o on OSCE **skipped for now on cost** (~$19: 51.9 h ×
-   $0.006/min); revisit if a second API family becomes worth the spend.
+2. **gpt-4o-transcribe on OSCE** — skipped for now on cost (~$19: 51.9 h × $0.006/min); the
+   only absentee from the cross-family comparison. Revisit if a second API family becomes
+   worth the spend.
 3. **Fuzzy entity matching** — current match is exact contiguous tokens (`ponytail:` note in
    `entity_score.py`); would recover reference-spelling/abbreviation misses that hit all models
    equally ("flem"→phlegm, "a and e"→A&E).

@@ -4,7 +4,7 @@ title: Medical-term recall for clinical ASR — how you define "a medical term" 
 description: On real clinical consultations, four independent ways of scoring medical-term fidelity all rank the same STT model first — a result plain WER misranks.
 resource: https://github.com/jimin-the-ackerman/clinical-speech-understanding/blob/stt-dev/knowledge/findings/medical-term-recall.md
 tags: [asr, stt, medical-nlp, evaluation, primock57, entity-recall]
-timestamp: 2026-07-08
+timestamp: 2026-07-11
 ---
 
 # Medical-term recall for clinical ASR
@@ -14,7 +14,9 @@ metric, Word Error Rate (WER), weights every word equally — but for a scribe, 
 diagnosis matters far more than a dropped "um". We added a **medical-term recall** metric and
 found it reranks the models on real consultations: **Soniox is #1, not the WER winner.** Crucially,
 that rerank is **robust** — four independent ways of defining "a medical term" (three clinical NER
-models + a medical LLM) all put Soniox first with the same top-3.
+models + a medical LLM) all put Soniox first with the same top-3 — and it **replicates on a second
+clinical corpus** (OSCE / Fareez, 272 consultations): Soniox #1 on every method there too, with the
+WER winner last.
 
 ## The question
 
@@ -70,28 +72,30 @@ hallucinates fluent nonsense: on MedDialog its WER climbs 41% → 96% → 97% ac
 2/6/10, and its medical-term recall falls **0.59 → 0.001 → 0.000** — literally zero clinical terms
 survive. For a scribe, "no medical terms survived" is sharper than "97% WER".
 
-## Replication on OSCE / Fareez (local models)
+## Replication on OSCE / Fareez
 
-We re-ran the four local models on a second, very different clinical corpus:
+The same comparison on a second, very different clinical corpus:
 [OSCE / Fareez](../datasets/fareez-interviews.md) — 272 simulated patient–physician consultations
-(~51 h), clean Teams-recorded long-form dialogue, ~5× PriMock57's reference mass. The cloud APIs
-(Soniox, gpt-4o) sat out this round, so this is a **local-models-only** check, not a cross-family
-ranking — the "Soniox #1" headline above is a PriMock57 result and is not retested here.
+(~51 h), clean Teams-recorded long-form dialogue, ~5× PriMock57's reference mass. Five of the six
+systems (gpt-4o-transcribe skipped on cost — ~$19 for the 51.9 h):
 
 | model | WER ↓ | bc5cdr | med7 | stanza-i2b2 | medgemma |
 |---|---|---|---|---|---|
-| **qwen3-asr-1.7b** | .112 | **.957** | **.867** | **.957** | **.958** |
+| **soniox** | .097 | **.964** | **.935** | **.963** | **.970** |
+| qwen3-asr-1.7b | .112 | .957 | .867 | .957 | .958 |
 | whisper-large-v3-turbo | .098 | .953 | .851 | .950 | .956 |
 | whisper-large-v3 | .143 | .952 | .862 | .947 | .952 |
 | qwen3-asr-0.6b | **.097** | .946 | .844 | .939 | .942 |
 
-The finding **reproduces**: `qwen3-asr-1.7b` is #1 on every one of the four methods, and the WER
-winner is again the recall loser — `qwen3-asr-0.6b` has the best WER (.097) but ranks **last on all
-four** recall metrics. The same rerank appearing on a corpus with different speakers, acoustics, and
-length is evidence the effect is a property of clinical transcription, not of PriMock57. (Data
-notes: med7 leaves 24/272 OSCE refs empty — legitimate, since med7 is sparse; the other three
-methods cover all 272. Two references shipped as UTF-16 and were mis-decoded until the loader
-was fixed — see [Fareez](../datasets/fareez-interviews.md).)
+The finding **reproduces, cross-family**: Soniox is #1 on every one of the four methods — despite
+being in a dead heat with `qwen3-asr-0.6b` on WER (.0971 vs .0968) — and the WER co-winner is
+again the recall loser: `qwen3-asr-0.6b` ranks **last on all four** recall metrics. The top-2
+(soniox > qwen-1.7b) is identical on every method and matches PriMock57. The same rerank appearing
+on a corpus with different speakers, acoustics, and length is evidence the effect is a property of
+clinical transcription, not of PriMock57. (Data notes: med7 leaves 24/272 OSCE refs empty —
+legitimate, since med7 is sparse; the other three methods cover all 272. Two references shipped as
+UTF-16 and were mis-decoded until the loader was fixed — see
+[Fareez](../datasets/fareez-interviews.md).)
 
 ## Caveats (honest limits)
 
@@ -108,9 +112,8 @@ was fixed — see [Fareez](../datasets/fareez-interviews.md).)
 - **General-LLM foil ([openrouter](../entity-methods/openrouter.md)).** MedGemma is medically
   *specialized*. Does a *general* frontier model also rank Soniox #1? One extractor away — blocked
   only on an `OPENROUTER_API_KEY`.
-- **[OSCE / Fareez](../datasets/fareez-interviews.md) dataset.** Local models transcribed and
-  scored (see replication above); the rerank reproduces. Still pending: the metered APIs (Soniox,
-  gpt-4o) on OSCE, to make it a full cross-family comparison rather than local-only.
+- **gpt-4o-transcribe on OSCE.** The one absentee from the replication table, skipped on cost
+  (~$19); revisit if a second API family becomes worth the spend.
 - **Fuzzy entity matching.** Would recover the spelling/abbreviation misses above.
 - **Phase 2 (Korean).** The harness, caching, and this metric carry over (swapping WER → CER).
 

@@ -2,6 +2,14 @@
 
 Chronological history of this knowledge bundle (OKF reserved file).
 
+- **2026-07-11** — **Cross-family rerank confirmed on OSCE; finding updated.** `entity-score`
+  over the four frozen manifests (no rebuild — manifests key on *reference* entities, already
+  covering OSCE since the local round) put Soniox #1 on OSCE on every method (bc5cdr .964,
+  med7 .935, stanza .963, medgemma .970), qwen3-asr-0.6b (WER co-winner) last on all four.
+  `findings/medical-term-recall.md` rewritten: the OSCE section is now cross-family (5 models),
+  superseding the local-only replication; TL;DR notes the two-corpus reproduction. Todo #2
+  shrank to the skipped gpt-4o-on-OSCE pass (~$19, cost).
+
 - **2026-07-11** — **Soniox on OSCE with diarization; Gate B answered.** `speaker_reference` in
   `datasets/fareez.py` (D:/P: split, the cpWER oracle) and `stt-eval transcribe --diarize`
   (Soniox-only flag; runner caches `by_speaker` next to the flat text, so one paid pass feeds
