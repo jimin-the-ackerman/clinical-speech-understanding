@@ -38,10 +38,13 @@ timestamp: 2026-07-11
 ## Open todos
 1. **[openrouter](entity-methods/openrouter.md) general-LLM foil** — add `OPENROUTER_API_KEY`,
    then bake-off + build. The last method (MedGemma already answered the specialized side).
-2. **[Fareez/OSCE](datasets/fareez-interviews.md) — rebuild entity manifests** with the Soniox
-   transcripts (all four methods), completing the cross-family comparison on OSCE. gpt-4o on
-   OSCE is **skipped for now on cost** (~$19: 51.9 h × $0.006/min); revisit if a second API
-   family becomes worth the spend.
+2. **[Fareez/OSCE](datasets/fareez-interviews.md) — fold the cross-family result into the
+   [finding](findings/medical-term-recall.md)** — no manifest rebuild was needed (manifests
+   freeze *reference* entities; Soniox only added hypotheses): `entity-score` on all four
+   manifests puts **Soniox #1 on OSCE on every method**, with WER co-winner qwen3-asr-0.6b
+   last — the rerank now reproduces cross-family. The finding's "qwen3-asr-1.7b #1 on OSCE
+   (local models)" is superseded. gpt-4o on OSCE **skipped for now on cost** (~$19: 51.9 h ×
+   $0.006/min); revisit if a second API family becomes worth the spend.
 3. **Fuzzy entity matching** — current match is exact contiguous tokens (`ponytail:` note in
    `entity_score.py`); would recover reference-spelling/abbreviation misses that hit all models
    equally ("flem"→phlegm, "a and e"→A&E).
