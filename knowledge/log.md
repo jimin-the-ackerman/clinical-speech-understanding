@@ -2,6 +2,16 @@
 
 Chronological history of this knowledge bundle (OKF reserved file).
 
+- **2026-07-13** — **Diarization results unified in the transcript cache; probe retired.**
+  Re-ran Soniox on PriMock57 via `stt-eval transcribe --diarize` (~$1; one run stalled midway on
+  an exhausted Soniox balance — failed payloads were deleted and the run resumed after top-up),
+  so `by_speaker` now sits beside the flat text in `results/transcripts/` for both clinical
+  datasets, from the same API call. Deleted `scripts/diarize_probe.py` and
+  `results/diarize-probe/` (replaced by offline `scripts/score_cpwer.py`); wer.md, status,
+  spec, and both findings repointed. New PriMock57 draw reproduces the probe: flat .1224,
+  cpWER .1166 (probe: .1164/.1171); recall shifts ≤ .008 with all ranks unchanged
+  (soniox row now .935/.908/.937/.945, WER .1224).
+
 - **2026-07-13** — **gpt-4o on OSCE via OpenRouter; the 6-model cross-family table is complete.**
   New transcriber `gpt-4o-transcribe-openrouter` (OpenRouter's OpenAI-compatible multipart
   `/audio/transcriptions`; the documented chat-completions `input_audio` route 400s for this

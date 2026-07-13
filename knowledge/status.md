@@ -22,10 +22,11 @@ timestamp: 2026-07-11
 - **Speaker-attribution (cpWER) probe** — Soniox × PriMock57, full n=57: flat WER 0.1224 vs
   **cpWER 0.1164** — attribution is roughly free on top of transcription (gate: **GO**). Two
   independent runs reproduce the corpus numbers; per-file diarization is nondeterministic
-  (`day1_consultation11`: cpWER 0.233 vs 0.149 across draws). Throwaway probe
-  (`scripts/diarize_probe.py`, spec in `docs/superpowers/specs/`), but raw transcript dumps are
-  committed under `results/diarize-probe/` for sharing. Feeds the undecided scribe-architecture
-  choice (flat-transcript-in vs speaker-tagged-turns-in).
+  (`day1_consultation11`: cpWER 0.233 vs 0.149 across draws). The throwaway probe and its dumps
+  are retired (2026-07-13): PriMock57 was re-run through `stt-eval transcribe --diarize`, so
+  `by_speaker` lives in the transcript cache for both datasets and `scripts/score_cpwer.py`
+  scores it offline. Feeds the undecided scribe-architecture choice
+  (flat-transcript-in vs speaker-tagged-turns-in).
 
 - **Soniox on OSCE, with diarization (Gate B)** — 272/272 in one pass (`stt-eval transcribe
   --diarize` caches `by_speaker` beside the flat text). Flat WER **0.0971**, tied with

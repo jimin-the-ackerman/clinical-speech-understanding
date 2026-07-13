@@ -41,16 +41,19 @@ Every reference word counts the same — `the` weighs as much as `amoxicillin`. 
 scribe that's the wrong weighting, which is what [medical-term recall](medical-term-recall.md)
 addresses. The Korean phase swaps WER → CER (a contained change in `score.py`).
 
-## cpWER (speaker attribution, probe-only)
+## cpWER (speaker attribution)
 
 `metrics.py` also implements **cpWER** (concatenated minimum-permutation WER): `cpwer_align`
 pairs hypothesis speakers to reference speakers by whichever permutation minimizes WER over the
 per-speaker concatenated text, and `cpwer` scores one file; pooling the aligned strings through
 `corpus_wer` micro-averages it across files, matching the CHiME-6/MeetEval convention. The
 permutation search is O(n!) over speakers — fine for 2-party clinical audio. With one speaker it
-collapses to plain corpus WER. Currently exercised only by the standalone probe
-`scripts/diarize_probe.py` (see the [PriMock57 probe spec][spec]), **not** wired into
-`stt-eval score`. Caveat: the probe normalizes with `normalize_en` so its cpWER is comparable to
-*our* flat WER, while published cpWER applies no linguistic normalization.
+collapses to plain corpus WER. Speaker buckets come from `stt-eval transcribe --diarize`
+(Soniox-only; cached as `by_speaker` beside the flat text) and are scored offline by
+`scripts/score_cpwer.py` — **not** wired into `stt-eval score`. Origin: the retired PriMock57
+probe (see the [spec][spec]; result in the
+[attribution finding](../findings/speaker-attribution-cost.md)). Caveat: scoring normalizes with
+`normalize_en` so cpWER is comparable to *our* flat WER, while published cpWER applies no
+linguistic normalization.
 
 [spec]: ../../docs/superpowers/specs/2026-07-09-diarization-cpwer-probe.md

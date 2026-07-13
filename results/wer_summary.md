@@ -10,7 +10,6 @@
 | gpt-4o-transcribe | meddialog-audio | white_noise_6 | 300 | 0 | 0 | 0.9609 | 0.0412 |
 | gpt-4o-transcribe | primock57 |  | 57 | 0 | 0 | 0.2168 | 0.0396 |
 | gpt-4o-transcribe-openrouter | fareez-interviews |  | 272 | 0 | 0 | 0.1483 | 0.0314 |
-| gpt-4o-transcribe-openrouter | primock57 |  | 1 | 0 | 0 | 0.1434 | 0.0498 |
 | qwen3-asr-0.6b | fareez-interviews |  | 272 | 0 | 0 | 0.0968 | 0.021 |
 | qwen3-asr-0.6b | librispeech-test-other |  | 2939 | 0 | 0 | 0.0452 | 0.0369 |
 | qwen3-asr-0.6b | meddialog-audio | background_noise_20 | 300 | 0 | 0 | 0.0251 | 0.0321 |
@@ -40,7 +39,7 @@
 | soniox-stt-async-v5 | meddialog-audio | white_noise_10 | 300 | 0 | 0 | 0.1017 | 0.3144 |
 | soniox-stt-async-v5 | meddialog-audio | white_noise_2 | 300 | 0 | 0 | 0.0217 | 0.278 |
 | soniox-stt-async-v5 | meddialog-audio | white_noise_6 | 300 | 0 | 0 | 0.0497 | 0.2498 |
-| soniox-stt-async-v5 | primock57 |  | 57 | 0 | 0 | 0.1229 | 0.0442 |
+| soniox-stt-async-v5 | primock57 |  | 57 | 0 | 0 | 0.1224 | 0.054 |
 | whisper-large-v3 | fareez-interviews |  | 272 | 0 | 0 | 0.1433 | 0.0439 |
 | whisper-large-v3 | librispeech-test-other |  | 2939 | 0 | 0 | 0.0506 | 0.0423 |
 | whisper-large-v3 | meddialog-audio | background_noise_20 | 300 | 0 | 0 | 0.022 | 0.0342 |

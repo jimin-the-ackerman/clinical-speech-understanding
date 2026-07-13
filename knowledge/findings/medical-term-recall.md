@@ -42,7 +42,7 @@ recall columns are four different definitions of "a medical term":
 
 | model | WER ↓ | bc5cdr | med7 | stanza-i2b2 | medgemma |
 |---|---|---|---|---|---|
-| **soniox** | .123 | **.936** | **.916** | **.940** | **.947** |
+| **soniox** | .122 | **.935** | **.908** | **.937** | **.945** |
 | qwen3-asr-1.7b | **.119** | .927 | .874 | .927 | .938 |
 | whisper-large-v3 | .168 | .923 | .862 | .918 | .930 |
 | whisper-large-v3-turbo | .127 | .916 | .824 | .912 | .925 |

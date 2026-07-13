@@ -35,7 +35,7 @@ same Soniox responses, oracle per-speaker references from each dataset's unflatt
 
 | corpus | n | audio | flat WER | cpWER | attribution cost |
 |---|---|---|---|---|---|
-| [PriMock57](../datasets/primock57.md) (room-mic, overlapping) | 57 | ~9 h | .1224 | .1164 | **−0.6 pt** |
+| [PriMock57](../datasets/primock57.md) (room-mic, overlapping) | 57 | ~9 h | .1224 | .1166 | **−0.6 pt** |
 | [Fareez/OSCE](../datasets/fareez-interviews.md) (clean turn-taking) | 272 | ~52 h | .0971 | .1016 | **+0.45 pt** |
 
 The sign flip is mechanistic, not noise. cpWER differs from flat WER in two opposing ways: it
@@ -67,6 +67,6 @@ diarizing backend or the Korean datasets make it consumable (see [status](../sta
 
 - [WER](../metrics/wer.md) — cpWER mechanism and implementation (`cpwer`, `cpwer_align`).
 - Probe design and gate logic: `docs/superpowers/specs/2026-07-09-diarization-cpwer-probe.md`.
-- Raw speaker-attributed outputs: `results/diarize-probe/primock57/soniox-stt-async-v5/`
-  (PriMock57 dumps) and `by_speaker` in
-  `results/transcripts/fareez-interviews/soniox-stt-async-v5/` (Fareez cache).
+- Raw speaker-attributed outputs: the `by_speaker` field in
+  `results/transcripts/{primock57,fareez-interviews}/soniox-stt-async-v5/` (one API call per
+  file produced both views). Scored offline by `scripts/score_cpwer.py`.
