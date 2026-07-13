@@ -1,6 +1,7 @@
 # Spec — Speaker-attribution (cpWER) probe on PriMock57
 
 **Status:** throwaway probe — results not committed to `findings/`, no permanent protocol change.
+*(2026-07-13: the no-findings rule is superseded — with the Fareez extension complete, the two-corpus result is recorded in `knowledge/findings/speaker-attribution-cost.md`. The no-protocol-change rule still holds.)*
 **Date:** 2026-07-09
 **Precedes:** a possible Fareez extension + permanent metric (gated on this probe looking good).
 

@@ -30,6 +30,7 @@ frontmatter; links are relative so they resolve on GitHub. Start here, then foll
 
 ## Findings & status
 - [Finding: medical-term recall](findings/medical-term-recall.md) — the headline result
+- [Finding: speaker-attribution cost](findings/speaker-attribution-cost.md) — attribution ≈ free on Soniox (single-backend case study)
 - [Project status](status.md) — live progress and open todos
 
 ## Runbooks

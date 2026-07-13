@@ -2,6 +2,11 @@
 
 Chronological history of this knowledge bundle (OKF reserved file).
 
+- **2026-07-13** — Added **`findings/speaker-attribution-cost.md`**, promoting the two-corpus
+  cpWER result out of status/log into a durable finding, framed as a depth-on-the-winner case
+  study (single backend, claim sized accordingly). Supersedes the probe spec's "numbers stay
+  out of findings/" rule (noted in the spec); linked from `index.md`.
+
 - **2026-07-11** — **Cross-family rerank confirmed on OSCE; finding updated.** `entity-score`
   over the four frozen manifests (no rebuild — manifests key on *reference* entities, already
   covering OSCE since the local round) put Soniox #1 on OSCE on every method (bc5cdr .964,
