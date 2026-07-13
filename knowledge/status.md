@@ -43,9 +43,10 @@ timestamp: 2026-07-11
 ## Open todos
 1. **[openrouter](entity-methods/openrouter.md) general-LLM foil** — add `OPENROUTER_API_KEY`,
    then bake-off + build. The last method (MedGemma already answered the specialized side).
-2. **gpt-4o-transcribe on OSCE** — skipped for now on cost (~$19: 51.9 h × $0.006/min); the
-   only absentee from the cross-family comparison. Revisit if a second API family becomes
-   worth the spend.
+2. **gpt-4o-transcribe-diarize** (OpenAI-direct only, not on OpenRouter) — the candidate second
+   diarizer for the [attribution finding](findings/speaker-attribution-cost.md)'s n=1-backend
+   limitation (~$22 both corpora), though Deepgram/AssemblyAI would be better second diarizers
+   once keys arrive. The *flat* gpt-4o gap is closed (run via OpenRouter credits, 2026-07-13).
 3. **Fuzzy entity matching** — current match is exact contiguous tokens (`ponytail:` note in
    `entity_score.py`); would recover reference-spelling/abbreviation misses that hit all models
    equally ("flem"→phlegm, "a and e"→A&E).

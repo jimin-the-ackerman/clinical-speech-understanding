@@ -76,8 +76,8 @@ survive. For a scribe, "no medical terms survived" is sharper than "97% WER".
 
 The same comparison on a second, very different clinical corpus:
 [OSCE / Fareez](../datasets/fareez-interviews.md) — 272 simulated patient–physician consultations
-(~51 h), clean Teams-recorded long-form dialogue, ~5× PriMock57's reference mass. Five of the six
-systems (gpt-4o-transcribe skipped on cost — ~$19 for the 51.9 h):
+(~51 h), clean Teams-recorded long-form dialogue, ~5× PriMock57's reference mass. All six systems
+(gpt-4o-transcribe routed via OpenRouter's transcription endpoint — same model, different billing):
 
 | model | WER ↓ | bc5cdr | med7 | stanza-i2b2 | medgemma |
 |---|---|---|---|---|---|
@@ -86,15 +86,17 @@ systems (gpt-4o-transcribe skipped on cost — ~$19 for the 51.9 h):
 | whisper-large-v3-turbo | .098 | .953 | .851 | .950 | .956 |
 | whisper-large-v3 | .143 | .952 | .862 | .947 | .952 |
 | qwen3-asr-0.6b | **.097** | .946 | .844 | .939 | .942 |
+| gpt-4o-transcribe | .148 | .935 | .861 | .922 | .931 |
 
 The finding **reproduces, cross-family**: Soniox is #1 on every one of the four methods — despite
-being in a dead heat with `qwen3-asr-0.6b` on WER (.0971 vs .0968) — and the WER co-winner is
-again the recall loser: `qwen3-asr-0.6b` ranks **last on all four** recall metrics. The top-2
-(soniox > qwen-1.7b) is identical on every method and matches PriMock57. The same rerank appearing
-on a corpus with different speakers, acoustics, and length is evidence the effect is a property of
-clinical transcription, not of PriMock57. (Data notes: med7 leaves 24/272 OSCE refs empty —
-legitimate, since med7 is sparse; the other three methods cover all 272. Two references shipped as
-UTF-16 and were mis-decoded until the loader was fixed — see
+being in a dead heat with `qwen3-asr-0.6b` on WER (.0971 vs .0968) — and the WER co-winners split
+to opposite ends of the recall table: `qwen3-asr-0.6b` ranks last or second-to-last on every
+method (it trades the bottom slot with gpt-4o, which is last on three of four — echoing its
+PriMock57 result). The top-2 (soniox > qwen-1.7b) is identical on every method and matches
+PriMock57. The same rerank appearing on a corpus with different speakers, acoustics, and length is
+evidence the effect is a property of clinical transcription, not of PriMock57. (Data notes: med7
+leaves 24/272 OSCE refs empty — legitimate, since med7 is sparse; the other three methods cover
+all 272. Two references shipped as UTF-16 and were mis-decoded until the loader was fixed — see
 [Fareez](../datasets/fareez-interviews.md).)
 
 ## Caveats (honest limits)
@@ -112,8 +114,6 @@ UTF-16 and were mis-decoded until the loader was fixed — see
 - **General-LLM foil ([openrouter](../entity-methods/openrouter.md)).** MedGemma is medically
   *specialized*. Does a *general* frontier model also rank Soniox #1? One extractor away — blocked
   only on an `OPENROUTER_API_KEY`.
-- **gpt-4o-transcribe on OSCE.** The one absentee from the replication table, skipped on cost
-  (~$19); revisit if a second API family becomes worth the spend.
 - **Fuzzy entity matching.** Would recover the spelling/abbreviation misses above.
 - **Phase 2 (Korean).** The harness, caching, and this metric carry over (swapping WER → CER).
 

@@ -8,6 +8,8 @@
 | gpt-4o-transcribe | meddialog-audio | white_noise_2 | 262 | 159 | 0.6069 |
 | gpt-4o-transcribe | meddialog-audio | white_noise_6 | 248 | 1 | 0.004 |
 | gpt-4o-transcribe | primock57 |  | 261 | 219 | 0.8391 |
+| gpt-4o-transcribe-openrouter | fareez-interviews |  | 886 | 763 | 0.8612 |
+| gpt-4o-transcribe-openrouter | primock57 |  | 5 | 5 | 1.0 |
 | qwen3-asr-0.6b | fareez-interviews |  | 886 | 748 | 0.8442 |
 | qwen3-asr-0.6b | meddialog-audio | background_noise_20 | 257 | 195 | 0.7588 |
 | qwen3-asr-0.6b | meddialog-audio | background_noise_40 | 246 | 201 | 0.8171 |

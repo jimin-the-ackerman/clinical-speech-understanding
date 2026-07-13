@@ -2,6 +2,15 @@
 
 Chronological history of this knowledge bundle (OKF reserved file).
 
+- **2026-07-13** — **gpt-4o on OSCE via OpenRouter; the 6-model cross-family table is complete.**
+  New transcriber `gpt-4o-transcribe-openrouter` (OpenRouter's OpenAI-compatible multipart
+  `/audio/transcriptions`; the documented chat-completions `input_audio` route 400s for this
+  model). Separate registry entry for provenance — spot-check showed the two routes give
+  near-but-not-identical transcripts (nondeterministic decode), so rows are not merged. 272/272,
+  ~$19 in credits: flat WER **0.1483** (worst on OSCE), recall last or second-to-last on all
+  four methods, echoing PriMock57. Soniox #1 unchanged; finding table updated to six models.
+  gpt-4o-diarize (OpenAI-direct only) noted in status as the candidate second diarizer.
+
 - **2026-07-13** — Added **`findings/speaker-attribution-cost.md`**, promoting the two-corpus
   cpWER result out of status/log into a durable finding, framed as a depth-on-the-winner case
   study (single backend, claim sized accordingly). Supersedes the probe spec's "numbers stay

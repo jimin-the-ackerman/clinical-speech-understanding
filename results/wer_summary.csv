@@ -8,6 +8,8 @@ gpt-4o-transcribe,meddialog-audio,white_noise_10,300,0,0,0.9717,0.0415
 gpt-4o-transcribe,meddialog-audio,white_noise_2,300,0,0,0.4096,0.0608
 gpt-4o-transcribe,meddialog-audio,white_noise_6,300,0,0,0.9609,0.0412
 gpt-4o-transcribe,primock57,,57,0,0,0.2168,0.0396
+gpt-4o-transcribe-openrouter,fareez-interviews,,272,0,0,0.1483,0.0314
+gpt-4o-transcribe-openrouter,primock57,,1,0,0,0.1434,0.0498
 qwen3-asr-0.6b,fareez-interviews,,272,0,0,0.0968,0.021
 qwen3-asr-0.6b,librispeech-test-other,,2939,0,0,0.0452,0.0369
 qwen3-asr-0.6b,meddialog-audio,background_noise_20,300,0,0,0.0251,0.0321
