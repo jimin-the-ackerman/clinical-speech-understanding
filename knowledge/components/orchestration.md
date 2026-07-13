@@ -3,7 +3,7 @@ type: Component
 title: Orchestration (runner.py)
 description: Cache-first, failure-as-data transcription driver; parallel for API models, serial for GPU.
 tags: [component, runner, orchestration, concurrency]
-timestamp: 2026-07-08
+timestamp: 2026-07-13
 ---
 
 # Orchestration — `runner.py`
@@ -11,7 +11,7 @@ timestamp: 2026-07-08
 Drives one model over a dataset's [records](../datasets/record-model.md).
 
 - `transcribe_record(t, rec, ...)` — **cache-first**: returns `"cached"` if the JSON already
-  exists (resumable, never double-bills). Else times `with_retries(t.transcribe)`, records
+  exists (resumable, never double-bills). Else times `with_retries(t.transcribe)` (a `(text, extras)` tuple return — Soniox `--diarize` — has its `extras` merged into the payload, e.g. `by_speaker`), records
   `audio_seconds`/`seconds` and a UTC `created_at`, and writes via
   [store](transcript-cache.md). **Failure is data**: any exception → `{failed: true,
   error: repr(e)}` with empty text, so one bad file never crashes a run.

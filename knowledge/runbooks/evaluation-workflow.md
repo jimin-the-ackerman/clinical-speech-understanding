@@ -3,7 +3,7 @@ type: Runbook
 title: Evaluation workflow
 description: Run scoring over cached transcripts and read the WER + medical-term-recall tables.
 tags: [runbook, scoring, evaluation]
-timestamp: 2026-07-08
+timestamp: 2026-07-13
 ---
 
 # Evaluation workflow
@@ -15,6 +15,7 @@ bare checkout.
 ```bash
 # WER
 uv run stt-eval score                      # -> results/wer_summary.{csv,md}, wer_per_file.csv
+uv run python scripts/score_cpwer.py       # cpWER vs flat WER from cached by_speaker (needs a --diarize run)
 
 # medical-term recall (per method): build a manifest (in a --with overlay), then score it
 uv run stt-eval entity-build --method bc5cdr --datasets primock57,meddialog-audio

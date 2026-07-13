@@ -2,6 +2,15 @@
 
 Chronological history of this knowledge bundle (OKF reserved file).
 
+- **2026-07-13** — Fixed bundle drift an `okf-freshness` audit surfaced (7 concepts lagging the
+  diarization/OpenRouter code): `models/soniox.md` (diarization bullet; recall claim widened to
+  both corpora), `datasets/fareez-interviews.md` (all six models done, `speaker_reference`
+  documented), `models/transcriber-protocol.md` (optional `(text, extras)` tuple return;
+  OpenRouter route in the backends line), `models/gpt-4o-transcribe.md` (second route via
+  OpenRouter, deletion-shaped clinical WER), `components/cli.md` (`--diarize` flag),
+  `components/orchestration.md` (extras merge), `runbooks/evaluation-workflow.md`
+  (`score_cpwer.py` line).
+
 - **2026-07-13** — **Diarization results unified in the transcript cache; probe retired.**
   Re-ran Soniox on PriMock57 via `stt-eval transcribe --diarize` (~$1; one run stalled midway on
   an exhausted Soniox balance — failed payloads were deleted and the run resumed after top-up),
