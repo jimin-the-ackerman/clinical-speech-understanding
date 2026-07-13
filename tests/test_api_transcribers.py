@@ -79,3 +79,26 @@ def test_deepgram_sends_flac_content_type(monkeypatch, tmp_path):
         })
 
     Deepgram(client=_client(handler)).transcribe(flac)
+
+
+def test_openrouter_transcribes_multipart(monkeypatch, wav):
+    from stt_eval.transcribers.openrouter_api import OpenRouterTranscribe
+
+    monkeypatch.setenv("OPENROUTER_API_KEY", "or-test")
+
+    def handler(request):
+        assert request.url.path == "/api/v1/audio/transcriptions"
+        assert request.headers["authorization"] == "Bearer or-test"
+        assert b"openai/gpt-4o-transcribe" in request.content
+        return httpx.Response(200, json={"text": "hello from openrouter"})
+
+    t = OpenRouterTranscribe(client=_client(handler))
+    assert t.transcribe(wav) == "hello from openrouter"
+
+
+def test_openrouter_missing_key_raises(monkeypatch):
+    from stt_eval.transcribers.openrouter_api import OpenRouterTranscribe
+
+    monkeypatch.delenv("OPENROUTER_API_KEY", raising=False)
+    with pytest.raises(MissingKeyError):
+        OpenRouterTranscribe()

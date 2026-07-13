@@ -42,6 +42,12 @@ def _assemblyai() -> Transcriber:
     return AssemblyAI()
 
 
+def _openrouter() -> Transcriber:
+    from stt_eval.transcribers.openrouter_api import OpenRouterTranscribe
+
+    return OpenRouterTranscribe()
+
+
 def _soniox() -> Transcriber:
     from stt_eval.transcribers.soniox_api import Soniox
 
@@ -54,6 +60,7 @@ REGISTRY: dict[str, Callable[[], Transcriber]] = {
     "qwen3-asr-0.6b": _qwen("Qwen/Qwen3-ASR-0.6B"),
     "qwen3-asr-1.7b": _qwen("Qwen/Qwen3-ASR-1.7B"),
     "gpt-4o-transcribe": _openai,
+    "gpt-4o-transcribe-openrouter": _openrouter,
     "deepgram-nova-3-medical": _deepgram,
     "assemblyai-universal-3-5-pro": _assemblyai,
     "soniox-stt-async-v5": _soniox,
